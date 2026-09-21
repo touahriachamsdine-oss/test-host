@@ -10,7 +10,8 @@ vi.mock('@/i18n/navigation', async () => {
   return {
     Link: ({ href, children, ...props }: { href: string; children: React.ReactNode }) =>
       React.createElement('a', { href: String(href), ...props }, children),
-    usePathname: () => '/'
+    usePathname: () => '/',
+    useRouter: () => ({ replace: vi.fn() })
   };
 });
 
