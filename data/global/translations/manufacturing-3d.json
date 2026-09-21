@@ -1,0 +1,640 @@
+{
+  "markforged": {
+    "ar": {
+      "name": "Markforged",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الطباعة ثلاثية الأبعاد للمواد المركبة والمعادن",
+      "short_description": "طابعات ثلاثية الأبعاد صناعية تعزّز الأجزاء بألياف الكربون المستمرة.",
+      "technology": "طباعة ألياف الكربون CFR وتشكيل المعادن بالطرق",
+      "why_relevant": "جعلت طباعة المعدن على أرض المصنع عمليّة في متناول أي مهندس.",
+      "history": "أسسها غريغوري مارك عام 2013 في ورشة قرب بوسطن بعد حملة تمويل جماعي على Kickstarter، وأطلق عام 2014 طابعة Mark One كأول طابعة صناعية لألياف الكربون المستمرة. توسّعت الشركة إلى المعادن عبر طابعة Metal X، وبنت منصة Eiger السحابية، ثم أدرجت أسهمها عام 2021 عبر اندماج SPAC في بورصة نيويورك. في عام 2025 استحوذت على أعمال Desktop Metal، موحّدة تقنيات البثق المنافسة ضمن محفظة عتاد أكثر تركيزًا.",
+      "hq_city": "ووترتاون، ماساتشوستس، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Markforged",
+      "country": "États-Unis",
+      "sub_domain": "Impression 3D composite et métal",
+      "short_description": "Imprimantes 3D industrielles qui renforcent les pièces avec de la fibre de carbone continue.",
+      "technology": "Impression CFR, forgeage du métal",
+      "why_relevant": "A rendu l'impression métal, à la portée de tout ingénieur, réelle sur les lignes d'usine.",
+      "history": "Fondée par Gregory Mark en 2013 dans un atelier de la région de Boston après une campagne Kickstarter, la société a lancé en 2014 la Mark One, première imprimante industrielle à fibre de carbone continue. Elle s'est étendue au métal avec la Metal X, a bâti la plateforme cloud Eiger et est entrée en Bourse en 2021 par une fusion SPAC à la NYSE. En 2025, elle a racheté l'activité Desktop Metal, consolidant des technologies d'extrusion concurrentes au sein d'un portefeuille matériel plus resserré.",
+      "hq_city": "Watertown, Massachusetts, États-Unis"
+    }
+  },
+  "carbon": {
+    "ar": {
+      "name": "Carbon",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التركيب الضوئي الرقمي",
+      "short_description": "طابعات راتنج ثلاثية الأبعاد سريعة صُمّمت للإنتاج لا للنماذج الأولية فحسب.",
+      "technology": "راتنجات CLIP/DLS",
+      "why_relevant": "أثبتت أن الطباعة ثلاثية الأبعاد يمكن أن تعمل على نفس خط الإنتاج الذي تعمل فيه القولبة بالحقن.",
+      "history": "تأسست في عام 2013 على يد جوزيف ديسيمون وأليكس إرموشكين وفيليب ديسيمون، وخرجت من أبحاث مرتبطة بجامعة ستانفورد ونشرت تقنية CLIP للواجهة السائلة المتصلة في مجلة Science عام 2015. فازت طابعات سلسلة M بعقود إنتاج مع آديداس وفورد وجنرال موتورز، وجمعت الشركة أكثر من 680 مليون دولار. بعد وفاة ديسيمون عام 2021، تفرّغت القيادة تحت رئاسة إلين كولمان وأطلقت منظومة SpeedCell. تبقى Carbon شركة خاصة تضع طباعة الراتنج بتقنية DLS في خطوط الإنتاج الحقيقية إلى جانب القولبة بالحقن.",
+      "hq_city": "ريدوود سيتي، كاليفورنيا، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Carbon",
+      "country": "États-Unis",
+      "sub_domain": "Synthèse numérique à la lumière (DLS)",
+      "short_description": "Des imprimantes 3D à résine rapides, conçues pour la production et pas seulement pour les prototypes.",
+      "technology": "Résines CLIP/DLS",
+      "why_relevant": "A prouvé que l'impression 3D peut s'intégrer à la même ligne de production que le moulage par injection.",
+      "history": "Fondée en 2013 par Joseph DeSimone, Alex Ermoshkin et Philip DeSimone, Carbon est issue de recherches liées à Stanford et a publié en 2015 dans Science son procédé CLIP d'interface liquide continue. Ses imprimantes de la série M ont décroché des contrats de production avec Adidas, Ford et General Motors, et la firme a levé plus de 680 millions de dollars. Après la disparition de DeSimone en 2021, le leadership s'est resserré autour de la présidente Ellen Kullman et de l'écosystème SpeedCell. Carbon reste une société privée qui positionne l'impression résine DLS aux côtés de l'injection plastique sur de vraies lignes de production.",
+      "hq_city": "Redwood City, Californie, États-Unis"
+    }
+  },
+  "photocentric": {
+    "ar": {
+      "name": "Photocentric",
+      "country": "المملكة المتحدة",
+      "sub_domain": "طباعة ثلاثية الأبعاد بتقنية LCD",
+      "short_description": "تصنّع طابعات راتنج ضوئي ثلاثية الأبعاد صناعية بنظام الأقنعة LCD إلى جانب راتنجاتها.",
+      "technology": "طباعة البوليمر الضوئي بتقنية LCD",
+      "why_relevant": "دليل على أن الطباعة بمصفوفات LCD يمكن أن ترتقي إلى إنتاج أجزاء بجودة المصانع.",
+      "history": "أسسها الأخوان هولت عام 2002 في بيتربورو، وبدأت الشركة متخصصة في مواد البوليمر الضوئي وليس الطابعات. نحو عام 2016 تحولت إلى الطباعة بتقنية LCD، فأطلقت طابعاتها من سلسلة Liquid Crystal وراتنجاتها فوق البنفسجية المتكاملة رأسياً التي سمحت للعملاء بالإنتاج الاقتصادي على نطاق واسع. تبعتها عقود في طب الأسنان والقوالب والسيارات مع توسع مصانعها في الخارج. لا تزال الشركة المملوكة عائلياً رائدة في إثبات أن مصفوفات LCD يمكن أن تنتج أجزاء بجودة المصانع، ومقرها في المدينة الإنجليزية التي بدأت فيها.",
+      "hq_city": "بيتربورو، إنجلترا، المملكة المتحدة"
+    },
+    "fr": {
+      "name": "Photocentric",
+      "country": "Royaume-Uni",
+      "sub_domain": "Impression 3D à écran LCD",
+      "short_description": "Conçoit des imprimantes 3D industrielles à photopolymère masque-LCD, ainsi que leurs résines.",
+      "technology": "Impression photopolymère à écran LCD",
+      "why_relevant": "La preuve que l'impression à panneaux LCD peut monter en cadence jusqu'à des pièces de niveau usine.",
+      "history": "Fondée en 2002 à Peterborough par les frères Holt, la société a débuté comme spécialiste des photopolymères plutôt que des imprimantes. Vers 2016, elle s'est tournée vers l'impression par écrans LCD, lançant ses machines Liquid Crystal et des résines UV intégrées verticalement, permettant aux clients de produire économiquement à grande échelle. Des contrats dans le dentaire, le moulage et l'automobile ont suivi, avec l'expansion d'usines à l'étranger. L'entreprise familiale reste une pionnière prouvant que les panneaux LCD peuvent produire des pièces de qualité usine, toujours basée dans la ville anglaise où elle a commencé.",
+      "hq_city": "Peterborough, Angleterre, Royaume-Uni"
+    }
+  },
+  "bambu-lab": {
+    "ar": {
+      "name": "Bambu Lab",
+      "country": "الصين",
+      "sub_domain": "طباعة FDM للمستهلكين",
+      "short_description": "طابعات core-XY ثلاثية الأبعاد فائقة السرعة للمستهلكين، قلبت سوق الهوايات رأسًا على عقب.",
+      "technology": "طباعة FDM متعددة الألوان بنظام AMS",
+      "why_relevant": "قدّمت سرعات وجودة غير مقيّدة جعلت الطباعة ثلاثية الأبعاد في متناول الجميع.",
+      "history": "تأسست في يونيو 2020 في شنتشن على يد الدكتور تاو يي، الرئيس التنفيذي السابق في شركة DJI، مع فريق من مهندسي الروبوتات والطائرات المسيّرة. أُطلقت طابعة X1 Carbon على Kickstarter عام 2022 وجمعت نحو سبعة ملايين دولار، تلتها عام 2023 سلسلة A1 الاقتصادية. أعادت منظومة AMS متعددة الألوان والبرمجيات عالية الجودة تشكيل سوق المستهلكين، ما ضغط على الشركات الراسخة لخفض الأسعار. تبقى الشركة مملوكة للقطاع الخاص ومن بين الأسرع نمواً عالمياً في قطاع الأجهزة، ومقرها في شنتشن.",
+      "hq_city": "شنتشن، قوانغدونغ، الصين"
+    },
+    "fr": {
+      "name": "Bambu Lab",
+      "country": "Chine",
+      "sub_domain": "FDM grand public",
+      "short_description": "Des imprimantes 3D grand public core-XY ultra-rapides qui ont bouleversé le marché du loisir.",
+      "technology": "FDM multicolore AMS",
+      "why_relevant": "A démocratisé des vitesses et une qualité débridées qui ont rendu l'impression 3D grand public.",
+      "history": "Fondée en juin 2020 à Shenzhen par le Dr Tao Ye, ancien dirigeant de DJI, avec une équipe d'ingénieurs en robotique et drones. Sa X1 Carbon lancée sur Kickstarter en 2022 a levé près de sept millions de dollars, suivie en 2023 de la gamme abordable A1. Le système multicolore AMS et des firmwares dignes d'appareils grand public ont remodelé le marché, poussant les acteurs établis à baisser leurs prix. L'entreprise reste privée et parmi les plus rapides au monde à se développer dans le matériel, toujours installée à Shenzhen.",
+      "hq_city": "Shenzhen, Guangdong, Chine"
+    }
+  },
+  "prusa-research": {
+    "ar": {
+      "name": "Prusa Research",
+      "country": "التشيك",
+      "sub_domain": "طباعة FDM مفتوحة المصدر",
+      "short_description": "طابعات ثلاثية الأبعاد مفتوحة المصدر بتوثيق وموثوقية استثنائيين.",
+      "technology": "FDM بعتاد مفتوح",
+      "why_relevant": "المعيار الأصلي للعتاد المفتوح «اطبع طابعتك» الذي تقتدي به الصناعة.",
+      "history": "أطلق جوزيف بروسا تصميمه مفتوح المصدر Prusa Mendel عام 2010 وأسس شركة Prusa Research عام 2012، منتجاً المجموعات من ورشة معاد استخدامها في براغ. أصبحت طابعة Original i3 أكثر الطابعات استنساخاً في القطاع، فيما حافظت أجيال مثل MK3 وMK4 والطابعة كبيرة الحجم XL على التفوق في الجودة والتوثيق. بفضل مصانعها في براغ وأكثر من ألف موظف، باعت الشركة ملايين الطابعات وتبقى أكبر صانع طابعات ثلاثية الأبعاد في أوروبا، ملتزمة بالعتاد مفتوح المصدر.",
+      "hq_city": "براغ، التشيك"
+    },
+    "fr": {
+      "name": "Prusa Research",
+      "country": "Tchéquie",
+      "sub_domain": "FDM open source",
+      "short_description": "Des imprimantes 3D open source à la documentation et à la fiabilité exemplaires.",
+      "technology": "FDM open hardware",
+      "why_relevant": "La référence originale « une imprimante qui en imprime une autre » en open hardware, largement copiée par l'industrie.",
+      "history": "Josef Prusa a publié son design open source Prusa Mendel en 2010 et a fondé Prusa Research en 2012, produisant des kits depuis un atelier réaménagé à Prague. L'Original i3 est devenue l'imprimante la plus clonée du secteur, tandis que des générations comme la MK3, la MK4 et la grand format XL ont conservé une avance en qualité et en documentation. Avec ses usines de Prague et plus de mille employés, l'entreprise a vendu des millions de machines et reste le plus grand fabricant européen d'imprimantes 3D, dédié à l'open hardware.",
+      "hq_city": "Prague, Tchéquie"
+    }
+  },
+  "velo3d": {
+    "ar": {
+      "name": "Velo3D",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التصنيع الإضافي المعدني للفضاء",
+      "short_description": "تطبع أجزاء الصواريخ والمحركات النفاثة التي لا تستطيع أي طابعة تعمل بطبقة المسحوق إنتاجها.",
+      "technology": "تصنيع إضافي معدني بالصهر السريع",
+      "why_relevant": "قطع معدنية معتمدة بالتصنيع الإضافي AM تحلّق داخل محركات الصواريخ والأقمار الصناعية.",
+      "history": "أسس بيني بولر شركة Velo3D عام 2014 في كامبل بولاية كاليفورنيا لحل حدود قابلية الطباعة في أنظمة المسحوق المعدنية. جمعت طابعة Sapphire التي أُطلقت عام 2018 بين المراقبة اللحظية وهندسات لا تحتاج دعامات لبناء أجزاء محركات صواريخ وتوربينات لا تستطيع أي آلة تقليدية إنتاجها؛ وكانت سبيس إكس وهانيويل ولام ريسيرتش من عملائها. أدرجت الشركة أسهمها عام 2021 ثم واجهت رياحاً معاكسة في السوق مع تسريحات وإعادة هيكلة الميزانية، بينما ظلت قاعدتها الفضائية المؤهلة تنتج أجزاء معتمدة.",
+      "hq_city": "كامبل، كاليفورنيا، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Velo3D",
+      "country": "États-Unis",
+      "sub_domain": "Fabrication additive métal pour l'aérospatiale",
+      "short_description": "Imprime des pièces de fusée et de réacteur qu'aucune imprimante à lit de poudre ne pouvait produire.",
+      "technology": "Fabrication additive métal par fusion rapide",
+      "why_relevant": "Des pièces métalliques certifiées en AM volent dans les moteurs de fusée et les satellites.",
+      "history": "Benny Buller a fondé Velo3D en 2014 à Campbell, en Californie, pour résoudre les limites d'imprimabilité des systèmes métalliques à lit de poudre. Son imprimante Sapphire, lancée en 2018, associait surveillance en temps réel et géométries sans supports pour construire des pièces de moteurs de fusée et de turbines qu'aucune machine conventionnelle ne pouvait produire ; SpaceX, Honeywell et Lam Research en sont devenus clients. Introduite en Bourse en 2021, la société a ensuite subi des vents contraires économiques, avec licenciements et restructuration du bilan, tandis que sa base installée aérospatiale qualifiée continuait de produire des pièces certifiées.",
+      "hq_city": "Campbell, Californie, États-Unis"
+    }
+  },
+  "vulcanforms": {
+    "ar": {
+      "name": "VulcanForms",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مصانع التصنيع الإضافي المعدني",
+      "short_description": "ترفع التصنيع الإضافي المعدني إلى مصانع رقمية تضم آلاف الطابعات.",
+      "technology": "تصنيع إضافي معدني عالي الإنتاجية",
+      "why_relevant": "تطرح التصنيع الإضافي كبنية تحتية صناعية وليس مجرد طابعة واحدة.",
+      "history": "أسسها الأخوان فيلدمان وزملاؤهما من معهد ماساتشوستس للتكنولوجيا عام 2015، بعد سنوات من تطوير عملية طباعة على طبقة مسحوق بأشعة ليزر متوازية على نطاق واسع. تنتج أنظمتها المثبتة في مصنعها في ديفينز بولاية ماساتشوستس أجزاء معدنية معتمدة بسرعات قريبة من التقليدية لقطاعات الطب والفضاء والطاقة. بدعم من بعض أكبر جولات التمويل الخاص في التصنيع الإضافي المعدني، بما فيها جولة بنحو 350 مليون دولار قادتها GV، تقدم الشركة نفسها كبنية تحتية رقمية للمعادن لا مجرد مورّد طابعات.",
+      "hq_city": "ديفينز، ماساتشوستس، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "VulcanForms",
+      "country": "États-Unis",
+      "sub_domain": "Usines de fabrication additive métal",
+      "short_description": "Fait passer la fabrication additive métal à l'échelle de milliers d'imprimantes au sein d'usines numériques.",
+      "technology": "Fabrication additive métal à haut débit",
+      "why_relevant": "Positionne l'additive comme un outil d'infrastructure, pas comme une simple imprimante.",
+      "history": "Fondée en 2015 par les frères Feldmann et des collaborateurs du MIT, la société a développé pendant des années un procédé laser sur lit de poudre à faisceaux massivement parallèles. Installés dans son usine de Devens, dans le Massachusetts, ses systèmes produisent des pièces métalliques certifiées à des cadences proches du conventionnel pour la médecine, l'aérospatiale et l'énergie. Soutenue par certaines des plus grandes levées privées de l'additive métal, dont un tour d'environ 350 millions de dollars mené par GV, l'entreprise se présente comme une infrastructure numérique du métal plutôt qu'un vendeur d'imprimantes.",
+      "hq_city": "Devens, Massachusetts, États-Unis"
+    }
+  },
+  "nexa3d": {
+    "ar": {
+      "name": "Nexa3D",
+      "country": "الولايات المتحدة",
+      "sub_domain": "طباعة الراتنج السريعة",
+      "short_description": "طباعة راتنج فائقة السرعة بفضل فحصها الجزيئي Nimble.",
+      "technology": "الطباعة الحجرية الضوئية المقنعة + LSPc",
+      "why_relevant": "تحوّل إنتاج قطع الراتنج من ساعات إلى دقائق في دفعات الإنتاج.",
+      "history": "انطلقت الشركة في 2018 في فينتورا بولاية كاليفورنيا، بتأسيس شارك فيه الرئيس التنفيذي السابق لشركة 3D Systems أفي ريتشنتال لإعادة اختراع إنتاجية الراتنج. استخدمت طابعة NXE400 المقدمة عام 2019 عملية المعالجة الضوئية بالطبقة السفلية المزلقة LSPc لإنتاج أجزاء الراتنج في دقائق بدل ساعات. في 2022 استحوذت على Essentium لدخول البوليمرات عالية الجودة، موسعة محفظتها بأنظمة صناعية سريعة بينما تجاوزت أزمة رأس المال التي أعادت تشكيل عدة شركات تصنيع إضافي.",
+      "hq_city": "فينتورا، كاليفورنيا، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Nexa3D",
+      "country": "États-Unis",
+      "sub_domain": "Impression résine rapide",
+      "short_description": "Une impression résine à grande vitesse rendue possible par son écran moléculaire Nimble.",
+      "technology": "Stéréolithographie masquée + LSPc",
+      "why_relevant": "Raccourcit la production de pièces en résine de plusieurs heures à quelques minutes.",
+      "history": "Lancée en 2018 à Ventura, en Californie, Nexa3D a été cofondée par l'ancien directeur général de 3D Systems, Avi Reichental, pour réinventer le débit de l'impression résine. Sa NXE400, présentée en 2019, utilisait le procédé LSPc de photopolymérisation à sous-couche lubrifiante pour produire des pièces en résine en quelques minutes plutôt qu'en heures. En 2022, la société a racheté Essentium pour entrer dans les polymères de qualité production, élargissant sa gamme à des systèmes industriels rapides tout en traversant la crise de financement qui a remodelé plusieurs fabricants d'additive.",
+      "hq_city": "Ventura, Californie, États-Unis"
+    }
+  },
+  "seurat-technologies": {
+    "ar": {
+      "name": "Seurat Technologies",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التصنيع الإضافي المعدني",
+      "short_description": "عملية Pixelfore تطبع أجزاء معدنية بسرعات تقليدية.",
+      "technology": "دمج المعادن بمناطق البكسل بالليزر",
+      "why_relevant": "تدّعي منحنى تكلفة يجعل التصنيع الإضافي أقل تكلفة من السباكة.",
+      "history": "أخرج جيمس ديموث وإريك تومر شركة Seurat من مختبر لورانس ليفرمور الوطني عام 2015 لتسويق الطباعة القائمة على المساحات التي تدمج بكسلات ليزر متعددة دفعة واحدة. تستهدف عملية Pixelfore فجوة التكلفة والإنتاجية أمام الصب، ووقعت الشركة اتفاقيات توريد مع Arconic وشركاء صناعيين آخرين بينما جمعت مئات الملايين نحو مصنع واسع النطاق. مقرها في ويلمنغتون بولاية ماساتشوستس، وتقدّم Seurat نفسها منصة تصنيع المعادن على نطاق المرافق للصناعات الخضراء والدقيقة.",
+      "hq_city": "ويلمنغتون، ماساتشوستس، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Seurat Technologies",
+      "country": "États-Unis",
+      "sub_domain": "Fabrication additive métal",
+      "short_description": "Le procédé Pixelfore imprime des pièces métalliques à des cadences traditionnelles.",
+      "technology": "Fusion métal par zones de pixels laser",
+      "why_relevant": "Revendique une courbe de coût qui permet à l'additive d'être moins chère que la fonderie.",
+      "history": "James DeMuth et Erik Toomre ont essaimé Seurat hors du Lawrence Livermore National Laboratory en 2015 pour commercialiser l'impression par zones, qui fusionne de nombreux pixels laser à la fois. Son procédé Pixelfore cible l'écart de coût et de débit face à la fonderie ; la société a signé des accords d'approvisionnement avec Arconic et d'autres partenaires industriels tout en levant des centaines de millions vers une usine à grande échelle. Basée à Wilmington, dans le Massachusetts, Seurat se positionne comme la plateforme de fabrication du métal à échelle utilitaire pour les industries vertes et de précision.",
+      "hq_city": "Wilmington, Massachusetts, États-Unis"
+    }
+  },
+  "icon": {
+    "ar": {
+      "name": "ICON",
+      "country": "الولايات المتحدة",
+      "sub_domain": "منازل مطبوعة ثلاثية الأبعاد",
+      "short_description": "تبني منازل خرسانية عبر الطباعة ثلاثية الأبعاد الروبوتية في وقت قياسي.",
+      "technology": "بناء بتصنيع إضافي كبير الحجم",
+      "why_relevant": "طبعت أول منزل مرخّص في الولايات المتحدة، وقرى تستحق العيش فيها على الأرض وعلى القمر.",
+      "history": "أسس جيسون بالارد وإيفان لوميس وأليكس لورو شركة ICON عام 2017 في أوستن بولاية تكساس لطباعة المنازل بسرعة وتكلفة معقولة. بُني أول منزل مطبوع ثلاثي الأبعاد مرخص في أوستن عام 2018، تلته طابعة Vulcan ومشاريع على مستوى القرى في المكسيك وتكساس، وعقد مع ناسا لاختبار البناء القمري بنظام Olympus. بعد الاستحواذ على الشركة الهولندية Stadler المتخصصة في البناء الروبوتي، واصلت ICON توسيع منازلها الروبوتية بينما تدفع رؤيتها من الأرض نحو مساكن خارج كوكبها.",
+      "hq_city": "أوستن، تكساس، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "ICON",
+      "country": "États-Unis",
+      "sub_domain": "Maisons imprimées en 3D",
+      "short_description": "Construit des maisons en béton par impression 3D robotisée en un temps record.",
+      "technology": "Construction AM grand format",
+      "why_relevant": "A imprimé la première maison américaine autorisée, et rêve de villages habitables sur Terre et sur la Lune.",
+      "history": "Jason Ballard, Evan Loomis et Alex LeRoux ont fondé ICON en 2017 à Austin, au Texas, pour imprimer des maisons rapidement et à coût abordable. Sa première maison autorisée, imprimée en 3D à Austin en 2018, a été suivie de l'imprimante Vulcan, de projets villageois au Mexique et au Texas, et d'un contrat NASA pour tester la construction lunaire avec le système Olympus. Après le rachat de la société néerlandaise de construction robotisée Stadler, ICON a continué d'étendre ses maisons robotisées tout en poussant sa vision, de la Terre aux habitats hors planète.",
+      "hq_city": "Austin, Texas, États-Unis"
+    }
+  },
+  "xometry": {
+    "ar": {
+      "name": "Xometry",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سوق إلكتروني للتصنيع",
+      "short_description": "تربط المهندسين بمورّدي CNC والصفائح المعدنية والطباعة ثلاثية الأبعاد بعروض أسعار فورية.",
+      "technology": "شبكة تصنيع بعروض أسعار بالذكاء الاصطناعي",
+      "why_relevant": "منحت كل مصمم شبكة مصانع عالمية خلف عملية رفع واحدة.",
+      "history": "أسس راندي ألتشولر ولورانس فورمان شركة Xometry عام 2013 في ضواحي واشنطن بولاية ماريلاند، بناءً على محرك تسعير فوري بالذكاء الاصطناعي للتصنيع المخصص. ربطت المنصة شبكة موردي CNC والصفائح المعدنية والطباعة ثلاثية الأبعاد خلف عملية رفع واحدة، وأدرجت أسهمها في ناسداك عام 2021، في السنة نفسها التي استحوذت فيها على Thomas. وسّعت الصفقات اللاحقة انتشارها في أوروبا، واليوم تعالج الشركة المقيمة في نورث بيتيسدا عشرات آلاف عروض الأسعار أسبوعياً كمعمل عالمي موزع.",
+      "hq_city": "نورث بيتيسدا، ماريلاند، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Xometry",
+      "country": "États-Unis",
+      "sub_domain": "Place de marché de la fabrication",
+      "short_description": "Met en relation les ingénieurs avec des fournisseurs de CNC, tôlerie et impression 3D au devis instantané.",
+      "technology": "Réseau de fabrication à devis par IA",
+      "why_relevant": "A donné à chaque designer un réseau d'usines mondial derrière un simple upload.",
+      "history": "Randy Altschuler et Lawrence Furman ont fondé Xometry en 2013 dans la banlieue de Washington, dans le Maryland, autour d'un moteur de devis instantané par IA pour la fabrication sur mesure. La place de marché a relié les fournisseurs de CNC, tôlerie et impression 3D derrière un seul upload, et Xometry est entrée au Nasdaq en 2021, l'année même de l'acquisition de Thomas. Des accords ultérieurs ont étendu son empreinte en Europe ; aujourd'hui, la société, basée à North Bethesda, traite des dizaines de milliers de devis chaque semaine, telle une usine mondiale distribuée.",
+      "hq_city": "North Bethesda, Maryland, États-Unis"
+    }
+  },
+  "fictiv": {
+    "ar": {
+      "name": "Fictiv",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سلسلة التوريد",
+      "short_description": "شبكة مُدارة لأجزاء النماذج الأولية والإنتاج بسرعة.",
+      "technology": "التصميم للتصنيع DFM + تنسيق الموردين",
+      "why_relevant": "تحوّل شراء الأجزاء من جدول بيانات إلى واجهة API.",
+      "history": "أسس الأخوان ديف ونيت إيفانز مع جوناثان شوارتز شركة Fictiv عام 2013 في سان فرانسيسكو لتحديث عملية توريد الأجزاء. دعمت المنصة بالتسعير الفوري وتغذية راجعة بمعايير DFM وشبكة موردين مدارة بتمويل استثماري وفير، وتوسعت من النماذج الأولية إلى الإنتاج بكميات صغيرة عبر مصانع في الولايات المتحدة والصين والهند. أضافت Fictiv منذ ذلك الحين منتجات للطلب التنبؤي والتحليلات، جاعلةً سلسلة توريدها القائمة على واجهات برمجية الخلفية البرمجية القابلة للبرمجة لفرق الأجهزة حول العالم.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Fictiv",
+      "country": "États-Unis",
+      "sub_domain": "Chaîne d'approvisionnement",
+      "short_description": "Un réseau géré pour des pièces prototypes et de série rapides.",
+      "technology": "DFM + orchestration des fournisseurs",
+      "why_relevant": "Transforme l'approvisionnement en pièces : d'un tableur, on passe à une API.",
+      "history": "Les frères Dave et Nate Evans, avec Jonathan Schwartz, ont fondé Fictiv en 2013 à San Francisco pour moderniser l'approvisionnement en pièces. Sa plateforme de devis instantané, de retours DFM et de réseau fournisseur géré a été portée par un capital-risque abondant, passant du prototypage à la petite série dans des usines aux États-Unis, en Chine et en Inde. Fictiv a depuis ajouté des produits d'ordonnancement prédictif et d'analytique, faisant de sa chaîne d'approvisionnement API-first le back-end programmable des équipes hardware du monde entier.",
+      "hq_city": "San Francisco, Californie, États-Unis"
+    }
+  },
+  "instrumental": {
+    "ar": {
+      "name": "Instrumental",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الذكاء الاصطناعي للتصنيع",
+      "short_description": "ذكاء اصطناعي يلتقط العيوب على خطوط التجميع أثناء دورات الإنتاج.",
+      "technology": "تعلم آلي للفحص البصري",
+      "why_relevant": "تكتشف كل وحدة معيبة دون الحاجة لمهندس جودة في الموقع.",
+      "history": "أسست آنا-كاترينا شدليتسكي، مهندسة أبل السابقة، وصامويل فايس من سبيس إكس شركة Instrumental عام 2015 لتطبيق الذكاء الاصطناعي على تصنيع المنتجات. تتعلم أنظمة الرؤية الحاسوبية فيها الحالة السليمة للمنتج أثناء التشغيل وترصد العيوب في الوقت الفعلي، لتحل محل الفحص اليدوي على خطوط التجميع. اعتمدتها كبرى العلامات الاستهلاكية، ووسعت منصتها EagleShot للفحص البصري وتحليل أعطال التصنيع، وتبقى شركة مستقلة ممولة جيداً مقرها بالو ألتو.",
+      "hq_city": "بالو ألتو، كاليفورنيا، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Instrumental",
+      "country": "États-Unis",
+      "sub_domain": "IA pour la fabrication",
+      "short_description": "Une IA qui détecte les défauts sur les chaînes d'assemblage en pleine production.",
+      "technology": "ML de détection visuelle des défauts",
+      "why_relevant": "Repère chaque unité défectueuse, sans ingénieur qualité sur site.",
+      "history": "Anna-Katrina Shedletsky, ancienne ingénieure Apple, et Samuel Weiss, venu de SpaceX, ont fondé Instrumental en 2015 pour appliquer l'IA à la fabrication de produits. Ses systèmes de vision apprennent l'état correct d'un produit pendant la montée en cadence et signalent les défauts en temps réel, remplaçant l'inspection qualité manuelle sur les chaînes d'assemblage. Adoptée par de grandes marques d'électronique grand public, la société a élargi sa plateforme EagleShot à l'inspection visuelle et à l'analyse des défaillances, tout en restant une société indépendante, bien financée, basée à Palo Alto.",
+      "hq_city": "Palo Alto, Californie, États-Unis"
+    }
+  },
+  "sight-machine": {
+    "ar": {
+      "name": "Sight Machine",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بيانات المصانع",
+      "short_description": "تحوّل بيانات حساسات المصنع إلى توأم رقمي حي لعملية الإنتاج.",
+      "technology": "تحليلات إنترنت الصناعة IoT",
+      "why_relevant": "عقل رقمي واحد يربط عشرات الآلاف من آلات المصانع.",
+      "history": "أسس جون سوبل وناثان أوستندورب Sight Machine عام 2011 في سان فرانسيسكو، ثم نقلا مقرها إلى آن أربور بولاية ميشيغان للاقتراب من المصنعين. تبتلع منصتها FactoryTwin ملايين نقاط بيانات الحساسات لكل آلة وتبني توأماً رقمياً حياً لكل محطة، مانحةً فرق الجودة رؤية سياقية لحظية. مع عشرات النشرات لدى شركات Fortune 500 وتحالفات مع مايكروسوفت أزور وأوراكل وفوجيتسو، تحوّل Sight Machine بيانات المصانع إلى عقل تشغيلي متصل عبر منشآت العالم.",
+      "hq_city": "آن أربور، ميشيغان، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Sight Machine",
+      "country": "États-Unis",
+      "sub_domain": "Données d'usine",
+      "short_description": "Transforme les données des capteurs d'usine en jumeau numérique vivant de la production.",
+      "technology": "Analytique IoT industriel",
+      "why_relevant": "Un cerveau numérique unique reliant des dizaines de milliers de machines d'usine.",
+      "history": "Jon Sobel et Nathan Oostendorp ont fondé Sight Machine en 2011 à San Francisco, avant de déplacer le siège à Ann Arbor, dans le Michigan, pour se rapprocher des industriels. Sa plateforme FactoryTwin ingère des millions de points de données capteurs par machine et construit un jumeau numérique vivant de chaque station, donnant aux équipes qualité une vision contextuelle en temps réel. Forte de dizaines de déploiements chez des sociétés du Fortune 500 et d'alliances avec Microsoft Azure, Oracle et Fujitsu, Sight Machine transforme la donnée d'usine en cerveau opérationnel continu à travers les sites du monde entier.",
+      "hq_city": "Ann Arbor, Michigan, États-Unis"
+    }
+  },
+  "zetwerk": {
+    "ar": {
+      "name": "Zetwerk",
+      "country": "الهند",
+      "sub_domain": "التصنيع التعاقدي",
+      "short_description": "سوق إلكترونية تربط شركات المعدات الأصلية OEM بمصانع معتمدة في جميع أنحاء الهند.",
+      "technology": "سوق تصنيع + مراقبة الجودة QA",
+      "why_relevant": "أعادت بناء سلسلة التوريد الصناعية الهندية بقيمة مليارات في قيمة البضائع GMV.",
+      "history": "أسس أمريت أشاريا وسريناث راماكريشنان وفيشنال تشودري وراهول شارما شركة Zetwerk عام 2018 في بنغالور لتنظيم قطاع التصنيع التعاقدي المجزأ في الهند. توسعت سوق الموردين المعتمدين وعمليات الجودة الداخلية بسرعة عبر الهندسة الثقيلة والإلكترونيات والفضاء، فيما أضاف الطلب عبر الحدود زخماً. بدعم قارب على 700 مليون دولار، أغلقت Zetwerk جولة بقيمة 120 مليون دولار عام 2024، وتصنف الآن بين أكثر شركات تصنيع B2B قيمة في الهند.",
+      "hq_city": "بنغالور، كارناتاكا، الهند"
+    },
+    "fr": {
+      "name": "Zetwerk",
+      "country": "Inde",
+      "sub_domain": "Fabrication à façon",
+      "short_description": "Place de marché mettant en relation les OEM avec des usines certifiées à travers l'Inde.",
+      "technology": "Place de marché du manufacturing + contrôle qualité",
+      "why_relevant": "A reconstruit l'offre industrielle indienne, avec des milliards en GMV.",
+      "history": "Amrit Acharya, Srinath Ramakkrishnan, Vishal Chaudhary et Rahul Sharma ont fondé Zetwerk en 2018 à Bengaluru pour organiser la sous-traitance fragmentée de l'Inde. Sa place de marché de fournisseurs certifiés et ses opérations qualité internes ont monté vite dans l'ingénierie lourde, l'électronique et l'aérospatiale, la demande transfrontalière ajoutant de l'élan. Fort d'un financement de près de 700 millions de dollars, Zetwerk a bouclé un tour de 120 millions en 2024 et compte désormais parmi les sociétés B2B de fabrication les plus valorisées d'Inde.",
+      "hq_city": "Bengaluru, Karnataka, Inde"
+    }
+  },
+  "divergent3d": {
+    "ar": {
+      "name": "Divergent3D",
+      "country": "الولايات المتحدة",
+      "sub_domain": "هياكل مركبات بالتصنيع الإضافي",
+      "short_description": "تؤتمت تصميم هيكل السيارة والطباعة ثلاثية الأبعاد لصالح شركات OEM.",
+      "technology": "هياكل إضافية بتقنية Autoforge",
+      "why_relevant": "قد يحلّ التجميع الروبوتي للعُقد المطبوعة محل ملايين وظائف اللحام.",
+      "history": "أسس كيفن تسينجر وابنه لوكاس شركة Divergent3D عام 2014 في تورانس بولاية كاليفورنيا لاستبدال هياكل السيارات الملحومة بهياكل مصممة حسابياً ومطبوعة ومجمعة. أظهر هيكل سيارة Blade التجريبي عام 2015 أن النهج قد يكون خفيفاً وآمناً، وفازت منصتها البرمجية Autoforge لاحقاً بعقود منها برنامج رئيسي لأستون مارتن. عرضت سيارة Czinger 21C الخارقة التقنية من البداية إلى النهاية، بينما توسعت المنصة نحو تطبيقات الدفاع والفضاء.",
+      "hq_city": "تورانس، كاليفورنيا، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Divergent3D",
+      "country": "États-Unis",
+      "sub_domain": "Structures véhicules additives",
+      "short_description": "Automatise la conception et l'impression 3D des châssis de véhicules pour les OEM.",
+      "technology": "Structures additives Autoforge",
+      "why_relevant": "L'assemblage robotisé de nœuds imprimés pourrait remplacer des millions d'emplois de soudure.",
+      "history": "Kevin Czinger et son fils Lukas ont fondé Divergent3D en 2014 à Torrance, en Californie, pour remplacer les carrosseries soudées par des structures conçues par algorithme, imprimées puis assemblées. Le châssis démonstrateur de la supercar Blade, en 2015, a montré que l'approche pouvait être légère et sûre, et la plateforme logicielle Autoforge a ensuite décroché des contrats, dont un programme phare d'Aston Martin. L'hypercar Czinger 21C a illustré la technologie de bout en bout, tandis que la plateforme s'étendait vers la défense et l'aérospatiale.",
+      "hq_city": "Torrance, Californie, États-Unis"
+    }
+  },
+  "fortify": {
+    "ar": {
+      "name": "Fortify",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التصنيع الإضافي المغناطيسي",
+      "short_description": "توجّه الجسيمات المغناطيسية أثناء طباعة الراتنج لأجزاء الراديو.",
+      "technology": "طباعة الراتنج الموجهة بالمجال المغناطيسي",
+      "why_relevant": "تطبع إلكترونيات RF وظيفية وليست مجرد نماذج مرئية.",
+      "history": "أسس جوش مارتن وكارلو ديلوس رايس شركة Fortify عام 2016 انطلاقاً من جامعة نورث إيسترن في بوسطن، لتسويق الطباعة المركبة بالبوليمر المتدفق. توجه عملية التصنيع المركب الرقمي الجسيمات المغناطيسية الدقيقة خلال كل طبقة، ما يسمح لآلة واحدة بضبط الخواص الميكانيكية والحرارية والكهرومغناطيسية لمكونات الراديو المطبوعة. جمعت Fortify عشرات الملايين من مستثمرين بينهم Neotribe، وفازت بأعمال إنتاج في الهوائيات والأدوات الإضافية، وتبقي أبحاثها ومقرها في بوسطن.",
+      "hq_city": "بوسطن، ماساتشوستس، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Fortify",
+      "country": "États-Unis",
+      "sub_domain": "Fabrication additive magnétique",
+      "short_description": "Oriente les particules magnétiques pendant l'impression résine des pièces radio.",
+      "technology": "Impression résine guidée par champ magnétique",
+      "why_relevant": "Imprime des composants RF fonctionnels, et pas seulement des prototypes visuels.",
+      "history": "Josh Martin et Karlo Delos Reyes ont fondé Fortify en 2016, issus de la Northeastern University de Boston, pour commercialiser l'impression composite à flux polymère. Son procédé Digital Composite Manufacturing oriente les microparticules magnétiques à chaque couche, permettant à une seule machine d'ajuster les propriétés mécaniques, thermiques et électromagnétiques de composants radio imprimés. Fortify a levé des dizaines de millions auprès d'investisseurs dont Neotribe, remporté de la production en antennes et outillage additif, et conserve recherche et siège à Boston.",
+      "hq_city": "Boston, Massachusetts, États-Unis"
+    }
+  },
+  "mosaic-manufacturing": {
+    "ar": {
+      "name": "Mosaic Manufacturing",
+      "country": "كندا",
+      "sub_domain": "طباعة الحبيبات الصناعية",
+      "short_description": "تحوّل الحبيبات البلاستيكية الصناعية إلى مطبوعات FDM على منصات قابلة للتسخين.",
+      "technology": "FDM ببثق الحبيبات",
+      "why_relevant": "تخفض تكلفة المواد باستخدام الحبيبات مع الحفاظ على جودة الطباعة.",
+      "history": "بدأت Mosaic Manufacturing عام 2016 في تورونتو كفريق من طلاب الهندسة، وجمعت طابعة Palette خيوطاً متعددة في خيط واحد، مضيفةً الطباعة متعددة الألوان إلى طابعات FDM العادية. نمت الشركة نحو الأنظمة الصناعية، مطورةً طارد الحبيبات Element HT لطباعة مواد هندسية من حبيبات منخفضة التكلفة على أسرّة ساخنة. بدعم من التمويل الاستثماري الكندي، تبيع Mosaic الآن اشتراكات عتاد وبرمجيات لورش العمل والمربين، مجسدةً الانتقال من طابعات خيوط المستهلكين إلى البثق بمستوى المصانع.",
+      "hq_city": "تورونتو، أونتاريو، كندا"
+    },
+    "fr": {
+      "name": "Mosaic Manufacturing",
+      "country": "Canada",
+      "sub_domain": "Impression industrielle à granulés",
+      "short_description": "Transforme les granulés de grade industriel en impressions FDM sur plateaux chauffants.",
+      "technology": "FDM par extrusion de granulés",
+      "why_relevant": "Réduit le coût matière grâce aux granulés, sans sacrifier la qualité d'impression.",
+      "history": "Mosaic Manufacturing a démarré en 2016 à Toronto comme une équipe d'étudiants en ingénierie dont la Palette fusionnait plusieurs filaments en un seul, ajoutant l'impression multicolore aux machines FDM ordinaires. L'entreprise est montée vers les systèmes industriels en développant l'extrudeuse à granulés Element HT pour imprimer des matériaux techniques à partir de granulés économiques sur plateaux chauffants. Soutenue par le capital-risque canadien, Mosaic vend désormais matériel et abonnements logiciels aux ateliers et aux éducateurs, symbole du passage des imprimantes grand public à l'extrusion de niveau usine.",
+      "hq_city": "Toronto, Ontario, Canada"
+    }
+  },
+  "anycubic": {
+    "ar": {
+      "name": "Anycubic",
+      "country": "الصين",
+      "sub_domain": "طباعة ثلاثية الأبعاد للمستهلكين",
+      "short_description": "طابعات راتنج وFDM بأسعار معقولة انتشرت مع موجة الهوايات.",
+      "technology": "راتنج LCD اقتصادي",
+      "why_relevant": "حدّدت سعر طباعة الراتنج بما يكفي لدخول البيوت العادية.",
+      "history": "تأسست Anycubic عام 2015 في شنتشن خلال طفرة التصنيع المكتبي في الصين، محققةً حضوراً مبكراً على منصات التمويل الجماعي بطابعات FDM منخفضة التكلفة. أدخلت سلسلة Photon المنطلقة من 2017 طباعة الراتنج الاستهلاكية إلى جمهور واسع بأسعار كسرت حاجز دخول الهواة، ودفعت طابعات لاحقة مثل M5 بالدقة والسرعة إلى مستويات أبعد. ضمن أكبر مصنعي طابعات المستهلكين حجماً في العالم، تجمع Anycubic بين نطاق شنتشن وشبكة بيع عالمية وتبقى شركة خاصة.",
+      "hq_city": "شنتشن، قوانغدونغ، الصين"
+    },
+    "fr": {
+      "name": "Anycubic",
+      "country": "Chine",
+      "sub_domain": "Impression 3D grand public",
+      "short_description": "Des imprimantes résine et FDM abordables qui ont explosé avec la vague du loisir.",
+      "technology": "Résine LCD économique",
+      "why_relevant": "A fixé des prix assez bas pour faire entrer l'impression résine dans les foyers.",
+      "history": "Anycubic a été fondée en 2015 à Shenzhen pendant le boom de la fabrication de bureau en Chine, se faisant connaître sur les plateformes de financement participatif avec des machines FDM abordables. Sa série Photon, lancée à partir de 2017, a popularisé l'impression résine grand public à des prix qui ont cassé la barrière d'entrée des passionnés, et des machines comme la M5 ont encore repoussé résolution et vitesse. Parmi les plus grands fabricants grand public en volume, Anycubic allie l'échelle de Shenzhen à un réseau de vente mondial et reste privée.",
+      "hq_city": "Shenzhen, Guangdong, Chine"
+    }
+  },
+  "creality": {
+    "ar": {
+      "name": "Creality",
+      "country": "الصين",
+      "sub_domain": "طباعة FDM للمستهلكين",
+      "short_description": "تُطلق سلسلة Ender، الأكثر مبيعًا بين طابعات المستهلكين ثلاثية الأبعاد.",
+      "technology": "FDM بهيكل مفتوح",
+      "why_relevant": "علّمت سلسلة توريد Ender ملايين الأشخاص الطباعة في منازلهم.",
+      "history": "بدأت Creality عام 2014 في شنتشن مع فريق صغير من المهندسين حققت طابعتهم CR-10 اختراقاً في سوق الشكل المفتوح. أصبحت Ender-3 عام 2018 الأكثر مبيعاً على الإطلاق في طابعات المستهلكين، مولدةً نظاماً بيئياً واسعاً من النواقل، وحافظت طرازات لاحقة مثل Ender-3 V2 وV3 وسلسلة K على الزخم. تعد Creality اليوم من أكبر منتجي طابعات الهواة في العالم، ببيعها عشرات ملايين الوحدات، وتتوسع في الراتنج والأنظمة شبه الاحترافية من قاعدتها في شنتشن.",
+      "hq_city": "شنتشن، قوانغدونغ، الصين"
+    },
+    "fr": {
+      "name": "Creality",
+      "country": "Chine",
+      "sub_domain": "FDM grand public",
+      "short_description": "Commercialise la série Ender, la gamme d'imprimantes 3D grand public la plus vendue.",
+      "technology": "FDM à châssis ouvert",
+      "why_relevant": "La filière Ender a appris à des millions de personnes à imprimer chez eux.",
+      "history": "Creality a commencé en 2014 à Shenzhen avec une petite équipe d'ingénieurs dont la CR-10 a percé dans le format à bâti ouvert. L'Ender-3, en 2018, est devenue l'imprimante 3D grand public la plus vendue de tous les temps, engendrant un vaste écosystème de clones, et des modèles comme l'Ender-3 V2, la V3 et la série K ont entretenu l'élan. Creality est aujourd'hui l'un des plus grands producteurs mondiaux de machines de loisir, avec des dizaines de millions d'unités vendues, tout en s'étendant vers la résine et les gammes semi-professionnelles depuis sa base de Shenzhen.",
+      "hq_city": "Shenzhen, Guangdong, Chine"
+    }
+  },
+  "ultimaker": {
+    "ar": {
+      "name": "UltiMaker",
+      "country": "هولندا",
+      "sub_domain": "طباعة FDM الاحترافية",
+      "short_description": "شركة ناتجة عن اندماج Ultimaker وMakerBot تشغّل طباعة FDM المكتبية الاحترافية.",
+      "technology": "FDM احترافي موثوق",
+      "why_relevant": "المعيار الاحترافي الأوروبي لطباعة مكتبية موثوقة وقابلة للتكرار.",
+      "history": "أسسها مارتين إلسرمان وإريك دي بروين وسيرت فينيا عام 2011 في هولندا، فنمت من مجموعات مفتوحة المصدر إلى العلامة الأوروبية الرائدة في سوق المكاتب الاحترافية بسلسلتي UM2 وUM3 وS. في 2022 اندمجت الشركة مع MakerBot النيويوركية تحت ملكية مشتركة لتشكل UltiMaker، جامعةً برمجياتها المؤسسية وخط إنتاجها الصناعي. مع الطراز الرائد S7، تواصل UltiMaker تحديد معالم الطباعة المكتبية الموثوقة والقابلة للتكرار من مقرها في أوترخت.",
+      "hq_city": "أوترخت، هولندا"
+    },
+    "fr": {
+      "name": "UltiMaker",
+      "country": "Pays-Bas",
+      "sub_domain": "FDM professionnel",
+      "short_description": "La fusion Ultimaker/MakerBot qui pilote le FDM de bureau professionnel.",
+      "technology": "FDM professionnel fiable",
+      "why_relevant": "La référence professionnelle européenne pour une impression de bureau fiable et répétable.",
+      "history": "Fondée en 2011 aux Pays-Bas par Martijn Elserman, Erik de Bruijn et Siert Wijnia, Ultimaker est passée de kits open source à la marque européenne leader du bureau professionnel avec les séries UM2, UM3 et S. En 2022, l'entreprise a fusionné avec la new-yorkaise MakerBot sous un propriétaire commun pour former UltiMaker, unissant son logiciel d'entreprise et son offre industrielle. Avec le vaisseau amiral S7, UltiMaker continue de définir l'impression de bureau fiable et répétable depuis son siège d'Utrecht.",
+      "hq_city": "Utrecht, Pays-Bas"
+    }
+  },
+  "snapmaker": {
+    "ar": {
+      "name": "Snapmaker",
+      "country": "الصين",
+      "sub_domain": "ماكينات متعددة الأدوات",
+      "short_description": "ماكينات مكتبية تجمع الطباعة ثلاثية الأبعاد والحفر بالليزر والتفريز CNC.",
+      "technology": "تصنيع مكتبي نمطي",
+      "why_relevant": "ورشة كاملة في صندوق واحد لجيل الصنّاع.",
+      "history": "أسسها ثلاثة صناع عام 2017 في شنتشن أرادوا أداة مكتبية واحدة تطبع وتنقش بالليزر وتفرز. جمعت طابعاتها النمطية ملايين الدولارات على Kickstarter، ممولةً الآلة الرئيسية الأصلية، وطابعة Snapmaker 2.0 الأكبر عام 2020، ثم خطي A وJ الأسرع. تبيع الشركة لمدارس وهواة وورش في أكثر من مئة دولة، وتبقى في شنتشن وتواصل توسيع منظومتها من البرمجيات والخيوط والملحقات.",
+      "hq_city": "شنتشن، قوانغدونغ، الصين"
+    },
+    "fr": {
+      "name": "Snapmaker",
+      "country": "Chine",
+      "sub_domain": "Machines multi-outils",
+      "short_description": "Des machines de bureau combinant impression 3D, gravure laser et CNC.",
+      "technology": "Fabrication de bureau modulaire",
+      "why_relevant": "Un atelier complet dans une boîte pour la génération maker.",
+      "history": "Snapmaker a été fondée en 2017 à Shenzhen par un trio de makers qui voulaient un seul outil de bureau capable d'imprimer, de graver au laser et de fraiser. Leurs imprimantes modulaires ont levé des millions sur Kickstarter, finançant la machine d'origine, la Snapmaker 2.0 plus grande en 2020, puis les gammes rapides A et J. Vendant à des écoles, des passionnés et des fabricants dans plus de cent pays, la société reste à Shenzhen et continue d'enrichir son écosystème logiciel, filaments et accessoires.",
+      "hq_city": "Shenzhen, Guangdong, Chine"
+    }
+  },
+  "azul-3d": {
+    "ar": {
+      "name": "Azul 3D",
+      "country": "الولايات المتحدة",
+      "sub_domain": "طباعة كبيرة المساحة",
+      "short_description": "طبّاعة HARP تنتج قطع راتنج كبيرة وسريعة بحدود من التفلون السائل.",
+      "technology": "طباعة سريعة كبيرة المساحة HARP",
+      "why_relevant": "تدّعي صنع قطع بحجم الإنسان من خلال عملية سريعة كسرعة تشكيل الصلصال.",
+      "history": "أسس الكيميائي تشاد ميركين من جامعة نورث وسترن والرئيس التنفيذي ديف ووكر شركة Azul 3D عام 2017، انطلاقاً من تقنية HARP للطباعة السريعة عالية المساحة التي تستخدم واجهة تفلون سائلة غير لاصقة لطباعة أجزاء يصل ارتفاعها وعرضها إلى أقدام بسرعة كبيرة. جمع الفريق جولات استثمارية لنقل التقنية من المختبر إلى أجزاء بمستوى الإنتاج، نالها الاهتمام للتحكم في العملية والمواد. مقرها سكوكي بولاية إلينوي، تواصل Azul تطوير أنظمة راتنجات حرارية وطباعة كبيرة جداً في مسارها نحو التسويق.",
+      "hq_city": "سكوكي، إلينوي، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Azul 3D",
+      "country": "États-Unis",
+      "sub_domain": "Impression grande surface",
+      "short_description": "L'imprimante HARP produit de grandes pièces résine à grande vitesse grâce à une frontière de Téflon liquide.",
+      "technology": "Impression rapide grande surface (HARP)",
+      "why_relevant": "Revendique des pièces de la taille d'une personne grâce à un procédé aussi rapide que le modelage.",
+      "history": "Azul 3D a été fondée en 2017 par le chimiste Chad Mirkin de la Northwestern University et son directeur général Dave Walker, autour de HARP, un procédé d'impression rapide grande surface utilisant une frontière liquide en Téflon non adhésif pour imprimer des pièces haut de plusieurs pieds à grande vitesse. L'équipe a levé des tours de table pour sortir la méthode du laboratoire vers des pièces de niveau production, attirant l'attention sur son contrôle du procédé et des matériaux. Basée à Skokie, dans l'Illinois, Azul continue de développer des systèmes en résine thermodurcissable et du très grand format en route vers la commercialisation.",
+      "hq_city": "Skokie, Illinois, États-Unis"
+    }
+  },
+  "roboze": {
+    "ar": {
+      "name": "Roboze",
+      "country": "إيطاليا",
+      "sub_domain": "البوليمرات عالية الحرارة",
+      "short_description": "تطبع PEEK وبوليمرات فائقة أخرى لأجزاء بديلة بجودة الطيران والفضاء.",
+      "technology": "تصنيع إضافي للبوليمرات عالية الحرارة",
+      "why_relevant": "تحلّ محل الأجزاء المعدنية المفرّزة ببوليمرات فائقة مطبوعة لدى كبار OEM.",
+      "history": "أسسها أليسو لوروسو عام 2015 في باري، وراهنت الشركة على أن البوليمرات الفائقة مثل PEEK قد تحل محل الأجزاء المعدنية في البيئات القاسية. أنظمتها ذات البثق عالي الحرارة، المباعة لعملاء بينهم بيكر هيوز وإيرباص ووكالات بحثية، تحل بشكل متزايد محل المعادن المفروزة بمطبوعات معتمدة لمئات الدرجات المئوية من الخدمة. فتحت الشركة مكاتب في الولايات المتحدة والشرق الأوسط، وجمعت رأس مال للنمو، وتُبقي هندستها ومقرها في جنوب إيطاليا.",
+      "hq_city": "باري، إيطاليا"
+    },
+    "fr": {
+      "name": "Roboze",
+      "country": "Italie",
+      "sub_domain": "Polymères haute température",
+      "short_description": "Imprime le PEEK et autres super-polymères pour des pièces de remplacement de qualité aérospatiale.",
+      "technology": "Fabrication additive polymère haute température",
+      "why_relevant": "Remplace pour les grands OEM des pièces métalliques fraisées par des super-polymères imprimés.",
+      "history": "Fondée par Alessio Lorusso à Bari en 2015, Roboze a parié que des super-polymères comme le PEEK pourraient remplacer les pièces métalliques dans les environnements extrêmes. Ses systèmes d'extrusion haute température, vendus à des clients comme Baker Hughes, Airbus et des agences de recherche, remplacent de plus en plus le métal usiné par des équivalents imprimés, certifiés pour des centaines de degrés de service. La société a ouvert des bureaux aux États-Unis et au Moyen-Orient, levé du capital de croissance, et garde son ingénierie et son siège dans le sud de l'Italie.",
+      "hq_city": "Bari, Italie"
+    }
+  },
+  "sculpteo": {
+    "ar": {
+      "name": "Sculpteo",
+      "country": "فرنسا",
+      "sub_domain": "طباعة ثلاثية الأبعاد عبر الإنترنت",
+      "short_description": "خدمة صناعية للطباعة ثلاثية الأبعاد عبر الإنترنت، أصبحت الآن جزءًا من BASF.",
+      "technology": "خدمة تصنيع إضافي AM عبر الإنترنت",
+      "why_relevant": "جعلت طلب الأجزاء من برنامج CAD أمرًا سهلاً للمصممين.",
+      "history": "أسسها كليمان مورو وأنتوني أرديسون ورائد الأعمال التقني إريك كاريل عام 2009 قرب باريس لجعل الطباعة ثلاثية الأبعاد عبر الإنترنت سهلة. أتاحت منصة عروض الأسعار والتنفيذ السحابية للمصممين طلب أجزاء بعشرات المواد مباشرة من ملفات التصميم، لتنمو لتصبح واحدة من أكثر مكاتب الخدمة وصولاً في أوروبا. في 2019 استحوذ عليها قسم Forward AM التابع لـBASF وتعمل الآن باسم BASF 3D Printing Solutions، بتشغيل مصنعها الذكي في فيلجويف وخدمة العملاء الصناعيين حول العالم.",
+      "hq_city": "فيلجويف، فرنسا"
+    },
+    "fr": {
+      "name": "Sculpteo",
+      "country": "France",
+      "sub_domain": "Impression 3D en ligne",
+      "short_description": "Service industriel d'impression 3D en ligne, désormais intégré à BASF.",
+      "technology": "Bureau de service AM en ligne",
+      "why_relevant": "A rendu la commande de pièces depuis son CAD simple comme bonjour pour les designers.",
+      "history": "Fondée en 2009 près de Paris par Clément Moreau, Anthony Ardisson et l'entrepreneur tech Eric Carreel pour rendre l'impression 3D en ligne sans effort. Sa plateforme cloud de devis et de production a permis aux designers de commander des pièces dans des dizaines de matériaux directement depuis leur CAD, devenant l'un des bureaux de service les plus accessibles d'Europe. Rachetée en 2019 par la division Forward AM de BASF, elle opère aujourd'hui sous le nom de BASF 3D Printing Solutions, faisant tourner sa Smart Factory à Villejuif au service des clients industriels du monde entier.",
+      "hq_city": "Villejuif, France"
+    }
+  },
+  "matterhackers": {
+    "ar": {
+      "name": "MatterHackers",
+      "country": "الولايات المتحدة",
+      "sub_domain": "توزيع الطباعة ثلاثية الأبعاد",
+      "short_description": "موزّع يسلّم المواد والماكينات إلى النظم البيئية الاحترافية.",
+      "technology": "بيع تجزئة لمكونات AM",
+      "why_relevant": "قناة أمريكية موثوقة سهّلت شراء الخيوط الغريبة.",
+      "history": "انطلقت MatterHackers عام 2014 في مقاطعة أورانج بولاية كاليفورنيا، بتأسيس المهندسين لارس بروبيكر وكيفن بوب اللذين بنيا بعضاً من أقدم برمجيات مجتمع rep-rap. نمت العلامة إلى موزع متكامل الخدمات يخزن خيوطاً نادرة وآلات صناعية وأنظمة Stratasys، إلى جانب منصة التقطيع MatterControl والدعم التطبيقي. تزاوج اليوم بين راحة التجارة الإلكترونية والخبرة العملية، وتشحن المواد والمعدات للمهندسين والمدارس ومخابر الأبحاث من مقرها في ليك فورست بولاية كاليفورنيا.",
+      "hq_city": "ليك فورست، كاليفورنيا، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "MatterHackers",
+      "country": "États-Unis",
+      "sub_domain": "Distribution d'impression 3D",
+      "short_description": "Distributeur qui livre matériaux et machines aux écosystèmes professionnels.",
+      "technology": "Vente au détail de composants AM",
+      "why_relevant": "Un canal américain de confiance qui a facilité l'achat de filaments exotiques.",
+      "history": "MatterHackers a été lancée en 2014 dans le comté d'Orange, en Californie, par les ingénieurs Lars Brubaker et Kevin Pope, qui avaient bâti parmi les premiers logiciels de la communauté rep-rap. La marque est devenue un distributeur full-service, stockant filaments exotiques, machines industrielles et systèmes Stratasys, avec la plateforme de découpe MatterControl et un support applicatif à la clé. Elle marie aujourd'hui confort e-commerce et expertise terrain, expédiant matériaux et équipements aux ingénieurs, écoles et labs de recherche depuis son siège de Lake Forest, en Californie.",
+      "hq_city": "Lake Forest, Californie, États-Unis"
+    }
+  },
+  "additive-industries": {
+    "ar": {
+      "name": "Additive Industries",
+      "country": "هولندا",
+      "sub_domain": "أنظمة التصنيع الإضافي المعدني",
+      "short_description": "أنظمة MetalFAB تجمع عدة طابعات معادن في محطة متكاملة واحدة.",
+      "technology": "مصنع تصنيع إضافي معدني متكامل",
+      "why_relevant": "الإجابة على مستوى النظام لخط إنتاج معدني إضافي متواصل.",
+      "history": "تأسست Additive Industries عام 2012 في آيندهوفن لترسو التصنيع الإضافي المعدني على قاعدة صناعية تتجاوز الماكينات الفردية. تدمج منصتها MetalFAB المطلقة عام 2016 عدة وحدات طباعة مع معالجة آلية للمسحوق وتنظيف ومراقبة جودة داخل خلية إنتاج واحدة، تعمل على مدار الساعة لعملاء الفضاء وغيرهم من المتطلبين. مع الجيل المعياري G2 وقدرة خدمة دولية، تواصل الشركة سعيها لرؤيتها لمصنع معدني متكامل داخل النظام الإيكولوجي Brainport الهولندي.",
+      "hq_city": "آيندهوفن، هولندا"
+    },
+    "fr": {
+      "name": "Additive Industries",
+      "country": "Pays-Bas",
+      "sub_domain": "Systèmes de fabrication additive métal",
+      "short_description": "Les systèmes MetalFAB réunissent plusieurs imprimantes métal dans une station intégrée.",
+      "technology": "Usine de fabrication additive métal intégrée",
+      "why_relevant": "La réponse au niveau système pour une production additive métal continue.",
+      "history": "Additive Industries a été fondée en 2012 à Eindhoven pour industrialiser la fabrication additive métal au-delà des machines isolées. Sa plateforme MetalFAB, lancée en 2016, intègre plusieurs modules d'impression avec gestion automatisée de la poudre, nettoyage et contrôle qualité dans une cellule de production unique, fonctionnant 24 heures sur 24 pour l'aérospatiale et d'autres clients exigeants. Avec la génération modulaire G2 et une capacité de service internationale, l'entreprise poursuit sa vision d'usine métal intégrée au sein de l'écosystème Brainport néerlandais.",
+      "hq_city": "Eindhoven, Pays-Bas"
+    }
+  },
+  "dyndrite": {
+    "ar": {
+      "name": "Dyndrite",
+      "country": "الولايات المتحدة",
+      "sub_domain": "برمجيات التصنيع الإضافي",
+      "short_description": "برنامج أصلي لتحضير المطبوعات يعمل بتقنية GPU لأسرع وأفضل جودة.",
+      "technology": "تحضير طباعة GPU للتصنيع الإضافي AM",
+      "why_relevant": "تقسم وتعبّئ مئات الأجزاء في الوقت الذي يعالجه غيرها لقطعة واحدة.",
+      "history": "أسس رائد الأعمال هارشيل غول شركة Dyndrite عام 2016 في سياتل لإعادة بناء خط أنابيب الأشكال للتصنيع الإضافي على معالجات GPU. يحول محركها الحاسوبي المتسارع الإعداد المثقلاً بالبيانات إلى عمليات سريعة وفعالة الذاكرة، يقطّع ويحزم الأجزاء في ثوانٍ حيث كانت الأدوات التراثية تأخذ دقائق. تمتد الشراكات من Metal Jet لهيوليت باكارد إلى Nikon SLM Solutions وكبرى شركات برمجيات التصميم، وجمعت عشرات الملايين من مستثمرين بينهم Accel وNVIDIA، مثبتةً برمجياتها كنواة حوسبة معيارية للتصنيع الرقمي.",
+      "hq_city": "سياتل، واشنطن، الولايات المتحدة"
+    },
+    "fr": {
+      "name": "Dyndrite",
+      "country": "États-Unis",
+      "sub_domain": "Logiciels pour la fabrication additive",
+      "short_description": "Un logiciel de préparation de builds natif GPU pour une impression plus rapide et meilleure.",
+      "technology": "Préparation de builds GPU pour l'AM",
+      "why_relevant": "Découpe et optimise des centaines de pièces dans le temps que d'autres mettent à en traiter une seule.",
+      "history": "L'entrepreneur Harshil Goel a fondé Dyndrite en 2016 à Seattle pour reconstruire le pipeline géométrique de la fabrication additive sur GPU. Son moteur de calcul accéléré transforme une préparation lourde en données en processus rapides et économes en mémoire, découpant et agençant des pièces en secondes là où les outils hérités prenaient des minutes. Les partenariats couvrent le Metal Jet de HP, Nikon SLM Solutions et les grands éditeurs de CAD, et la société a levé des dizaines de millions auprès d'Accel et NVIDIA, installant son logiciel comme noyau de calcul standard du manufacturing numérique.",
+      "hq_city": "Seattle, Washington, États-Unis"
+    }
+  },
+  "bigrep": {
+    "ar": {
+      "name": "BigRep",
+      "country": "ألمانيا",
+      "sub_domain": "طباعة كبيرة الحجم",
+      "short_description": "تطبع أثاثًا ونماذج أولية بالحجم الطبيعي على طابعات يمكن للإنسان دخولها.",
+      "technology": "FFF كبير الحجم",
+      "why_relevant": "مطبوعات بمستوى صناعي تُقاس بالأمتار لا بالمليمترات.",
+      "history": "تأسست BigRep عام 2014 في برلين لإثبات أن الأجزاء الصناعية يمكن طباعتها بالأمتار لا بالمليمترات. أطلقت عام 2015 خط BigRep One بحجم بناء يكفي لدخول شخص، تلته سلسلة Studio وإضافة أدوات روبوتية لتشطيب الأجزاء المطبوعة. بعد تقلبات في سوق التصنيع الإضافي وإعادة هيكلة، أعادت الشركة تركيزها على الأنظمة كبيرة الحجم ودمج الروبوتات الصناعية مع إبقاء مقرها في برلين وخدمة عملاء السيارات والنماذج الأولية حول العالم.",
+      "hq_city": "برلين، ألمانيا"
+    },
+    "fr": {
+      "name": "BigRep",
+      "country": "Allemagne",
+      "sub_domain": "Impression grand format",
+      "short_description": "Imprime des meubles et prototypes grandeur nature sur des machines dans lesquelles on peut entrer.",
+      "technology": "FFF grand format",
+      "why_relevant": "Des impressions de niveau industriel mesurées en mètres, pas en millimètres.",
+      "history": "BigRep a été fondée en 2014 à Berlin pour prouver que des pièces industrielles pouvaient être imprimées en mètres plutôt qu'en millimètres. Sa gamme BigRep One, lancée en 2015, offrait un volume de construction assez grand pour y entrer, suivie de la série Studio et de l'ajout d'outils robotiques pour finir les pièces imprimées. Après les turbulences du marché de l'additive et une restructuration, l'entreprise s'est recentrée sur le grand format et l'intégration robotique industrielle, gardant son siège à Berlin pour des clients automobiles et de prototypage partout dans le monde.",
+      "hq_city": "Berlin, Allemagne"
+    }
+  }
+}

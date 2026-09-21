@@ -187,6 +187,8 @@ const PUBLIC_KEYS = [
   'StartupDetail.breadcrumbSeparator',
   'StartupDetail.countryLabel',
   'StartupDetail.domainLabel',
+  'StartupDetail.historyLabel',
+  'StartupDetail.locationLabel',
   'StartupDetail.officialSiteLabel',
   'StartupDetail.priorityLabel',
   'StartupDetail.sourceLabel',
@@ -194,6 +196,7 @@ const PUBLIC_KEYS = [
   'StartupDetail.teamLabel',
   'StartupDetail.technologyLabel',
   'StartupDetail.verifiedBadge',
+  'StartupDetail.viewMapLabel',
   'StartupDetail.whyRelevantLabel',
   'StartupDetail.yearLabel',
   'Status.pending',
@@ -254,7 +257,7 @@ describe('Admin console i18n', () => {
     const publicKeys = frKeys.filter((key) => !key.startsWith('Admin.')).sort();
     const adminKeys = frKeys.filter((key) => key.startsWith('Admin.'));
     expect(publicKeys).toEqual(PUBLIC_KEYS);
-    expect(publicKeys).toHaveLength(177);
+    expect(publicKeys).toHaveLength(180);
     expect(adminKeys).toHaveLength(215);
 
     const enAdmin = (flatten(en as unknown as Record<string, unknown>)).filter((key) => key.startsWith('Admin.'));

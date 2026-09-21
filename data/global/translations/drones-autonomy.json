@@ -1,0 +1,706 @@
+{
+  "skydio": {
+    "ar": {
+      "name": "Skydio",
+      "country": "الولايات المتحدة",
+      "sub_domain": "طائرات مسيّرة ذاتية القيادة",
+      "short_description": "شركة أمريكية رائدة في الطائرات المسيّرة الاستهلاكية والمؤسسية ذاتية القيادة بالكامل.",
+      "technology": "استقلالية كاملة، تجنّب الاصطدام",
+      "why_relevant": "أثبتت أن الطائرات المسيّرة قادرة على الطيران وتجنّب العقبات من دون GPS.",
+      "history": "تأسست Skydio على يد آدم براي وآبي باخراخ ومات دوناهو، باحثين من مختبر الروبوتات السريعة في MIT. نالت الطائرات ثقة مستثمرين مبكرين مثل مارك بينيوف قبل إطلاق الطائرة الاستهلاكية ذاتية القيادة R1 عام 2019، ثم طرازَي S2 وX2 الأصغر. وتحوّلت الشركة بعدها تحوّلاً حاسماً نحو المؤسسات والسلامة العامة والدفاع، تُوِّج بعقدٍ كبير لتزويد الجيش الأمريكي ببرنامج طائرات الاستطلاع قصيرة المدى. وبعد جمع أكثر من 340 مليون دولار، خرجت Skydio من السوق الاستهلاكية عام 2023 لتكرّس جهودها للتفتيش الذاتي والدفاع والاستخدامات الصناعية.",
+      "hq_city": "سان ماتيو"
+    },
+    "fr": {
+      "name": "Skydio",
+      "country": "États-Unis",
+      "sub_domain": "Drones autonomes",
+      "short_description": "Leader américain des drones grand public et professionnels entièrement autonomes.",
+      "technology": "Autonomie complète, évitement d'obstacles",
+      "why_relevant": "A prouvé qu'un drone peut voler seul autour des obstacles sans GPS.",
+      "history": "Skydio a été fondée par Adam Bry, Abe Bachrach et Matt Donahoe, chercheurs du laboratoire de robotique agile du MIT. Ses drones ont d'abord convaincu des investisseurs comme Marc Benioff avant le lancement du R1, un drone grand public autonome, en 2019, suivi des modèles compacts S2 et X2. Un virage décisif vers l'entreprise, la sécurité publique et la défense s'est ensuite opéré, couronné par un contrat majeur fournissant à l'armée américaine son programme de drone de reconnaissance à courte portée. Après avoir levé plus de 340 millions de dollars, Skydio a quitté le marché grand public en 2023 pour se concentrer sur l'inspection autonome, la défense et les usages industriels.",
+      "hq_city": "San Mateo"
+    }
+  },
+  "anduril-industries": {
+    "ar": {
+      "name": "Anduril Industries",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الدفاع المستقل",
+      "short_description": "تبني أنظمة دفاعية مستقلة مدعومة بالذكاء الاصطناعي في الجو والبر والبحر.",
+      "technology": "حزم استقلالية، مكافحة الطائرات المسيّرة، Ghost",
+      "why_relevant": "تعيد تعريف المشتريات الدفاعية من خلال الاستقلالية القائمة على البرمجيات.",
+      "history": "تأسست Anduril Industries بالشراكة بين بالمر لوكي، مؤسس Oculus VR، إلى جانب مات غريم وتراي ستيفنز. وبدعم من صندوق Founders Fund التابع لبيتر ثيل، أطلقت منصّة Lattice التي تدمج بيانات الحساسات لتكتشف التهديدات وتتتبّعها تلقائياً. وتمتد الشركة، التي يتخذ مقرّها كوستا ميسا بكاليفورنيا، بسرعة عبر الجو والبر والبحر والفضاء، بطائراتها Ghost ومُعترضات Roadrunner ونظام Anvil لمكافحة الطائرات المسيّرة. ورفع جمع تمويلي من السلسلة E بقيمة 1.48 مليار دولار عام 2022 تقييم الشركة فوق 8 مليارات دولار، ما رسّخ مكانتها كلاعب دفاعي رائد يرتكز على البرمجيات.",
+      "hq_city": "كوستا ميسا"
+    },
+    "fr": {
+      "name": "Anduril Industries",
+      "country": "États-Unis",
+      "sub_domain": "Défense autonome",
+      "short_description": "Conçoit des systèmes de défense autonomes pilotés par l'IA, dans les airs, sur terre et en mer.",
+      "technology": "Piles d'autonomie, lutte anti-drones, Ghost",
+      "why_relevant": "Redéfinit les achats de défense grâce à une autonomie centrée sur le logiciel.",
+      "history": "Anduril Industries a été cofondée par Palmer Luckey, créateur d'Oculus VR, aux côtés de Matt Grimm et Trae Stephens. Soutenue par le Founders Fund de Peter Thiel, elle a lancé la plateforme Lattice, qui fusionne les données de capteurs pour détecter et suivre automatiquement les menaces. Basée à Costa Mesa, en Californie, la société s'est rapidement étendue aux milieux aérien, terrestre, naval et spatial, avec les drones Ghost, les intercepteurs Roadrunner et le système anti-UAS Anvil. Une série E de 1,48 milliard de dollars en 2022 a porté sa valorisation au-dessus de 8 milliards, en faisant un acteur défensif clé centré sur les logiciels.",
+      "hq_city": "Costa Mesa"
+    }
+  },
+  "zipline": {
+    "ar": {
+      "name": "Zipline",
+      "country": "الولايات المتحدة",
+      "sub_domain": "توصيل بالطائرات المسيّرة",
+      "short_description": "تدير أكبر شبكة توصيل بالطائرات المسيّرة للمنتجات الطبية في العالم.",
+      "technology": "توصيل بأجنحة ثابتة خارج مجال الرؤية (BVLOS)",
+      "why_relevant": "نموذج آمن ومُجرَّب لتوصيل الأدوية جواً بشكل شامل.",
+      "history": "تأسست Zipline على يد كيلر رينودو وكينان ويروبك، واكتمل نموذجها الأولي عام 2014. وفي عام 2016 أطلقت أول شبكة وطنية للتوصيل بالطائرات المسيّرة في العالم في رواندا، لنقل الدم إلى العيادات النائية، ثم توسّعت إلى غانا. وبعد صقل طائراتها ذات الأجنحة الثابتة عبر مئات آلاف الرحلات المستقلة، كشفت Zipline عام 2023 عن نظامها Platform 2 مع محطة إرساء للتوصيل الدقيق إلى المنازل. وتدير الشركة، ومقرّها ساوث سان فرانسيسكو، برامج تجارية في قارات متعددة بعد جمع أكثر من 800 مليون دولار.",
+      "hq_city": "ساوث سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Zipline",
+      "country": "États-Unis",
+      "sub_domain": "Livraison par drone",
+      "short_description": "Exploite le plus grand réseau mondial de livraison par drone de produits médicaux.",
+      "technology": "Livraison à voilure fixe hors vue (BVLOS)",
+      "why_relevant": "Un modèle sûr et éprouvé de livraison de médicaments par voie aérienne.",
+      "history": "Zipline a été fondée par Keller Rinaudo et Keenan Wyrobek, dont un premier prototype a été achevé en 2014. En 2016, elle a lancé au Rwanda le premier réseau national de livraison par drone, acheminant du sang vers des cliniques reculées, avant de s'étendre au Ghana. Après avoir perfectionné ses aéronefs à voilure fixe sur des centaines de milliers de vols autonomes, Zipline a dévoilé en 2023 sa Plateforme 2 avec station d'accueil pour la livraison de précision à domicile. Basée à South San Francisco, la société a levé plus de 800 millions de dollars et exploite désormais des programmes commerciaux sur plusieurs continents.",
+      "hq_city": "South San Francisco"
+    }
+  },
+  "wing": {
+    "ar": {
+      "name": "Wing",
+      "country": "الولايات المتحدة",
+      "sub_domain": "توصيل بالطائرات المسيّرة",
+      "short_description": "خدمة توصيل بالطائرات المسيّرة تابعة لـ Alphabet، تدير لوجستيات تجارية من المتجر إلى الباب.",
+      "technology": "رحلات طائرات مسيّرة خارج مجال الرؤية، عمليات خلفية",
+      "why_relevant": "واحدة من المشغّلين القلائل المعتمدين بالكامل للتوصيل بالطائرات المسيّرة على نطاق واسع.",
+      "history": "تعود جذور Wing إلى مشروع Project Wing، وهو برنامج تجريبي لتوصيل الطائرات المسيّرة بدأ داخل Google X عام 2012. أمضت المبادرة سنوات في تطوير طائرات خفيفة ذات أجنحة ثابتة وبرمجياتها الخاصة للملاحة وإدارة حركة الطائرات قبل أن تصبح شركة مستقلة مملوكة لـ Alphabet عام 2018. بدأ التشغيل التجاري في لوغان بأستراليا عام 2019، لتصبح Wing أول خدمة توصيل معتمدة كلياً من المتجر إلى الباب، ثم امتدت إلى الولايات المتحدة وفنلندا. وبحلول عام 2023 كانت Wing قد سلّمت أكثر من 350 ألف طرد وأقامت شراكات توزيع واسعة، بما فيها مع وول مارت.",
+      "hq_city": "بالو ألتو"
+    },
+    "fr": {
+      "name": "Wing",
+      "country": "États-Unis",
+      "sub_domain": "Livraison par drone",
+      "short_description": "Service de livraison par drone d'Alphabet, spécialisé dans la logistique commerciale du magasin à la porte.",
+      "technology": "Vols de drones BVLOS, opérations dorsales",
+      "why_relevant": "L'un des rares opérateurs de livraison par drone à grande échelle pleinement approuvés.",
+      "history": "Wing remonte au Projet Wing, programme expérimental de livraison par drone lancé au sein de Google X en 2012. L'initiative a passé des années à développer des aéronefs légers à voilure fixe et son propre logiciel de navigation et de gestion du trafic avant de devenir une société indépendante d'Alphabet en 2018. Les opérations commerciales ont débuté à Logan, en Australie, en 2019, faisant de Wing le premier service de livraison du magasin à la porte entièrement agréé, avant une extension aux États-Unis et en Finlande. En 2023, Wing avait livré plus de 350 000 colis et noué de nombreux partenariats de distribution, notamment avec Walmart.",
+      "hq_city": "Palo Alto"
+    }
+  },
+  "joby-aviation": {
+    "ar": {
+      "name": "Joby Aviation",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سيارات الأجرة الجوية (eVTOL)",
+      "short_description": "تبني سيارة أجرة جوية كهربائية، وهي من أولى الشركات القابلة للاعتماد من إدارة الطيران الفيدرالية (FAA).",
+      "technology": "إقلاع عمودي كهربائي، بطاريات",
+      "why_relevant": "شركة رائدة مدرجة في بورصة نيويورك تدفع نحو اعتماد الطيران الحضري الهادئ والنظيف.",
+      "history": "بدأت Joby Aviation في سانتا كروز بكاليفورنيا، على يد جو بين بيفيرت، الذي أمضى سنوات في تطوير طائرة كهربائية بالكامل للإقلاع والهبوط العمودي. بنت الشركة نماذج أولية بالحجم الكامل وحلّقت بها بعيداً عن الأنظار قبل الاستحواذ على Uber Elevate عام 2020 لضمّ فريق التنقّل الجوي لشركة طلب السيارات العملاقة. وأدرجت أسهمها في بورصة نيويورك عام 2021 عبر اندماج مع Reinvent Technology Partners. ومنذ ذلك الحين نفّذت Joby آلاف الرحلات التجريبية وتواصل تحقيق تصديق إدارة الطيران الفيدرالية بشراكات عسكرية، ووقّعت اتفاقيات استراتيجية مع خطوط دلتا الجوية وتويوتا لتدشين سيارة أجرة جوية بخمسة مقاعد.",
+      "hq_city": "سانتا كروز"
+    },
+    "fr": {
+      "name": "Joby Aviation",
+      "country": "États-Unis",
+      "sub_domain": "Taxis aériens (eVTOL)",
+      "short_description": "Développe un taxi aérien électrique, l'un des premiers certifiables par la FAA.",
+      "technology": "Décollage vertical électrique, batteries",
+      "why_relevant": "Leader coté au NYSE qui pousse la certification du vol urbain silencieux et propre.",
+      "history": "Joby Aviation a débuté à Santa Cruz, en Californie, fondée par JoeBen Bevirt, qui a consacré des années au développement d'un aéronef 100 % électrique à décollage et atterrissage verticaux. La société a conçu et fait voler en toute discrétion des prototypes grandeur nature avant de racheter Uber Elevate en 2020 pour hériter de l'équipe air-mobility du géant du VTC. Elle est devenue publique au NYSE en 2021 via une fusion avec Reinvent Technology Partners. Joby a depuis accumulé des milliers d'essais en vol, poursuit la certification FAA avec des partenariats militaires et a signé des accords stratégiques avec Delta Air Lines et Toyota pour un service commercial de taxi aérien à cinq places.",
+      "hq_city": "Santa Cruz"
+    }
+  },
+  "archer-aviation": {
+    "ar": {
+      "name": "Archer Aviation",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سيارات الأجرة الجوية (eVTOL)",
+      "short_description": "مطوّرة طائرة Midnight الكهربائية للإقلاع والهبوط العمودي الموجّهة للتنقّل الجوي الحضري.",
+      "technology": "تصميم وتصنيع eVTOL",
+      "why_relevant": "تحالفت مع شركات طيران وقطاع الدفاع لإطلاق أولى مسارات سيارات الأجرة الجوية في المدن.",
+      "history": "تأسست Archer Aviation عام 2018 على يد بريت أدكوك وآدم غولدشتاين بهدف تسريع التنقّل الجوي الحضري. نالت الشركة الناشئة مبكراً ثقة الخطوط الجوية المتحدة، التي كبر استثمارها الأولي البالغ مليون دولار ليصبح طلبية طائرات بنحو مليار دولار. كشفت Archer عن نموذجها التجريبي Maker عام 2021 ثم عن طائرتها الإنتاجية Midnight عام 2022، مستهدفة مسارات تجارية نحو عام 2025. وبدعم من شركة Stellantis في التصنيع، أدرجت الشركة أسهمها في بورصة نيويورك وتوسّعت في الدفاع بشراكات مع القوات الجوية الأمريكية والخطوط الجوية اليابانية.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Archer Aviation",
+      "country": "États-Unis",
+      "sub_domain": "Taxis aériens (eVTOL)",
+      "short_description": "Développeur du Midnight eVTOL dédié à la mobilité aérienne urbaine.",
+      "technology": "Conception et fabrication d'eVTOL",
+      "why_relevant": "S'est associé à des compagnies aériennes et à la défense pour les premières liaisons de taxis aériens urbains.",
+      "history": "Archer Aviation a été cofondée par Brett Adcock et Adam Goldstein en 2018 avec l'ambition d'accélérer la mobilité aérienne urbaine. La jeune pousse a gagné très tôt la confiance d'United Airlines, dont l'investissement initial d'un million de dollars a grandi jusqu'à une commande d'environ un milliard de dollars. Archer a dévoilé son démonstrateur Maker en 2021 puis son appareil de série Midnight en 2022, visant des liaisons commerciales autour de 2025. Appuyée par Stellantis pour la fabrication, la société a fait son entrée au NYSE et s'est étendue à la défense, avec des partenariats avec l'U.S. Air Force et Japan Airlines.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "ehang": {
+    "ar": {
+      "name": "EHang",
+      "country": "الصين",
+      "sub_domain": "طائرات مسيّرة لنقل الركاب",
+      "short_description": "مشغّل طائرة EH216 المسيّرة المستقلة لنقل الركاب، وهي أول سيارة طائرة معتمدة للرحلات التجارية.",
+      "technology": "eVTOL ذاتي القيادة، دون طيار",
+      "why_relevant": "أول شركة تحصل على شهادة صلاحية جوية تجارية للسيارات الطائرة دون طيار.",
+      "history": "تأسست EHang في قوانغتشو على يد هو هوا تشي عام 2014، الذي بدأ ببناء مركبات جوية ذكية قبل التفرّغ لطائرتها المسيّرة ذاتية القيادة لنقل الركاب EH216. أُدرجت الشركة في ناسداك عام 2019 وأطلقت رحلات سياحية تجارية في قوانغتشو وشنتشن وغيرهما. وفي أكتوبر 2023 حققت EHang إنجازاً تاريخياً بحصولها على أول شهادة نوع في العالم لطائرة ركاب كهربائية ذاتية القيادة من السلطة الجوية الصينية، تبعتها شهادة إنتاج. وتواصل اليوم السعي للحصول على تصديقات دولية في الشرق الأوسط وجنوب شرق آسيا، ما يجعل EH216 معياراً للطيران الحضري دون طيّار.",
+      "hq_city": "قوانغتشو"
+    },
+    "fr": {
+      "name": "EHang",
+      "country": "Chine",
+      "sub_domain": "Drones pour passagers",
+      "short_description": "Opérateur du drone passager autonome EH216, première voiture volante approuvée pour des vols commerciaux.",
+      "technology": "eVTOL autonome, sans pilote",
+      "why_relevant": "Première entreprise à obtenir un certificat de navigabilité commercial pour des voitures volantes sans pilote.",
+      "history": "EHang a été fondée à Guangzhou par Hu Huazhi en 2014, qui construisait d'abord des véhicules aériens intelligents avant de se consacrer au drone autonome biplace EH216. La société est entrée au Nasdaq en 2019 et a lancé des vols touristiques commerciaux à Guangzhou, Shenzhen et ailleurs. En octobre 2023, EHang a franchi une étape historique en devenant le premier eVTOL de transport de passagers à recevoir un certificat de type de l'autorité aéronautique chinoise, suivi d'un certificat de production. Elle poursuit aujourd'hui des certifications internationales au Moyen-Orient et en Asie du Sud-Est, faisant de l'EH216 la référence du vol urbain sans pilote.",
+      "hq_city": "Guangzhou"
+    }
+  },
+  "wingcopter": {
+    "ar": {
+      "name": "Wingcopter",
+      "country": "ألمانيا",
+      "sub_domain": "طائرات مسيّرة للتوصيل",
+      "short_description": "تبني طائرات مسيّرة بعيدة المدى بمروحيتين مائلتين للتوصيل والتفتيش.",
+      "technology": "طائرات مسيّرة هجينة بمروحيات مائلة",
+      "why_relevant": "الرائد الأوروبي في عمليات الطائرات المسيّرة الطبية والصناعية بعيدة المدى.",
+      "history": "أطلقت Wingcopter عام 2017 على يد توم بلومر وجوناثان هيسلبارث وأنسغار كادورا، مهندسي طيران من جامعة دارمشتات التقنية. صمّم الثلاثي نظاماً حاصلاً على براءة اختراع بمروحيتين مائلتين يتيح لهيكل واحد ثابت الجناحين الإقلاع عمودياً ثم التحليق بكفاءة، لتبلغ ذروتها في الطائرة الرئيسية Wingcopter 198. توسّعت الشركة عالمياً خارج ألمانيا، فجمعت عشرات ملايين اليورو ونفّذت برامج توصيل طبي وبحري من ملاوي إلى اسكتلندا. وبمصنع إنتاج جديد في فايتراشتات، تضع Wingcopter نفسها رائدةً أوروبية في طائرات التوصيل بعيدة المدى.",
+      "hq_city": "فايتراشتات"
+    },
+    "fr": {
+      "name": "Wingcopter",
+      "country": "Allemagne",
+      "sub_domain": "Drones de livraison",
+      "short_description": "Conçoit des drones longue portée à double rotor basculant pour la livraison et l'inspection.",
+      "technology": "UAV hybrides à rotors basculants",
+      "why_relevant": "Champion européen des opérations de drones médicaux et industriels longue portée.",
+      "history": "Wingcopter a été lancée en 2017 par Tom Plümmer, Jonathan Hesselbarth et Ansgar Kadura, ingénieurs aéronautiques de l'Université technique de Darmstadt. Le trio a conçu un système breveté de rotors basculants jumeaux qui permet à une même cellule à voilure fixe de décoller verticalement puis de voler en croisière, donnant naissance à son drone vedette, le Wingcopter 198. La société s'est internationalisée au-delà de l'Allemagne, levant des dizaines de millions d'euros et menant des programmes de livraison médicale et maritime du Malawi à l'Écosse. Avec une nouvelle usine de production à Weiterstadt, Wingcopter s'impose comme le principal fabricant européen de drones longue portée.",
+      "hq_city": "Weiterstadt"
+    }
+  },
+  "percepto": {
+    "ar": {
+      "name": "Percepto",
+      "country": "إسرائيل",
+      "sub_domain": "التفتيش الذاتي",
+      "short_description": "توفّر حلّ طائرة مسيّرة داخل صندوق ذاتية الشحن للتفتيش المستمر على المواقع.",
+      "technology": "محطات إرساء، استقلالية حائزة على براءة اختراع",
+      "why_relevant": "حلّ متكامل للقيادة عن بُعد يشغّل تفتيشاً صناعياً على مدار الساعة.",
+      "history": "تأسست Percepto عام 2014 في إسرائيل على يد دور أبو هسيرة ورافيف راز، اللذين سعيا لإبعاد البشر عن عمليات التفتيش الصناعي المتكررة والخطرة. طوّرت الشركة حلاً متكاملاً لطائرة داخل صندوق ذاتية القيادة بالكامل، مع محطة شحن ذاتي حاصلة على براءة اختراع، ما يتيح مراقبة عن بُعد على مدار الساعة دون طيّارين في الموقع. جمعت Percepto أكثر من 100 مليون دولار ونالت اعترافاً كقائدة لسوق التفتيش الآلي، ثم نقلت مقرّها إلى أوستن بتكساس مع إبقاء البحث والتطوير في إسرائيل. ويشغّل نظام تشغيلها AIM اليوم برامج بيانات بصرية مستقلة في منشآت الطاقة والتعدين والخدمات اللوجستية حول العالم.",
+      "hq_city": "أوستن"
+    },
+    "fr": {
+      "name": "Percepto",
+      "country": "Israël",
+      "sub_domain": "Inspection autonome",
+      "short_description": "Fournit un drone-in-a-box auto-rechargeable pour l'inspection continue de sites.",
+      "technology": "Stations d'accueil, autonomie brevetée",
+      "why_relevant": "Solution clé en main de pilotage à distance pour une inspection industrielle 24/7.",
+      "history": "Percepto a été fondée en 2014 en Israël par Dor Abuhasira et Raviv Raz, qui cherchaient à retirer les humains des inspections industrielles répétitives et dangereuses. La société a développé une solution drone-in-a-box entièrement autonome avec station de rechargement brevetée, permettant une surveillance à distance 24h/24 sans pilote sur site. Percepto a levé plus de 100 millions de dollars et a été reconnue comme un leader du marché de l'inspection automatisée, avant de déplacer son siège à Austin, au Texas, tout en conservant la R&D en Israël. Son système d'exploitation AIM pilote aujourd'hui des programmes de données visuelles autonomes dans l'énergie, les mines et la logistique dans le monde entier.",
+      "hq_city": "Austin"
+    }
+  },
+  "dedrone": {
+    "ar": {
+      "name": "Dedrone",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مكافحة الطائرات المسيّرة",
+      "short_description": "تكشف الطائرات المسيّرة غير المصرّح بها وتبطّلها في المجال الجوي المحمي.",
+      "technology": "كشف عبر الترددات الراديوية والشبكات العصبية، معالجة التهديد",
+      "why_relevant": "معيار أمني لمكافحة الطائرات المسيّرة في المطارات والسجون والفعاليات.",
+      "history": "تأسست Dedrone عام 2016 كمتخصّصة في مكافحة الطائرات المسيّرة، ومقرّها هيرندون بولاية فيرجينيا، وطوّرت أنظمة كشف قائمة على الترددات الراديوية والشبكات العصبية تعلّم عن الطائرات غير المصرّح بها قرب المجال الجوي المحمي. أصبحت شبكة حساساتها وبرمجيات القيادة والتحكم طبقة أمنية معيارية للمطارات والسجون والملاعب والمواقع الحكومية في عشرات الدول. جمعت الشركة عشرات ملايين الدولارات، وفي عام 2024 استحوذت عليها شركة Axon لمعدات السلامة العامة مقابل نحو 450 مليون دولار. وهي اليوم تشكّل ذراع الأمن الجوي لـ Axon مع مواصلة عملياتها لمكافحة الطائرات المسيّرة عالمياً.",
+      "hq_city": "هيرندون"
+    },
+    "fr": {
+      "name": "Dedrone",
+      "country": "États-Unis",
+      "sub_domain": "Lutte anti-drones",
+      "short_description": "Détecte et neutralise les drones non autorisés dans un espace aérien protégé.",
+      "technology": "Détection RF/CNN, atténuation",
+      "why_relevant": "Sécurité anti-drone standard pour les aéroports, les prisons et les événements.",
+      "history": "Dedrone a été fondée en 2016 comme spécialiste de la lutte anti-drones, basée à Herndon, en Virginie, développant des systèmes de détection RF/CNN qui signalent les drones non autorisés près des espaces aériens protégés. Son réseau de capteurs et son logiciel de commandement sont devenus une couche de sécurité standard pour les aéroports, prisons, stades et sites gouvernementaux dans des dizaines de pays. La société a levé plusieurs dizaines de millions de dollars et a été rachetée en 2024 par Axon, spécialiste de la sécurité publique, pour environ 450 millions de dollars. Elle constitue désormais le portefeuille de sécurité aérienne d'Axon tout en poursuivant ses opérations anti-UAS mondiales.",
+      "hq_city": "Herndon"
+    }
+  },
+  "skysafe": {
+    "ar": {
+      "name": "SkySafe",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مكافحة الطائرات المسيّرة",
+      "short_description": "تستخدم تحليلات الترددات الراديوية لتتبّع الطائرات المسيّرة وتحديد هوية مشغّليها.",
+      "technology": "كشف الطائرات المسيّرة عبر الترددات الراديوية",
+      "why_relevant": "خوارزميات الإسناد تتعقّب الطائرة المسيّرة وصولاً إلى طيارها.",
+      "history": "تأسست SkySafe عام 2015 على يد غرانت جوردان وسكوت توربورغ، باحثين من مختبر لينكولن في MIT، طبّقا تحليلات الترددات الراديوية على كشف الطائرات المسيّرة. بدلاً من تشويش الإشارات، يحدد برنامجها البصمة الراديوية للطائرة ويتتبّعها وصولاً إلى جهاز التحكم الخاص بمشغّلها. وجمعت الشركة، ومقرّها سان دييغو، 45 مليون دولار في جولة من السلسلة B عام 2021 لتعميق أعمالها الدفاعية والحكومية، ووسّعت نشاطها لمكافحة الأنشطة غير المصرّح بها قرب المطارات والملاعب والقواعد العسكرية. وتدعم تقنيتها اليوم برامج أمنية لإسناد الطائرات المسيّرة لصالح عملاء أمريكيين وحلفاء.",
+      "hq_city": "سان دييغو"
+    },
+    "fr": {
+      "name": "SkySafe",
+      "country": "États-Unis",
+      "sub_domain": "Lutte anti-drones",
+      "short_description": "Utilise l'analyse RF pour suivre les drones et identifier leurs opérateurs.",
+      "technology": "Détection d'UAS par RF",
+      "why_relevant": "Ses algorithmes d'attribution remontent d'un drone jusqu'à son pilote.",
+      "history": "SkySafe a été fondée en 2015 par Grant Jordan et Scott Torborg, chercheurs issus du Lincoln Laboratory du MIT, qui ont appliqué l'analyse des fréquences radio à la détection des drones. Plutôt que de brouiller les signaux, son logiciel identifie l'empreinte d'un drone et remonte jusqu'à la radiocommande de son opérateur. La société, basée à San Diego, a levé 45 millions de dollars en série B en 2021 pour renforcer ses activités de défense et de gouvernement, et s'est étendue à la lutte contre les activités non autorisées autour des aéroports, stades et bases militaires. Sa technologie soutient aujourd'hui des programmes UAS d'attribution pour des clients américains et alliés.",
+      "hq_city": "San Diego"
+    }
+  },
+  "saildrone": {
+    "ar": {
+      "name": "Saildrone",
+      "country": "الولايات المتحدة",
+      "sub_domain": "المحيطات المستقلة",
+      "short_description": "تشغّل أكبر أسطول في العالم من المركبات غير المأهولة لسطح المحيط.",
+      "technology": "مركبات سطحية غير مأهولة تعمل بالرياح والطاقة الشمسية، بيانات المحيطات",
+      "why_relevant": "ترسم خرائط المحيطات لأغراض المناخ والروبوتات الدفاعية بجزء ضئيل من تكلفة السفن.",
+      "history": "تأسست Saildrone عام 2012 على يد البحّار والمهندس البريطاني ريتشارد جينكينز، الذي صمّم مركبات سطحية غير مأهولة تعمل بالرياح والطاقة الشمسية قادرة على قضاء أشهر في عرض البحر وهي تجمع بيانات أوقيانوغرافية. وسجّلت الشركة، ومقرّها ألاميدا بكاليفورنيا، أرقاماً قياسية عالمية منها أول طواف مستقل حول القارة القطبية الجنوبية وعبور المحيط الأطلسي. ونشرت أساطيل من مركباتها لصالح شركاء مثل NOAA وناسا، دعماً للتنبؤ بالأعاصير وأبحاث الكربون المحيطي. جمعت Saildrone أكثر من 190 مليون دولار وتحمل عقوداً دفاعية كبرى، وترسم خرائط المحيطات بجزء يسير من تكلفة السفن المأهولة.",
+      "hq_city": "ألاميدا"
+    },
+    "fr": {
+      "name": "Saildrone",
+      "country": "États-Unis",
+      "sub_domain": "Océan autonome",
+      "short_description": "Exploite la plus grande flotte mondiale de véhicules de surface océaniques sans équipage.",
+      "technology": "USV éoliens/solaires, données océaniques",
+      "why_relevant": "Cartographie les océans pour le climat et la robotique de défense à une fraction du coût d'un navire.",
+      "history": "Saildrone a été fondée en 2012 par Richard Jenkins, navigateur et ingénieur britannique, qui a conçu des véhicules de surface sans équipage propulsés par le vent et le soleil, capables de passer des mois en mer tout en collectant des données océanographiques. La société, basée à Alameda, en Californie, a battu des records mondiaux, dont la première circumnavigation autonome de l'Antarctique et une traversée de l'Atlantique. Elle a déployé des flottes d'USV pour des partenaires comme la NOAA et la NASA, soutenant la prévision des ouragans et la recherche sur le carbone océanique. Saildrone a levé plus de 190 millions de dollars et détient d'importants contrats de défense, cartographiant les océans à moindre coût que les navires habités.",
+      "hq_city": "Alameda"
+    }
+  },
+  "airspace-link": {
+    "ar": {
+      "name": "Airspace Link",
+      "country": "الولايات المتحدة",
+      "sub_domain": "إدارة حركة الطائرات المسيّرة (UTM)",
+      "short_description": "بنية تحتية رقمية لمجال جوي منخفض الارتفاع آمن ومشترك.",
+      "technology": "UTM، رسم خرائط رقمية للمجال الجوي",
+      "why_relevant": "تبني طبقة قواعد المجال الجوي التي ستطير داخلها الطائرات المسيّرة في المدن.",
+      "history": "تأسست Airspace Link عام 2018 على يد مايكل هيلاندر، القادم من جنرال موتورز، لبناء بنية تحتية رقمية للمجال الجوي المنخفض. ومقرّها ديترويت، طوّرت الشركة منصّتي AirHub وAirspaceLink اللتين تجمعان إرشادات المسارات للطائرات المسيّرة ودرجات المخاطر وبيانات المجال الجوي على مستوى الولايات. تعاونت مع إدارات النقل في ولايات من بينها ميشيغان وكاليفورنيا لرسم ممرات آمنة لتحليق الطائرات المسيّرة. وجمعت برمجياتها، التي تغذّي أنظمة UTM وتوفر خرائط رقمية باسم Airvoid، أكثر من 25 مليون دولار من التمويل، لتصبح مزوّداً رائداً من طرف ثالث للاستخبارات الجوية للطائرات المسيّرة.",
+      "hq_city": "ديترويت"
+    },
+    "fr": {
+      "name": "Airspace Link",
+      "country": "États-Unis",
+      "sub_domain": "Gestion du trafic d'UAS (UTM)",
+      "short_description": "Infrastructure numérique pour un espace aérien basse altitude sûr et partagé.",
+      "technology": "UTM, cartographie numérique de l'espace aérien",
+      "why_relevant": "Construit la couche réglementaire de l'espace aérien dans lequel voleront les drones en ville.",
+      "history": "Airspace Link a été fondée en 2018 par Michael Healander, ancien de General Motors, pour construire l'infrastructure numérique de l'espace aérien de basse altitude. Basée à Détroit, la société a développé ses plateformes AirHub et AirspaceLink, qui combinent conseils de routage de drones, scores de risque et données d'espace aérien au niveau des États. Elle s'est associée aux départements des transports du Michigan et de la Californie pour cartographier des couloirs sûrs pour les vols de drones. Son logiciel, qui alimente les systèmes UTM et fournit des cartes numériques Airvoid, a levé plus de 25 millions de dollars et s'est imposé comme un fournisseur tiers de référence d'intelligence de l'espace aérien.",
+      "hq_city": "Detroit"
+    }
+  },
+  "matternet": {
+    "ar": {
+      "name": "Matternet",
+      "country": "الولايات المتحدة",
+      "sub_domain": "لوجستيات طبية بالطائرات المسيّرة",
+      "short_description": "تشغّل طائرات رباعية المراوح ذاتية القيادة للتوصيل بين المستشفيات.",
+      "technology": "طائرات مسيّرة طبية ذاتية القيادة",
+      "why_relevant": "مشغّل عريق للطائرات المسيّرة الطبية، مع تبنٍّ سويسري.",
+      "history": "تأسست Matternet عام 2011 على يد أندرياس رابتوبولوس وباولا سانتانا، انطلاقاً من أبحاث MIT في اللوجستيات الجوية المستقلة. وبعد تجارب مبكرة في هايتي وجمهورية الدومينيكان، تعاونت الشركة عام 2017 مع البريد السويسري لنقل عيّنات المختبرات بين المستشفيات في سويسرا، فكانت من أولى الشبكات الحضرية المستدامة للطائرات المسيّرة في أوروبا. وعقدت لاحقاً شراكة مع أوبر لاستكشاف التوصيل الجوي عند الطلب. ومقرّها ماونتن فيو بكاليفورنيا، حصلت Matternet على موافقات بموجب الأنظمة الأوروبية وركّزت منذ ذلك الحين على اللوجستيات الطبية والأتمتة وتوسيع عملياتها في أنحاء العالم.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "Matternet",
+      "country": "États-Unis",
+      "sub_domain": "Logistique médicale par drone",
+      "short_description": "Exploite des quadricoptères autonomes pour des livraisons d'hôpital à hôpital.",
+      "technology": "Drones médicaux autonomes",
+      "why_relevant": "Opérateur historique de drones médicaux, adopté en Suisse.",
+      "history": "Matternet a été fondée en 2011 par Andreas Raptopoulos et Paola Santana, avec des racines dans les recherches du MIT sur la logistique aérienne autonome. Après des essais précoces en Haïti et en République dominicaine, la société s'est associée en 2017 à La Poste suisse pour transporter des échantillons de laboratoire entre hôpitaux, devenant l'un des premiers réseaux de drones urbains pérennes d'Europe. Elle a ensuite noué un partenariat avec Uber pour explorer la livraison aérienne à la demande. Basée à Mountain View, en Californie, Matternet a décroché des approbations dans le cadre des réglementations européennes et se concentre désormais sur la logistique médicale et l'automatisation, tout en étendant ses opérations dans le monde.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "swoop-aero": {
+    "ar": {
+      "name": "Swoop Aero",
+      "country": "أستراليا",
+      "sub_domain": "لوجستيات طبية بالطائرات المسيّرة",
+      "short_description": "تشغّل شبكات وطنية للطائرات المسيّرة تنقل اللقاحات وعيّنات المختبرات.",
+      "technology": "تشغيل أسطول الطائرات المسيّرة، التحكّم المروري عن بُعد",
+      "why_relevant": "وسّعت نطاق توصيل الأدوية بالطائرات المسيّرة في بلدان محدودة البنية التحتية.",
+      "history": "تأسست Swoop Aero في ملبورن عام 2017 على يد إريك بيك وجوشوا تيبر، اللذين انطلقا من تقنية سباقات الطائرات المسيّرة قبل التحوّل إلى اللوجستيات الطبية. أطلقت الشركة شبكات توصيل على نطاق وطني في جزر المحيط الهادئ وملاوي وجمهورية الكونغو الديمقراطية، ناقلة اللقاحات والدم وعيّنات المختبرات لمسافات طويلة. وتتباهى Swoop Aero بأكثر من مليون كيلومتر من الرحلات المستقلة، وكانت من أكبر برامج توصيل الأدوية بالطائرات المسيّرة المدعومة حكومياً خلال جائحة كوفيد-19. وتدير اليوم، من قاعدة أسترالية، مركز تحكم مروري عن بُعد ينسّق أساطيل في عدة دول محدودة البنية التحتية.",
+      "hq_city": "ملبورن"
+    },
+    "fr": {
+      "name": "Swoop Aero",
+      "country": "Australie",
+      "sub_domain": "Logistique médicale par drone",
+      "short_description": "Gère des réseaux nationaux de drones transportant vaccins et échantillons de laboratoire.",
+      "technology": "Exploitation de flotte de drones, contrôle du trafic à distance",
+      "why_relevant": "A déployé la livraison de médicaments par drone dans des pays à faible infrastructure.",
+      "history": "Swoop Aero a été fondée à Melbourne en 2017 par Eric Peck et Joshua Tepper, qui se sont appuyés sur la technologie des drones de course avant de se tourner vers la logistique médicale. La société a lancé des réseaux de livraison à l'échelle nationale dans les îles du Pacifique, au Malawi et en République démocratique du Congo, transportant vaccins, sang et échantillons de laboratoire sur de longues distances. Swoop Aero revendique plus d'un million de kilomètres de vol autonome et a dirigé l'un des plus grands programmes gouvernementaux de livraison de médicaments par drone pendant la pandémie de COVID-19. Elle pilote désormais depuis l'Australie une cellule de contrôle de trafic à distance coordonnant des flottes dans plusieurs pays à faible infrastructure.",
+      "hq_city": "Melbourne"
+    }
+  },
+  "dronamics": {
+    "ar": {
+      "name": "Dronamics",
+      "country": "بلغاريا",
+      "sub_domain": "طائرات مسيّرة للشحن",
+      "short_description": "تبني Black Swan، طائرة مسيّرة للشحن بعيدة المدى لشحنات اليوم التالي.",
+      "technology": "طائرات مسيّرة للشحن بأجنحة ثابتة",
+      "why_relevant": "تخفض تكلفة الشحن في المرحلة الوسيطة بنسبة تصل إلى 80 بالمائة عبر التشغيل بطيار واحد.",
+      "history": "تأسست Dronamics عام 2014 في صوفيا ببلغاريا على يد الأخوين كونستانتين وسفيلين رانجيلوف، اللذين سعيا لبناء طائرة شحن مسيّرة تنافس الشحن الجوي الإقليمي. تحمل طائرتها الرئيسية Black Swan ما يصل إلى 350 كيلوغراماً عبر نحو 2500 كيلومتر، مع مشغّل أرضي واحد يشرف على كل رحلة. وفي عام 2020 أصبحت الشركة أول شركة طيران شحن بالطائرات المسيّرة في أوروبا تحصل على ترخيص من هيئة تنظيمها الوطنية، ثم توسّعت إلى الولايات المتحدة. جمعت Dronamics عشرات ملايين اليورو وأبرمت اتفاقيات مع شركاء لوجستيين تستهدف التوصيل الوسيط في اليوم التالي.",
+      "hq_city": "صوفيا"
+    },
+    "fr": {
+      "name": "Dronamics",
+      "country": "Bulgarie",
+      "sub_domain": "Drones de fret",
+      "short_description": "Développe Black Swan, un drone cargo longue portée pour le fret en J+1.",
+      "technology": "UAV cargo à voilure fixe",
+      "why_relevant": "Réduit jusqu'à 80 % le coût du fret intermédiaire grâce à un pilotage à un seul opérateur.",
+      "history": "Dronamics a été fondée en 2014 à Sofia, en Bulgarie, par les frères Konstantin et Svilen Rangelov, qui voulaient créer un drone cargo capable de concurrencer le fret aérien régional. Leur appareil vedette Black Swan transporte jusqu'à 350 kilogrammes sur environ 2 500 kilomètres, avec un seul opérateur au sol supervisant chaque vol. En 2020, la société est devenue la première compagnie aérienne drone de fret en Europe à recevoir une licence de son régulateur national, avant de s'étendre aux États-Unis. Dronamics a levé des dizaines de millions d'euros et a conclu des accords avec des partenaires logistiques pour viser une livraison interurbaine en J+1.",
+      "hq_city": "Sofia"
+    }
+  },
+  "skyports": {
+    "ar": {
+      "name": "Skyports",
+      "country": "المملكة المتحدة",
+      "sub_domain": "بنية تحتية للمهابط العمودية",
+      "short_description": "تصمّم وتشغّل بنية تحتية للهبوط لسيارات الأجرة الجوية والطائرات المسيّرة.",
+      "technology": "شبكة مهابط عمودية، لوجستيات الطائرات المسيّرة",
+      "why_relevant": "الطبقة العقارية اللازمة قبل أن تتمكن أساطيل eVTOL من الانطلاق.",
+      "history": "تأسست Skyports في لندن عام 2019 على يد دنكان ووكر، الذي رأى في المهابط العمودية الطبقة المادية الناقصة لسيارات الأجرة الجوية الكهربائية وطائرات التوصيل. تصمّم الشركة وتشغّل مواقع الإقلاع والهبوط، متعاونة مع إيرباص ويونايتد إيرلاينز والسلطات المحلية لتشكيل شبكات eVTOL الأولى في مدن مثل سنغافورة وباريس ودبي. وبالتوازي، تشغّل Skyports إحدى أولى خدمات التوصيل المرخّصة بالطائرات المسيّرة في المملكة المتحدة، ونفّذت أول رحلة لطائرة ركاب كهربائية إلى مهابط عمودي، وجمعت عشرات ملايين الجنيهات لتوسيع شبكة بنيتها التحتية عالمياً.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "Skyports",
+      "country": "Royaume-Uni",
+      "sub_domain": "Infrastructure de vertiports",
+      "short_description": "Conçoit et exploite des infrastructures d'atterrissage pour taxis aériens et drones.",
+      "technology": "Réseau de vertiports, logistique par drone",
+      "why_relevant": "La couche immobilière indispensable avant l'essor des flottes eVTOL.",
+      "history": "Skyports a été fondée à Londres en 2019 par Duncan Walker, qui a identifié les vertiports comme la couche physique manquante des taxis aériens électriques et des drones de livraison. La société conçoit et exploite des sites de décollage et d'atterrissage, en partenariat avec Airbus, United Airlines et des autorités locales pour façonner les premiers réseaux eVTOL à Singapour, Paris et Dubaï. En parallèle, Skyports exploite l'un des premiers services de livraison par drone agréés au Royaume-Uni, a réalisé le premier vol d'un avion de passagers électrique vers un vertiport, et a levé des dizaines de millions de livres pour développer son réseau mondial d'infrastructures.",
+      "hq_city": "Londres"
+    }
+  },
+  "applied-intuition": {
+    "ar": {
+      "name": "Applied Intuition",
+      "country": "الولايات المتحدة",
+      "sub_domain": "برمجيات المركبات ذاتية القيادة",
+      "short_description": "منصة برمجية تُستخدم لتطوير المركبات ذاتية القيادة واختبارها ونشرها.",
+      "technology": "محاكاة، أدوات ADAS",
+      "why_relevant": "قمرة المطوّرين لمعظم برامج المركبات ذاتية القيادة الجدّية، بما فيها الدفاع.",
+      "history": "تأسست Applied Intuition عام 2017 على يد قصر يونس وبيتر لودفيغ، من خريجي Y Combinator وGoogle، لبناء منظومة برمجيات متكاملة لتطوير المركبات ذاتية القيادة. أصبحت منصّتها للمحاكاة والاختبار، التي اعتمدتها أكثر من 100 شركة في قطاعات السيارات والشاحنات والتعدين والدفاع، أداة تقييم معيارية لمنظومات القيادة الذاتية قبل وصول العتاد إلى الطريق. جمعت الشركة، ومقرّها ماونتن فيو، 250 مليون دولار من السلسلة D عام 2022 بقيمة 3.6 مليار دولار، واستحوذت على شركة سيارات الأجرة الذاتية الناشئة Voyage، وتوسّعت في محاكاة الدفاع للأنظمة البرية والجوية المستقلة.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "Applied Intuition",
+      "country": "États-Unis",
+      "sub_domain": "Logiciels pour véhicules autonomes",
+      "short_description": "Plateforme logicielle pour développer, tester et déployer des véhicules autonomes.",
+      "technology": "Simulation, outils ADAS",
+      "why_relevant": "Le poste de pilotage des développeurs de la plupart des programmes AV sérieux, y compris dans la défense.",
+      "history": "Applied Intuition a été fondée en 2017 par Qasar Younis et Peter Ludwig, vétérans de Y Combinator et de Google, pour construire une pile logicielle complète pour le développement de véhicules autonomes. Sa plateforme de simulation et de tests, adoptée par plus de 100 clients de l'automobile, du camionnage, des mines et de la défense, est devenue un outil d'évaluation standard des piles AV avant même que le matériel n'atteigne la route. La société de Mountain View a levé 250 millions de dollars en série D en 2022 pour une valorisation de 3,6 milliards, a racheté la startup robotaxi Voyage et s'est étendue à la simulation de défense pour les systèmes autonomes terrestres et aériens.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "aurora-innovation": {
+    "ar": {
+      "name": "Aurora Innovation",
+      "country": "الولايات المتحدة",
+      "sub_domain": "شاحنات ذاتية القيادة",
+      "short_description": "تشغّل شاحنات دون سائق على الطرق السريعة العامة عبر نظام Aurora Driver.",
+      "technology": "قيادة ذاتية للشاحنات من المستوى L4",
+      "why_relevant": "تشغّل شحناً تجارياً دون سائق في تكساس مع شركاء كبار.",
+      "history": "تأسست Aurora Innovation عام 2017 في بيتسبرغ على يد رواد القيادة الذاتية كريس أورميسون وستيرلينغ أندرسون ودرو باغنيل، الذين جمعوا خبراتهم من جوجل وتسلا. بنت الشركة نظام Aurora Driver، وهو منصة استقلالية معيارية تغطي الشاحنات ومركبات الركاب، واستوعبت عام 2020 وحدة الشاحنات ذاتية القيادة لدى أوبر في خطوة دمج كبرى. أُدرجت Aurora في ناسداك عام 2021 وركّزت خارطتها التجارية على الشحن، فأطلقت عمليات تجريبية مع شركاء من بينهم FedEx وباكار. وبحلول عام 2024 بدأت شحنات تجارية شبه مستقلة على مسارات تكساس والممر الأمريكي، مستهدفة شحناً دون سائق بالكامل.",
+      "hq_city": "بيتسبرغ"
+    },
+    "fr": {
+      "name": "Aurora Innovation",
+      "country": "États-Unis",
+      "sub_domain": "Camionnage autonome",
+      "short_description": "Fait rouler des camions sans chauffeur sur autoroute grâce à son Aurora Driver.",
+      "technology": "Autonomie de camionnage L4",
+      "why_relevant": "Exploite du fret commercial sans chauffeur au Texas avec de grands partenaires.",
+      "history": "Aurora Innovation a été fondée en 2017 à Pittsburgh par les vétérans de la conduite autonome Chris Urmson, Sterling Anderson et Drew Bagnell, réunissant leurs travaux menés chez Google et Tesla. La société a développé l'Aurora Driver, une plateforme d'autonomie modulaire couvrant camions et véhicules particuliers, et a absorbé en 2020 l'unité de camionnage autonome d'Uber lors d'une consolidation majeure. Aurora est entrée au Nasdaq en 2021 et a concentré sa feuille de route commerciale sur le fret, avec des opérations pilotes chez FedEx et Paccar. À partir de 2024, elle a commencé à exploiter des itinéraires de fret commercial semi-autonomes au Texas et dans le corridor américain.",
+      "hq_city": "Pittsburgh"
+    }
+  },
+  "kodiak-robotics": {
+    "ar": {
+      "name": "Kodiak Robotics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "شاحنات ذاتية القيادة",
+      "short_description": "تبني نظام Kodiak Driver للشاحنات ذاتية القيادة بعيدة المدى والدفاع.",
+      "technology": "شاحنات مقطورة ذاتية القيادة، استشعار بزاوية 360 درجة",
+      "why_relevant": "أثبتت جدوى نهج وحدة الاستشعار القابلة للتبديل في أتمتة الشحن.",
+      "history": "تأسست Kodiak Robotics عام 2018 على يد دون بيرنيت، مهندس سابق في برامج القيادة الذاتية لدى أوبر وجوجل، مع زملاء من مجموعة أوبر المتقدمة للتقنيات. قدّمت الشركة الناشئة في ماونتن فيو فكرة معمارية جوهرية: وحدة استشعار قابلة للتبديل مثبّتة على سقف الشاحنة تجعل العتاد معيارياً وسهل الصيانة. أطلقت Kodiak عمليات شحن ذاتي القيادة بين المراكز على شبكة الطرق السريعة الرابطة بين دالاس وهيوستن وسان أنطونيو، وامتدت تقنيتها إلى الدفاع عبر شراكات مع الجيش الأمريكي. وقد قطعت شاحناتها ذاتية القيادة مئات آلاف الأميال التجارية مع سائقي أمان على متنها في طريقها نحو الاستقلالية الكاملة.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "Kodiak Robotics",
+      "country": "États-Unis",
+      "sub_domain": "Camionnage autonome",
+      "short_description": "Développe le Kodiak Driver pour le camionnage autonome longue distance et la défense.",
+      "technology": "Semi-remorques autonomes, perception à 360°",
+      "why_relevant": "A validé l'approche du module de capteurs interchangeable pour l'autonomie du fret.",
+      "history": "Kodiak Robotics a été fondée en 2018 par Don Burnette, ingénieur passé par les programmes de conduite autonome d'Uber et Google, accompagné de collègues de l'Advanced Technologies Group d'Uber. La start-up de Mountain View a introduit une idée architecturale clé : un module de capteurs interchangeable monté sur le toit du camion, rendant le matériel modulaire et facile à entretenir. Kodiak a lancé des opérations de fret autonomes hub-to-hub sur le réseau autoroutier reliant Dallas, Houston et San Antonio, et a étendu la technologie à la défense via l'armée américaine. Ses camions autonomes ont accumulé des centaines de milliers de kilomètres commerciaux, avec chauffeurs de sécurité à bord en attendant la pleine autonomie.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "waabi": {
+    "ar": {
+      "name": "Waabi",
+      "country": "كندا",
+      "sub_domain": "شاحنات ذاتية القيادة",
+      "short_description": "تقود شاحنات ذاتية القيادة باستخدام نموذج عالمي بدلاً من الاعتماد على أميال الأسطول على الطرق.",
+      "technology": "نماذج عالمية عصبية بحلقة مغلقة",
+      "why_relevant": "تؤمن بأن التدريب القائم على المحاكاة أولاً يتفوق على جمع مليارات الأميال من البيانات.",
+      "history": "تأسست Waabi في تورونتو عام 2021 على يد راحيل أورتاسون، كبيرة العلماء السابقة في أوبر ATG وأحد أبرز أسماء أبحاث التعلّم العميق. أطروحتها: يمكن صقل القيادة الذاتية إلى حد كبير عبر المحاكاة باستخدام نماذج عالمية توليدية مغلقة الحلقة بدلاً من مليارات الأميال الحقيقية. جمعت الشركة الناشئة 83.5 مليون دولار عند إطلاقها ثم 200 مليون دولار من السلسلة B عام 2024، بدعم من مستثمرين بينهم أوبر وNVIDIA. يشغّل نظام Waabi Driver استقلالية الشاحنات بعيدة المدى على ممرات الشحن الأمريكية بالشراكة مع ناقلات مثل Uber Freight، ما يقدّم بديلاً قائماً على الحوسبة لجمع البيانات التقليدي.",
+      "hq_city": "تورونتو"
+    },
+    "fr": {
+      "name": "Waabi",
+      "country": "Canada",
+      "sub_domain": "Camionnage autonome",
+      "short_description": "Pilote des camions autonomes avec un modèle du monde plutôt qu'avec des kilomètres parcourus en flotte.",
+      "technology": "Modèles du monde neuronaux en boucle fermée",
+      "why_relevant": "Estime que l'entraînement par simulation peut surpasser la collecte de milliards de kilomètres de données.",
+      "history": "Waabi a été fondée à Toronto en 2021 par Raquel Urtasun, ancienne scientifique en chef d'Uber ATG et figure majeure de la recherche en apprentissage profond. Sa thèse : la conduite autonome peut être perfectionnée en grande partie en simulation grâce à des modèles du monde génératifs en boucle fermée, plutôt qu'avec des milliards de kilomètres réels. La startup a levé 83,5 millions de dollars à son lancement puis 200 millions en série B en 2024, avec des investisseurs comme Uber et NVIDIA. Le Waabi Driver assure l'autonomie de camionnage longue distance sur des corridors de fret américains avec des partenaires comme Uber Freight, proposant une alternative centrée sur le calcul à la collecte de données traditionnelle.",
+      "hq_city": "Toronto"
+    }
+  },
+  "may-mobility": {
+    "ar": {
+      "name": "May Mobility",
+      "country": "الولايات المتحدة",
+      "sub_domain": "حافلات مكوكية ذاتية القيادة",
+      "short_description": "تشغّل حافلات مكوكية ذاتية القيادة لوكالات النقل والمراكز الحيوية.",
+      "technology": "حافلات صغيرة دون سائق",
+      "why_relevant": "أوسع خدمة عامة على غرار سيارات الأجرة ذاتية القيادة للنقل اليومي.",
+      "history": "تأسست May Mobility عام 2017 في آن آربر بولاية ميشيغان على يد فريق يقوده الباحث في الأنظمة المستقلة إدوين أولسون، منبثقاً من مختبر APRIL للروبوتات في جامعة ميشيغان. بنت الشركة حافلات صغيرة ذاتية القيادة غنية بالحساسات مصممة لمسارات نقل ثابتة لا لسيارات أجرة مفتوحة الطرق. أطلقت May Mobility أولى عمليات الحافلات الذاتية العامة في مدن مثل غراند رابيدز وأوهايو وآرلينغتون بتكساس، وعقدت شراكة عميقة مع تويوتا شملت تجربة في مدينة تويوتا اليابانية. ووفّرت نموذجها المتمركز على النقل العام رحلات ذاتية القيادة أكثر من معظم المنافسين، ما جعلها رائدة الحافلات الذاتية المجتمعية.",
+      "hq_city": "آن آربر"
+    },
+    "fr": {
+      "name": "May Mobility",
+      "country": "États-Unis",
+      "sub_domain": "Navettes autonomes",
+      "short_description": "Exploite des navettes autonomes pour les agences de transport et les hubs.",
+      "technology": "Minibus sans chauffeur",
+      "why_relevant": "Le service public de type robotaxi le plus étendu pour le transport quotidien.",
+      "history": "May Mobility a été fondée en 2017 à Ann Arbor, dans le Michigan, par une équipe menée par Edwin Olson, chercheur en systèmes autonomes, issue du laboratoire de robotique APRIL de l'Université du Michigan. La société a construit des navettes autonomes sans chauffeur, riches en capteurs, conçues pour des itinéraires fixes plutôt que pour des robotaxis en circulation libre. May Mobility a lancé les premiers déploiements publics de navettes autonomes à Grand Rapids, dans l'Ohio et à Arlington, au Texas, et a noué un partenariat étroit avec Toyota, y compris un pilote à Toyota City, au Japon. Son modèle orienté transport en commun a fourni plus de courses autonomes que la plupart des concurrents, faisant de la société le leader des navettes AV communautaires.",
+      "hq_city": "Ann Arbor"
+    }
+  },
+  "zoox": {
+    "ar": {
+      "name": "Zoox",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سيارات أجرة ذاتية القيادة",
+      "short_description": "شركة مملوكة لأمازون تطوّر سيارة أجرة ذاتية القيادة متناظرة تسير في الاتجاهين.",
+      "technology": "سيارة أجرة ذاتية القيادة من المستوى L4 مصمّمة خصيصاً",
+      "why_relevant": "تصميم مركبة مُصمّمة خصيصاً يلغي عجلة القيادة والمرايا.",
+      "history": "تأسست Zoox عام 2014 على يد المصمم تيم كينتلي-كلاي وجيسي ليفينسون، اللذين رفضا السيارات المعدّلة لفائدة مركبة ذاتية القيادة مصمّمة من الصفر. أمضت الشركة سنوات في تطوير سيارتها المتناظرة ثنائية الاتجاه التي لا عجلة قيادة فيها وبقيادة رباعية العجلات، ثم كشفت عن المركبة الإنتاجية عام 2020. وفي تلك السنة استحوذت أمازون على Zoox بنحو 1.2 مليار دولار، ما سرّع تطورها. وبعد اختبارات مكثفة في لاس فيغاس وفوستر سيتي، بدأت Zoox نقل أفراد من العامة عام 2023-2024، متقدمة نحو عمليات ذاتية القيادة موثوقة من المستوى L4 داخل محفظة أمازون للروبوتات.",
+      "hq_city": "فوستر سيتي"
+    },
+    "fr": {
+      "name": "Zoox",
+      "country": "États-Unis",
+      "sub_domain": "Robotaxis",
+      "short_description": "Développeur, propriété d'Amazon, d'un robotaxi symétrique bidirectionnel.",
+      "technology": "Robotaxi L4 conçu de A à Z",
+      "why_relevant": "Une conception dédiée qui supprime volant et rétroviseurs.",
+      "history": "Zoox a été fondée en 2014 par le designer Tim Kentley-Klay et Jesse Levinson, qui ont rejeté les voitures rétrofitées au profit d'un véhicule autonome conçu de toutes pièces. La société a passé des années à développer son robotaxi symétrique et bidirectionnel, sans volant et à quatre roues directrices, en le testant sur des campus privés avant de dévoiler le véhicule de série en 2020. Cette année-là, Amazon a racheté Zoox pour environ 1,2 milliard de dollars, accélérant son développement. Après des essais intensifs à Las Vegas et Foster City, Zoox a commencé à transporter du public en 2023-2024, visant des opérations L4 sans conducteur parfaitement validées au sein du portefeuille de robotique d'Amazon.",
+      "hq_city": "Foster City"
+    }
+  },
+  "waymo": {
+    "ar": {
+      "name": "Waymo",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سيارات أجرة ذاتية القيادة",
+      "short_description": "تشغّل أكبر أساطيل سيارات الأجرة ذاتية القيادة تجارياً في الولايات المتحدة.",
+      "technology": "قيادة من المستوى L4 تعتمد على الليدار أولاً",
+      "why_relevant": "النموذج المرجعي لخدمة سيارات الأجرة ذاتية القيادة العامة على نطاق واسع.",
+      "history": "بدأت Waymo كمشروع سيارة ذاتية القيادة لدى جوجل عام 2009، تحت قيادة سيباستيان ثرون ثم كريس أورميسون، لتتراكم عقود من أبحاث القيادة الذاتية داخل Alphabet. أُعيد إطلاقها باسم Waymo عام 2016، واختبرت أسطولها من ميني فان كرايسلر باسيفكا في أريزونا. افتُتحت خدمة طلب السيارات Waymo One أمام العامة في فينيكس عام 2018، ثم امتدت إلى سان فرانسيسكو ولوس أنجلوس وأوستن، لتصبح الأولى التي تشغّل أساطيل تجارية واسعة النطاق دون سائق بالكامل. وبحلول منتصف العشرينيات كانت Waymo قد أنجزت عشرات الملايين من الرحلات المدفوعة وعقدت شراكات مركبات مع Zeekr ويغوار وهيونداي لتجاوز أسطولها الأولي.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "Waymo",
+      "country": "États-Unis",
+      "sub_domain": "Robotaxis",
+      "short_description": "Exploite les plus grandes flottes commerciales de robotaxis aux États-Unis.",
+      "technology": "Conduite L4 privilégiant le lidar",
+      "why_relevant": "Le déploiement de référence pour un service public de robotaxis à grande échelle.",
+      "history": "Waymo a commencé comme projet de voiture autonome de Google en 2009, sous Sebastian Thrun puis Chris Urmson, accumulant des décennies de recherche en conduite autonome au sein d'Alphabet. Rebaptisée Waymo en 2016, la société a testé sa flotte de Chrysler Pacifica en Arizona. Le service de VTC Waymo One a ouvert au public à Phoenix en 2018, avant de s'étendre à San Francisco, Los Angeles et Austin, devenant la première à exploiter des flottes commerciales entièrement sans conducteur à grande échelle. Au milieu des années 2020, Waymo avait réalisé des dizaines de millions de courses payantes et noué des partenariats avec Zeekr, Jaguar et Hyundai pour dépasser sa flotte initiale.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "cruise": {
+    "ar": {
+      "name": "Cruise",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سيارات أجرة ذاتية القيادة",
+      "short_description": "مطوّرة سيارات أجرة ذاتية القيادة بدعم من جنرال موتورز، مع تحوّل حديث نحو الدفاع.",
+      "technology": "طلب سيارات ذاتية القيادة",
+      "why_relevant": "أظهرت العقبات التنظيمية أمام توسيع نطاق سيارات الأجرة ذاتية القيادة في المدن.",
+      "history": "تأسست Cruise في سان فرانسيسكو عام 2013 على يد كايل فوغت ودان كان، وباعت في البداية مجموعات استقلالية للطرق السريعة قبل استحواذ جنرال موتورز عليها عام 2016. وبدعم من جي إم، طوّرت Cruise سيارتها الأجرة Origin وأطلقت رحلات عامة دون سائق في سان فرانسيسكو ثم في عدة مدن أمريكية. تعثّر البرنامج في أكتوبر 2023 عندما فقدت الشركة ترخيص تشغيلها في كاليفورنيا بعد حادثة سحب مشاة، ما أوقف عملياتها. وأعادت Cruise بعدها هيكلة نفسها، فخرجت من سيارات الأجرة الذاتية لصالح التعاون مع كيان جي إم الجديد ومايكروسوفت، وأعادت التموضع نحو الدفاع والاستقلالية الشخصية، فيما غادر فوغت الشركة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Cruise",
+      "country": "États-Unis",
+      "sub_domain": "Robotaxis",
+      "short_description": "Développeur de robotaxis soutenu par GM, désormais réorienté vers la défense.",
+      "technology": "VTC autonome",
+      "why_relevant": "A illustré les obstacles réglementaires au déploiement urbain des robotaxis.",
+      "history": "Cruise a été fondée à San Francisco en 2013 par Kyle Vogt et Dan Kan, vendant d'abord des kits d'autonomie autoroutière avant son rachat par General Motors en 2016. Avec le soutien de GM, Cruise a développé le robotaxi Origin et lancé des courses sans conducteur à San Francisco, puis dans plusieurs villes américaines. Le programme a déraillé en octobre 2023 lorsque la société a perdu son permis d'exploitation en Californie après un incident impliquant un piéton, provoquant des pauses opérationnelles. Cruise s'est ensuite réorganisé, quittant les robotaxis au profit d'un partenariat avec la nouvelle entité de GM et Microsoft, et s'est recentré sur la défense et l'autonomie personnelle, Kyle Vogt quittant l'entreprise.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "pony-ai": {
+    "ar": {
+      "name": "Pony.ai",
+      "country": "الصين",
+      "sub_domain": "سيارات أجرة ذاتية القيادة",
+      "short_description": "تشغّل خدمات طلب سيارات ذاتية القيادة في مدن صينية وممرات شحن بري.",
+      "technology": "سيارة أجرة ذاتية القيادة من المستوى L4، دون سائق أمان",
+      "why_relevant": "من أوائل الشركات المرخّصة لتقاضي أجور على رحلات دون سائق.",
+      "history": "تأسست Pony.ai عام 2016 على يد جيمس بينغ، المهندس المعماري السابق في بايدو ومهندس أوتوبايلوت في تسلا، وتيانشنغ لو، الباحث السابق في جوجل للقيادة الذاتية. أطلقت الشركة الناشئة اختبارات سيارات أجرة ذاتية القيادة في الولايات المتحدة والصين معاً، وعملت عن كثب مع تويوتا وأنشأت ممرات شحن ذاتي القيادة. أصبحت Pony.ai من أولى الشركات المرخّصة لتقاضي أجور على رحلات دون سائق، فتوسّعت في أسواق التاكسي في بكين وقوانغتشو. أُدرجت الشركة في ناسداك عام 2024 بعد سنوات من نمو الخدمة في المدن الصينية وتجارب دولية في دبي وشراكات تدفع بالشحن من المستوى L4.",
+      "hq_city": "قوانغتشو"
+    },
+    "fr": {
+      "name": "Pony.ai",
+      "country": "Chine",
+      "sub_domain": "Robotaxis",
+      "short_description": "Exploite des VTC autonomes dans des villes chinoises et sur des corridors de fret.",
+      "technology": "Robotaxi L4, sans conducteur de sécurité",
+      "why_relevant": "L'une des premières entreprises autorisées à facturer des trajets sans chauffeur.",
+      "history": "Pony.ai a été fondée en 2016 par James Peng, ancien architecte de Baidu et ingénieur d'Autopilot chez Tesla, et Tiancheng Lou, chercheur ex-Google en conduite autonome. La startup a lancé des tests de robotaxis aux États-Unis et en Chine, travaillant étroitement avec Toyota et établissant des corridors de camionnage autonome. Elle est devenue l'une des premières sociétés autorisées à facturer des trajets sans conducteur, se déployant sur les marchés de taxis de Pékin et de Guangzhou. L'entrée de Pony.ai au Nasdaq en 2024 a suivi des années de croissance du service dans les villes chinoises, des essais internationaux à Dubaï et des partenariats pour le fret L4.",
+      "hq_city": "Guangzhou"
+    }
+  },
+  "weride": {
+    "ar": {
+      "name": "WeRide",
+      "country": "الصين",
+      "sub_domain": "سيارات وحافلات ذاتية القيادة",
+      "short_description": "تشغّل سيارات أجرة وحافلات ذاتية القيادة ومركبات لوجستية مستقلة.",
+      "technology": "قيادة ذاتية حضرية من المستوى L4",
+      "why_relevant": "خدمة نقل دون سائق بين المطارات عالمياً في الشرق الأوسط وآسيا.",
+      "history": "تأسست WeRide في قوانغتشو عام 2017 على يد توني هان، نائب الرئيس السابق في بايدو وباحث في الذكاء الاصطناعي، وبدعم من شركة نيسان. طوّرت الشركة عائلة منتجات كاملة من المستوى L4، تشمل سيارات أجرة ذاتية القيادة وحافلات ذاتية وشاحنات مستقلة وكنّاسات شوارع ذاتية القيادة، وحصلت عام 2023 على أول ترخيص تجاري صيني لنقل ركاب دون سائق. وامتدت إلى الشرق الأوسط، فنالت أول ترخيص لسيارات أجرة ذاتية القيادة في العاصمة الإماراتية أبوظبي. أُدرجت WeRide في ناسداك عام 2024-2025 بعد انتشار دائم في مدن صينية وأساطيل دولية، ما يجعلها من شركات القيادة الذاتية الصينية القليلة عالمية النطاق.",
+      "hq_city": "قوانغتشو"
+    },
+    "fr": {
+      "name": "WeRide",
+      "country": "Chine",
+      "sub_domain": "Robotaxis et robobus",
+      "short_description": "Exploite des robotaxis, des robobus et des véhicules logistiques autonomes.",
+      "technology": "Autonomie urbaine L4",
+      "why_relevant": "Service sans chauffeur entre aéroports au Moyen-Orient et en Asie.",
+      "history": "WeRide a été fondée à Guangzhou en 2017 par Tony Han, ancien vice-président de Baidu et chercheur en IA, avec le soutien du constructeur Nissan. La société a développé toute une famille de produits L4 (robotaxis, robobus, robovans et balayeuses autonomes) et a décroché en 2023 la première licence chinoise de transport de passagers sans conducteur. Elle s'est étendue au Moyen-Orient, recevant la première licence de taxi autonome de la capitale émiratie, Abou Dabi. L'introduction en bourse de WeRide au Nasdaq en 2024-2025 a suivi des déploiements pluriannuels dans les villes chinoises et des flottes internationales, faisant d'elle l'une des rares entreprises AV chinoises véritablement mondiales.",
+      "hq_city": "Guangzhou"
+    }
+  },
+  "momenta": {
+    "ar": {
+      "name": "Momenta",
+      "country": "الصين",
+      "sub_domain": "أنظمة مساعدة القيادة والقيادة الذاتية",
+      "short_description": "تزوّد مصنّعي السيارات العالميين بأنظمة مساعدة القيادة والقيادة الذاتية.",
+      "technology": "منظومة ADAS تعتمد على الكاميرا أولاً",
+      "why_relevant": "باعت مئات الآلاف من أنظمة ADAS لمصنّعي المعدات الأصلية العالميين.",
+      "history": "تأسست Momenta في بكين عام 2016 على يد شو دونغ تساو، باحث سابق في مايكروسوفت ريسيرش، باستراتيجية مزدوجة: بيع أنظمة مساعدة القيادة ADAS على نطاق واسع مع تجميع البيانات لفتح الاستقلالية الكاملة من المستوى L4. تعاونت الشركة مع تويوتا ومرسيدس-بنز وبوش، وصدّرت مئات آلاف الأنظمة لبرامج مصنّعي المعدات الأصلية حول العالم. واجتذب نهجها القائم على أن كل نظام يُباع يغذّي بيانات حقيقية منظومتها الذاتية مستثمرين كباراً مثل تماسيك وجنرال موتورز. تواصل Momenta العمل من بكين بوصفها أحد المزودين الصينيين الرائدين للقيادة الذاتية المعتمدة على الكاميرا أولاً.",
+      "hq_city": "بكين"
+    },
+    "fr": {
+      "name": "Momenta",
+      "country": "Chine",
+      "sub_domain": "ADAS et autonomie",
+      "short_description": "Fournit des systèmes d'aide à la conduite et de conduite autonome aux constructeurs mondiaux.",
+      "technology": "Pile ADAS privilégiant la caméra",
+      "why_relevant": "A vendu des centaines de milliers de systèmes ADAS à des OEM mondiaux.",
+      "history": "Momenta a été fondée à Pékin en 2016 par Xudong Cao, ancien chercheur de Microsoft Research, avec une stratégie à deux volets : vendre des systèmes d'aide à la conduite (ADAS) à grande échelle tout en accumulant des données pour débloquer l'autonomie L4. La société s'est associée à Toyota, Mercedes-Benz et Bosch, expédiant des centaines de milliers de systèmes d'autoroute pour des programmes OEM mondiaux. Son approche « volant d'inertie », où chaque système vendu alimente de ses données la pile d'autonomie, a attiré des investisseurs comme Temasek et General Motors. Momenta continue d'opérer depuis Pékin comme l'un des principaux fournisseurs chinois d'autonomie privilégiant la caméra.",
+      "hq_city": "Pékin"
+    }
+  },
+  "oxbotica": {
+    "ar": {
+      "name": "Oxbotica",
+      "country": "المملكة المتحدة",
+      "sub_domain": "برمجيات المركبات ذاتية القيادة",
+      "short_description": "تطوّر برمجيات تجعل أي مركبة ذاتية القيادة، تحت اسم Oxa حالياً.",
+      "technology": "نظام تشغيل استقلالية عالمي",
+      "why_relevant": "من استقلالية عربات التخييم إلى الحافلات المكوكية دون سائق على الطرق البريطانية.",
+      "history": "بدأت Oxbotica عام 2014 منبثقة عن مجموعة الروبوتات المتنقلة في جامعة أكسفورد، وأسسها البروفيسوران بول نيومان وإنغمار بوسنر. فكرتها: منظومة برمجية استقلالية عالمية، أي نظام تشغيل يُدمج في أي مركبة بدلاً من بناء سيارات بنفسها. نشرت الشركة الأكسفوردية تقنيتها في عربات التخييم وقاطرات الشحن الجوي وروبوتات المستودعات وحافلات مكوكية ذاتية القيادة، ثم أعادت تسمية نفسها Oxa عام 2022. وبدعم من BP Ventures وسيسكو، جمعت Oxa نحو 225 مليون دولار وتحوّلت نحو نموذج تشغيل الأساطيل، محلّلةً لوجستيات مستقلة في موانئ ومواقع صناعية كبرى.",
+      "hq_city": "أكسفورد"
+    },
+    "fr": {
+      "name": "Oxbotica",
+      "country": "Royaume-Uni",
+      "sub_domain": "Logiciels AV",
+      "short_description": "Développe un logiciel qui rend n'importe quel véhicule autonome, désormais sous le nom d'Oxa.",
+      "technology": "OS d'autonomie universel",
+      "why_relevant": "De l'autonomie des vans aménagés aux navettes sans chauffeur sur les routes britanniques.",
+      "history": "Oxbotica a commencé en 2014 comme spin-off du groupe de robotique mobile de l'Université d'Oxford, fondée par les professeurs Paul Newman et Ingmar Posner. Son principe : une pile logicielle d'autonomie universelle, un OS pouvant être intégré à n'importe quel véhicule plutôt que de construire des voitures. La société d'Oxford a déployé sa technologie sur des vans aménagés, des tracteurs de fret aéroportuaire, des robots d'entrepôt et des navettes autonomes, avant de se rebaptiser Oxa en 2022. Soutenue par BP Ventures et Cisco, Oxa a levé environ 225 millions de dollars et s'est orientée vers un modèle d'exploitation de flottes, gérant la logistique autonome dans de grands ports et sites industriels.",
+      "hq_city": "Oxford"
+    }
+  },
+  "torc-robotics": {
+    "ar": {
+      "name": "Torc Robotics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "شاحنات ذاتية القيادة",
+      "short_description": "شركة تابعة لـ Daimler Truck تبني قيادة ذاتية من المستوى L4 للشاحنات التجارية.",
+      "technology": "استقلالية شحن من المستوى L4",
+      "why_relevant": "تكامل عميق مع مصنّع معدات أصلية يوفّر البرمجيات من الطريق إلى الإنتاج التسلسلي.",
+      "history": "تأسست Torc Robotics عام 2007 في بلاكسبرغ بولاية فيرجينيا على يد مايكل فليمنغ وزملاء من جامعة فيرجينيا التقنية، التي نال فريقها مسابقة DARPA الحضرية 2007. زوّدت الشركة المناجم والدفاع والزراعة بأنظمة ذاتية القيادة قبل تحوّلها إلى الشاحنات على الطرق السريعة. استحوذت دايملر تراك على أغلبية أسهم Torc عام 2019، مانحة إياها وصولاً حصرياً إلى منصات الشاحنات الثقيلة لديها. اختبرت Torc منظومتها من المستوى L4 مع سائقي أمان في نيو مكسيكو وواشنطن وفيرجينيا، بالشراكة مع Penske وSchneider، وتتقدّم نحو شحن تجاري دون سائق مرتبط مباشرة بمصنّع معدات أصلية.",
+      "hq_city": "بلاكسبرغ"
+    },
+    "fr": {
+      "name": "Torc Robotics",
+      "country": "États-Unis",
+      "sub_domain": "Camionnage autonome",
+      "short_description": "Filiale de Daimler Truck développant une autonomie L4 pour les camions commerciaux.",
+      "technology": "Autonomie de fret L4",
+      "why_relevant": "Une intégration poussée avec un OEM qui mène le logiciel de la route à la série.",
+      "history": "Torc Robotics a été fondée en 2007 à Blacksburg, en Virginie, par Michael Fleming et des collègues de Virginia Tech, dont l'équipe a remporté le DARPA Urban Challenge 2007. La société a fourni des systèmes autonomes pour les mines, la défense et l'agriculture avant de se tourner vers le camionnage autoroutier. Daimler Truck a pris une participation majoritaire dans Torc en 2019, offrant un accès exclusif aux plateformes poids lourds du constructeur. Torc a testé sa pile de niveau 4 avec chauffeurs de sécurité au Nouveau-Mexique, dans l'État de Washington et en Virginie, en partenariat avec Penske et Schneider, et avance vers un camionnage commercial sans conducteur adossé à un équipementier d'origine.",
+      "hq_city": "Blacksburg"
+    }
+  },
+  "plus": {
+    "ar": {
+      "name": "Plus",
+      "country": "الولايات المتحدة",
+      "sub_domain": "شاحنات ذاتية القيادة",
+      "short_description": "توفّر قيادة ذاتية للشاحنات بإشراف ودون سائق حول العالم.",
+      "technology": "استقلالية بإشراف، المستوى L4",
+      "why_relevant": "منظومة مُسلَّمة على عدة علامات تجارية للشاحنات عبر قارات متعددة.",
+      "history": "تأسست Plus عام 2016 في سانتا كلارا على يد ديفيد ليو وهاو تشنغ، مهندسين من ستانفورد وجوجل وتسلا، لتقديم استقلالية الشاحنات عبر أنظمة خاضعة للإشراف قابلة للنشر تجارياً. حقق نظامها PlusDrive حضوراً لدى مصنّعي شاحنات عالميين، في شراكات شملت FAW في الصين وإيفيكو في أوروبا وTraton. وبدلاً من اشتراط مليارات الأميال أولاً، ركّزت Plus على أنظمة مساعدة متقدمة تدرّ إيرادات أثناء جمع البيانات للاستقلالية الأعلى. خطّطت الشركة لإدراج عبر SPAC عام 2021 واجتازت تقلبات السوق بتوسيع انتشارها في ثلاث قارات، مركّزةً نفسها مزوّداً موثوقاً لاستقلالية الشحن.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Plus",
+      "country": "États-Unis",
+      "sub_domain": "Camionnage autonome",
+      "short_description": "Fournit une autonomie de camionnage supervisée et sans chauffeur dans le monde entier.",
+      "technology": "Autonomie supervisée, L4",
+      "why_relevant": "Une pile déployée sur plusieurs marques de camions sur plusieurs continents.",
+      "history": "Plus a été fondée en 2016 à Santa Clara par David Liu et Hao Zheng, ingénieurs issus de Stanford, Google et Tesla, pour développer l'autonomie du camionnage via des systèmes supervisés commercialement déployables. Sa solution PlusDrive a gagné du terrain chez des constructeurs mondiaux, dont FAW en Chine, Iveco en Europe et Traton. Plutôt que d'exiger des milliards de kilomètres préalables, Plus a mis l'accent sur des fonctions d'assistance avancée qui génèrent des revenus tout en collectant des données pour une autonomie supérieure. La société envisageait une cotation en SPAC en 2021 et a traversé les retournements de marché en étendant ses déploiements sur trois continents, s'imposant comme un fournisseur évolutif d'autonomie du fret.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "einride": {
+    "ar": {
+      "name": "Einride",
+      "country": "السويد",
+      "sub_domain": "شاحنات كهربائية ذاتية القيادة",
+      "short_description": "تشغّل أساطيل كهربائية بجيلها من Pod ذاتية القيادة.",
+      "technology": "شاحنات كهربائية ذاتية القيادة، تشغيل الأساطيل",
+      "why_relevant": "شحن وتحسين الشحن بين المراكز باستخدام طاقة متجددة.",
+      "history": "تأسست Einride في ستوكهولم عام 2016 على يد روبرت فالك وفيليب ليلجا، اللذين صوّرا شاحنات كهربائية ذاتية القيادة تُشغَّل عن بُعد وفق نموذج الشحن كخدمة. ظهر جيل مركباتها ذاتية القيادة Pod لأول مرة في السويد، وساهم جمع تجاوز 500 مليون دولار، من مستثمرين بينهم مستثمرون إسكندنافيون وEQT، في التمويل. دخلت Einride السوق الأمريكية بسرعة بعملاء مثل GE Appliances، وأطلقت منصّتها الرقمية Saga لتحسين المسارات والشحن للأساطيل الكهربائية. وبحلول منتصف العشرينيات كانت تعمل في أوروبا وأمريكا الشمالية، مركّزةً على الشحن بين المراكز بطاقة متجددة.",
+      "hq_city": "ستوكهولم"
+    },
+    "fr": {
+      "name": "Einride",
+      "country": "Suède",
+      "sub_domain": "Camions électriques autonomes",
+      "short_description": "Exploite des flottes électriques avec sa génération de Pods autonomes.",
+      "technology": "Camions AV électriques, exploitation de flotte",
+      "why_relevant": "Fret hub-to-hub chargé et optimisé grâce à une énergie renouvelable.",
+      "history": "Einride a été fondée à Stockholm en 2016 par Robert Falck et Filip Lilja, qui imaginaient des camions électriques et autonomes opérés à distance selon un modèle de « fret en tant que service ». La génération de Pods sans conducteur a fait ses débuts en Suède, et des levées de plus de 500 millions de dollars, notamment auprès d'investisseurs nordiques et d'EQT, ont financé son expansion. Einride s'est installée rapidement aux États-Unis, avec des clients comme GE Appliances, et a lancé la plateforme digitale Saga pour router, charger et optimiser les flottes électriques. Au milieu des années 2020, elle opérait en Europe et en Amérique du Nord, centrée sur une logistique hub-to-hub alimentée par les énergies renouvelables.",
+      "hq_city": "Stockholm"
+    }
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "quantumscape": {
+    "ar": {
+      "name": "QuantumScape",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات الحالة الصلبة",
+      "short_description": "رائدة في بطاريات الليثيوم-معدن ذات الحالة الصلبة للسيارات الكهربائية.",
+      "technology": "خلايا صلبة من السيراميك",
+      "why_relevant": "معيار عام أظهر أن الحالة الصلبة قادرة على الانتقال من المختبر إلى تقدم في المركبات.",
+      "history": "تأسست QuantumScape في 2010 على يد باحثين من جامعة ستانفورد، وطوّرت بهدوء فواصل سيراميكية للبطاريات الصلبة قبل إدراجها في البورصة عام 2020 بتقييم قارب عشرة مليارات دولار. تعمّقت الشراكة الاستراتيجية مع فولكسفاغن عبر اتفاقيات توريد ومشاريع مشتركة متعددة السنوات. سلّمت الشركة أول عينات من الفئة A بكميات محدودة عام 2022، ووصلت إلى خلايا من 24 طبقة، وكشفت عن خلايا QSE-5 في أواخر 2024 تلتها عينات من الفئة B عام 2025. ويُبقي إنتاج فاصل Cobra لخلايا QSE-5 إلى جانب برنامج Battery Elite الموجه للمركبات الكهربائية الشركة على مسار التطوير التجاري.",
+      "hq_city": "سان خوسيه"
+    },
+    "fr": {
+      "name": "QuantumScape",
+      "country": "États-Unis",
+      "sub_domain": "Batteries à état solide",
+      "short_description": "Pionnier des batteries lithium-métal à état solide pour véhicules électriques.",
+      "technology": "Cellules solides céramiques",
+      "why_relevant": "Référence publique montrant que l'état solide peut passer du laboratoire au progrès véhicule.",
+      "history": "Fondée en 2010 par d'anciens chercheurs de Stanford, QuantumScape a discrètement développé des séparateurs céramiques pour batteries à état solide avant son introduction en bourse en 2020 pour une valorisation proche de dix milliards de dollars. Un partenariat stratégique avec Volkswagen s'est approfondi grâce à des accords d'approvisionnement et des coentreprises pluriannuels. L'entreprise a livré ses premiers échantillons de série A en faible volume en 2022, atteint des cellules à 24 couches et dévoilé ses cellules QSE-5 fin 2024, suivies d'échantillons de série B en 2025. La production du séparateur Cobra pour la QSE-5, accompagnée de son programme Battery Elite destiné aux véhicules électriques, maintient le cap vers un déploiement commercial.",
+      "hq_city": "San José"
+    }
+  },
+  "solid-power": {
+    "ar": {
+      "name": "Solid Power",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات الحالة الصلبة",
+      "short_description": "تطوّر خلايا صلبة قائمة على الكبريتيد بالشراكة مع شركات السيارات.",
+      "technology": "إلكتروليت صلب من الكبريتيد",
+      "why_relevant": "تدخل كيمياء الحالة الصلبة إلى خطوط إنتاج المصانع العملاقة القياسية.",
+      "history": "انبثقت Solid Power من جامعة كولورادو عام 2012 لتسويق إلكتروليتات صلبة قائمة على الكبريتيد. جمعت الشركة تمويلاً خاصاً قبل إدراجها في البورصة في ديسمبر 2021، ثم عقدت شراكات متعددة السنوات مع BMW وفورد لتطوير مشترك. رفعت سعة خلاياها من 20 إلى 100 أمبير/ساعة، وأدخلت أقطاباً كهربائية بالمعالجة الجافة، ورخّصت تقنية الإلكتروليت لشركة SK On. وفي عام 2024 سلّمت خلايا من الفئة A-2 بمعايير السيارات لاعتماد العملاء، ولا تزال توسّع خطها التجريبي في لويزفيل لدعم نشر البطاريات في السيارات الكهربائية بمنتصف العقد.",
+      "hq_city": "لويزفيل"
+    },
+    "fr": {
+      "name": "Solid Power",
+      "country": "États-Unis",
+      "sub_domain": "Batteries à état solide",
+      "short_description": "Développe des cellules solides à base de sulfure avec des partenariats automobiles.",
+      "technology": "Électrolyte solide au sulfure",
+      "why_relevant": "Intègre la chimie de l'état solide aux lignes de production standard des Gigafactories.",
+      "history": "Née de l'Université du Colorado en 2012, Solid Power a été créée pour commercialiser des électrolytes solides à base de sulfure. L'entreprise a levé des fonds privés avant son introduction en bourse en décembre 2021, puis a signé des accords pluriannuels de développement conjoint avec BMW et Ford. Elle a fait passer ses cellules de 20 à 100 Ah, introduit des électrodes sèches et licencié sa technologie d'électrolyte à SK On. En 2024, elle a livré des cellules A-2 au format automobile pour qualification clients et continue d'étendre sa ligne pilote à Louisville en vue du déploiement automobile à la mi-décennie.",
+      "hq_city": "Louisville"
+    }
+  },
+  "24m-technologies": {
+    "ar": {
+      "name": "24M Technologies",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تصنيع البطاريات",
+      "short_description": "مخترعة خلية الليثيوم-أيون شبه الصلبة، أساس عملية التصنيع 3TO.",
+      "technology": "أقطاب شبه صلبة، Eolify",
+      "why_relevant": "تخفض النفقات الرأسمالية للبطاريات وتمكّن المصانع العملاقة من الطلاء الجاف.",
+      "history": "تأسست 24M Technologies عام 2010 انطلاقاً من معهد ماساتشوستس للتكنولوجيا لإعادة تصميم تصنيع الليثيوم-أيون عبر قطبها شبه الصلب، الذي يلغي مرحلة التجفيف في خطوط الطلاء التقليدية. ساعد التمويل الأوروبي من فولكسفاغن على توسيع المنصة، بينما نقل مرخّصون مثل كيوسيرا وفوجي فيلم وGPSC التايلاندية التقنية إلى آسيا. وفي عام 2023 كشفت الشركة عن عملية 3TO، وهي طريقة تصنيع متصلة وجافة بالكامل، إلى جانب كيمياء Eolify وتقنيات الخلايا. وهي الآن تُرخّص منصتها لشركاء مثل FREYR ضمن سعيها للإنتاج المباشر لخلايا التخزين طويل الأمد وقطاع السيارات.",
+      "hq_city": "كامبريدج"
+    },
+    "fr": {
+      "name": "24M Technologies",
+      "country": "États-Unis",
+      "sub_domain": "Fabrication de batteries",
+      "short_description": "Inventeur de la cellule lithium-ion semi-solide, base du procédé de fabrication 3TO.",
+      "technology": "Électrodes semi-solides, Eolify",
+      "why_relevant": "Réduit le capex des batteries et permet des gigafactories à revêtement sec.",
+      "history": "Fondée en 2010 à partir du MIT, 24M Technologies a repensé la fabrication du lithium-ion avec son électrode semi-solide, en supprimant l'étape de séchage des lignes d'enduction classiques. Le financement européen de Volkswagen a contribué à développer la plateforme, tandis que des licenciés comme Kyocera, Fujifilm et le thaïlandais GPSC l'ont portée en Asie. En 2023, l'entreprise a dévoilé le procédé 3TO, une méthode de fabrication continue entièrement sèche, aux côtés de sa chimie Eolify et de ses technologies de cellules. Elle concède désormais sa plateforme à des partenaires comme FREYR tout en visant une production directe de cellules longue durée et automobiles.",
+      "hq_city": "Cambridge"
+    }
+  },
+  "lilac-solutions": {
+    "ar": {
+      "name": "Lilac Solutions",
+      "country": "الولايات المتحدة",
+      "sub_domain": "استخراج الليثيوم",
+      "short_description": "عملية تبادل أيوني عالية الكفاءة لاستخراج الليثيوم من المحاليل الملحية.",
+      "technology": "استخراج الليثيوم بالتبادل الأيوني",
+      "why_relevant": "تفتح موارد المحاليل الملحية العالمية دون أحواض تبخير.",
+      "history": "تأسست Lilac Solutions عام 2016 لحل مشكلة استخراج الليثيوم البطيء والمستهلك للأراضي من المحاليل الملحية عبر منصة خرزات تبادل أيوني قابلة لإعادة الاستخدام. حصلت الشركة على دعم مبكر من صندوق Breakthrough Energy Ventures التابع لبيل غيتس، وأغلقت جولة تمويل من الفئة B بقيمة 150 مليون دولار عام 2022 في ميدان مزدحم بالساعين إلى الاستخراج المباشر. أثبتت التجارب الميدانية في نيفادا والأرجنتين وبوليفيا وبحر سالتون الأداء، وتلتها اتفاقيات تجارية مع مطوّرين مثل Lake Resources وVulcan Energy. وتعمل الآن على توسيع مصانعها النمطية لدعم عقود توريد الليثيوم الممتدة لعقود دون أحواض تبخير.",
+      "hq_city": "أوكلاند"
+    },
+    "fr": {
+      "name": "Lilac Solutions",
+      "country": "États-Unis",
+      "sub_domain": "Extraction du lithium",
+      "short_description": "Procédé d'échange d'ions efficace pour extraire le lithium de la saumure.",
+      "technology": "Extraction du lithium par échange d'ions",
+      "why_relevant": "Libère les ressources mondiales de saumure sans bassins d'évaporation.",
+      "history": "Lilac Solutions a été fondée en 2016 pour résoudre le problème lent et gourmand en terrain de l'extraction du lithium à partir de saumure grâce à des billes d'échange d'ions réutilisables. L'entreprise a reçu un soutien précoce de Breakthrough Energy Ventures, le fonds de Bill Gates, puis a bouclé une série B de 150 millions de dollars en 2022 dans un secteur très disputé autour de l'extraction directe. Des pilotes de terrain au Nevada, en Argentine, en Bolivie et à Salton Sea ont validé la performance, suivis d'accords commerciaux avec des développeurs comme Lake Resources et Vulcan Energy. Elle met désormais à l'échelle ses usines modulaires pour honorer des contrats d'approvisionnement pluridécennaux sans bassins d'évaporation.",
+      "hq_city": "Oakland"
+    }
+  },
+  "storedot": {
+    "ar": {
+      "name": "StoreDot",
+      "country": "إسرائيل",
+      "sub_domain": "الشحن السريع للغاية",
+      "short_description": "تطوّر خلايا بطاريات سيليكون للشحن السريع للغاية (XFC).",
+      "technology": "خلايا XFC غالبة السيليكون",
+      "why_relevant": "خلايا بقطب أنود سيليكوني أثبتت شحنها من 10 إلى 80 بالمئة خلال دقائق.",
+      "history": "تأسست StoreDot عام 2012 في إسرائيل لتطوير خلايا الشحن فائق السرعة (XFC)، متحولة من الليثيوم-أيون إلى أنودات غالبة السيليكون تمنح مدى حقيقياً في دقائق. ضمّت جولة الفئة D عام 2021 مستثمرين مثل دايملر وBP وسامسونغ، وأثبت خطها الزمني 100in5 إمكانية شحن مدى 100 ميل في خمس دقائق. سلّمت الشركة عينات من الفئة B لمصنّعي سيارات عالميين مثل فولفو وفينفاست، وأعلنت جاهزيتها التجارية. وهي تواصل تطوير كيميائيات قائمة على أشباه الفلزات وتهدف إلى أداء 100in3 مع ترخيص تقنية XFC لشركاء صناعة البطاريات.",
+      "hq_city": "هرتسليا"
+    },
+    "fr": {
+      "name": "StoreDot",
+      "country": "Israël",
+      "sub_domain": "Recharge ultra-rapide",
+      "short_description": "Développe des cellules de batterie au silicium à recharge ultra-rapide (XFC).",
+      "technology": "Cellules XFC à dominante silicium",
+      "why_relevant": "Des cellules à anode silicium capables de charger de 10 à 80 pour cent en quelques minutes.",
+      "history": "StoreDot a été fondée en 2012 en Israël pour développer des cellules à recharge ultra-rapide (XFC), passant du lithium-ion à des anodes à dominante silicium qui apportent une autonomie réelle en quelques minutes. Sa série D de 2021 a réuni Daimler, BP et Samsung, et sa feuille de route 100in5 a démontré la recharge de 100 miles d'autonomie en cinq minutes. La société a livré des échantillons de série B à des constructeurs comme Volvo et VinFast et annoncé sa maturité commerciale. Elle poursuit ses chimies à base de métalloïdes, vise une performance 100in3 et licencie sa technologie XFC à des partenaires batteries.",
+      "hq_city": "Herzliya"
+    }
+  },
+  "energy-dome": {
+    "ar": {
+      "name": "Energy Dome",
+      "country": "إيطاليا",
+      "sub_domain": "تخزين الشبكة",
+      "short_description": "تصنع بطارية تخزين طويلة الأمد قائمة على ثاني أكسيد الكربون من مكوّنات جاهزة.",
+      "technology": "دورة ضغط CO2",
+      "why_relevant": "مواد رخيصة ومتوفرة بكثرة لمحطة طاقة لتخزين الطاقة على مستوى المحطات.",
+      "history": "تأسست Energy Dome عام 2017 في ميلانو على يد كلاوديو سباداتشيني وزملاء من قطاع الطاقة لتسويق بطارية تخزين طويلة الأمد قائمة على ثاني أكسيد الكربون ومبنيّة من مكونات جاهزة. بدأ أول نموذج تجريبي في سردينيا عمله عام 2022، وأغلقت الشركة تمويلاً بقيمة 55 مليون دولار قاده مستثمرون من بينهم المجلس الأوروبي للابتكار. أثبتت محطة أوتانا بسعة 20 ميجاواط/ساعة دورة شحن وتفريغ CO2، ووقّعت الشركة اتفاقيات لنشر وحدات تجارية في مناطق مثل أفريقيا وإيطاليا. وتظل Energy Dome مركزة على استبدال محطات الغاز الذروية بتخزين رخيص وقابل للتوسع.",
+      "hq_city": "ميلانو"
+    },
+    "fr": {
+      "name": "Energy Dome",
+      "country": "Italie",
+      "sub_domain": "Stockage sur réseau",
+      "short_description": "Fabrique une batterie de stockage longue durée à base de CO2 à partir de composants standard.",
+      "technology": "Cycle de compression du CO2",
+      "why_relevant": "Des matériaux bon marché et abondants pour une centrale de stockage à l'échelle d'une station.",
+      "history": "Energy Dome a été fondée en 2017 à Milan par Claudio Spadacini et des collègues de l'industrie énergétique pour commercialiser une batterie longue durée à base de CO2 assemblée à partir de composants standard. Un premier démonstrateur en Sardaigne a démarré en 2022 et l'entreprise a bouclé 55 millions de dollars de financements, notamment avec le Conseil européen de l'innovation. Son usine d'Ottana de 20 MWh a validé le cycle charge-décharge du CO2, et des accords ont été signés pour déployer des unités commerciales en Afrique et en Italie. Energy Dome reste concentrée sur le remplacement des centrales de pointe au gaz par un stockage bon marché et extensible.",
+      "hq_city": "Milan"
+    }
+  },
+  "highview-power": {
+    "ar": {
+      "name": "Highview Power",
+      "country": "المملكة المتحدة",
+      "sub_domain": "تخزين الشبكة",
+      "short_description": "تشغّل تخزين الطاقة بالهواء السائل لتوليد طاقة على نطاق ضخم لساعات متعددة.",
+      "technology": "الهواء السائل (LAES)",
+      "why_relevant": "مشاريع مؤكدة بسعة 2.5 GWh مبنية من مواد خالية من الليثيوم.",
+      "history": "تأسست Highview Power عام 2005 لتطوير تخزين الطاقة بالهواء السائل (LAES)، انطلاقاً من نموذج أولي في محطة كهرباء اسكتلندية. كانت محطة بيلسوورث بسعة 5 ميجاواط/15 ميجاواط/ساعة قرب مانشستر، التي دخلت الخدمة عام 2018، أول نظام هواء سائل على نطاق الشبكة في العالم. جمعت الشركة استثمارات استراتيجية من GE وسوميتومو وسيتي غروب في السنوات اللاحقة، وحصلت على ترخيص إنشاء منشأة بسعة 300 ميجاواط/ساعة في كارينغتون. وفي عام 2025 أعاد اتحاد بقيادة مستثمرين جدد رسملة الشركة لتمويل المشاريع طويلة الأمد، مع التخطيط لمزيد من سعات LAES على نطاق جيجاواط في المملكة المتحدة.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "Highview Power",
+      "country": "Royaume-Uni",
+      "sub_domain": "Stockage sur réseau",
+      "short_description": "Exploite le stockage d'énergie par air liquide pour une production massive de plusieurs heures.",
+      "technology": "Air liquide (LAES)",
+      "why_relevant": "Des projets confirmés à l'échelle de 2,5 GWh construits sans lithium.",
+      "history": "Highview Power a été fondée en 2005 pour développer le stockage d'énergie par air liquide (LAES), à partir d'un prototype installé dans une centrale écossaise. Sa centrale de 5 MW/15 MWh à Pilsworth, près de Manchester, mise en service en 2018, fut le premier système mondial d'air liquide à l'échelle du réseau. L'entreprise a levé des investissements stratégiques auprès de GE, Sumitomo et Citigroup dans les années suivantes et obtenu le permis pour un site de 300 MWh à Carrington. En 2025, un consortium mené par de nouveaux investisseurs a recapitalisé Highview pour financer des projets longue durée, avec davantage de capacités LAES au gigawatt prévues au Royaume-Uni.",
+      "hq_city": "Londres"
+    }
+  },
+  "form-energy": {
+    "ar": {
+      "name": "Form Energy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تخزين الشبكة",
+      "short_description": "تنشر بطاريات الحديد-الهواء متعددة الأيام لتحل محل محطات الغاز الذروية.",
+      "technology": "أكسدة-اختزال الحديد-الهواء",
+      "why_relevant": "إثبات إمكانية تشغيل بطاريات لعدة أيام بتكلفة منخفضة.",
+      "history": "تأسست Form Energy عام 2017 على يد فريق يضم المسؤول السابق في تيسلا ماتيو خاراميلو لتقديم تخزين متعدد الأيام بتكلفة أقل عبر كيمياء الحديد-الهواء. جمعت الشركة أكثر من مليار دولار من مستثمرين مثل أرسيلور ميتال وBreakthrough Energy Ventures وTPG. وفي عام 2023 رُكّبت أول بطارية كاملة النطاق بقدرة 1 ميجاواط/100 ميجاواط/ساعة في مينيسوتا مع Great River Energy، وفي مطلع 2024 افتتحت مصنعاً عالي الإنتاجية للحديد-الهواء في ويرتون بفرجينيا الغربية. واختارتها شركة Xcel Energy لمشروع بقدرة 10 ميجاواط/1 جيجاواط/ساعة لاستبدال محطات الغاز الذروية.",
+      "hq_city": "سومرفيل"
+    },
+    "fr": {
+      "name": "Form Energy",
+      "country": "États-Unis",
+      "sub_domain": "Stockage sur réseau",
+      "short_description": "Déploie des batteries fer-air multi-jours pour remplacer les centrales d'appoint au gaz.",
+      "technology": "Redox fer-air",
+      "why_relevant": "Preuve qu'un fonctionnement de batterie sur plusieurs jours est possible à faible coût.",
+      "history": "Form Energy a été fondée en 2017 par une équipe comprenant l'ancien dirigeant de Tesla Mateo Jaramillo, dans le but d'offrir un stockage multi-jours moins cher grâce à la chimie fer-air. L'entreprise a levé plus d'un milliard de dollars auprès d'investisseurs comme ArcelorMittal, Breakthrough Energy Ventures et TPG. En 2023, sa première batterie pleine échelle de 1 MW/100 MWh a été installée au Minnesota avec Great River Energy, puis début 2024 elle a ouvert une usine fer-air à grand volume à Weirton, en Virginie-Occidentale. Xcel Energy a retenu l'entreprise pour un projet de 10 MW/1 GWh visant à remplacer les centrales de pointe au gaz.",
+      "hq_city": "Somerville"
+    }
+  },
+  "natron-energy": {
+    "ar": {
+      "name": "Natron Energy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات الصوديوم-أيون",
+      "short_description": "تصنّع بطاريات صوديوم-أيون بدون ليثيوم أو كوبالت.",
+      "technology": "خلايا صوديوم بالأزرق البروسي",
+      "why_relevant": "50,000 دورة بكيمياء آمنة من الحرائق لمراكز البيانات.",
+      "history": "تأسست Natron Energy عام 2012 لتسويق بطاريات الصوديوم-أيون بأقطاب من الأزرق البروسي، وهي كيمياء خالية من الليثيوم والكوبالت والنيكل والمنغنيز. بدعم من مستثمرين مثل ABB وChevron Technology Ventures، أمضت الشركة سنوات في تحسين أداء الدورات لتصل إلى تسامح 50,000 دورة. وفي عام 2024 بدأت ناترون إنتاجاً تجارياً في منشأة مخصصة في هولاند بولاية ميشيغان، مستهدفةً مراكز البيانات وأنظمة إمداد الطاقة غير المنقطعة والطاقة الاحتياطية الصناعية التي تستفيد من الخرج اللحظي العالي والأمان المتأصل. وتوسّع الشركة طاقتها التصنيعية لمواكبة الطلب المتزايد على مراكز البيانات.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Natron Energy",
+      "country": "États-Unis",
+      "sub_domain": "Batteries sodium-ion",
+      "short_description": "Fabrique des batteries sodium-ion sans lithium ni cobalt.",
+      "technology": "Cellules sodium au bleu de Prusse",
+      "why_relevant": "50 000 cycles avec une chimie ignifuge pour les centres de données.",
+      "history": "Natron Energy a été fondée en 2012 pour commercialiser des batteries sodium-ion à électrodes de bleu de Prusse, une chimie sans lithium, cobalt, nickel ni manganèse. Soutenue par des investisseurs comme ABB et Chevron Technology Ventures, l'entreprise a passé des années à optimiser les performances de cyclage, atteignant 50 000 cycles. En 2024, Natron a lancé une production commerciale dans une usine dédiée à Holland, dans le Michigan, ciblant centres de données, onduleurs et alimentations de secours industrielles qui profitent d'une puissance instantanée élevée et d'une sécurité intrinsèque. Elle augmente sa capacité de fabrication pour répondre à la demande croissante des centres de données.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "enervenue": {
+    "ar": {
+      "name": "EnerVenue",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تخزين الشبكة",
+      "short_description": "تبني أوعية تخزين طاقة معدنية-هيدروجينية للتخزين طويل الأمد.",
+      "technology": "خلايا معدنية-هيدروجينية",
+      "why_relevant": "عمر يتجاوز عقوداً وهدف تشغيل 75 عاماً بفضل تقنية مجرّبة في الفضاء.",
+      "history": "تأسست EnerVenue عام 2017 لتكييف كيمياء النيكل-الهيدروجين المثبتة في المهام الفضائية مع التخزين الأرضي طويل الأمد، اعتماداً على تقنيات طوّرتها ستانفورد وناسا. عجّلت جولة تمويل بقيمة 100 مليون دولار عام 2021، قادها مستثمرون من بينهم Schlumberger New Energy، من تطوير منتج أوعية تخزين الطاقة. افتتحت الشركة منشأة تصنيع عالية الإنتاجية في نيو ريتشموند بولاية ويسكونسن، وبدأت شحن أوعيتها المعدنية-الهيدروجينية التي تستهدف خدمة 30 عاماً مع تدهور ضئيل في الاستخدام اليومي. وتوحّد EnerVenue منتجاتها في حاويات كبيرة للتطبيقات المتجددة وقطاع المرافق.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "EnerVenue",
+      "country": "États-Unis",
+      "sub_domain": "Stockage sur réseau",
+      "short_description": "Construit des vaisseaux de stockage d'énergie métal-hydrogène pour le stockage longue durée.",
+      "technology": "Cellules métal-hydrogène",
+      "why_relevant": "Une durée de vie de plusieurs décennies et un objectif d'exploitation de 75 ans issus d'une technologie éprouvée dans l'espace.",
+      "history": "EnerVenue a été fondée en 2017 pour adapter à un usage terrestre la chimie nickel-hydrogène éprouvée dans l'espace, en s'appuyant sur des technologies développées à Stanford et à la NASA. Une levée de 100 millions de dollars en 2021, menée notamment par Schlumberger New Energy, a accéléré son produit de vaisseaux de stockage d'énergie. L'entreprise a ouvert une usine à grand volume à New Richmond, dans le Wisconsin, et a commencé à livrer ses cuves métal-hydrogène visant 30 ans de service avec une dégradation minimale sous cyclage quotidien. EnerVenue standardise de grands conteneurs pour les applications renouvelables et utilities.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "vulcan-energy": {
+    "ar": {
+      "name": "Vulcan Energy",
+      "country": "ألمانيا",
+      "sub_domain": "الليثيوم الحراري الأرضي",
+      "short_description": "تنتج الليثيوم والحرارة المتجددة من المحاليل الملحية الجوفية في وادي الراين.",
+      "technology": "الاستخراج المباشر للليثيوم (DLE) من المحاليل الجوفية",
+      "why_relevant": "ليثيوم خالٍ من الكربون يُنتج داخل أوروبا لتأمين إمدادات البطاريات.",
+      "history": "تأسست Vulcan Energy عام 2018 للجمع بين توليد الطاقة الحرارية الأرضية واستخراج الليثيوم من محاليل وادي الراين الأعلى في ألمانيا ضمن نهج Zero Carbon Lithium. أُدرجت في البورصة الأسترالية عام 2020، ووسّعت أعمال التنقيب في مساحة مرخّصة كبيرة، ووقّعت اتفاقيات شراء وشراكات رأسمالية مع ستيلانتيس ورينو وLG. وفي عام 2023 دشّنت الشركة محطة تحسين استخراج الليثيوم (LEOP) في لانداو لإثبات الجدوى التجارية. وهي تقترب الآن من قرارات استثمارية نهائية لمصنع ليثيوم مركزي يديره أصولها المتجددة في الحرارة والكهرباء.",
+      "hq_city": "كارلسروه"
+    },
+    "fr": {
+      "name": "Vulcan Energy",
+      "country": "Allemagne",
+      "sub_domain": "Lithium géothermique",
+      "short_description": "Produit du lithium et de la chaleur renouvelable à partir de saumures géothermiques dans la vallée du Rhin.",
+      "technology": "DLE à partir de saumure géothermique",
+      "why_relevant": "Du lithium zéro carbone produit en Europe pour sécuriser l'approvisionnement des batteries.",
+      "history": "Vulcan Energy a été fondée en 2018 pour combiner production géothermique et extraction de lithium à partir des saumures de la vallée du Rhin supérieur en Allemagne, sous l'approche Zero Carbon Lithium. Cotée à la Bourse australienne en 2020, elle a fait progresser l'exploration sur une vaste zone concédée et signé des accords d'achat et des partenariats capitalistiques avec Stellantis, Renault et LG. En 2023, la société a mis en service son usine d'optimisation de l'extraction du lithium (LEOP) à Landau pour prouver la viabilité commerciale. Elle approche désormais des décisions finales d'investissement pour une usine centrale alimentée par ses actifs renouvelables de chaleur et d'électricité.",
+      "hq_city": "Karlsruhe"
+    }
+  },
+  "energyx": {
+    "ar": {
+      "name": "EnergyX",
+      "country": "الولايات المتحدة",
+      "sub_domain": "استخراج الليثيوم",
+      "short_description": "مطوّرة أغشية الاستخراج المباشر للليثيوم وتقنيات الحالة الصلبة.",
+      "technology": "أغشية DLE، الحالة الصلبة LiTAS",
+      "why_relevant": "إنتاج تجاري من المحاليل الملحية يستهدف سدّ فجوة المعادن الحرجة في الولايات المتحدة.",
+      "history": "تأسست EnergyX عام 2018 على يد تيغ إيغان لتطوير أغشية الاستخراج المباشر للليثيوم وتقنيات الحالة الصلبة، في مواجهة اعتماد الولايات المتحدة المتزايد على المعادن الحرجة المستوردة. أثبتت الشركة جدواها على مستوى المختبر والنموذج التجريبي في مناطق المحاليل الملحية ومنها سالار دي أويوني في بوليفيا، وأعلنت عام 2022 التزاماً تمويلياً بقيمة 450 مليون دولار لبناء قدرة تجارية. تستهدف منصة الحالة الصلبة LiTAS وأغشيتها الانتقائية مصنّعي البطاريات ومنتجي المحاليل الملحية معاً. وتتمركز EnergyX اليوم على كامل سلسلة قيمة الليثيوم في الأمريكتين.",
+      "hq_city": "أوستن"
+    },
+    "fr": {
+      "name": "EnergyX",
+      "country": "États-Unis",
+      "sub_domain": "Extraction du lithium",
+      "short_description": "Développeur de membranes d'extraction directe du lithium et de technologies à état solide.",
+      "technology": "Membranes DLE, état solide LiTAS",
+      "why_relevant": "Une production de saumure à l'échelle commerciale visant à combler le déficit américain en minéraux critiques.",
+      "history": "EnergyX a été fondée en 2018 par Teague Egan pour développer des membranes d'extraction directe du lithium et des technologies à état solide, face à la dépendance croissante des États-Unis envers les minéraux critiques importés. L'entreprise a été validée à l'échelle laboratoire puis pilote dans des régions de saumure, notamment le Salar de Uyuni en Bolivie, et a annoncé en 2022 un engagement de financement de 450 millions de dollars pour bâtir une capacité commerciale. Sa plateforme à état solide LiTAS et ses membranes sélectives ciblent à la fois fabricants de batteries et producteurs de saumure. EnergyX se positionne désormais sur toute la chaîne de valeur du lithium dans les Amériques.",
+      "hq_city": "Austin"
+    }
+  },
+  "h2pro": {
+    "ar": {
+      "name": "H2Pro",
+      "country": "إسرائيل",
+      "sub_domain": "الهيدروجين الأخضر",
+      "short_description": "محلّل كهربائي E-TAC يفكك الماء إلى هيدروجين بكفاءة غير مسبوقة.",
+      "technology": "دورة E-TAC الكهروكيميائية",
+      "why_relevant": "تقسيم الماء على خطوتين بذكاء ديناميكي حراري يتيح هيدروجيناً أخضر رخيصاً.",
+      "history": "تأسست H2Pro عام 2019 انطلاقاً من معهد التخنيون لتسويق دورة التحليل الكهربائي E-TAC، وهي طريقة من خطوتين تفصل إنتاج الهيدروجين عن الأكسجين لتجاوز سقف كفاءة المحللات التقليدية. جمعت الشركة 79 مليون دولار في جولة الفئة B عام 2022 من مستثمرين مثل Breakthrough Energy Ventures وهيونداي وBP. ثم أثبتت نماذج أولية على مقياس الكيلوواط، وانتقلت نحو عروض تجريبية لمكدسات متعددة عشرات الكيلوواط. وتهدف H2Pro إلى إنتاج هيدروجين أخضر بتكلفة أقل عبر إزالة الأغشية والفواصل من عملية تفكيك الماء بالكامل.",
+      "hq_city": "قيسارية"
+    },
+    "fr": {
+      "name": "H2Pro",
+      "country": "Israël",
+      "sub_domain": "Hydrogène vert",
+      "short_description": "Électrolyseur E-TAC qui décompose l'eau en hydrogène avec une efficacité inégalée.",
+      "technology": "Cycle électrochimique E-TAC",
+      "why_relevant": "Une décomposition de l'eau en deux étapes ingénieuse sur le plan thermodynamique permet un H2 vert bon marché.",
+      "history": "H2Pro a été fondée en 2019 à partir du Technion pour commercialiser le cycle d'électrolyse E-TAC, une méthode en deux étapes qui découple la production d'hydrogène et d'oxygène afin d'éviter le plafond d'efficacité des électrolyseurs classiques. L'entreprise a levé une série B de 79 millions de dollars en 2022 auprès d'investisseurs comme Breakthrough Energy Ventures, Hyundai et BP. Elle a ensuite validé des prototypes à l'échelle du kilowatt et progressé vers des démonstrations de stacks de plusieurs centaines de kilowatts. H2Pro vise un hydrogène vert moins cher en éliminant membranes et séparateurs du procédé d'électrolyse.",
+      "hq_city": "Césarée"
+    }
+  },
+  "bloom-energy": {
+    "ar": {
+      "name": "Bloom Energy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "خلايا الوقود",
+      "short_description": "تصنّع خلايا وقود أكسيد صلبة تولّد طاقة نظيفة في الموقع.",
+      "technology": "مكدسات SOFC",
+      "why_relevant": "مولّد مدرج في بورصة نيويورك يوفّر طاقة نظيفة دائمة لمراكز البيانات.",
+      "history": "تأسست Bloom Energy عام 2001 على يد عالم ناسا السابق ك.ر. سريدهار لتحويل أبحاثه حول دعم الحياة في مهمات المريخ إلى خلايا وقود أكسيد صلبة. أُدرجت الشركة في بورصة نيويورك عام 2018، ووجدت وحداتها Energy Server المغلّفة سوقاً لدى الشركات والمرافق الراغبة في طاقة نظيفة في الموقع. توسّعت بلوم لاحقاً في المحللات الكهربائية وإنتاج الهيدروجين، ووقّعت اتفاقيات شراء كبيرة مع مراكز بيانات وعملاء صناعيين. وبنهاية عام 2024 كانت الشركة تحقق إيرادات قياسية وتشحن خلاياها في أنحاء الولايات المتحدة رغم تحديات الربحية المستمرة.",
+      "hq_city": "سان خوسيه"
+    },
+    "fr": {
+      "name": "Bloom Energy",
+      "country": "États-Unis",
+      "sub_domain": "Piles à combustible",
+      "short_description": "Fabrique des piles à combustible à oxyde solide produisant une énergie propre sur site.",
+      "technology": "Empilements SOFC",
+      "why_relevant": "Générateur coté au NYSE fournissant une énergie propre en continu pour les centres de données.",
+      "history": "Bloom Energy a été fondée en 2001 par l'ancien scientifique de la NASA K.R. Sridhar, qui a converti ses recherches sur le maintien de la vie en mission martienne en piles à combustible à oxyde solide. L'entreprise est entrée au NYSE en 2018 et ses unités Energy Server ont trouvé un marché auprès d'entreprises et de services publics cherchant une énergie propre sur site. Bloom s'est ensuite étendue aux électrolyseurs et à l'hydrogène, signant de gros contrats d'approvisionnement avec des centres de données et des clients industriels. Fin 2024, l'entreprise dégageait des revenus records et expédiait ses piles dans tous les États-Unis malgré des défis de rentabilité persistants.",
+      "hq_city": "San José"
+    }
+  },
+  "betavolt": {
+    "ar": {
+      "name": "Betavolt",
+      "country": "الصين",
+      "sub_domain": "البطاريات النووية",
+      "short_description": "تطوّر بطاريات ذرية إشعاعية (betavoltaic) توفّر الطاقة لعقود.",
+      "technology": "خلايا betavoltaic من النيكل-63",
+      "why_relevant": "طاقة بمستوى الميكروواط لعقود قد تشغّل المستشعرات دون أي إعادة شحن.",
+      "history": "تأسست Betavolt عام 2021 في بكين لتسويق مصادر طاقة بيتافولطية تحوّل الاضمحلال الإشعاعي مباشرة إلى كهرباء. وفي مطلع عام 2024 كشفت الشركة عن BV100، وهي بطارية بحجم العملة تستخدم النيكل-63 وقادرة على توفير الطاقة لعقود، مستهدفةً المستشعرات والإلكترونيات الصغيرة. وتخطط لرفع الإنتاج لاحقاً مع إصدارات أعلى قدرة مثل BV200 لتطبيقات تشمل الغرسات الطبية وأجهزة المراقبة عن بعد. تبقى التقنية عند خرج منخفض في حدود الميكروواط، لكنها لفتت انتباه العالم لقدرتها على إلغاء الحاجة إلى البطاريات وإعادة الشحن في الأجهزة طويلة العمر.",
+      "hq_city": "بكين"
+    },
+    "fr": {
+      "name": "Betavolt",
+      "country": "Chine",
+      "sub_domain": "Batteries nucléaires",
+      "short_description": "Développe des batteries atomiques bêtavoltaïques fournissant de l'énergie pendant des décennies.",
+      "technology": "Cellules bêtavoltaïques au nickel-63",
+      "why_relevant": "Une puissance de l'ordre du microwatt pendant des décennies pourrait alimenter des capteurs sans recharge.",
+      "history": "Betavolt a été fondée en 2021 à Pékin pour commercialiser des sources d'énergie bêtavoltaïques qui convertissent la désintégration radioactive directement en électricité. Début 2024, l'entreprise a dévoilé la BV100, une batterie de la taille d'une pièce utilisant du nickel-63, capable de fournir de l'énergie pendant des décennies, ciblant capteurs et petite électronique. Elle prévoit de monter en cadence puis d'introduire des versions plus puissantes comme la BV200 pour des applications incluant implants médicaux et dispositifs de télésurveillance. La technologie reste à une sortie de l'ordre du microwatt, mais suscite l'attention mondiale pour éliminer les batteries et la recharge dans les appareils à longue durée de vie.",
+      "hq_city": "Pékin"
+    }
+  },
+  "ion-storage-systems": {
+    "ar": {
+      "name": "Ion Storage Systems",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات الحالة الصلبة",
+      "short_description": "تطوّر بطاريات سيراميك صلبة عالية الكثافة وخالية من الأنود.",
+      "technology": "خلايا سيراميك خالية من الأنود",
+      "why_relevant": "تضاعف كثافة الطاقة مع إزالة الإلكتروليت السائل القابل للاشتعال.",
+      "history": "انبثقت Ion Storage Systems من جامعة ماريلاند عام 2018 لتطوير بطاريات سيراميكية عالية الكثافة بلا أنود تعمل في درجة حرارة الغرفة. حصلت الشركة على دعم حكومي مبكر من ARPA-E ووزارة الدفاع الأمريكية لخلاياها متعددة الطبقات. وفي عام 2024 جمعت عشرات ملايين الدولارات من بينها استثمار من TE Connectivity لتثبيت خطوط تجميع آلية. تستهدف تطبيقات من الإلكترونيات الاستهلاكية إلى الدفاع ثم السيارات الكهربائية، مدّعيةً ضِعف كثافة الطاقة مقارنةً بالخلايا التقليدية دون إلكتروليت سائل قابل للاشتعال.",
+      "hq_city": "بيلتسفيل"
+    },
+    "fr": {
+      "name": "Ion Storage Systems",
+      "country": "États-Unis",
+      "sub_domain": "Batteries à état solide",
+      "short_description": "Développe des batteries céramiques à état solide haute densité et sans anode.",
+      "technology": "Cellules céramiques sans anode",
+      "why_relevant": "Double la densité énergétique tout en éliminant l'électrolyte liquide inflammable.",
+      "history": "Ion Storage Systems est issue de l'Université du Maryland en 2018, fondée pour développer des batteries céramiques haute densité sans anode fonctionnant à température ambiante. L'entreprise a obtenu un soutien public précoce d'ARPA-E et du département américain de la Défense pour ses cellules multicouches denses. En 2024, elle a levé des dizaines de millions de dollars, dont un investissement de TE Connectivity, afin d'installer des lignes d'assemblage automatisées. Elle vise des applications allant de l'électronique grand public à la défense puis aux véhicules électriques, revendiquant environ le double de densité énergétique des cellules classiques sans électrolyte liquide inflammable.",
+      "hq_city": "Beltsville"
+    }
+  },
+  "factorial-energy": {
+    "ar": {
+      "name": "Factorial Energy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات الحالة الصلبة",
+      "short_description": "تنتج مئات الخلايا الصلبة لأغراض اعتماد قطاع السيارات.",
+      "technology": "حالة صلبة كبريتيدية، Solstice",
+      "why_relevant": "مسار نحو خلايا بسعة 400 Wh/kg معتمدة على خطوط إنتاج المركبات.",
+      "history": "تأسست Factorial Energy عام 2019 للوصول بخلايا الحالة الصلبة القائمة على الكبريتيد إلى النطاق التجاري، وسرعان ما حصلت على أحد أكبر الالتزامات المبكرة في القطاع عندما استثمرت دايملر 200 مليون دولار عام 2020. افتُتح مصنع تجريبي عام 2022، وفي 2023 أعلنت الشركة منصة Solstice المسخَّرة من هيونداي وستيلانتيس ومرسيدس-بنز وLG Energy Solution. سلّمت Factorial مئات الخلايا بسعة 40 أمبير/ساعة ثم عينات من الفئة A بسعة 100 أمبير/ساعة لاعتماد العملاء، مستهدفةً أداء 400 واط/ساعة/كغ. وهي من الشركات الرائدة القادرة على تشغيل إنتاج الحالة الصلبة على معدات الليثيوم التقليدية.",
+      "hq_city": "ووبرن"
+    },
+    "fr": {
+      "name": "Factorial Energy",
+      "country": "États-Unis",
+      "sub_domain": "Batteries à état solide",
+      "short_description": "Produit par lots des centaines de cellules à état solide pour la qualification automobile.",
+      "technology": "État solide au sulfure, Solstice",
+      "why_relevant": "Une voie vers des cellules de 400 Wh/kg validées sur les lignes de production automobile.",
+      "history": "Factorial Energy a été fondée en 2019 pour passer les cellules à état solide à base de sulfure à l'échelle industrielle, décrochant rapidement l'un des plus grands engagements précoces du secteur quand Daimler a investi 200 millions de dollars en 2020. Une usine pilote a ouvert en 2022, puis en 2023 l'entreprise a annoncé sa plateforme Solstice licenciée par Hyundai, Stellantis, Mercedes-Benz et LG Energy Solution. Factorial a livré des centaines de cellules de 40 Ah puis des échantillons de série A de 100 Ah pour qualification clients, visant 400 Wh/kg. Elle figure parmi les leaders capables de produire l'état solide sur des équipements lithium-ion classiques.",
+      "hq_city": "Woburn"
+    }
+  },
+  "freyr-battery": {
+    "ar": {
+      "name": "FREYR Battery",
+      "country": "النرويج",
+      "sub_domain": "المصانع العملاقة",
+      "short_description": "تبني مصانع بطاريات نظيفة باستخدام خلايا 24M شبه الصلبة في المملكة المتحدة والولايات المتحدة.",
+      "technology": "تشغيل المصانع العملاقة",
+      "why_relevant": "إنتاج سريع خالٍ من المذيبات قد يجعل البطاريات الإقليمية تنافسية.",
+      "history": "تأسست FREYR Battery عام 2018 في النرويج كمرخّصة لمصانع عملاقة موزِّعة لتقنية 24M شبه الصلبة، بهدف تصنيع خلايا أرخص وخالية من المذيبات في مصانع نظيفة. أُدرجت الشركة في بورصة نيويورك عام 2021 عبر اندماج مع شركة استحواذ، وجمعت ما يقارب مليار دولار، ونظّمت خططاً لمصنع في مو إي رانا ثم مشاريع في بريطانيا والولايات المتحدة. وبعد مراجعات استراتيجية، حوّلت FREYR تركيزها نحو السوق الأمريكية، واستثمرت في أصول تصنيع جديدة. واليوم توجّه الشركة عملياتها نحو المشاريع المقامة في أمريكا الشمالية مع إدراجها في بورصة نيويورك بالرمز FREY.",
+      "hq_city": "أوسلو"
+    },
+    "fr": {
+      "name": "FREYR Battery",
+      "country": "Norvège",
+      "sub_domain": "Gigafactories",
+      "short_description": "Construit des usines de batteries propres utilisant les cellules semi-solides 24M au Royaume-Uni et aux États-Unis.",
+      "technology": "Mise en service de gigafactory",
+      "why_relevant": "Une production rapide sans solvant pourrait rendre les batteries régionales compétitives.",
+      "history": "FREYR Battery a été fondée en 2018 en Norvège en tant que titulaire de licence de la technologie semi-solide de 24M pour des gigafactories, visant des cellules moins chères et sans solvant fabriquées dans des usines propres. L'entreprise est entrée en bourse à New York en 2021 par fusion SPAC, levant près d'un milliard de dollars, et a engagé des plans pour Mo i Rana puis pour des projets au Royaume-Uni et aux États-Unis. Après une revue stratégique, FREYR s'est recentrée sur le marché américain et a investi dans de nouveaux actifs de fabrication. Désormais cotée sous le code FREY, la société concentre son activité sur l'Amérique du Nord.",
+      "hq_city": "Oslo"
+    }
+  },
+  "powin-energy": {
+    "ar": {
+      "name": "Powin Energy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أنظمة تخزين طاقة البطاريات للشبكة",
+      "short_description": "واحدة من أكبر المدمجين العالميين لأنظمة تخزين طاقة البطاريات على الشبكة.",
+      "technology": "تكامل BESS، StackOS",
+      "why_relevant": "المدمج الذي يضيف أكبر قدرة تخزين على الشبكة في العالم.",
+      "history": "تأسست Powin Energy عام 2011 وباتت من أكبر مدمجي أنظمة تخزين طاقة البطاريات على مستوى الشبكة في العالم، حيث تجمع بين خلايا من عدّة موردين وبرمجية StackOS للتحكم. نشرت الشركة أنظمة تخزين في خمس قارات وعشرات الأسواق، وافتتحت مكاتب في آسيا وأوروبا وأمريكا اللاتينية لخدمة مطوري الطاقة المتجددة وأصحاب مشاريع التخزين الكبيرة. وسجّلت قدرة سنوية مضافة تتجاوز الثلاثة جيجاواط/ساعة. تواصل Powin النمو في دفع خط إنتاجها العالمي مع التركيز على التكامل الموحّد بين البطاريات والمحولات والبرمجيات.",
+      "hq_city": "توالاتين"
+    },
+    "fr": {
+      "name": "Powin Energy",
+      "country": "États-Unis",
+      "sub_domain": "BESS sur réseau",
+      "short_description": "L'un des plus grands intégrateurs mondiaux de systèmes de stockage d'énergie par batteries sur réseau.",
+      "technology": "Intégration BESS, StackOS",
+      "why_relevant": "L'intégrateur qui ajoute le plus de capacité de stockage réseau au monde.",
+      "history": "Powin Energy a été fondée en 2011 et est devenue l'un des plus grands intégrateurs mondiaux de systèmes de stockage d'énergie par batteries destinés aux réseaux, combinant des cellules de plusieurs fournisseurs avec son logiciel de contrôle StackOS. L'entreprise a déployé du stockage sur cinq continents et des dizaines de marchés, ouvrant des bureaux en Asie, en Europe et en Amérique latine pour servir les développeurs d'énergies renouvelables et les grands projets de stockage. Sa capacité annuelle ajoutée dépasse désormais trois gigawattheures. Powin poursuit sa croissance et son pipeline mondial autour de l'intégration unifiée batteries, onduleurs et logiciels.",
+      "hq_city": "Tualatin"
+    }
+  },
+  "fluence": {
+    "ar": {
+      "name": "Fluence",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أنظمة تخزين طاقة البطاريات للشبكة",
+      "short_description": "منصة تخزين طاقة من سيمنز/AES تعمل عبر الشبكات العالمية.",
+      "technology": "BESS على نطاق الشبكة، برمجيات المزايدة",
+      "why_relevant": "تخزين متكامل موثوق لشركات المرافق من الولايات المتحدة إلى الشرق الأوسط.",
+      "history": "أُنشئت Fluence عام 2018 كمشروع مشترك بين سيمنز وAES، وأُدرجت في بورصة ناسداك عام 2021 تحت رمز FLNC لتمويل نموها العالمي. تجمع الشركة خلفية AES في تجارة الطاقة مع خبرة سيمنز في التصنيع والأتمتة، وتقدّم منتجات Gridstack وSunstack وUltrastack إضافة إلى برمجية المزايدة Mosaic لتحسين عائدات التخزين. ركّبت Fluence ووقّعت على عدة جيجاواط من التخزين في أمريكا الشمالية وأوروبا وآسيا وأستراليا، وعملت مع شركات مرافق في الشرق الأوسط. ويقع مقر الشركة في أرلينغتون بفرجينيا، مع وحدات متخصصة في تحسين الأنظمة وخدمات الأصول.",
+      "hq_city": "أرلينغتون"
+    },
+    "fr": {
+      "name": "Fluence",
+      "country": "États-Unis",
+      "sub_domain": "BESS sur réseau",
+      "short_description": "Plateforme de stockage d'énergie Siemens/AES opérant sur les réseaux mondiaux.",
+      "technology": "BESS à l'échelle du réseau, logiciel d'enchères",
+      "why_relevant": "Un stockage clé en main fiable pour les services publics des États-Unis au Moyen-Orient.",
+      "history": "Fluence a été créée en 2018 en tant que coentreprise entre Siemens et AES, puis est entrée au NASDAQ en 2021 sous le code FLNC pour financer sa croissance mondiale. Elle combine l'expérience d'AES dans le négoce d'énergie et le savoir-faire industriel et d'automatisation de Siemens, avec des produits Gridstack, Sunstack et Ultrastack ainsi que le logiciel d'enchères Mosaic pour optimiser les revenus du stockage. Fluence a installé et contractualisé plusieurs gigawatts de stockage en Amérique du Nord, en Europe, en Asie et en Australie, tout en travaillant avec des services publics au Moyen-Orient. Basée à Arlington, elle dispose aussi d'unités spécialisées dans l'optimisation et la maintenance d'actifs.",
+      "hq_city": "Arlington"
+    }
+  },
+  "ess-inc": {
+    "ar": {
+      "name": "ESS Inc",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات الحديد السائلة",
+      "short_description": "تصنع بطاريات تدفق حديدية طويلة الأمد للطاقات المتجددة مع التخزين.",
+      "technology": "كيمياء التدفق الحديدي",
+      "why_relevant": "مواد آمنة ومتوفرة بكثرة لتخزين ثابت من 8 إلى 12 ساعة.",
+      "history": "تأسست ESS Inc عام 2011 في ويلسونفيل بولاية أوريغون لتسويق بطاريات التدفق الحديدي طويلة الأمد القائمة على كيمياء وفيرة وآمنة. أُدرجت الشركة في بورصة نيويورك عام 2021 تحت رمز GWH، وبدأت نشر أنظمة Energy Warehouse وEnergy Center لدى شركات المرافق ومشغلي الشبكات الصغيرة. وتشمل مشاريعها منشأة لمنطقة ساكرامنتو البلدية وشراكات لبطاريات بمدد تتراوح من 8 إلى 12 ساعة. وواجهت ESS تحديات مالية لكنها واصلت تطوير طلبها الدولي، وخصوصاً في مشاريع الطاقة المتجددة الهجينة. ويبقى مقرها الرئيسي في ويلسونفيل بولاية أوريغون.",
+      "hq_city": "ويلسونفيل"
+    },
+    "fr": {
+      "name": "ESS Inc",
+      "country": "États-Unis",
+      "sub_domain": "Batteries à flux fer",
+      "short_description": "Fabrique des batteries à flux de fer longue durée pour les renouvelables et le stockage.",
+      "technology": "Chimie à flux de fer",
+      "why_relevant": "Des matériaux abondants et sûrs pour un stockage stationnaire de 8 à 12 heures.",
+      "history": "ESS Inc a été fondée en 2011 à Wilsonville, en Oregon, pour commercialiser des batteries à flux de fer longue durée s'appuyant sur une chimie abondante et sûre. La société est entrée au NYSE en 2021 sous le code GWH et a commencé à déployer ses systèmes Energy Warehouse et Energy Center chez des utilities et des micro-réseaux. Ses projets incluent une installation pour le district municipal de Sacramento et des partenariats pour des batteries de 8 à 12 heures. ESS a traversé des difficultés financières tout en poursuivant sa demande internationale, notamment pour des centrales renouvelables hybrides. Son siège reste à Wilsonville, en Oregon.",
+      "hq_city": "Wilsonville"
+    }
+  },
+  "invinity-energy": {
+    "ar": {
+      "name": "Invinity Energy",
+      "country": "المملكة المتحدة",
+      "sub_domain": "بطاريات التدفق",
+      "short_description": "تبني بطاريات تدفق الفاناديوم على نطاق المرافق بدورات غير محدودة.",
+      "technology": "تدفق الفاناديوم الأكسدي-الاختزالي",
+      "why_relevant": "نشرت نظامين بسعة 10 MWh لكل منهما يثبتان جدوى بطاريات التدفق على نطاق الشبكة.",
+      "history": "تأسست Invinity Energy Systems عام 2018 عبر اندماج شركة redT البريطانية وشركة أفالون الكندية المتخصصتين في بطاريات التدفق. أُدرجت الشركة الناتجة في بورصة لندن، وتطوّر بطاريات فاناديوم أكسدي-اختزالي على نطاق المرافق بدورات غير محدودة. تشمل مشاريعها نظامين بسعة 10 ميجاواط/ساعة في أستراليا واستخدامات في أكسفورد، إضافة إلى مشاريع مع شركات مرافق بريطانية. ومع تصنيعها في المملكة المتحدة، تواصل Invinity التوسع في أسواق الشبكات النائية والطاقة المتجددة. وتسعى الشركة إلى دعم تحول طويل الأمد بعيداً عن الليثيوم.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "Invinity Energy",
+      "country": "Royaume-Uni",
+      "sub_domain": "Batteries à flux",
+      "short_description": "Construit des batteries à flux au vanadium à l'échelle des services publics avec cyclage illimité.",
+      "technology": "Flux redox au vanadium",
+      "why_relevant": "A déployé deux systèmes de 10 MWh prouvant les batteries à flux à l'échelle du réseau.",
+      "history": "Invinity Energy Systems a été créée en 2018 par la fusion de la société britannique redT et du canadien Avalon, dans le domaine des batteries à flux. L'entreprise issue de la fusion est cotée à Londres et développe des batteries à flux redox au vanadium à l'échelle des utilities, au cyclage illimité. Ses projets incluent deux systèmes de 10 MWh en Australie, le superhub d'Oxford et des livraisons à des services publics britanniques. Avec une fabrication au Royaume-Uni, Invinity continue de croître sur les marchés de l'énergie renouvelable et du stockage longue durée.",
+      "hq_city": "Londres"
+    }
+  },
+  "redflow": {
+    "ar": {
+      "name": "Redflow",
+      "country": "أستراليا",
+      "sub_domain": "بطاريات التدفق",
+      "short_description": "تنشر بطاريات تدفق الزنك-بروم لمناطق التحميل الشاقة والنائية في قطاع الاتصالات.",
+      "technology": "خلايا تدفق الزنك-بروم",
+      "why_relevant": "دورات يومية كاملة دون تدهور في البيئات شديدة الحرارة.",
+      "history": "تأسست Redflow عام 2005 في أستراليا لتطوير بطاريات تدفق الزنك-بروم، وصُرفت منشآتها منذ البداية نحو التطبيقات الشاقة والبعيدة في قطاعي الطاقة الشمسية والاتصالات. أُدرجت الشركة في البورصة الأسترالية عام 2010، ونشرت وحدات صغيرة ثم بطاريات ZBM لتخزين الطاقة. ومن أبرز مشاريعها نشر أنظمة تخزين في مواقع اتصالات في نيجيريا وجنوب أفريقيا وأستراليا. وبعد عقود من التطوير وأكثر من جولة إعادة هيكلة، تتجه Redflow اليوم نحو أنظمة حاويات أكبر بسعة تجارية، مركّزة على الأسواق التي تحتاج دورات يومية كاملة دون تدهور في البيئات الحارة.",
+      "hq_city": "بريزبن"
+    },
+    "fr": {
+      "name": "Redflow",
+      "country": "Australie",
+      "sub_domain": "Batteries à flux",
+      "short_description": "Déploie des batteries à flux zinc-brome pour les profils de charge exigeants et isolés des télécoms.",
+      "technology": "Cellules à flux zinc-brome",
+      "why_relevant": "Un cyclage quotidien complet sans dégradation dans les environnements très chauds.",
+      "history": "Redflow a été fondée en 2005 en Australie pour développer des batteries à flux zinc-brome, dès le départ orientées vers les applications exigeantes et isolées dans les secteurs solaire et télécoms. Cotée à la bourse australienne en 2010, l'entreprise a déployé des modules puis des batteries ZBM pour le stockage d'énergie. Ses projets marquants incluent des déploiements dans des sites de télécommunications au Nigeria, en Afrique du Sud et en Australie. Après plusieurs décennies de développement et des restructurations, Redflow se tourne aujourd'hui vers des systèmes conteneurisés plus grands, ciblant les marchés exigeant un cyclage quotidien complet sans dégradation dans des environnements très chauds.",
+      "hq_city": "Brisbane"
+    }
+  },
+  "gravitricity": {
+    "ar": {
+      "name": "Gravitricity",
+      "country": "المملكة المتحدة",
+      "sub_domain": "تخزين الجاذبية",
+      "short_description": "ترفع أوزاناً ثقيلة لتخزين طاقة الشبكة دون مواد نادرة.",
+      "technology": "تخزين الطاقة بالجاذبية",
+      "why_relevant": "تستخدم آبار المناجم لتخزين يدوم عقوداً دون أي مواد بطاريات دائرية.",
+      "history": "تأسست Gravitricity عام 2019 في إدنبرة لتخزين طاقة الشبكة عبر رفع أوزان ثقيلة في أعمدة عميقة دون مواد نادرة. طوّرت الشركة نموذجاً تجريبياً في ميناء ليث لتأكيد المفهوم، وتستكشف استخدام أعمدة المناجم المهجورة لخفض التكاليف. وحصلت على تمويل حكومي من المملكة المتحدة واقترحت مشاريع في أوروبا وأفريقيا. وتشغل الشركة إصدارات بسعات تصل إلى عقود من الكيلوواط قابلة للتوسع لساعات عديدة، وتستهدف السوق الاحتياطية والتخزين طويل الأمد. وتظل مرتكزة في إدنبرة مع اهتمام متزايد من مشغلي الشبكات في أوروبا وأفريقيا.",
+      "hq_city": "إدنبرة"
+    },
+    "fr": {
+      "name": "Gravitricity",
+      "country": "Royaume-Uni",
+      "sub_domain": "Stockage gravitaire",
+      "short_description": "Soulève des poids lourds pour stocker l'énergie du réseau sans matériaux rares.",
+      "technology": "Stockage d'énergie gravitaire",
+      "why_relevant": "Utilise des puits de mine pour des décennies de stockage sans aucun matériau de batterie circulaire.",
+      "history": "Gravitricity a été fondée en 2019 à Édimbourg pour stocker l'énergie du réseau en soulevant des poids lourds dans des puits profonds, sans matériaux rares. L'entreprise a développé un démonstrateur au port de Leith pour valider le concept et étudie l'utilisation de puits de mines désaffectés pour réduire les coûts. Elle a obtenu des financements publics britanniques et porté des projets en Europe et en Afrique. Ses systèmes offrent des puissances de plusieurs dizaines de kilowatts extensibles sur plusieurs heures, visant les marchés du back-up et du stockage longue durée. Toujours basée à Édimbourg, elle suscite l'intérêt des opérateurs de réseaux en Europe et en Afrique.",
+      "hq_city": "Édimbourg"
+    }
+  },
+  "energy-vault": {
+    "ar": {
+      "name": "Energy Vault",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تخزين الجاذبية",
+      "short_description": "تبني أنظمة تخزين جاذبية وحركية إضافة إلى برمجيات لموازنة الشبكات.",
+      "technology": "تخزين جاذبي + حركي",
+      "why_relevant": "أول أنظمة تخزين بالجاذبية متصلة بشبكات تجارية.",
+      "history": "تأسست Energy Vault عام 2017 على يد روبرت بيسوني وأندريا بيدريتي لتطوير تخزين الجاذبية والحركي على نطاق الشبكة. طوّرت الشركة برجاً يرفع كتلاً مركّبة ويخزن الطاقة حتى عشر ساعات، ثم تحوّلت إلى نظام EVx المعياري. أُدرجت في بورصة نيويورك عام 2021، وأعلنت عام 2023 تشغيل أول أنظمة تجارية في الصين وسويسرا. وتعمل الآن على محطات هجينة تجمع بين تخزين الجاذبية وبطاريات الليثيوم، إضافة إلى عروض برمجية وحاويات EVx في أسواق مثل أستراليا والشرق الأوسط. وتواجه الطاقة المخزنة فيها تحديات في المنافسة السعرية مقابل بطاريات الليثيوم الرخيصة.",
+      "hq_city": "ويستليك فيليج"
+    },
+    "fr": {
+      "name": "Energy Vault",
+      "country": "États-Unis",
+      "sub_domain": "Stockage gravitaire",
+      "short_description": "Construit des stockages gravitaire et cinétique ainsi que des logiciels pour équilibrer les réseaux.",
+      "technology": "Stockage gravitaire + cinétique",
+      "why_relevant": "Premiers systèmes de stockage gravitaire raccordés à des réseaux commerciaux.",
+      "history": "Energy Vault a été fondée en 2017 par Robert Piconi et Andrea Pedretti pour développer le stockage gravitaire et cinétique à l'échelle du réseau. L'entreprise a conçu une tour soulevant des blocs composites pour stocker l'énergie jusqu'à dix heures, avant de basculer vers le système modulaire EVx. Cotée au NYSE en 2021, elle a annoncé en 2023 la mise en service de ses premières unités commerciales en Chine et en Suisse. Elle travaille désormais sur des centrales hybrides combinant stockage gravitaire et batteries lithium, ainsi que sur des offres logicielles et des conteneurs EVx vendus en Australie et au Moyen-Orient. Le coût capacitaire reste un défi face au lithium bon marché.",
+      "hq_city": "Westlake Village"
+    }
+  },
+  "hydrostor": {
+    "ar": {
+      "name": "Hydrostor",
+      "country": "كندا",
+      "sub_domain": "تخزين الهواء المضغوط",
+      "short_description": "تخزين طاقة بالهواء المضغوط لفترات طويلة في كهوف تحت الأرض.",
+      "technology": "A-CAES",
+      "why_relevant": "محطات CAES متقدمة بسعات تصل إلى مئات MWh دون أي حاجة للليثيوم.",
+      "history": "تأسست Hydrostor عام 2010 لتطوير تخزين طاقة الهواء المضغوط المتقدم (A-CAES) في كهوف تحت الأرض دون ليثيوم. جمعت الشركة الكندية أكثر من 250 مليون دولار من مستثمرين بينهم غولدمان ساكس وصناديق بنية تحتية، وطوّرت أنظمة من مئات الميجاواط/ساعة في كاليفورنيا وأستراليا. تشمل مشاريعها اتفاقيات مع شركات مرافق وأسواق طاقة في الولايات المتحدة وأستراليا وأوروبا. ويتطلب نموذجها الكهوف الملحية أو الصخرية القريبة من الشبكات، ما يقيد مواقعها. وتواصل Hydrostor إعداد قرارات استثمارية نهائية لمشاريع كبيرة خلال 2024-2025. ويقع مقرها في تورونتو.",
+      "hq_city": "تورونتو"
+    },
+    "fr": {
+      "name": "Hydrostor",
+      "country": "Canada",
+      "sub_domain": "Stockage par air comprimé",
+      "short_description": "Stockage d'énergie par air comprimé de longue durée dans des cavernes souterraines.",
+      "technology": "A-CAES",
+      "why_relevant": "Des centrales CAES avancées de plusieurs centaines de MWh sans besoin de lithium.",
+      "history": "Hydrostor a été fondée en 2010 pour développer un stockage avancé d'énergie par air comprimé (A-CAES) dans des cavernes souterraines, sans lithium. La société canadienne a levé plus de 250 millions de dollars auprès d'investisseurs incluant Goldman Sachs et divers fonds d'infrastructure, et développe des systèmes de plusieurs centaines de MWh en Californie et en Australie. Ses projets incluent des accords avec des services publics et des marchés de l'énergie aux États-Unis, en Australie et en Europe, mais nécessitent des cavernes salines ou rocheuses proches des réseaux, ce qui limite l'implantation. Hydrostor prépare des décisions finales d'investissement pour de grands projets en 2024-2025. Son siège est à Toronto.",
+      "hq_city": "Toronto"
+    }
+  },
+  "ampcera": {
+    "ar": {
+      "name": "Ampcera",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الإلكتروليتات الصلبة",
+      "short_description": "تطوّر إلكتروليتات صلبة كبريتيدية للبطاريات الصلبة بالكامل.",
+      "technology": "إلكتروليتات كبريتيدية على نطاق واسع",
+      "why_relevant": "إلكتروليت مُصنّع ضروري لجعل إنتاج الخلايا الصلبة ممكناً.",
+      "history": "تأسست Ampcera عام 2016 في توسان بولاية أريزونا لتطوير إلكتروليتات صلبة كبريتيدية قابلة للتصنيع للبطاريات كاملة الصلابة. حصلت الشركة على دعم من وكالة مشاريع الأبحاث المتقدمة للطاقة (ARPA-E) ووزارة الطاقة الأمريكية، وبدأت مصنعاً تجريبياً لإنتاج الإلكتروليت. وقّعت شراكات مع مجموعة من مصنعي البطاريات ومراكز الأبحاث. وتطوّر الشركة أيضاً خط إلكتروليت كلوريد. يظل التحدي الرئيسي هو الوصول بالتكلفة إلى ما يتيح المنافسة مع الليثيوم السائل، بينما تبقى توسان مقراً لعملياتها الهندسية.",
+      "hq_city": "توسان"
+    },
+    "fr": {
+      "name": "Ampcera",
+      "country": "États-Unis",
+      "sub_domain": "Électrolytes solides",
+      "short_description": "Développe des électrolytes solides au sulfure pour les batteries tout-solide.",
+      "technology": "Électrolytes au sulfure à grande échelle",
+      "why_relevant": "Un électrolyte fabriqué, indispensable pour rendre les cellules à état solide productibles.",
+      "history": "Ampcera a été fondée en 2016 à Tucson, en Arizona, pour développer des électrolytes solides au sulfure manufacturables pour les batteries tout-solide. L'entreprise a reçu le soutien d'ARPA-E et du département de l'Énergie américain, et a lancé une usine pilote de production d'électrolyte. Elle a signé des partenariats avec des fabricants de batteries et des centres de recherche. Elle développe aussi une gamme d'électrolyte au chlorure. Le principal défi reste d'atteindre un coût compétitif face au lithium liquide, tandis que Tucson demeure le siège de ses opérations d'ingénierie.",
+      "hq_city": "Tucson"
+    }
+  },
+  "nanotech-energy": {
+    "ar": {
+      "name": "Nanotech Energy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "المكثفات الفائقة",
+      "short_description": "تصنع مكثفات فائقة من الجرافين وبطاريات بإلكتروليت غير قابل للاشتعال.",
+      "technology": "مكثفات فائقة قائمة على الجرافين",
+      "why_relevant": "بطاريات آمنة من الحرائق للطيران وبنوك مكثفات فائقة للطاقة الفورية.",
+      "history": "تأسست Nanotech Energy عام 2012 في لوس أنجلوس لتطوير مكثفات فائقة من الجرافين وبطاريات بإلكتروليت غير قابل للاشتعال. حصلت الشركة على دعم من جهات حكومية أمريكية وشركاء صناعيين، وبدأت مصنعاً في كاليفورنيا لإنتاج الجرافين والخلايا المعتمدة عليه. وتعمل حالياً مع شركاء في الطيران والدفاع لتطوير حلول طاقة تستفيد من سلامتها وطول عمرها. وسّعت نانوتيك نشاطها نحو أسواق التخزين الاحتياطي في مراكز البيانات وقطاع النقل الكهربائي. يبقى حجم الإنتاج واعتماده على التمويل من التحديات الأساسية أمام توسعها التجاري.",
+      "hq_city": "لوس أنجلوس"
+    },
+    "fr": {
+      "name": "Nanotech Energy",
+      "country": "États-Unis",
+      "sub_domain": "Supercondensateurs",
+      "short_description": "Fabrique des supercondensateurs au graphène et des batteries à électrolyte ininflammable.",
+      "technology": "Ultracondensateurs à base de graphène",
+      "why_relevant": "Des batteries ignifuges pour l'aviation et des bancs de supercondensateurs à puissance instantanée.",
+      "history": "Nanotech Energy a été fondée en 2012 à Los Angeles pour développer des supercondensateurs au graphène et des batteries à électrolyte ininflammable. La société a été soutenue par des organismes gouvernementaux américains et des partenaires industriels, et a lancé une usine en Californie pour produire le graphène et les cellules associées. Elle travaille avec des partenaires du secteur aérospatial et de la défense sur des solutions énergétiques tirant parti de la sécurité et de la longévité. Nanotech s'étend aussi vers le stockage de secours dans les centres de données et la mobilité électrique. La montée en volume et la dépendance au financement restent les principaux défis.",
+      "hq_city": "Los Angeles"
+    }
+  },
+  "ses-ai": {
+    "ar": {
+      "name": "SES AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات الليثيوم-معدن",
+      "short_description": "تطوّر خلايا هجينة من الليثيوم-معدن مع مراقبة فورية بالذكاء الاصطناعي.",
+      "technology": "ليثيوم-معدن + مساعد Avatar",
+      "why_relevant": "أول خلايا ليثيوم-معدن معتمدة للسيارات تُعلن للطائرات الكهربائية والمركبات الكهربائية.",
+      "history": "تأسست SES AI عام 2012 في الولايات المتحدة، وأُدرجت عام 2022 في بورصة نيويورك تحت رمز SES. طوّرت الشركة خلايا ليثيوم-معدن هجينة مع أنود رقيق يعمل مع إلكتروليت سائل، محققةً شحناً سريعاً وأماناً معززاً. أبرمت شراكات مع هيونداي وجنرال موتورز وجيلي وغيرها ضمن برنامج Apollo، وتسعى لتأمين الإنتاج التجاري بحلول منتصف العقد. أطلقت أيضاً مساعد Avatar المعتمد على الذكاء الاصطناعي لتحليل بيانات البطارية في الوقت الفعلي. وتضع الشركة نفسها لتطبيقات تتراوح بين السيارات والطائرات الكهربائية. وتعمل SES على توسيع منشآتها في شنغهاي وووبرن.",
+      "hq_city": "ووبرن"
+    },
+    "fr": {
+      "name": "SES AI",
+      "country": "États-Unis",
+      "sub_domain": "Batteries lithium-métal",
+      "short_description": "Développe des cellules hybrides lithium-métal avec surveillance par IA en temps réel.",
+      "technology": "Li-métal + copilote Avatar",
+      "why_relevant": "Premières cellules lithium-métal qualifiées pour l'automobile annoncées pour l'aviation électrique et les VE.",
+      "history": "SES AI a été fondée en 2012 aux États-Unis et a fait son entrée au NYSE en 2022 sous le code SES. L'entreprise développe des cellules lithium-métal hybrides avec une anode mince et un électrolyte liquide, combinant charge rapide et sécurité. Elle a noué des partenariats avec Hyundai, General Motors, Geely et d'autres constructeurs dans le cadre du programme Apollo, visant une production commerciale à la mi-décennie. Elle a également lancé Avatar, son copilote d'intelligence artificielle pour analyser la santé des batteries en temps réel. SES se positionne pour des applications allant des véhicules aux avions électriques et développe ses sites de Shanghai et Woburn.",
+      "hq_city": "Woburn"
+    }
+  },
+  "voltaiq": {
+    "ar": {
+      "name": "Voltaiq",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ذكاء البطاريات",
+      "short_description": "برمجيات تجمع بيانات اختبار البطاريات للتنبؤ بعمر الخلية.",
+      "technology": "تحليلات بيانات البطاريات",
+      "why_relevant": "طبقة تحليلات قياسية لمعظم فرق هندسة الخلايا والحزم.",
+      "history": "تأسست Voltaiq عام 2012 في بيركلي بولاية كاليفورنيا لتقديم منصة تحليلات بيانات تجمع نتائج اختبار البطاريات من المصنّعين والمختبرات في قاعدة واحدة. أضافت الشركة أدوات للتنبؤ بعمر الخلايا ومراقبة صحتها في الوقت الفعلي، لتصبح طبقة معيارية لدى فرق هندسة الخلايا والحزم. عملت مع عشرات الشركات من مصنعي السيارات إلى شركات الطاقة، ووسّعت خدماتها مع تقدم نماذج الذكاء الاصطناعي. وتواجه علاقاتها مع جهات عدة تحديات حول مشاركة البيانات ومعاييرها. يبقى بيركلي مقرها الرئيسي.",
+      "hq_city": "بيركلي"
+    },
+    "fr": {
+      "name": "Voltaiq",
+      "country": "États-Unis",
+      "sub_domain": "Intelligence des batteries",
+      "short_description": "Logiciel qui agrège les données de test des batteries pour prédire la durée de vie des cellules.",
+      "technology": "Analyse de données de batteries",
+      "why_relevant": "Couche d'analyse standard pour la plupart des équipes d'ingénierie des cellules et des packs.",
+      "history": "Voltaiq a été fondée en 2012 à Berkeley, en Californie, pour proposer une plateforme d'analyse qui rassemble les données des tests de batteries des fabricants et des laboratoires dans une base unique. L'entreprise a ajouté des outils de prédiction de durée de vie et de surveillance en temps réel, devenant une couche standard pour les équipes d'ingénierie de cellules et de packs. Elle a travaillé avec des dizaines d'acteurs, des constructeurs automobiles aux utilities, et renforce ses offres avec des modèles d'IA. Le partage et la normalisation des données restent des enjeux. Berkeley demeure son siège.",
+      "hq_city": "Berkeley"
+    }
+  },
+  "twaice": {
+    "ar": {
+      "name": "Twaice",
+      "country": "ألمانيا",
+      "sub_domain": "تحليلات البطاريات",
+      "short_description": "برمجيات توأم رقمي لنمذجة صحة بطاريات المركبات الكهربائية وأنظمة الطاقة.",
+      "technology": "التوائم الرقمية، توقع SoH",
+      "why_relevant": "تستخدمها الشركات المصنّعة لتحقيق الدخل من صحة البطاريات طوال دورة حياة الأسطول.",
+      "history": "تأسست Twaice عام 2018 في ميونخ كمشروع انبثق عن الجامعة التقنية في ميونخ لنمذجة توائم رقمية لبطاريات الليثيوم-أيون. طوّرت الشركة منصة تتنبأ بحالة صحة البطارية (SoH) عبر التعلم الآلي والقوانين الفيزيائية، وتُستخدم لدى صانعي السيارات وشركات الطاقة ومرافق النقل. جمعت جولات تمويل من مستثمرين أوروبيين، وأضافت أدوات لتحسين ضمانات البطاريات وإعادة استخدامها وإدارة المخاطر في الأساطيل. وتعمل Twaice على توسيع نماذجها مع أنظمة التخزين الثابتة وتطبيقات الشحن الذكي. يبقى مقر الشركة في ميونخ.",
+      "hq_city": "ميونخ"
+    },
+    "fr": {
+      "name": "Twaice",
+      "country": "Allemagne",
+      "sub_domain": "Analyse de batteries",
+      "short_description": "Logiciel de jumeau numérique modélisant la santé des batteries de VE et de stockage.",
+      "technology": "Jumeaux numériques, prédiction SoH",
+      "why_relevant": "Utilisé par les constructeurs pour monétiser la santé des batteries tout au long du cycle de vie de la flotte.",
+      "history": "Twaice a été fondée en 2018 à Munich, en tant que startup issue de l'Université technique de Munich, pour modéliser des jumeaux numériques de batteries lithium-ion. La société a développé une plateforme qui prédit l'état de santé (SoH) par apprentissage automatique et physique, utilisée par des équipementiers automobiles, des utilities et des opérateurs de transport. Elle a levé plusieurs tours auprès d'investisseurs européens et enrichi ses outils pour les garanties, la seconde vie et la gestion des risques en flotte. Twaice étend ses modèles au stockage stationnaire et à la recharge intelligente. Son siège reste à Munich.",
+      "hq_city": "Munich"
+    }
+  },
+  "our-next-energy-one": {
+    "ar": {
+      "name": "Our Next Energy (ONE)",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات السيارات الكهربائية",
+      "short_description": "تبني حزم بطاريات مزدوجة الكيمياء بمدى يعتمد على LFP وتقنية خالية من الأنود.",
+      "technology": "Celestia LFP، حزمة Gemini",
+      "why_relevant": "أنتجت إحدى أولى بطاريات شاحنات التعدين الكهربائية على الأراضي الأمريكية.",
+      "history": "تأسست Our Next Energy (ONE) عام 2020 على يد ماجد إياز، المسؤول السابق في أبل وA123 Systems، لصنع حزم بطاريات عالية المدى عبر الجمع بين خلايا LFP ومدد أنود حر. أعلنت الشركة في يناير 2022 بطارية Gemini التي تجاوز مداها 1000 كيلومتر، وأكدتها لاحقاً عروض في شاحنة فورد F-150 Lightning. وحظيت ONE بدعم استثماري من فورد وصندوق وطني، وافتتحت مصانع في ميشيغان لتصنيع خلايا وحزم، كما سلّمت إحدى أولى شاحنات التعدين الكهربائية المصنّعة في الولايات المتحدة. وبعد صعوبات تمويلية في 2024، أعادت الشركة هيكلة أعمالها حول منصة Celestia LFP مع مواصلة تطوير حزمة Gemini.",
+      "hq_city": "نوفي"
+    },
+    "fr": {
+      "name": "Our Next Energy (ONE)",
+      "country": "États-Unis",
+      "sub_domain": "Batteries de véhicules électriques",
+      "short_description": "Construit des packs de batteries à double chimie avec des autonomies LFP et sans anode.",
+      "technology": "Celestia LFP, pack Gemini",
+      "why_relevant": "A réalisé l'une des premières batteries de camionnette minière électrique sur le sol américain.",
+      "history": "Our Next Energy (ONE) a été fondée en 2020 par Mujeeb Ijaz, ancien dirigeant chez Apple et A123 Systems, pour produire des packs haute autonomie associant cellules LFP et bloc d'extension sans anode. En janvier 2022, l'entreprise a présenté sa batterie Gemini dépassant 1 000 kilomètres d'autonomie, validée ensuite sur un Ford F-150 Lightning. ONE a reçu le soutien investisseur de Ford et d'un fonds souverain, ouvert des usines au Michigan et livré l'un des premiers fourgons de mine électriques fabriqués aux États-Unis. Après des difficultés de financement en 2024, la société s'est réorganisée autour de sa plateforme Celestia LFP tout en poursuivant le développement du pack Gemini.",
+      "hq_city": "Novi"
+    }
+  }
+}

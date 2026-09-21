@@ -1,0 +1,662 @@
+{
+  "sitime": {
+    "ar": {
+      "name": "SiTime",
+      "country": "الولايات المتحدة",
+      "sub_domain": "توقيت MEMS",
+      "short_description": "تستبدل مرنانات الكوارتز بساعات ومذبذبات ورقائق توقيت قائمة على تقنية MEMS.",
+      "technology": "توقيت السيليكون بتقنية MEMS",
+      "why_relevant": "شركة الساعات السيليكونية التي تُرسل اليوم حلول التوقيت إلى معظم الإلكترونيات الحديثة.",
+      "history": "أُسّست شركة SiTime في عام 2004 على يد خبراء في تقنية MEMS بهدف استبدال مرنانات الكوارتز بتوقيت سيليكوني قائم على MEMS، وأصدرت أول مذبذباتها خلال عامين. توسّعت الشركة عبر أسواق الإلكترونيات الاستهلاكية والسيارات والفضاء والدفاع، متجاوزة مليار وحدة مشحونة، واستحوذت على شركة Aura Semiconductor في عام 2022 لتوسيع محفظة مذبذباتها وساعاتها في الوقت الحقيقي. وهي مدرجة في البورصة ومقرّها وادي السيليكون، وتعدّ معظم الشركات المصنّعة الكبرى من عملائها، ما يجعل التوقيت السيليكوني المعيار الجديد.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "SiTime",
+      "country": "États-Unis",
+      "sub_domain": "Timing MEMS",
+      "short_description": "Remplace les résonateurs à quartz par des horloges, oscillateurs et puces de timing à base de MEMS.",
+      "technology": "Timing silicium MEMS",
+      "why_relevant": "La société de l'horloge en silicium, désormais présente dans la plupart des appareils électroniques modernes.",
+      "history": "Fondée en 2004 par des vétérans de la technologie MEMS, SiTime a entrepris de remplacer les résonateurs à quartz par un timing silicium reposant sur la MEMS, en livrant ses premiers oscillateurs en deux ans seulement. La société a étendu sa présence aux marchés grand public, automobile, aérospatial et de la défense, dépassant le milliard d'unités expédiées, et a acquis Aura Semiconductor en 2022 pour élargir son portefeuille d'oscillateurs et d'horloges temps réel. Cotée en Bourse et basée dans la Silicon Valley, SiTime compte désormais les plus grands fabricants d'électronique parmi ses clients, faisant du timing silicium la nouvelle norme.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "tenstorrent": {
+    "ar": {
+      "name": "Tenstorrent",
+      "country": "كندا",
+      "sub_domain": "مسرعات الذكاء الاصطناعي",
+      "short_description": "تبني رقائق ذكاء اصطناعي بمعمارية RISC-V ومنصات عتاد أسطورية بالتعاون مع جيم كيلر.",
+      "technology": "رقائق الذكاء الاصطناعي Grayskull/Wormhole",
+      "why_relevant": "سيليكون ذكاء اصطناعي مستقل مع حزمة برمجيات مفتوحة ينافس NVIDIA.",
+      "history": "تأسست شركة Tenstorrent في عام 2016 على يد ليوبيشا باجيتش لتصميم مسرّعات ذكاء اصطناعي قائمة على شبكة ترابط عالية النطاق داخل الرقاقة، فأطلقت رقاقتي Grayskull وWormhole وبنَت حزمة برمجيات مفتوحة المصدر. وفي عام 2021 انضم إليها مهندس المعالجات الأسطوري جيم كيلر بصفة رئيس تقني، ما قادها نحو منصات تدمج أنوية RISC-V مع المسرّعات. وبتمويل من مستثمرين كبار، وقّعت Tenstorrent شراكات ترخيص في آسيا وأوروبا، وتقدّم نفسها اليوم البديلَ المفتوح الأبرز في رقائق الذكاء الاصطناعي.",
+      "hq_city": "تورونتو"
+    },
+    "fr": {
+      "name": "Tenstorrent",
+      "country": "Canada",
+      "sub_domain": "Accélérateurs IA",
+      "short_description": "Développe des puces IA RISC-V et des cartes matérielles de légende avec Jim Keller.",
+      "technology": "Puces IA Grayskull/Wormhole",
+      "why_relevant": "Du silicium IA indépendant avec une pile logicielle ouverte, prêt à défier NVIDIA.",
+      "history": "Fondée en 2016 par Ljubisa Bajic, Tenstorrent a conçu des accélérateurs IA autour d'un réseau d'interconnexion sur puce à haute bande passante, lançant les puces Grayskull et Wormhole et bâtissant une pile logicielle open source. En 2021, l'architecte légendaire Jim Keller a rejoint l'entreprise comme CTO, orientant la société vers des plateformes associant cœurs RISC-V et accélérateurs. Soutenue par de grands investisseurs, Tenstorrent a signé des accords de licence en Asie et en Europe et se positionne comme la principale alternative ouverte dans le silicium IA.",
+      "hq_city": "Toronto"
+    }
+  },
+  "rivos": {
+    "ar": {
+      "name": "Rivos",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سيليكون الذكاء الاصطناعي RISC-V",
+      "short_description": "تصمم رقائق خوادم بمعمارية RISC-V مزودة بمحركات مصفوفات لمعالجات الذكاء الاصطناعي.",
+      "technology": "RISC-V مع وحدات متجهة متوازية البيانات",
+      "why_relevant": "محاولة ممولة بقوة لصنع خوادم ذكاء اصطناعي بمعمارية مفتوحة.",
+      "history": "تأسست Rivos في عام 2021 على يد مخضرمَي السيليكون برايان زيمر ورانغا فينكاتيش، وكلاهما من غوغل سابقاً، لتطوير معالجات خوادم RISC-V مزوّدة بوحدات متجهة متوازية البيانات موجّهة للذكاء الاصطناعي. جمعت الشركة تمويلاً من السلسلة A بقيمة 250 مليون دولار في عام 2023، وتواصل تنمية فريقها وأعمال تصميم الرقاقات، كاشفة عن خارطة طريقها نحو خوادم ذكاء اصطناعي بمعمارية مفتوحة. ولا تزال Rivos في مرحلة النمو، وهي الأقوى تمويلاً بين محاولات إدخال المعمارية المفتوحة إلى الحوسبة السحابية.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Rivos",
+      "country": "États-Unis",
+      "sub_domain": "Silicium IA RISC-V",
+      "short_description": "Conçoit des puces serveur RISC-V dotées de moteurs matriciels pour les charges IA.",
+      "technology": "RISC-V + unités vectorielles à parallélisme de données",
+      "why_relevant": "Une tentative bien financée pour des serveurs IA à ISA ouverte.",
+      "history": "Rivos a été fondée en 2021 par les vétérans du silicium Brian Zimmer et Ranga Venkatesh, tous deux ex-Google, pour développer des processeurs serveur RISC-V dotés d'unités vectorielles orientées IA. La société a levé 250 M$ en série A en 2023 et continue de recruter et de faire progresser ses designs, en dévoilant sa feuille de route vers des serveurs IA à ISA ouverte. Encore en phase de croissance, Rivos demeure l'une des tentatives les mieux financées pour imposer l'architecture ouverte dans l'IA des data centers.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "ampere-computing": {
+    "ar": {
+      "name": "Ampere Computing",
+      "country": "الولايات المتحدة",
+      "sub_domain": "رقائق خوادم ARM",
+      "short_description": "معالجات سحابية بمعمارية ARM64 مصممة لحوسبة فائقة الحجم موفرة للطاقة.",
+      "technology": "معالجات ARM سحابية أصلية",
+      "why_relevant": "منحت السحابة بديلاً ARM كفؤاً بدل خوادم عصر Intel.",
+      "history": "تأسست Ampere Computing في عام 2017 على يد رينيه جيمس، الرئيسة السابقة لشركة Intel، بهدف بناء معالجات سحابية ARM64 موفّرة للطاقة لمراكز البيانات فائقة الحجم. أطلقت الشركة رقاقة Altra ذات 80 نواة في عام 2021، وعائلة AmpereOne بأنويتها المخصصة في عام 2023، واعتمدتها شركات سحابية منها Oracle. وبفضل دعم Oracle وCarlyle وغيرهما، تواصل Ampere توسيع خط خوادمها أحادية المقبس لخدمة الحوسبة العامة وتسريع الذكاء الاصطناعي.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Ampere Computing",
+      "country": "États-Unis",
+      "sub_domain": "Puces serveur ARM",
+      "short_description": "Des processeurs cloud ARM64 conçus pour le calcul hyperscale économe en énergie.",
+      "technology": "CPU ARM cloud natifs",
+      "why_relevant": "A donné au cloud l'alternative ARM efficace aux serveurs de l'ère Intel.",
+      "history": "Ampere Computing a été fondée en 2017 par Renee James, ancienne présidente d'Intel, pour concevoir des processeurs cloud ARM64 économes en énergie. La société a livré sa puce Altra 80 cœurs en 2021 et la famille AmpereOne à cœurs custom en 2023, adoptée par des fournisseurs cloud comme Oracle. Soutenue notamment par Oracle et Carlyle, Ampere continue d'étendre sa gamme de serveurs single-socket pour le calcul général et l'accélération IA.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "axelera-ai": {
+    "ar": {
+      "name": "Axelera AI",
+      "country": "هولندا",
+      "sub_domain": "رقائق ذكاء اصطناعي للحافة",
+      "short_description": "مسرّع حوسبة في الذاكرة أوروبي الصنع لاستدلال الذكاء الاصطناعي عند الحافة.",
+      "technology": "حوسبة رقمية داخل الذاكرة",
+      "why_relevant": "استقلالية أوروبية في رقائق ذكاء الحافة مع كفاءة طاقة تبلغ 20 ضعفاً.",
+      "history": "تأسست Axelera AI في عام 2021 في آيندهوفن لصناعة مسرّعات ذكاء اصطناعي أوروبية للحافة مبنية على الحوسبة الرقمية داخل الذاكرة. جمعت الشركة 38 مليون يورو في السلسلة A عام 2023، ثم 59 مليون دولار في السلسلة B بقيادة Invest-NL عام 2025، لتطوير منصة Metis والاستعداد لإطلاق أول رقاقاتها. وتعمل اليوم مع شركاء تكامل الأنظمة في أوروبا لنشر حلولها في الصناعة والمدن الذكية والأمن، مسوّقةً كفاءة طاقة تصل إلى 20 ضعفاً.",
+      "hq_city": "آيندهوفن"
+    },
+    "fr": {
+      "name": "Axelera AI",
+      "country": "Pays-Bas",
+      "sub_domain": "Puces IA edge",
+      "short_description": "Un accélérateur européen de calcul en mémoire pour l'inférence en périphérie.",
+      "technology": "Calcul numérique en mémoire",
+      "why_relevant": "L'autonomie de l'UE en matière de puces IA edge, avec une efficacité énergétique x20.",
+      "history": "Axelera AI a été fondée en 2021 à Eindhoven pour créer des accélérateurs IA européens pour l'edge, reposant sur le calcul numérique en mémoire. La société a levé 38 M€ en série A en 2023, puis 59 M$ en série B menée par Invest-NL en 2025, pour faire progresser sa plateforme Metis et préparer le lancement de sa première puce. Elle collabore avec des intégrateurs européens sur des déploiements industriels, de villes intelligentes et de sécurité, promettant une efficacité énergétique environ 20 fois supérieure.",
+      "hq_city": "Eindhoven"
+    }
+  },
+  "untether-ai": {
+    "ar": {
+      "name": "Untether AI",
+      "country": "كندا",
+      "sub_domain": "استدلال الذكاء الاصطناعي",
+      "short_description": "رقاقة حوسبة قريبة من الذاكرة تلغي نقل البيانات المكلف.",
+      "technology": "حوسبة داخل الذاكرة (at-Memory)",
+      "why_relevant": "يشغّل الاستدلال بحوسبة تتوضع تحت SRAM لا بجانبها.",
+      "history": "تأسست Untether AI في عام 2018 في تورونتو لوضع الحوسبة مباشرة تحت الذاكرة، ما يلغي نقل البيانات في استدلال الذكاء الاصطناعي. جمعت الشركة 200 مليون دولار كندي في عام 2021 وأطلقت بطاقات تسريع runAI المبنية على معالجة tsunAImi القريبة من الذاكرة. وبفضل دعم الحكومة الكندية الفدرالية والمحلية إضافة إلى مستثمرين استراتيجيين، تواصل استهداف استدلال الحافة ومراكز البيانات، مع تركيزها على نطاق الذاكرة بدلاً من البنى المعتمدة على الحوسبة فقط.",
+      "hq_city": "تورونتو"
+    },
+    "fr": {
+      "name": "Untether AI",
+      "country": "Canada",
+      "sub_domain": "Inférence IA",
+      "short_description": "Une puce de calcul proche de la mémoire qui élimine les transferts de données coûteux.",
+      "technology": "Calcul at-Memory (dans la mémoire)",
+      "why_relevant": "Exécute l'inférence avec le calcul logé sous la SRAM, et non à côté.",
+      "history": "Untether AI a été fondée en 2018 à Toronto pour placer le calcul directement sous la mémoire, éliminant ainsi les transferts de données dans l'inférence IA. La société a levé 200 M$ CA en 2021 et commercialisé ses cartes d'accélération runAI basées sur le traitement tsunAImi proche de la mémoire. Soutenue par les gouvernements fédéral et provinciaux ainsi que par des investisseurs stratégiques, elle vise l'inférence en périphérie et dans les data centers, privilégiant la bande passante mémoire aux architectures centrées calcul.",
+      "hq_city": "Toronto"
+    }
+  },
+  "d-matrix": {
+    "ar": {
+      "name": "d-Matrix",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سيليكون استدلال النماذج اللغوية الكبيرة LLM",
+      "short_description": "حوسبة داخل الذاكرة صُممت خصيصاً لأحمال المحولات التوليدية.",
+      "technology": "استدلال برقاقات Corsair",
+      "why_relevant": "يحسّن اقتصاديات التوكنات عبر الحوسبة داخل مصفوفات الذاكرة.",
+      "history": "تأسست d-Matrix في عام 2019 على يد سيد شيث لبناء رقاقات حوسبة داخل الذاكرة مصممة لأحمال المحولات التوليدية، وتقوم على معمارية Corsair للاستدلال. حصلت الشركة على 110 ملايين دولار في السلسلة B عام 2023، ثم رفعت 180 مليون دولار عام 2025 لتوسيع الإنتاج، مع تشغيل منصاتها المبكرة لاستدلال الذكاء الاصطناعي التوليدي لدى عملائها. وتواصل تركيزها على تحسين اقتصاديات التوكنات بالحوسبة داخل مصفوفات الذاكرة بدلاً من نقل البيانات.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "d-Matrix",
+      "country": "États-Unis",
+      "sub_domain": "Silicium d'inférence LLM",
+      "short_description": "Un calcul en mémoire conçu spécifiquement pour les charges génératives de type transformer.",
+      "technology": "Inférence chiplet Corsair",
+      "why_relevant": "Transforme l'économie des tokens en calculant au sein des matrices mémoire.",
+      "history": "Fondée en 2019 par Sid Sheth, d-Matrix développe des chiplets de calcul en mémoire conçus pour les charges génératives de type transformer, autour de son architecture d'inférence Corsair. La société a levé 110 M$ en série B en 2023, puis 180 M$ en 2025 pour passer à l'échelle de la production, ses premières plateformes exécutant déjà de l'inférence IA générative chez des clients. Elle continue de cibler l'économie des tokens en calculant au sein des matrices mémoire plutôt qu'en déplaçant les données.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "eliyan": {
+    "ar": {
+      "name": "Eliyan",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ترابط الرقائق المتعددة",
+      "short_description": "ملكية فكرية لأشباه الموصلات تربط الرقائق المتعددة بأقصى نطاق ترددي دون وسائط سيليكون.",
+      "technology": "ملكية فكرية PHY وفق UCIe/IPCIe",
+      "why_relevant": "يزيل تكلفة الوسيط التي تعيق الحوسبة على نطاق الرقائق المتعددة.",
+      "history": "تأسست Eliyan في عام 2021 على يد مصمم الترابط المخضرم رامين فرجادراد بهدف إزالة الوسيط السيليكوني من التصاميم متعددة الرقاقات. كشفت الشركة عن تقنية NuLink PHY التي تستهدف نطاقاً ترددياً يصل إلى تيرابايتات متعددة، وأغلقت جولة تمويل من السلسلة B بقيمة 60 مليون دولار في عام 2021، وتواصل ترخيص طبقاتها الفيزيائية المتوافقة مع UCIe وPCIe لشركاء كبار في أشباه الموصلات. ومع تجاوز رقائق الذكاء الاصطناعي حدود الحزم أحادية الجسم، تسوّق Eliyan ملكيتها الفكرية بوصفها جسراً منخفض التكلفة للرقاقات المتعددة الشرهة لعرض الحزمة.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Eliyan",
+      "country": "États-Unis",
+      "sub_domain": "Interconnexion de chiplets",
+      "short_description": "Une IP semi-conducteur qui relie des chiplets à bande passante maximale, sans interposers de silicium.",
+      "technology": "IP PHY UCIe/IPCIe",
+      "why_relevant": "Supprime le coût de l'interposer qui freine le calcul à l'échelle chiplet.",
+      "history": "Eliyan a été fondée en 2021 par le concepteur d'interconnexions Ramin Farjadrad pour supprimer l'interposer de silicium des architectures chiplet. La société a dévoilé son PHY NuLink visant une bande passante multi-téra-bits, bouclé une série B de 60 M$ en 2021, et continue de concéder ses couches physiques UCIe/PCIe à de grands partenaires semi-conducteurs. Alors que les puces IA dépassent les limites de l'empilement monolithique, Eliyan pose son IP comme le pont économique vers des chiplets gourmands en bande passante.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "celestial-ai": {
+    "ar": {
+      "name": "Celestial AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ترابط ضوئي فوتوني",
+      "short_description": "بنية فوتونية تنقل البيانات بين الرقائق بسرعة الضوء داخل الصندوق.",
+      "technology": "نسيج ذاكرة فوتوني",
+      "why_relevant": "مرشح جاد لإنهاء اختناق نقل البيانات لدى المسرعات.",
+      "history": "تأسست Celestial AI في عام 2020 على يد رائد الأعمال ديفيد لازوفسكي والأستاذ في معهد ماساتشوستس للتكنولوجيا راجيف رام لبناء نسيج ذاكرة فوتوني لمسرّعات الذكاء الاصطناعي. جمعت الشركة 100 مليون دولار في السلسلة B عام 2023 و250 مليون دولار في السلسلة C عام 2024، لتطوير منصة Photonic Fabric وتوسيع شراكاتها مع شركات مراكز البيانات وأشباه الموصلات. وتهدف إلى إنهاء اختناق النقل الكهربائي للبيانات عبر تحريك قواعد البيانات الكبيرة بسرعة الضوء.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Celestial AI",
+      "country": "États-Unis",
+      "sub_domain": "Interconnexion photonique",
+      "short_description": "Une matrice photonique déplace les données de puce à puce à la vitesse de la lumière, au sein du serveur.",
+      "technology": "Matrice mémoire photonique",
+      "why_relevant": "Un candidat sérieux pour mettre fin au goulot d'étranglement du transfert de données des accélérateurs.",
+      "history": "Celestial AI a été fondée en 2020 par l'entrepreneur David Lazovsky et le professeur du MIT Rajeev Ram pour créer une matrice mémoire photonique destinée aux accélérateurs IA. La société a levé 100 M$ en série B en 2023 puis 250 M$ en série C en 2024, faisant progresser sa plateforme Photonic Fabric et ses partenariats avec des acteurs des data centers et des semi-conducteurs. Elle ambitionne de mettre fin au goulot d'étranglement des transferts électriques en déplaçant de grandes mémoires à la vitesse de la lumière.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "lightmatter": {
+    "ar": {
+      "name": "Lightmatter",
+      "country": "الولايات المتحدة",
+      "sub_domain": "حوسبة فوتونية",
+      "short_description": "وصلات بصرية وحوسبة فوتونية لنقل بيانات التعلم العميق.",
+      "technology": "رقائق فوتونية ووصلات Passage",
+      "why_relevant": "يعيد التفكير في حدود الحوسبة باستخدام البصريات بدل النحاس.",
+      "history": "تأسست Lightmatter في عام 2017 على يد الباحثَيْن في معهد ماساتشوستس للتكنولوجيا نيك هاريس وداريوس بناران لإدخال الحوسبة والترابط الفوتونيين إلى التعلم العميق. أطلقت الشركة وصلة Passage البصرية، وجمعت 154 مليون دولار في السلسلة B عام 2021، ثم أغلقت جولة تتجاوز 400 مليون دولار في عام 2024 لتوسيع قدراتها التصنيعية لفوتونيات مراكز البيانات. وتزوّد اليوم أقماع التحويل البصرية ووصلاتها لعملاء يبنون أجيالاً جديدة من أنظمة الذكاء الاصطناعي.",
+      "hq_city": "بوسطن"
+    },
+    "fr": {
+      "name": "Lightmatter",
+      "country": "États-Unis",
+      "sub_domain": "Calcul photonique",
+      "short_description": "Interconnexions optiques et calcul photonique pour le déplacement des données en deep learning.",
+      "technology": "Puces photoniques, interconnect Passage",
+      "why_relevant": "Repense les frontières du calcul avec l'optique au lieu du cuivre.",
+      "history": "Lightmatter a été fondée en 2017 par les chercheurs du MIT Nick Harris et Darius Bunandar pour apporter calcul photonique et interconnexions optiques au deep learning. La société a lancé son interconnect optique Passage, levé 154 M$ en série B en 2021, puis bouclé un tour de plus de 400 M$ en 2024 pour accroître sa capacité de production de photonique pour data centers. Elle fournit aujourd'hui des matrices photoniques et des interconnexions aux acteurs qui bâtissent la prochaine génération de systèmes d'IA.",
+      "hq_city": "Boston"
+    }
+  },
+  "ayar-labs": {
+    "ar": {
+      "name": "Ayar Labs",
+      "country": "الولايات المتحدة",
+      "sub_domain": "إدخال/إخراج بصري",
+      "short_description": "يستبدل النحاس بواجهات إدخال/إخراج فوتونية لإطلاق ذاكرة الذكاء الاصطناعي على نطاق الرفوف.",
+      "technology": "وصلات بصرية داخل الحزمة",
+      "why_relevant": "يمنح الرقائق المتعددة الطبقة الفيزيائية PHY اللازمة لتوسيع العناقيد متجاوزاً حدود الطاقة.",
+      "history": "انبثقت Ayar Labs من مختبرات أبحاث الجامعات وتأسست عام 2015 بقيادة خريج معهد ماساتشوستس للتكنولوجيا تشن سون، لتطوير واجهات إدخال/إخراج بصرية داخل الحزمة تحل محل الوصلات النحاسية في أنظمة الذكاء الاصطناعي. جمعت الشركة 130 مليون دولار في عام 2023 بدعم من HPE، وأعلنت عن وحدات TeraPHY البصرية التي توفر وصلات متعددة التيرابتات. وتواصل التحقق من تقنيتها مع شركاء كبار في مجال الرقائق والأنظمة، دافعةً نحو ذاكرة على نطاق الرفوف وعناقيد ذكاء اصطناعي قابلة للتوسع ضمن حدود الطاقة.",
+      "hq_city": "إيميريفيل"
+    },
+    "fr": {
+      "name": "Ayar Labs",
+      "country": "États-Unis",
+      "sub_domain": "I/O optique",
+      "short_description": "Remplace le cuivre par des I/O photoniques pour libérer la mémoire IA à l'échelle du rack.",
+      "technology": "Liens optiques intégrés au boîtier",
+      "why_relevant": "Offre aux chiplets la PHY pour étendre les clusters au-delà des limites de puissance.",
+      "history": "Issue de la recherche universitaire et cofondée en 2015 par Chen Sun, diplômé du MIT, Ayar Labs développe des I/O optiques intégrées au boîtier pour remplacer le cuivre dans les systèmes IA. La société a levé 130 M$ en 2023 avec le soutien de HPE et a présenté ses modules optiques TeraPHY offrant des liens multi-téra-bits. Elle valide encore sa technologie avec de grands partenaires de semi-conducteurs et de systèmes, visant une mémoire à l'échelle du rack et des clusters IA extensibles au-delà des limites de puissance.",
+      "hq_city": "Emeryville"
+    }
+  },
+  "syntiant": {
+    "ar": {
+      "name": "Syntiant",
+      "country": "الولايات المتحدة",
+      "sub_domain": "رقائق عصبية للحافة",
+      "short_description": "رقائق فائقة الانخفاض في استهلاك الطاقة تشغّل الشبكات العصبية بجزء من الميلي واط.",
+      "technology": "مسرعات تناظرية للشبكات العصبية",
+      "why_relevant": "ذكاء اصطناعي سمعي يعمل دائماً في سماعات أذن لا تخشى نفاد الشحن.",
+      "history": "تأسست Syntiant في عام 2017 لبناء مسرعات شبكات عصبية تناظرية فائقة الانخفاض في استهلاك الطاقة لذكاء اصطناعي صوتي يعمل دائماً. جمعت الشركة 55 مليون دولار في عام 2021 بمشاركة مستثمرين منهم Microsoft، وشُحنت رقائق NDP الخاصة بها بعشرات الملايين في سماعات الأذن الاستهلاكية وأجهزة إنترنت الأشياء. وتوسّعت منذ ذلك الحين إلى رؤية الحافة والذكاء الاصطناعي التوليدي على الجهاز مع شركاء في قطاع السيارات، محافظةً على ريادتها في استدلال يستهلك أقل من ملي واط.",
+      "hq_city": "إيرفين"
+    },
+    "fr": {
+      "name": "Syntiant",
+      "country": "États-Unis",
+      "sub_domain": "Puces neuronales edge",
+      "short_description": "Des puces à ultra-faible consommation qui exécutent des réseaux de neurones avec une fraction de milliwatt.",
+      "technology": "Accélérateurs analogiques pour réseaux de neurones",
+      "why_relevant": "Une IA audio toujours active dans des écouteurs qui n'ont jamais peur de tomber en panne.",
+      "history": "Syntiant a été fondée en 2017 pour développer des accélérateurs analogiques de réseaux de neurones destinés à une IA audio toujours active en ultra-basse consommation. La société a levé 55 M$ en 2021 avec des soutiens comme Microsoft, et ses puces NDP ont été expédiées par dizaines de millions dans des écouteurs et des capteurs IoT. Elle s'est ensuite étendue à la vision en périphérie et à l'IA générative sur appareil, avec des partenaires automobiles, conservant son avance sur l'inférence sous le milliwatt.",
+      "hq_city": "Irvine"
+    }
+  },
+  "ventana-micro": {
+    "ar": {
+      "name": "Ventana Micro",
+      "country": "الولايات المتحدة",
+      "sub_domain": "خوادم RISC-V",
+      "short_description": "معالج RISC-V عالي الأداء يشغّل أكبر خوادم المعماريات المفتوحة.",
+      "technology": "أنوية RISC-V من طراز Veyron",
+      "why_relevant": "أصدرت رقائق RISC-V قادرة على تحمل أحمال سحابية جادة.",
+      "history": "تأسست Ventana Micro في عام 2018 على يد قادة سابقين في شركة SiFive لبناء معالجات خوادم RISC-V عالية الأداء. أعلنت الشركة عن أنويتها Veyron V1 في عام 2021 بوصفها من أسرع التصاميم ذات المعمارية المفتوحة حينها، وأغلقت جولة تمويل بقيمة 100 مليون دولار في عام 2022، ووقّعت اتفاقيات ترخيص تغطي رقاقات الحافة ومراكز البيانات. وتوسّعت شراكاتها مع عملاء سحابيين وقائمين في قطاع السيارات، بينما تدفع بـ RISC-V نحو أعباء عمل سحابية جدية.",
+      "hq_city": "كوبرتينو"
+    },
+    "fr": {
+      "name": "Ventana Micro",
+      "country": "États-Unis",
+      "sub_domain": "Serveurs RISC-V",
+      "short_description": "Un CPU RISC-V haute performance qui alimente les plus grands serveurs à architecture ouverte.",
+      "technology": "Cœurs RISC-V Veyron",
+      "why_relevant": "A livré du RISC-V capable d'assumer de vraies charges cloud.",
+      "history": "Ventana Micro a été fondée en 2018 par d'anciens dirigeants de SiFive pour développer des CPU serveur RISC-V haute performance. La société a présenté son cœur Veyron V1 en 2021 comme l'un des designs open source les plus rapides de l'époque, bouclé un tour de 100 M$ en 2022, et signé des accords de licence couvrant l'edge comme les data centers. Elle élargit ses partenariats cloud et automobile tout en poussant le RISC-V vers de vraies charges hyperscale.",
+      "hq_city": "Cupertino"
+    }
+  },
+  "efinix": {
+    "ar": {
+      "name": "Efinix",
+      "country": "الولايات المتحدة",
+      "sub_domain": "FPGA",
+      "short_description": "منطق قابل للبرمجة كفؤ مع مضيفات RISC-V مدمجة للأنظمة الطرفية.",
+      "technology": "أقمشة قابلة للبرمجة Quantum",
+      "why_relevant": "جعلت الرقائق القابلة للبرمجة رخيصة بما يكفي للروبوتات الاستهلاكية.",
+      "history": "تأسست Efinix في عام 2012 لإعادة ابتكار المنطق القابل للبرمجة عبر تقنية Quantum، وهي معمارية من أربع جداول بحث LUT تقلّص كلفة واستهلاك رقائق FPGA. أطلقت الشركة عائلتَي Trion ثم Titanium المزوّدة بمضيفات RISC-V مدمجة، وجمعت 26 مليون دولار في عام 2022 بمشاركة مستثمرين منهم Samsung. وقد وجدت رقاقاتها القابلة للبرمجة منخفضة التكلفة مكاناً لها في الروبوتات الاستهلاكية وذكاء الحافة وتسريع العتاد.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Efinix",
+      "country": "États-Unis",
+      "sub_domain": "FPGA",
+      "short_description": "De la logique programmable efficace avec hôtes RISC-V intégrés pour les systèmes edge.",
+      "technology": "Matrices programmables Quantum",
+      "why_relevant": "A rendu les puces programmables assez abordables pour la robotique grand public.",
+      "history": "Efinix a été fondée en 2012 pour réinventer la logique programmable avec sa matrice Quantum, une architecture à quatre LUT qui réduit coût et consommation des FPGA. La société a livré la famille Trion puis les FPGA Titanium à hôtes RISC-V intégrés, et levé 26 M$ en 2022 avec des investisseurs comme Samsung. Ses puces programmables à faible coût ont trouvé leur place dans la robotique grand public, l'IA edge et l'accélération matérielle.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "atomera": {
+    "ar": {
+      "name": "Atomera",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مواد الترانزستور",
+      "short_description": "تقنية سيليكون Mears تعزز أداء الترانزستورات في مصانع الرقائق التقليدية.",
+      "technology": "هندسة المنشطات MST",
+      "why_relevant": "مسار ترقية لمصانع الرقائق الأقدم لتبقى ذات صلة لسنوات.",
+      "history": "تأسست Atomera في عام 2007 لتسويق تقنية سيليكون Mears (MST)، وهي طبقة فائقة الرقة تعتمد هندسة المنشطات وترفع أداء الترانزستورات في مصانع الرقاقات القائمة. أُدرجت الشركة في بورصة ناسداك عام 2016، ووقّعت منذ ذلك الحين عدة اتفاقيات ترخيص تقنية مع مصنّعين لأشباه الموصلات عبر مختلف عقد التصنيع. وتواصل تقديم مسار ترقية منخفض المخاطر لمصانع اليوم والأمس لتحقيق مكاسب أداء دون إعادة تصميم كاملة.",
+      "hq_city": "لوس غاتوس"
+    },
+    "fr": {
+      "name": "Atomera",
+      "country": "États-Unis",
+      "sub_domain": "Matériaux pour transistors",
+      "short_description": "La technologie silicium Mears améliore les performances des transistors dans les fabs existantes.",
+      "technology": "Ingénierie de dopage MST",
+      "why_relevant": "Une voie de mise à niveau pour que les anciennes fabs restent compétitives pendant des années.",
+      "history": "Atomera a été fondée en 2007 pour commercialiser la technologie silicium Mears (MST), un film ultra-fin dopé qui améliore les performances des transistors dans les fabs existantes. La société est entrée au Nasdaq en 2016 et a depuis signé plusieurs accords de licence technologique avec des fabricants de semi-conducteurs sur différents nœuds de fonderie. Elle continue de proposer une voie de mise à niveau à faible risque permettant aux fabs d'hier et d'aujourd'hui de gagner en performance sans redesign complet.",
+      "hq_city": "Los Gatos"
+    }
+  },
+  "nantero": {
+    "ar": {
+      "name": "Nantero",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ذاكرة الأنابيب النانوية الكربونية",
+      "short_description": "ذاكرة NRAM مبنية من أنابيب كربون نانوية تجمع بين المتانة والسرعة.",
+      "technology": "NRAM قائمة على الأنابيب النانوية الكربونية CNT",
+      "why_relevant": "ذاكرة غير متطايرة تصمد أمام الإشعاع والحرارة أفضل من ذاكرة الفلاش.",
+      "history": "تأسست Nantero في عام 2001 انطلاقاً من أبحاث في جامعة هارفارد لتطوير ذاكرة NRAM، وهي ذاكرة غير متطايرة من الأنابيب النانوية الكربونية تتميز بتحمل قوي للحرارة والإشعاع ودورات الكتابة. حققت الشركة مراحل تطوير مشتركة مع Fujitsu وجمعت 200 مليون دولار في عام 2017 لبناء أول مصنع لها في الولايات المتحدة. وتواصل ترخيص NRAM للتطبيقات المدمجة والصناعية وعالية الموثوقية حيث تفشل ذاكرة الفلاش، مع العمل مع شركاء الذاكرة على مراحل التأهيل.",
+      "hq_city": "ووبرن"
+    },
+    "fr": {
+      "name": "Nantero",
+      "country": "États-Unis",
+      "sub_domain": "Mémoire à nanotubes de carbone",
+      "short_description": "La mémoire NRAM, fabriquée à partir de nanotubes de carbone, allie durabilité et rapidité.",
+      "technology": "NRAM à base de CNT",
+      "why_relevant": "Une mémoire non volatile qui résiste mieux aux radiations et à la chaleur que la flash.",
+      "history": "Nantero a été fondée en 2001, issue de recherches menées à Harvard, pour développer la NRAM, une mémoire non volatile à nanotubes de carbone offrant une forte endurance à la chaleur, aux radiations et aux cycles d'écriture. La société a franchi des étapes de développement conjoint avec Fujitsu et levé 200 M$ en 2017 pour bâtir sa première fab américaine. Elle continue de concéder sa NRAM sous licence pour des applications embarquées, industrielles et haute fiabilité où la flash atteint ses limites, tout en avançant avec ses partenaires mémoire vers la qualification.",
+      "hq_city": "Woburn"
+    }
+  },
+  "weebit-nano": {
+    "ar": {
+      "name": "Weebit Nano",
+      "country": "إسرائيل",
+      "sub_domain": "ذاكرة RRAM",
+      "short_description": "ذاكرة مقاومة تُرخّص إلى مصانع الرقائق لاستبدال الذاكرة المدمجة.",
+      "technology": "ملكية فكرية RRAM قائمة على الأكسيد",
+      "why_relevant": "تندمج في عمليات CMOS الحالية مع كتابة أسرع 100 مرة من الفلاش.",
+      "history": "تأسست Weebit Nano في عام 2015 لتطوير ذاكرة RRAM قائمة على أكسيد السيليكون، وأدرجت أسهمها في بورصة أستراليا ASX عام 2021. أهّلت الشركة ذاكرتها المدمجة RRAM لدى SkyWater ووقّعت في السنوات التالية اتفاقيات ترخيص وتوريد إضافية مع مصانع رقاقات. وتبقى مورداً مدرجاً لملكية فكرية تقدم بديلاً سهل الدمج في عمليات CMOS، وبكتابة أسرع 100 مرة من الفلاش، لتطبيقات الذاكرة المدمجة.",
+      "hq_city": "نتانيا"
+    },
+    "fr": {
+      "name": "Weebit Nano",
+      "country": "Israël",
+      "sub_domain": "Mémoire RRAM",
+      "short_description": "Une RAM résistive concédée sous licence aux fabs pour remplacer la mémoire intégrée.",
+      "technology": "IP RRAM à oxyde",
+      "why_relevant": "S'intègre dans les procédés CMOS existants avec des écritures 100x plus rapides que la flash.",
+      "history": "Weebit Nano a été constituée en 2015 pour développer une RRAM à oxyde de silicium, avant de s'introduire à la bourse australienne ASX en 2021. La société a qualifié sa RRAM embarquée chez SkyWater et signé, dans les années suivantes, des accords de licence et d'approvisionnement avec des fabs. Elle demeure un fournisseur coté d'IP proposant une alternative compatible CMOS, aux écritures 100x plus rapides que la flash, pour la mémoire embarquée.",
+      "hq_city": "Netanya"
+    }
+  },
+  "furiosaai": {
+    "ar": {
+      "name": "FuriosaAI",
+      "country": "كوريا الجنوبية",
+      "sub_domain": "مسرعات الذكاء الاصطناعي",
+      "short_description": "شركة كورية ناشئة لرقائق الذكاء الاصطناعي تُطلق مسرّع RNGD.",
+      "technology": "مسرعات النماذج اللغوية الكبيرة LLM",
+      "why_relevant": "سيليكون مصنّع لدى Samsung مع حزمة برمجيات جادة.",
+      "history": "تأسست FuriosaAI في عام 2017 على يد باحثين مرتبطين بجامعة سيول الوطنية لبناء مسرّعات ذكاء اصطناعي للتعلم العميق. أطلقت الشركة مسرّعها من الجيل الثاني RNGD المصنّع في مصانع Samsung، مستندةً إلى تمويل كوري كبير عبر جولات متعددة. وتواصل تطوير مسرّعات مخصصة للنماذج اللغوية الكبيرة وحزمة برمجيات جادة للنشر في مراكز البيانات في كوريا واليابان.",
+      "hq_city": "سيول"
+    },
+    "fr": {
+      "name": "FuriosaAI",
+      "country": "Corée du Sud",
+      "sub_domain": "Accélérateurs IA",
+      "short_description": "La startup coréenne de puces IA qui commercialise l'accélérateur RNGD.",
+      "technology": "Accélérateurs LLM",
+      "why_relevant": "Du silicium fabriqué par Samsung, adossé à une pile logicielle sérieuse.",
+      "history": "FuriosaAI a été fondée en 2017 par des chercheurs proches de l'Université nationale de Séoul pour développer des accélérateurs IA destinés au deep learning. La société a lancé son accélérateur de deuxième génération RNGD, produit par la fonderie de Samsung, adossé à un financement coréen substantiel réparti sur plusieurs tours. Elle poursuit le développement d'accélérateurs dédiés aux grands modèles de langage et d'une pile logicielle sérieuse pour le déploiement en data centers en Corée et au Japon.",
+      "hq_city": "Séoul"
+    }
+  },
+  "rebellions": {
+    "ar": {
+      "name": "Rebellions",
+      "country": "كوريا الجنوبية",
+      "sub_domain": "NPU",
+      "short_description": "شركة ناشئة لرقائق الذكاء الاصطناعي تقف خلف معالج ATOM NPU للأجهزة الاستهلاكية.",
+      "technology": "وحدات NPU للمحولات",
+      "why_relevant": "اندمجت مع Sapeon لتشكيل بطل كوريا الوطني في رقائق الذكاء الاصطناعي.",
+      "history": "تأسست Rebellions في عام 2020 لصناعة رقائق ذكاء اصطناعي لأحمال الأجهزة ومراكز البيانات، فأطلقت معالج ATOM NPU للأجهزة الاستهلاكية. جمعت الشركة أكثر من 100 مليون دولار في السلسلة A وطوّرت مسرّع REBEL لمراكز البيانات عبر مصانع Samsung في كوريا. وفي عام 2024 وافقت على الاندماج مع Sapeon ليشكلا معاً بطل كوريا الوطني في رقائق الذكاء الاصطناعي، مستهدفَين وحدات NPU محسّنة للمحولات في السحابة والحافة.",
+      "hq_city": "سونغنام"
+    },
+    "fr": {
+      "name": "Rebellions",
+      "country": "Corée du Sud",
+      "sub_domain": "NPU",
+      "short_description": "La startup de puces IA à l'origine du NPU ATOM pour les appareils grand public.",
+      "technology": "NPU pour transformers",
+      "why_relevant": "A fusionné avec Sapeon pour devenir le champion national coréen des puces IA.",
+      "history": "Rebellions a été fondée en 2020 pour concevoir des puces IA à destination des appareils et des data centers, lançant le NPU ATOM pour le grand public. La société a levé plus de 100 M$ en série A et développé l'accélérateur REBEL pour data centers via la fonderie de Samsung en Corée. En 2024, elle a accepté de fusionner avec Sapeon pour former le champion national coréen des puces IA, ciblant des NPU optimisés pour les transformers, du cloud à l'edge.",
+      "hq_city": "Seongnam"
+    }
+  },
+  "sapeon": {
+    "ar": {
+      "name": "Sapeon",
+      "country": "كوريا الجنوبية",
+      "sub_domain": "رقائق ذكاء اصطناعي لمراكز البيانات",
+      "short_description": "مطوّر مرتبط بمجموعة SK لمسرعات الذكاء الاصطناعي في مراكز البيانات، وهو بصدد الاندماج مع Rebellions.",
+      "technology": "معالج X330 NPU لمراكز البيانات",
+      "why_relevant": "جزء من تسريع كوريا الوطني لدمج أشباه موصلات الذكاء الاصطناعي.",
+      "history": "انبثقت Sapeon عن شركة SK Telecom في عام 2022 لتطوير مسرّعات ذكاء اصطناعي لمراكز البيانات، فأطلقت معالجها X330 NPU عبر مصانع Samsung. عملت الشركة ضمن منظومة مجموعة SK لدفع أجندة السيليكون الوطني الكوري، ووافقت عام 2024 على الاندماج مع Rebellions. ويمنح هذا الاندماج كوريا موردها المحلي الأول لوحدات NPU لمراكز البيانات، جامعاً رأس مال SK Telecom وقنواتها مع المواهب الهندسية لـ Rebellions.",
+      "hq_city": "سونغنام"
+    },
+    "fr": {
+      "name": "Sapeon",
+      "country": "Corée du Sud",
+      "sub_domain": "Puces IA pour data centers",
+      "short_description": "Développeur d'accélérateurs IA pour data centers, affilié à SK, en cours de fusion avec Rebellions.",
+      "technology": "NPU X330 pour data centers",
+      "why_relevant": "Participe à la consolidation nationale accélérée des semi-conducteurs IA en Corée.",
+      "history": "Sapeon a été essaimée de SK Telecom en 2022 pour développer des accélérateurs IA pour data centers, avec son NPU X330 produit par la fonderie de Samsung. La société a œuvré au sein de l'écosystème SK Group en faveur d'une filière nationale du silicium IA et a accepté en 2024 de fusionner avec Rebellions. Cette consolidation crée le premier fournisseur domestique coréen de NPU pour data centers, unissant les capitaux et canaux de SK Telecom au talent d'ingénierie de Rebellions.",
+      "hq_city": "Seongnam"
+    }
+  },
+  "kneron": {
+    "ar": {
+      "name": "Kneron",
+      "country": "الولايات المتحدة",
+      "sub_domain": "رقائق ذكاء اصطناعي للحافة",
+      "short_description": "ذكاء اصطناعي مصغّر داخل الأجهزة لمنظومة إنترنت الأشياء، بمعمارية «ذكاء داخل المستشعر».",
+      "technology": "وحدات NPU للحافة",
+      "why_relevant": "تضفي رؤية ذكية على الكاميرات منخفضة الطاقة عند الحافة.",
+      "history": "تأسست Kneron في عام 2015 لجلب ذكاء اصطناعي مصغّر داخل الأجهزة إلى إنترنت الأشياء، عبر معمارية «ذكاء داخل المستشعر» موجّهة للكاميرات منخفضة الطاقة. جمعت الشركة 48.7 مليون دولار في عام 2022 بمشاركة مستثمرين منهم Foxconn، وأطلقت سلسلة رقاقات KL للحافة تباعاً. وتواصل التوسع في تطبيقات النماذج اللغوية الكبيرة على الجهاز وشراكات الرؤية في قطاع السيارات في الولايات المتحدة وآسيا، مستهدفةً الأجهزة التي تعمل بالبطاريات.",
+      "hq_city": "سان دييغو"
+    },
+    "fr": {
+      "name": "Kneron",
+      "country": "États-Unis",
+      "sub_domain": "Puces IA edge",
+      "short_description": "Une IA sur appareil miniature pour l'IoT, avec une architecture « IA dans le capteur ».",
+      "technology": "NPU edge",
+      "why_relevant": "Apporte une vision intelligente aux caméras basse consommation en périphérie.",
+      "history": "Kneron a été fondée en 2015 pour apporter une IA sur appareil miniature à l'IoT, avec une architecture « IA dans le capteur » destinée aux caméras basse consommation. La société a levé 48,7 M$ en 2022 avec des investisseurs comme Foxconn et livré successivement ses NPU edge de la série KL. Elle étend ses applications aux grands modèles de langage sur appareil et à la vision automobile, aux États-Unis et en Asie, visant les dispositifs alimentés par batterie.",
+      "hq_city": "San Diego"
+    }
+  },
+  "horizon-robotics": {
+    "ar": {
+      "name": "Horizon Robotics",
+      "country": "الصين",
+      "sub_domain": "رقائق أنظمة المساعدة على القيادة ADAS",
+      "short_description": "شركة مدرجة في شنغهاي وهونغ كونغ لصناعة أنظمة SoC للقيادة ADAS والروبوتات.",
+      "technology": "أنظمة SoC للقيادة ADAS من سلسلة Journey",
+      "why_relevant": "اعتماد واسع للأنظمة ADAS في السيارات الكهربائية الصينية على نطاق قابل للبرمجة.",
+      "history": "تأسست Horizon Robotics في عام 2015 على يد يو كاي، المدير التنفيذي السابق في Baidu، لتصنيع معالجات أنظمة المساعدة على القيادة ADAS والروبوتات. أصبحت عائلتا معالجات Journey وMatrix أساسيتين في السيارات الكهربائية الصينية، وأدرجت الشركة أسهمها في بورصة هونغ كونغ في أواخر عام 2024. وتعمل Horizon اليوم مورّداً عاماً مربحاً لمنصات القيادة المعرّفة بالبرمجيات، محققةً اعتماداً واسعاً لأنظمة ADAS في الصين.",
+      "hq_city": "بكين"
+    },
+    "fr": {
+      "name": "Horizon Robotics",
+      "country": "Chine",
+      "sub_domain": "Puces ADAS",
+      "short_description": "Fabricant coté à Shanghai/Hong Kong de SoC pour l'ADAS automobile et la robotique.",
+      "technology": "SoC ADAS de la gamme Journey",
+      "why_relevant": "Adoption massive de l'ADAS dans les VE chinois, à l'échelle du software-defined.",
+      "history": "Horizon Robotics a été fondée en 2015 par Yu Kai, ancien dirigeant de Baidu, pour concevoir des processeurs ADAS et robotiques. Les familles de SoC Journey et Matrix sont devenues standards dans les véhicules électriques chinois, et la société s'est introduite à la Bourse de Hong Kong fin 2024. Horizon opère désormais comme un fournisseur public rentable de plateformes de conduite définie par logiciel, portant l'adoption massive de l'ADAS en Chine.",
+      "hq_city": "Pékin"
+    }
+  },
+  "black-sesame-technologies": {
+    "ar": {
+      "name": "Black Sesame Technologies",
+      "country": "الصين",
+      "sub_domain": "رقائق السيارات",
+      "short_description": "شركة مدرجة في هونغ كونغ تصمّم رقائق ذكاء اصطناعي بجودة صناعة السيارات.",
+      "technology": "أنظمة SoC ذاتية القيادة من سلسلة Huashan",
+      "why_relevant": "تتسابق نحو الحوسبة ذاتية القيادة من المستوى L3 في أساطيل السيارات الكهربائية الصينية.",
+      "history": "تأسست Black Sesame Technologies في عام 2016 لتصميم رقائق ذكاء اصطناعي بجودة صناعة السيارات، فأطلقت سلسلة SoC الخاصة بالقيادة الذاتية Huashan. حظيت الشركة بدعم استراتيجي من Xiaomi وغيرها، وأدرجت أسهمها في بورصة هونغ كونغ عام 2024. وتواصل تطوير منصات حوسبة موجهة للقيادة الذاتية من المستوى L3 لأساطيل السيارات الكهربائية الصينية، موسّعةً قاعدة عملائها بين صانعي السيارات المحليين.",
+      "hq_city": "شنتشن"
+    },
+    "fr": {
+      "name": "Black Sesame Technologies",
+      "country": "Chine",
+      "sub_domain": "Puces automobiles",
+      "short_description": "Concepteur coté à Hong Kong de puces IA de grade automobile.",
+      "technology": "SoC autonomes Huashan",
+      "why_relevant": "Course vers le calcul autonome de niveau L3 dans les flottes de VE chinoises.",
+      "history": "Black Sesame Technologies a été fondée en 2016 pour concevoir des puces IA de grade automobile, lançant ses SoC de conduite autonome Huashan. La société a reçu le soutien stratégique de Xiaomi et d'autres, et s'est introduite à la Bourse de Hong Kong en 2024. Elle poursuit le développement de plateformes visant le niveau L3 pour les flottes de VE chinoises, élargissant sa clientèle parmi les constructeurs locaux.",
+      "hq_city": "Shenzhen"
+    }
+  },
+  "enflame": {
+    "ar": {
+      "name": "Enflame",
+      "country": "الصين",
+      "sub_domain": "مسرعات الذكاء الاصطناعي",
+      "short_description": "شركة صينية لرقائق الذكاء الاصطناعي توسّع مسرعات مراكز البيانات.",
+      "technology": "معالجات Suoyuan NPU",
+      "why_relevant": "أحد البدائل المحلية المكافئة لـ GPU في خطط الصين لتوسيع الذكاء الاصطناعي.",
+      "history": "تأسست Enflame في عام 2018 لصناعة مسرّعات ذكاء اصطناعي صينية لمراكز البيانات، فطوّرت خط معالجاتها Suoyuan NPU للتدريب والاستدلال. جمعت الشركة مئات ملايين الدولارات عبر عدة جولات وحققت عمليات نشر واسعة داخل البنية الرقمية الصينية. وتضع مسرّعاتها وحزمة برمجياتها خيارات محلية في مساعي الصين لتقليل الاعتماد على وحدات GPU المستوردة، مستفيدةً من مشاريع الذكاء الاصطناعي المدعومة حكومياً.",
+      "hq_city": "شنغهاي"
+    },
+    "fr": {
+      "name": "Enflame",
+      "country": "Chine",
+      "sub_domain": "Accélérateurs IA",
+      "short_description": "La société chinoise de puces IA qui déploie des accélérateurs pour data centers.",
+      "technology": "NPU Suoyuan",
+      "why_relevant": "L'une des options domestiques équivalentes au GPU dans la montée en puissance de l'IA en Chine.",
+      "history": "Enflame a été fondée en 2018 pour développer des accélérateurs IA chinois pour data centers, avec sa gamme de NPU Suoyuan dédiée à l'entraînement et à l'inférence. La société a levé plusieurs centaines de millions de dollars au fil de plusieurs tours et atteint des déploiements en volume dans l'infrastructure numérique chinoise. Elle positionne ses accélérateurs et sa pile logicielle comme des alternatives domestiques visant à réduire la dépendance aux GPU importés, profitant de la montée en puissance de l'IA soutenue par l'État.",
+      "hq_city": "Shanghai"
+    }
+  },
+  "cambricon": {
+    "ar": {
+      "name": "Cambricon",
+      "country": "الصين",
+      "sub_domain": "رقائق الذكاء الاصطناعي",
+      "short_description": "أول إدراج عام لملكية فكرية لرقائق الذكاء الاصطناعي في الصين، وتصمّم اليوم بطاقات تسريع.",
+      "technology": "سلاسل Cambricon K و MLU",
+      "why_relevant": "رائد مبكر في رقائق الذكاء الاصطناعي السحابية، مدرج في بورصة STAR.",
+      "history": "تأسست Cambricon في عام 2016 على يد تشن تيانتشي، لتصبح أول شركة صينية لملكية فكرية لرقائق الذكاء الاصطناعي تُدرج في البورصة. أُدرجت الشركة في بورصة STAR عام 2020، وتوسّعت من ترخيص المعالجات إلى خط منتجات مسرّعات MLU للذكاء الاصطناعي السحابي. وتبقى أداة رئيسية في استراتيجية الصين المحلية للسيليكون، إذ تزوّد بطاقات تسريع وأجهزة ضمن البنية التحتية الذكية في البلاد.",
+      "hq_city": "بكين"
+    },
+    "fr": {
+      "name": "Cambricon",
+      "country": "Chine",
+      "sub_domain": "Puces IA",
+      "short_description": "Première cotation publique d'une IP de puces IA en Chine, désormais concepteur de cartes d'accélération.",
+      "technology": "Séries Cambricon K/MLU",
+      "why_relevant": "Pionnier des puces IA cloud, coté sur le marché STAR.",
+      "history": "Cambricon a été fondée en 2016 par Chen Tianshi et est devenue la première société chinoise d'IP de puces IA à faire l'objet d'une cotation publique. La société a fait son entrée au marché STAR en 2020, passant de la licence de processeurs à sa gamme d'accélérateurs MLU pour l'IA cloud. Elle demeure un véhicule phare de la stratégie silicium domestique chinoise, fournissant cartes d'accélération et terminaux pour l'infrastructure IA du pays.",
+      "hq_city": "Pékin"
+    }
+  },
+  "biren-technology": {
+    "ar": {
+      "name": "Biren Technology",
+      "country": "الصين",
+      "sub_domain": "صناعة معالجات الرسوميات GPU",
+      "short_description": "تطوّر وحدات GPU للأغراض العامة لتدريب نماذج الذكاء الاصطناعي على الخوادم.",
+      "technology": "سلسلة معالجات BR100 GPU",
+      "why_relevant": "تحاول تقديم حزمة متكاملة بمستوى CUDA للسوق الصينية.",
+      "history": "تأسست Biren Technology في عام 2021 لتطوير وحدات GPU للأغراض العامة لتدريب الذكاء الاصطناعي في الصين، معلنةً سلسلة BR100 وطموحاتها في تقديم حزمة كاملة بمستوى CUDA. جمعت الشركة جولات ضخمة من صناديق مرتبطة بالدولة، ووصلت قيمتها إلى مليارات الدولارات. وتواصل بناء رقاقات تدريب وحزمة برمجيات لتكون بديلاً محلياً للمسرّعات المستوردة.",
+      "hq_city": "شنغهاي"
+    },
+    "fr": {
+      "name": "Biren Technology",
+      "country": "Chine",
+      "sub_domain": "Production de GPU",
+      "short_description": "Développe des GPU généralistes pour l'entraînement IA sur serveurs.",
+      "technology": "Série de GPU BR100",
+      "why_relevant": "Tente une offre plein-empilement de classe CUDA pour le marché chinois.",
+      "history": "Biren Technology a été fondée en 2021 pour développer des GPU généralistes destinés à l'entraînement IA en Chine, annonçant sa série BR100 et l'ambition d'une pile complète de classe CUDA. La société a levé d'importants tours auprès de fonds liés à l'État, atteignant une valorisation de plusieurs milliards de dollars. Elle poursuit la construction de GPU d'entraînement et d'un écosystème logiciel pour servir d'alternative domestique aux accélérateurs importés.",
+      "hq_city": "Shanghai"
+    }
+  },
+  "achronix": {
+    "ar": {
+      "name": "Achronix",
+      "country": "الولايات المتحدة",
+      "sub_domain": "FPGA وتسريع الذكاء الاصطناعي",
+      "short_description": "رقائق Speedster eFPGA وملكية فكرية FPGA للذكاء الاصطناعي والتعلم الآلي لتحقيق تسريع عالي السرعة.",
+      "technology": "eFPGA مع Speedcore",
+      "why_relevant": "أنوية FPGA مدمجة تبقى المنطق القابل للبرمجة قريباً من البيانات.",
+      "history": "تأسست Achronix في عام 2004 لدفع أداء رقائق FPGA، فأطلقت رقائق Speedster فائقة السرعة وريادتها في ملكية فكرية FPGA المدمجة عبر Speedcore. أدرجت الشركة أسهمها عبر اندماج SPAC في عام 2021، ووسّعت نسيجها Speedster7t لتسريع الذكاء الاصطناعي. وترخّص اليوم أنوية eFPGA وتبيع رقائق مستقلة لتطبيقات الشبكات والذكاء الاصطناعي ومراكز البيانات في شتى القطاعات، محافظةً على المنطق القابل للبرمجة قريباً من البيانات.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Achronix",
+      "country": "États-Unis",
+      "sub_domain": "FPGA et accélération IA",
+      "short_description": "Les eFPGA Speedster et IP FPGA IA/ML pour une accélération haute vitesse.",
+      "technology": "eFPGA + Speedcore",
+      "why_relevant": "Des cœurs FPGA embarqués gardent la logique programmable au plus près des données.",
+      "history": "Achronix a été fondée en 2004 pour repousser les performances des FPGA, lançant ses FPGA haute vitesse Speedster et ouvrant la voie aux IP FPGA embarquées avec Speedcore. La société est devenue publique par fusion SPAC en 2021 et a étendu sa matrice Speedster7t pour l'accélération IA. Elle concède aujourd'hui des cœurs eFPGA et vend des FPGA autonomes pour les charges networking, IA et data centers, gardant la logique programmable au plus près des données.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "flex-logix": {
+    "ar": {
+      "name": "Flex Logix",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ملكية فكرية eFPGA",
+      "short_description": "رائد في الأقمشة البرمجية المدمجة المرخّصة داخل رقائق أخرى.",
+      "technology": "ملكية فكرية eFPGA",
+      "why_relevant": "تبيع منطقاً مرناً يمكن للرقائق إعادة برمجته بعد الشحن.",
+      "history": "تأسست Flex Logix في عام 2014 لتسويق أقمشة FPGA المدمجة، مرخّصةً معمارية EFLX على منصات متنوعة من أشباه الموصلات. بنت الشركة خطاً لمسرّعات الاستدلال عند الحافة وسلّمت ملكية فكرية eFPGA لمجموعة من مصنّعي الرقاقات، قبل أن تعلن في عام 2025 نيتها إنهاء عملياتها بعد سنوات في السوق. ومع ذلك، أبرزت تقنيتها الجدوى الواسعة للمنطق القابل لإعادة البرمجة المدمج داخل رقاقات أخرى.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "Flex Logix",
+      "country": "États-Unis",
+      "sub_domain": "IP eFPGA",
+      "short_description": "Pionnier des matrices programmables embarquées, concédées sous licence à d'autres siliciums.",
+      "technology": "IP eFPGA",
+      "why_relevant": "Vend une logique flexible que les puces peuvent reprogrammer après livraison.",
+      "history": "Flex Logix a été fondée en 2014 pour commercialiser des matrices FPGA embarquées, en concédant son architecture EFLX sur de nombreuses plateformes semi-conducteurs. La société a développé une gamme d'accélérateurs d'inférence edge et livré de l'IP eFPGA à divers fabricants de puces, avant d'annoncer en 2025 qu'elle cesserait ses activités après des années de présence sur le marché. Sa technologie a néanmoins démontré la viabilité de la logique reprogrammable intégrée à d'autres siliciums.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "astera-labs": {
+    "ar": {
+      "name": "Astera Labs",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سيليكون الاتصال",
+      "short_description": "رقائق اتصال لمراكز البيانات تسهّل توسيع نطاق PCIe و CXL.",
+      "technology": "معيدات تزامن CXL/PCIe",
+      "why_relevant": "أُدرجت في البورصة بوصفها طبقة الاتصال في بناء مراكز البيانات الخاصة بالذكاء الاصطناعي.",
+      "history": "تأسست Astera Labs في عام 2017 على يد جيتندرا موهان لصناعة رقاقات اتصال لمعايير PCIe وCXL في خوادم الذكاء الاصطناعي. عزّزت الشركة مكانتها بمعيدات تزامن Aries وعائلات Leo وTaurus وScorpio، وأدرجت أسهمها في ناسداك في مارس 2024 في اكتتاب لاقى استحساناً. وتخدم اليوم كل موردي منصات الذكاء الاصطناعي الكبار تقريباً، ما يرسّخ دورها بوصفها طبقة الاتصال في بناء مراكز بيانات الذكاء الاصطناعي.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Astera Labs",
+      "country": "États-Unis",
+      "sub_domain": "Silicium de connectivité",
+      "short_description": "Des puces de connectivité pour data centers qui facilitent la mise à l'échelle de PCIe et CXL.",
+      "technology": "Retimers CXL/PCIe",
+      "why_relevant": "Entrée en Bourse en tant que couche de connectivité de la construction des data centers IA.",
+      "history": "Astera Labs a été fondée en 2017 par Jitendra Mohan pour développer du silicium de connectivité PCIe et CXL pour les serveurs IA. La société a consolidé sa position avec ses retimers Aries et ses familles Leo, Taurus et Scorpio, puis est entrée au Nasdaq en mars 2024 lors d'une introduction bien accueillie. Elle sert aujourd'hui la quasi-totalité des grands fournisseurs de plateformes IA, ancrant son rôle de couche de connectivité de la construction des data centers IA.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "credo-technology": {
+    "ar": {
+      "name": "Credo Technology",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ملكية فكرية SerDes",
+      "short_description": "تقنيات SerDes عالية السرعة وكابلات تربط مجموعات الذكاء الاصطناعي على نطاق واسع.",
+      "technology": "SerDes عالية السرعة و HiWire",
+      "why_relevant": "يربط داخل أرفف الذكاء الاصطناعي عبر آلاف وحدات GPU بكابلات نحاسية بسيطة.",
+      "history": "تأسست Credo Technology في عام 2007 لتطوير تقنيات SerDes فائقة السرعة والاتصال لعصر الذكاء الاصطناعي. أدرجت الشركة أسهمها في ناسداك في يناير 2022، ووسّعت كابلاتها HiWire النشطة إلى عمليات نشر واسعة تربط آلاف وحدات GPU. وأصبحت عائلة كابلاتها الكهربائية النشطة AEC وسيلة مهمة لربط عناقيد الذكاء الاصطناعي على نطاق واسع وتفادي تكلفة الوصلات البصرية.",
+      "hq_city": "سان خوسيه"
+    },
+    "fr": {
+      "name": "Credo Technology",
+      "country": "États-Unis",
+      "sub_domain": "IP SerDes",
+      "short_description": "Des SerDes haute vitesse et du câblage qui connectent les clusters IA à grande échelle.",
+      "technology": "SerDes haute vitesse, HiWire",
+      "why_relevant": "Relie l'intérieur des racks IA à travers des milliers de GPU avec du cuivre propre.",
+      "history": "Credo Technology a été fondée en 2007 pour faire progresser la technologie SerDes haute vitesse et la connectivité à l'ère de l'IA. La société est entrée au Nasdaq en janvier 2022 et a porté ses câbles actifs HiWire vers des déploiements à grande échelle reliant des milliers de GPU. Sa famille de câbles électriques actifs AEC est devenue un moyen important de connecter des clusters IA à grande échelle en évitant le coût de l'interconnexion optique.",
+      "hq_city": "San Jose"
+    }
+  }
+}

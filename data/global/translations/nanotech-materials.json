@@ -1,0 +1,640 @@
+{
+  "sila-nanotechnologies": {
+    "ar": {
+      "name": "Sila Nanotechnologies",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مواد بطاريات السيليكون",
+      "short_description": "تصنع مواد أنود السيليكون التي ترفع كثافة طاقة البطاريات.",
+      "technology": "أنودات نانو-سيليكون، تيتان (Titan)",
+      "why_relevant": "أنودات سيليكون جاهزة للدمج أثبتت كفاءتها داخل سيارات مرسيدس-بنز.",
+      "history": "تأسست شركة Sila Nanotechnologies عام 2011 في ألاميدا بولاية كاليفورنيا على يد جين بيرديتشيفسكي وأليكس جاكوبس وجليب يوشين لتسويق كيمياء أنود السيليكون. انتقلت مادة Titan من عينات المختبر إلى التأهيل في قطاع السيارات، وفي عام 2021 جمعت الشركة أكثر من 500 مليون دولار بتقييم بلغ 3.3 مليار دولار. افتتحت Sila مصنعاً كبيراً في موسيس ليك بولاية واشنطن عام 2024 وبدأت شحن سيليكون Titan إلى مرسيدس-بنز لسيارة G-Class الكهربائية. وتعمل الشركة اليوم على رفع الإنتاج وترخيص منصة الأنود لمصنّعي البطاريات.",
+      "hq_city": "ألاميدا"
+    },
+    "fr": {
+      "name": "Sila Nanotechnologies",
+      "country": "États-Unis",
+      "sub_domain": "Matériaux pour batteries au silicium",
+      "short_description": "Fabrique des matériaux d'anode en silicium qui augmentent la densité d'énergie des batteries.",
+      "technology": "Anodes nano-silicium, Titan",
+      "why_relevant": "Des anodes en silicium drop-in éprouvées dans les véhicules Mercedes-Benz.",
+      "history": "Sila Nanotechnologies a été fondée en 2011 à Alameda, en Californie, par Gene Berdichevsky, Alex Jacobs et Gleb Yushin pour commercialiser une chimie d'anode au silicium. Son matériau Titan est passé des échantillons de laboratoire à la qualification automobile, et en 2021 l'entreprise a levé plus de 500 millions de dollars sur une valorisation de 3,3 milliards. Sila a ouvert une grande usine à Moses Lake, dans l'État de Washington, en 2024, et a commencé à livrer le silicium Titan à Mercedes-Benz pour le G-Class électrique. Aujourd'hui, Sila monte en cadence et concède sa plateforme d'anode aux fabricants de batteries.",
+      "hq_city": "Alameda"
+    }
+  },
+  "group14-technologies": {
+    "ar": {
+      "name": "Group14 Technologies",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أنود السيليكون-كربون",
+      "short_description": "تنتج أنودات مركبة من السيليكون-كربون (SCC55) على نطاق صناعي.",
+      "technology": "سيليكون-كربون SCC55",
+      "why_relevant": "كيمياء أنود قابلة للتوسع مصنعياً، قابلة لإعادة الاستخدام في التنقل الكهربائي وسيارات الأجرة الطائرة.",
+      "history": "تأسست Group14 Technologies عام 2015 في وودينفيل بولاية واشنطن على يد ريك كوستانتينو وآرون فيفر لتوسيع نطاق أنود مركب من السيليكون-كربون. جذبت مادتها SCC55 دعم شركات مثل بورشه وSK Inc. وصندوق المناخ لدى مايكروسوفت، وبنَت الشركة أحد أكبر مصانع المواد الفعّالة للأنود في العالم في موسيس ليك بولاية واشنطن. كما وسّع مشروع مشترك مع SK في كوريا الجنوبية الإنتاج إلى آسيا، بينما أمّنت عمليات الاستحواذ سلسلة توريد السيليكون. وتزوّد Group14 اليوم عملاء بطاريات السيارات والأجهزة الاستهلاكية وتواصل توسيع طاقتها لخدمة التنقل الكهربائي والطيران الكهربائي.",
+      "hq_city": "وودينفيل"
+    },
+    "fr": {
+      "name": "Group14 Technologies",
+      "country": "États-Unis",
+      "sub_domain": "Anode silicium-carbone",
+      "short_description": "Produit des anodes composites en silicium-carbone SCC55 à grande échelle.",
+      "technology": "Silicium-carbone SCC55",
+      "why_relevant": "Une chimie d'anode industrialisée, réutilisable pour l'e-mobilité et les taxis aériens.",
+      "history": "Group14 Technologies a été fondée en 2015 à Woodinville, dans l'État de Washington, par Rick Costantino et Aaron Feaver pour industrialiser une anode composite silicium-carbone. Son matériau SCC55 a attiré le soutien de Porsche, de SK Inc. et du fonds climat de Microsoft, et l'entreprise a construit l'une des plus grandes usines de matériaux actifs d'anode au monde à Moses Lake, dans l'État de Washington. Une coentreprise avec SK en Corée du Sud a étendu la production à l'Asie, tandis que des acquisitions ont sécurisé la chaîne d'approvisionnement en silicium. Aujourd'hui, Group14 approvisionne des clients des batteries automobiles et grand public et continue d'accroître ses capacités pour l'e-mobilité et l'aviation électrique.",
+      "hq_city": "Woodinville"
+    }
+  },
+  "lyten": {
+    "ar": {
+      "name": "Lyten",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مواد الجرافين",
+      "short_description": "منصة جرافين ثلاثية الأبعاد قابلة للضبط للبطاريات والمواد المركبة وأجهزة الاستشعار.",
+      "technology": "جرافين ثلاثي الأبعاد، ليثيوم-كبريت",
+      "why_relevant": "منصة مواد واحدة تمتد من الطاقة إلى الأجزاء الهيكلية الدفاعية.",
+      "history": "تأسست Lyten عام 2015 في سان خوسيه بولاية كاليفورنيا لتسويق منصة جرافين ثلاثية الأبعاد قابلة للضبط. طوّرت الشركة بطاريات الليثيوم-كبريت ومواد مركبة وأجهزة استشعار من المادة نفسها، وجذبت استثمارات من ستيلانتيس وفيديكس وهانيويل. افتتحت خطاً تجريبياً لبطاريات الليثيوم-كبريت، وفي عام 2024 استحوذت على أصول الليثيوم-معدن من شركة Cuberg التابعة لـ Northvolt لتسريع خارطة طريقها في الطاقة. كما أعلنت Lyten خططاً لإنشاء مصنع ضخم لبطاريات الليثيوم-كبريت في نيفادا. وتتموضع اليوم في تخزين الطاقة والمواد المركبة الخفيفة والتطبيقات الهيكلية الدفاعية.",
+      "hq_city": "سان خوسيه"
+    },
+    "fr": {
+      "name": "Lyten",
+      "country": "États-Unis",
+      "sub_domain": "Matériaux de graphène",
+      "short_description": "Plateforme de graphène 3D accordable pour batteries, composites et capteurs.",
+      "technology": "Graphène 3D, lithium-soufre",
+      "why_relevant": "Une seule plateforme de matériaux, de l'énergie aux pièces structurelles de défense.",
+      "history": "Lyten a été fondée en 2015 à San José, en Californie, pour commercialiser une plateforme de graphène tridimensionnel accordable. L'entreprise a développé des batteries lithium-soufre, des composites et des capteurs à partir du même matériau, attirant des investissements de Stellantis, de FedEx et de Honeywell. Elle a ouvert une ligne pilote de lithium-soufre et, en 2024, a acquis les actifs lithium-métal de Cuberg auprès de Northvolt pour accélérer sa feuille de route énergétique. Lyten a aussi annoncé un projet de grande gigafactory de lithium-soufre dans le Nevada. Aujourd'hui, elle se positionne sur le stockage d'énergie, les composites légers et les applications structurelles de défense.",
+      "hq_city": "San José"
+    }
+  },
+  "sixpoint-materials": {
+    "ar": {
+      "name": "SixPoint Materials",
+      "country": "الولايات المتحدة",
+      "sub_domain": "نتريد الغاليوم",
+      "short_description": "تزرع بلورات GaN منخفضة العيوب لإلكترونيات الطاقة من الجيل القادم.",
+      "technology": "نمو GaN بتقنية HVPE",
+      "why_relevant": "جودة الركيزة الأساس وراء مكاسب الكفاءة في أشباه موصلات الطاقة.",
+      "history": "تأسست SixPoint Materials عام 2007 في بويلتون بولاية كاليفورنيا لإنتاج بلورات ضخمة من نتريد الغاليوم منخفضة العيوب عبر الترسيب بالطور البخاري الهيدروجيني. ركّزت الشركة على ركائز GaN الأصلية التي تتفوق على الياقوت والسيليكون في أجهزة الطاقة والترددات الراديوية، وهي طبقة أساسية لإلكترونيات طاقة عالية الكفاءة. زوّدت الشركة عملاء من البحث والصناعة وأقامت شراكات في سلسلة توريد أشباه موصلات الطاقة. وتبقى SixPoint اليوم مطوّراً متخصصاً للركائز يدعم التحول نحو أجهزة GaN أكثر كفاءة في مراكز البيانات والمركبات ومحوّلات الطاقة المتجددة.",
+      "hq_city": "بويلتون"
+    },
+    "fr": {
+      "name": "SixPoint Materials",
+      "country": "États-Unis",
+      "sub_domain": "Nitrure de gallium",
+      "short_description": "Cultive des cristaux de GaN à faible défaut pour l'électronique de puissance de nouvelle génération.",
+      "technology": "Croissance de GaN par HVPE",
+      "why_relevant": "Une qualité de substrat qui sous-tend les gains d'efficacité des semi-conducteurs de puissance.",
+      "history": "SixPoint Materials a été fondée en 2007 à Buellton, en Californie, pour produire des cristaux massifs de nitrure de gallium à faible défaut par épitaxie en phase vapeur aux hydrures. L'entreprise s'est concentrée sur des substrats natifs de GaN plus performants que le saphir et le silicium pour les dispositifs de puissance et RF, une couche essentielle à l'électronique de puissance efficace. Elle a approvisionné des clients de la recherche et de l'industrie et noué des partenariats dans la chaîne d'approvisionnement des semi-conducteurs de puissance. Aujourd'hui, SixPoint reste un spécialiste des substrats qui soutient la transition vers des dispositifs GaN plus efficaces dans les centres de données, les véhicules et les convertisseurs d'énergie renouvelable.",
+      "hq_city": "Buellton"
+    }
+  },
+  "metalenz": {
+    "ar": {
+      "name": "Metalenz",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الميتا-أوبتيكس (البصريات الفائقة)",
+      "short_description": "تستبدل العدسات التقليدية بعدسات ميتا مسطحة في الكاميرات وأجهزة الاستشعار.",
+      "technology": "بصريات الأسطح الفائقة، إنتاج ضخم",
+      "why_relevant": "سطّحت عدسة الكاميرا عبر الهواتف والسيارات وأنظمة فتح القفل بالوجه.",
+      "history": "تأسست Metalenz عام 2016 في بوسطن كنتيجة منبثقة عن أبحاث الأسطح الفائقة التي قادها فيديريكو كاباسو في جامعة هارفارد، على يد روب ديفلين وزملائه. كانت رائدة في البصريات الميتا المسطحة التي تستبدل مجموعات العدسات بسطح واحد منقوش بالنانو، وتعاونت مع STMicroelectronics لتصنيع هذه الأجهزة بكميات كبيرة. شحنت الشركة ملايين وحدات الأسطح الفائقة في أجهزة استهلاكية وتوسعت إلى استشعار الاستقطاب والتصوير ثلاثي الأبعاد. وتوفّر Metalenz اليوم بصريات ميتا للهواتف الذكية والأنظمة في السيارات ومنصات فتح القفل بالوجه.",
+      "hq_city": "بوسطن"
+    },
+    "fr": {
+      "name": "Metalenz",
+      "country": "États-Unis",
+      "sub_domain": "Méta-optiques",
+      "short_description": "Remplace les lentilles traditionnelles par des méta-optiques planes dans les caméras et capteurs.",
+      "technology": "Optiques de métasurface, fabrication de masse",
+      "why_relevant": "A aplati la lentille de caméra dans les téléphones, voitures et systèmes de déverrouillage facial.",
+      "history": "Metalenz a été fondée en 2016 à Boston, issue des recherches sur les métasurfaces menées par Federico Capasso à Harvard, par Rob Devlin et ses collègues. Elle a été pionnière de méta-optiques planes qui remplacent des empilements de lentilles par une seule surface nanostructurée, et s'est associée à STMicroelectronics pour fabriquer ces dispositifs à grand volume. L'entreprise a livré des millions d'unités de métasurfaces dans des appareils grand public et s'est étendue à la détection de polarisation et à l'imagerie 3D. Aujourd'hui, Metalenz fournit des méta-optiques pour smartphones, systèmes automobiles et plates-formes de déverrouillage facial biométrique.",
+      "hq_city": "Boston"
+    }
+  },
+  "general-graphene": {
+    "ar": {
+      "name": "General Graphene",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تصنيع الجرافين",
+      "short_description": "طريقة إنتاج تجارية واسعة النطاق لللفائف أحادية الطبقة من الجرافين.",
+      "technology": "ترسيب بخاري كيميائي حراري سريع (CVD)",
+      "why_relevant": "يحوّل الجرافين من عجب مخبري إلى مادة صناعية تُنتج بلفائف متواصلة.",
+      "history": "تأسست General Graphene عام 2017 في نوكسفيل بولاية تينيسي لتصنيع الجرافين أحادي الطبقة على نطاق صناعي. أتاحت عملية الترسيب البخاري الكيميائي الحراري السريع تصنيعاً متواصلاً بلفائف متتالية، فحوّلت الجرافين من عجب مخبري إلى مادة صناعية قابلة للتوصيف. وسّعت الشركة خطوطها وزوّدت مطوّري الإلكترونيات وأجهزة الاستشعار والطلاءات بأغشية الجرافين. وبدعم من استثمارات خاصة ركّزت على خفض التكلفة وثبات الجودة. وتُعدّ General Graphene اليوم من الشركات القليلة القادرة على توفير جرافين واسع المساحة بكميات تجارية.",
+      "hq_city": "نوكسفيل"
+    },
+    "fr": {
+      "name": "General Graphene",
+      "country": "États-Unis",
+      "sub_domain": "Fabrication de graphène",
+      "short_description": "Procédé de production à l'échelle commerciale de rouleaux de graphène monocouche.",
+      "technology": "CVD thermique rapide",
+      "why_relevant": "Transforme le graphène de curiosité de laboratoire en matériau industriel roll-to-roll.",
+      "history": "General Graphene a été fondée en 2017 à Knoxville, dans le Tennessee, pour industrialiser la production de graphène monocouche. Son procédé de dépôt chimique en phase vapeur thermique rapide a permis une fabrication continue roll-to-roll, transformant le graphène de curiosité de laboratoire en matériau industriel spécifiable. L'entreprise a mis à l'échelle ses lignes et fourni des films de graphène aux développeurs d'électronique, de capteurs et de revêtements. Soutenue par des investissements privés, elle s'est concentrée sur la réduction des coûts et une qualité constante. Aujourd'hui, General Graphene est l'un des rares producteurs capables de livrer du graphène de grande surface à l'échelle commerciale.",
+      "hq_city": "Knoxville"
+    }
+  },
+  "natrion": {
+    "ar": {
+      "name": "Natrion",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطارية الحالة الصلبة",
+      "short_description": "تطور إلكتروليتات صلبة من أيونات الليثيوم-معدن بعملية قابلة للتوسع.",
+      "technology": "إلكتروليت صلب أيوني من الليثيوم",
+      "why_relevant": "بنية صلبة منخفضة التكلفة لا تتطلب طلاء بأجواء نظيفة.",
+      "history": "تأسست Natrion عام 2018 في فيستال بولاية نيويورك، منبثقة عن أبحاث في جامعة بينغهامتون أجراها أليكس كوسياكوف. طوّرت الشركة إلكتروليتاً صلباً أيونياً ليثيومياً وبنية صلبة من الليثيوم-معدن مصممة للعمل دون طلاء في غرف نظيفة، مستهدفةً مساراً أقل تكلفة نحو البطاريات الصلبة. جمعت تمويلات أولية وتمويلات من الفئة A، وفازت بعقود بحث دفاعية وطاقية، وأثبتت خلايا أكثر أماناً وكثافة طاقية. وتوسّع Natrion اليوم منصتها الصلبة مع شركاء تصنيع لخدمة السيارات الكهربائية والطيران والإلكترونيات المحمولة.",
+      "hq_city": "فيستال"
+    },
+    "fr": {
+      "name": "Natrion",
+      "country": "États-Unis",
+      "sub_domain": "Batterie à électrolyte solide",
+      "short_description": "Développe des électrolytes solides lithium-métal selon un procédé scalable.",
+      "technology": "Électrolyte solide lithionique",
+      "why_relevant": "Une architecture solide rentable qui n'exige aucun revêtement en salle blanche.",
+      "history": "Natrion a été fondée en 2018 à Vestal, dans l'État de New York, issue de recherches menées à l'université de Binghamton par Alex Kosyakov. L'entreprise a développé un électrolyte solide lithionique et une architecture solide lithium-métal conçue pour fonctionner sans revêtement en salle blanche, visant une voie moins coûteuse vers les batteries tout solide. Elle a levé des financements d'amorçage et de série A, remporté des contrats de recherche dans la défense et l'énergie, et démontré des cellules plus sûres et plus denses en énergie. Aujourd'hui, Natrion met à l'échelle sa plateforme solide avec des partenaires industriels pour les véhicules électriques, l'aviation et l'électronique portable.",
+      "hq_city": "Vestal"
+    }
+  },
+  "addionics": {
+    "ar": {
+      "name": "Addionics",
+      "country": "إسرائيل",
+      "sub_domain": "بنية بطارية ثلاثية الأبعاد",
+      "short_description": "إطار معدني ثلاثي الأبعاد لأقطاب البطاريات يحسّن الطاقة وعمر الدورات.",
+      "technology": "مجمعات تيار ثلاثية الأبعاد",
+      "why_relevant": "تصميم أقطاب قابل للدمج مباشرة يقوّي الأنودات دون كيمياء جديدة.",
+      "history": "تأسست Addionics عام 2018 في تل أبيب على يد موشيل بيتون وشركائه لإعادة تصميم أقطاب البطاريات عبر مجمّع تيار معدني ثلاثي الأبعاد. تحسّن هذه البنية المسامية الطاقة وتخفض المقاومة الداخلية وتطيل عمر الدورات دون تغيير كيمياء الخلية. جمعت الشركة عشرات الملايين من رأس المال الجسور، وافتتحت خط إنتاج تجريبي، ووقّعت تعاونات مع مصنّعي السيارات والبطاريات. وتوسّع Addionics اليوم نطاق تقنية الأقطاب القابلة للدمج المباشر لخدمة السيارات الكهربائية وتخزين الشبكة.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Addionics",
+      "country": "Israël",
+      "sub_domain": "Architecture de batterie 3D",
+      "short_description": "Une structure métallique 3D pour électrodes qui améliore la puissance et la durée de vie en cycles.",
+      "technology": "Collecteurs de courant 3D",
+      "why_relevant": "Un design d'électrode drop-in qui renforce les anodes sans nouvelle chimie.",
+      "history": "Addionics a été fondée en 2018 à Tel-Aviv par Moshiel Biton et ses associés pour repenser les électrodes de batterie grâce à un collecteur de courant métallique tridimensionnel. Cette architecture poreuse améliore la puissance, réduit la résistance interne et prolonge la durée de vie en cycles sans changer la chimie des cellules. L'entreprise a levé des dizaines de millions en capital-risque, ouvert une ligne pilote et signé des collaborations avec des constructeurs automobiles et des fabricants de batteries. Aujourd'hui, Addionics met à l'échelle sa technologie d'électrode drop-in pour les véhicules électriques et le stockage stationnaire.",
+      "hq_city": "Tel-Aviv"
+    }
+  },
+  "skeleton-technologies": {
+    "ar": {
+      "name": "Skeleton Technologies",
+      "country": "إستونيا",
+      "sub_domain": "المكثفات الفائقة",
+      "short_description": "مكثفات فائقة قائمة على الجرافين وخلايا عالية الجهد من الجيل القادم.",
+      "technology": "كربون مشتق من الكربيد",
+      "why_relevant": "من المكثفات الفائقة الأعلى طاقةً، مستخدمة في النقل الثقيل وشبكات الكهرباء.",
+      "history": "تأسست Skeleton Technologies عام 2009 في تالين بإستونيا على يد تافي ماديبرك وأوليفر ألبرغ لصناعة مكثفات فائقة عالية الطاقة. وباستخدام الكربون المشتق من الكربيد والجرافين المنحني، طوّرت خلايا من الأكثر كثافة طاقية في فئتها وزوّدت قطاعات النقل الثقيل والشبكات والصناعة. جمعت الشركة رؤوس أموال نمو كبيرة، وافتتحت مصنعاً في ألمانيا، وكشفت عن مفهوم SuperBattery للتخزين الهجين. وتوسّع Skeleton اليوم تصنيعها وتستهدف الحافلات والشاحنات وتطبيقات الشبكة حيث تتفوق سرعة الشحن وطول العمر على السعة الخام.",
+      "hq_city": "تالين"
+    },
+    "fr": {
+      "name": "Skeleton Technologies",
+      "country": "Estonie",
+      "sub_domain": "Supercondensateurs",
+      "short_description": "Supercondensateurs à base de graphène et empilements de cellules haute tension nouvelle génération.",
+      "technology": "Carbone dérivé de carbure",
+      "why_relevant": "Parmi les supercondensateurs les plus énergétiques, utilisés dans le transport lourd et les réseaux électriques.",
+      "history": "Skeleton Technologies a été fondée en 2009 à Tallinn, en Estonie, par Taavi Madiberk et Oliver Ahlberg pour fabriquer des supercondensateurs à haute énergie. Grâce au carbone dérivé de carbure et au graphène courbé, elle a développé des cellules parmi les plus denses en énergie de leur catégorie et approvisionné le transport lourd, les réseaux et l'industrie. L'entreprise a levé d'importants capitaux de croissance, ouvert une usine en Allemagne et dévoilé son concept de SuperBattery pour le stockage hybride. Aujourd'hui, Skeleton étend sa production et cible les bus, camions et applications de réseau où la charge rapide et la longévité priment.",
+      "hq_city": "Tallinn"
+    }
+  },
+  "nanobiotix": {
+    "ar": {
+      "name": "Nanobiotix",
+      "country": "فرنسا",
+      "sub_domain": "علم أورام النانو",
+      "short_description": "معزّزات إشعاعية نانوية ترفع فاعلية العلاج الإشعاعي داخل الأورام.",
+      "technology": "جسيمات نانوية من أكسيد الهافنيوم",
+      "why_relevant": "أول نهج مضاد للسرطان قائم على الفيزياء من نوعه يحصل على موافقة للاستخدام البشري.",
+      "history": "تأسست Nanobiotix عام 2003 في باريس على يد لوران ليفي لتطوير معزّزات إشعاعية نانوية لعلاج السرطان. يركّز منتجها الرائد، القائم على جسيمات نانوية من أكسيد الهافنيوم، جرعة الإشعاع داخل الأورام، وأصبح أول نهج من نوعه يُعتمد للاستخدام البشري في أوروبا لسرطان الأنسجة الرخوة. أُدرجت الشركة في بورصة يورونكست، ووقّعت اتفاقيات ترخيص في آسيا، وأقامت تعاوناً مع Janssen لسرطانات الرأس والرقبة. وتدفع Nanobiotix اليوم برامجها السريرية عبر أنواع متعددة من الأورام.",
+      "hq_city": "باريس"
+    },
+    "fr": {
+      "name": "Nanobiotix",
+      "country": "France",
+      "sub_domain": "Nano-oncologie",
+      "short_description": "Des radio-enhancers nanoparticulaires qui renforcent la radiothérapie dans les tumeurs.",
+      "technology": "Nanoparticules d'oxyde d'hafnium",
+      "why_relevant": "Première approche anticancéreuse physico-chimique approuvée chez l'humain.",
+      "history": "Nanobiotix a été fondée en 2003 à Paris par Laurent Levy pour développer des radio-enhancers nanoparticulaires destinés à la thérapie anticancéreuse. Son produit phare, à base de nanoparticules d'oxyde d'hafnium, concentre la dose de radiation dans les tumeurs et est devenu la première approche de ce type approuvée chez l'humain en Europe pour le sarcome des tissus mous. L'entreprise s'est cotée sur Euronext, a signé des accords de licence en Asie et noué une collaboration avec Janssen pour les cancers de la tête et du cou. Aujourd'hui, Nanobiotix fait progresser ses programmes cliniques dans plusieurs types de tumeurs.",
+      "hq_city": "Paris"
+    }
+  },
+  "nth-cycle": {
+    "ar": {
+      "name": "Nth Cycle",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تكرير المعادن الحرجة",
+      "short_description": "منصة استخلاص كهربي تنتج معادن حرجة من مخلفات المناجم.",
+      "technology": "تكرير المعادن كهروكيميائياً",
+      "why_relevant": "يكرر النيكل والكوبالت دون أفران صهر، في الموقع داخل المنجم.",
+      "history": "تأسست Nth Cycle عام 2017 على يد ميغان أوكونور لتكرير المعادن الحرجة دون أفران صهر. تستعيد منصتها للاستخلاص الكهربي النيكل والكوبالت ومعادن أخرى من مخلفات المناجم والمحفزات المستهلكة وخردة البطاريات، وتنتج مواد أولية في موقع المنجم أو المُعيد للتدوير مباشرة. جمعت الشركة تمويلات، وافتتحت منشأة على نطاق تجاري، وفازت بعقود في الدفاع والطاقة النظيفة. وتوسّع Nth Cycle اليوم وحدات التكرير المعيارية لتعزيز سلاسل التوريد المحلية للتحول الطاقي.",
+      "hq_city": "بيفرلي"
+    },
+    "fr": {
+      "name": "Nth Cycle",
+      "country": "États-Unis",
+      "sub_domain": "Raffinage des métaux critiques",
+      "short_description": "Plateforme d'électro-extraction qui produit des minéraux critiques à partir de déchets miniers.",
+      "technology": "Raffinage électrochimique des métaux",
+      "why_relevant": "Raffine nickel et cobalt sans fonderies, directement sur le site minier.",
+      "history": "Nth Cycle a été fondée en 2017 par Megan O'Connor pour raffiner les métaux critiques sans fonderies. Sa plateforme d'électro-extraction récupère le nickel, le cobalt et d'autres minéraux à partir de résidus miniers, de catalyseurs usagés et de rebuts de batteries, produisant des matières premières directement sur le site de la mine ou du recycleur. L'entreprise a levé des fonds, ouvert une installation à l'échelle commerciale et remporté des contrats dans la défense et l'énergie propre. Aujourd'hui, Nth Cycle met à l'échelle ses unités de raffinage modulaires pour renforcer les chaînes d'approvisionnement nationales.",
+      "hq_city": "Beverly"
+    }
+  },
+  "ecovative-design": {
+    "ar": {
+      "name": "Ecovative Design",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مواد الميسيليوم (الفطريات)",
+      "short_description": "تنمّي مواد تغليف ونسيج من الميسيليوم بدلاً من البلاستيك.",
+      "technology": "مركّبات حيوية من الميسيليوم",
+      "why_relevant": "مادة قابلة للتحلل تُنمّى في أيام لتحل محل تغليف الرغوة الموسّعة.",
+      "history": "تأسست Ecovative Design عام 2007 في غرين آيلاند بولاية نيويورك على يد إيبن باير وغافن مكإنتاير لتنمية مواد من الميسيليوم. حلّت مركّباتها الحيوية القابلة للتحلل محل تغليف الرغوة الموسّعة لدى علامات تجارية كبرى، وتوسّعت الشركة إلى المنسوجات والأغذية. وأنشأت شركة MyForest Foods المنبثقة للبدائل اللحمية القائمة على الميسيليوم، وأقامت شراكات في التغليف والأزياء. وتُرخّص Ecovative اليوم منصتها وتنتج مواد الميسيليوم على نطاق واسع، جاعلةً من الأحياء مساراً تصنيعياً مستداماً.",
+      "hq_city": "غرين آيلاند"
+    },
+    "fr": {
+      "name": "Ecovative Design",
+      "country": "États-Unis",
+      "sub_domain": "Matériaux de mycélium",
+      "short_description": "Cultive des matériaux d'emballage et textiles à partir de mycélium au lieu de plastique.",
+      "technology": "Biocomposites de mycélium",
+      "why_relevant": "Un matériau compostable cultivé en quelques jours pour remplacer les emballages en mousse expansée.",
+      "history": "Ecovative Design a été fondée en 2007 à Green Island, dans l'État de New York, par Eben Bayer et Gavin McIntyre pour cultiver des matériaux à partir de mycélium. Ses biocomposites compostables ont remplacé les emballages en mousse expansée de grandes marques, et l'entreprise s'est étendue aux textiles et à l'alimentaire. Elle a essaimé MyForest Foods pour les substituts de viande à base de mycélium et noué des partenariats dans l'emballage et la mode. Aujourd'hui, Ecovative concède sa plateforme de culture et produit des matériaux de mycélium à grande échelle, faisant de la biologie une voie de fabrication durable.",
+      "hq_city": "Green Island"
+    }
+  },
+  "molg": {
+    "ar": {
+      "name": "Molg",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مواد الفضاء",
+      "short_description": "يثبّت تصنيعاً إضافياً آلياً يستخدم مواد PEEK في الفضاء.",
+      "technology": "تصنيع إضافي لـ PEEK في الفضاء",
+      "why_relevant": "طباعة الأجزاء في المدار أفضل من إطلاق الشحنات الهشّة للوحدات الصغيرة.",
+      "history": "تأسست Molg عام 2020 لتمكين التجميع الآلي والتصنيع الإضافي في الفضاء. يثبّت نظامها خلايا آلية معيارية تطبع ثلاثي الأبعاد قطعاً من مادة PEEK في المدار، ما يتيح للأقمار الصناعية والمحطات الفضائية تصنيع مكوّنات حسب الطلب بدل شحن معدات هشّة عبر الإطلاق. جمعت الشركة تمويلاً مبكراً وأثبتت تقنيتها مع شركاء في الفضاء والدفاع. وتطوّر Molg اليوم خدمات تصنيع في المدار تهدف إلى خفض كتلة الإطلاق وإطالة عمر المهام وفتح تطبيقات صناعية مدارية جديدة.",
+      "hq_city": "أوستن"
+    },
+    "fr": {
+      "name": "Molg",
+      "country": "États-Unis",
+      "sub_domain": "Matériaux spatiaux",
+      "short_description": "Installe une fabrication additive robotisée utilisant des matériaux PEEK dans l'espace.",
+      "technology": "Fabrication additive de PEEK dans l'espace",
+      "why_relevant": "Imprimer des pièces en orbite surclasse les lancements de fret fragile pour les petits modules.",
+      "history": "Molg a été fondée en 2020 pour permettre l'assemblage robotisé et la fabrication additive dans l'espace. Son système installe des cellules robotiques modulaires qui impriment en 3D des pièces en PEEK en orbite, permettant aux satellites et aux stations spatiales de fabriquer des composants à la demande plutôt que d'expédier du matériel fragile par lancement. L'entreprise a levé des financements d'amorçage et démontré sa technologie avec des partenaires du spatial et de la défense. Aujourd'hui, Molg développe des services de fabrication en orbite visant à réduire la masse lancée et à prolonger la durée des missions.",
+      "hq_city": "Austin"
+    }
+  },
+  "graphenea": {
+    "ar": {
+      "name": "Graphenea",
+      "country": "إسبانيا",
+      "sub_domain": "منتج الجرافين",
+      "short_description": "منتج أوروبي لأغشية ومساحيق الجرافين للصناعة.",
+      "technology": "جرافين CVD، مسحوق أكسيد الجرافين",
+      "why_relevant": "عمود أوروبي لإمداد جرافين موثوق وخاضع لضبط المواصفات.",
+      "history": "تأسست Graphenea عام 2010 في سان سيباستيان بإسبانيا كنتيجة منبثقة عن مركز الأبحاث CIC nanoGUNE. أصبحت منتجاً أوروبياً لأغشية الجرافين بالترسيب البخاري الكيميائي ومساحيق أكسيد الجرافين، وتخدم باحثي الإلكترونيات وأجهزة الاستشعار والمواد بإمداد خاضع لضبط المواصفات. وسّعت الشركة طاقتها الإنتاجية، وافتتحت فرعاً في الولايات المتحدة، وبنَت قاعدة عملاء صناعية واسعة. وتُعدّ Graphenea اليوم مورّداً مرجعياً لجرافين موثوق، يدعم انتقال المادة من الدراسة الأكاديمية إلى الأجهزة التجارية.",
+      "hq_city": "سان سيباستيان"
+    },
+    "fr": {
+      "name": "Graphenea",
+      "country": "Espagne",
+      "sub_domain": "Producteur de graphène",
+      "short_description": "Producteur européen de films et de poudres de graphène pour l'industrie.",
+      "technology": "Graphène CVD, poudre de GO",
+      "why_relevant": "L'ancre de l'UE pour un approvisionnement fiable en graphène aux spécifications contrôlées.",
+      "history": "Graphenea a été fondée en 2010 à Saint-Sébastien, en Espagne, comme essaimage du centre de recherche CIC nanoGUNE. Elle est devenue un producteur européen de films de graphène par dépôt chimique en phase vapeur et de poudres d'oxyde de graphène, servant les chercheurs en électronique, capteurs et matériaux avec un approvisionnement aux spécifications contrôlées. L'entreprise a accru sa capacité de production, ouvert une filiale aux États-Unis et bâti une large clientèle industrielle. Aujourd'hui, Graphenea est un fournisseur de référence pour un graphène fiable, soutenant le passage du matériau de l'étude académique aux dispositifs commerciaux.",
+      "hq_city": "Saint-Sébastien"
+    }
+  },
+  "melodea": {
+    "ar": {
+      "name": "Melodea",
+      "country": "إسرائيل",
+      "sub_domain": "تغليف حيوي نباتي",
+      "short_description": "تصنع طلاءات ورغوات من مخلفات الخشب كبدائل للبلاستيك.",
+      "technology": "طلاءات نانوبلورات السليلوز",
+      "why_relevant": "يستبدل طبقات الأغشية البترولية في تغليف الأغذية بالسليلوز.",
+      "history": "تأسست Melodea عام 2011 في رحوفوت بإسرائيل لتحويل مخلفات الخشب إلى مواد قائمة على نانوبلورات السليلوز. تعمل طلاءاتها ورغواتها كحواجز متجددة لتغليف الأغذية والمنتجات الاستهلاكية، فتحل محل طبقات الأغشية المشتقة من البترول. بنت الشركة إنتاجاً تجريبياً ثم تجارياً، وأقامت شراكات مع محوّلي التغليف، وتوسّعت في أوروبا. وتتسوّق Melodea اليوم طلاءات حاجزة حيوية تحسّن قابلية إعادة التدوير وتقلل استخدام البلاستيك، وتضع نانوبلورات السليلوز كبديل صناعي عملي للأغشية البتروكيميائية.",
+      "hq_city": "رحوفوت"
+    },
+    "fr": {
+      "name": "Melodea",
+      "country": "Israël",
+      "sub_domain": "Bio-emballage végétal",
+      "short_description": "Fabrique des revêtements et des mousses à partir de déchets de bois, en substituts du plastique.",
+      "technology": "Revêtements en nanocristaux de cellulose",
+      "why_relevant": "Remplace les couches de film pétrolier des emballages alimentaires par de la cellulose.",
+      "history": "Melodea a été fondée en 2011 à Rehovot, en Israël, pour convertir les déchets de bois en matériaux à base de nanocristaux de cellulose. Ses revêtements et mousses servent de barrières renouvelables pour l'emballage alimentaire et de grande consommation, remplaçant les couches de film issues du pétrole. L'entreprise a construit une production pilote puis commerciale, noué des partenariats avec des transformateurs d'emballage et s'est étendue en Europe. Aujourd'hui, Melodea commercialise des revêtements barrières biosourcés qui améliorent la recyclabilité et réduisent l'usage du plastique.",
+      "hq_city": "Rehovot"
+    }
+  },
+  "notpla": {
+    "ar": {
+      "name": "Notpla",
+      "country": "المملكة المتحدة",
+      "sub_domain": "تغليف الطحالب البحرية",
+      "short_description": "يصنع تغليفاً من الطحالب البحرية من أكياس التوابل إلى علب الوجبات الجاهزة.",
+      "technology": "أغشية وطلاءات الطحالب البحرية",
+      "why_relevant": "تغليف بلاستيكي خالٍ يتحلل بيولوجياً في أسابيع، أُثبت خلال المهرجانات.",
+      "history": "تأسست Notpla عام 2014 في لندن على يد بيير باسلييه ورودريغو غارسيا غونزاليس لاستبدال البلاستيك أحادي الاستخدام بمواد قائمة على الطحالب. أطلقت أكياس Ooho الصالحة للأكل، ثم وسّعت نطاق الطلاءات وعلب الوجبات الجاهزة المستخدمة في الفعاليات الرياضية والموسيقية الكبرى. فازت الشركة بجائزة إيرث شوت عام 2022 وجمعت تمويلاً كبيراً لتوسيع الإنتاج. وتوفّر Notpla اليوم تغليفاً خالياً من البلاستيك يتحلل بيولوجياً في أسابيع، وتعمل على إدخال مواد الطحالب إلى خدمات الأغذية والمشروبات الرئيسية.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "Notpla",
+      "country": "Royaume-Uni",
+      "sub_domain": "Emballage d'algues",
+      "short_description": "Fabrique des emballages à base d'algues, des sachets de condiments aux boîtes à emporter.",
+      "technology": "Film et revêtement d'algues",
+      "why_relevant": "Un emballage sans plastique qui se biodégrade en quelques semaines, prouvé lors de festivals.",
+      "history": "Notpla a été fondée en 2014 à Londres par Pierre Paslier et Rodrigo Garcia Gonzalez pour remplacer le plastique à usage unique par des matériaux à base d'algues. Elle a lancé les sachets comestibles Ooho, puis industrialisé des revêtements et des emballages à emporter utilisés lors de grands événements sportifs et musicaux. L'entreprise a remporté le prix Earthshot en 2022 et levé des fonds importants pour développer sa production. Aujourd'hui, Notpla fournit des emballages sans plastique qui se biodégradent en quelques semaines et œuvre à intégrer les matériaux d'algues dans la restauration grand public.",
+      "hq_city": "Londres"
+    }
+  },
+  "living-ink": {
+    "ar": {
+      "name": "Living Ink",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أصباغ حيوية",
+      "short_description": "يحوّل كتلة طحالب حيوية إلى أحبار تحل محل صبغة الكربون الأسود.",
+      "technology": "أحبار قائمة على الطحالب",
+      "why_relevant": "يطبع منتجات واعية بالكربون يستمد لون حبرها من خلايا حية.",
+      "history": "تأسست Living Ink عام 2014 في بولدر بولاية كولورادو لتحويل كتلة الطحالب الحيوية إلى أصباغ مستدامة. يحل حبر Algae Black الذي تنتجه محل أسود الكربون المشتق من البترول في الطباعة والتغليف، ويمنح العلامات التجارية خياراً منخفض الكربون دون المساس بالأداء. وسّعت الشركة إنتاجها، وتعاونت مع كبرى شركات السلع الاستهلاكية والتغليف، ووسّعت نطاق ألوانها. وتوفّر Living Ink اليوم أحباراً حيوية للمنسوجات والملصقات والتغليف، وتضع الطحالب كمادة أولية متجددة لصناعة الأصباغ.",
+      "hq_city": "بولدر"
+    },
+    "fr": {
+      "name": "Living Ink",
+      "country": "États-Unis",
+      "sub_domain": "Pigment biosourcé",
+      "short_description": "Transforme la biomasse d'algues en encres qui remplacent le pigment de noir de carbone.",
+      "technology": "Encres à base d'algues",
+      "why_relevant": "Imprime des produits bas-carbone dont la couleur d'encre vient de cellules vivantes.",
+      "history": "Living Ink a été fondée en 2014 à Boulder, dans le Colorado, pour transformer la biomasse d'algues en pigments durables. Son encre Algae Black remplace le noir de carbone issu du pétrole dans l'impression et l'emballage, offrant aux marques une option bas-carbone sans compromis sur la performance. L'entreprise a mis à l'échelle sa production, collaboré avec de grands groupes de biens de consommation et d'emballage, et élargi sa gamme de couleurs. Aujourd'hui, Living Ink fournit des encres biosourcées pour les textiles, les étiquettes et l'emballage, positionnant les algues comme matière première renouvelable.",
+      "hq_city": "Boulder"
+    }
+  },
+  "amprius-technologies": {
+    "ar": {
+      "name": "Amprius Technologies",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات أسلاك السيليكون النانوية",
+      "short_description": "خلايا أنود سيليكون عالية الطاقة بأعلى طاقة نوعية مُعلنة.",
+      "technology": "أنودات أسلاك نانوية من السيليكون",
+      "why_relevant": "يتيح الطيران على ارتفاعات عالية وقطاع الفضاء بخلايا 450 واط ساعي/كغم.",
+      "history": "تأسست Amprius Technologies عام 2008 في فريمونت بولاية كاليفورنيا، منبثقة عن أبحاث يي تسوي في جامعة ستانفورد لتسويق أنودات أسلاك السيليكون النانوية. بلغت خلاياها 450 واط ساعي/كغم، وهي من أعلى الطاقات النوعية في الإنتاج، ووجدت استخداماً في الطيران على ارتفاعات عالية والفضاء. أُدرجت الشركة في بورصة نيويورك عام 2022، وافتتحت منشأة تصنيع واسعة النطاق، وشحنت خلايا لعملاء في الدفاع والطيران. وتوسّع Amprius اليوم إنتاجها وتطوّر كيمياءات أعلى طاقة للطيران الكهربائي والطائرات المسيّرة.",
+      "hq_city": "فريمونت"
+    },
+    "fr": {
+      "name": "Amprius Technologies",
+      "country": "États-Unis",
+      "sub_domain": "Batteries à nanofils de silicium",
+      "short_description": "Des cellules à anode de silicium à haute énergie, aux plus hautes énergies spécifiques annoncées.",
+      "technology": "Anodes à nanofils de Si",
+      "why_relevant": "Permet le vol à haute altitude et l'aérospatial grâce à des cellules de 450 Wh/kg.",
+      "history": "Amprius Technologies a été fondée en 2008 à Fremont, en Californie, issue des recherches de Yi Cui à Stanford pour commercialiser des anodes à nanofils de silicium. Ses cellules ont atteint 450 Wh/kg, parmi les plus hautes énergies spécifiques en production, et ont trouvé leur place dans le vol à haute altitude et l'aérospatial. L'entreprise s'est introduite à la bourse de New York en 2022, a ouvert une usine à grande échelle et a livré des cellules à des clients de la défense et de l'aviation. Aujourd'hui, Amprius met à l'échelle sa production et développe des chimies plus énergétiques pour l'aviation électrique et les drones.",
+      "hq_city": "Fremont"
+    }
+  },
+  "enovix": {
+    "ar": {
+      "name": "Enovix",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات سيليكون ثلاثية الأبعاد",
+      "short_description": "يكسر القالب التقليدي للبطارية ليوّدع المزيد من السيليكون في نفس المساحة.",
+      "technology": "بنية خلايا ثلاثية الأبعاد",
+      "why_relevant": "بنية خلية ترفع الطاقة مع الحفاظ على الأبعاد القياسية.",
+      "history": "تأسست Enovix عام 2007 لتسويق بنية بطارية سيليكون ثلاثية الأبعاد تدمج طاقة أكبر في مساحة قياسية. يستخدم تصميم أقطابها المجدولة أنوداً من السيليكون بنسبة 100% مع التحكم في الانتفاخ والسلامة. أُدرجت الشركة في بورصة ناسداك عام 2021، وبنَت مصنعاً كبيراً في ماليزيا، ووقّعت اتفاقيات مع عملاء في الإلكترونيات الاستهلاكية والسيارات. وترفع Enovix اليوم إنتاج خلاياها من الجيل الجديد للهواتف الذكية والأجهزة القابلة للارتداء والسيارات الكهربائية.",
+      "hq_city": "فريمونت"
+    },
+    "fr": {
+      "name": "Enovix",
+      "country": "États-Unis",
+      "sub_domain": "Batteries 3D au silicium",
+      "short_description": "Brise le moule de la batterie pour loger plus de silicium dans le même encombrement.",
+      "technology": "Architecture de cellule 3D",
+      "why_relevant": "Une architecture de cellule qui augmente l'énergie tout en gardant des dimensions standard.",
+      "history": "Enovix a été fondée en 2007 pour commercialiser une architecture de batterie au silicium tridimensionnelle qui loge plus d'énergie dans un encombrement standard. Sa conception d'électrodes tressées utilise une anode 100 % silicium tout en maîtrisant le gonflement et la sécurité. L'entreprise s'est cotée au Nasdaq en 2021, a construit une usine à grand volume en Malaisie et signé des accords avec des clients de l'électronique grand public et de l'automobile. Aujourd'hui, Enovix monte en cadence sur ses cellules de nouvelle génération pour smartphones, objets connectés et véhicules électriques.",
+      "hq_city": "Fremont"
+    }
+  },
+  "oned-battery-sciences": {
+    "ar": {
+      "name": "OneD Battery Sciences",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أنود أسلاك السيليكون النانوية",
+      "short_description": "يضيف أسلاك سيليكون نانوية إلى أنودات الجرافيت القياسية عبر SINANODE.",
+      "technology": "طلاء أنود بالأسلاك النانوية",
+      "why_relevant": "يرفع المصانع العملاقة القائمة إلى طاقة أكثر بنسبة 50% دون خطوط إنتاج جديدة.",
+      "history": "تأسست OneD Battery Sciences عام 2009 في ساني فايل بولاية كاليفورنيا لرفع طاقة بطاريات الليثيوم-أيون باستخدام أسلاك السيليكون النانوية. تنمّي عملية SINANODE أسلاكاً نانوية مباشرة على الجرافيت داخل تصنيع الأنود القائم، فترفع الطاقة بنحو خمسين في المئة دون خطوط إنتاج جديدة. وبدعم من رأس المال الجسور وشراكة استراتيجية مع جنرال موتورز، دفعت الشركة تقنيتها نحو التأهيل في قطاع السيارات. وتتسوّق OneD اليوم SINANODE كترقية قابلة للدمج المباشر للمصانع العملاقة الساعية إلى كثافة طاقة أعلى بتكلفة أقل.",
+      "hq_city": "ساني فايل"
+    },
+    "fr": {
+      "name": "OneD Battery Sciences",
+      "country": "États-Unis",
+      "sub_domain": "Anode à nanofils de silicium",
+      "short_description": "Ajoute des nanofils de silicium aux anodes standard en graphite via SINANODE.",
+      "technology": "Revêtement d'anode à nanofils",
+      "why_relevant": "Fait passer les gigafactories existantes à 50 % d'énergie en plus sans nouvelles lignes.",
+      "history": "OneD Battery Sciences a été fondée en 2009 à Sunnyvale, en Californie, pour accroître l'énergie des batteries lithium-ion grâce à des nanofils de silicium. Son procédé SINANODE fait croître des nanofils directement sur le graphite au sein de la fabrication d'anodes existante, augmentant l'énergie d'environ cinquante pour cent sans nouvelles lignes de production. Soutenue par du capital-risque et un partenariat stratégique avec General Motors, l'entreprise a fait progresser sa technologie vers la qualification automobile. Aujourd'hui, OneD commercialise SINANODE comme une mise à niveau drop-in pour les gigafactories.",
+      "hq_city": "Sunnyvale"
+    }
+  },
+  "sion-power": {
+    "ar": {
+      "name": "Sion Power",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بطاريات الليثيوم-كبريت",
+      "short_description": "يطور خلايا ليثيوم-كبريت عالية الطاقة للطيران والدفاع.",
+      "technology": "كيمياء بطاريات الليثيوم-كبريت",
+      "why_relevant": "عقود من العمل على الليثيوم-كبريت تستهدف الآن فجوة كثافة الطاقة في قطاع الفضاء.",
+      "history": "تعود جذور Sion Power إلى عام 1994 في توسان بولاية أريزونا، حيث بدأت باسم Moltech لتطوير بطاريات الليثيوم-كبريت. وبعد ترخيص تقنيات ذات صلة وتجاوز سنوات من إعادة الهيكلة، أعادت تركيزها على خلايا Li-S عالية الطاقة للطيران والدفاع حيث يكون توفير الوزن حاسماً. بنت الشركة إنتاجاً تجريبياً وأثبتت خلايا بطاقة نوعية أعلى بكثير من الليثيوم-أيون التقليدي. وتوسّع Sion Power اليوم تقنية الليثيوم-معدن Licerion مع شركاء في قطاع الفضاء، ساعيةً إلى سدّ فجوة كثافة الطاقة للطيران الكهربائي.",
+      "hq_city": "توسان"
+    },
+    "fr": {
+      "name": "Sion Power",
+      "country": "États-Unis",
+      "sub_domain": "Batteries lithium-soufre",
+      "short_description": "Développe des cellules lithium-soufre à haute énergie pour l'aviation et la défense.",
+      "technology": "Chimie de batterie Li-S",
+      "why_relevant": "Des décennies de travaux sur le Li-S désormais tournées vers le gap de densité d'énergie aérospatial.",
+      "history": "Sion Power remonte à 1994 à Tucson, en Arizona, où elle a débuté sous le nom de Moltech en développant des batteries lithium-soufre. Après avoir concédé des licences et traversé des années de restructuration, elle s'est recentrée sur des cellules Li-S à haute énergie pour l'aviation et la défense, où l'économie de poids est cruciale. L'entreprise a construit une production pilote et démontré des cellules à l'énergie spécifique bien supérieure au lithium-ion classique. Aujourd'hui, Sion Power met à l'échelle sa technologie lithium-métal Licerion avec des partenaires aérospatiaux.",
+      "hq_city": "Tucson"
+    }
+  },
+  "aspen-aerogels": {
+    "ar": {
+      "name": "Aspen Aerogels",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مواد الإيروجيل (الهلام الهوائي)",
+      "short_description": "ينتج أشهر عزل إيروجيل في العالم لقطاع الطاقة والحواجز الحرارية للسيارات الكهربائية.",
+      "technology": "بطانيات إيروجيل",
+      "why_relevant": "يعزل حزم البطاريات فيما تعزل المادة نفسها منشآت الغاز الطبيعي المسال.",
+      "history": "تأسست Aspen Aerogels عام 2001 ويقع مقرها في نورثبورو بولاية ماساتشوستس. سوّقت بطانيات إيروجيل تعزل المنشآت الصناعية ومنشآت الغاز الطبيعي المسال، وبشكل متزايد حزم بطاريات السيارات الكهربائية. أُدرجت الشركة في بورصة نيويورك عام 2014، ثم أطلقت حواجزها الحرارية PyroThin وفازت بعقود مع كبرى شركات السيارات. وتشغّل Aspen Aerogels اليوم طاقة إنتاجية موسّعة وتضع مواد الإيروجيل في البنية التحتية للطاقة وسلامة السيارات الكهربائية والمباني.",
+      "hq_city": "نورثبورو"
+    },
+    "fr": {
+      "name": "Aspen Aerogels",
+      "country": "États-Unis",
+      "sub_domain": "Matériaux aérogel",
+      "short_description": "Produit le plus célèbre isolant en aérogel au monde pour l'énergie et les barrières thermiques des VE.",
+      "technology": "Couvertures d'aérogel",
+      "why_relevant": "Isolent les packs de batteries tandis que le même matériau isole les installations de GNL.",
+      "history": "Aspen Aerogels a été fondée en 2001 et son siège est à Northborough, dans le Massachusetts. Elle a commercialisé des couvertures d'aérogel qui isolent les installations industrielles, les usines de GNL et, de plus en plus, les packs de batteries des véhicules électriques. L'entreprise s'est introduite à la bourse de New York en 2014, puis a lancé ses barrières thermiques PyroThin, remportant des contrats avec de grands constructeurs automobiles. Aujourd'hui, Aspen Aerogels exploite une production accrue et positionne ses matériaux aérogel dans les infrastructures énergétiques, la sécurité des VE et le bâtiment.",
+      "hq_city": "Northborough"
+    }
+  },
+  "view": {
+    "ar": {
+      "name": "View",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الزجاج الديناميكي",
+      "short_description": "زجاج كهرلوني يتلوّن خلال ثوانٍ للتحكم بالحرارة والضوء.",
+      "technology": "نوافذ كهرلونية",
+      "why_relevant": "بصريات مدمجة في المباني تقلّص استهلاك طاقة التدفئة والتهوية والتكييف بخمس.",
+      "history": "تأسست View عام 2007 في ميلبيتاس بولاية كاليفورنيا، وكانت تُعرف في الأصل باسم Soladigm، لتطوير الزجاج الكهرلوني. تتلوّن نوافذها الديناميكية خلال ثوانٍ للتحكم في الحرارة والوهج، فتقلل الحاجة إلى التكييف وتحسّن الراحة في المباني التجارية. أُدرجت الشركة في بورصة ناسداك عام 2020 وركّبت زجاجها في مكاتب ومطارات ومستشفيات في أمريكا الشمالية. وبعد إعادة هيكلة، أعادت تركيزها على التصنيع والربحية. وتوفّر View اليوم زجاجاً ذكياً مدمجاً في المباني مع تصاعد الطلب على الواجهات الفعّالة.",
+      "hq_city": "ميلبيتاس"
+    },
+    "fr": {
+      "name": "View",
+      "country": "États-Unis",
+      "sub_domain": "Verre dynamique",
+      "short_description": "Un verre électrochrome qui se teinte en quelques secondes pour contrôler chaleur et lumière.",
+      "technology": "Fenêtres électrochromes",
+      "why_relevant": "Une photonique intégrée au bâtiment qui réduit l'énergie de CVC d'un cinquième.",
+      "history": "View a été fondée en 2007 à Milpitas, en Californie, à l'origine sous le nom de Soladigm, pour développer du verre électrochrome. Ses fenêtres dynamiques se teintent en quelques secondes pour contrôler chaleur et éblouissement, réduisant la demande de climatisation et améliorant le confort des bâtiments commerciaux. L'entreprise s'est cotée au Nasdaq en 2020 et a installé son verre dans des bureaux, aéroports et hôpitaux d'Amérique du Nord. Après une restructuration, elle s'est recentrée sur la fabrication et la rentabilité. Aujourd'hui, View fournit du verre intelligent intégré au bâtiment, porté par les codes énergétiques et la décarbonation.",
+      "hq_city": "Milpitas"
+    }
+  },
+  "nanoxplore": {
+    "ar": {
+      "name": "NanoXplore",
+      "country": "كندا",
+      "sub_domain": "الجرافين على نطاق واسع",
+      "short_description": "مُدرجة في بورصة تورونتو، تنتج مساحيق جرافين تُستخدم في البلاستيك والخرسانة.",
+      "technology": "تشتيت الجرافين ودمجه في المركّبات",
+      "why_relevant": "خليط مركز من الجرافين بمقياس الأطنان مدمج في بوليمرات صناعية.",
+      "history": "تأسست NanoXplore عام 2011 في مونتريال بكيبيك، وأصبحت منتجاً رائداً لمساحيق الجرافين وخليطاته المركزة. وبإدراجها في بورصة تورونتو، دمجت الجرافين في البلاستيك والمواد المركبة والخرسانة وتوسّعت عبر عمليات استحواذ في الدمج والتشكيل. وتخدم الشركة عملاء في السيارات والتغليف والصناعة ممن يبحثون عن مواد أخف وأقوى. وتشغّل NanoXplore اليوم إنتاجاً بمقياس الأطنان وتواصل تطوير منتجات معزّزة بالجرافين، لتتموضع كمورّد متكامل يربط المواد النانوية بالتصنيع الضخم.",
+      "hq_city": "مونتريال"
+    },
+    "fr": {
+      "name": "NanoXplore",
+      "country": "Canada",
+      "sub_domain": "Graphène à grande échelle",
+      "short_description": "Producteur coté à la Bourse de Toronto de poudres de graphène pour plastiques et béton.",
+      "technology": "Dispersion et compounding du graphène",
+      "why_relevant": "Un masterbatch de graphène à l'échelle de la tonne intégré aux polymères industriels.",
+      "history": "NanoXplore a été fondée en 2011 à Montréal, au Québec, et est devenue un producteur de premier plan de poudres et de masterbatches de graphène. Cotée à la Bourse de Toronto, elle a intégré le graphène dans les plastiques, les composites et le béton et s'est développée par des acquisitions dans le compounding et le moulage. L'entreprise sert des clients de l'automobile, de l'emballage et de l'industrie en quête de matériaux plus légers et plus résistants. Aujourd'hui, NanoXplore exploite une production à l'échelle de la tonne et développe des produits enrichis au graphène.",
+      "hq_city": "Montréal"
+    }
+  },
+  "undagrid": {
+    "ar": {
+      "name": "Undagrid",
+      "country": "هولندا",
+      "sub_domain": "تقوية الخرسانة",
+      "short_description": "يطبع تقوية الخرسانة ثلاثي الأبعاد من بلاستيك معاد تدويره.",
+      "technology": "حديد تسليح مضاف (raptor)",
+      "why_relevant": "يضاعف العمر الافتراضي للألواح بشبكات بلاستيكية مقاومة للتآكل.",
+      "history": "تأسست Undagrid عام 2015 في دلفت بهولندا لاستبدال حديد تسليح الخرسانة ببلاستيك مطبوع ثلاثي الأبعاد. تُصنَّع شبكتها Raptor بطريقة إضافية من بلاستيك معاد تدويره وتقاوم التآكل، فتطيل عمر الألواح وتقلل الصيانة. فازت الشركة بجوائز في قطاع البناء، ونفّذت مشاريع تجريبية مع بنّائين وشركاء في البنية التحتية، وطوّرت عملية الطباعة الآلية. وتوسّع Undagrid اليوم تقنية التسليح الإضافي مع سعي قطاع البناء إلى بدائل متينة ومنخفضة الكربون للحديد التقليدي.",
+      "hq_city": "دلفت"
+    },
+    "fr": {
+      "name": "Undagrid",
+      "country": "Pays-Bas",
+      "sub_domain": "Renforcement du béton",
+      "short_description": "Imprime en 3D des armatures de béton à partir de plastique recyclé.",
+      "technology": "Armature additive (raptor)",
+      "why_relevant": "Double la durée de vie des dalles grâce à des treillis plastiques anticorrosion.",
+      "history": "Undagrid a été fondée en 2015 à Delft, aux Pays-Bas, pour remplacer l'armature en acier du béton par du plastique imprimé en 3D. Son treillis Raptor est fabriqué de manière additive à partir de plastique recyclé et résiste à la corrosion, prolongeant la durée de vie des dalles et réduisant la maintenance. L'entreprise a remporté des prix du secteur de la construction, mené des projets pilotes avec des constructeurs et des partenaires d'infrastructure, et affiné son procédé d'impression automatisé. Aujourd'hui, Undagrid met à l'échelle sa technologie d'armature additive.",
+      "hq_city": "Delft"
+    }
+  },
+  "vantablack-first-maker-surrey-nanosystems": {
+    "ar": {
+      "name": "Vantablack-first maker Surrey NanoSystems",
+      "country": "المملكة المتحدة",
+      "sub_domain": "طلاءات فائقة السواد",
+      "short_description": "صانع Vantablack وطلاءات منخفضة الانبعاثية للبصريات وأجهزة الاستشعار.",
+      "technology": "طلاءات أنابيب كربون نانوية عمودية",
+      "why_relevant": "مواد فائقة السواد تمنع الضوء الشارد في التلسكوبات والمركبات الفضائية.",
+      "history": "تأسست Surrey NanoSystems عام 2006 في نيوهيفن بالمملكة المتحدة لتسويق طلاءات أنابيب الكربون النانوية العمودية. أنشأت مادة Vantablack، وهي من أغمق المواد المصنوعة على الإطلاق، وتطبّق طلاءات فائقة السواد ومنخفضة الانبعاثية على البصريات وأجهزة الاستشعار والمركبات الفضائية حيث يكون منع الضوء الشارد أمراً حاسماً. زوّدت الشركة عملاء في الفضاء والدفاع وواصلت تطوير عمليات ترسيب الأنابيب النانوية. وتبقى Surrey NanoSystems اليوم متخصصة في المواد فائقة السواد والطلاءات المتقدمة.",
+      "hq_city": "نيوهيفن"
+    },
+    "fr": {
+      "name": "Vantablack-first maker Surrey NanoSystems",
+      "country": "Royaume-Uni",
+      "sub_domain": "Revêtements ultra-noirs",
+      "short_description": "Créateur de Vantablack et de revêtements à faible émissivité pour l'optique et les capteurs.",
+      "technology": "Revêtements de nanotubes de carbone alignés verticalement",
+      "why_relevant": "Les matériaux ultra-noirs suppriment la lumière parasite dans télescopes et engins spatiaux.",
+      "history": "Surrey NanoSystems a été fondée en 2006 à Newhaven, au Royaume-Uni, pour commercialiser des revêtements de nanotubes de carbone alignés verticalement. Elle a créé le Vantablack, l'un des matériaux les plus sombres jamais réalisés, et applique des revêtements ultra-noirs et à faible émissivité à l'optique, aux capteurs et aux engins spatiaux, où supprimer la lumière parasite est essentiel. L'entreprise a approvisionné des clients du spatial et de la défense et a poursuivi le développement de ses procédés de dépôt de nanotubes. Aujourd'hui, Surrey NanoSystems reste spécialiste des matériaux ultra-noirs et des revêtements avancés.",
+      "hq_city": "Newhaven"
+    }
+  },
+  "phospholutions": {
+    "ar": {
+      "name": "Phospholutions",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تقنيات زراعية متقدمة",
+      "short_description": "RhizoSorb يرفع كفاءة الفوسفور فيقلّ الأسمدة المتسربة إلى الماء.",
+      "technology": "بوليمرات معزّزة لامتصاص المغذيات",
+      "why_relevant": "يستخرج محصولاً أكبر من نفس الأسمدة ويحدّ من جريان المياه الزراعية.",
+      "history": "تأسست Phospholutions عام 2015 في ستيت كوليدج بولاية بنسلفانيا، كنتيجة منبثقة عن أبحاث جامعة ولاية بنسلفانيا التي أجراها هانتر سويفر. تحسّن تقنية RhizoSorb امتصاص المحاصيل للفوسفور، ما يتيح للمزارعين استخدام سماد أقل مع الحفاظ على المحصول وتقليل الجريان إلى المجاري المائية. جمعت الشركة تمويلات، وفازت بجوائز الابتكار الزراعي، ووسّعت تجاربها الحقلية في أمريكا الشمالية. وتتسوّق Phospholutions اليوم RhizoSorb مع شركاء في الأسمدة والتجزئة، لمعالجة الأمن الغذائي وجودة المياه.",
+      "hq_city": "ستيت كوليدج"
+    },
+    "fr": {
+      "name": "Phospholutions",
+      "country": "États-Unis",
+      "sub_domain": "Agri-tech avancée",
+      "short_description": "RhizoSorb accroît l'efficacité du phosphore pour que moins d'engrais ne finisse dans l'eau.",
+      "technology": "Polymères améliorant l'absorption des nutriments",
+      "why_relevant": "Obtient plus de rendement avec le même engrais tout en assainissant les eaux de ruissellement.",
+      "history": "Phospholutions a été fondée en 2015 à State College, en Pennsylvanie, comme essaimage de recherches de Penn State menées par Hunter Swisher. Sa technologie RhizoSorb améliore l'absorption du phosphore par les cultures, permettant aux agriculteurs d'utiliser moins d'engrais tout en maintenant les rendements et en réduisant le ruissellement vers les cours d'eau. L'entreprise a levé des fonds, remporté des prix d'innovation agricole et élargi ses essais au champ en Amérique du Nord. Aujourd'hui, Phospholutions commercialise RhizoSorb avec des partenaires de l'engrais et de la distribution.",
+      "hq_city": "State College"
+    }
+  },
+  "6k-additive": {
+    "ar": {
+      "name": "6K Additive",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مساحيق معدنية متقدمة",
+      "short_description": "تفريد بالبلازما بالموجات الدقيقة ينتج مساحيق معدنية فاخرة من الخردة.",
+      "technology": "مساحيق البلازما UNMELT",
+      "why_relevant": "يغذّي التصنيع الإضافي بمساحيق مكافئة وأقل كربوناً.",
+      "history": "تأسست 6K Additive عام 2014 ضمن شركة 6K ومقرها نورث أندوفر بولاية ماساتشوستس، لإنتاج مساحيق معدنية متقدمة. تحوّل منصتها UniMelt بالبلازما بالموجات الدقيقة الخردة والمواد الأولية إلى مساحيق كروية فاخرة للتصنيع الإضافي، بكثافة كربونية أقل من التفريد التقليدي. وسّعت الشركة طاقتها، وأهّلت سبائك للفضاء والدفاع، وبنَت نشاطاً لإعادة تدوير التيتانيوم والنيكل. وتغذّي 6K Additive اليوم سوق الطباعة ثلاثية الأبعاد المتنامي بمساحيق مستدامة عالية الأداء.",
+      "hq_city": "نورث أندوفر"
+    },
+    "fr": {
+      "name": "6K Additive",
+      "country": "États-Unis",
+      "sub_domain": "Poudres métalliques avancées",
+      "short_description": "L'atomisation par plasma micro-ondes produit des poudres métalliques premium à partir de rebuts.",
+      "technology": "Poudres plasma UNMELT",
+      "why_relevant": "Alimente la fabrication additive avec des poudres équivalentes et plus bas-carbone.",
+      "history": "6K Additive a été créée en 2014 au sein de 6K, basée à North Andover, dans le Massachusetts, pour produire des poudres métalliques avancées. Sa plateforme à plasma micro-ondes UniMelt convertit rebuts et matières premières en poudres sphériques premium destinées à la fabrication additive, avec une intensité carbone inférieure à l'atomisation classique. L'entreprise a accru sa capacité, qualifié des alliages pour l'aérospatial et la défense, et développé une activité de recyclage du titane et du nickel. Aujourd'hui, 6K Additive alimente le marché croissant de l'impression 3D en poudres durables et performantes.",
+      "hq_city": "North Andover"
+    }
+  },
+  "xjet": {
+    "ar": {
+      "name": "XJet",
+      "country": "إسرائيل",
+      "sub_domain": "طباعة ثلاثية الأبعاد بالجسيمات النانوية",
+      "short_description": "تطبع السيراميك والمعادن ثلاثي الأبعاد من جسيمات نانوية سائلة.",
+      "technology": "نفث الجسيمات النانوية",
+      "why_relevant": "تطبع سيراميكاً فاخراً يستحيل إنتاجه بالتلبيد التقليدي.",
+      "history": "تأسست XJet عام 2005 في رحوفوت بإسرائيل لتسويق نفث الجسيمات النانوية للتصنيع الإضافي. تطبع أنظمتها السيراميك والمعادن من تركيبات سائلة من الجسيمات النانوية، فتنتج تفاصيل دقيقة وأسطحاً ملساء يصعب تحقيقها بالتلبيد التقليدي. جمعت الشركة استثمارات كبيرة، وركّبت أنظمتها لدى عملاء صناعيين وبحثيين، وطوّرت منصة Carmel. وتركّز XJet اليوم على قطع السيراميك والمعادن عالية القيمة للتطبيقات الطبية وطب الأسنان والفضاء والعدد والأدوات، وتضع نفث الجسيمات النانوية كفرع متميز من الطباعة ثلاثية الأبعاد.",
+      "hq_city": "رحوفوت"
+    },
+    "fr": {
+      "name": "XJet",
+      "country": "Israël",
+      "sub_domain": "Impression 3D par nanoparticules",
+      "short_description": "Imprime céramiques et métaux en 3D à partir de nanoparticules en gouttelettes.",
+      "technology": "Projection de nanoparticules",
+      "why_relevant": "Imprime des céramiques haut de gamme impossibles à obtenir par frittage traditionnel.",
+      "history": "XJet a été fondée en 2005 à Rehovot, en Israël, pour commercialiser la projection de nanoparticules pour la fabrication additive. Ses systèmes impriment céramiques et métaux à partir de formulations liquides de nanoparticules, produisant des détails fins et des surfaces lisses difficiles à obtenir par frittage traditionnel. L'entreprise a levé des investissements importants, installé des systèmes chez des clients industriels et de recherche, et fait évoluer sa plateforme Carmel. Aujourd'hui, XJet se concentre sur des pièces céramiques et métalliques à haute valeur pour le médical, le dentaire, l'aérospatial et l'outillage.",
+      "hq_city": "Rehovot"
+    }
+  }
+}

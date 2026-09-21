@@ -1,0 +1,706 @@
+{
+  "cato-networks": {
+    "ar": {
+      "name": "Cato Networks",
+      "country": "إسرائيل",
+      "sub_domain": "أمن SASE",
+      "short_description": "يدمج SD-WAN والأمن في حافة وصول آمنة واحدة.",
+      "technology": "شبكة خاصة عالمية + SSE",
+      "why_relevant": "الشركة التي اخترعت SASE وتخدم الآن آلاف المؤسسات.",
+      "history": "تأسست شركة Cato Networks في عام 2015 على يد المخضرمين شلومو كرامر وغور شاتس، لتصبح رائدة فئة الأمن كخدمة لحافة الوصول الآمن (SASE) عبر منصة تدمج SD-WAN والأمن معاً. جمعت الشركة جولات تمويل كبرى ووصلت قيمتها إلى مليارات الدولارات مع تبنّي المؤسسات لنموذجها أحادي المزود. وسّعت شبكتها الخاصة العالمية عبر مئات نقاط الحضور وأطلقت ميزات سحابية أصلية مثل بوابة الويب الآمنة وCASB. تخدم الشركة اليوم آلاف المؤسسات حول العالم وتُصنف باستمرار في مصاف قادة SASE.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Cato Networks",
+      "country": "Israël",
+      "sub_domain": "Sécurité SASE",
+      "short_description": "Fusionne SD-WAN et sécurité en un seul Secure Access Service Edge.",
+      "technology": "Backbone privé mondial + SSE",
+      "why_relevant": "L'entreprise qui a inventé le SASE et sert aujourd'hui des milliers d'entreprises.",
+      "history": "Fondée en 2015 par les vétérans du secteur Shlomo Kramer et Gur Shatz, Cato Networks a créé la catégorie du secure access service edge (SASE) grâce à une plateforme fusionnant SD-WAN et sécurité. La société a réalisé plusieurs tours de financement majeurs, atteignant une valorisation de plusieurs milliards de dollars alors que les entreprises adoptaient son modèle à fournisseur unique. Elle a étendu son backbone privé mondial à des centaines de points de présence tout en lançant des fonctions cloud natives comme la passerelle web sécurisée et le CASB. Cato sert aujourd'hui des milliers d'organisations dans le monde et figure régulièrement parmi les leaders du SASE.",
+      "hq_city": "Tel Aviv"
+    }
+  },
+  "sentinelone": {
+    "ar": {
+      "name": "SentinelOne",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن نقاط النهاية",
+      "short_description": "حماية ذاتية لنقاط النهاية تكشف التهديدات وتستجيب لها بنفسها.",
+      "technology": "ذكاء اصطناعي سلوكي، EDR/XDR",
+      "why_relevant": "حل EDR المعتمد على الذكاء الاصطناعي الذي يتحدى المزوّدين التقليديين القائمين على التوقيعات.",
+      "history": "تأسست SentinelOne عام 2013 على يد تومر وينغارتن وألموغ كوهين برؤية دفاع ذاتي لنقاط النهاية يعتمد على الذكاء الاصطناعي. قدّمت منصتها Singularity ذكاءً اصطناعياً سلوكياً محمياً ببراءة اختراع يكتشف التهديدات ويستجيب لها دون تدخل بشري، متجاوزةً الحلول القائمة على التوقيعات. أدرجت الشركة أسهمها في بورصة نيويورك في يونيو 2021 ثم وسّعت نشاطها إلى الهوية والسحابة وأمن البيانات من خلال استحواذات شملت Attivo Networks وPingSafe. بإيرادات تتجاوز نصف مليار دولار ومساعدها Purple AI، تظل SentinelOne منافساً رئيسياً ضد المزودين التقليديين.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "SentinelOne",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité des terminaux",
+      "short_description": "Protection autonome des terminaux qui détecte et neutralise elle-même les menaces.",
+      "technology": "IA comportementale, EDR/XDR",
+      "why_relevant": "L'EDR natif IA qui défie les fournisseurs historiques fondés sur les signatures.",
+      "history": "SentinelOne a été fondée en 2013 par Tomer Weingarten et Almog Cohen avec la vision d'une défense autonome des endpoints pilotée par l'IA. Sa plateforme Singularity a introduit une IA comportementale brevetée qui détecte et neutralise les menaces sans intervention humaine, évinçant les outils à base de signatures. L'entreprise est entrée en Bourse à la Bourse de New York en juin 2021 puis s'est étendue aux identités, au cloud et à la sécurité des données via des acquisitions dont Attivo Networks et PingSafe. Avec un chiffre d'affaires dépassant le demi-milliard de dollars et son assistant Purple AI, SentinelOne reste un challenger majeur des fournisseurs historiques.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "crowdstrike": {
+    "ar": {
+      "name": "CrowdStrike",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن نقاط النهاية",
+      "short_description": "منصة Falcon لحماية نقاط النهاية والهويات في السحابة.",
+      "technology": "EDR سحابي أصلي، استخبارات التهديدات",
+      "why_relevant": "عرّفت فئة أمن نقاط النهاية السحابية الحديثة على نطاق واسع.",
+      "history": "تأسست CrowdStrike عام 2011 على يد جورج كورتز وديمتري ألبروفيتش وغريغ مارستون، وأطلقت منصة Falcon السحابية الأصلية عام 2013 مما ساهم في تحديد معالم فئة EDR الحديثة. نالت شهرة عالمية إثر تحقيقها في اختراق اللجنة الوطنية الديمقراطية عام 2016، وأدرجت أسهمها في الأسواق في يونيو 2019. توحّد Falcon نقاط النهاية والهويات والسحابة واستخبارات التهديدات عبر وكيل واحد خفيف، لتتجاوز إيراداتها ثلاثة مليارات دولار سنوياً. بعد حادثة تحديث موثقة على نطاق واسع عام 2024، عززت الشركة مراقبة الجودة وما زالت تحتفظ بمكانتها الرائدة عالمياً في أمن نقاط النهاية.",
+      "hq_city": "صني فالي"
+    },
+    "fr": {
+      "name": "CrowdStrike",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité des terminaux",
+      "short_description": "La plateforme Falcon pour la protection des terminaux et des identités dans le cloud.",
+      "technology": "EDR cloud-native, renseignement sur les menaces",
+      "why_relevant": "A défini à grande échelle la catégorie moderne de la sécurité des terminaux dans le cloud.",
+      "history": "CrowdStrike a été fondée en 2011 par George Kurtz, Dmitri Alperovitch et Gregg Marston et a lancé la plateforme cloud-native Falcon en 2013, contribuant à définir la catégorie moderne de l'EDR. Elle a gagné une notoriété mondiale en enquêtant sur la violation du comité national démocrate en 2016 et est entrée en Bourse en juin 2019. Falcon réunit endpoint, identités, cloud et renseignement sur les menaces via un agent unique et léger, portant le chiffre d'affaires au-delà de trois milliards de dollars. Après un incident de mise à jour largement documenté en 2024, la société a renforcé ses contrôles qualité et conserve une position dominante sur le marché mondial de la sécurité des terminaux.",
+      "hq_city": "Sunnyvale"
+    }
+  },
+  "snyk": {
+    "ar": {
+      "name": "Snyk",
+      "country": "المملكة المتحدة",
+      "sub_domain": "أمن المطورين",
+      "short_description": "فحص أمني موجّه للمطورين على التبعيات مفتوحة المصدر والشيفرة.",
+      "technology": "SCA, SAST, SBOM",
+      "why_relevant": "جعل التطوير الآمن حسب التصميم سير عمل افتراضياً للفرق.",
+      "history": "تأسست Snyk عام 2015 على يد غي بودجارني وداني غراندير وأساف هيفتس لوضع الأمن الموجّه للمطوّرين مباشرة في سير العمل. بنت الشركة مجموعة حلول رائدة تشمل فحص التبعيات مفتوحة المصدر والتحليل الثابت وأمن الحاويات وإدارة SBOM، لتصبح إحدى أعرق شركات الأمن الأوروبية تقييماً بعد جولة بلغت 4.7 مليارات دولار عام 2021. ورغم إعادة تسعير التقييمات خلال تراجع السوق، تواصل Snyk خدمة ملايين المطوّرين وآلاف الفرق حول العالم، وتبقى أدواتها محورية في نقل الأمن التطبيقي إلى مراحل مبكرة من التطوير.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "Snyk",
+      "country": "Royaume-Uni",
+      "sub_domain": "Sécurité pour développeurs",
+      "short_description": "Analyse de sécurité pensée pour les développeurs, sur les dépendances open source et le code.",
+      "technology": "SCA, SAST, SBOM",
+      "why_relevant": "A fait du développement sécurisé dès la conception un réflexe par défaut pour les équipes.",
+      "history": "Snyk a été fondée en 2015 par Guy Podjarny, Danny Grander et Assaf Hefetz pour placer la sécurité pensée pour les développeurs au cœur des workflows. La société a bâti une suite leader couvrant l'analyse des dépendances open source, l'analyse statique, la sécurité des conteneurs et la gestion des SBOM, devenant l'une des startups de sécurité les mieux valorisées d'Europe après un tour à 4,7 milliards de dollars en 2021. Bien que les valorisations aient été revues à la baisse pendant la correction du marché, Snyk continue de servir des millions de développeurs et des milliers d'équipes. Ses outils restent essentiels pour déplacer la sécurité applicative à gauche du cycle de développement.",
+      "hq_city": "Londres"
+    }
+  },
+  "rubrik": {
+    "ar": {
+      "name": "Rubrik",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن البيانات",
+      "short_description": "حماية بيانات بنهج zero-trust تشمل عدم القابلية للتغيير والتعافي السيبراني.",
+      "technology": "نسخ احتياطي، تخزين غير قابل للتغيير",
+      "why_relevant": "طبقة مرونة البيانات التي تقف خلف كثير من عمليات التعافي العلنية من برامج الفدية.",
+      "history": "تأسست Rubrik عام 2013 على يد بيبول سينها وأرفيند جاين وسوهام مازومدار وأرون جيبسون لتحديث النسخ الاحتياطي وإدارة البيانات في عصر السحابة. بلغت قيمتها مليارات الدولارات بفضل تخزينها الآمن غير القابل للتغيير، ثم استحوذت على Laminar لتوسيع نطاقها نحو إدارة وضعية أمن البيانات. في أبريل 2024 أدرجت الشركة أسهمها في بورصة نيويورك، جامعةً أكثر من 750 مليون دولار من اكتتابها العام. تقدم اليوم حماية بيانات بنهج zero-trust وتعافياً سيبرانياً لآلاف المؤسسات، لتقف في قلب المرونة ضد برامج الفدية.",
+      "hq_city": "بالو ألتو"
+    },
+    "fr": {
+      "name": "Rubrik",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité des données",
+      "short_description": "Protection des données zero-trust incluant l'immuabilité et la cyber-récupération.",
+      "technology": "Sauvegarde, stockage immuable",
+      "why_relevant": "La couche de résilience des données derrière de nombreux retours à la normale après rançongiciel.",
+      "history": "Rubrik a été fondée en 2013 par Bipul Sinha, Arvind Jain, Soham Mazumdar et Aron Gibson pour moderniser la sauvegarde et la gestion des données à l'ère du cloud. L'entreprise a atteint une valorisation de plusieurs milliards de dollars grâce à son stockage sécurisé et immuable, puis a racheté Laminar afin de s'étendre à la gestion de la posture de sécurité des données. En avril 2024, Rubrik est entrée à la Bourse de New York, levant plus de 750 millions de dollars lors de son introduction. Elle propose aujourd'hui une protection des données zero-trust et une cyber-récupération à des milliers d'entreprises, se plaçant au cœur de la résilience face aux rançongiciels.",
+      "hq_city": "Palo Alto"
+    }
+  },
+  "cyera": {
+    "ar": {
+      "name": "Cyera",
+      "country": "إسرائيل",
+      "sub_domain": "أمن البيانات",
+      "short_description": "أمن بيانات بدون وكيل يرسِم البيانات ويطبّق السياسات عبر السحابات.",
+      "technology": "DSPM",
+      "why_relevant": "معيار DSPM سريع الصعود لمعرفة أماكن وجود البيانات الحساسة.",
+      "history": "تأسست Cyera عام 2021 على يد يوتام سيغف وتمار بار إيلان، بطرح نهج قائم على الذكاء الاصطناعي وبدون وكيل لإدارة وضعية أمن البيانات. ترسم منصتها بسرعة خريطة البيانات الحساسة عبر بيئات السحابة وتطبّق السياسات تلقائياً، ما لاقى صدى لدى الفرق التي تصارع تعقيد البيئات متعددة السحابات. جمعت الشركة 300 مليون دولار في جولة C عام 2024 ليتجاوز تقييمها 1.4 مليار دولار، واستحوذت على Trail Security لتوسيع محرك حمايتها. تخدم Cyera مئات المؤسسات لاكتشاف البيانات الحساسة وتصنيفها وحوكمتها على نطاق واسع، مكرسةً مكانتها كمعيار في فئة DSPM.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Cyera",
+      "country": "Israël",
+      "sub_domain": "Sécurité des données",
+      "short_description": "Sécurité des données sans agent qui cartographie les données et applique les politiques sur tous les clouds.",
+      "technology": "DSPM",
+      "why_relevant": "Le standard DSPM en forte croissance pour savoir où résident les données sensibles.",
+      "history": "Cyera a été fondée en 2021 par Yotam Segev et Tamar Bar-Ilan, qui ont apporté une approche sans agent fondée sur l'IA à la gestion de la posture de sécurité des données. Sa plateforme cartographie rapidement où vivent les données sensibles dans les environnements cloud et applique automatiquement des politiques, ce qui a séduit des équipes confrontées à la complexité multi-cloud. La société a levé 300 millions de dollars en série C en 2024, portant sa valorisation au-delà de 1,4 milliard de dollars, et a racheté Trail Security pour renforcer sa protection des données. Cyera sert des centaines d'entreprises pour découvrir, classifier et gouverner les données sensibles à grande échelle, s'imposant comme une référence du DSPM.",
+      "hq_city": "Tel Aviv"
+    }
+  },
+  "semperis": {
+    "ar": {
+      "name": "Semperis",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن الهويات",
+      "short_description": "يحمي Active Directory وبيئات الهوية الهجينة ويستعيدها.",
+      "technology": "استعادة غابة AD، الهوية",
+      "why_relevant": "استعادة AV استغرقت أياماً تُختصر إلى دقائق لبيئات الهوية.",
+      "history": "تأسست Semperis عام 2013 على يد ميكي بريسمان لحماية أنظمة الهوية التي يعتمد عليها معظم المؤسسات. يقدّم حلها Directory Services Protector استعادة آلية شاملة لغابة Active Directory، مختصراً عمليات تعافٍ كانت تستغرق أياماً إلى دقائق، ويُكمل ذلك بأداة الفحص المجانية Purple Knight. حصلت الشركة على وضع اليونيكورن بعد جولة C بقيمة 200 مليون دولار عام 2022 وفتحت مكاتب من نيويورك حتى لندن. تخدم Semperis شركات فورتشن 500 والجهات الحكومية ومزوّدي الخدمات المدارة، وتبقى الاختصاصي المعترف به لمرونة Active Directory والهويات الهجينة واستعادتها.",
+      "hq_city": "هوبوكين"
+    },
+    "fr": {
+      "name": "Semperis",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité des identités",
+      "short_description": "Protège et restaure Active Directory et les environnements d'identité hybrides.",
+      "technology": "Récupération de forêt AD, identité",
+      "why_relevant": "Une récupération AV de plusieurs jours ramenée à quelques minutes pour les environnements d'identité.",
+      "history": "Semperis a été fondée en 2013 par Mickey Bresman pour protéger les systèmes d'identité dont dépendent la plupart des organisations. Son produit Directory Services Protector offre une restauration forestière automatisée d'Active Directory, ramenant des rétablissements de plusieurs jours à quelques minutes, complété par l'outil gratuit d'audit Purple Knight. L'entreprise a obtenu le statut de licorne grâce à sa série C de 200 millions de dollars en 2022 et a ouvert des bureaux de New York à Londres. Servant des entreprises du Fortune 500, des administrations et des fournisseurs de services gérés, Semperis reste la référence de la résilience et de la récupération d'Active Directory et des identités hybrides.",
+      "hq_city": "Hoboken"
+    }
+  },
+  "armis": {
+    "ar": {
+      "name": "Armis",
+      "country": "الولايات المتحدة",
+      "sub_domain": "استخبارات الأصول",
+      "short_description": "يستشعر كل جهاز متصل وغير مُدار ويؤمّنه.",
+      "technology": "منصة استخبارات الأجهزة",
+      "why_relevant": "نقطة عمياء هائلة في إنترنت الأشياء عولجت بالاستخبارات السلبية للشبكة.",
+      "history": "تأسست Armis عام 2015 على يد يفغيني ديبنر ونادير إزرائيل وتومر شفارتس لتأمين الكون المتوسع من الأجهزة المتصلة وغير المُدارة. تكتشف منصتها السلبية التي لا تحتاج وكيلاً أجهزة إنترنت الأشياء والأنظمة التشغيلية والأجهزة الشخصية وتحميها، مملوءةً فجوة رؤية حرجة لدى المؤسسات. بلغت الشركة وضع اليونيكورن عام 2019 ووسّعت حضورها إلى السحابة وسلاسل التوريد مع جمعها مئات الملايين من التمويل. تحمي Armis اليوم أكثر من ثلاثة مليارات أصل حول العالم وتُعد من كبار مزوّدي استخبارات الأصول الموحدة وإدارة التعرض.",
+      "hq_city": "بالو ألتو"
+    },
+    "fr": {
+      "name": "Armis",
+      "country": "États-Unis",
+      "sub_domain": "Intelligence des actifs",
+      "short_description": "Détecte et sécurise chaque appareil connecté et non géré.",
+      "technology": "Plateforme d'intelligence des appareils",
+      "why_relevant": "L'immense angle mort de l'IoT résolu par l'intelligence passive du réseau.",
+      "history": "Armis a été fondée en 2015 par Yevgeny Dibner, Nadir Izrael et Tomer Schwartz pour sécuriser l'univers en pleine expansion des appareils connectés et non gérés. Sa plateforme passive sans agent découvre et protège l'IoT, l'OT et les appareils personnels, comblant un angle mort critique pour les entreprises. La société est devenue une licorne en 2019 et élargit ses activités au cloud et à la chaîne d'approvisionnement tout en levant plusieurs centaines de millions de dollars. Armis protège aujourd'hui plus de trois milliards d'actifs dans le monde et figure parmi les principaux fournisseurs d'intelligence d'actifs unifiée et de gestion de l'exposition.",
+      "hq_city": "Palo Alto"
+    }
+  },
+  "orca-security": {
+    "ar": {
+      "name": "Orca Security",
+      "country": "إسرائيل",
+      "sub_domain": "أمن السحابة",
+      "short_description": "أمن سحابي بدون وكيل عبر مسح جانبي لأقراص أحمال العمل السحابية.",
+      "technology": "CSPM/CWPP بدون وكيل",
+      "why_relevant": "يؤمّن كل حمل عمل سحابي في دقائق دون أي وكلاء.",
+      "history": "تأسست Orca Security عام 2019 على يد آفي شوا وجيل غيرون وماتي سيمان لإزالة عبء الوكلاء في أمن السحابة. تقرأ تقنيتها الحاصلة على براءة اختراع أقراص أحمال العمل عن بعد بصورة جانبية، مانحةً تغطية شاملة لمعايير CSPM وCWPP وCIEM دون تثبيت أي برنامج. جمعت الشركة 550 مليون دولار في جولة C عام 2021 وبلغت وضع اليونيكورن، مستقطبةً عملاء من القطاعات المالية والصحية والتقنية. تواصل Orca توسعة منصتها اللاوكيلية عبر أولوية المخاطر وكشف التهديدات، لتكون النهج الرائد في تأمين أحمال السحابة خلال دقائق.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Orca Security",
+      "country": "Israël",
+      "sub_domain": "Sécurité cloud",
+      "short_description": "Sécurité cloud sans agent grâce à une analyse latérale des disques de charges de travail.",
+      "technology": "CSPM/CWPP sans agent",
+      "why_relevant": "Sécurise chaque charge de travail cloud en quelques minutes, sans le moindre agent.",
+      "history": "Orca Security a été fondée en 2019 par Avi Shua, Gil Geron et Maty Siman pour éliminer la lourdeur des agents dans la sécurité du cloud. Sa technologie brevetée de side-scanning lit les disques des charges de travail à distance, fournissant une couverture CSPM, CWPP et CIEM complète sans installer aucun logiciel. La société a levé 550 millions de dollars en série C en 2021 et atteint le statut de licorne, attirant des clients de la finance, de la santé et de la technologie. Orca continue d'étendre sa plateforme sans agent avec la priorisation des risques et la détection des menaces, devenant une référence pour sécuriser les charges de travail cloud en quelques minutes.",
+      "hq_city": "Tel Aviv"
+    }
+  },
+  "aqua-security": {
+    "ar": {
+      "name": "Aqua Security",
+      "country": "إسرائيل",
+      "sub_domain": "أمن الحاويات",
+      "short_description": "أمن الحاويات والحوسبة بدون خادم ودورة حياة التطبيقات السحابية الأصلية.",
+      "technology": "فحص صور الحاويات",
+      "why_relevant": "أمّن موجة Kubernetes قبل أن تصبح سائدة.",
+      "history": "تأسست Aqua Security عام 2015 في إسرائيل وكانت من الأوائل في تأمين النظام البيئي للحوسبة السحابية الأصلية والحاويات. تفحص منصتها صور الحاويات وتحصّن مجموعات Kubernetes وتحفظ أحمال العمل بدون خادم عبر كامل دورة حياة التطبيقات، مدعومةً باكتشافات فريق أبحاثها Aqua Nautilus. جمعت الشركة أكثر من 260 مليون دولار، من بينها جولة قيّمتها بأكثر من مليار دولار، وتضم كبرى المؤسسات بين عملائها. تظل Aqua أحد الأسماء الأكثر رسوخاً في أمن الحاويات والسحابة الأصلية.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Aqua Security",
+      "country": "Israël",
+      "sub_domain": "Sécurité des conteneurs",
+      "short_description": "Sécurité des conteneurs, du serverless et du cycle de vie des applications cloud-native.",
+      "technology": "Analyse d'images de conteneurs",
+      "why_relevant": "A sécurisé la vague Kubernetes avant qu'elle ne devienne la norme.",
+      "history": "Fondée en 2015 en Israël, Aqua Security a été l'un des premiers à sécuriser l'écosystème cloud-native et des conteneurs. Sa plateforme analyse les images de conteneurs, durcit les clusters Kubernetes et protège les charges serverless sur tout le cycle de vie des applications, appuyée par les découvertes de son équipe de recherche Aqua Nautilus. La société a levé plus de 260 millions de dollars, dont un tour qui l'a valorisée au-delà du milliard de dollars, et compte de grandes entreprises parmi ses clients. Aqua reste l'un des noms les plus établis de la sécurité des conteneurs et du cloud natif.",
+      "hq_city": "Tel Aviv"
+    }
+  },
+  "noname-security": {
+    "ar": {
+      "name": "Noname Security",
+      "country": "إسرائيل",
+      "sub_domain": "أمن API",
+      "short_description": "اختبار آلي وإدارة لوضعية الأمان لواجهات API.",
+      "technology": "اختبار أمن API",
+      "why_relevant": "أصبحت طبقة API مسار الهجوم الأساسي، وهذا حارسها.",
+      "history": "تأسست Noname Security عام 2019 لحماية سطح الهجوم المتسارع لواجهات API. تجمع منصتها بين الاختبار الآلي والاكتشاف وإدارة الوضعية للكشف عن الثغرات في واجهات API في الإنتاج وأثناء التطوير، وتبنّتها بسرعة كبرى المؤسسات وموفرو السحابة. في عام 2024 وافقت Akamai Technologies على الاستحواذ على الشركة، مدمجةً تقنيتها في منصتها. أصبحت أدوات Noname مرجعاً لأفضل ممارسات أمن API، وتساعد تقنيتها اليوم في تأمين ملايين المعاملات البرمجية ضمن محفظة مزوّد أمن عالمي.",
+      "hq_city": "بالو ألتو"
+    },
+    "fr": {
+      "name": "Noname Security",
+      "country": "Israël",
+      "sub_domain": "Sécurité des API",
+      "short_description": "Tests automatisés et gestion de la posture de sécurité des API.",
+      "technology": "Tests de sécurité des API",
+      "why_relevant": "La couche API est devenue la principale voie d'attaque, et voici son gardien.",
+      "history": "Noname Security a été fondée en 2019 pour protéger la surface d'attaque des API, en pleine croissance. Sa plateforme combine tests automatisés, découverte et gestion de la posture pour identifier les vulnérabilités sur les API en production et en développement, séduisant rapidement de grandes entreprises et des fournisseurs cloud majeurs. En 2024, Akamai Technologies a accepté d'acquérir la société, intégrant sa technologie à sa plateforme. Les outils de Noname sont devenus une référence des bonnes pratiques de sécurité des API, et leur technologie aide aujourd'hui à sécuriser des millions de transactions d'API au sein du portefeuille d'un acteur mondial de la sécurité.",
+      "hq_city": "Palo Alto"
+    }
+  },
+  "salt-security": {
+    "ar": {
+      "name": "Salt Security",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن API",
+      "short_description": "منصة قائمة على الذكاء الاصطناعي تحمي واجهات API من أخطر عشر تهديدات OWASP-API.",
+      "technology": "اكتشاف API وكشف التهديدات",
+      "why_relevant": "مئات التريليونات من استدعاءات API حُلّلت لاستباق إساءة الاستخدام.",
+      "history": "تأسست Salt Security عام 2016 على يد روي إلياهو ومايكل نيكوسيا للدفاع عن واجهات API ضد الاستغلال المتزايد التعقيد. تستخدم منصتها Pepper تعلم الآلة وتحليل حركة المرور لاكتشاف واجهات API وكشف التهديدات المقابلة لقائمة OWASP العشرة الأولى. أغلقت الشركة جولة D بقيمة 140 مليون دولار عام 2023 قيّمتها بنحو 1.4 مليار دولار، مع عملاء من المصارف والتجزئة والتقنية. تواصل Salt توسعة اكتشاف واجهات API واختباراتها الأمنية واستخبارات التهديدات، متربعةً بين كبار المتخصصين في أمن API.",
+      "hq_city": "بالو ألتو"
+    },
+    "fr": {
+      "name": "Salt Security",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité des API",
+      "short_description": "Plateforme à base d'IA protégeant les API des dix menaces majeures OWASP-API.",
+      "technology": "Découverte d'API et détection des menaces",
+      "why_relevant": "Des centaines de milliers de milliards d'appels API analysés pour devancer les abus.",
+      "history": "Salt Security a été fondée en 2016 par Roey Eliyahu et Michael Nicosia pour défendre les API contre des usages abusifs de plus en plus sophistiqués. Sa plateforme Pepper utilise le machine learning et l'analyse du trafic pour découvrir les API et détecter les menaces liées au Top 10 OWASP. La société a bouclé une série D de 140 millions de dollars en 2023 qui l'a valorisée 1,4 milliard de dollars, avec des clients dans la banque, le commerce et la technologie. Salt continue d'étendre sa découverte d'API, ses tests de sécurité et son intelligence des menaces, s'imposant comme l'un des principaux spécialistes de la sécurité des API.",
+      "hq_city": "Palo Alto"
+    }
+  },
+  "darktrace": {
+    "ar": {
+      "name": "Darktrace",
+      "country": "المملكة المتحدة",
+      "sub_domain": "دفاع شبكي بالذكاء الاصطناعي",
+      "short_description": "ذكاء اصطناعي ذاتي التعلّم يكشف الهجمات الجديدة من الشذوذات الشبكية.",
+      "technology": "ذكاء اصطناعي غير موجّه لكشف الشذوذ",
+      "why_relevant": "ذكاء اصطناعي بمستوى Grace Hopper يبدأ آمناً دون أي افتراضات مسبقة.",
+      "history": "تأسست Darktrace عام 2013 على يد رياضيين وخبراء أمن سيبراني من جامعة كامبريدج، رائدين نهج ذكاء اصطناعي غير موجّه وذاتي التعلم للدفاع الشبكي. أدرجت الشركة أسهمها في بورصة لندن في أبريل 2021 وبنت حضوراً عالمياً بمنتجات تغطي البريد والسحابة والأنظمة التشغيلية والهويات. اشتهر محرك كشف الشذوذ الخاص بها برصد الهجمات غير المسبوقة دون قواعد جاهزة. في ديسمبر 2024 وافق صندوق Thoma Bravo للاستحواذ الخاص على شرائها مقابل نحو 5.3 مليارات دولار، بينما تستمر في التطور نحو منصة أمنية متكاملة تقودها الذكاء الاصطناعي.",
+      "hq_city": "كامبريدج"
+    },
+    "fr": {
+      "name": "Darktrace",
+      "country": "Royaume-Uni",
+      "sub_domain": "Défense réseau par IA",
+      "short_description": "Une IA auto-apprenante qui détecte les attaques inédites à partir d'anomalies réseau.",
+      "technology": "IA d'anomalie non supervisée",
+      "why_relevant": "Une IA à l'échelle de Grace Hopper qui devient sûre sans aucune hypothèse de départ.",
+      "history": "Darktrace a été fondée en 2013 par des mathématiciens et des spécialistes de la cybersécurité issus de l'Université de Cambridge, à l'origine d'une approche d'IA non supervisée et auto-apprenante pour la défense des réseaux. La société a été cotée à la Bourse de Londres en avril 2021 et construit une présence mondiale avec des produits couvrant les e-mails, le cloud, l'OT et les identités. Son moteur de détection d'anomalies est devenu reconnu pour repérer des attaques inédites sans règles préétablies. En décembre 2024, le fonds Thoma Bravo a convenu de la racheter pour environ 5,3 milliards de dollars, la privatisant alors qu'elle évolue vers une plateforme de sécurité orientée IA.",
+      "hq_city": "Cambridge"
+    }
+  },
+  "netskope": {
+    "ar": {
+      "name": "Netskope",
+      "country": "الولايات المتحدة",
+      "sub_domain": "SASE",
+      "short_description": "أمن مُقدَّم من السحابة للويب وتطبيقات السحابة والتطبيقات الخاصة.",
+      "technology": "SWG, CASB, ZTNA",
+      "why_relevant": "سحابة الأمن التي نقلت التنفيذ إلى حافة الإنترنت.",
+      "history": "تأسست Netskope عام 2012 على يد سانجاي بيري ومهندسين مخضرمين في الشبكات والأمن لإعادة تصور أمن حركة المرور في عصر السحابة. تعيد شبكتها السحابية الخاصة توجيه حركة الويب وتطبيقات السحابة والتطبيقات الخاصة عبر نسيج أمني عالمي، ناقلةً تطبيق القواعد إلى حافة الإنترنت. بلغت الشركة وضع اليونيكورن عام 2020 ووسّعت محفظتها بحماية البيانات وCASB وZTNA وعروض SASE. تحمي Netskope اليوم المؤسسات من فقدان البيانات والتهديدات الناشئة عبر شبكة نقاط حضور عالمية، مصنفةً ضمن قادة SASE وأمن السحابة.",
+      "hq_city": "سانتا كلارا"
+    },
+    "fr": {
+      "name": "Netskope",
+      "country": "États-Unis",
+      "sub_domain": "SASE",
+      "short_description": "Sécurité fournie depuis le cloud pour le web, les applications cloud et les applications privées.",
+      "technology": "SWG, CASB, ZTNA",
+      "why_relevant": "Le cloud de sécurité qui a déplacé l'application des règles à la périphérie d'Internet.",
+      "history": "Netskope a été fondée en 2012 par Sanjay Beri et des ingénieurs expérimentés des réseaux et de la sécurité pour repenser la sécurité du trafic à l'ère du cloud. Son réseau privé cloud achemine le trafic web, applicatif cloud et privé à travers un maillage de sécurité mondial, déplaçant l'application des règles à la périphérie d'Internet. L'entreprise a obtenu le statut de licorne en 2020 et élargi son portefeuille avec la protection des données, le CASB, la ZTNA et des offres SASE. Netskope protège aujourd'hui les entreprises contre la perte de données et les menaces émergentes via un réseau mondial de points de présence, reconnu comme un leader du SASE et de la sécurité cloud.",
+      "hq_city": "Santa Clara"
+    }
+  },
+  "zscaler": {
+    "ar": {
+      "name": "Zscaler",
+      "country": "الولايات المتحدة",
+      "sub_domain": "Zero trust",
+      "short_description": "وصول zero trust مُقدَّم من السحابة يحل محل الشبكات التقليدية المحمية بجدران الحماية.",
+      "technology": "ZTNA، وصول إنترنت zero-trust",
+      "why_relevant": "المخطط المعماري لشبكة مؤسسية بلا كلمات مرور أو VPN.",
+      "history": "تأسست Zscaler عام 2007 على يد جاي تشودري لتقديم الأمن والوصول من السحابة بدلاً من الأجهزة التقليدية. استبدل نظام Zero Trust Exchange شبكات VPN وجدران الحماية القديمة بربط المستخدمين بالتطبيقات عبر جلسات منفصلة تقودها الهوية. أدرجت الشركة أسهمها في ناسداك في مارس 2018 وتجاوزت إيراداتها ملياري دولار سنوياً لخدمة آلاف المؤسسات. تواصل توسعة عروضها نحو الأمن المدعوم بالذكاء الاصطناعي وشبكات الفروع والأنظمة التشغيلية، وتظل المخطط المعماري المرجعي للوصول بنهج zero trust بلا كلمات مرور أو VPN.",
+      "hq_city": "سان خوسيه"
+    },
+    "fr": {
+      "name": "Zscaler",
+      "country": "États-Unis",
+      "sub_domain": "Zero trust",
+      "short_description": "Accès zero trust fourni depuis le cloud, remplaçant les backbones historiques derrière pare-feu.",
+      "technology": "ZTNA, accès Internet zero trust",
+      "why_relevant": "Le plan d'architecture d'un réseau d'entreprise sans mot de passe ni VPN.",
+      "history": "Zscaler a été fondée en 2007 par Jay Chaudhry pour délivrer sécurité et accès depuis le cloud plutôt que depuis des appliances. Son Zero Trust Exchange a remplacé les VPN et pare-feu historiques en connectant les utilisateurs aux applications via des sessions isolées pilotées par l'identité. Zscaler est entrée au Nasdaq en mars 2018 et dépasse les deux milliards de dollars de revenus annuels au service de milliers d'entreprises. L'entreprise élargit ses offres vers la sécurité pilotée par l'IA, les réseaux de succursales et l'OT, et demeure la référence architecturale de l'accès zero trust sans mot de passe ni VPN.",
+      "hq_city": "San José"
+    }
+  },
+  "chainguard": {
+    "ar": {
+      "name": "Chainguard",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سلسلة توريد البرمجيات",
+      "short_description": "يبني صور حاويات بالحد الأدنى وقابلة للتكرار ومُرقّعة دائماً.",
+      "technology": "صور OCI خالية من التوزيعة",
+      "why_relevant": "كل صورة أساسية تُشحن خالية من التوزيعة ومن الثغرات CVE افتراضياً.",
+      "history": "تأسست Chainguard عام 2021 على يد دانيال لورينك وكيم ليوناندوسكي وآخرين شاركوا في بناء مشروع Sigstore مفتوح المصدر لتوقيع البرمجيات. انطلقت الشركة لجعل أمن سلسلة التوريد أمراً عملياً، عبر شحن صور حاويات بالحد الأدنى وخالية من التوزيعة ومُرقّعة باستمرار مع توقيع مدمج. بلغت وضع اليونيكورن بعد جولة B بقيمة 61 مليون دولار عام 2023 وشراكتها مع كبرى مزودي السحابة والجهات الحكومية. لقيت مقاربة Chainguard قبولاً واسعاً مع متطلبات تحصين سلاسل توريد البرمجيات، لتصبح صورها الأساسية الخالية من CVE نموذجاً للتطوير الآمن.",
+      "hq_city": "كيركلاند"
+    },
+    "fr": {
+      "name": "Chainguard",
+      "country": "États-Unis",
+      "sub_domain": "Chaîne d'approvisionnement logicielle",
+      "short_description": "Produit des images de conteneurs minimales, reproductibles et toujours corrigées.",
+      "technology": "Images OCI distroless",
+      "why_relevant": "Chaque image de base est livrée distroless et sans CVE par défaut.",
+      "history": "Chainguard a été fondée en 2021 par Daniel Lorenc, Kim Lewandowski et d'autres créateurs du projet open source Sigstore de signature logicielle. L'entreprise a entrepris de rendre la sécurité de la chaîne d'approvisionnement concrète en produisant des images de conteneurs minimales, distroless et constamment corrigées, avec signatures intégrées. Elle est devenue une licorne grâce à une série B de 61 millions de dollars en 2023 et s'est associée aux grands fournisseurs cloud et à des agences gouvernementales. L'approche de Chainguard a gagné du terrain avec les exigences de durcissement des chaînes d'approvisionnement, faisant de ses images de base sans CVE un modèle de développement logiciel sécurisé.",
+      "hq_city": "Kirkland"
+    }
+  },
+  "island": {
+    "ar": {
+      "name": "Island",
+      "country": "الولايات المتحدة",
+      "sub_domain": "متصفح المؤسسات",
+      "short_description": "متصفح عمل يمنع تسرب البيانات عبر متصفح المستخدم نفسه.",
+      "technology": "أمن متصفح المؤسسات",
+      "why_relevant": "اخترع فئة متصفح المؤسسات وفرض حدوداً جديدة للأجهزة.",
+      "history": "تأسست Island عام 2018 على يد مايك فاي وداني عميقة لاختراع فئة متصفح المؤسسات. يفرض متصفح العمل الآمن الخاص بها السياسات ويتحكم في تدفق البيانات ويدمج الحوكمة مباشرة في طبقة التصفح، مانحاً المؤسسات نقطة تحكم جديدة على مستوى المؤسسة بأكملها. خرجت الشركة من التخفي في عام 2022 ووصلت سريعاً إلى تقييم ثلاثة مليارات دولار عام 2023 بفضل النمو المتسارع وتبني المؤسسات لحلها. تعيد مقاربة Island تعريف حدود الأجهزة، مانحةً إمكانية تطبيق zero trust ومنع فقدان البيانات حيث يعمل المستخدمون فعلياً.",
+      "hq_city": "دالاس"
+    },
+    "fr": {
+      "name": "Island",
+      "country": "États-Unis",
+      "sub_domain": "Navigateur d'entreprise",
+      "short_description": "Un navigateur de travail qui empêche les données de fuir via le navigateur personnel de l'utilisateur.",
+      "technology": "Sécurité par navigateur d'entreprise",
+      "why_relevant": "A inventé la catégorie du navigateur d'entreprise, imposant une nouvelle frontière de terminal.",
+      "history": "Island a été fondée en 2018 par Mike Fey et Dan Amiga pour inventer la catégorie du navigateur d'entreprise. Son navigateur de travail sécurisé applique les politiques, contrôle les flux de données et intègre la gouvernance directement dans la couche de navigation, donnant aux organisations un nouveau point de contrôle. La société est sortie de la confidentialité en 2022 et a rapidement atteint une valorisation de 3 milliards de dollars en 2023, portée par une croissance rapide et l'adoption par les entreprises. L'approche d'Island redéfinit la frontière du terminal, permettant de faire respecter zero trust et protection contre la perte de données là où les utilisateurs travaillent réellement.",
+      "hq_city": "Dallas"
+    }
+  },
+  "abnormal-security": {
+    "ar": {
+      "name": "Abnormal Security",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن البريد الإلكتروني",
+      "short_description": "أمن بريد إلكتروني بالذكاء الاصطناعي يكشف هجمات اختراق البريد التجاري.",
+      "technology": "تعلّم آلي سلوكي للبريد",
+      "why_relevant": "أوقف هجمات انتحال صفة المدراء التي تفوت مرشحات الرسائل المزعجة.",
+      "history": "تأسست Abnormal Security عام 2018 على يد إيفان رايزر وسانجاي جايكومار لإيقاف هجمات البريد الإلكتروني المتطورة باستخدام ذكاء اصطناعي سلوكي بدلاً من أساليب السمعة. تبني منصتها نموذجاً لهوية وسلوك كل مستخدم لكشف اختراق البريد التجاري والاحتيال عبر الموردين والروابط الخبيثة التي تفوتها مرشحات البريد التقليدية. نمت الشركة بسرعة، فأغلقت جولة بقيمة 250 مليون دولار عام 2024 بتقييم 5.1 مليارات دولار. تحمي Abnormal اليوم آلاف المؤسسات حول العالم وتتصدر فئة أمن البريد والهوية القائم على الذكاء الاصطناعي.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Abnormal Security",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité des e-mails",
+      "short_description": "Sécurité des e-mails par IA qui détecte les attaques de type fraude au président (BEC).",
+      "technology": "ML comportemental sur les e-mails",
+      "why_relevant": "Stoppe les attaques d'usurpation de dirigeants que les filtres antispam laissent passer.",
+      "history": "Abnormal Security a été fondée en 2018 par Evan Reiser et Sanjay Jeyakumar pour stopper les attaques e-mail sophistiquées grâce à une IA fondée sur le comportement plutôt que sur la réputation. Sa plateforme modélise l'identité et le comportement de chaque utilisateur pour détecter la fraude au président, la compromission de fournisseurs et les liens malveillants que les filtres antispam traditionnels laissent passer. L'entreprise a connu une croissance rapide, bouclant un tour de 250 millions de dollars en 2024 à une valorisation de 5,1 milliards. Abnormal protège aujourd'hui des milliers d'organisations dans le monde et s'impose comme un leader de la sécurité e-mail et identitaire native IA.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "armorcode": {
+    "ar": {
+      "name": "ArmorCode",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ASPM",
+      "short_description": "يوحّد إشارات الأمن عبر الشيفرة والسحابة وواجهات API والحاويات.",
+      "technology": "وضعية أمن التطبيقات",
+      "why_relevant": "لوحة واحدة لترتيب أولويات نتائج أمن التطبيقات المهمة فعلاً.",
+      "history": "تأسست ArmorCode عام 2020 على يد نيكهيل جوبتا لتوحيد مشهد أمن التطبيقات المفتت. تجمع منصتها ASPM نتائج الفحص من الشيفرة والسحابة والمصادر المفتوحة وواجهات API والحاويات في رؤية موحدة للمخاطر ذات الأولوية، مساعدةً فرق الأمن والتطوير على التركيز على الأهم. جمعت الشركة أكثر من 40 مليون دولار، بينها جولة B عام 2023، وتبنّتها مؤسسات كبرى تدير عشرات الأدوات الأمنية. تواصل ArmorCode توسعة منصتها لإدارة وضعية أمن التطبيقات، وهي تخصص أصبح محورياً في DevSecOps الحديث.",
+      "hq_city": "بالو ألتو"
+    },
+    "fr": {
+      "name": "ArmorCode",
+      "country": "États-Unis",
+      "sub_domain": "ASPM",
+      "short_description": "Unifie les signaux de sécurité à travers le code, le cloud, les API et les conteneurs.",
+      "technology": "Posture de sécurité applicative",
+      "why_relevant": "Un seul écran pour prioriser les vulnérabilités applicatives qui comptent vraiment.",
+      "history": "ArmorCode a été fondée en 2020 par Nikhil Gupta pour unifier un paysage fragmenté de la sécurité applicative. Sa plateforme ASPM agrège les résultats provenant du code, du cloud, de l'open source, des API et des conteneurs dans une vue unique des risques à prioriser, aidant équipes sécurité et développeurs à agir sur l'essentiel. L'entreprise a levé plus de 40 millions de dollars, dont une série B en 2023, et a été adoptée par de grandes entreprises gérant des dizaines d'outils de sécurité. ArmorCode continue d'étendre sa plateforme de gestion de la posture applicative, discipline devenue centrale du DevSecOps moderne.",
+      "hq_city": "Palo Alto"
+    }
+  },
+  "astrix-security": {
+    "ar": {
+      "name": "Astrix Security",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الهويات غير البشرية",
+      "short_description": "يؤمّن الانفجار الهائل في هويات الآلات والخدمات داخل SaaS.",
+      "technology": "أمن NHI",
+      "why_relevant": "يتتبّع الهويات الآلية التي يستغلها المهاجمون بشكل متزايد.",
+      "history": "تأسست Astrix Security عام 2021 على يد ألون جاكسون وعيدان غور لمواجهة النمو الهائل للهويات غير البشرية في البيئات البرمجية الحديثة. تكتشف منصتها هويات الآلات والخدمات وتصنفها وتراقبها باستمرار، مربطةً سلوكها للكشف عن الاختراق وتقليل المخاطر المرتبطة به. جمعت الشركة 45 مليون دولار في جولة A عام 2023 بقيادة مستثمرين بارزين، رابحةً عملاء من المؤسسات كثيفة الاعتماد على SaaS. تواصل Astrix تحديد ملامح فئة أمن الهويات غير البشرية الناشئة، في وقت يستهدف المهاجمون بشكل متزايد بيانات الاعتماد الآلية.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Astrix Security",
+      "country": "États-Unis",
+      "sub_domain": "Identités non humaines",
+      "short_description": "Sécurise l'explosion des identités de machines et de services dans le SaaS.",
+      "technology": "Sécurité des NHI",
+      "why_relevant": "Traque les identités automatisées que les attaquants exploitent de plus en plus.",
+      "history": "Astrix Security a été fondée en 2021 par Alon Jackson et Idan Gour pour répondre à la croissance explosive des identités non humaines dans les environnements logiciels modernes. Sa plateforme découvre, classe et surveille en continu les identités machine et service, en corrélant leur comportement pour détecter les compromissions et réduire les risques associés. L'entreprise a levé 45 millions de dollars en série A en 2023 auprès d'investisseurs de premier plan, gagnant des clients parmi les entreprises très exposées au SaaS. Astrix continue de définir la catégorie émergente de la sécurité des identités non humaines, les attaquants ciblant de plus en plus les identifiants automatisés.",
+      "hq_city": "New York"
+    }
+  },
+  "torq": {
+    "ar": {
+      "name": "Torq",
+      "country": "إسرائيل",
+      "sub_domain": "أتمتة الأمن",
+      "short_description": "تنسيق أمني بدون شيفرة يربط كل أدوات الأمن.",
+      "technology": "أتمتة سير العمل",
+      "why_relevant": "كل تنبيه أمني يُجاب عنه بسلسلة من الاستجابات الآلية.",
+      "history": "تأسست Torq عام 2020 على يد أوفير سماداري ومخضرمين آخرين في مجال الأمن، ليجلبوا الأتمتة بدون شيفرة إلى العمليات الأمنية. تربط منصتها للأتمتة الفائقة عشرات الأدوات الأمنية في سير عمل مرئي، ليتسنى للمحللين تنسيق الاستجابات دون كتابة أي شيفرة. جمعت الشركة 70 مليون دولار في جولة B عام 2023، وجذبت عملاء من قطاعي التكنولوجيا المالية والتجزئة، وعُرفت كقائد في أتمتة الأمن. تواصل Torq توسعة منصتها لبناء وتنفيذ ومشاركة أدلة اللعب الدفاعية الآلية.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Torq",
+      "country": "Israël",
+      "sub_domain": "Automatisation de la sécurité",
+      "short_description": "Orchestration de sécurité no-code qui connecte tous les outils de sécurité.",
+      "technology": "Automatisation des workflows",
+      "why_relevant": "Chaque alerte de sécurité traitée par une chaîne de réponses automatisées.",
+      "history": "Torq a été fondée en 2020 par Ofer Smadari et d'autres vétérans de la sécurité pour apporter l'automatisation no-code aux opérations de sécurité. Sa plateforme d'hyperautomation connecte des dizaines d'outils de sécurité dans des workflows visuels, permettant aux analystes d'orchestrer des réponses sans écrire de code. La société a levé 70 millions de dollars en série B en 2023, attiré des clients dans la fintech et le commerce, et a été reconnue comme un leader de l'automatisation de la sécurité. Torq continue d'étendre sa plateforme pour construire, exécuter et partager des playbooks de défense automatisés.",
+      "hq_city": "Tel Aviv"
+    }
+  },
+  "varonis": {
+    "ar": {
+      "name": "Varonis",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن البيانات",
+      "short_description": "يكشف تعرّض البيانات ومخاطر الداخلين داخل منصات السحابة.",
+      "technology": "تحليلات البيانات المخزّنة",
+      "why_relevant": "ينظّف \"الضجيج\" داخل الملفات الذي يجعل الاختراقات مكلفة للغاية.",
+      "history": "تأسست Varonis عام 2005 على يد ياكي فيتلسون وأوهاد كوركوس لمساعدة المؤسسات على فهم بياناتها وحمايتها. يصنف إطار عملها القائم على البيانات الوصفية الملفات والمجلدات والبريد تلقائياً، كاشفاً تعرّض البيانات الحساسة وسلوكيات المخاطر الداخلية على المنصات المحلية والسحابية. أدرجت الشركة أسهمها في ناسداك في فبراير 2014 ونمت لتصبح رائدة عالمياً في أمن البيانات وحوكمتها. تواصل Varonis توسعة منصتها بتصنيف البيانات وتحليلات الهويات والمعالجة الآلية خدمةً للقطاعات الخاضعة للتنظيم الصارم.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Varonis",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité des données",
+      "short_description": "Détecte l'exposition des données et les risques internes au sein des plateformes cloud.",
+      "technology": "Analyse des données au repos",
+      "why_relevant": "Nettoie le « bruit » dans les fichiers qui rend les violations si coûteuses.",
+      "history": "Varonis a été fondée en 2005 par Yaki Faitelson et Ohad Korkus pour aider les organisations à comprendre et protéger leurs données. Son cadre de métadonnées classifie automatiquement fichiers, dossiers et e-mails, détectant l'exposition de données sensibles et les comportements à risque interne sur les plateformes sur site et cloud. La société est entrée au Nasdaq en février 2014 et est devenue un leader mondial de la sécurité et de la gouvernance des données. Varonis enrichit continuellement sa plateforme avec classification des données, analytique des identités et correction automatisée au service de secteurs fortement réglementés.",
+      "hq_city": "New York"
+    }
+  },
+  "knowbe4": {
+    "ar": {
+      "name": "KnowBe4",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التوعية الأمنية",
+      "short_description": "يحاكي التصيّد ويحوّل الموظفين إلى جدار حماية بشري.",
+      "technology": "محاكاة التصيّد",
+      "why_relevant": "أثبت أن المستخدمين يمكن أن يكونوا أقوى خط دفاع عند تدريبهم جيداً.",
+      "history": "تأسست KnowBe4 عام 2010 على يد ستو شوورمان لتحويل الموظفين إلى خط دفاع بشري قوي. تقدم منصتها محاكاة هجمات التصيّد وتدريبات التوعية الأمنية على نطاق واسع، مدربةً عشرات الآلاف من المؤسسات. أدرجت الشركة أسهمها في أبريل 2021 ثم استحوذت عليها Vista Equity Partners مقابل نحو 4.6 مليارات دولار. تظل KnowBe4 اللاعب المهيمن في التوعية الأمنية وإدارة المخاطر البشرية، مع توسع دائم في مكتبة تدريباتها ومحاكاة التصيّد.",
+      "hq_city": "كليرواتر"
+    },
+    "fr": {
+      "name": "KnowBe4",
+      "country": "États-Unis",
+      "sub_domain": "Sensibilisation à la sécurité",
+      "short_description": "Simule le phishing et transforme les collaborateurs en pare-feu humain.",
+      "technology": "Simulation de phishing",
+      "why_relevant": "A prouvé que les utilisateurs, bien formés, sont la meilleure ligne de défense.",
+      "history": "KnowBe4 a été fondée en 2010 par Stu Sjouwerman pour faire des collaborateurs une véritable ligne de défense humaine. Sa plateforme propose des simulations de phishing et des formations de sensibilisation à grande échelle, formant des dizaines de milliers d'organisations. La société est entrée en Bourse en avril 2021, puis a été rachetée par Vista Equity Partners pour environ 4,6 milliards de dollars. KnowBe4 demeure l'acteur dominant de la sensibilisation à la sécurité et de la gestion du risque humain, enrichissant constamment sa bibliothèque de formations et ses simulations de phishing.",
+      "hq_city": "Clearwater"
+    }
+  },
+  "cohesity": {
+    "ar": {
+      "name": "Cohesity",
+      "country": "الولايات المتحدة",
+      "sub_domain": "حماية البيانات",
+      "short_description": "يبسّط النسخ الاحتياطي على منصة واحدة مع تعافٍ مدعوم بالذكاء الاصطناعي.",
+      "technology": "إدارة موحّدة للبيانات",
+      "why_relevant": "دمج حماية البيانات والأمن في منصة واحدة أصلية بالذكاء الاصطناعي.",
+      "history": "تأسست Cohesity عام 2013 على يد موهيت آرون لتبسيط تخزين البيانات الثانوي عبر منصة واحدة فائقة التقارب. وحّد حلها DataProtect بيئات النسخ الاحتياطي المفتتة وأضاف تعافياً مدعوماً بالذكاء الاصطناعي ودفاعات ضد برامج الفدية. في عام 2024 أعلنت Cohesity الاندماج مع Veritas لإنشاء عملاق موحد لحماية البيانات يخدم أكثر من 12 ألف عميل. تواصل الشركة تقديم إدارة بيانات موحدة ومرونة سيبرانية للمؤسسات حول العالم.",
+      "hq_city": "سان خوسيه"
+    },
+    "fr": {
+      "name": "Cohesity",
+      "country": "États-Unis",
+      "sub_domain": "Protection des données",
+      "short_description": "Simplifie la sauvegarde sur une seule plateforme avec une récupération assistée par IA.",
+      "technology": "Gestion unifiée des données",
+      "why_relevant": "A réuni protection des données et sécurité sur une seule plateforme native IA.",
+      "history": "Cohesity a été fondée en 2013 par Mohit Aron pour simplifier le stockage de données secondaire avec une plateforme unique hyperconvergée. Son produit DataProtect a consolidé des environnements de sauvegarde fragmentés et ajouté une récupération assistée par IA ainsi que des défenses contre les rançongiciels. En 2024, Cohesity a annoncé un projet de fusion avec Veritas pour créer un leader combiné de la protection des données servant plus de 12 000 clients. La société continue d'offrir une gestion unifiée des données et une cyber-résilience pour les entreprises du monde entier.",
+      "hq_city": "San José"
+    }
+  },
+  "sysdig": {
+    "ar": {
+      "name": "Sysdig",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن سحابي أصلي",
+      "short_description": "أمن وقت التشغيل والامتثال للحاويات وKubernetes.",
+      "technology": "رؤية وقت التشغيل عبر eBPF",
+      "why_relevant": "يمنح eBPF أدلة وقت التشغيل في الوقت الفعلي دون حاويات جانبية.",
+      "history": "تأسست Sysdig عام 2013 على يد لوريس ديجيواني، مبتكر محلل الشبكة Wireshark، ليجلب رؤية عميقة إلى الحاويات وKubernetes. فتحت الشركة مصدر مشروع Falco، الذي أصبح معيار أمن وقت التشغيل المعتمد من CNCF، وكانت رائدةً في كشف وقت التشغيل عبر eBPF دون حاويات جانبية. جمعت Sysdig 245 مليون دولار في جولة E عام 2022 متجاوزةً تقييم المليار دولار، ثم توسعت إلى كشف التهديدات السحابية والامتثال. تبقى منصتها خياراً رائداً لأمن وقت التشغيل والمعالجة في البيئات السحابية الأصلية.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Sysdig",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité cloud-native",
+      "short_description": "Sécurité d'exécution et conformité pour les conteneurs et Kubernetes.",
+      "technology": "Visibilité d'exécution eBPF",
+      "why_relevant": "eBPF fournit des preuves d'exécution en temps réel, sans sidecars.",
+      "history": "Sysdig a été fondée en 2013 par Loris Degioanni, créateur de l'analyseur réseau Wireshark, pour apporter une visibilité profonde aux conteneurs et à Kubernetes. La société a open sourcé Falco, devenu la référence de la sécurité à l'exécution adoptée par la CNCF, et a été pionnière de la détection à l'exécution basée sur eBPF sans sidecars. Sysdig a levé 245 millions de dollars en série E en 2022, dépassant le milliard de valorisation, et s'est étendue à la détection des menaces cloud et à la conformité. Sa plateforme reste un choix de premier plan pour la sécurité et la correction à l'exécution dans les environnements cloud natif.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "devo": {
+    "ar": {
+      "name": "Devo",
+      "country": "الولايات المتحدة",
+      "sub_domain": "SIEM",
+      "short_description": "سحابة تحليلات أمنية مصممة خصيصاً لبيانات السجلات بسرعة الآلة.",
+      "technology": "SIEM سحابي",
+      "why_relevant": "اصطياد التهديدات بسرعة الآلة على قياس بيانات تبلغ بيتابايت.",
+      "history": "تأسست Devo عام 2011 لجلب سرعة الحوسبة السحابية الأصلية إلى تحليلات الأمن، عبر مزج استيعاب سريع للبيانات وبنية قابلة للتوسع. تستوعب منصة SIEM الخاصة بها سجلات تولدها الآلات بسرعة الآلة، ما يتيح اصطياد التهديدات والتحقيق في تدفقات بيانات بمقياس بيتابايت. جمعت الشركة أكثر من نصف مليار دولار وبلغ تقييمها ملياري دولار عام 2021، وتعمل بفرق بحث وتطوير وتسويق عالمية. تواصل Devo خدمة مراكز العمليات الأمنية حول العالم عبر سحابة التحليلات فائقة التوسع القائمة على الأحداث.",
+      "hq_city": "كامبريدج"
+    },
+    "fr": {
+      "name": "Devo",
+      "country": "États-Unis",
+      "sub_domain": "SIEM",
+      "short_description": "Cloud d'analytique de sécurité conçu pour les données de logs à vitesse machine.",
+      "technology": "SIEM cloud",
+      "why_relevant": "La chasse aux menaces à vitesse machine sur une télémétrie à l'échelle du pétaoctet.",
+      "history": "Devo a été fondée en 2011 pour apporter la vitesse du cloud-natif à l'analytique de sécurité, en combinant ingestion rapide et architecture extensible. Sa plateforme SIEM ingère des journaux générés par les machines à vitesse machine, permettant la chasse aux menaces et l'investigation sur des télémétries à l'échelle du pétaoctet. La société a levé plus d'un demi-milliard de dollars, atteignant une valorisation de 2 milliards en 2021, et opère des équipes mondiales de R&D et de go-to-market. Devo continue de servir les centres d'opérations de sécurité du monde entier avec son cloud d'analytique événementielle à très haute échelle.",
+      "hq_city": "Cambridge"
+    }
+  },
+  "exabeam": {
+    "ar": {
+      "name": "Exabeam",
+      "country": "الولايات المتحدة",
+      "sub_domain": "SIEM وUEBA",
+      "short_description": "تحليلات سلوكية ترصد التهديدات الداخلية وإساءة استخدام الحسابات.",
+      "technology": "UEBA، تحقيق آلي",
+      "why_relevant": "يستخدم خطوط أساس سلوكية للإشارة إلى المهاجم، لا إلى التنبيه فحسب.",
+      "history": "تأسست Exabeam عام 2013 على يد نير بولاك وسيلفان جيل لجعل فرق الأمن أكثر إنتاجية بكثير. تبني منصتها SIEM من الطراز الجديد وتحليلاتها السلوكية خطوطاً أساسية لسلوك المستخدمين والكيانات للكشف عن التهديدات الداخلية وإساءة استخدام الحسابات والهجمات الحديثة. جمعت الشركة تمويلاً من مستثمرين منهم Lightspeed وCisco، وعُرفت كقائد في SIEM وUEBA. تواصل Exabeam التطور عبر نهجها القائم على الذكاء الاصطناعي في التحقيقات الأمنية وهندسة الاكتشاف.",
+      "hq_city": "فوستر سيتي"
+    },
+    "fr": {
+      "name": "Exabeam",
+      "country": "États-Unis",
+      "sub_domain": "SIEM & UEBA",
+      "short_description": "Analytique comportementale qui repère les menaces internes et les usages abusifs de comptes.",
+      "technology": "UEBA, investigation automatisée",
+      "why_relevant": "Utilise des référentiels de comportement pour signaler l'attaquant, pas seulement l'alerte.",
+      "history": "Exabeam a été fondée en 2013 par Nir Polak et Sylvain Gil pour rendre les équipes de sécurité nettement plus productives. Sa plateforme New-Scale SIEM et son analytique comportementale établissent des profils de comportement des utilisateurs et entités pour repérer les menaces internes, les usages abusifs de comptes et les attaques modernes. La société a levé des fonds auprès d'investisseurs dont Lightspeed et Cisco et a été reconnue comme un leader du SIEM et de la UEBA. Exabeam continue d'évoluer grâce à son approche pilotée par l'IA des investigations de sécurité et de l'ingénierie de détection.",
+      "hq_city": "Foster City"
+    }
+  },
+  "sumo-logic": {
+    "ar": {
+      "name": "Sumo Logic",
+      "country": "الولايات المتحدة",
+      "sub_domain": "المراقبة والأمن",
+      "short_description": "تحليلات سجلات سحابية أصلية وSIEM لخطوط التطبيقات والبنية التحتية.",
+      "technology": "SaaS لاستخبارات السجلات",
+      "why_relevant": "نهج \"راقب كل شيء\" يقلّص متوسط زمن الاستجابة للحوادث.",
+      "history": "تأسست Sumo Logic عام 2010 على يد كريستيان بيجدن وكومار سورابه وبرونو كوريتش لتقديم استخبارات السجلات كخدمة سحابية. تستوعب منصة الذكاء المستمر الخاصة بها بيانات التطبيقات والبنية التحتية على نطاق هائل، داعمةً المراقبة وSIEM السحابي ضمن اشتراك واحد. أدرجت الشركة أسهمها في ناسداك عام 2020 ثم استحوذت عليها Francisco Partners مقابل نحو 1.7 مليار دولار. تواصل Sumo Logic مساعدة المؤسسات على مراقبة وتأمين واستكشاف خطوط التطبيقات الحديثة من منصة سحابية أصلية واحدة.",
+      "hq_city": "ريدوود سيتي"
+    },
+    "fr": {
+      "name": "Sumo Logic",
+      "country": "États-Unis",
+      "sub_domain": "Observabilité et sécurité",
+      "short_description": "Analytique de logs cloud-native et SIEM pour les pipelines d'applications et d'infrastructure.",
+      "technology": "SaaS d'intelligence des logs",
+      "why_relevant": "Sa posture « tout surveiller » réduit le temps moyen de réponse aux incidents.",
+      "history": "Sumo Logic a été fondée en 2010 par Christian Beedgen, Kumar Saurabh et Bruno Kurtic pour délivrer l'intelligence des logs comme un service cloud. Sa plateforme d'intelligence continue ingère à très grande échelle les données des applications et de l'infrastructure, soutenant observabilité et SIEM cloud sous un même abonnement. L'entreprise est entrée au Nasdaq en 2020 puis a été rachetée par Francisco Partners pour environ 1,7 milliard de dollars. Sumo Logic continue d'aider les entreprises à surveiller, sécuriser et dépanner leurs pipelines applicatifs modernes depuis une même plateforme cloud-native.",
+      "hq_city": "Redwood City"
+    }
+  },
+  "lookout": {
+    "ar": {
+      "name": "Lookout",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن الأجهزة المحمولة",
+      "short_description": "يؤمّن نقاط النهاية المحمولة ضد البرمجيات الخبيثة والتصيّد ومخاطر التطبيقات.",
+      "technology": "دفاع ضد تهديدات المحمول",
+      "why_relevant": "الهواتف الذكية جهاز لا يمكن الاستغناء عنه؛ وLookout يراقبها.",
+      "history": "تأسست Lookout عام 2007 على يد جون هيرينغ وجيمس بورغيس وكيفن ماهافي، روّاد أمن الأجهزة المحمولة. تكتشف منصتها السحابية البرمجيات الخبيثة للهواتف والتصيّد والتطبيقات الخطرة، محميةً هواتف المؤسسات الذكية ومقدمةً دفاعاً ضد تهديدات المحمول للجهات الحكومية والبنية التحتية الحرجة. جمعت الشركة تمويلاً كبيراً وبلغ تقييمها 1.9 مليار دولار عام 2019. تواصل Lookout حماية الأجهزة والمستخدمين والبنية التحتية الحرجة في القطاعين العام والخاص، متوسعةً من أمن المحمول نحو نقاط النهاية والهوية.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Lookout",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité mobile",
+      "short_description": "Sécurise les terminaux mobiles contre les malwares, le phishing et les risques applicatifs.",
+      "technology": "Défense contre les menaces mobiles",
+      "why_relevant": "Les smartphones sont l'appareil incontournable ; Lookout les surveille.",
+      "history": "Lookout a été fondée en 2007 par John Hering, James Burgess et Kevin Mahaffey, pionniers de la sécurité mobile. Sa plateforme cloud détecte les malwares mobiles, le phishing et les applications risquées, protégeant les smartphones d'entreprise et fournissant une défense contre les menaces mobiles au gouvernement et aux infrastructures critiques. L'entreprise a levé des fonds importants et atteint une valorisation de 1,9 milliard de dollars en 2019. Lookout continue de protéger appareils, utilisateurs et infrastructures critiques dans les secteurs public et privé, s'étendant de la sécurité mobile vers le terminal et l'identité.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "zimperium": {
+    "ar": {
+      "name": "Zimperium",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن الأجهزة المحمولة",
+      "short_description": "ذكاء اصطناعي على الجهاز يكشف البرمجيات الخبيثة للهواتف دون إرسال البيانات إلى السحابة.",
+      "technology": "أمن محمول على الجهاز",
+      "why_relevant": "كشف في صندوق رملي خاص بالهواتف قائم على السلوك يمنع التهرب.",
+      "history": "تأسست Zimperium عام 2010 على يد زوك أفراهام وباحثين متخصصين في منصات الأجهزة المحمولة. يكتشف محركها المدمج z9 البرمجيات الخبيثة والتصيّد محلياً عبر التعلم الآلي، دون إرسال البيانات إلى السحابة. حمت تقنية Zimperium مؤسسات حرجة عامة وخاصة وساهمت في صياغة فئة الدفاع ضد تهديدات المحمول. تواصل الشركة توسعة منصتها لأمن المحمول، مركزةً على دفاع شامل لنقاط النهاية المحمولة لدى الشركات والجهات الحكومية.",
+      "hq_city": "دالاس"
+    },
+    "fr": {
+      "name": "Zimperium",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité mobile",
+      "short_description": "IA embarquée sur l'appareil qui détecte les malwares mobiles sans envoyer de données au cloud.",
+      "technology": "Sécurité mobile embarquée",
+      "why_relevant": "Des détections en sandbox propres au mobile, fondées sur le comportement, qui empêchent l'évasion.",
+      "history": "Zimperium a été fondée en 2010 par Zuk Avraham et des chercheurs spécialisés dans les plateformes mobiles. Son moteur embarqué z9 détecte malwares et phishing localement via le machine learning, sans envoyer de données vers le cloud. La technologie de Zimperium a protégé des organisations publiques et privées critiques et contribué à définir la catégorie de la défense contre les menaces mobiles. L'entreprise continue d'étendre sa plateforme de sécurité mobile, en se concentrant sur une défense complète des terminaux mobiles pour les entreprises et les administrations.",
+      "hq_city": "Dallas"
+    }
+  },
+  "avanan": {
+    "ar": {
+      "name": "Avanan",
+      "country": "إسرائيل",
+      "sub_domain": "أمن البريد والذكاء الاصطناعي",
+      "short_description": "طبقة أمن بريد إلكتروني سحابية فوق Microsoft وGoogle.",
+      "technology": "دفاع بالذكاء الاصطناعي عبر API للبريد",
+      "why_relevant": "يكشف حقن الأوامر والروابط الضارة التي يفتحها الذكاء الاصطناعي في البريد.",
+      "history": "تأسست Avanan عام 2015 على يد جل فريدريش وأوهاد بوبروف لتقديم طبقة أمن قائمة على الذكاء الاصطناعي فوق Microsoft 365 وGoogle Workspace. يكتشف أمن البريد السحابي المبني على API لديهم التصيّد وانتحال الهوية، ومؤخراً حقن الأوامر والروابط الخبيثة التي يفتحها الذكاء الاصطناعي، بما يفوت الدفاعات المدمجة. في عام 2021 استحوذت Check Point Software على Avanan لتصنع بها حل Harmony Email and Collaboration. تحمي تقنية Avanan اليوم ملايين علب البريد ضمن محفظة أمنية عالمية للمؤسسات.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Avanan",
+      "country": "Israël",
+      "sub_domain": "Sécurité des e-mails et de l'IA",
+      "short_description": "Couche de sécurité des e-mails cloud par-dessus Microsoft et Google.",
+      "technology": "Défense e-mail par IA via API",
+      "why_relevant": "Détecte l'injection de prompts et les liens dangereux ouverts par l'IA dans les e-mails.",
+      "history": "Avanan a été fondée en 2015 par Gil Friedrich et Ohad Bobrov pour superposer une sécurité pilotée par l'IA à Microsoft 365 et Google Workspace. Sa sécurité e-mail cloud basée sur les API détecte le phishing, l'usurpation, et plus récemment les injections de prompts et les liens malveillants ouverts par l'IA, que les défenses natives laissent passer. En 2021, Check Point Software a racheté Avanan pour créer sa solution Harmony Email and Collaboration. La technologie d'Avanan protège désormais des millions de boîtes mail au sein d'une offre de sécurité d'entreprise de réputation mondiale.",
+      "hq_city": "New York"
+    }
+  },
+  "fireblocks": {
+    "ar": {
+      "name": "Fireblocks",
+      "country": "إسرائيل",
+      "sub_domain": "أمن الأصول الرقمية",
+      "short_description": "بنية تحتية للحفظ والنقل للأصول المشفرة المؤسسية.",
+      "technology": "حفظ الأصول الرقمية عبر MPC",
+      "why_relevant": "القنوات الآمنة التي تستخدمها البنوك لحفظ الأصول الرقمية ونقلها.",
+      "history": "تأسست Fireblocks عام 2018 على يد مايكل شاولوف وبافيل بيرينغولتز وعيدان أوفرات لتأمين عمليات الأصول الرقمية المؤسسية. تستخدم منصتها الحساب متعدد الأطراف (MPC) والعزل المادي لحفظ الأصول المشفرة ونقلها، لتصبح المسار الموثوق للبورصات والبنوك وصناديق الاستثمار. خدمت الشركة مئات المؤسسات بسرعة وجمعت 550 مليون دولار عام 2022 بتقييم ثمانية مليارات دولار. تواصل Fireblocks توسعة شبكتها وقدراتها في المحافظ والترميز وضوابط السياسات لخدمة اقتصاد الأصول الرقمية المنظمة.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Fireblocks",
+      "country": "Israël",
+      "sub_domain": "Sécurité des actifs numériques",
+      "short_description": "Infrastructure de conservation et de transfert pour la crypto institutionnelle.",
+      "technology": "Conservation d'actifs numériques par MPC",
+      "why_relevant": "Les rails sécurisés que les banques utilisent pour détenir et déplacer des actifs numériques.",
+      "history": "Fireblocks a été fondée en 2018 par Michael Shaulov, Pavel Berengoltz et Idan Ofrat pour sécuriser les opérations institutionnelles sur actifs numériques. Sa plateforme utilise le calcul multipartite (MPC) et l'isolation matérielle pour conserver et transférer des actifs crypto, devenant le sillon de confiance des bourses, banques et fonds. L'entreprise a servi rapidement des centaines d'institutions et levé 550 millions de dollars en 2022, à une valorisation de 8 milliards de dollars. Fireblocks continue d'étendre son réseau et ses capacités de portefeuille, de tokenisation et de contrôle des politiques pour l'économie des actifs numériques régulés.",
+      "hq_city": "Tel Aviv"
+    }
+  }
+}

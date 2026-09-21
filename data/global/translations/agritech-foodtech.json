@@ -1,0 +1,706 @@
+{
+  "indigo-ag": {
+    "ar": {
+      "name": "Indigo Ag",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الزراعة المعتمدة على الميكروبيوم",
+      "short_description": "تطبّق ميكروبات نافعة وبرامج كربون لرفع ربحية المزارع.",
+      "technology": "طلاء بذور ميكروبي، أرصدة كربون",
+      "why_relevant": "أثبتت إمكانية تربية المحاصيل لالتقاط الكربون مع تحقق رقمي.",
+      "history": "تأسست في 2013 ضمن مشاريع شركة Flagship Pioneering لرفع ربحية المزارعين، وطوّرت Indigo Ag طلاءات بذور ميكروبية تساعد المحاصيل على امتصاص العناصر الغذائية ومقاومة الإجهاد بشكل أفضل. ثم وسّعت سوقاً رقمية للحبوب وأطلقت عام 2019 أحد أكبر برامج أرصدة الكربون الزراعية، لتعوّض المزارعين عن ممارسات التجديد البيئي. وبعد خروجها من تجارة الحبوب وإعادة هيكلتها عام 2023، تركّز الشركة حالياً على تقنيات الميكروبيوم وأسواق الكربون الموثّقة، بالتعاون مع علامات غذائية عالمية.",
+      "hq_city": "بوسطن"
+    },
+    "fr": {
+      "name": "Indigo Ag",
+      "country": "États-Unis",
+      "sub_domain": "Agriculture par microbiome",
+      "short_description": "Applique des microbes bénéfiques et des programmes carbone pour accroître la rentabilité des exploitations.",
+      "technology": "Enrobages de semences microbiennes, crédits carbone",
+      "why_relevant": "A démontré qu'il est possible de sélectionner des cultures pour la capture de carbone avec une vérification numérique.",
+      "history": "Fondée en 2013 en tant que projet de Flagship Pioneering pour améliorer la rentabilité des exploitations, Indigo Ag a développé des enrobages de semences à base de microbes qui aident les cultures à mieux absorber les nutriments et à résister au stress. Elle a ensuite déployé un marché numérique des grains et lancé en 2019 l'un des plus grands programmes de crédits carbone agricoles, rémunérant les producteurs pour leurs pratiques régénératives. Après avoir quitté le négoce de grains et s'être restructurée en 2023, l'entreprise se concentre désormais sur les technologies de microbiome et les marchés carbone vérifiés, en s'associant à de grandes marques agroalimentaires.",
+      "hq_city": "Boston"
+    }
+  },
+  "pivot-bio": {
+    "ar": {
+      "name": "Pivot Bio",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ميكروبات النيتروجين",
+      "short_description": "ميكروبات مُهندَسة تُمد المحاصيل بالنيتروجين بدلاً من الأسمدة الاصطناعية.",
+      "technology": "ميكروبات مثبّتة للنيتروجين تُطبَّق في الحقل",
+      "why_relevant": "تقلّص انبعاثات الأسمدة عبر معالجة بذور تُستخدم مباشرة.",
+      "history": "أسّسها العالمان كارستن تيم وآلفين تمسير عام 2010، وطوّرت Pivot Bio أولى الميكروبات المثبّتة للنيتروجين المتاحة تجارياً، والتي تعيش مباشرة على جذور الذرة والذرة الرفيعة والقمح. تحلّ منتجاتها الرئيسية N-OVATOR وPROVEN محل الأسمدة الاصطناعية في مئات آلاف الهكتارات. جمعت الشركة أكثر من 600 مليون دولار، وأنشأت مصنعاً في سانت لويس، ونالت شهادة B Corp، مع توسيع تجاربها الميدانية في أمريكا الشمالية والبرازيل.",
+      "hq_city": "بيركلي"
+    },
+    "fr": {
+      "name": "Pivot Bio",
+      "country": "États-Unis",
+      "sub_domain": "Microbes d'azote",
+      "short_description": "Des microbes conçus livrent l'azote aux cultures en remplacement des engrais de synthèse.",
+      "technology": "Microbes fixateurs d'azote appliqués au champ",
+      "why_relevant": "Réduit les émissions liées aux engrais grâce à un traitement de semences plug-and-play.",
+      "history": "Fondée en 2010 par les scientifiques Karsten Temme et Alvin Tamsir, Pivot Bio a conçu les premiers microbes fixateurs d'azote commercialisés, qui vivent directement sur les racines de maïs, de sorgho et de blé. Ses produits vedettes N-OVATOR et PROVEN remplacent l'engrais de synthèse sur des centaines de milliers d'hectares. L'entreprise a levé plus de 600 millions de dollars, ouvert une unité de production à St. Louis et obtenu la certification B Corp tout en étendant ses essais en Amérique du Nord et au Brésil.",
+      "hq_city": "Berkeley"
+    }
+  },
+  "taranis": {
+    "ar": {
+      "name": "Taranis",
+      "country": "إسرائيل",
+      "sub_domain": "استكشاف المحاصيل بالذكاء الاصطناعي",
+      "short_description": "استكشاف بالذكاء الاصطناعي عبر طلعات جوية عالية الدقة يكشف الآفات قبل المرشدين الزراعيين.",
+      "technology": "رؤية حاسوبية + كشف على مستوى الورقة",
+      "why_relevant": "دقة على مستوى الورقة تتجاوز تصوير الطائرات المسيّرة وتقود إلى علاج دقيق.",
+      "history": "تأسست عام 2015، وبنَت Taranis منصة ذكاء اصطناعي للزراعة تدمج صور الأقمار الصناعية والطائرات المسيّرة والطائرات فائقة الدقة للكشف عن الآفات والأمراض ونقص العناصر الغذائية ورقةً ورقة. توسّعت الشركة إلى الولايات المتحدة لدعم أسواق محاصيل الصفوف الرئيسية، وجمعت تمويلات نمو من شركاء رأس ماليين مثل Insight Partners. تقدّم اليوم تحليلات على مستوى الحقل لملايين الهكتارات، لتنقل الخبراء الزراعيين من المعاينة التفاعلية إلى تدخل مبكر دقيق.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Taranis",
+      "country": "Israël",
+      "sub_domain": "Dépistage des cultures par IA",
+      "short_description": "Un dépistage par IA à partir de vols haute résolution détecte les ravageurs plus tôt que les agronomes.",
+      "technology": "Vision par ordinateur + détection au niveau de la feuille",
+      "why_relevant": "Un niveau de détail foliaire qui dépasse l'imagerie drone pour aller jusqu'au traitement de précision.",
+      "history": "Lancée en 2015, Taranis a bâti une plateforme de renseignement agricole par IA qui fusionne des images satellite, drone et aériennes à très haute résolution pour détecter ravageurs, maladies et carences feuille par feuille. L'entreprise s'est implantée aux États-Unis, où elle dessert de grandes cultures de rang, et a levé des fonds de croissance auprès de partenaires comme Insight Partners. Taranis fournit aujourd'hui des analyses au niveau de la parcelle sur des millions d'hectares, aidant les agronomes à passer d'un dépistage réactif à une intervention précoce et précise.",
+      "hq_city": "Tel-Aviv"
+    }
+  },
+  "semios": {
+    "ar": {
+      "name": "Semios",
+      "country": "كندا",
+      "sub_domain": "إنترنت الأشياء للبساتين",
+      "short_description": "مراقبة لاسلكية وكشف للحشرات داخل المظلة الخضراء لأشجار الفاكهة.",
+      "technology": "مصائد فرمونية عبر إنترنت الأشياء، عُقد مناخية",
+      "why_relevant": "بيانات مكافحة آفات مستمرة على مدار الساعة للمحاصيل الدائمة.",
+      "history": "تأسست عام 2010، وكانت Semios رائدة المراقبة اللاسلكية للمحاصيل الدائمة، إذ جمعت مستشعرات مناخية في المظلة الخضراء مع مصائد فرمونية تعطّل دورات تكاثر الحشرات وتسجّل المصائد على مدار الساعة. وبدعم من مستثمرين بينهم Morningside، توسّعت إلى آلاف الهكتارات من البساتين وكروم العنب في أمريكا الشمالية والجنوبية وأوروبا. تحوّل منصتها المصائد وقراءات الطقس إلى إنذارات بأمراض المحاصيل وضغط الآفات، ليتدخل المزارعون قبل استقرار الإصابة.",
+      "hq_city": "فانكوفر"
+    },
+    "fr": {
+      "name": "Semios",
+      "country": "Canada",
+      "sub_domain": "IoT vergers",
+      "short_description": "Surveillance sans fil et détection d'insectes dans la canopée pour les arbres fruitiers.",
+      "technology": "Pièges à phéromones IoT, capteurs climatiques",
+      "why_relevant": "Des données de lutte anti-insectes continues pour les cultures pérennes.",
+      "history": "Fondée en 2010, Semios a été pionnière de la surveillance sans fil pour cultures pérennes, en associant capteurs climatiques de canopée et pièges à phéromones qui perturbent les cycles de reproduction des insectes et consignent les captures vingt-quatre heures sur vingt-quatre. Soutenue notamment par Morningside, l'entreprise s'est déployée sur des milliers d'hectares de vergers et de vignobles en Amérique du Nord, en Amérique du Sud et en Europe. Sa plateforme convertit captures et relevés météo en alertes sur les maladies et les pressions, permettant d'intervenir avant l'installation d'une infestation.",
+      "hq_city": "Vancouver"
+    }
+  },
+  "cropx": {
+    "ar": {
+      "name": "CropX",
+      "country": "إسرائيل",
+      "sub_domain": "استشعار التربة",
+      "short_description": "مجسّات ترابية في الأرض مع منصة سحابية تؤتمت قرارات الري.",
+      "technology": "إنترنت أشياء لرطوبة التربة + هندسة زراعية",
+      "why_relevant": "شبكة استشعار لاسلكية عملية اعتمدتها دول عديدة.",
+      "history": "تأسست عام 2014، وطوّرت CropX نظام استشعار ترابي داخل الأرض يجمع بين أجهزة إنترنت الأشياء وهندسة زراعية سحابية لأتمتة قرارات الري. وبعد استحواذها على Tule Technologies عام 2021، توسّعت في إدارة المياه المبنية على التبخّر النتحي. تغطي عملياتها عشرات الدول، وافتتحت الشركة مكتباً في الولايات المتحدة مع دمج بيانات المستشعرات في برامج إدارة المزارع لخفض استهلاك الماء والعناصر الغذائية عبر محاصيل الصفوف والبساتين والمروج.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "CropX",
+      "country": "Israël",
+      "sub_domain": "Capteurs de sol",
+      "short_description": "Capteurs de sol enterrés et cloud qui automatisent les décisions d'irrigation.",
+      "technology": "IoT d'humidité du sol + agronomie",
+      "why_relevant": "Un réseau de capteurs sans fil pragmatique adopté dans de nombreux pays.",
+      "history": "Fondée en 2014, CropX a mis au point un système de capteurs de sol enterrés qui associent du matériel IoT à une agronomie cloud pour automatiser les décisions d'irrigation. Après l'acquisition de Tule Technologies en 2021, elle s'est étendue à la gestion de l'eau basée sur l'évapotranspiration. Ses déploiements couvrent des dizaines de pays et l'entreprise a ouvert un bureau aux États-Unis tout en intégrant les données de capteurs aux logiciels de gestion agricole pour réduire eau et nutriments dans les grandes cultures, les vergers et les gazons.",
+      "hq_city": "Tel-Aviv"
+    }
+  },
+  "sentera": {
+    "ar": {
+      "name": "Sentera",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تحليلات الزراعة بالطائرات المسيّرة",
+      "short_description": "يحوّل صور الطائرات المسيّرة والأقمار الصناعية إلى توصيات زراعية.",
+      "technology": "مستشعرات متعددة الأطياف، ذكاء اصطناعي ميداني",
+      "why_relevant": "حمولات متعددة الأطياف منخفضة الكلفة تُتيح ذكاء الحقل للجميع.",
+      "history": "تأسست عام 2014 في سانت بول بولاية مينيسوتا، وتبني Sentera مستشعرات متعددة الأطياف وحمولات طائرات مسيّرة وبرامج تحليل على مستوى النبتة تحوّل الصور الجوية إلى توصيات زراعية. تتكامل مستشعراتها المضغوطة مع منصات DJI وغيرها، ويخدم نظام FieldAnalyzer شركات البذور والخبراء الزراعيين في التجارب والمراقبة. نُشرت عشرات الآلاف من الوحدات، وتواصل الشركة توسيع مكتباتها للكشف عن الأمراض والحشائش والإنبات.",
+      "hq_city": "سانت بول"
+    },
+    "fr": {
+      "name": "Sentera",
+      "country": "États-Unis",
+      "sub_domain": "Analytique agricole par drone",
+      "short_description": "Transforme les images drone et satellite en recommandations agronomiques.",
+      "technology": "Capteurs multispectraux, IA de terrain",
+      "why_relevant": "Des charges utiles multispectrales bon marché qui démocratisent l'intelligence au champ.",
+      "history": "Fondée en 2014 à St. Paul, dans le Minnesota, Sentera conçoit des capteurs multispectraux, des charges utiles pour drones et des logiciels d'analyse au niveau de la plante, qui transforment l'imagerie aérienne en recommandations agronomiques. Ses capteurs compacts s'intègrent aux plateformes DJI et FieldAnalyzer sert les semenciers et les agronomes dans les essais et le suivi de cultures. Des dizaines de milliers d'unités ont été déployées et l'entreprise élargit en continu ses bibliothèques de détection des maladies, des mauvaises herbes et de la levée.",
+      "hq_city": "Saint Paul"
+    }
+  },
+  "farmwise": {
+    "ar": {
+      "name": "FarmWise",
+      "country": "الولايات المتحدة",
+      "sub_domain": "إزالة الحشائش الذاتية",
+      "short_description": "روبوتات مزوّدة برؤية تقتلع الحشائش بلا مواد كيميائية صفّاً بعد صفّ.",
+      "technology": "رؤية حاسوبية + آلات إزالة ميكانيكية",
+      "why_relevant": "تقلِّص استخدام مبيدات الحشائش في المحاصيل المتخصصة عبر عمالة آلية.",
+      "history": "تأسست عام 2016، وتطوّر FarmWise روبوتات ذاتية التشغيل مزوّدة برؤية تزيل الحشائش ميكانيكياً صفّاً بعد صفّ دون مبيدات. نفّذت آلاتها Titan عقود إزالة حشائش في عشرات آلاف الهكتارات من المحاصيل المتخصصة في كاليفورنيا وأريزونا، وأطلقت الشركة نموذج اشتراك لخدمات الروبوتات. وتركّز على المنتجات الطازجة التي تعاني نقص العمالة، وتواصل صقل نماذج رؤية حاسوبية تميّز المحصول عن الحشيش في الوقت الفعلي.",
+      "hq_city": "ساليناس"
+    },
+    "fr": {
+      "name": "FarmWise",
+      "country": "États-Unis",
+      "sub_domain": "Désherbage autonome",
+      "short_description": "Des robots à vision arrachent les mauvaises herbes sans produits chimiques, rangée par rangée.",
+      "technology": "Vision par ordinateur + désherbeurs mécaniques",
+      "why_relevant": "Réduit l'usage d'herbicides sur les cultures spécialisées grâce à une main-d'œuvre robotique.",
+      "history": "Fondée en 2016, FarmWise développe des robots autonomes à vision qui arrachent mécaniquement les mauvaises herbes, rangée par rangée, sans herbicide. Ses machines Titan ont effectué du désherbage à façon sur des dizaines de milliers d'hectares de cultures spécialisées en Californie et en Arizona, et l'entreprise a lancé un abonnement pour ses services robotiques. Axée sur les fruits et légumes frais à forte contrainte de main-d'œuvre, FarmWise continue d'affiner des modèles de vision qui distinguent en temps réel culture et mauvaise herbe.",
+      "hq_city": "Salinas"
+    }
+  },
+  "verdant-robotics": {
+    "ar": {
+      "name": "Verdant Robotics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "البساتين الذاتية التشغيل",
+      "short_description": "يحوّل الجرارات إلى روبوتات دقيقة للرش والتخفيف في البساتين.",
+      "technology": "تطبيق موضعي دقيق موجَّه بالليزر",
+      "why_relevant": "خفضت المدخلات الكيميائية إلى النصف عبر بيانات معالجة لكل نبتة.",
+      "history": "تأسست عام 2017، وتزوّد Verdant Robotics الجرارات بتقنية رش مصغّر موجّه بالليزر يعالج كل نبتة على حدة. تؤكد منصتها SheerFarming خفض المدخلات الكيميائية بنحو 50% مع توليد بيانات لكل نبتة. جمعت الشركة تمويلاً من الفئة A قادته AgFunder، ووسّعت تجاربها في بساتين وكروم كاليفورنيا، لتجعل التطبيق الآلي الدقيق مساراً نحو إنتاج متخصص أكثر أماناً وقابلية للتتبع.",
+      "hq_city": "هايوارد"
+    },
+    "fr": {
+      "name": "Verdant Robotics",
+      "country": "États-Unis",
+      "sub_domain": "Vergers autonomes",
+      "short_description": "Transforme des tracteurs en robots de précision pour la pulvérisation et l'éclaircissage des vergers.",
+      "technology": "Micro-application guidée par laser",
+      "why_relevant": "A réduit de moitié les intrants chimiques grâce à un traitement individualisé par plante.",
+      "history": "Fondée en 2017, Verdant Robotics équipe des tracteurs d'une technologie de micro-pulvérisation guidée par laser qui traite chaque plante individuellement. Sa plateforme SheerFarming affirme réduire les intrants chimiques de près de 50 % tout en produisant des données par plante. L'entreprise a levé une série A menée par AgFunder et étendu ses essais dans les vergers et vignobles de Californie, positionnant l'application robotisée de précision comme une voie vers une production spécialisée plus sûre et traçable.",
+      "hq_city": "Hayward"
+    }
+  },
+  "naio-technologies": {
+    "ar": {
+      "name": "Naio Technologies",
+      "country": "فرنسا",
+      "sub_domain": "روبوتات إزالة الحشائش",
+      "short_description": "روبوتات كهربائية صغيرة تزيل حشائش الخضروات دون وقود أحفوري.",
+      "technology": "روبوتات تعرّستة ذاتية التشغيل",
+      "why_relevant": "رائد أوروبي في روبوتات إزالة الحشائش بين الصفوف للمزارع العضوية.",
+      "history": "تأسست عام 2011 قرب تولوز، وتصمّم Naio Technologies روبوتات إزالة حشائش كهربائية مدمجة لمحاصيل الخضراوات، ومنها طرازات Dino وOz وTed. وببيع أكثر من 200 وحدة وتركيبها في أوروبا وأمريكا الشمالية، رسّخت الشركة ريادتها في إزالة الحشائش بين الصفوف للزراعة العضوية ومنخفضة المدخلات. جمعت رأس مال للنمو لتوسيع خطوط منتجاتها وتواصل تطوير التعشيب الذاتي للمنتجين المتخصصين.",
+      "hq_city": "إسكلكان"
+    },
+    "fr": {
+      "name": "Naio Technologies",
+      "country": "France",
+      "sub_domain": "Robots de désherbage",
+      "short_description": "De petits robots électriques qui désherbent les légumes sans carburant fossile.",
+      "technology": "Robots de binage autonomes",
+      "why_relevant": "Leader européen du désherbage inter-rang pour les fermes biologiques.",
+      "history": "Fondée en 2011 près de Toulouse, Naio Technologies conçoit des robots de désherbage électriques et compacts pour cultures légumières, dont les modèles Dino, Oz et Ted. Avec plus de 200 unités vendues et installées en Europe et en Amérique du Nord, l'entreprise s'est imposée comme leader du désherbage inter-rang pour l'agriculture biologique et à bas intrants. Elle a levé des capitaux de croissance pour élargir ses gammes et continue de faire progresser le binage autonome destiné aux producteurs spécialisés.",
+      "hq_city": "Escalquens"
+    }
+  },
+  "aigen": {
+    "ar": {
+      "name": "Aigen",
+      "country": "الولايات المتحدة",
+      "sub_domain": "روبوتات إزالة حشائش شمسية",
+      "short_description": "روبوتات ذكاء اصطناعي تعمل بالطاقة الشمسية تزيل حشائش الصفوف دون بطاريات أو مبيدات.",
+      "technology": "استقلالية شمسية، إزالة حشائش ميكانيكية",
+      "why_relevant": "تثبت العمل الميداني المستقل تماماً والخالي من الانبعاثات.",
+      "history": "تأسست عام 2019، وتبني Aigen روبوتات زراعية تعمل بالطاقة الشمسية وذكاء اصطناعي تزيل حشائش صفوف المحاصيل دون بطاريات أو وقود أو مبيدات. يلتقط أسطولها الذاتي الطاقة من ألواح على السطح ويتواصل عبر الأقمار الصناعية. وبعد تجارب ميدانية في شمال غرب الولايات المتحدة وتركيز على المزارع التجديدية، جمعت Aigen تمويلات مبكرة من رأس المال المخاطر وتوسّع روبوتاتها، غالباً بنموذج اشتراك، لدى المزارعين العضويين.",
+      "hq_city": "كيركلاند"
+    },
+    "fr": {
+      "name": "Aigen",
+      "country": "États-Unis",
+      "sub_domain": "Robot de désherbage solaire",
+      "short_description": "Des robots IA alimentés au solaire désherbent les rangées sans batterie ni pesticide.",
+      "technology": "Autonomie solaire, désherbage mécanique",
+      "why_relevant": "Démontre un travail au champ totalement autonome et sans émissions.",
+      "history": "Fondée en 2019, Aigen construit des robots agricoles à énergie solaire et pilotés par IA qui désherbent les rangées sans batterie, sans carburant ni pesticide. Sa flotte autonome capte l'énergie à travers des panneaux de toiture et communique par satellite. Après des essais au champ dans le nord-ouest des États-Unis et une orientation vers les fermes régénératives, Aigen a levé ses premiers fonds de capital-risque et développe, souvent en abonnement, ses robots auprès des producteurs biologiques.",
+      "hq_city": "Kirkland"
+    }
+  },
+  "carbon-robotics": {
+    "ar": {
+      "name": "Carbon Robotics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "إزالة الحشائش بالليزر",
+      "short_description": "آلة LaserWeeder الذاتية تحرق حتى 5,300 حشيشة في الدقيقة.",
+      "technology": "استئصال دقيق للحشائش بالليزر الآلي",
+      "why_relevant": "تقضي على الحشائش دون مواد كيميائية وتوثّق كل معالجة للمزارع.",
+      "history": "تأسست عام 2018، وابتكرت Carbon Robotics آلة LaserWeeder الذاتية التي تستخدم رؤية ذكاء اصطناعي وأشعة ليزر ثاني أكسيد الكربون لإزالة حتى 5,300 حشيشة في الدقيقة دون مواد كيميائية. أضافت الطرازات الأحدث كشفاً بوحدات معالجة الرسوميات GPU وقوة أعلى، وتعمل الوحدات اليوم في أمريكا الشمالية وأوروبا وأستراليا. جمعت الشركة أكثر من 80 مليون دولار لتوسيع التصنيع وتواصل توسيع خط معداتها لمحاصيل الصفوف والمتخصصة.",
+      "hq_city": "سياتل"
+    },
+    "fr": {
+      "name": "Carbon Robotics",
+      "country": "États-Unis",
+      "sub_domain": "Désherbage au laser",
+      "short_description": "Le LaserWeeder autonome brûle jusqu'à 5 300 mauvaises herbes par minute.",
+      "technology": "Élimination micro-ciblée des mauvaises herbes au laser",
+      "why_relevant": "Élimine les mauvaises herbes sans chimie et consigne chaque traitement pour l'exploitant.",
+      "history": "Fondée en 2018, Carbon Robotics a créé le LaserWeeder, une machine autonome qui utilise la vision par IA et des lasers à dioxyde de carbone pour éliminer jusqu'à 5 300 mauvaises herbes par minute, sans produits chimiques. Les modèles récents ajoutent une détection par GPU et une puissance accrue, et des unités opèrent désormais en Amérique du Nord, en Europe et en Australie. L'entreprise a levé plus de 80 millions de dollars pour industrialiser sa production et continue d'étendre sa gamme d'équipements.",
+      "hq_city": "Seattle"
+    }
+  },
+  "blue-river-technology": {
+    "ar": {
+      "name": "Blue River Technology",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الرش الذكي",
+      "short_description": "نظام See & Spray يرصد الحشائش بالرؤية الحاسوبية ويرشها فقط بدل رش الحقل كاملاً.",
+      "technology": "رؤية حاسوبية مدمجة بالمرشّاة",
+      "why_relevant": "استحوذت عليها John Deere لخفض كميات مبيدات الحشائش في محاصيل الصفوف.",
+      "history": "تأسست عام 2011 على يد مهندسين من ستانفورد ومعهد ماساتشوستس للتكنولوجيا، وطوّرت Blue River Technology نظام See & Spray، وهو رؤية حاسوبية تكشف الحشائش في الوقت الفعلي وترشّ النباتات التي تحتاج المعالجة فقط. استحوذت عليها John Deere عام 2017 مقابل 305 ملايين دولار، وأصبحت التقنية اليوم جزءاً من رشاشات إنتاجية تغطي ملايين الهكتارات. تتركّز الأعمال الحالية على نماذج تعلم عميق تخفض حجم مبيدات الحشائش وتحسّن دقة الكشف.",
+      "hq_city": "سانيفيل"
+    },
+    "fr": {
+      "name": "Blue River Technology",
+      "country": "États-Unis",
+      "sub_domain": "Pulvérisation intelligente",
+      "short_description": "See & Spray utilise la vision pour pulvériser uniquement les mauvaises herbes, et non tout le champ.",
+      "technology": "Vision par ordinateur intégrée au pulvérisateur",
+      "why_relevant": "Intégrée à John Deere pour réduire le volume d'herbicides sur les grandes cultures.",
+      "history": "Fondée en 2011 par des ingénieurs issus de Stanford et du MIT, Blue River Technology a développé See & Spray, un système de vision par ordinateur qui détecte les mauvaises herbes en temps réel et ne pulvérise que les plantes qui doivent être traitées. John Deere a racheté l'entreprise en 2017 pour 305 millions de dollars, et la technologie équipe désormais des pulvérisateurs de production couvrant des millions d'hectares. Les travaux actuels portent sur des modèles de deep learning qui réduisent les volumes d'herbicides tout en améliorant la précision de détection.",
+      "hq_city": "Sunnyvale"
+    }
+  },
+  "beyond-meat": {
+    "ar": {
+      "name": "Beyond Meat",
+      "country": "الولايات المتحدة",
+      "sub_domain": "لحوم نباتية",
+      "short_description": "منتج برغر ونقانق نباتية موزَّعة عالمياً.",
+      "technology": "تركيبة بروتين نباتي",
+      "why_relevant": "أدخلت البروتين النباتي إلى تجارة التجزئة العالمية.",
+      "history": "أسّسها إيثان براون عام 2009، وهدف Beyond Meat إلى صنع برغر ونقانق نباتية تضاهي طعم اللحوم الحيوانية وملمسها. وبعد إطلاقها في متاجر التجزئة الأمريكية ومطاعم الوجبات السريعة، أدرجت الشركة في البورصة عام 2019 في واحد من أنجح الطروحات التقنية الغذائية في العقد. ووسّعت توزيعها إلى أكثر من 80 دولة وأنشأت مرافق إنتاج جديدة، مع مواجهة تباطؤ الفئة عبر تعديلات على المنتجات والأسعار.",
+      "hq_city": "إل سغوندو"
+    },
+    "fr": {
+      "name": "Beyond Meat",
+      "country": "États-Unis",
+      "sub_domain": "Viande végétale",
+      "short_description": "Producteur de burgers et saucisses à base de plantes commercialisés dans le monde entier.",
+      "technology": "Formulation de protéines végétales",
+      "why_relevant": "A porté la protéine végétale dans la grande distribution mondiale.",
+      "history": "Fondée en 2009 par Ethan Brown, Beyond Meat a entrepris de créer des burgers et saucisses végétaux imitant le goût et la texture de la viande animale. Après des lancements dans la distribution américaine et la restauration rapide, l'entreprise est entrée en Bourse en 2019, dans l'une des introductions les plus réussies de la décennie pour la food-tech. Elle a étendu sa distribution à plus de 80 pays et construit de nouvelles usines, tout en s'adaptant au ralentissement du segment par des ajustements de produits et de prix.",
+      "hq_city": "El Segundo"
+    }
+  },
+  "impossible-foods": {
+    "ar": {
+      "name": "Impossible Foods",
+      "country": "الولايات المتحدة",
+      "sub_domain": "لحوم نباتية",
+      "short_description": "تعيد إنتاج طعم اللحم عبر الهيم النباتي، وتتواجد اليوم في آلاف المطاعم.",
+      "technology": "بروتين الهيم المُخمَّر",
+      "why_relevant": "الهيم المصنوع بالتخمير يمنح النكهة الغنية للحوم البقر الحقيقية.",
+      "history": "أسّسها عالم الكيمياء الحيوية من ستانفورد باتريك براون عام 2011، وكانت Impossible Foods رائدة في استخدام الهيم المخمّر المشتق من فول الصويا لإعادة ابتكار طعم اللحم. ظهر برغرها Impossible Burger في المطاعم عام 2016 ثم في المتاجر الأمريكية عام 2019. جمعت الشركة أكثر من 1.5 مليار دولار، وأطلقت لحم الخنزير والدجاج المستحضرين، وخفضت تكاليف الإنتاج، وواصلت توسعها الدولي رغم تنافسية السوق النباتية.",
+      "hq_city": "ريدوود سيتي"
+    },
+    "fr": {
+      "name": "Impossible Foods",
+      "country": "États-Unis",
+      "sub_domain": "Viande végétale",
+      "short_description": "Recrée le goût de la viande grâce au hème végétal, présent dans des milliers de restaurants.",
+      "technology": "Hème protéique fermenté",
+      "why_relevant": "Le hème issu de fermentation reproduit la saveur de bœuf de la vraie viande.",
+      "history": "Fondée en 2011 par le biochimiste de Stanford Patrick Brown, Impossible Foods a été pionnière de l'utilisation de légumoglobine de soja fermentée pour recréer le goût de la viande. Son Impossible Burger est apparu en restaurant en 2016 puis dans les supermarchés américains en 2019. L'entreprise a levé plus de 1,5 milliard de dollars, lancé Impossible Pork et Impossible Chicken, réduit ses coûts de production et poursuivi son expansion internationale malgré un marché végétal concurrentiel.",
+      "hq_city": "Redwood City"
+    }
+  },
+  "meati-foods": {
+    "ar": {
+      "name": "Meati Foods",
+      "country": "الولايات المتحدة",
+      "sub_domain": "البروتين الفطري",
+      "short_description": "تستنبت قطعاً كاملة تشبه الشرائح من فطريات جذر المشروم (الميسيليوم).",
+      "technology": "تخمير إلى بروتين قطعة كاملة",
+      "why_relevant": "تنتج الشريحة كاملة لا خليطاً، بملمس ليفي واضح.",
+      "history": "تأسست عام 2016، وتستنبت Meati Foods قطعاً كاملة من البنية الجذرية للفطر (الميسيليوم) عبر عملية تسمّيها تخمير العلوم الزراعية. وبعد سنوات من البحث والتطوير، افتتحت الشركة منشأتها Mega Ranch في بولدر عام 2022 ووضعت منتجاتها في آلاف مواقع البيع بالتجزئة الأمريكية. وهي تتعاون مع مطاعم في أنحاء البلاد وتواصل رفع الإنتاج ليجعلها من لحم جذور الفطر بروتيناً أساسياً.",
+      "hq_city": "بولدر"
+    },
+    "fr": {
+      "name": "Meati Foods",
+      "country": "États-Unis",
+      "sub_domain": "Mycoprotéine",
+      "short_description": "Fait pousser des filets entiers à partir du mycélium racinaire de champignon.",
+      "technology": "Fermentation vers des protéines en coupe entière",
+      "why_relevant": "Fait pousser un « steak » entier et non un mélange, avec une vraie texture fibreuse.",
+      "history": "Fondée en 2016, Meati Foods cultive des filets entiers à partir de la structure racinaire du champignon (mycélium), grâce à un procédé qu'elle nomme fermentation agro-scientifique. Après des années de R&D, l'entreprise a ouvert son usine Mega Ranch à Boulder en 2022 et placé ses produits dans des milliers de points de vente aux États-Unis. Elle s'est associée à des restaurants à travers le pays et continue de monter en échelle pour faire de son steak racinaire une protéine de consommation courante.",
+      "hq_city": "Boulder"
+    }
+  },
+  "nature-s-fynd": {
+    "ar": {
+      "name": "Nature's Fynd",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بروتين ميكروبي",
+      "short_description": "تنتج بروتيناً من كائن دقيق يعيش في ينابيع يلوستون الحارة داخل مزرعة عمودية.",
+      "technology": "تخمير قائم على فطر Fusarium",
+      "why_relevant": "بروتين من تخمير يغذّى بالهواء دون مخاطرة أرض أو طقس.",
+      "history": "بدأت عام 2012 باسم Sustainable Bioproducts، واكتشفت Nature's Fynd كائناً دقيقاً يعيش في ينابيع يلوستون الحارة وحوّلته إلى منصة بروتين يُنتج دون أرض أو مخاطر مناخية. انتقلت الشركة إلى شيكاغو، وجمعت أكثر من 350 مليون دولار، وأطلقت جبنة قابلة للدهن وفطائر دون لحم من تخميرها القائم على Fusarium. وتدير اليوم مزرعة عمودية موجّهة بالهواء وتبيع تحت علامة Fy.",
+      "hq_city": "شيكاغو"
+    },
+    "fr": {
+      "name": "Nature's Fynd",
+      "country": "États-Unis",
+      "sub_domain": "Protéine microbienne",
+      "short_description": "Produit une protéine à partir d'un microbe des sources chaudes de Yellowstone, dans une ferme verticale.",
+      "technology": "Fermentation à base de Fusarium",
+      "why_relevant": "Une protéine issue de fermentation sans sol ni risque météo.",
+      "history": "Créée en 2012 sous le nom de Sustainable Bioproducts, Nature's Fynd a découvert un microbe vivant dans les sources chaudes de Yellowstone et l'a transformé en plateforme de protéines cultivées sans sol ni risque météo. L'entreprise a déménagé à Chicago, levé plus de 350 millions de dollars et lancé un fromage frais et des galettes sans viande issus de sa fermentation à base de Fusarium. Elle exploite aujourd'hui une ferme verticale et commercialise sous la marque Fy.",
+      "hq_city": "Chicago"
+    }
+  },
+  "notco": {
+    "ar": {
+      "name": "NotCo",
+      "country": "تشيلي",
+      "sub_domain": "طعام بالذكاء الاصطناعي",
+      "short_description": "تستخدم الذكاء الاصطناعي لمطابقة نكهات الألبان واللحوم بمكوّنات نباتية.",
+      "technology": "مطابقة المكونات عبر تعلم الآلة Giuseppe",
+      "why_relevant": "الشركة الرائدة في أمريكا اللاتينية للسلع الاستهلاكية الغذائية المعتمدة على الذكاء الاصطناعي.",
+      "history": "تأسست عام 2015 في سانتياغو، وتستخدم NotCo منصة ذكاءها الاصطناعي Giuseppe لمطابقة طعم وملمس الألبان واللحوم بمكونات نباتية حصراً. انتشرت منتجاتها NotMilk وNotMayo وNotBurger في أمريكا اللاتينية ودخلت السوق الأمريكية بدعم استثمارات من جيف بيزوس وآخرين. أصبحت الشركة أول شركة يونيكورن غذائية تقنية في أمريكا اللاتينية وتواصل ترخيص منصة ذكائها الاصطناعي لشركاء في السلع الاستهلاكية.",
+      "hq_city": "سانتياغو"
+    },
+    "fr": {
+      "name": "NotCo",
+      "country": "Chili",
+      "sub_domain": "Alimentation par IA",
+      "short_description": "Utilise l'IA pour retrouver les goûts du lait et de la viande avec des ingrédients végétaux.",
+      "technology": "Appairage d'ingrédients par ML Giuseppe",
+      "why_relevant": "Le fleuron de l'agroalimentaire latino-américain, pionnier de l'IA-first.",
+      "history": "Fondée en 2015 à Santiago, NotCo utilise sa plateforme d'intelligence artificielle, Giuseppe, pour reproduire le goût et la texture du lait et de la viande avec des ingrédients uniquement végétaux. Ses produits NotMilk, NotMayo et NotBurger se sont diffusés en Amérique latine et sont entrés aux États-Unis avec des investissements de Jeff Bezos et d'autres. L'entreprise est devenue la première licorne food-tech d'Amérique latine et continue de concéder sa plateforme IA à des partenaires de grande consommation.",
+      "hq_city": "Santiago du Chili"
+    }
+  },
+  "upside-foods": {
+    "ar": {
+      "name": "Upside Foods",
+      "country": "الولايات المتحدة",
+      "sub_domain": "لحوم مخبرية (مستنبتة)",
+      "short_description": "تنتج الدجاج واللحم البقري من خلايا حيوانية مستنبتة دون ذبح.",
+      "technology": "سقالات زراعة الخلايا",
+      "why_relevant": "من أول شركتين تحصلان على موافقة اللحوم المستنبتة في الولايات المتحدة.",
+      "history": "تأسست عام 2015 باسم Memphis Meats، وتستنبت Upside Foods دجاجاً ولحماً بقرياً وبطاً حقيقيين من خلايا حيوانية دون ذبح. أصبحت في 2022-2023 من أولى الشركات الأمريكية الحاصلة على موافقات FDA وUSDA للحوم المستنبتة، وافتتحت منشأة EPIC في إيميريفيل. وبدعم كبار المستثمرين، تعمل الشركة على رفع الإنتاج لإتاحة اللحوم المستنبتة في المطاعم ثم التجزئة.",
+      "hq_city": "بيركلي"
+    },
+    "fr": {
+      "name": "Upside Foods",
+      "country": "États-Unis",
+      "sub_domain": "Viande cultivée",
+      "short_description": "Produit du poulet et du bœuf à partir de cellules animales cultivées, sans abattage.",
+      "technology": "Échafaudages de culture cellulaire",
+      "why_relevant": "L'une des deux premières autorisations de viande cultivée aux États-Unis.",
+      "history": "Fondée en 2015 sous le nom de Memphis Meats, Upside Foods cultive du vrai poulet, du bœuf et du canard à partir de cellules animales, sans abattage. Elle est devenue en 2022-2023 l'une des premières entreprises américaines à obtenir les autorisations FDA et USDA pour la viande cultivée, et a ouvert son site EPIC à Emeryville. Soutenue par de grands investisseurs, elle travaille à monter en échelle pour proposer la viande cultivée en restaurant puis en grande distribution.",
+      "hq_city": "Berkeley"
+    }
+  },
+  "eat-just": {
+    "ar": {
+      "name": "Eat Just",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أطعمة نباتية ومستنبتة",
+      "short_description": "صانع JUST Egg ولاعب عالمي رائد في اللحوم المستنبتة (Good Meat).",
+      "technology": "بديل بيض من حبوب المونج",
+      "why_relevant": "أول شركة تبيع الدجاج المستنبت تجارياً (سنغافورة).",
+      "history": "أسّسها جوش تيتريك عام 2011، وأطلقت Eat Just منتج JUST Egg، وهو بيض نباتي من بروتين حبوب المونج أصبح من الأكثر مبيعاً في فئة الأطعمة النباتية بالولايات المتحدة. ومن خلال قسمها Good Meat، أصبحت الشركة الأولى التي تبيع دجاجاً مستنبتاً معتمداً تنظيمياً، بدأت بيعه في سنغافورة عام 2020. وتوسّعت عملياتها في اللحوم المستنبتة عبر آسيا وتواصل بناء محفظتها من البروتينات البديلة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Eat Just",
+      "country": "États-Unis",
+      "sub_domain": "Aliments végétaux et cultivés",
+      "short_description": "Fabrique JUST Egg et figure parmi les leaders mondiaux de la viande cultivée (Good Meat).",
+      "technology": "Substitut d'œuf à base de haricot mungo",
+      "why_relevant": "Première entreprise à commercialiser du poulet cultivé (Singapour).",
+      "history": "Fondée en 2011 par Josh Tetrick, Eat Just a lancé JUST Egg, un œuf végétal à base de protéine de haricot mungo devenu un best-seller vegan aux États-Unis. Via sa division Good Meat, l'entreprise a été la première au monde à vendre du poulet cultivé approuvé par les autorités, commercialisé à Singapour en 2020. Elle a étendu ses activités de viande cultivée en Asie et continue de bâtir son portefeuille de protéines alternatives.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "mosa-meat": {
+    "ar": {
+      "name": "Mosa Meat",
+      "country": "هولندا",
+      "sub_domain": "لحوم مخبرية (مستنبتة)",
+      "short_description": "رائدة في لحم البقر المستنبت من خلايا بقريّة حقيقية، بهدف تحقيق تعادل الأسعار.",
+      "technology": "أوساط زراعة خالية من مكونات حيوانية",
+      "why_relevant": "الشركة المنبثقة الأصلية لأول برغر مستنبت من جامعة ماستريخت.",
+      "history": "انبثقت عام 2016 عن جامعة ماستريخت، ونمت Mosa Meat من أول برغر لحم بقري مستنبت في العالم، أعلنه البروفيسور مارك بوست عام 2013. وحسّنت الشركة منذ ذلك الحين الأوساط الغذائية الخالية من مكونات حيوانية لخفض التكاليف، وأعلنت خططاً لتوسيع مرافق الإنتاج في هولندا. وتعمل مع الجهات الرقابية في أوروبا وسنغافورة لإطلاق لحمها البقري المستنبت، مع التركيز على النكهة والاستدامة.",
+      "hq_city": "ماستريخت"
+    },
+    "fr": {
+      "name": "Mosa Meat",
+      "country": "Pays-Bas",
+      "sub_domain": "Viande cultivée",
+      "short_description": "Pionnier du bœuf cultivé à partir de vraies cellules bovines, avec l'objectif de parité de prix.",
+      "technology": "Milieux de culture sans composants animaux",
+      "why_relevant": "La toute première spin-off du burger cultivé, issue de l'Université de Maastricht.",
+      "history": "Issue de l'Université de Maastricht en 2016, Mosa Meat est née du tout premier burger de bœuf cultivé, présenté en 2013 par le professeur Mark Post. L'entreprise a depuis affiné des milieux de culture sans composants animaux pour réduire les coûts et annoncé des plans d'usines de production aux Pays-Bas. Elle travaille avec les régulateurs en Europe et à Singapour pour commercialiser son bœuf cultivé, en privilégiant le goût et la durabilité.",
+      "hq_city": "Maastricht"
+    }
+  },
+  "aleph-farms": {
+    "ar": {
+      "name": "Aleph Farms",
+      "country": "إسرائيل",
+      "sub_domain": "لحوم مخبرية (مستنبتة)",
+      "short_description": "تستنبت شرائح اللحم من خلايا بقريّة غير معدّلة وبدون مضادات حيوية.",
+      "technology": "أنسجة مطبوعة بيولوجياً",
+      "why_relevant": "موافقات في سنغافورة وشراكات لتوسيع نطاق شرائح اللحم المستنبتة.",
+      "history": "أسست عام 2017 وانبثقت عن معهد وايزمان، وتستنبت Aleph Farms شرائح لحم من خلايا بقريّة غير معدّلة. أنجزت أول لحم بقري مستنبت على متن محطة الفضاء الدولية عام 2019، ونالت موافقة تنظيمية في إسرائيل عام 2024، ووقّعت شراكات استراتيجية في سنغافورة وسويسرا. تبني الشركة خطوط إنتاج تجريبية لتوسيع شرائحها الدقيقة نحو الإطلاق التجاري.",
+      "hq_city": "رحوفوت"
+    },
+    "fr": {
+      "name": "Aleph Farms",
+      "country": "Israël",
+      "sub_domain": "Viande cultivée",
+      "short_description": "Fait pousser des steaks à partir de cellules bovines non modifiées, sans antibiotiques.",
+      "technology": "Tissus bio-imprimés",
+      "why_relevant": "Autorisations à Singapour et collaborations pour passer les steaks cultivés à l'échelle.",
+      "history": "Fondée en 2017 et issue du Weizmann Institute, Aleph Farms cultive des steaks à partir de cellules bovines non modifiées. Elle a réalisé en 2019 le premier bœuf cultivé à bord de la Station spatiale internationale, obtenu une autorisation réglementaire en Israël en 2024 et signé des partenariats stratégiques à Singapour et en Suisse. L'entreprise construit des lignes de production pilotes pour lancer à l'échelle commerciale ses steaks en tranches fines.",
+      "hq_city": "Rehovot"
+    }
+  },
+  "brightseed": {
+    "ar": {
+      "name": "Brightseed",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مركبات نباتية بالذكاء الاصطناعي",
+      "short_description": "ترسم خرائط المركبات الكيميائية النباتية بالذكاء الاصطناعي لكشف جزيئات صحية.",
+      "technology": "تعلم آلة لاكتشاف المركبات النباتية",
+      "why_relevant": "تحوّل المملكة النباتية إلى مكتبة قابلة للبحث من جزيئات الشفاء.",
+      "history": "تأسست عام 2017، وتجمع Brightseed بين التعلم الآلي والبيولوجيا عالية الإنتاجية لرسم خرائط المركبات النباتية في المملكة النباتية وكشف جزيئات واعدة للصحة. تتعاون منصتها الذكية Forager مع شركاء زراعيين واستهلاكيين كبار لاكتشاف مركبات جديدة والتحقق منها. جمعت الشركة تمويلات كبيرة من رأس المال المخاطر ودخلت مرحلة الاختبارات السريرية لمكونات تستهدف صحة الأمعاء والتمثيل الغذائي.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Brightseed",
+      "country": "États-Unis",
+      "sub_domain": "Composés végétaux par IA",
+      "short_description": "Cartographie les phyto-composés des plantes grâce à l'IA pour révéler des molécules santé.",
+      "technology": "ML de découverte de phyto-composés",
+      "why_relevant": "Transforme le règne végétal en une bibliothèque interrogeable de molécules bienfaisantes.",
+      "history": "Fondée en 2017, Brightseed associe apprentissage automatique et biologie à haut débit pour cartographier les phyto-composés du règne végétal et révéler des molécules à potentiel santé. Sa plateforme d'IA Forager travaille avec de grands partenaires agricoles et de consommation pour découvrir et valider de nouveaux composés. L'entreprise a levé d'importants financements et s'est engagée dans des tests cliniques d'ingrédients ciblant la santé intestinale et métabolique.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "fermata": {
+    "ar": {
+      "name": "Fermata",
+      "country": "إسرائيل",
+      "sub_domain": "كشف الآفات بالذكاء الاصطناعي",
+      "short_description": "يكشف الآفات والأمراض عبر مصائد افتراضية مبنية على صور المزارعين.",
+      "technology": "رؤية الحشرات + إنذار مبكر",
+      "why_relevant": "يستبدل المصائد اللاصقة بتشخيص استباقي عبر الهاتف الذكي.",
+      "history": "تأسست عام 2017، وطوّرت Fermata برنامج رؤية حاسوبية يحوّل صور المزارعين العادية إلى مصائد افتراضية تكشف الحشرات والأمراض أبكر من الفحص اليدوي. تعمل منصتها DataScoop في البيوت المحمية والبساتين والحقول المفتوحة، ونُشر النظام لدى مزارعين كبار في إسرائيل وأوروبا وأمريكا الشمالية. وتواصل الشركة توسيع مكتبة الحشرات وتحليلات الإنذار المبكر لتغطية مزيد من المحاصيل.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Fermata",
+      "country": "Israël",
+      "sub_domain": "Détection des ravageurs par IA",
+      "short_description": "Détecte ravageurs et maladies par piégeage virtuel à partir des photos des producteurs.",
+      "technology": "Vision insectes + alerte précoce",
+      "why_relevant": "Remplace les pièges collants par un diagnostic préventif sur smartphone.",
+      "history": "Fondée en 2017, Fermata a développé un logiciel de vision par ordinateur qui transforme les photos ordinaires des producteurs en pièges virtuels, détectant insectes et maladies plus tôt qu'un dépistage manuel. Sa plateforme DataScoop fonctionne en serre, en verger et en plein champ, et le système a été déployé chez de grands producteurs en Israël, en Europe et en Amérique du Nord. L'entreprise élargit en continu ses bibliothèques d'insectes et ses alertes précoces à davantage de cultures.",
+      "hq_city": "Tel-Aviv"
+    }
+  },
+  "agroscout": {
+    "ar": {
+      "name": "AgroScout",
+      "country": "إسرائيل",
+      "sub_domain": "مراقبة المحاصيل",
+      "short_description": "صور الطائرات المسيّرة والأقمار الصناعية تكشف أمراض المحاصيل تلقائياً.",
+      "technology": "تحليلات الأمراض عبر الطائرات المسيّرة",
+      "why_relevant": "كشف مبكر للّفحة قبل أن تراها العين المجردة.",
+      "history": "تأسست عام 2016، وتستخدم AgroScout الطائرات المسيّرة والذكاء الاصطناعي لكشف أمراض المحاصيل والآفات والإجهاد الغذائي في البطاطس والطماطم وغيرها قبل أن تتضح الأعراض للعين المجردة. ينبّه برنامجها المزارعين والخبراء الزراعيين، ما يتيح معالجة مستهدفة بدل الرش العشوائي. وسّعت الشركة تجاربها مع تعاونيات في الولايات المتحدة وأوروبا، وتواصل صقل نماذج التعرف الآلي على الأمراض.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "AgroScout",
+      "country": "Israël",
+      "sub_domain": "Suivi des cultures",
+      "short_description": "Des images drone et satellite qui détectent automatiquement les maladies des cultures.",
+      "technology": "Analyse des maladies par drone",
+      "why_relevant": "Détecte la brûlure avant même que l'œil humain ne la voie.",
+      "history": "Fondée en 2016, AgroScout utilise drones et intelligence artificielle pour détecter maladies, ravageurs et stress nutritionnel dans les cultures de pomme de terre, de tomate et d'autres, avant que les symptômes soient visibles à l'œil nu. Son logiciel alerte producteurs et agronomes, permettant un traitement ciblé plutôt qu'une pulvérisation généralisée. L'entreprise a élargi ses essais avec des coopératives aux États-Unis et en Europe et continue d'affiner ses modèles d'identification automatique des maladies.",
+      "hq_city": "Tel-Aviv"
+    }
+  },
+  "plenty": {
+    "ar": {
+      "name": "Plenty",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الزراعة العمودية",
+      "short_description": "مزارع عمودية داخلية تنتج الخضروات الورقية على نطاق مستودعات.",
+      "technology": "هندسة زراعية داخلية محكومة بالذكاء الاصطناعي",
+      "why_relevant": "زراعة عمودية على نطاق حقيقي مع صفقات توزيع مع Walmart.",
+      "history": "تأسست عام 2015، وأعادت Plenty ابتكار الزراعة العمودية كزراعة داخلية محكومة بالذكاء الاصطناعي على نطاق المستودعات، تنبت الخضروات الورقية تحت أبراج إضاءة LED. جمعت الشركة أكثر من 900 مليون دولار من مستثمرين بينهم Walmart، التي تعاونت معها للتوزيع من المزرعة إلى المتجر في كاليفورنيا. افتتحت منشأة جديدة في كومبتون وتواصل توسيع نموذجها عبر الحصاد الآلي والهندسة الزراعية الدقيقة.",
+      "hq_city": "ساوث سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Plenty",
+      "country": "États-Unis",
+      "sub_domain": "Agriculture verticale",
+      "short_description": "Fermes verticales intérieures produisant des légumes-feuilles à l'échelle d'un entrepôt.",
+      "technology": "Agronomie d'intérieur pilotée par IA",
+      "why_relevant": "Agriculture verticale à grande échelle, avec des accords de distribution Walmart.",
+      "history": "Fondée en 2015, Plenty réinvente l'agriculture verticale comme agriculture d'intérieur pilotée par IA à l'échelle d'un entrepôt, cultivant des légumes-feuilles sous des tours à LED. L'entreprise a levé plus de 900 millions de dollars auprès d'investisseurs dont Walmart, avec qui elle s'est associée pour une distribution de la ferme à l'étal en Californie. Elle a ouvert un nouveau site à Compton et continue d'étendre son modèle grâce à la récolte robotisée et à l'agronomie de précision.",
+      "hq_city": "South San Francisco"
+    }
+  },
+  "80-acres-farms": {
+    "ar": {
+      "name": "80 Acres Farms",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الزراعة العمودية",
+      "short_description": "تشغّل مزارع داخلية مؤتمتة بالكامل تنبت الخضروات الورقية خلال 20 يوماً.",
+      "technology": "بيوت محمية روبوتية داخلية",
+      "why_relevant": "زراعة داخلية قائمة على الأتمتة مربحة دون الاعتماد على الشبكة الوطنية.",
+      "history": "تأسست عام 2015 في ولاية أوهايو، وتشغّل 80 Acres Farms مزارع داخلية مؤتمتة بالكامل بمناخ محكوم تنتج الخضروات الورقية والبراعم الدقيقة في نحو 20 يوماً على مدار السنة. تقلّل روبوتاتها وبرمجياتها الخاصة من العمالة والطاقة، ووسّعت الشركة منشآتها في أوهايو وأركنساس، مع بيع منتجاتها لكبرى سلاسل البقالة الأمريكية. وتواصل الاستثمار في تقنية الزراعة في أي مكان لإنتاج غذائي محلي مرن.",
+      "hq_city": "هاميلتون"
+    },
+    "fr": {
+      "name": "80 Acres Farms",
+      "country": "États-Unis",
+      "sub_domain": "Agriculture verticale",
+      "short_description": "Exploite des fermes intérieures entièrement automatisées qui produisent des légumes verts en 20 jours.",
+      "technology": "Serres intérieures robotisées",
+      "why_relevant": "Une agriculture indoor « automation-first » rentable, indépendante du réseau national.",
+      "history": "Fondée en 2015 dans l'Ohio, 80 Acres Farms exploite des fermes intérieures entièrement automatisées et à climat contrôlé qui produisent légumes-feuilles et micro-pousses en une vingtaine de jours toute l'année. Ses robots et son logiciel propriétaire réduisent main-d'œuvre et énergie, et l'entreprise a étendu ses sites dans l'Ohio et l'Arkansas, vendant ses produits aux grandes chaînes américaines. Elle continue d'investir dans une technologie « ferme n'importe où » pour une production alimentaire locale résiliente.",
+      "hq_city": "Hamilton"
+    }
+  },
+  "ohalo": {
+    "ar": {
+      "name": "Ohalo",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تحسين المحاصيل",
+      "short_description": "تحسّن جينات البطاطس والتوت عبر تقنيات استيلاد متسارعة.",
+      "technology": "تحسين وراثي سريع",
+      "why_relevant": "اختصرت دورات استيلاد البطاطس من سنوات إلى موسم نمو واحد.",
+      "history": "أسّسها ديف فريدبرغ، الرئيس التنفيذي السابق لشركة The Climate Corporation، عام 2018، وابتكرت Ohalo تقنية Boosted Breeding التي تختصر دورات استيلاد البطاطس والتوت من سنوات إلى موسم نمو واحد. تتعاون الشركة مع كبار المنتجين الزراعيين لتسويق أصناف محسّنة، وجمعت تمويلات كبيرة لتوسيع منصتها لتشمل محاصيل أساسية ومتخصصة إضافية.",
+      "hq_city": "واتسونفيل"
+    },
+    "fr": {
+      "name": "Ohalo",
+      "country": "États-Unis",
+      "sub_domain": "Amélioration des cultures",
+      "short_description": "Améliore la génétique de la pomme de terre et des baies grâce à une sélection accélérée.",
+      "technology": "Amélioration génétique rapide",
+      "why_relevant": "A ramené les cycles de sélection de la pomme de terre de plusieurs années à une seule saison.",
+      "history": "Fondée en 2018 par Dave Friedberg, ancien PDG de The Climate Corporation, Ohalo a inventé le Boosted Breeding, une technologie d'amélioration génétique accélérée qui ramène les cycles de sélection de la pomme de terre et des baies de plusieurs années à une seule saison. L'entreprise s'associe à de grands producteurs agricoles pour commercialiser des variétés améliorées et a levé des fonds importants pour étendre sa plateforme à d'autres cultures de base et spécialisées.",
+      "hq_city": "Watsonville"
+    }
+  },
+  "pairwise": {
+    "ar": {
+      "name": "Pairwise",
+      "country": "الولايات المتحدة",
+      "sub_domain": "محاصيل معدّلة جينياً",
+      "short_description": "تعدّل جينات المحاصيل اليومية لتحسين النكهة باستخدام CRISPR.",
+      "technology": "هندسة الصفات بتقنية CRISPR",
+      "why_relevant": "تطلق أول أصناف سلطة وتوت معدّلة جينياً بطعم محسّن.",
+      "history": "انبثقت Pairwise عن Broad Institute، وتطبّق تحرير الجينات بتقنية CRISPR على الفواكه والخضراوات اليومية لتحسين النكهة والتغذية وسهولة الاستخدام. وصل أول منتج استهلاكي لها، كرز أسود دون نوى يُباع تحت علامة Conscious Foods، إلى رفوف المتاجر عام 2023، وتطوّر الشركة مع شركاء زراعيين أنواع توت وخضراوات وصفات محاصيل حقلية معدّلة جينياً.",
+      "hq_city": "دورهام"
+    },
+    "fr": {
+      "name": "Pairwise",
+      "country": "États-Unis",
+      "sub_domain": "Cultures éditées génétiquement",
+      "short_description": "Édite génétiquement des cultures courantes pour améliorer leur goût grâce à CRISPR.",
+      "technology": "Ingénierie de traits CRISPR",
+      "why_relevant": "Lance les premières salades et baies éditées génétiquement au goût amélioré.",
+      "history": "Issue d'un spin-off du Broad Institute, Pairwise applique l'édition génétique CRISPR à des fruits et légumes du quotidien pour améliorer goût, nutrition et praticité. Son premier produit grand public, une cerise noire sans noyau vendue sous la marque Conscious Foods, est arrivé dans les rayons en 2023, et l'entreprise développe avec des partenaires agricoles des baies, salades et traits pour grandes cultures édités génétiquement.",
+      "hq_city": "Durham"
+    }
+  },
+  "tropic-biosciences": {
+    "ar": {
+      "name": "Tropic Biosciences",
+      "country": "المملكة المتحدة",
+      "sub_domain": "محاصيل استوائية معدّلة جينياً",
+      "short_description": "تطوّر موزاً وبنّاً مقاومين للأمراض عبر التعديل الجيني.",
+      "technology": "منصة جينوم استوائي معدّل",
+      "why_relevant": "تحكم مسار تعديل الموز لمكافحة مرض بنما لصالح صغار المزارعين.",
+      "history": "تأسست عام 2012 في Norwich Research Park، وتستخدم Tropic Biosciences تحرير الجينوم وتقنية تداخل الحمض النووي الريبي RNAi لتطوير موز وبنّ مقاومين للأمراض. يستهدف برنامجها للموز مرض بنما، فيما تشمل أعمال القهوة أصنافاً منزوعة الكافيين طبيعياً. جمعت الشركة أكثر من 100 مليون دولار لتوسيع منصتها للمحاصيل الاستوائية، وتعمل مع المزارعين والجهات الرقابية في آسيا وأفريقيا وأمريكا اللاتينية.",
+      "hq_city": "نورويتش"
+    },
+    "fr": {
+      "name": "Tropic Biosciences",
+      "country": "Royaume-Uni",
+      "sub_domain": "Cultures tropicales éditées",
+      "short_description": "Développe des bananes et des cafés résistants aux maladies grâce à l'édition génétique.",
+      "technology": "Plateforme de génome tropical édité",
+      "why_relevant": "Pilote la chaîne d'édition de la banane contre la maladie de Panama, au service des petits producteurs.",
+      "history": "Fondée en 2012 sur le Norwich Research Park, Tropic Biosciences utilise l'édition du génome et l'ARN interférent pour développer des bananes et des cafés résistants aux maladies. Son programme banane cible la maladie de Panama, tandis que ses travaux sur le café incluent des variétés naturellement décaféinées. L'entreprise a levé plus de 100 millions de dollars pour passer sa plateforme pour cultures tropicales à l'échelle et travaille avec producteurs et régulateurs en Asie, en Afrique et en Amérique latine.",
+      "hq_city": "Norwich"
+    }
+  },
+  "sound-agriculture": {
+    "ar": {
+      "name": "Sound Agriculture",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مدخلات نباتية",
+      "short_description": "منتجات بيولوجية تحفّز النباتات على تثبيت النيتروجين بنفسها.",
+      "technology": "كيمياء الإشارات النباتية",
+      "why_relevant": "تعيد نصف تغذية الحقل بالنيتروجين إلى الحلقة البيولوجية.",
+      "history": "تأسست عام 2013، وتطوّر Sound Agriculture منتجات بيولوجية تحفّز، عبر كيمياء إشارات النبات، محاصيل مثل الذرة والقمح على الاستفادة من النيتروجين والفوسفور بشكل أفضل. خضع منتجها Source لتجارب ميدانية في مئات آلاف الهكتارات، وتوسّعت الشركة إلى حلول صحة النبات للمحاصيل المتخصصة. وبدعم تمويل من بينه Syngenta Ventures، تواصل تسويق مدخلات تجديدية.",
+      "hq_city": "إيميريفيل"
+    },
+    "fr": {
+      "name": "Sound Agriculture",
+      "country": "États-Unis",
+      "sub_domain": "Intrants pour plantes",
+      "short_description": "Des produits biologiques qui incitent les plantes à fixer leur propre azote.",
+      "technology": "Chimie de signalisation végétale",
+      "why_relevant": "Remet la moitié de l'apport azoté des fermes dans le cycle biologique.",
+      "history": "Fondée en 2013, Sound Agriculture développe des produits biologiques qui, par chimie de signalisation végétale, incitent des cultures comme le maïs et le blé à mieux mobiliser azote et phosphore. Son produit Source a été testé sur des centaines de milliers d'hectares et l'entreprise s'est étendue aux solutions de santé des plantes pour cultures spécialisées. Soutenue notamment par Syngenta Ventures, elle continue de commercialiser des intrants régénératifs.",
+      "hq_city": "Emeryville"
+    }
+  },
+  "agbiome": {
+    "ar": {
+      "name": "AgBiome",
+      "country": "الولايات المتحدة",
+      "sub_domain": "حماية المحاصيل البيولوجية",
+      "short_description": "يفحص الميكروبات للعثور على سلالات نافعة تحل محل المبيدات الكيميائية.",
+      "technology": "فحص صفات الميكروبيوم",
+      "why_relevant": "ربط اكتشاف الميكروبيوم بمنتجات زراعية حقيقية.",
+      "history": "تأسست عام 2012 في منطقة Triangle البحثية بولاية كارولاينا الشمالية، وأسّست AgBiome واحدة من أكبر المكتبات الميكروبية عالمياً لفحص سلالات نافعة تحل محل المبيدات الكيميائية. أُطلق أول منتجاتها، Howler، كمبيد فطري حيوي، تلته منتجات بيولوجية أخرى. تتعاون الشركة مع كبار شركات الكيماويات الزراعية لترخيص اكتشافاتها، وتواصل توسيع خط أنابيب اكتشاف الميكروبيوم.",
+      "hq_city": "دورهام"
+    },
+    "fr": {
+      "name": "AgBiome",
+      "country": "États-Unis",
+      "sub_domain": "Protection biologique des cultures",
+      "short_description": "Analyse les microbes pour trouver des souches amies qui remplacent les pesticides chimiques.",
+      "technology": "Criblage de traits du microbiome",
+      "why_relevant": "A relié la découverte du microbiome à de vrais produits agricoles commerciaux.",
+      "history": "Fondée en 2012 dans le Research Triangle de Caroline du Nord, AgBiome a constitué l'une des plus grandes bibliothèques microbiennes au monde pour cribler les souches bénéfiques qui remplacent les pesticides chimiques. Son premier produit, Howler, a été lancé comme biofongicide, suivi d'autres produits biologiques. L'entreprise travaille avec de grands groupes agrochimiques pour licencier ses découvertes et élargit sans cesse son pipeline de découverte du microbiome.",
+      "hq_city": "Durham"
+    }
+  },
+  "locus-agricultural-solutions": {
+    "ar": {
+      "name": "Locus Agricultural Solutions",
+      "country": "الولايات المتحدة",
+      "sub_domain": "طلاء جذري ميكروبي",
+      "short_description": "تطبّق ميكروبات حول الجذور تعزّز النيتروجين والإنتاجية.",
+      "technology": "طلاءات جذرية متعددة الميكروبات",
+      "why_relevant": "مراكز جذرية ميكروبية أظهرت تحسناً في الغلة والكربون عبر المحاصيل.",
+      "history": "تأسست عام 2014، وتطبّق Locus Agricultural Solutions ميكروبات جذرية تشكّل مجتمعات نافعة على الجذور تحسّن استخدام النيتروجين والغلة وكربون التربة. تشمل منتجاتها Rhizolizer Duo وCarbonNOW، وهو برنامج كربون موثّق يغطي ملايين الهكتارات. تعمل الشركة مع المزارعين وعلامات الأغذية لمكافأة الممارسات التجديدية وتواصل توسيع محفظتها من المنتجات البيولوجية.",
+      "hq_city": "سولون"
+    },
+    "fr": {
+      "name": "Locus Agricultural Solutions",
+      "country": "États-Unis",
+      "sub_domain": "Enrobage microbien des racines",
+      "short_description": "Applique des microbes de rhizosphère qui dopent l'azote et le rendement.",
+      "technology": "Enrobages racinaires multi-microbes",
+      "why_relevant": "Des hubs racinaires microbiens qui améliorent rendement et carbone dans les cultures.",
+      "history": "Fondée en 2014, Locus Agricultural Solutions applique des microbes racinaires qui forment des communautés bénéfiques sur les racines, améliorant l'utilisation de l'azote, le rendement et le carbone du sol. Ses produits incluent Rhizolizer Duo et CarbonNOW, un programme de carbone vérifié couvrant des millions d'hectares. L'entreprise travaille avec producteurs et marques agroalimentaires pour valoriser les pratiques régénératives et continue d'élargir son portefeuille de produits biologiques.",
+      "hq_city": "Solon"
+    }
+  }
+}

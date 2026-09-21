@@ -63,6 +63,31 @@ export default async function StartupPage({
     ...(startup.teamName ? [{ label: t('teamLabel'), value: startup.teamName }] : [])
   ];
 
+  const metaLine = [
+    ...(startup.hqCity ? [startup.hqCity] : []),
+    startup.country,
+    ...(year ? [year] : [])
+  ].join(', ');
+
+  const lat =
+    typeof startup.latitude === 'number' && Number.isFinite(startup.latitude)
+      ? startup.latitude
+      : NaN;
+  const lng =
+    typeof startup.longitude === 'number' && Number.isFinite(startup.longitude)
+      ? startup.longitude
+      : NaN;
+  const hasMap = Number.isFinite(lat) && Number.isFinite(lng);
+  const bbox = hasMap
+    ? `${lng - 0.012},${lat - 0.012},${lng + 0.012},${lat + 0.012}`
+    : '';
+  const mapSrc = hasMap
+    ? `https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat},${lng}`
+    : '';
+  const mapLink = hasMap
+    ? `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lng}#map=13/${lat}/${lng}`
+    : '';
+
   return (
     <section className="mx-auto max-w-4xl px-4 pb-16 pt-10 sm:px-6">
       <nav
@@ -108,10 +133,7 @@ export default async function StartupPage({
             <span className="sr-only">{priorityT(startup.priority)}</span>
           </span>
         </div>
-        <p className="mt-2 text-sm text-ink/60">
-          {startup.country}
-          {year ? `, ${year}` : ''}
-        </p>
+        <p className="mt-2 text-sm text-ink/60">{metaLine}</p>
       </header>
 
       <p className="mt-6 max-w-2xl text-base leading-[26px] text-ink/80">
@@ -142,6 +164,37 @@ export default async function StartupPage({
         <h2 className="text-sm font-medium text-ink">{t('whyRelevantLabel')}</h2>
         <p className="mt-2 text-base leading-[26px] text-ink/80">{startup.whyRelevant}</p>
       </div>
+
+      {startup.history && (
+        <div className="mt-10 max-w-2xl">
+          <h2 className="text-sm font-medium text-ink">{t('historyLabel')}</h2>
+          <p className="mt-2 text-base leading-[26px] text-ink/80">{startup.history}</p>
+        </div>
+      )}
+
+      {hasMap && (
+        <div className="mt-10 max-w-2xl">
+          <h2 className="text-sm font-medium text-ink">
+            {t('locationLabel')}
+            {startup.hqCity ? `: ${startup.hqCity}` : ''}
+          </h2>
+          <iframe
+            title={`${startup.name} — ${t('locationLabel')}`}
+            src={mapSrc}
+            loading="lazy"
+            className="mt-3 h-72 w-full rounded-xl border border-line/40 bg-surface/40"
+          />
+          <a
+            href={mapLink}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-3 inline-flex items-center gap-1.5 text-sm text-signal underline underline-offset-2 hover:text-ink"
+          >
+            {t('viewMapLabel')}
+            <ExternalLink size={14} aria-hidden />
+          </a>
+        </div>
+      )}
 
       {(startup.officialSite || startup.sourceUrl) && (
         <div className="mt-10 flex max-w-2xl flex-wrap gap-6 pt-6 text-sm">

@@ -63,6 +63,7 @@ export function StartupRow({
 
       <span className="mt-auto flex min-w-0 items-center gap-2 text-sm leading-5 text-ink/60">
         <span className="min-w-0 truncate">
+          {startup.hqCity ? `${startup.hqCity}, ` : ''}
           {startup.country}
           {startup.yearFounded > 0 ? `, ${startup.yearFounded}` : ''}
         </span>

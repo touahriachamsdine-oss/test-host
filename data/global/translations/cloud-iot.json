@@ -1,0 +1,684 @@
+{
+  "coreweave": {
+    "ar": {
+      "name": "CoreWeave",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سحابة GPU",
+      "short_description": "السحابة التخصصية التي تغذّي مجموعاتها من معالجات GPU قدراً كبيراً من تدريب الذكاء الاصطناعي.",
+      "technology": "سحابة GPU على Kubernetes",
+      "why_relevant": "أثبتت أن سحابة الذكاء الاصطناعي التخصصية تتفوق على العامة في السعر والسرعة.",
+      "history": "تأسست CoreWeave عام 2017 كعملية لتعدين العملات الرقمية، قبل أن يتحول مؤسسوها مايكل إنتراتر وبرايان فينتورو وبرانين ماكبي إلى خدمات سحابية متخصصة في معالجات GPU للذكاء الاصطناعي. وتوسعت الشركة بسرعة عبر نشر مراكز بيانات مخصصة، وأبرمت عام 2023 صفقة ضخمة بمليارات الدولارات مع مايكروسوفت، وجمعت مليارات من حقوق الملكية والديون. وأدرجت أسهمها في بورصة ناسداك مطلع عام 2025، لترسخ مكانتها بوصفها مورداً رائداً للبنية التحتية للذكاء الاصطناعي.",
+      "hq_city": "روزلاند، نيو جيرسي"
+    },
+    "fr": {
+      "name": "CoreWeave",
+      "country": "États-Unis",
+      "sub_domain": "Cloud GPU",
+      "short_description": "La cloud spécialisée dont les clusters GPU alimentent une grande partie de l'entraînement de l'IA.",
+      "technology": "Cloud GPU Kubernetes",
+      "why_relevant": "A prouvé qu'une cloud IA spécialisée bat les généralistes sur le prix et la vitesse.",
+      "history": "Fondée en 2017, CoreWeave a commencé comme une opération de minage de cryptomonnaie avant que ses fondateurs Michael Intrator, Brian Venturo et Brannin McBee ne se tournent vers des services cloud GPU spécialisés pour l'IA. L'entreprise s'est développée rapidement en déployant des centres de données dédiés, a signé un accord historique de plusieurs milliards de dollars avec Microsoft en 2023 et a levé des milliards en capitaux et en dette. Elle est entrée en bourse sur le Nasdaq début 2025, s'imposant comme un acteur majeur de l'infrastructure IA.",
+      "hq_city": "Roseland, New Jersey"
+    }
+  },
+  "lambda-labs": {
+    "ar": {
+      "name": "Lambda Labs",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سحابة GPU",
+      "short_description": "سحابة GPU للاستئجار إلى جانب أعمال محطات عمل تخدم مطوري الذكاء الاصطناعي.",
+      "technology": "مجموعات GPU مثبتة",
+      "why_relevant": "جعلت سعة 4090 داخل رفّ واحد في متناول الفرق الصغيرة.",
+      "history": "تأسست Lambda عام 2012 على يد ستيفن بالابان كشركة ناشئة تركز على الذكاء الاصطناعي، ثم تحولت نحو البنية التحتية لمعالجات GPU. وطوّرت الشركة أحد أوائل عروض مجموعات GPU القابلة للتشغيل بنقرة واحدة، مما جعل سعة رف واحد من طراز 4090 في متناول الفرق الصغيرة، وأطلقت لاحقاً سحابة GPU خاصة لتدريب نماذج الذكاء الاصطناعي. وتمتلك Lambda اليوم مئات الملايين من الدولارات من التمويل الاستثماري، وتوفر معالجات GPU عالية الأداء للشركات الناشئة والشركات حول العالم.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Lambda Labs",
+      "country": "États-Unis",
+      "sub_domain": "Cloud GPU",
+      "short_description": "Cloud GPU à louer, plus une activité de stations de travail pour développeurs IA.",
+      "technology": "Clusters GPU montés",
+      "why_relevant": "A rendu la capacité 4090 d'un seul rack accessible aux petites équipes.",
+      "history": "Lambda a été fondée en 2012 par Stephen Balaban comme une startup axée sur l'IA avant de pivoter vers l'infrastructure GPU. L'entreprise a développé l'une des premières offres de clusters GPU à un clic, rendant la capacité 4090 d'un seul rack accessible aux petites équipes, puis a lancé sa propre cloud GPU pour l'entraînement IA. Forte de centaines de millions de dollars de financement, Lambda fournit aujourd'hui des GPU haut de gamme aux startups et aux entreprises du monde entier.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "vast-data": {
+    "ar": {
+      "name": "VAST Data",
+      "country": "الولايات المتحدة",
+      "sub_domain": "منصة بيانات الذكاء الاصطناعي",
+      "short_description": "منصة بيانات موحّدة تحتفظ ببيانات الذكاء الاصطناعي دون تكاليف التخزين المتدرج.",
+      "technology": "تخزين قائم على المشاركة الشاملة",
+      "why_relevant": "ألغت التسلسل الهرمي للتخزين في مراكز البيانات الموجهة للذكاء الاصطناعي أولاً.",
+      "history": "تأسست VAST Data عام 2016 على يد رينن هالاك وجيف دنوورث والون هوريف، وصممت منصات التخزين الكلي القائم على الوميض دون تسلسل هرمي، وأطلقتها تجارياً عام 2019. لقد ألغت بنيتها التخزينية العالمية تكاليف التخزين المتدرج التقليدي، وجذبت عملاء كباراً من مجال الذكاء الاصطناعي والمؤسسات. وبعد جولة تمويلية من الفئة D عام 2023 قيّمت الشركة بنحو 3.7 مليار دولار، تواصل VAST توسيع منصة بياناتها لمراكز البيانات الموجهة لمعالجات GPU وأعباء عمل الذكاء الاصطناعي.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "VAST Data",
+      "country": "États-Unis",
+      "sub_domain": "Plateforme de données IA",
+      "short_description": "Plateforme de données universelle qui conserve les données IA sans coûts de hiérarchie de stockage.",
+      "technology": "Stockage partagé universel",
+      "why_relevant": "A supprimé la hiérarchie de stockage pour les datacenters pensés GPU-first.",
+      "history": "Fondée en 2016 par Renen Hallak, Jeff Denworth et Alon Horev, VAST Data a conçu ses premières plateformes de stockage all-flash sans hiérarchie et les a commercialisées en 2019. Son architecture de stockage universel a supprimé les coûts des hiérarchies traditionnelles, attirant de grands clients IA et entreprises. Après une Série D en 2023 valorisant l'entreprise à 3,7 milliards de dollars, VAST continue d'étendre sa plateforme de données pour les datacenters GPU-first et les workloads IA.",
+      "hq_city": "New York"
+    }
+  },
+  "minio": {
+    "ar": {
+      "name": "MinIO",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تخزين الكائنات",
+      "short_description": "يشغّل مخزن كائنات متوافقاً مع S3 على نطاق البيتابايت، ومفتوح المصدر.",
+      "technology": "تخزين كائنات موزّع",
+      "why_relevant": "البوابة الافتراضية إلى S3 التي تُبقي بيانات الشركات محلية وسيادية.",
+      "history": "تأسست MinIO عام 2014 على يد أناند بابو بيرهياسامي وغاريما كابور لبناء تخزين كائنات مفتوح المصدر ومتوافق مع S3. مكّنت بنيتها الموزّعة الشركات من تخزين البيتابايتات على عتاد قياسي، فأصبحت البوابة الافتراضية للبيانات المحلية والسيادية. وفي عام 2022 بلغت الشركة مرتبة الشركات المليارديرية بعد جولة تمويل من الفئة B بقيمة 103 ملايين دولار بقيادة Intel Capital، وتواصل الهيمنة على تخزين الكائنات الهجين للذكاء الاصطناعي والتحليلات.",
+      "hq_city": "بالو ألتو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "MinIO",
+      "country": "États-Unis",
+      "sub_domain": "Stockage d'objets",
+      "short_description": "Un stockage d'objets compatible S3, open-source et à l'échelle du pétaoctet.",
+      "technology": "Stockage d'objets distribué",
+      "why_relevant": "La passerelle S3 par défaut qui garde les données des entreprises sur site et souveraines.",
+      "history": "MinIO a été fondée en 2014 par Anand Babu Periasamy et Garima Kapoor pour construire un stockage d'objets compatible S3 et open-source. Son architecture distribuée a permis aux entreprises de stocker des pétaoctets sur du matériel standard, devenant la passerelle par défaut pour les données sur site et souveraines. En 2022, l'entreprise est devenue une licorne lors d'une Série B de 103 millions de dollars menée par Intel Capital, et elle continue de dominer le stockage d'objets hybride pour l'IA et l'analytics.",
+      "hq_city": "Palo Alto, Californie"
+    }
+  },
+  "supabase": {
+    "ar": {
+      "name": "Supabase",
+      "country": "الولايات المتحدة",
+      "sub_domain": "خلفية مفتوحة المصدر",
+      "short_description": "خلفية مفتوحة المصدر مبنية على Postgres مع مصادقة وبيانات لحظية وتخزين.",
+      "technology": "BaaS على Postgres",
+      "why_relevant": "حرّرت مطوري التطبيقات من قيود أطر السحابة عبر Postgres مفتوح.",
+      "history": "تأسست Supabase عام 2020 على يد بول كوبلستون وأنت ويلسون كبديل مفتوح المصدر لـ Firebase مبني على Postgres، وتم إطلاقها ضمن دفعة صيف 2020 من Y Combinator. سرعان ما انتشرت المنصة بفضل قاعدة بياناتها المُدارة ومصادقتها وواجهاتها اللحظية. وبعد جولة تمويل من الفئة B بقيمة 80 مليون دولار عام 2022، أصبحت واحدة من أكثر الحلول الخلفية مفتوحة المصدر انتشاراً، إذ تغذي مئات الآلاف من المشاريع.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Supabase",
+      "country": "États-Unis",
+      "sub_domain": "Backend open-source",
+      "short_description": "Backend open-source basé sur Postgres avec authentification, temps réel et stockage.",
+      "technology": "BaaS sur Postgres",
+      "why_relevant": "A libéré les développeurs d'apps du verrouillage cloud grâce à un Postgres ouvert.",
+      "history": "Supabase a été fondée en 2020 par Paul Copplestone et Ant Wilson comme alternative open-source à Firebase, construite sur Postgres, et lancée au sein de la promotion été 2020 de Y Combinator. La plateforme est rapidement devenue populaire grâce à sa base de données managée, son authentification et ses APIs temps réel. Après une Série B de 80 millions de dollars en 2022, elle est devenue l'un des backends open-source les plus déployés, alimentant des centaines de milliers de projets.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "render": {
+    "ar": {
+      "name": "Render",
+      "country": "الولايات المتحدة",
+      "sub_domain": "استضافة سحابية",
+      "short_description": "انشر التطبيقات وقواعد البيانات بنقرة واحدة مع توسّع تلقائي.",
+      "technology": "PaaS + قواعد بيانات مُدارة",
+      "why_relevant": "سطح النشر الخالي من الاحتكاك الذي تطلق عليه آلاف الشركات الناشئة مشاريعها الأولى.",
+      "history": "أسس أنوراج غويل منصة Render التي ظهرت لأول مرة في مسابقة Battlefield ضمن مؤتمر TechCrunch Disrupt عام 2019، لتصبح منصة برمجيات كخدمة مستقلة رائدة. بسّطت المنصة النشر عبر التوسّع التلقائي وشهادات TLS وشبكة توصيل المحتوى وقواعد البيانات المُدارة، فجذبت آلاف الشركات الناشئة وشركات الذكاء الاصطناعي. وبعد فترة من التمويل الذاتي ثم الدعم الاستثماري، جمعت Render جولة من الفئة C بقيمة 100 مليون دولار مطلع 2026 لتصل قيمتها إلى 1.5 مليار دولار، مترسخةً كبديل أبسط عن سحب مقدمي الخدمات الكبار.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Render",
+      "country": "États-Unis",
+      "sub_domain": "Hébergement cloud",
+      "short_description": "Déployez apps et bases de données en un clic, avec une mise à l'échelle automatique.",
+      "technology": "PaaS + bases de données managées",
+      "why_relevant": "La surface de déploiement sans friction sur laquelle des milliers de startups lancent leurs premiers projets.",
+      "history": "Créée par Anurag Goel, Render a fait ses débuts au Battlefield de TechCrunch Disrupt en 2019 et s'est imposée comme une plateforme-as-a-service indépendante de premier plan. Elle a simplifié le déploiement grâce à la mise à l'échelle automatique, aux certificats TLS, à un CDN mondial et aux bases de données managées, attirant des milliers de startups et d'entreprises IA. D'abord autofinancée puis soutenue par le capital-risque, Render a levé 100 millions de dollars en Série C début 2026 pour une valorisation de 1,5 milliard, s'imposant comme une alternative plus simple aux hyperscalers.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "fly-io": {
+    "ar": {
+      "name": "Fly.io",
+      "country": "الولايات المتحدة",
+      "sub_domain": "حاويات الحافة",
+      "short_description": "يشغّل الحاويات قرب المستخدمين عبر مناطق الحافة حول العالم.",
+      "technology": "حاويات كخدمة على مستوى العالم",
+      "why_relevant": "حوّل أي Dockerfile إلى تطبيق موزّع.",
+      "history": "تأسست Fly.io عام 2017 على يد كيرت ماكي لجعل تشغيل الحاويات قرب المستخدمين في مناطق موزّعة حول العالم أمراً سهلاً. لفتت المنصة الأنظار بوصفها خدمة حاويات عامة مبنية حول مناطق الحافة، وازدادت شعبيتها لدى مطوري التطبيقات اللحظية ومن يستضيفون مثيلات Mastodon على نطاق واسع. ورغم تمويلها المتواضع، تبقى المنصة خياراً مفضلاً لدى الفرق الباحثة عن أعباء عمل موزّعة بزمن استجابة منخفض.",
+      "hq_city": "شيكاغو، إلينوي"
+    },
+    "fr": {
+      "name": "Fly.io",
+      "country": "États-Unis",
+      "sub_domain": "Conteneurs edge",
+      "short_description": "Exécute des conteneurs au plus près des utilisateurs, partout dans le monde.",
+      "technology": "Conteneurs-as-a-service mondiaux",
+      "why_relevant": "A transformé n'importe quel Dockerfile en application distribuée.",
+      "history": "Fly.io a été fondée en 2017 par Kurt Mackey pour rendre l'exécution de conteneurs au plus près des utilisateurs, dans des régions réparties dans le monde entier, d'une grande simplicité. La plateforme s'est fait remarquer comme un service générique de conteneurs orienté edge et a gagné en popularité auprès des développeurs d'applications temps réel, notamment pour l'hébergement d'instances Mastodon à grande échelle. Soutenue par un financement modeste et une forte communauté, elle reste un terrain de jeu prisé pour les workloads distribués à faible latence.",
+      "hq_city": "Chicago, Illinois"
+    }
+  },
+  "railway": {
+    "ar": {
+      "name": "Railway",
+      "country": "الولايات المتحدة",
+      "sub_domain": "نشر",
+      "short_description": "انشر أي شيء فوراً مع بنية تحتية تعمل كما ينبغي.",
+      "technology": "PaaS فوري",
+      "why_relevant": "اختصر شهراً من الإعداد في دفعة git واحدة.",
+      "history": "تأسست Railway عام 2020 على يد جايك كوبر وبين آشير، ضمن دفعة صيف 2020 من Y Combinator. وعدت المنصة بنشر أي شيء من مستودع GitHub فوراً، فاختصرت أسابيع من تهيئة البنية التحتية. وتحولت بسرعة إلى بديل حديث عن منصات PaaS القديمة، وجمعت عشرات الملايين من الدولارات، منها جولة من الفئة B مطلع عام 2026. وتخدم اليوم مطورين وفرقاً حول العالم بوصفها منصة سحابية متكاملة.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Railway",
+      "country": "États-Unis",
+      "sub_domain": "Déploiement",
+      "short_description": "Déployez n'importe quoi instantanément, avec une infra qui fonctionne tout simplement.",
+      "technology": "PaaS instantané",
+      "why_relevant": "A compressé un mois de configuration en un seul git push.",
+      "history": "Railway a été fondée en 2020 par Jake Cooper et Ben Asher, dans la promotion été 2020 de Y Combinator. La plateforme promettait le déploiement instantané de n'importe quel dépôt GitHub, éliminant des semaines de configuration d'infrastructure. Elle est devenue rapidement une alternative moderne aux PaaS historiques, levant des dizaines de millions de dollars, dont une Série B début 2026. Elle sert aujourd'hui des développeurs du monde entier comme plateforme cloud tout-en-un.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "neon": {
+    "ar": {
+      "name": "Neon",
+      "country": "الولايات المتحدة",
+      "sub_domain": "Postgres بدون خادم",
+      "short_description": "Postgres يتقلّص إلى الصفر مع تفرّع يدعم أعباء عمل المطورين.",
+      "technology": "فصل التخزين عن الحوسبة",
+      "why_relevant": "يفرّع قواعد البيانات كفروع الكود، مثالي للتطبيقات التي تعتمد بيئات قصاصة.",
+      "history": "تأسست Neon عام 2020 على يد نيكيتا شامغونوف، المؤسس المشارك لـ SingleStore، برفقة خبير PostgreSQL هيكي ليناكاكانغاس. بنى الفريق منصة Postgres بدون خادم تتقلص إلى الصفر عبر فصل الحوسبة عن التخزين، بما يتيح تفرّعاً فورياً وأعباء عمل صديقة للمطورين. وبفضل دعم مستثمرين منهم GV وKhosla Ventures، نالت Neon قبولاً سريعاً لدى المطورين وتغذي اليوم عدداً كبيراً من فرق التطبيقات وSaaS بقاعدة بيانات Postgres بدون خادم.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Neon",
+      "country": "États-Unis",
+      "sub_domain": "Postgres serverless",
+      "short_description": "Postgres scale-to-zero avec branching pour les workflows de développement.",
+      "technology": "Séparation stockage-calcul",
+      "why_relevant": "Branche les bases de données comme on branche du code, idéal pour les apps orientées staging.",
+      "history": "Neon a été fondée en 2020 par Nikita Shamgunov, cofondateur de SingleStore, avec le spécialiste PostgreSQL Heikki Linnakangas. L'équipe a construit une plateforme Postgres serverless scale-to-zero en séparant le calcul du stockage, permettant le branching instantané et des flux de travail adaptés aux développeurs. Soutenue par des investisseurs comme GV et Khosla Ventures, Neon s'est rapidement imposée auprès des développeurs et alimente maintenant de nombreuses applications SaaS.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "planetscale": {
+    "ar": {
+      "name": "PlanetScale",
+      "country": "الولايات المتحدة",
+      "sub_domain": "MySQL بدون خادم",
+      "short_description": "MySQL بدون خادم مع تفرّع بأسلوب git لتغييرات المخطط.",
+      "technology": "MySQL مبني على Vitess",
+      "why_relevant": "أعباء عمل المخطط لا تقفل الجدول أثناء النشر أبداً.",
+      "history": "تأسست PlanetScale عام 2018 على يد مبتكري ومطوّري مشروع Vitess، منهم سام لامبرت وسوغو سوغوماران وجيتن فايديا، لتقديم MySQL قابل للتوسع بلا حدود في السحابة. روّجت الخدمة لتفرّع المخطط بأسلوب git فأصبحت معتمدة لدى الشركات الناشئة سريعة النمو. وبعد جولة من الفئة C بقيمة 50 مليون دولار عام 2021، توسعت PlanetScale نحو Postgres بدون خادم وتواصل خدمة الفرق الباحثة عن قواعد بيانات قابلة للتوسع وصديقة للمطورين.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "PlanetScale",
+      "country": "États-Unis",
+      "sub_domain": "MySQL serverless",
+      "short_description": "MySQL serverless avec branching façon git pour les changements de schéma.",
+      "technology": "MySQL basé sur Vitess",
+      "why_relevant": "Des changements de schéma qui ne verrouillent jamais la table pendant les deploys.",
+      "history": "PlanetScale a été fondée en 2018 par les créateurs et mainteneurs de Vitess, dont Sam Lambert, Sugu Sougoumarane et Jiten Vaidya, pour offrir MySQL à l'échelle illimitée dans le cloud. Le service a popularisé le branching façon git pour les changements de schéma et s'est imposé dans les startups à forte croissance. Après une Série C de 50 millions de dollars en 2021, PlanetScale s'est étendue au Postgres serverless et continue de servir les équipes exigeant des bases de données évolutives.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "hasura": {
+    "ar": {
+      "name": "Hasura",
+      "country": "الهند",
+      "sub_domain": "محركات GraphQL",
+      "short_description": "واجهات GraphQL فورية فوق بيانات Postgres وREST الموجودة.",
+      "technology": "محرك GraphQL-to-SQL",
+      "why_relevant": "GraphQL لحظي مع أمان مدمج في طبقة البيانات.",
+      "history": "تأسست Hasura عام 2017 في مدينة بنغالور الهندية على يد راجوشي غوش وتانماي غوبال. وأصدرت الشركة محرك GraphQL الخاص بها كمصدر مفتوح عام 2018، مما أتاح تحويل قواعد بيانات Postgres وغيرها إلى واجهات GraphQL لحظية وآمنة بشكل شبه فوري. وبعد جولة من الفئة A بقيمة 25 مليون دولار عام 2020 وجولات نمو لاحقة، وسّعت Hasura حلولها السحابية التي تستخدمها آلاف الشركات وفرق المطورين حول العالم.",
+      "hq_city": "بنغالور، الهند"
+    },
+    "fr": {
+      "name": "Hasura",
+      "country": "Inde",
+      "sub_domain": "Moteurs GraphQL",
+      "short_description": "APIs GraphQL instantanées sur vos données Postgres et REST existantes.",
+      "technology": "Moteur GraphQL-to-SQL",
+      "why_relevant": "Du GraphQL temps réel avec la sécurité intégrée à la couche de données.",
+      "history": "Hasura a été fondée en 2017 à Bengaluru, en Inde, par Rajoshi Ghosh et Tanmai Gopal. L'entreprise a open-sourcé son moteur GraphQL en 2018, permettant d'exposer très rapidement des bases de données Postgres et autres sous forme d'APIs GraphQL sécurisées en temps réel. Après une Série A de 25 millions de dollars en 2020 et des tours de croissance, Hasura a étendu sa solution cloud utilisée par des milliers d'entreprises et d'équipes de développeurs.",
+      "hq_city": "Bengaluru, Inde"
+    }
+  },
+  "convex": {
+    "ar": {
+      "name": "Convex",
+      "country": "الولايات المتحدة",
+      "sub_domain": "منصة خلفية",
+      "short_description": "خلفية بيانات وحوسبة حيّة تُزامن الحالة مع الواجهة الأمامية.",
+      "technology": "خلفية تفاعلية قائمة على البيانات",
+      "why_relevant": "تجعل الخلفية كلها تبدو كدالة تفاعلية واحدة.",
+      "history": "تأسست Convex عام 2019 على يد جيمس كاولينغ، المهندس السابق في Twitter وPalantir، برؤية خلفية تفاعلية تزامن البيانات والحوسبة الحية حتى الواجهات الأمامية. أطلقت الشركة الناشئة منصة تجعل الخلفية كلها تتصرف وكأنها دالة واحدة تفاعلية، وحصلت عام 2022 على جولة من الفئة A بقيمة 26 مليون دولار بقيادة a16z ومشاركة General Catalyst. ويستخدمها اليوم فرق الويب لبناء تطبيقات لحظية وتعاونية.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Convex",
+      "country": "États-Unis",
+      "sub_domain": "Plateforme backend",
+      "short_description": "Backend de données et de calcul en direct qui synchronise l'état avec le frontend.",
+      "technology": "Backend réactif data-driven",
+      "why_relevant": "Fait paraître tout le backend comme une seule fonction réactive.",
+      "history": "Convex a été fondée en 2019 par James Cowling, ancien ingénieur de Twitter et Palantir, avec la vision d'un backend réactif synchronisant données et calcul en direct jusqu'aux applications frontend. La startup a lancé une plateforme où tout le backend se comporte comme une seule fonction réactive, obtenant une Série A de 26 millions de dollars en 2022 menée par a16z avec General Catalyst. Elle est aujourd'hui utilisée par des équipes web pour créer des applications temps réel et collaboratives.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "upstash": {
+    "ar": {
+      "name": "Upstash",
+      "country": "تركيا",
+      "sub_domain": "بيانات بدون خادم",
+      "short_description": "Redis بدون خادم ورسائل QStash تُدفع مقابل كل طلب عند الحافة.",
+      "technology": "Redis بدون خادم",
+      "why_relevant": "قواعد بيانات تُدفع مقابل كل طلب، متوافقة مع المكان الذي يُنفَّذ فيه الكود فعلياً.",
+      "history": "تأسست Upstash عام 2020 في مدينة إسطنبول التركية، بتخصص واضح: البنية التحتية للبيانات بدون خادم في بيئات الحافة. أصبحت خدمتا Redis الدفع مقابل الطلب وQStash للمراسلة شائعتين بين مطوري المنصات السحابية والحافة، الذين يقدرون التسعير البسيط القائم على الاستخدام. وأضافت الشركة لاحقاً تخزيناً متجهاً لدعم أعباء عمل الذكاء الاصطناعي، وتبقى بعد عدة جولات تمويلية معتمدة على نطاق واسع في التطبيقات السحابية وعند الحافة الحديثة.",
+      "hq_city": "إسطنبول، تركيا"
+    },
+    "fr": {
+      "name": "Upstash",
+      "country": "Turquie",
+      "sub_domain": "Données serverless",
+      "short_description": "Redis serverless et messaging QStash pour l'edge.",
+      "technology": "Redis serverless",
+      "why_relevant": "Des bases pay-per-request alignées sur l'endroit où le code tourne réellement.",
+      "history": "Upstash a été fondée en 2020 à Istanbul, en Turquie, avec une spécialité : l'infrastructure de données serverless pour les environnements edge. Son Redis pay-per-request et sa messagerie QStash sont devenus populaires auprès des développeurs serverless et edge, séduits par une facturation simple et prévisible. L'entreprise a ensuite ajouté du stockage vectoriel pour les workloads IA, et après plusieurs tours de financement, elle reste largement adoptée dans les applications cloud et edge modernes.",
+      "hq_city": "Istanbul, Turquie"
+    }
+  },
+  "vercel": {
+    "ar": {
+      "name": "Vercel",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سحابة للواجهات الأمامية",
+      "short_description": "تنشر تطبيقات الواجهة وبناة الذكاء الاصطناعي عند الحافة.",
+      "technology": "عرض عند الحافة + مراقبة",
+      "why_relevant": "طبقة النشر المعيارية لمكدس تطبيقات Next.js الحديث.",
+      "history": "تأسست Vercel عام 2015 على يد غييرمو راوخ باسم Zeit، وهي الشركة وراء إطار Next.js، ثم غُيّر اسمها إلى Vercel عام 2020. قادت المنصة التحول نحو نشر واجهات أمامية سلس عند الحافة حول العالم، فأصبحت الطبقة المعيارية لتطبيقات Next.js. وبعد جمع أكثر من 860 مليون دولار وقيمة تقارب 9.3 مليارات دولار عقب جولتها من الفئة F عام 2025، توسعت Vercel أيضاً نحو أدوات ذكاء اصطناعي للمطورين وتواصل الريادة في مكدس الواجهات الحديث.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Vercel",
+      "country": "États-Unis",
+      "sub_domain": "Cloud frontend",
+      "short_description": "Déploie les applications frontend et les builders IA à l'edge.",
+      "technology": "Rendu edge, observabilité",
+      "why_relevant": "La couche de déploiement standard de la stack Next.js moderne.",
+      "history": "Vercel a été fondée en 2015 par Guillermo Rauch sous le nom de Zeit, derrière le framework Next.js, puis rebaptisée Vercel en 2020. Elle a fait évoluer les déploiements frontend vers un modèle sans friction avec du rendu edge mondial, devenant la plateforme standard de Next.js. Avec plus de 860 millions de dollars levés et une valorisation proche de 9,3 milliards après sa Série F de 2025, Vercel s'est aussi lancée dans les outils d'IA pour développeurs et reste en tête de la stack frontend moderne.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "netlify": {
+    "ar": {
+      "name": "Netlify",
+      "country": "الولايات المتحدة",
+      "sub_domain": "منصة ويب",
+      "short_description": "أبسط طريقة لنشر الواجهات الأمامية الثابتة وبدون خادم.",
+      "technology": "استضافة Jamstack",
+      "why_relevant": "اخترعت تدفق النشر السهل الذي يعتبره الجميع الآن أمراً بديهياً.",
+      "history": "تأسست Netlify عام 2014 على يد ماتياس بيلمان وكريستيان باخ، وساهمت في ترسيخ حركة Jamstack بنشرها للواجهات الأمامية الثابتة وبدون خادم بأبسط طريقة ممكنة. جمعت المنصة النشر المستمر وشبكة CDN العالمية والنماذج المدمجة في سير عمل واحد، فجعلت إطلاق المواقع بلا جهد أمراً مألوفاً. وبعد جمع أكثر من 200 مليون دولار، تبقى Netlify منصة ويب رائدة يستخدمها المطورون والوكالات والشركات حول العالم.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Netlify",
+      "country": "États-Unis",
+      "sub_domain": "Plateforme web",
+      "short_description": "La façon la plus simple de déployer des frontends statiques et serverless.",
+      "technology": "Hébergement Jamstack",
+      "why_relevant": "A inventé le déploiement sans effort que tout le monde tient aujourd'hui pour acquis.",
+      "history": "Netlify a été fondée en 2014 par Mathias Biilmann et Christian Bach et a popularisé le mouvement Jamstack avec des déploiements frontend statiques et serverless ultra-simples. La plateforme a intégré déploiement continu, CDN mondial et formulaires natifs dans un seul flux, rendant la publication de sites sans effort. Après avoir levé plus de 200 millions de dollars, Netlify reste une plateforme web de référence pour les développeurs, agences et entreprises.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "samsara": {
+    "ar": {
+      "name": "Samsara",
+      "country": "الولايات المتحدة",
+      "sub_domain": "IoT للأساطيل",
+      "short_description": "منصة IoT تربط الأساطيل والمعدات والمنشآت بلوحة تحكم واحدة.",
+      "technology": "IoT للمركبات + تحليلات",
+      "why_relevant": "المعيار المرجعي للعمليات المتصلة في النقل والخدمات اللوجستية.",
+      "history": "تأسست Samsara عام 2015 على يد سانجيت بيسواس وجون بيكيت، خريجي معهد ماساتشوستس للتكنولوجيا صاحبي شركة Meraki التي استحوذت عليها Cisco. تقدم الشركة عمليات متصلة تجمع حساسات العتاد والفيديو بالذكاء الاصطناعي وبرمجيات السحابة للأساطيل والمنشآت الصناعية. وبعد جمع أكثر من 700 مليون دولار وإدراج أسهمها في بورصة نيويورك في ديسمبر 2021، أصبحت Samsara المرجع العام المتداول في إنترنت الأشياء لإدارة الأساطيل والعمليات المادية.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Samsara",
+      "country": "États-Unis",
+      "sub_domain": "IoT pour flottes",
+      "short_description": "Plateforme IoT connectant flottes, équipements et sites à un seul dashboard.",
+      "technology": "IoT véhiculaire + analytics",
+      "why_relevant": "La référence publique des opérations connectées dans le transport et la logistique.",
+      "history": "Samsara a été fondée en 2015 par Sanjit Biswas et John Bicket, les diplômés du MIT derrière Meraki, rachetée par Cisco. L'entreprise fournit des opérations connectées en combinant capteurs matériels, vidéo IA et logiciels cloud pour les flottes et les sites industriels. Après avoir levé plus de 700 millions de dollars et fait son entrée en bourse au NYSE en décembre 2021, Samsara est devenue une référence publique de l'IoT pour la gestion des flottes et des opérations physiques.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "particle": {
+    "ar": {
+      "name": "Particle",
+      "country": "الولايات المتحدة",
+      "sub_domain": "عتاد IoT",
+      "short_description": "إنترنت الأشياء بالكامل، من وحدات SIM إلى سحابة للأجهزة.",
+      "technology": "وحدات IoT خلوية",
+      "why_relevant": "الجسر بين العتاد والبرمجيات الذي ينقل فكرة IoT إلى الإنتاج.",
+      "history": "تأسست Particle عام 2013 على يد زاك سوبالا لتبسيط بناء المنتجات المتصلة. جعلت وحداتها اللاسلكية والخلوية، التي انطلقت عبر لوحة Photon الممولة من Kickstarter، النمذجة الأولية من الجهاز إلى السحابة في متناول الصنّاع والشركات. وبنات الشركة منصة إنترنت أشياء متكاملة تغطي العتاد والاتصال وسحابة الأجهزة، وجمعت تمويلاً استثمارياً وتخدم عملاء حول العالم في منتجات إنترنت الأشياء الاستهلاكية والصناعية.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Particle",
+      "country": "États-Unis",
+      "sub_domain": "Hardware IoT",
+      "short_description": "IoT full-stack, des modules SIM à une cloud pour appareils.",
+      "technology": "Modules IoT cellulaires",
+      "why_relevant": "Le pont matériel-logiciel qui mène une idée IoT jusqu'à la production.",
+      "history": "Particle a été fondée en 2013 par Zach Supalla pour simplifier la création de produits connectés. Ses modules Wi-Fi et cellulaires, lancés autour de la carte Photon financée par Kickstarter, ont rendu le prototypage device-to-cloud accessible aux makers comme aux entreprises. L'entreprise a bâti une plateforme IoT full-stack couvrant matériel, connectivité et cloud de périphériques, tout en levant des fonds et en servant des clients dans le monde entier.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "tulip-interfaces": {
+    "ar": {
+      "name": "Tulip Interfaces",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تطبيقات IoT صناعية",
+      "short_description": "منصة تطبيقات بدون كود تربط الأشخاص والآلات على أرض المصنع.",
+      "technology": "منصة تطبيقات IoT",
+      "why_relevant": "تمنح المشغلين أعباء عمل ورقية ومتصلة دون الحاجة إلى مطور.",
+      "history": "تأسست Tulip Interfaces عام 2014 على يد خريجي معهد ماساتشوستس ناتان ليندر وروني كوبات، لتوفير أدوات بدون كود تربط المشغلين بالآلات في المصانع. تتيح المنصة للمصنعين بناء تطبيقات تشغيلية دون الحاجة لمطورين، مع إقبال واسع عبر الإنتاج والجودة والتتبع. وبفضل مستثمرين بينهم NEA وMitsubishi Electric، التي قادت جولة من الفئة D بقيمة 120 مليون دولار مطلع 2026، تواصل Tulip توسيع منصة عملياتها العالمية.",
+      "hq_city": "سومرفيل، ماساتشوستس"
+    },
+    "fr": {
+      "name": "Tulip Interfaces",
+      "country": "États-Unis",
+      "sub_domain": "Apps IoT industrielles",
+      "short_description": "Plateforme d'apps no-code qui connecte humains et machines sur l'atelier.",
+      "technology": "Plateforme d'apps IoT",
+      "why_relevant": "Offre aux opérateurs des workflows connectés, sans papier et sans développeur.",
+      "history": "Tulip Interfaces a été fondée en 2014 par Natan Linder et Rony Kubat, diplômés du MIT, pour donner aux opérateurs d'usine des outils no-code reliant machines et personnes. La plateforme permet aux fabricants de créer des applications métier sans développeur, avec une forte adoption dans la production, la qualité et la traçabilité. Soutenue notamment par NEA et Mitsubishi Electric, qui a mené une Série D de 120 millions de dollars début 2026, Tulip poursuit l'expansion mondiale de sa plateforme d'opérations terrain.",
+      "hq_city": "Somerville, Massachusetts"
+    }
+  },
+  "litmus-automation": {
+    "ar": {
+      "name": "Litmus Automation",
+      "country": "الولايات المتحدة",
+      "sub_domain": "IoT الحافة",
+      "short_description": "تنسيق من الحافة إلى السحابة يربط أجهزة المصنع بالتحليلات.",
+      "technology": "تنسيق بيانات الحافة",
+      "why_relevant": "يربط بأمان الأدوات المطوّرة محلياً بين عالمَي تقنية التشغيل وتقنية المعلومات.",
+      "history": "تأسست Litmus Automation عام 2014 لبناء جسر بين تقنية التشغيل وتقنية المعلومات في الصناعة عبر تنسيق بيانات الحافة. أسسها فاتسال شاه، وأطلقت منصة حافة تربط أجهزة المصنع بتحليلات السحابة، ونالت اعتراف Gartner عام 2018. وبفضل عشرات ملايين الدولارات من التمويل، تقدم Litmus اليوم منصة بيانات الحافة وقدرات ذكاء اصطناعي للحافة تدعم الصناعة 4.0 والذكاء الاصطناعي الصناعي.",
+      "hq_city": "سانتا كلارا، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Litmus Automation",
+      "country": "États-Unis",
+      "sub_domain": "IoT edge",
+      "short_description": "Orchestration edge-to-cloud connectant les appareils d'usine à l'analytics.",
+      "technology": "Orchestration des données edge",
+      "why_relevant": "Fait le lien sécurisé entre outils maison et les mondes OT et IT.",
+      "history": "Litmus Automation a été fondée en 2014 pour relier la technologie opérationnelle à l'informatique dans l'industrie grâce à l'orchestration des données edge. Fondée par Vatsal Shah, l'entreprise a lancé une plateforme edge connectant les appareils d'usine à l'analytics cloud et a été reconnue par Gartner en 2018. Forte de dizaines de millions de dollars levés, Litmus propose aujourd'hui sa plateforme de données edge et son edge AI pour l'Industrie 4.0.",
+      "hq_city": "Santa Clara, Californie"
+    }
+  },
+  "onlogic": {
+    "ar": {
+      "name": "OnLogic",
+      "country": "الولايات المتحدة",
+      "sub_domain": "حوسبة الحافة",
+      "short_description": "حواسيب متينة عالية الأداء لحوسبة الحافة في البيئات القاسية.",
+      "technology": "حواسيب صناعية بلا مراوح",
+      "why_relevant": "أجهزة مصممة خصيصاً لتتحمل ظروف الحافة الصناعية التي تخدمها.",
+      "history": "تأسست OnLogic عام 2003 باسم Logic Supply، وتصمم منذ أكثر من عقدين حواسيب صناعية متينة لحوسبة الحافة في البيئات القاسية. مقرها في ساوث برلينغتون بولاية فيرمونت، واشتهرت بأنظمتها خالية المروحة الموزعة عبر المصانع والمركبات والزراعة وغيرها. وبعد إعادة تسميتها إلى OnLogic عام 2020، تظل شركة خاصة ومربحة، وقد شحنت ملايين الأجهزة عالمياً لإنترنت الأشياء والذكاء الاصطناعي عند الحافة والأنظمة المدمجة.",
+      "hq_city": "ساوث برلينغتون، فيرمونت"
+    },
+    "fr": {
+      "name": "OnLogic",
+      "country": "États-Unis",
+      "sub_domain": "Edge computing",
+      "short_description": "Des PC industriels hautes performances pour l'edge computing en environnements hostiles.",
+      "technology": "PC industriels sans ventilateur",
+      "why_relevant": "Des machines sur mesure qui survivent à l'edge industriel qu'elles servent.",
+      "history": "OnLogic, fondée en 2003 sous le nom de Logic Supply, conçoit depuis plus de deux décennies des PC industriels robustes pour l'edge computing en environnements difficiles. Basée à South Burlington, au Vermont, l'entreprise s'est fait une réputation avec des systèmes sans ventilateur déployés dans les usines, les véhicules, l'agriculture et plus encore. Rebaptisée OnLogic en 2020, elle reste privée et rentable, expédiant des millions d'appareils pour l'IoT, l'edge AI et l'embarqué.",
+      "hq_city": "South Burlington, Vermont"
+    }
+  },
+  "seeed-studio": {
+    "ar": {
+      "name": "Seeed Studio",
+      "country": "الصين",
+      "sub_domain": "IoT للصنّاع",
+      "short_description": "منصة عتاد مفتوح تشغّل النمذجة الأولية لإنترنت الأشياء في مجالي الصنّاع والصناعة.",
+      "technology": "وحدات Grove ولوحات meshtastic",
+      "why_relevant": "بيت العتاد الصيني الودود وراء عدّ لا يحصى من نماذج IoT الأولية.",
+      "history": "تأسست Seeed Studio عام 2008 في مدينة شنتشن الصينية على يد إريك بان لجعل العتاد مفتوح المصدر متاحاً حول العالم. وقد غذّت منظومتها المعيارية Grove ولوحاتها الخاصة بالصنّاع، التي انضم إليها لاحقاً أجهزة الحافة reComputer ولوحات الراديو Meshtastic، عدداً لا يحصى من النماذج الأولية لإنترنت الأشياء. وبفضل مزيج من التمويل الذاتي ودعم المجتمع، تبقى Seeed مرجعاً صينياً رائداً للعتاد المفتوح لدى الصنّاع ومطوري إنترنت الأشياء الصناعي.",
+      "hq_city": "شنتشن، الصين"
+    },
+    "fr": {
+      "name": "Seeed Studio",
+      "country": "Chine",
+      "sub_domain": "IoT maker",
+      "short_description": "Plateforme open-hardware au cœur du prototypage IoT maker et industriel.",
+      "technology": "Modules Grove, cartes meshtastic",
+      "why_relevant": "La maison hardware chinoise conviviale derrière d'innombrables MVP IoT.",
+      "history": "Seeed Studio a été fondée en 2008 à Shenzhen, en Chine, par Eric Pan pour rendre le matériel open-source accessible dans le monde entier. Son système modulaire Grove et ses cartes maker, rejoints par les appareils edge reComputer et les cartes radio Meshtastic, ont alimenté d'innombrables prototypes IoT. Grâce à un mélange d'autofinancement et de soutien communautaire, Seeed reste une référence chinoise de l'open hardware pour les makers comme pour l'IoT industriel.",
+      "hq_city": "Shenzhen, Chine"
+    }
+  },
+  "wiliot": {
+    "ar": {
+      "name": "Wiliot",
+      "country": "الولايات المتحدة",
+      "sub_domain": "IoT محيطي",
+      "short_description": "ملصقات بلا بطاريات تستشعر مليارات المنتجات وتربطها.",
+      "technology": "علامات IoT محيطية",
+      "why_relevant": "تجعل كل منتج تقريباً قابلاً للتتبع دون بطاريات أو شحن.",
+      "history": "تأسست Wiliot عام 2017 على يد ألون يهيفكيلي وتال تامير ويارون إلبويم لربط المنتجات اليومية بالإنترنت عبر حساسات بلا بطاريات. تلتقط علاماتها المحيطية بحجم الطابع الطاقة من موجات الراديو لتتبع الموقع والحرارة والحركة دون بطاريات أو شحن. وبعد جمع أكثر من 300 مليون دولار، منها جولة من الفئة C عام 2026، تساعد Wiliot تجار التجزئة والشركات على تحقيق رؤية لسلسلة التوريد على مستوى الصنف الواحد وبمقاييس هائلة.",
+      "hq_city": "سان دييغو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Wiliot",
+      "country": "États-Unis",
+      "sub_domain": "Ambient IoT",
+      "short_description": "Étiquettes sans batterie qui captent et connectent des milliards de produits.",
+      "technology": "Tags Ambient IoT",
+      "why_relevant": "Rend chaque produit traçable sans batterie ni charge.",
+      "history": "Wiliot a été fondée en 2017 par Alon Yehevkely, Tal Tamir et Yaron Elboim pour connecter les produits du quotidien à internet grâce à des capteurs sans batterie. Ses IoT Pixels de la taille d'un timbre récupèrent l'énergie des ondes radio pour suivre position, température et mouvement sans batterie ni charge. Après avoir levé plus de 300 millions de dollars, dont une Série C en 2026, Wiliot aide retailers et entreprises à obtenir une visibilité item-level à grande échelle sur leur chaîne d'approvisionnement.",
+      "hq_city": "San Diego, Californie"
+    }
+  },
+  "aclima": {
+    "ar": {
+      "name": "Aclima",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الاستشعار البيئي",
+      "short_description": "شبكات استشعار تلوث شديدة المحلية ترسم جودة الهواء شارعاً بشارع.",
+      "technology": "شبكة استشعار بيئية متنقلة",
+      "why_relevant": "حوّلت التلوث إلى مجموعة بيانات مرئية على مستوى الشارع للمدن.",
+      "history": "تأسست Aclima عام 2010 على يد دافيدا هرتسل لقياس ورسم خرائط الصحة البيئية، بدءاً بشبكات حساسات جودة هواء منخفضة التكلفة. وقد أنتجت شبكة الاستشعار المتنقلة، المنشورة في مركبات عبر شراكة طويلة مع Google، خرائط تلوث شارعاً بشارع في مدن حول العالم. وبفضل عشرات ملايين الدولارات من التمويل الاستثماري، تقدم Aclima اليوم بيانات بيئية شديدة المحلية للحكومات والمجتمعات والشركات الباحثة عن رؤية لحظية.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Aclima",
+      "country": "États-Unis",
+      "sub_domain": "Captation environnementale",
+      "short_description": "Réseaux de capteurs de pollution hyperlocaux qui cartographient la qualité de l'air rue par rue.",
+      "technology": "Grille de capteurs environnementaux mobiles",
+      "why_relevant": "A transformé la pollution en une donnée visible à l'échelle de la rue pour les villes.",
+      "history": "Aclima a été fondée en 2010 par Davida Herzl pour mesurer et cartographier la santé environnementale, à commencer par des réseaux de capteurs de qualité de l'air à bas coût. Sa grille de capteurs mobiles, déployée dans des véhicules grâce à un partenariat de longue date avec Google, a produit des cartes de pollution rue par rue dans de nombreuses villes. Avec des dizaines de millions de dollars levés, Aclima fournit aujourd'hui de l'intelligence environnementale hyperlocale aux gouvernements, communautés et entreprises.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "influxdata": {
+    "ar": {
+      "name": "InfluxData",
+      "country": "الولايات المتحدة",
+      "sub_domain": "قاعدة بيانات السلاسل الزمنية",
+      "short_description": "قاعدة بيانات سلاسل زمنية مصممة خصيصاً لبيانات الأجهزة والمقاييس.",
+      "technology": "محرك InfluxDB",
+      "why_relevant": "المخزن المعياري لسيل بيانات IoT والإحصاءات المؤقتة.",
+      "history": "تأسست InfluxData عام 2013 على يد بول ديكس، وأنشأت قاعدة البيانات مفتوحة المصدر InfluxDB لاستيعاب سيل المقاييس وبيانات الأجهزة الهائل الناتج عن الأنظمة الحديثة. وبنات الشركة مكدساً متكاملاً لجمع السلاسل الزمنية وتخزينها والاستعلام عنها على نطاق واسع في إنترنت الأشياء والمراقبة. وبعد الانتقال إلى InfluxDB 3، جَمعت الشركة أكثر من 100 مليون دولار وتخدم آلاف عملاء الشركات بمنصتها المخصصة للسلاسل الزمنية.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "InfluxData",
+      "country": "États-Unis",
+      "sub_domain": "Base de données time-series",
+      "short_description": "Base de données time-series dédiée aux données d'appareils et de métriques.",
+      "technology": "Moteur InfluxDB",
+      "why_relevant": "Le stockage standard pour le flot massif de l'IoT et des stats éphémères.",
+      "history": "InfluxData, fondée en 2013 par Paul Dix, a créé la base de données open-source InfluxDB pour absorber le flot massif de métriques et de données d'appareils des systèmes modernes. L'entreprise a construit une stack complète de collecte, stockage et requête de données de séries temporelles à grande échelle pour l'IoT et l'observabilité. Sur InfluxDB 3 aujourd'hui, elle a levé plus de 100 millions de dollars et sert des milliers de clients enterprise.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "timescale": {
+    "ar": {
+      "name": "Timescale",
+      "country": "الولايات المتحدة",
+      "sub_domain": "Postgres للسلاسل الزمنية",
+      "short_description": "يضيف أداء السلاسل الزمنية إلى Postgres مع ضغط مفعّل افتراضياً.",
+      "technology": "إضافة TimescaleDB",
+      "why_relevant": "قاعدة بيانات واحدة تتعايش فيها المقاييس والأحداث وبيانات التطبيق.",
+      "history": "تأسست Timescale عام 2015 على يد مايك فريدمان، أستاذ علوم الحاسب في جامعة برينستون، وأجاي كولكارني، لإضافة قدرات السلاسل الزمنية إلى PostgreSQL. أصدر الفريق TimescaleDB كمصدر مفتوح عام 2017، مقدماً الضغط والتجميعات المستمرة والاستعلامات التحليلية عبر واجهة Postgres المألوفة. وبجمع أكثر من 100 مليون دولار، تواصل الشركة تطوير منصتها مفتوحة المصدر وحلولها السحابية لأعباء العمل التحليلية.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Timescale",
+      "country": "États-Unis",
+      "sub_domain": "Postgres time-series",
+      "short_description": "Ajoute des performances time-series à Postgres, compression activée par défaut.",
+      "technology": "Extension TimescaleDB",
+      "why_relevant": "Une seule base où métriques, événements et données applicatives coexistent.",
+      "history": "Timescale a été fondée en 2015 par Mike Freedman, professeur en informatique à Princeton, et Ajay Kulkarni, pour ajouter des fonctions de séries temporelles à PostgreSQL. L'équipe a open-sourcé TimescaleDB en 2017, offrant compression, continuous aggregates et requêtes analytiques dans une interface familière. Avec plus de 100 millions de dollars levés, l'entreprise continue de développer sa plateforme open-source et ses offres cloud pour les workloads analytiques.",
+      "hq_city": "New York"
+    }
+  },
+  "aeris": {
+    "ar": {
+      "name": "Aeris",
+      "country": "الولايات المتحدة",
+      "sub_domain": "اتصال IoT",
+      "short_description": "عقدان من تغطية IoT بجودة مشغلي الاتصالات وإدارة الأجهزة.",
+      "technology": "بنية IoT خلوية أساسية",
+      "why_relevant": "أجهزة متصلة على نطاق الأساطيل تعمل فوق شبكات واحدة ومكررة.",
+      "history": "تأسست Aeris Communications عام 1992، وبنَت واحدة من أوائل الشبكات الخلوية المخصصة للاتصالات بين الأجهزة، ثم تحولت إلى منصة متكاملة لاتصال إنترنت الأشياء. ومن خلال عقدين من الشراكات بجودة مشغلي الاتصالات، ربطت الشركة ملايين أجهزة الأساطيل والمؤسسات ثم توسعت نحو الأمن وإدارة الأجهزة والمركبات المتصلة. ومقرها في سانتا كلارا بكاليفورنيا، تعمل عالمياً عبر مكاتب في الولايات المتحدة وأوروبا وآسيا.",
+      "hq_city": "سانتا كلارا، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Aeris",
+      "country": "États-Unis",
+      "sub_domain": "Connectivité IoT",
+      "short_description": "Deux décennies de couverture IoT carrier-grade et de gestion d'appareils.",
+      "technology": "Backbone IoT cellulaire",
+      "why_relevant": "Des appareils connectés à l'échelle d'une flotte sur des réseaux uniques et redondants.",
+      "history": "Aeris Communications, fondée en 1992, a bâti l'un des premiers réseaux cellulaires dédiés aux communications machine-to-machine avant d'évoluer en plateforme complète de connectivité IoT. Grâce à deux décennies de partenariats carrier-grade, l'entreprise a connecté des millions d'appareils de flottes et d'entreprises, puis s'est étendue à la sécurité, à la gestion d'appareils et aux véhicules connectés. Basée à Santa Clara, elle opère mondialement, avec des bureaux aux États-Unis, en Europe et en Asie.",
+      "hq_city": "Santa Clara, Californie"
+    }
+  },
+  "foghorn": {
+    "ar": {
+      "name": "FogHorn",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ذكاء اصطناعي للحافة",
+      "short_description": "يشغّل تحليلات الذكاء الاصطناعي عند الحافة، قريباً من مجسات الصناعة.",
+      "technology": "محرك ذكاء اصطناعي للحافة",
+      "why_relevant": "يُغني عن السحابة في قرارات التحليلات الصناعية اللحظية.",
+      "history": "تأسست FogHorn عام 2015 لجلب الذكاء الاصطناعي والتحليلات اللحظية مباشرة إلى البيئات الصناعية عند الحافة. يتيح محرك الحافة الخفيف للمصنعين تحليل بيانات المجسات والفيديو في الموقع بدلاً من إرسال كل شيء إلى السحابة، ما يخفض زمن الاستجابة والاعتماد على الاتصال. وبعد جمع عشرات الملايين من الدولارات عبر عدة جولات وحضور لدى محللي الصناعة، تواصل FogHorn خدمة قطاعات الطاقة والتصنيع والسيارات بقدرات الحافة الذكية.",
+      "hq_city": "سانيفيل، كاليفورنيا"
+    },
+    "fr": {
+      "name": "FogHorn",
+      "country": "États-Unis",
+      "sub_domain": "Edge AI",
+      "short_description": "Exécute l'analytics IA à l'edge, au plus près des capteurs industriels.",
+      "technology": "Moteur Edge AI",
+      "why_relevant": "Sort le cloud des décisions d'analytics industriels temps réel.",
+      "history": "FogHorn a été fondée en 2015 pour apporter l'IA et l'analytics temps réel directement sur les environnements industriels edge. Son moteur edge léger permet aux fabricants d'analyser les données des capteurs et de la vidéo sur site au lieu de tout envoyer dans le cloud, réduisant la latence et la dépendance à la connectivité. Après des dizaines de millions de dollars levés et une reconnaissance des analystes industriels, FogHorn continue de servir l'énergie, la manufacturing et l'automobile avec du edge AI.",
+      "hq_city": "Sunnyvale, Californie"
+    }
+  },
+  "ockam": {
+    "ar": {
+      "name": "Ockam",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أمن IoT",
+      "short_description": "رسائل آمنة بالتصميم توثّق الهويات عبر الأجهزة المتصلة.",
+      "technology": "قنوات مشفرة من الطرف إلى الطرف",
+      "why_relevant": "أمان صفري الثقة للعالم المادي المليء بالأجهزة المتصلة.",
+      "history": "أسس ماثيو غريغوري شركة Ockam لبناء بنية تواصل آمنة بالتصميم للأنظمة الموزّعة والمتصلة. أنشأت أدواتها مفتوحة المصدر قنوات مشفرة من الطرف إلى الطرف ومصادقة متبادلة للأجهزة والسحابات والعملاء المستقلين، وخضعت لمراجعة أمنية مستقلة من Trail of Bits. جمعت الشركة الناشئة نحو 17.5 مليون دولار قبل إنهاء أنشطتها عام 2026، تاركة أعمالها مفتوحة المصدر متاحة للمجتمع لمواصلتها.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Ockam",
+      "country": "États-Unis",
+      "sub_domain": "Sécurité IoT",
+      "short_description": "Messagerie secure-by-design qui authentifie les identités sur des appareils connectés.",
+      "technology": "Canaux chiffrés de bout en bout",
+      "why_relevant": "Le zero-trust pour le monde physique de centaines d'objets connectés.",
+      "history": "Ockam a été fondée par Matthew Gregory pour construire une infrastructure de communication secure-by-design pour les systèmes distribués et connectés. Sa boîte à outils open-source a créé des canaux chiffrés de bout en bout et mutuellement authentifiés pour les appareils, clouds et agents autonomes, avec une revue de sécurité indépendante de Trail of Bits. La startup a levé environ 17,5 millions de dollars avant de cesser ses activités en 2026, laissant son travail open-source à la communauté.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "fivetran": {
+    "ar": {
+      "name": "Fivetran",
+      "country": "الولايات المتحدة",
+      "sub_domain": "خطوط أنابيب البيانات",
+      "short_description": "موصلات آلية تنقل بيانات جاهزة للمستودع من أي مصدر.",
+      "technology": "موصلات ETL",
+      "why_relevant": "جعلت مزامنة البيانات اشتراكاً بدلاً من معركة هندسة بيانات.",
+      "history": "تأسست Fivetran عام 2012 على يد جورج فريزر لأتمتة نقل البيانات من مئات المصادر إلى المستودعات المركزية. استعاضت موصلاتها المُدارة عن خطوط الأنابيب المخصصة بتهيئة بسيطة وموثوقة، فغدت من أكثر الشركات الناشئة في مجال البيانات تمويلاً. وبعد عدة جولات تمويلية كبيرة، تخدم Fivetran اليوم آلاف الشركات بينها أسماء عديدة من Fortune 500، وتواصل تغذية خطوط أنابيب التحليلات لدى آلاف الشركات حول العالم.",
+      "hq_city": "أوكلاند، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Fivetran",
+      "country": "États-Unis",
+      "sub_domain": "Pipelines de données",
+      "short_description": "Des connecteurs automatisés qui livrent des données prêtes pour le warehouse depuis n'importe quelle source.",
+      "technology": "Connecteurs ETL",
+      "why_relevant": "A fait de la synchronisation des données un abonnement, plus une guerre d'ingénierie.",
+      "history": "Fivetran a été fondée en 2012 par George Fraser pour automatiser le déplacement de données depuis des centaines de sources vers des entrepôts centralisés. Ses connecteurs managés ont remplacé les pipelines sur mesure par une configuration simple et fiable, faisant de l'entreprise l'une des startups data les plus financées. Après plusieurs tours importants, Fivetran sert des milliers d'entreprises, dont de nombreux noms du Fortune 500, et continue d'alimenter leurs pipelines d'analytics.",
+      "hq_city": "Oakland, Californie"
+    }
+  },
+  "airbyte": {
+    "ar": {
+      "name": "Airbyte",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تكامل البيانات",
+      "short_description": "منصة حركة بيانات مفتوحة المصدر لخطوط أنابيب ELT.",
+      "technology": "موصلات مفتوحة المصدر",
+      "why_relevant": "البديل مفتوح المصدر الذي جعل حركة البيانات مرتبطة بمصادرها.",
+      "history": "تأسست Airbyte عام 2020 على يد ميشيل تريكو وجون لافلير لجعل حركة البيانات مفتوحة المصدر ومرتبطة بمصادرها. بنت الشركة الناشئة مكتبة موصلات ضخمة ومجتمعاً مفتوح المصدر نشطاً، مقدمة خطوط أنابيب ELT لفرق البيانات حول العالم. وبعد جولة من الفئة B بقيمة 150 مليون دولار عام 2022 لتصل قيمتها إلى 1.5 مليار دولار، توسعت Airbyte نحو البنية التحتية لبيانات الذكاء الاصطناعي مع الحفاظ على مكانتها منصة تكامل بيانات مفتوحة المصدر رائدة.",
+      "hq_city": "سان فرانسيسكو، كاليفورنيا"
+    },
+    "fr": {
+      "name": "Airbyte",
+      "country": "États-Unis",
+      "sub_domain": "Intégration de données",
+      "short_description": "Plateforme open-source de déplacement de données pour les pipelines ELT.",
+      "technology": "Connecteurs open-source",
+      "why_relevant": "L'alternative open-source qui a ancré le déplacement de données à leurs sources.",
+      "history": "Airbyte a été fondée en 2020 par Michel Tricot et John Lafleur pour rendre le mouvement de données open-source et ancré aux sources. La startup a construit une vaste bibliothèque de connecteurs et une communauté open-source dynamique, offrant des pipelines ELT aux équipes data du monde entier. Après une Série B de 150 millions de dollars en 2022 valorisant l'entreprise à 1,5 milliard, Airbyte s'est étendue à l'infrastructure de données IA tout en restant une plateforme d'intégration open-source de référence.",
+      "hq_city": "San Francisco, Californie"
+    }
+  },
+  "pulumi": {
+    "ar": {
+      "name": "Pulumi",
+      "country": "الولايات المتحدة",
+      "sub_domain": "البنية التحتية ككود",
+      "short_description": "بنية تحتية ككود بلغات برمجة حقيقية، وليس بلغات مجال مخصصة.",
+      "technology": "أطقم تطوير البنية التحتية ككود",
+      "why_relevant": "يتيح للفرق إعادة بناء عمليات النشر السحابي بنفس الأدوات التي تستخدمها لكود التطبيق.",
+      "history": "تأسست Pulumi عام 2017 على يد جو دافي وإريك رودر ولوك هوبان ومات إليس، من قدامى Microsoft وAmazon، لممارسة البنية التحتية ككود بلغات برمجة حقيقية. تتيح أطقم تطويرها تعريف البنية التحتية السحابية إلى جانب كود التطبيق، مع دعم منصات تتراوح بين AWS وAzure وKubernetes. وبجمع أكثر من 100 مليون دولار، تساعد Pulumi الفرق على إدارة البنية التحتية السحابية الحديثة بلغات عامة.",
+      "hq_city": "سياتل، واشنطن"
+    },
+    "fr": {
+      "name": "Pulumi",
+      "country": "États-Unis",
+      "sub_domain": "Infrastructure as code",
+      "short_description": "De l'infrastructure-as-code dans de vrais langages de programmation, pas des DSL.",
+      "technology": "SDKs IaC",
+      "why_relevant": "Laisse les équipes refactorer leurs déploiements cloud avec les mêmes outils que leur code applicatif.",
+      "history": "Pulumi a été fondée en 2017 par Joe Duffy, Eric Rudder, Luke Hoban et Matt Ellis, vétérans de Microsoft et d'Amazon, pour pratiquer l'infrastructure as code dans de vrais langages de programmation. Ses SDKs permettent de définir l'infrastructure cloud aux côtés du code applicatif, pour AWS, Azure, Kubernetes et bien d'autres. Avec plus de 100 millions de dollars levés, Pulumi aide les équipes à gérer l'infrastructure cloud moderne avec des langages généralistes.",
+      "hq_city": "Seattle, Washington"
+    }
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "ionq": {
+    "ar": {
+      "name": "IonQ",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الحوسبة الكمومية",
+      "short_description": "حواسيب كمومية بأيونات محبوسة تباع عبر السحابة والوصول المباشر.",
+      "technology": "كيوبتات الأيونات المحبوسة",
+      "why_relevant": "أول شركة كمومية خالصة تُدرج في البورصة.",
+      "history": "تأسست IonQ عام 2015 على يد الفيزيائيين كريس مونرو وجونغسانغ كيم، انطلاقًا من أبحاث رائدة على الأيونات المحبوسة في جامعة ميريلاند لبناء حواسيب كمومية تجارية. وفرت الشركة الوصول عبر السحابة من خلال AWS وMicrosoft Azure وGoogle Cloud، وأصبحت في 2021 أول شركة كمومية خالصة تُدرج في بورصة نيويورك عبر اندماج SPAC. عملت أجيال الأجهزة المتلاحقة (Harmony ثم Aria) على تحسين عدد الكيوبتات وجديّتها، وأعلنت لاحقًا نظامي Forte وForte Enterprise للتركيب الموضعي. وتستهدف الآن كيوبتات منطقية مصححة الأخطاء وأعباء عمل على نطاق الاستخدام العملي لدى الصناعة والبرامج الوطنية.",
+      "hq_city": "كوليج بارك"
+    },
+    "fr": {
+      "name": "IonQ",
+      "country": "États-Unis",
+      "sub_domain": "Informatique quantique",
+      "short_description": "Des ordinateurs quantiques à ions piégés, vendus via le cloud et en accès direct.",
+      "technology": "Qubits à ions piégés",
+      "why_relevant": "Première société 100 % quantique introduite en Bourse.",
+      "history": "Fondée en 2015 par les physiciens Chris Monroe et Jungsang Kim, IonQ est née des travaux pionniers sur les ions piégés de l'Université du Maryland pour construire des ordinateurs quantiques commerciaux. Elle propose un accès cloud via AWS, Microsoft Azure et Google Cloud et est devenue en 2021 la première société 100 % quantique cotée au NYSE lors d'une fusion SPAC. Les générations successives (Harmony, puis Aria) ont amélioré le nombre de qubits et la fidélité, avant l'arrivée des systèmes Forte et Forte Enterprise pour les déploiements sur site. L'entreprise vise désormais des qubits logiques corrigés d'erreurs et des charges de travail à l'échelle utilitaire.",
+      "hq_city": "College Park"
+    }
+  },
+  "rigetti-computing": {
+    "ar": {
+      "name": "Rigetti Computing",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الحوسبة الكمومية",
+      "short_description": "معالجات كمومية فائقة التوصيل تُصنَّع في مصنعها الأمريكي الخاص.",
+      "technology": "كيوبتات فائقة التوصيل",
+      "why_relevant": "صمدت لسنوات في سباق التوسع الكمومي مع الحفاظ على أنظمتها في السحابة.",
+      "history": "أسسها تشاد ريجيتي عام 2013، وبنت Rigetti Computing مصنعها الخاص للكيوبتات فائقة التوصيل وطرحت معالجات كمومية عبر السحابة. أُدرجت الشركة في بورصة ناسداك عام 2022 عبر اندماج SPAC، ورفعت شرائح جيل Ankaa عدد الكيوبتات وأداء البوابات تدريجيًا في سلسلة Aspen. بنت تنسيقًا هجينًا بين الحوسبة الكمومية والتقليدية عبر خدماتها السحابية، بشراكات مع كبار مزودي السحابة والرقائق. وتواصل اليوم تطوير أنظمة فائقة التوصيل على طريقها نحو الحوسبة المتسامحة مع الأخطاء، مع صقل معالجاتها وبرمجياتها لعملاء تجاريين وحكوميين.",
+      "hq_city": "بيركلي"
+    },
+    "fr": {
+      "name": "Rigetti Computing",
+      "country": "États-Unis",
+      "sub_domain": "Informatique quantique",
+      "short_description": "Des processeurs quantiques supraconducteurs fabriqués dans sa propre fonderie américaine.",
+      "technology": "Qubits supraconducteurs",
+      "why_relevant": "A survécu des années de montée en puissance quantique pour rester présente dans le cloud.",
+      "history": "Fondée en 2013 par Chad Rigetti, Rigetti Computing a construit sa propre fonderie de qubits supraconducteurs et lancé des processeurs quantiques accessibles via le cloud. La société s'est introduite au Nasdaq en 2022 par fusion SPAC, et ses puces de la génération Ankaa ont régulièrement augmenté le nombre de qubits et la qualité des portes de la gamme Aspen. Elle a bâti une orchestration hybride quantique-classique via ses services de cloud quantique, en partenariat avec les grands fournisseurs de cloud et de semi-conducteurs. Elle poursuit aujourd'hui le développement de systèmes supraconducteurs sur sa feuille de route vers la tolérance aux fautes, pour des clients commerciaux et gouvernementaux.",
+      "hq_city": "Berkeley"
+    }
+  },
+  "quantinuum": {
+    "ar": {
+      "name": "Quantinuum",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الحوسبة الكمومية",
+      "short_description": "شركة كمومية منبثقة عن Honeywell، مع تقدّم في الأيونات المحبوسة والكيوبتات المنطقية.",
+      "technology": "أيونات محبوسة + سلسلة H",
+      "why_relevant": "تحمل أرقامًا قياسية في كبت أخطاء الكيوبتات المنطقية عمليًا.",
+      "history": "نشأت Quantinuum عام 2021 من اندماج Honeywell Quantum Solutions وCambridge Quantum، فجمعت عتاد الأيونات المحبوسة مع برمجيات متقدمة وأمن سيبراني. حطمت أنظمة سلسلة H أرقامًا قياسية متتالية، وأظهرت عروضها للكيوبتات المنطقية مع Microsoft كبتًا للأخطاء يفوق كثيرًا مستويات الكيوبتات الفيزيائية. جمعت الشركة نحو 300 مليون دولار عام 2024 بتقييم 7.7 مليار، وتوسّعت في الكيمياء الكمومية وتوزيع المفاتيح الكمومية (QKD) وأعباء عمل الذكاء الاصطناعي التوليدي. وتشغّل اليوم أنظمة سلسلة H على نطاق واسع وتواصل السعي نحو معالم الحوسبة المتسامحة مع الأخطاء مع شركاء أمريكيين وأوروبيين.",
+      "hq_city": "برومفيلد"
+    },
+    "fr": {
+      "name": "Quantinuum",
+      "country": "États-Unis",
+      "sub_domain": "Informatique quantique",
+      "short_description": "Société quantique issue de Honeywell, à la pointe des ions piégés et des qubits logiques.",
+      "technology": "Ions piégés + série H",
+      "why_relevant": "Détient les records de suppression des erreurs des qubits logiques en conditions réelles.",
+      "history": "Issue en 2021 de la fusion de Honeywell Quantum Solutions et de Cambridge Quantum, Quantinuum a associé matériel à ions piégés, logiciels avancés et cybersécurité. Ses systèmes de la série H ont battu plusieurs records, et ses démonstrations de qubits logiques avec Microsoft ont supprimé les erreurs bien en dessous des niveaux des qubits physiques. La société a levé environ 300 millions de dollars en 2024 à une valorisation de 7,7 milliards et s'est étendue à la chimie quantique, à la QKD et aux charges de travail d'IA générative. Elle exploite aujourd'hui les systèmes de la série H à grande échelle et poursuit ses jalons de tolérance aux fautes avec des partenaires américains et européens.",
+      "hq_city": "Broomfield"
+    }
+  },
+  "psiquantum": {
+    "ar": {
+      "name": "PsiQuantum",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الحوسبة الكمومية",
+      "short_description": "حاسوب كمومي متسامح مع الأخطاء قائم على الفوتونيك، بخطة للوصول إلى مليار كيوبت.",
+      "technology": "كيوبتات فوتونية، بصريات متكاملة",
+      "why_relevant": "المعمارية الوحيدة المتسامحة مع الأخطاء القابلة للتوسع داخل مصنع رقائق.",
+      "history": "تأسست PsiQuantum عام 2016 على يد جيريمي أوبراين وتيري رودولف ومارك تومسون وبيت شادبولت، معتمدة نهجًا فوتونيًا أولًا نحو الحوسبة الكمومية المتسامحة مع الأخطاء، وراهنة على قدرة تصنيع أشباه الموصلات القائم على توسيع نطاق كيوبتات الفوتون الواحد. جمعت جولات متتالية بدعم من بيل غيتس وBlackRock وغيرهما لتصل بتقييم يتجاوز 6 مليارات دولار، واختارت بريزبن في أستراليا لمنشأتها الأولى على نطاق الاستخدام العملي. تبني الشركة عتاد تحكم فوتونيًا مُبردًا مع شركاء مثل GlobalFoundries. وتبقى شركة خاصة طموحة تستهدف حواسيب بملايين الكيوبتات المصححة قبل منافسيها.",
+      "hq_city": "بالو ألتو"
+    },
+    "fr": {
+      "name": "PsiQuantum",
+      "country": "États-Unis",
+      "sub_domain": "Informatique quantique",
+      "short_description": "Ordinateur quantique photonique tolérant aux fautes, avec une feuille de route visant le milliard de qubits.",
+      "technology": "Qubits photoniques, optique intégrée",
+      "why_relevant": "La seule architecture tolérante aux fautes scalable en fonderie.",
+      "history": "Fondée en 2016 par Jeremy O'Brien, Terry Rudolph, Mark Thompson et Pete Shadbolt, PsiQuantum a fait le pari d'une approche photonique de la tolérance aux fautes, croyant que la fabrication de semi-conducteurs existante peut faire passer les qubits à photon unique à l'échelle. Soutenue par Bill Gates, BlackRock et d'autres, elle a dépassé les 6 milliards de dollars de valorisation et choisi Brisbane, en Australie, pour sa première installation à l'échelle utilitaire. La société développe un contrôle photonique cryogénique avec des partenaires comme GlobalFoundries. PsiQuantum reste un acteur privé ambitieux, visant un ordinateur quantique corrigé d'erreurs d'un million de qubits avant ses concurrents.",
+      "hq_city": "Palo Alto"
+    }
+  },
+  "xanadu": {
+    "ar": {
+      "name": "Xanadu",
+      "country": "كندا",
+      "sub_domain": "الحوسبة الكمومية",
+      "short_description": "حوسبة كمومية فوتونية مع حزمة برمجيات مفتوحة المصدر، PennyLane.",
+      "technology": "فوتونيك + تعلم آلي هجين",
+      "why_relevant": "نموذج فوتونيك بلا اختناقات يتجنب تعارضات تصحيح الأخطاء.",
+      "history": "تأسست Xanadu عام 2016 في تورونتو، وطوّرت حواسيب كمومية فوتونية مقترنة بالتعلم الآلي وبرمجيات مفتوحة المصدر، أبرزها PennyLane. في 2022 ادّعت التفوق الكمومي عبر معالجها الفوتوني القابل للبرمجة Borealis، بعد أنظمة X8 وسلسلة X السابقة. بنت الشركة حزمة متكاملة تمتد من شرائح الفوتونات إلى النشر السحابي مع مجتمع واسع من المطورين. وبتمويل كندي ودولي كبير، تركّز اليوم على توسيع نطاق عتادها والانتقال إلى بيئات تجريبية في معماريات فوتونية موفرة للموارد، مستهدفة التسامح مع الأخطاء مع إبقاء برمجياتها مفتوحة.",
+      "hq_city": "تورونتو"
+    },
+    "fr": {
+      "name": "Xanadu",
+      "country": "Canada",
+      "sub_domain": "Informatique quantique",
+      "short_description": "Informatique quantique photonique avec une pile open source, PennyLane.",
+      "technology": "Photonique + ML hybride",
+      "why_relevant": "Un modèle photonique sans goulots qui contourne les conflits de correction d'erreurs.",
+      "history": "Fondée en 2016 à Toronto, Xanadu développe des ordinateurs quantiques photoniques combinés au machine learning et à des logiciels open source, notamment PennyLane. En 2022, elle a revendiqué un avantage quantique avec Borealis, un processeur photonique programmable, après les systèmes X8 et de la série X. Xanadu a bâti une pile verticalement intégrée allant des puces photoniques au déploiement cloud, avec une large communauté de développeurs. Bien financée au Canada et à l'international, elle se concentre aujourd'hui sur le passage à l'échelle du matériel et démo en architectures photoniques économes en ressources, visant la tolérance aux fautes tout en gardant ses logiciels ouverts.",
+      "hq_city": "Toronto"
+    }
+  },
+  "quera": {
+    "ar": {
+      "name": "QuEra",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الحوسبة الكمومية",
+      "short_description": "حواسيب كمومية بالذرات المحايدة مع اتصال من كل عقدة إلى كل عقدة.",
+      "technology": "كيوبتات الذرات المحايدة",
+      "why_relevant": "جهاز Aquila ببـ256 كيوبتًا من بين الأجهزة الأكثر وصولًا على AWS.",
+      "history": "تأسست QuEra عام 2018 على يد باحثين من هارفارد ومعهد ماساتشوستس للتكنولوجيا، وتسوّق الحوسبة الكمومية بالذرات المحايدة مع اتصال شامل. أصبح جهازها Aquila ذو الـ256 كيوبتًا، وهو برنامج تماثلي، متاحًا على نطاق واسع عبر Amazon Braket، وأعلنت خارطة طريق بثلاث سنوات نحو أجهزة متسامحة مع الأخطاء تشمل أنظمة بعشرة ثم بثلاثين كيوبتًا منطقيًا. جمعت QuEra 230 مليون دولار في جولة Series B عام 2024 لتقليص الفجوة نحو حواسيب مفيدة ومصححة الأخطاء. وتسعى إلى التشغيل الهجين بين التناظري والرقمي، واضعةً معماريتها من بين الأكثر وصولًا على AWS ومسارًا رائدًا لتصحيح أخطاء قابل للتوسع.",
+      "hq_city": "بوسطن"
+    },
+    "fr": {
+      "name": "QuEra",
+      "country": "États-Unis",
+      "sub_domain": "Informatique quantique",
+      "short_description": "Ordinateurs quantiques à atomes neutres avec une connectivité tout-à-tout.",
+      "technology": "Qubits à atomes neutres",
+      "why_relevant": "Le système Aquila de 256 qubits est l'un des plus accessibles sur AWS.",
+      "history": "Fondée en 2018 par des chercheurs de Harvard et du MIT, QuEra commercialise l'informatique quantique à atomes neutres avec une connectivité tout-à-tout. Sa machine Aquila, un programme analogique de 256 qubits, est devenue largement accessible sur Amazon Braket, et la société a lancé une feuille de route de trois ans vers des machines tolérantes aux fautes, incluant des systèmes à 10 puis 30 qubits logiques. QuEra a levé 230 millions de dollars en Série B en 2024 pour combler l'écart vers des ordinateurs utiles et corrigés d'erreurs. Elle poursuit une approche hybride analogique et numérique, faisant de son architecture l'une des plus accessibles sur AWS et une voie de premier plan vers une correction d'erreurs scalable.",
+      "hq_city": "Boston"
+    }
+  },
+  "pasqal": {
+    "ar": {
+      "name": "PASQAL",
+      "country": "فرنسا",
+      "sub_domain": "الحوسبة الكمومية",
+      "short_description": "حاسوب كمومي أوروبي بالذرات المحايدة مع تطور زمني هجين-تماثلي.",
+      "technology": "معالجات الذرات المحايدة",
+      "why_relevant": "الأجهزة الرائدة في الاتحاد الأوروبي للذرات المحايدة، تباع لشركات طيران وبنوك أوروبية.",
+      "history": "تأسست PASQAL عام 2019 كشركة منبثقة عن معهد البصريات الفرنسي، وتبني معالجات كمومية بالذرات المحايدة مع تطور زمني هجين-تماثلي. أمنت نشرات أوروبية كبرى، فباعت أنظمة لبنوك وشركات طيران وزوّدت أحد المراكز الوطنية الأوروبية بأول أجهزتها الموضعية. في 2024 فتحت PASQAL فرعًا أمريكيًا في بوسطن وواصلت خارطة طريقها نحو التسامح مع الأخطاء، مع منشأة إنتاج في ماسي بفرنسا. جمعت الشركة أكثر من 130 مليون دولار، واضعةً نفسها الرائد الأوروبي في عتاد الحوسبة الكمومية مع توسيع الشراكات البرمجية وعروض الكمّ كخدمة.",
+      "hq_city": "ماسي"
+    },
+    "fr": {
+      "name": "PASQAL",
+      "country": "France",
+      "sub_domain": "Informatique quantique",
+      "short_description": "Ordinateur quantique européen à atomes neutres, à évolution temporelle analogique-hybride.",
+      "technology": "Processeurs à atomes neutres",
+      "why_relevant": "Le fer de lance européen des atomes neutres, vendu aux compagnies aériennes et aux banques européennes.",
+      "history": "Fondée en 2019 comme spin-off de l'Institut d'Optique français, PASQAL construit des processeurs quantiques à atomes neutres avec une évolution temporelle analogique-hybride. Elle a sécurisé de grands déploiements européens, vendant des systèmes à des banques et compagnies aériennes et fournissant l'une des premières machines sur site à un centre national européen. En 2024, PASQAL a ouvert une filiale américaine à Boston et fait progresser sa feuille de route vers la tolérance aux fautes, avec une unité de production à Massy. La société a levé plus de 130 millions de dollars, se positionnant comme le fer de lance européen du matériel quantique tout en élargissant ses partenariats logiciels et ses offres Quantum-as-a-Service.",
+      "hq_city": "Massy"
+    }
+  },
+  "atom-computing": {
+    "ar": {
+      "name": "Atom Computing",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الحوسبة الكمومية",
+      "short_description": "مصفوفات ملاقط بصرية تجاوزت بكثير عتبة الألف كيوبت.",
+      "technology": "كيوبتات الدوران النووي",
+      "why_relevant": "أول منصات أُعلن عنها تتجاوز حدود 1,225 كيوبتًا.",
+      "history": "تأسست Atom Computing عام 2018، وتبني مصفوفات ذرات محايدة محبوسة بصريًا، وأعلنت في 2023 نظامًا بـ1,225 كيوبتًا كان من بين الأكبر المعلن عنها، انطلاقًا من قاعدتها في بيركلي بكاليفورنيا. يقلل ترميز الدوران النووي لديها الحساسية لفقدان الترابط، وفي 2024 أعلنت منتجًا مُصممًا بالتعاون مع Microsoft لعروض الكيوبتات المنطقية. تتعاون الشركة مع مختبرات وطنية ومزودي سحابة لوضع أنظمتها على الإنترنت. وتبقى شركة خاصة تركّز على توسيع أحجام المصفوفات وتصحيح الأخطاء مع تسويق عتاد متكامل للاستفادة الكمومية المبكرة.",
+      "hq_city": "بيركلي"
+    },
+    "fr": {
+      "name": "Atom Computing",
+      "country": "États-Unis",
+      "sub_domain": "Informatique quantique",
+      "short_description": "Des réseaux de pinces optiques, loin au-delà des 1 000 qubits.",
+      "technology": "Qubits à spin nucléaire",
+      "why_relevant": "Premières plateformes annoncées au-delà du seuil de 1 225 qubits.",
+      "history": "Fondée en 2018, Atom Computing construit des réseaux d'atomes neutres piégés optiquement et a annoncé en 2023 un système de 1 225 qubits — parmi les plus grands jamais dévoilés — depuis sa base de Berkeley, en Californie. Son encodage par spin nucléaire réduit la sensibilité à la décohérence, et en 2024 elle a présenté un produit co-conçu avec Microsoft pour des démonstrations de qubits logiques. La société travaille avec des laboratoires nationaux et des fournisseurs de cloud pour mettre ses systèmes en ligne. Atom Computing reste une entreprise privée, focalisée sur la montée en échelle des réseaux et la correction d'erreurs, tout en commercialisant un matériel complet pour une première utilité quantique.",
+      "hq_city": "Berkeley"
+    }
+  },
+  "d-wave": {
+    "ar": {
+      "name": "D-Wave",
+      "country": "كندا",
+      "sub_domain": "التليين الكمومي",
+      "short_description": "تشغّل أنظمة تليين كمومي تجارية لمعالجة مشاكل التحسين.",
+      "technology": "التليين الكمومي",
+      "why_relevant": "تشغّل أنظمة الكم الوحيدة المدرّة للعائدات المباعة للشركات.",
+      "history": "تأسست D-Wave عام 1999 وكانت رائدة التليين الكمومي التجاري، فسلّمت أول نظام إلى لوكهيد مارتن عام 2011 ثم ركّبت أجهزة لدى NASA وأبحاث فولكسفاغن وجامعة جنوب كاليفورنيا. رفعت معالجات Advantage عدد الكيوبتات إلى ما يتجاوز 5,000، فيما استخدم عملاء حقيقيون التليين الكمومي للخدمات اللوجستية والتحسين. في 2022 أصبحت الشركة مدرجة في بورصة نيويورك عبر اندماج SPAC. ومقرها الآن بورنابي بكندا، وهي المورّد الوحيد الذي يُعلن أنظمة كمومية مدرّة للعائدات، وتتوسع نحو الكم الهجين مع مواصلة مسارها بين التليين والبوابات.",
+      "hq_city": "بورنابي"
+    },
+    "fr": {
+      "name": "D-Wave",
+      "country": "Canada",
+      "sub_domain": "Recuit quantique",
+      "short_description": "Exploite des systèmes commerciaux de recuit quantique pour l'optimisation.",
+      "technology": "Recuit quantique",
+      "why_relevant": "Exploite les seuls systèmes quantiques générateurs de revenus vendus aux entreprises.",
+      "history": "Fondée en 1999, D-Wave a ouvert la voie au recuit quantique commercial, livrant son premier système à Lockheed Martin en 2011 puis installant des machines à la NASA, chez Volkswagen Research et à l'Université de Californie du Sud. Les processeurs Advantage ont fait passer le nombre de qubits au-delà de 5 000, des clients réels utilisant le recuit quantique pour la logistique et l'optimisation. En 2022, D-Wave est devenue une société cotée au NYSE via une fusion SPAC. Aujourd'hui basée à Burnaby, au Canada, elle est le seul fournisseur à déclarer des systèmes quantiques générateurs de revenus, tout en se développant vers le quantique hybride et en poursuivant sa feuille de route recuit-plus-portes.",
+      "hq_city": "Burnaby"
+    }
+  },
+  "iqm-quantum-computers": {
+    "ar": {
+      "name": "IQM Quantum Computers",
+      "country": "فنلندا",
+      "sub_domain": "الحوسبة الكمومية",
+      "short_description": "الرائد الأوروبي في الحواسيب الكمومية فائقة التوصيل الموضعية.",
+      "technology": "معالجات فائقة التوصيل",
+      "why_relevant": "تسلّم حواسيب كمومية متكاملة للمراكز الوطنية الأوروبية.",
+      "history": "تأسست IQM Quantum Computers عام 2018 كشركة منبثقة عن جامعة آلتو ومعهد VTT، وتبني أنظمة فائقة التوصيل كاملة تُركّب موضعيًا ومعالجات مُصممة بالاشتراك. سلّمت حواسيب كمومية كاملة لمؤسسات وطنية أوروبية شملت فنلندا وألمانيا (لايبنيز) وفرنسا، وفازت بعقود بارزة في خارطة الطريق الوطنية الألمانية. في 2023-2024 أحرزت تقدمًا نحو معالج بـ54 كيوبتًا وشراكة إنتاج استراتيجية مع Soitec في إسبو بفنلندا. جمعت الشركة أكثر من 180 مليون يورو، واضعةً نفسها الرائد الأوروبي في العتاد الكمومي السيادي المحلي، مع منظومة قوية من الشبكات والتعليم.",
+      "hq_city": "إسبو"
+    },
+    "fr": {
+      "name": "IQM Quantum Computers",
+      "country": "Finlande",
+      "sub_domain": "Informatique quantique",
+      "short_description": "Leader européen des ordinateurs quantiques supraconducteurs installés sur site.",
+      "technology": "Processeurs supraconducteurs",
+      "why_relevant": "Livre des ordinateurs quantiques complets aux centres nationaux européens.",
+      "history": "Fondée en 2018 comme spin-off de l'Université Aalto et de VTT, IQM Quantum Computers construit des systèmes supraconducteurs complets installés sur site et des processeurs co-conçus. Elle a livré des ordinateurs quantiques complets à des institutions nationales européennes, dont la Finlande, l'Allemagne (Leibniz) et la France, et remporté d'importants contrats dans la feuille de route nationale allemande. En 2023-2024, IQM a progressé vers un processeur de 54 qubits et un partenariat de production stratégique avec Soitec à Espoo. La société a levé plus de 180 millions d'euros, se positionnant comme le leader européen du matériel quantique souverain, avec un solide écosystème de consortiums et de formation.",
+      "hq_city": "Espoo"
+    }
+  },
+  "neuralink": {
+    "ar": {
+      "name": "Neuralink",
+      "country": "الولايات المتحدة",
+      "sub_domain": "واجهات الدماغ والحاسوب",
+      "short_description": "واجهة دماغ-حاسوب قابلة للزرع تهدف إلى استعادة الوظائف الحركية.",
+      "technology": "واجهات عالية القنوات",
+      "why_relevant": "زرعت مئات الأقطاب في أدمغة بشرية وبثّت التحكم في المؤشر.",
+      "history": "تأسست Neuralink عام 2016 على يد إيلون ماسك وآخرين، وطوّرت أقطابًا فائقة الرقة من نوع threads والروبوت الجراحي اللازم لزرعها. بعد أعمال ما قبل السريرية وجولات تمويل متكررة، حصلت الشركة على تصنيف الجهاز الاختراقي من إدارة الغذاء والدواء عام 2023، وبدأت التجارب البشرية مطلع 2024 ببث مباشر للتحكم في مؤشر من القشرة الحركية لأحد المرضى. استخدم المشاركون زرعة N1 للعب ألعاب الفيديو والتصفح عبر الإنترنت؛ ويُعطي جهاز Telepathy أولوية لعدد القنوات العالي والاستدامة طويلة الأمد. وتواصل Neuralink توسيع تجاربها متعددة المرضى مع تطوير العتاد ومعايير الأهلية.",
+      "hq_city": "فريمونت"
+    },
+    "fr": {
+      "name": "Neuralink",
+      "country": "États-Unis",
+      "sub_domain": "Interfaces cerveau-machine",
+      "short_description": "Interface cerveau-machine implantable visant à restaurer la fonction motrice.",
+      "technology": "BCI à haute densité de canaux",
+      "why_relevant": "A placé des centaines d'électrodes dans des cerveaux humains et diffusé un contrôle du curseur.",
+      "history": "Fondée en 2016 par Elon Musk et d'autres, Neuralink a développé des électrodes ultrafines de type « fils » et le robot chirurgical nécessaire à leur implantation. Après des travaux précliniques et plusieurs levées de fonds, la société a obtenu la désignation de dispositif innovant de la FDA en 2023 et lancé ses essais humains début 2024, diffusant en direct le contrôle d'un curseur depuis le cortex moteur d'un patient. Les participants utilisent l'implant N1 pour jouer à des jeux vidéo et naviguer en ligne ; l'appareil Telepathy privilégie un nombre élevé de canaux et une viabilité à long terme. Neuralink élargit ses essais multipatients tout en améliorant le matériel et les critères d'éligibilité.",
+      "hq_city": "Fremont"
+    }
+  },
+  "synchron": {
+    "ar": {
+      "name": "Synchron",
+      "country": "الولايات المتحدة",
+      "sub_domain": "واجهات الدماغ والحاسوب",
+      "short_description": "يُوصِل جهاز Stentrode إشارات الدماغ عبر الأوعية الدموية دون جراحة مفتوحة.",
+      "technology": "واجهة وعائية داخلية",
+      "why_relevant": "المسار الوعائي يتجنب فتح الجمجمة ويوسّع مؤهلات استخدام الواجهات.",
+      "history": "تأسست Synchron عام 2016 وطوّرت جهاز Stentrode، وهي واجهة دماغ-حاسوب وعائية تُزرع عبر الأوعية الدموية دون جراحة مفتوحة للجمجمة. أجرت الشركة دراسات جدوى بشرية صغيرة في أستراليا والولايات المتحدة، وحصلت على تصنيف الجهاز الاختراقي من إدارة الغذاء والدواء عام 2020. أواخر 2021 أصبحت أول جهة تحصل على تجربة سريرية أمريكية لواجهة مزروعة بشكل دائم؛ وشغّلت الشركة المقيمة في نيويورك لاحقًا تجربة COMMAND، حيث يرسل مرضى الشلل الشديد رسائل وينقرون بالفكر عبر Stentrode متصل بتقنية Bluetooth. وتواصل توسيع المشاركين والتراخيص الاستراتيجية والمسارات نحو التوافر السريري الأوسع.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Synchron",
+      "country": "États-Unis",
+      "sub_domain": "Interfaces cerveau-machine",
+      "short_description": "Le Stentrode capte les signaux cérébraux via les vaisseaux sanguins, sans chirurgie ouverte.",
+      "technology": "BCI endovasculaire",
+      "why_relevant": "La voie vasculaire évite la craniotomie et élargit l'éligibilité aux BCI.",
+      "history": "Fondée en 2016, Synchron a développé le Stentrode, une interface cerveau-machine endovasculaire posée via les vaisseaux sanguins, sans chirurgie du cerveau ouvert. La société a mené de petites études de faisabilité humaine en Australie et aux États-Unis et obtenu la désignation de dispositif innovant de la FDA en 2020. Fin 2021, elle a été la première à obtenir un essai clinique américain pour une BCI implantée en permanence ; la société new-yorkaise a ensuite lancé l'essai COMMAND, où des patients atteints de paralysie sévère envoient des messages et cliquent par la pensée via un Stentrode connecté en Bluetooth. Synchron continue d'élargir ses participants, ses licences stratégiques et les voies vers une disponibilité clinique plus large.",
+      "hq_city": "New York"
+    }
+  },
+  "precision-neuroscience": {
+    "ar": {
+      "name": "Precision Neuroscience",
+      "country": "الولايات المتحدة",
+      "sub_domain": "واجهات الدماغ والحاسوب",
+      "short_description": "مصفوفات أقطاب فائقة الرقة توضع على سطح الدماغ.",
+      "technology": "مصفوفات قشرية رقيقة الغشاء",
+      "why_relevant": "مصفوفات بمقياس الميكرون تُحدث ضررًا نسيجيًا أقل بكثير من المسابير المخترقة.",
+      "history": "تأسست Precision Neuroscience عام 2021 على يد مديرين سابقين في Neuralink والصناعة، وتطوّر مصفوفات أقطاب فائقة الرقة بمقياس الميكرون توضع على سطح الدماغ لتقليل الضرر النسيجي. حصلت الشركة على موافقة إدارة الغذاء والدواء لدراسات بشرية مبكرة عام 2023، وأثبتت قدرتها على قراءة إشارات قد تتيح التحكم في مؤشر مستقبلًا. تضم مصفوفات Layer 7 آلاف الأقطاب ويمكن إدخالها عبر شق صغير، مما يضعها في موقع الواجهات القشرية عالية الدقة قليلة التدخل الجراحي. ومقرها نيويورك، تعمل الشركة على توسيع التصنيع والشراكات السريرية في منظومة واجهات الدماغ والحاسوب الناشئة.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Precision Neuroscience",
+      "country": "États-Unis",
+      "sub_domain": "Interfaces cerveau-machine",
+      "short_description": "Des réseaux d'électrodes ultra-fins posés sur la surface du cerveau.",
+      "technology": "Réseaux corticaux à film mince",
+      "why_relevant": "Des réseaux à l'échelle du micron, bien moins invasifs que les sondes pénétrantes.",
+      "history": "Fondée en 2021 par d'anciens dirigeants de Neuralink et de l'industrie, Precision Neuroscience développe des réseaux d'électrodes ultrafins, à l'échelle du micron, posés sur la surface du cerveau pour minimiser les lésions tissulaires. La société a obtenu l'approbation de la FDA pour de premières études humaines en 2023 et démontré sa capacité à lire des signaux pour un futur contrôle du curseur. Ses réseaux Layer 7 regroupent des milliers d'électrodes et peuvent être insérés par une petite fente, positionnant l'entreprise vers des interfaces corticales à haute résolution et mini-invasives. Basée à New York, Precision étend sa fabrication et ses partenaires cliniques dans l'écosystème BCI émergent.",
+      "hq_city": "New York"
+    }
+  },
+  "onward-medical": {
+    "ar": {
+      "name": "ONWARD Medical",
+      "country": "هولندا",
+      "sub_domain": "التحفيز النخاعي",
+      "short_description": "يحفّز النخاع الشوكي لاستعادة الحركة بعد الشلل.",
+      "technology": "تقنية ARC-EX النخاعية",
+      "why_relevant": "بفضل علاج ARC، يستعيد المصابون بإصابات النخاع القدرة على الوصول والإمساك والوقوف.",
+      "history": "تأسست ONWARD Medical عام 2014، وتطوّر أنظمة تحفيز نخاعي مزروعة وقابلة للارتداء لاستعادة الحركة بعد إصابة النخاع الشوكي. انطلاقًا من عقود من الأبحاث المختبرية، حققت وحدة تحفيزها الخارجية ARC-EX مكاسب ذات دلالة سريرية في وظيفة اليد والذراع خلال تجربة محورية في أمريكا الشمالية، وقدّمت الشركة طلبات موافقة من إدارة الغذاء والدواء وعلامة CE لاستعادة وظيفة الذراع. وبالتوازي تستهدف برامج ARCIM التحت جلدية والمزروعة استعادة المشي. والشركة المقيمة في آيندهوفن مدرجة في Euronext Brussels، وتدفع منصاتها العلاجية نحو موافقات تنظيمية أوسع وإطلاق تجاري.",
+      "hq_city": "آيندهوفن"
+    },
+    "fr": {
+      "name": "ONWARD Medical",
+      "country": "Pays-Bas",
+      "sub_domain": "Stimulation médullaire",
+      "short_description": "Stimule la moelle épinière pour restaurer le mouvement après une paralysie.",
+      "technology": "Technologie médullaire ARC-EX",
+      "why_relevant": "Grâce à la thérapie ARC, des personnes blessées à la moelle peuvent de nouveau attraper, saisir et se tenir debout.",
+      "history": "Fondée en 2014, ONWARD Medical développe des systèmes de stimulation médullaire implantables et portables pour restaurer le mouvement après une lésion de la moelle épinière. Forte de décennies de recherche en laboratoire, sa stimulation externe ARC-EX a apporté des gains cliniquement significatifs de la fonction de la main et du bras lors d'un essai nord-américain pivot, et la société a déposé des demandes d'autorisation FDA et de certification CE pour la récupération du bras. En parallèle, les programmes ARCIM transcutanés et implantables ciblent la marche. Cotée sur Euronext Brussels, l'entreprise d'Eindhoven fait progresser ses plateformes thérapeutiques vers une approbation réglementaire élargie et un lancement commercial.",
+      "hq_city": "Eindhoven"
+    }
+  },
+  "paradromics": {
+    "ar": {
+      "name": "Paradromics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "واجهات الدماغ والحاسوب",
+      "short_description": "زرعة عصبية عالية معدل البيانات لاستعادة الوظائف الحركية والحسية.",
+      "technology": "مصفوفات مودم قشرية",
+      "why_relevant": "تستهدف أعلى أعداد القنوات في أبحاث الواجهات المزروعة.",
+      "history": "تأسست Paradromics عام 2015 كمشروع بحثي، وتبني زرعات قشرية عالية معدل البيانات لاستعادة الوظائف الحركية والحسية. في 2021 حصلت على عقد متعدد السنوات من وكالة DARPA لتطوير عتاد واجهة بشرية عالية النطاق، وتطوّر «مودمًا قشريًا» بآلاف قنوات الأقطاب. تضع استراتيجيتها الأولوية لكثافة القنوات والموثوقية لاستعادة الكلام والحركة والصوت الحاسوبي. ومقرها أوستن بتكساس، تستعد Paradromics لتجاربها البشرية الأولى مع خط أنابيب من الخلايا العصبية إلى النص وشراكات في الأطراف الاصطناعية العصبية.",
+      "hq_city": "أوستن"
+    },
+    "fr": {
+      "name": "Paradromics",
+      "country": "États-Unis",
+      "sub_domain": "Interfaces cerveau-machine",
+      "short_description": "Implant neuronal à haut débit pour la restauration motrice et sensorielle.",
+      "technology": "Réseaux de modems corticaux",
+      "why_relevant": "Vise les plus grands nombres de canaux de la recherche BCI implantée.",
+      "history": "Fondée en 2015 comme projet de recherche, Paradromics construit des implants corticaux à haut débit pour la restauration motrice et sensorielle. En 2021, elle a décroché un contrat pluriannuel de la DARPA pour faire progresser le matériel d'interface humaine à haut débit, et développe un « modem cortical » avec des milliers de canaux d'électrodes. Sa stratégie met l'accent sur la densité de canaux et la fiabilité pour restaurer la parole, le mouvement et la voix assistée. Basée à Austin, au Texas, Paradromics se prépare à ses premiers essais humains avec un pipeline neurones-texte et des partenariats en neuroprothèses.",
+      "hq_city": "Austin"
+    }
+  },
+  "blackrock-neurotech": {
+    "ar": {
+      "name": "Blackrock Neurotech",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التقنية العصبية",
+      "short_description": "قائد زرعات موثوق، بعقود من نشر واجهات الدماغ لدى البشر.",
+      "technology": "واجهات بمصفوفات يوتا",
+      "why_relevant": "الأجهزة في قلب معظم النتائج البارزة لواجهات الدماغ البشرية.",
+      "history": "تأسست Blackrock Neurotech عام 2008 ومقرها سولت ليك سيتي، وهي رائدة طويلة الأمد في مجال الزرعات، تُصنّع مصفوفة يوتا التي تقف في قلب معظم العروض الكبرى لواجهات الدماغ البشرية. مكّنت تقنيتها عقودًا من البحث، من التحكم في المؤشر إلى فك ترميز الكلام والحركة في الأطراف الاصطناعية العصبية. أطلقت Blackrock أول تجربة لواجهة دماغ بشرية معتمدة من إدارة الغذاء والدواء عام 2023، وتعمل مع شركاء على دوائر زرع متقدمة وأنظمة سريرية. وتواصل تزويد المجتمع البحثي مع تجهيز الوصول التجاري للمرضى المستقبليين، معززةً مكانتها مورّدًا حيويًا للبنية التحتية لعلم الأعصاب البشري.",
+      "hq_city": "سولت ليك سيتي"
+    },
+    "fr": {
+      "name": "Blackrock Neurotech",
+      "country": "États-Unis",
+      "sub_domain": "Neurotech",
+      "short_description": "Leader des implants de confiance, fort de décennies de déploiements BCI chez l'humain.",
+      "technology": "BCI à réseau Utah",
+      "why_relevant": "Le matériel au cœur de la plupart des résultats majeurs du BCI humain.",
+      "history": "Fondée en 2008 et basée à Salt Lake City, Blackrock Neurotech est un leader de longue date des implants, fabriquant le réseau Utah au cœur de la plupart des démonstrations majeures de BCI humaine. Sa technologie a permis des décennies de recherche, du contrôle du curseur au décodage de la parole et au mouvement neuroprothétique. Blackrock a lancé le premier essai BCI humain investigatif approuvé par la FDA en 2023 et travaille avec des partenaires sur des circuits d'implant avancés et des systèmes cliniques. Elle continue de fournir la communauté de recherche tout en préparant l'accès commercial pour les futurs patients, renforçant son rôle de fournisseur critique d'infrastructures pour les neurosciences humaines.",
+      "hq_city": "Salt Lake City"
+    }
+  },
+  "magic-leap": {
+    "ar": {
+      "name": "Magic Leap",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الحوسبة المكانية",
+      "short_description": "رائدة نظارات الواقع المعزز بالمجال الضوئي، ومركزة الآن على المؤسسات والدفاع.",
+      "technology": "بصريات المجال الضوئي",
+      "why_relevant": "ضوء مولّد حاسوبيًا ممزوج حرفيًا بالعالم الحقيقي.",
+      "history": "تأسست Magic Leap عام 2010 على يد روني أبوفيتز، وجمعت مليارات لتطوير نظارات الواقع المعزز بالمجال الضوئي، وأطلقت أول جهاز Magic Leap 1 عام 2018 بعد سرية طويلة. أعادت الشركة هيكلتها وانتقلت من الجمهور العام نحو المؤسسات والصحة والدفاع، وأصدرت Magic Leap 2 عام 2022 بزاوية رؤية واستقرار محسّنين. بعد سلسلة تسريحات وتحولات قيادية، تطوّر اليوم بصريات مجال ضوئي لتبني المؤسسات والبرامج الدفاعية، ومقرها بلانتيشن بفلوريدا. وتبقى شركة بارزة في الحوسبة المكانية رغم تراجع طموحاتها.",
+      "hq_city": "بلانتيشن"
+    },
+    "fr": {
+      "name": "Magic Leap",
+      "country": "États-Unis",
+      "sub_domain": "Informatique spatiale",
+      "short_description": "Pionnier des casques AR à champ lumineux, désormais centré sur l'entreprise et la défense.",
+      "technology": "Optique à champ lumineux",
+      "why_relevant": "De la lumière générée par ordinateur, littéralement mélangée au monde réel.",
+      "history": "Fondée en 2010 par Rony Abovitz, Magic Leap a levé des milliards pour développer des casques de réalité augmentée à champ lumineux, lançant le premier Magic Leap 1 en 2018 après une longue confidentialité. La société s'est restructurée, passant d'une cible grand public à l'entreprise, la santé et la défense, et a lancé Magic Leap 2 en 2022 avec un champ de vision et une stabilité améliorés. Après une série de licenciements et de changements de direction, elle développe désormais l'optique à champ lumineux pour l'adoption par les entreprises et les programmes de défense, avec son siège à Plantation, en Floride. Magic Leap reste un acteur spatial important malgré des ambitions revues à la baisse.",
+      "hq_city": "Plantation"
+    }
+  },
+  "varjo": {
+    "ar": {
+      "name": "Varjo",
+      "country": "فنلندا",
+      "sub_domain": "XR للمؤسسات",
+      "short_description": "نظارات XR بدقة العين البشرية تُستخدم في تدريب الطيران والدفاع.",
+      "technology": "شاشات XR بايونية",
+      "why_relevant": "دقة واقع مختلط حادة تكفي لقراءة أجهزة قمرة القيادة.",
+      "history": "تأسست Varjo عام 2016 في هلسنكي، وطوّرت نظارات XR «بايونية» تمزج شاشات بدقة العين البشرية مع رؤية محيطية. أصبح عتادها مرجعًا في تدريب الطيران والدفاع والسيارات والطب، مع عملاء مؤسسيين يشملون كبرى شركات الطيران والفضاء. أطلقت Varjo سلسلة XR-4 أواخر 2023 وتوسّعت في منتجات Software-in-the-Loop والتلحاضر التي تبث مشاهد فائقة الواقعية إلى النظارات. وتبقى الشركة رائدة أوروبية خاصة في XR، وتعمل في قطاع المؤسسات بإيرادات متكررة وسط اندماج الصناعة.",
+      "hq_city": "هلسنكي"
+    },
+    "fr": {
+      "name": "Varjo",
+      "country": "Finlande",
+      "sub_domain": "XR d'entreprise",
+      "short_description": "Des casques XR à la résolution de l'œil humain, utilisés pour l'entraînement aéronautique et de défense.",
+      "technology": "Affichage bionique XR",
+      "why_relevant": "Un niveau de détail en réalité mixte assez net pour lire les instruments du cockpit.",
+      "history": "Fondée en 2016 à Helsinki, Varjo a développé des casques XR « bioniques » combinant des écrans à la résolution de l'œil humain avec une vision périphérique. Son matériel est devenu une référence dans la formation aéronautique, la défense, l'automobile et la médecine, avec des clients entreprises parmi les grands groupes aérospatiaux. Varjo a lancé la série XR-4 fin 2023 et s'est étendue aux produits Software-in-the-Loop et de téléprésence qui diffusent des scènes photoréalistes dans les casques. La société reste un leader européen privé du XR, opérant dans le segment entreprise avec des revenus récurrents au milieu d'une consolidation du secteur.",
+      "hq_city": "Helsinki"
+    }
+  },
+  "lynx": {
+    "ar": {
+      "name": "Lynx",
+      "country": "فرنسا",
+      "sub_domain": "الواقع المختلط",
+      "short_description": "نظارات واقع مختلط مدمجة شفافة ملونة تستخدم بصريات الأدلة الموجية.",
+      "technology": "أدلة موجية بمرور لوني",
+      "why_relevant": "تمزج العوالم داخل إطار نظارة بجزء ضئيل من وزن الأجهزة الرأسية.",
+      "history": "تأسست Lynx عام 2018 في باريس، وتطوّر نظارات واقع مختلط مدمجة شفافة ملونة تستخدم بصريات الأدلة الموجية وتصميمًا أقرب للنظارات العادية منه للخوذات الثقيلة. بعد حملة تمويل جماعي كبيرة وطلبات مسبقة، بدأت الشركة بشحن نظارتها Lynx-R1، مع التركيز على واقع مختلط خفيف ومتنقل للاستخدام المهني والاستهلاكي. تركّز Lynx على الهندسة المفتوحة وسوق النظارات المعززة الناشئة. ورغم تحديات سلاسل التوريد الشائعة في القطاع، تواصل هدفها في واقع مختلط بأسعار معقولة وبشكل النظارات، من قاعدتها الفرنسية.",
+      "hq_city": "باريس"
+    },
+    "fr": {
+      "name": "Lynx",
+      "country": "France",
+      "sub_domain": "Réalité mixte",
+      "short_description": "Des lunettes de réalité mixte compactes, à vision directe en couleur, reposant sur l'optique à guide d'ondes.",
+      "technology": "Guides d'ondes à voir-travers couleur",
+      "why_relevant": "Mélange les mondes dans des lunettes, pour une fraction du poids d'un casque.",
+      "history": "Fondée en 2018 à Paris, Lynx développe des lunettes de réalité mixte compactes et transparentes en couleur, reposant sur l'optique à guide d'ondes et un design plus proche d'une paire de lunettes standard que d'un casque encombrant. Après un important financement participatif et des précommandes, la startup a commencé à expédier son casque Lynx-R1, mettant l'accent sur une RM légère et mobile pour les usages professionnels et grand public. Lynx mise sur une architecture ouverte et le marché émergent des lunettes AR. Malgré les défis de chaîne d'approvisionnement habituels du segment, elle poursuit son objectif d'une réalité mixte abordable au format lunettes, depuis sa base française.",
+      "hq_city": "Paris"
+    }
+  },
+  "eviation": {
+    "ar": {
+      "name": "Eviation",
+      "country": "إسرائيل",
+      "sub_domain": "الطائرات الكهربائية",
+      "short_description": "مطوّرة طائرة Alice ذات الجناح الثابت والانبعاثات الصفرية للرحلات الإقليمية.",
+      "technology": "هيكل طائرة كهربائي بالبطاريات",
+      "why_relevant": "حلّقت بطائرة كهربائية بالكامل تتسع لتسعة مقاعد تعيد تعريف الرحلات الإقليمية القصيرة.",
+      "history": "تأسست Eviation عام 2015 في إسرائيل، وطوّرت طائرة Alice ذات الجناح الثابت والدفع الكهربائي الكامل للرحلات القصيرة، بدعم مبكر شمل صندوق المناخ التابع لأمازون. في سبتمبر 2022 أكملت Alice رحلتها الأولى بنجاح، وهي رحلة دامت ثماني دقائق انطلقت من مطار أرلينغتون البلدي. تستهدف الشركة تنقلًا إقليميًا صفري الانبعاثات على مسارات تتراوح بين 150 و250 ميلًا بحريًا، لتضع Alice في خدمة لوجستيات التجارة الإلكترونية والشبكات الإقليمية. وتواصل Eviation دمج سلسلة توريد عالمية وجهود الاعتماد من منشآتها في إسرائيل والولايات المتحدة.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Eviation",
+      "country": "Israël",
+      "sub_domain": "Avions électriques",
+      "short_description": "Développeur d'Alice, un avion de ligne régional zéro émission à voilure fixe.",
+      "technology": "Cellule à propulsion 100 % électrique",
+      "why_relevant": "A fait voler un avion 100 % électrique de 9 places qui redéfinit les liaisons régionales.",
+      "history": "Fondée en 2015 en Israël, Eviation a développé Alice, un avion de ligne régional entièrement électrique à voilure fixe, avec un soutien précoce incluant le Climate Pledge Fund d'Amazon. En septembre 2022, Alice a réussi son premier vol d'une durée de huit minutes depuis l'aéroport municipal d'Arlington. La société vise une mobilité régionale zéro émission sur des itinéraires de 150 à 250 milles nautiques, positionnant Alice pour la logistique du e-commerce et les réseaux régionaux. Eviation continue d'intégrer une chaîne d'approvisionnement mondiale et des efforts de certification depuis ses installations en Israël et aux États-Unis.",
+      "hq_city": "Tel Aviv"
+    }
+  },
+  "heart-aerospace": {
+    "ar": {
+      "name": "Heart Aerospace",
+      "country": "السويد",
+      "sub_domain": "الطائرات الكهربائية",
+      "short_description": "طائرة ES-30 الهجينة-الكهربائية تعيد تعريف الرحلات الإقليمية.",
+      "technology": "دفع هجين-كهربائي",
+      "why_relevant": "طائرة ES-30 منخفضة الضجيج اعتمدتها شركات طيران كبرى لرحلات 800 كلم.",
+      "history": "تأسست Heart Aerospace عام 2018 في السويد، وطوّرت طائرة ES-30 الهجينة الكهربائية التي تستهدف رحلات إقليمية نحو 800 كيلومتر مع ضجيج أقل بشكل ملحوظ. أمنت الشركة شراكات رئيسية مع شركات طيران شملت يونايتد وإير كندا ومشغلين إقليميين ساعدوا في تشكيل تصميمها وتخطيط مساراتها. جمعت Heart تمويلًا استثماريًا جريئًا كبيرًا وطوّرت منصة ES-30 والبنية التحتية للشحن الأرضي، مع إطلاق مفهوم ES-9 للرحلات القصيرة بالبطاريات. وتواصل العمل نحو الاعتماد والتشغيل التجاري من مقرها في غوتنبرغ.",
+      "hq_city": "غوتنبرغ"
+    },
+    "fr": {
+      "name": "Heart Aerospace",
+      "country": "Suède",
+      "sub_domain": "Avions électriques",
+      "short_description": "L'ES-30 hybride-électrique redéfinit les routes régionales.",
+      "technology": "Propulsion hybride-électrique",
+      "why_relevant": "La ES-30 à faible bruit, retenue par de grandes compagnies pour des liaisons de 800 km.",
+      "history": "Fondée en 2018 en Suède, Heart Aerospace a développé l'ES-30, un avion régional hybride-électrique visant des vols d'environ 800 kilomètres avec un bruit nettement réduit. La société a noué des partenariats clés avec des compagnies aériennes comme United Airlines, Air Canada et des opérateurs régionaux pour façonner sa conception et la planification des routes. Heart a levé des fonds de capital-risque importants et fait progresser sa plateforme ES-30 et son infrastructure de recharge au sol, tout en lançant le concept ES-9 pour des vols batterie-électrique. Elle continue de travailler à la certification et à l'exploitation commerciale depuis son siège de Göteborg.",
+      "hq_city": "Göteborg"
+    }
+  },
+  "beta-technologies": {
+    "ar": {
+      "name": "Beta Technologies",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الطيران الكهربائي",
+      "short_description": "تبني طائرة ALIA الكهربائية بالبطاريات وشبكة الشحن المرافقة.",
+      "technology": "إقلاع وهبوط عمودي/تقليدي كهربائي بالكامل",
+      "why_relevant": "تنفّذ رحلات اختبارية عبر ممر الشحن الذي بنته في الشمال الشرقي.",
+      "history": "تأسست Beta Technologies عام 2017 قرب برلينغتون في فيرمونت، وتبني عائلة طائرات ALIA وشبكة محطات شحن كهربائية. حلّقت الشركة طائرات اختبار مبكرة كاملة النطاق وأنجزت رحلات اختبارية أطول، وأصبحت عميلًا مبكرًا لشبكة الشحن باتفاقات عبر شمال شرق الولايات المتحدة. جمعت أكثر من مليار دولار، بما في ذلك 375 مليون دولار عام 2023، وبدأت العمل نحو اعتماد نسختي ALIA التقليدية (CTOL) والعمودية (VTOL) لدى إدارة الطيران الفيدرالية. وتجمع Beta بين هندسة الطيران والبنية التحتية للطاقة لتمكين الطيران الكهربائي الإقليمي.",
+      "hq_city": "ساوث بيرلينغتون"
+    },
+    "fr": {
+      "name": "Beta Technologies",
+      "country": "États-Unis",
+      "sub_domain": "Aviation électrique",
+      "short_description": "Développe l'avion électrique ALIA et son réseau de recharge.",
+      "technology": "VTOL/CTOL 100 % électrique",
+      "why_relevant": "Mène des vols d'essai le long du corridor de recharge qu'elle a construit dans le Nord-Est.",
+      "history": "Fondée en 2017 près de Burlington, dans le Vermont, Beta Technologies construit la famille d'avions ALIA et un réseau de stations de recharge électrique. La société a fait voler ses premiers appareils d'essai à grande échelle, effectué des vols d'essai eVTOL plus longs et conclu des accords précoces dans tout le Nord-Est américain. Elle a levé plus d'un milliard de dollars, dont 375 millions en 2023, et a commencé à travailler vers la certification FAA des variantes ALIA CTOL et VTOL. Beta associe l'ingénierie aérospatiale à des infrastructures énergétiques pour permettre le vol électrique régional.",
+      "hq_city": "South Burlington"
+    }
+  },
+  "wisk-aero": {
+    "ar": {
+      "name": "Wisk Aero",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سيارات الأجرة الجوية ذاتية التشغيل",
+      "short_description": "تصنع طائرة eVTOL ذاتية التشغيل بالكامل لمقعدين، كشركة تابعة لبوينغ.",
+      "technology": "طائرة eVTOL بلا طيار",
+      "why_relevant": "رائدة في اعتماد رحلات الركاب بلا طيار تمامًا.",
+      "history": "تأسست Wisk Aero عام 2010 كمشروع مرتبط بـKitty Hawk ثم أُعيدت تسميتها، وتبني طائرة eVTOL ذاتية التشغيل بالكامل لمقعدين دون طيار على متنها. بعد استحواذ وإعادة هيكلة في إطار بوينغ عام 2023، طوّرت Wisk نهج اعتماد الرحلات الذاتية، وعملت بين قاعدة Kitty Hawk ونيوزيلندا وبشراكات لفيرتيبورتات. وتبقى رائدة في سيارات الأجرة الجوية بلا طيار، مع تركيز على السلامة والتكرار. ومقرها ماونتن فيو بكاليفورنيا، تواصل التطوير نحو التنقل الجوي الحضري التجاري لمسارات تنظيمية مستقبلية.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "Wisk Aero",
+      "country": "États-Unis",
+      "sub_domain": "Taxi aérien autonome",
+      "short_description": "Développe un eVTOL biplace entièrement autonome, en tant que filiale de Boeing.",
+      "technology": "eVTOL sans pilote",
+      "why_relevant": "Pionnière de la certification de vols de passagers entièrement sans pilote.",
+      "history": "Fondée en 2010 comme aventure liée à Kitty Hawk puis renommée Wisk Aero, l'entreprise construit un taxi aérien eVTOL biplace entièrement autonome, sans pilote à bord. Rachetée et restructurée dans l'orbite de Boeing en 2023, Wisk a fait progresser son approche de certification du vol autonome, opérant entre Kitty Hawk et la Nouvelle-Zélande et travaillant avec des partenaires sur les vertiports. Elle reste un leader du taxi aérien sans pilote, mettant l'accent sur la sûreté et la redondance. Basée à Mountain View, en Californie, Wisk poursuit le développement vers une mobilité aérienne urbaine commerciale pour de futures voies réglementaires.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "pqshield": {
+    "ar": {
+      "name": "PQShield",
+      "country": "المملكة المتحدة",
+      "sub_domain": "الأمن ما بعد الكمومي",
+      "short_description": "تحصّن الرقائق والأنظمة ضد تحليل التشفير بحواسيب كمومية.",
+      "technology": "ملكية فكرية وأشباه موصلات PQC",
+      "why_relevant": "ترحيل لحظة «يوم Q» في العتاد قبل أن تسبق موجة الذكاء الاصطناعي أنظمة التوقيعات.",
+      "history": "تأسست PQShield عام 2018 كشركة منبثقة عن جامعة أوكسفورد، وتطوّر ملكية فكرية وأشباه موصلات وأدوات تكامل للتشفير ما بعد الكمومي لحماية الرقائق والمستندات والأنظمة من تحليل التشفير عند «يوم Q». بنت الشركة علاقات وثيقة مع كبار مصنعي العتاد والأمن وأطلقت تطبيقات مقاومة للكم في معايير TLS وشرائح الإلكترونيات والمعايير الفيدرالية الأمريكية. جمعت 20 مليون دولار في جولة Series B عام 2023 لتسريع الإنتاج، محصّنة أجهزة التضمين للعصر ما بعد الكمومي. ومقرها أوكسفورد بالمملكة المتحدة، تعمل مع الحكومات ومصنعي أشباه الموصلات والأمن الصناعي لتحصين التشفير للمستقبل.",
+      "hq_city": "أوكسفورد"
+    },
+    "fr": {
+      "name": "PQShield",
+      "country": "Royaume-Uni",
+      "sub_domain": "Sécurité post-quantique",
+      "short_description": "Renforce puces et systèmes contre la cryptanalyse par ordinateur quantique.",
+      "technology": "IP et silicium PQC",
+      "why_relevant": "Une migration vers le jour-Q dans le matériel, avant que la vague IA ne dépasse les signatures.",
+      "history": "Fondée en 2018 comme spin-off de l'Université d'Oxford, PQShield développe des IP, du silicium et des outils d'intégration de cryptographie post-quantique pour protéger les puces, documents et systèmes contre la cryptanalyse quantique du « jour Q ». La société a bâti des relations étroites avec les grands fournisseurs de matériel et de sécurité et lancé des implémentations résistantes au quantique dans TLS, les chipsets et les normes post-quantiques fédérales américaines. Elle a levé 20 millions de dollars en Série B en 2023 pour accélérer la production, durcissant les appareils embarqués pour l'ère post-quantique. Basée à Oxford, PQShield travaille avec gouvernements, semi-conducteurs et sécurité industrielle pour pérenniser la cryptographie.",
+      "hq_city": "Oxford"
+    }
+  },
+  "shield-ai": {
+    "ar": {
+      "name": "Shield AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ذكاء اصطناعي دفاعي ذاتي",
+      "short_description": "ذكاء V-BAT الاصطناعي يقود الطائرات دون GPS أو اتصالات أو طيارين.",
+      "technology": "تقنيات ذاتية للطائرات الدفاعية",
+      "why_relevant": "قدرة ذاتية في أي بيئة قد تعيد تعريف متطلبات الطيارين للأساطيل.",
+      "history": "تأسست Shield AI عام 2015، وتطوّر طيارين بالذكاء الاصطناعي يمكّنون الطائرات من العمل دون GPS أو اتصالات أو طيارين. ينفّذ ذكاؤها Hivemind أتمتةً على الطائرات ذات الجناح الثابت والعمودية، بما فيها طائرة V-BAT التي خاضت عمليات ميدانية. جمعت الشركة أكثر من مليار دولار، بما في ذلك 200 مليون دولار بتقييم يتجاوز 4 مليارات. تدمج Shield AI اليوم ذكاءها الاصطناعي في منصات دفاعية مع شركاء استراتيجيين يخدمون عملاء عالميين، واضعةً نفسها مزودًا رائدًا في أتمتة الدفاع، عتادًا وبرمجيات.",
+      "hq_city": "سان دييغو"
+    },
+    "fr": {
+      "name": "Shield AI",
+      "country": "États-Unis",
+      "sub_domain": "IA de défense autonome",
+      "short_description": "V-BAT AI pilote des aéronefs sans GPS, sans communications ni pilotes.",
+      "technology": "Autonomie pour les aéronefs de défense",
+      "why_relevant": "Une autonomie universelle qui pourrait redéfinir les besoins en pilotes des flottes.",
+      "history": "Fondée en 2015, Shield AI développe des pilotes IA permettant aux aéronefs d'opérer sans GPS, sans communications ni pilotes. Son autonomie Hivemind exécute de l'IA embarquée pour les aéronefs à voilure fixe et VTOL, dont le drone V-BAT, éprouvé dans des opérations de combat. La société a levé plus d'un milliard de dollars, dont 200 millions à une valorisation de plus de 4 milliards. Shield AI intègre désormais son autonomie dans des plateformes de défense avec des partenaires stratégiques servant des clients dans le monde entier, se positionnant comme un fournisseur leader d'autonomie de défense, matériel et logiciel combinés.",
+      "hq_city": "San Diego"
+    }
+  },
+  "altos-labs": {
+    "ar": {
+      "name": "Altos Labs",
+      "country": "الولايات المتحدة",
+      "sub_domain": "علم طول العمر",
+      "short_description": "تستثمر في أبحاث عوامل الشباب المؤقتة لعكس شيخوخة الخلايا.",
+      "technology": "مفاهيم إعادة البرمجة الخلوية",
+      "why_relevant": "رهان بقيمة 3 مليارات دولار أن استعادة الشباب الخلوي مشكلة بيولوجية قابلة للحل.",
+      "history": "تأسست Altos Labs عام 2021 بدعم يقارب 3 مليارات دولار، وتموّل وتدير أبحاثًا حول تجديد الخلايا، بما يشمل التعبير المؤقت لعوامل الشباب لعكس الشيخوخة على المستوى الخلوي. جذبت الشركة علماء بارزين في طول العمر وأنشأت مواقع في خليج سان فرانسيسكو وسان دييغو وكامبريدج واليابان، مشكّلة أحد أكبر الفرق المخصصة لهذا المجال. تجمع بين الفضول الأكاديمي ورأس مال عميق، وتركّز على إعادة البرمجة والمؤشرات الحيوية والمسارات العلاجية لإطالة العمر الصحي. ومقرها ريدوود سيتي بكاليفورنيا، تواصل Altos توسيع منصتها العلمية وشراكاتها.",
+      "hq_city": "ريدوود سيتي"
+    },
+    "fr": {
+      "name": "Altos Labs",
+      "country": "États-Unis",
+      "sub_domain": "Science de la longévité",
+      "short_description": "Investit dans la recherche sur les facteurs transitoires de jeunesse pour inverser le vieillissement cellulaire.",
+      "technology": "Concepts de reprogrammation cellulaire",
+      "why_relevant": "Un pari de 3 milliards de dollars sur le rajeunissement cellulaire comme problème biologique soluble.",
+      "history": "Fondée en 2021 avec un soutien d'environ 3 milliards de dollars, Altos Labs finance et dirige des recherches sur le rajeunissement cellulaire, notamment l'expression transitoire de facteurs de jeunesse pour inverser le vieillissement au niveau cellulaire. Elle a recruté d'éminents scientifiques de la longévité et établi des campus dans la baie de San Francisco, à San Diego, à Cambridge et au Japon, constituant l'une des plus grandes équipes dédiées. La société associe curiosité académique et capital profond, se concentrant sur la reprogrammation, les biomarqueurs et les voies thérapeutiques vers l'extension de la durée de vie en bonne santé. Basée à Redwood City, en Californie, Altos continue de développer sa plateforme scientifique et ses partenariats.",
+      "hq_city": "Redwood City"
+    }
+  },
+  "retro-biosciences": {
+    "ar": {
+      "name": "Retro Biosciences",
+      "country": "الولايات المتحدة",
+      "sub_domain": "علم طول العمر",
+      "short_description": "تشغّل برامج لعكس الشيخوخة في الخلايا والفئران وقريبًا البشر.",
+      "technology": "مؤشرات حيوية للشيخوخة، إعادة برمجة جزئية",
+      "why_relevant": "منصة أطلس تراهن على منح لعقود لهزيمة شيخوخة الكائن الحي.",
+      "history": "تأسست Retro Biosciences عام 2021، وتركّز على إعادة البرمجة الخلوية الجزئية والمؤشرات الحيوية للشيخوخة، بمهمة معلنة لإطالة العمر الصحي للبشر عقدًا من الزمن. أعلنت الشركة عام 2023 منصة أطلس العلمية وجمعت دعمًا مبكرًا يتجاوز نحو 180 مليون دولار، مع ارتباطات بدعم سام ألتمان. تشغّل Retro برامج لعكس الشيخوخة في الخلايا والفئران وبتعاملات بشرية مبكرة، مبنية على خطوط بحث بين القطاعين العام والخاص. ومقرها سان فرانسيسكو، تواصل توسيع منصتها بمنح وشراكات تمتد لعقود.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Retro Biosciences",
+      "country": "États-Unis",
+      "sub_domain": "Science de la longévité",
+      "short_description": "Mène des programmes d'inversion du vieillissement sur cellules, souris et bientôt humains.",
+      "technology": "Biomarqueurs du vieillissement, reprogrammation partielle",
+      "why_relevant": "La plateforme Atlas parie sur des financements décennaux pour vaincre le vieillissement de l'organisme.",
+      "history": "Fondée en 2021, Retro Biosciences se concentre sur la reprogrammation cellulaire partielle et les biomarqueurs du vieillissement, avec une mission déclarée d'étendre la durée de vie humaine en bonne santé d'une décennie. En 2023, la société a annoncé sa plateforme scientifique Atlas et levé plus de 180 millions de dollars de soutien précoce, avec des liens avec le soutien de Sam Altman. Retro mène des programmes d'inversion du vieillissement sur cellules, souris et premières traductions humaines, construits sur des pipelines de recherche public-privé. Basée à San Francisco, elle continue de faire évoluer sa plateforme avec des financements et partenariats décennaux.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "gero": {
+    "ar": {
+      "name": "Gero",
+      "country": "سنغافورة",
+      "sub_domain": "تحليلات الشيخوخة",
+      "short_description": "تنمذج الشيخوخة البشرية رياضيًا لتتبع المرونة تجاه الإجهاد.",
+      "technology": "محاكيات شيخوخة بالذكاء الاصطناعي",
+      "why_relevant": "دليل إحصائي أن للإنسان ساعة بيولوجية للشيخوخة يمكن تعديلها بالتدخلات.",
+      "history": "تأسست Gero عام 2018 في سنغافورة وتنمذج الشيخوخة البشرية رياضيًا، بتحليل بيانات صحية طولية لتتبع المرونة الفيزيولوجية وساعة شيخوخة على مستوى الكائن الحي. أنتجت أعمالها مع مجموعات بيانات صحية كبيرة أدلة إحصائية على أنماط ديناميكيات الشيخوخة قد تعدّلها التدخلات. نشرت الشركة في مجلات رائدة وطوّرت محاكيات ذكاء اصطناعي لاكتشاف الأدوية وتجديد مكافحة الشيخوخة بشراكات مع قطاع الأدوية والمعاهد البحثية. ومقرها سنغافورة، تبقى Gero لاعبًا صغيرًا لكن مؤثرًا في تحليلات طول العمر، يربط علم البيانات بالطب.",
+      "hq_city": "سنغافورة"
+    },
+    "fr": {
+      "name": "Gero",
+      "country": "Singapour",
+      "sub_domain": "Analyse du vieillissement",
+      "short_description": "Modélise mathématiquement le vieillissement humain pour suivre la résilience au stress.",
+      "technology": "Simulateurs IA du vieillissement",
+      "why_relevant": "Preuve statistique que l'humain possède une horloge de vieillissement que les interventions peuvent moduler.",
+      "history": "Fondée en 2018 à Singapour, Gero modélise mathématiquement le vieillissement humain, en analysant des données de santé longitudinales pour suivre la résilience physiologique et une horloge de vieillissement au niveau de l'organisme. Ses travaux sur de grands ensembles de données de santé ont produit des preuves statistiques de schémas de dynamique du vieillissement que les interventions pourraient moduler. La société a publié dans d'importantes revues et développé des simulateurs IA pour la découverte de médicaments et les programmes anti-âge, en partenariat avec la pharmacie et des instituts de recherche. Basée à Singapour, Gero reste un acteur discret mais influent de l'analyse de la longévité, reliant science des données et médecine.",
+      "hq_city": "Singapour"
+    }
+  },
+  "causalens": {
+    "ar": {
+      "name": "causaLens",
+      "country": "المملكة المتحدة",
+      "sub_domain": "الذكاء الاصطناعي السببي",
+      "short_description": "يدمج التعلم السببي في قرارات المؤسسات، وليس مجرد الارتباطات.",
+      "technology": "نماذج تعلم آلي سببي",
+      "why_relevant": "يجيب عن «لماذا» في المالية والعمليات حيث تعجز النماذج الاحتمالية التقليدية.",
+      "history": "تأسست causaLens عام 2017 في لندن، وتطوّر ذكاء اصطناعي سببي يتيح للمؤسسات الإجابة عن «لماذا» — لا مجرد توقع «ماذا» — في قراراتها المالية والتشغيلية. بنت الشركة تقنية تعلم آلي سببي خاصة وتعمل مع كبار البنوك وقطاعات الطاقة والاستهلاك، بسمعة في أنظمة القرار القابلة للتفسير. جمعت أكثر من 45 مليون دولار من التمويل الجريء ووسّعت منصتها للتنبؤ والتحسين والمخاطر. ومقرها لندن، تواصل causaLens النمو في القطاعات المنظمة التي تحتاج نماذج قوية وقابلة للتفسير.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "causaLens",
+      "country": "Royaume-Uni",
+      "sub_domain": "IA causale",
+      "short_description": "Intègre l'apprentissage causal dans les décisions d'entreprise, au-delà de la corrélation.",
+      "technology": "Modèles de ML causal",
+      "why_relevant": "Répond au « pourquoi » en finance et en opérations, là où les modèles probabilistes butent.",
+      "history": "Fondée en 2017 à Londres, causaLens développe une IA causale permettant aux entreprises de répondre au « pourquoi » — pas seulement de prédire le « quoi » — dans leurs décisions financières et opérationnelles. Elle a construit une technologie propriétaire de machine learning causal et travaille avec de grands acteurs bancaires, énergétiques et de grande consommation, réputée pour ses systèmes décisionnels explicables. La société a levé plus de 45 millions de dollars de financement par capital-risque et élargi sa plateforme pour la prévision, l'optimisation et le risque. Basée à Londres, causaLens continue de croître dans les secteurs réglementés nécessitant des modèles robustes et interprétables.",
+      "hq_city": "Londres"
+    }
+  },
+  "halo-space": {
+    "ar": {
+      "name": "Halo Space",
+      "country": "إسبانيا",
+      "sub_domain": "السياحة في الغلاف الستراتوسفيري",
+      "short_description": "كبسولات بالونات ستراتوسفيرية تنقل الركاب إلى حافة الفضاء.",
+      "technology": "أنظمة طيران ستراتوسفيرية",
+      "why_relevant": "وصول أقل خطورة إلى الفضاء القريب للسياحة دون رحلات صواريخ.",
+      "history": "تأسست Halo Space عام 2021 في مدريد، وتطوّر كبسولات بالونات ستراتوسفيرية تنقل الركاب إلى حافة الفضاء عبر قوة رفع الهيدروجين، مما يجعل السياحة في الفضاء القريب أرخص وأكثر أمانًا من رحلات الصواريخ. أنجزت الشركة رحلات تطوير مبكرة بكبسولات مصغّرة ووقعت اتفاقات لتشغيل عمليات الإطلاق في مواقع مثل كولورادو. تستهدف Halo رحلات تجارية خلال سنوات قليلة بأسعار نحو 150,000 دولار، لرحلة تستمر ست ساعات على الارتفاع. وتبقى منافسًا أوروبيًا رئيسيًا في السياحة الفضائية وعاملًا عالميًا مركّزًا.",
+      "hq_city": "مدريد"
+    },
+    "fr": {
+      "name": "Halo Space",
+      "country": "Espagne",
+      "sub_domain": "Tourisme stratosphérique",
+      "short_description": "Des capsules à ballon stratosphérique qui emmènent les passagers aux portes de l'espace.",
+      "technology": "Systèmes de vol stratosphérique",
+      "why_relevant": "Un accès à moindre risque au bord de l'espace, sans lancement de fusée.",
+      "history": "Fondée en 2021 à Madrid, Halo Space développe des capsules à ballon stratosphérique transportant des passagers aux portes de l'espace grâce à la portance à hydrogène, rendant le tourisme spatial proche moins cher et plus sûr que les lancements de fusées. La société a réalisé de premiers vols de développement avec des capsules à échelle réduite et signé des accords pour les opérations de lancement dans des sites comme le Colorado. Halo vise des vols de passagers commerciaux d'ici quelques années, autour de 150 000 dollars, pour un voyage d'environ six heures en altitude. Elle reste un acteur européen de premier plan du tourisme spatial et un opérateur mondialement focalisé.",
+      "hq_city": "Madrid"
+    }
+  },
+  "space-perspective": {
+    "ar": {
+      "name": "Space Perspective",
+      "country": "الولايات المتحدة",
+      "sub_domain": "السياحة في الغلاف الستراتوسفيري",
+      "short_description": "مركبات SpaceBalloon تسمح للسياح بالطفو ست ساعات عند حافة الفضاء.",
+      "technology": "كبسولات بالونات على ارتفاعات عالية",
+      "why_relevant": "تجربة فضائية على ارتفاع 100,000 قدم مع صالون شمبانيا.",
+      "history": "تأسست Space Perspective عام 2019 في فلوريدا، وتطوّر كبسولة المركبة Neptune أنظمة بالونية تحمل ثمانية ركاب لست ساعات على ارتفاع 100,000 قدم، بنوافذ بانورامية كبيرة وصالون شمبانيا. بنت الشركة كبسولات واختبرتها دون طاقم ثم بطاقم من منشآتها قرب كيب كانافيرال، محققة اختبارًا ناجحًا كامل النطاق عام 2021. جمعت أكثر من 70 مليون دولار لتسويق الرحلات الستراتوسفيرية وتحسين أنظمة التوجيه والعودة وبناء موقع إطلاقها في فلوريدا. ومقرها ميريت آيلاند، تستهدف تجارب قريبة من الفضاء فاخرة دون دفع صاروخي.",
+      "hq_city": "ميريت آيلاند"
+    },
+    "fr": {
+      "name": "Space Perspective",
+      "country": "États-Unis",
+      "sub_domain": "Tourisme stratosphérique",
+      "short_description": "Les capsules SpaceBalloon font flotter les touristes pendant six heures aux portes de l'espace.",
+      "technology": "Capsules à ballon haute altitude",
+      "why_relevant": "Une expérience spatiale à 100 000 pieds, avec un salon de champagne.",
+      "history": "Fondée en 2019 en Floride, Space Perspective développe le Spaceship Neptune, une capsule à ballon transportant huit passagers pendant six heures à 100 000 pieds, avec de grandes fenêtres panoramiques et un salon champagne. La société a construit et testé des capsules sans équipage puis avec équipage depuis ses installations près de Cap Canaveral, réalisant un essai réussi à pleine échelle en 2021. Elle a levé plus de 70 millions de dollars pour commercialiser les vols stratosphériques, affiner les systèmes de guidage et de retour et construire son site de lancement en Floride. Basée à Merritt Island, Space Perspective vise des expériences proches de l'espace, luxueuses et sans propulsion par fusée.",
+      "hq_city": "Merritt Island"
+    }
+  },
+  "gravitics": {
+    "ar": {
+      "name": "Gravitics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "المحطات الفضائية",
+      "short_description": "وحدات بمستوى صناعي للمحطات الفضائية التجارية والخدمات المدارية.",
+      "technology": "وحدات سكنية كبيرة",
+      "why_relevant": "تبني البنى التحتية الداخلية للمحطات التجارية ما بعد محطة ISS.",
+      "history": "تأسست Gravitics عام 2020 ومقرها إيفريت بولاية واشنطن، وتطوّر وحدات إقامة بمستوى صناعي وبنية تصنيع للمحطات الفضائية التجارية والخدمات المدارية. في 2023 فازت ببرنامج تطوير كبير من وكالة NASA لمحطة Orbital Reef ولمقاصد تجارية أخرى، فصمّمت وحدات كبيرة فعالة الحجم تشمل دمجًا آليًا للأنظمة الموسعة. جمعت الشركة أكثر من 10 ملايين دولار في جولة Series B وحصلت على عقود عرض مزدوجة الاستخدام مع قوة الفضاء الأمريكية. وتستهدف Gravitics توفير الحجم المضغوط القابل للسكن الأساسي للمحطات التجارية ما بعد ISS.",
+      "hq_city": "إيفريت"
+    },
+    "fr": {
+      "name": "Gravitics",
+      "country": "États-Unis",
+      "sub_domain": "Stations spatiales",
+      "short_description": "Des modules de qualité industrielle pour stations spatiales commerciales et services en orbite.",
+      "technology": "Grands modules d'habitat",
+      "why_relevant": "Conçoit les infrastructures internes des stations commerciales de l'après-ISS.",
+      "history": "Fondée en 2020 et basée à Everett, dans l'État de Washington, Gravitics développe des modules d'habitat de qualité industrielle et une infrastructure de fabrication pour stations spatiales commerciales et services en orbite. En 2023, elle a remporté un important programme de développement de la NASA pour Orbital Reef et d'autres destinations commerciales, concevant de grands modules économes en volume, dont l'intégration robotisée de systèmes mis à l'échelle. La société a levé plus de 10 millions de dollars en Série B et décroché des contrats de démonstration à double usage avec l'US Space Force. Gravitics vise à fournir le volume pressurisable et habitable clé des stations commerciales d'après-ISS.",
+      "hq_city": "Everett"
+    }
+  }
+}

@@ -20,7 +20,8 @@ function selectColumns(alias = ''): string {
   const p = alias ? `${alias}.` : '';
   return `${p}id, ${p}name, ${p}country, ${p}domain, ${p}sub_domain,
       ${p}short_description, ${p}technology, ${p}year_founded, ${p}official_site,
-      ${p}source_url, ${p}why_relevant, ${p}priority, ${p}status,
+      ${p}source_url, ${p}why_relevant, ${p}history, ${p}hq_city,
+      ${p}latitude, ${p}longitude, ${p}priority, ${p}status,
       ${p}submitted_by_team_code,
       ROW_NUMBER() OVER (PARTITION BY ${p}domain ORDER BY ${p}year_founded, ${p}name) AS ref_no`;
 }
@@ -37,7 +38,7 @@ async function withTranslations(
   const ids = rows.map((r) => r.id);
   const translations = await query<StartupTranslationRow>(
     `SELECT startup_id, name, country, sub_domain, short_description,
-            technology, why_relevant
+            technology, why_relevant, history, hq_city
      FROM startup_translations
      WHERE locale = $1 AND startup_id = ANY($2::text[])`,
     [safeLocale, ids] as (string | number | boolean | null)[]

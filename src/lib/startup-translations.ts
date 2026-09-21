@@ -8,6 +8,8 @@ export interface StartupTranslationRow {
   short_description: string;
   technology: string;
   why_relevant: string;
+  history: string | null;
+  hq_city: string | null;
 }
 
 export function applyStartupTranslation(
@@ -22,6 +24,8 @@ export function applyStartupTranslation(
     subDomain: tr.sub_domain ?? startup.subDomain,
     shortDescription: tr.short_description,
     technology: tr.technology,
-    whyRelevant: tr.why_relevant
+    whyRelevant: tr.why_relevant,
+    history: tr.history ?? startup.history,
+    hqCity: tr.hq_city ?? startup.hqCity
   };
 }

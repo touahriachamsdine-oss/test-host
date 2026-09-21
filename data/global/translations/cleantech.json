@@ -1,0 +1,706 @@
+{
+  "terrapower": {
+    "ar": {
+      "name": "TerraPower",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الطاقة النووية المتقدمة",
+      "short_description": "مطوّر يدعمه بيل غيتس لمفاعلات الصوديوم السريعة ومفاعل ناتريوم النمطي الصغير SMR.",
+      "technology": "مفاعلات سريعة مبرّدة بملح منصهر",
+      "why_relevant": "أول بدء إنشاء لمفاعل متقدم يحصل على الترخيص في الولايات المتحدة منذ عقود.",
+      "history": "تأسست TerraPower عام 2006 بدعم من بيل غيتس، فتطوّرت من دراسات مبكرة حول مفاعلات الموجة المتنقلة إلى منصة ناتريوم التي تجمع بين مفاعل سريع مبرّد بالصوديوم وتخزين بالملح المنصهر. بعد سنوات من الترخيص وأعمال التصميم، حقّقت إنجازات كبرى في التمويل والترخيص، وشرعت في 2024 بأعمال البناء في كيميرير بولاية وايومنغ لأول محطة تجريبية ناتريوم، وهي أول بداية إنشاء لمفاعل متقدم مرخّص في الولايات المتحدة منذ عقود. وتركّز الشركة الآن على توسيع سلسلة توريدها بهدف نشر محطات ناتريوم التجارية في ثلاثينيات القرن الحالي.",
+      "hq_city": "بيلفيو"
+    },
+    "fr": {
+      "name": "TerraPower",
+      "country": "États-Unis",
+      "sub_domain": "Nucléaire avancé",
+      "short_description": "Développeur soutenu par Bill Gates de réacteurs rapides au sodium et du SMR Natrium.",
+      "technology": "Réacteurs rapides refroidis au sel fondu",
+      "why_relevant": "Premier démarrage de construction d'un réacteur avancé autorisé aux États-Unis depuis des décennies.",
+      "history": "Fondée en 2006 avec le soutien de Bill Gates, TerraPower est passée d'études sur les réacteurs à onde progressive à la plateforme Natrium, alliant un réacteur rapide refroidi au sodium à un stockage à sels fondus. Après des années de conception et d'étapes réglementaires, elle a franchi des jalons majeurs de financement et de licence puis démarré en 2024 le chantier de sa première centrale de démonstration Natrium à Kemmerer, dans le Wyoming, le premier démarrage de construction d'un réacteur avancé autorisé aux États-Unis depuis des décennies. L'entreprise déploie désormais sa chaîne d'approvisionnement en visant des centrales Natrium commerciales dans les années 2030.",
+      "hq_city": "Bellevue"
+    }
+  },
+  "commonwealth-fusion-systems": {
+    "ar": {
+      "name": "Commonwealth Fusion Systems",
+      "country": "الولايات المتحدة",
+      "sub_domain": "طاقة الاندماج",
+      "short_description": "شركة منبثقة عن معهد MIT تستخدم مغناطيسات فائقة التوصيل بدرجة حرارة عالية لمشروع SPARC.",
+      "technology": "مغناطيسات HTS واندماج توكاماك",
+      "why_relevant": "شركة الاندماج التي تَعِد بالطاقة على الشبكة قبل 2035.",
+      "history": "انبثقت شركة Commonwealth Fusion Systems عن معهد MIT عام 2018 بهدف تسريع تسويق الاندماج النووي باستخدام مغناطيسات فائقة التوصيل بدرجة حرارة عالية. جمعت جولات تمويل قياسية في 2021 بقيادة Breakthrough Energy Ventures وTiger Global، ثم أثبتت مغناطيسها المصنوع من HTS حطم الأرقام القياسية، مما قلّص المخاطر الهندسية لتصميم SPARC. تبني الشركة الآن مفاعل SPARC في منشأتها في ديفنز بولاية ماساتشوستس وتهدف إلى تحقيقات اندماج ذات صافي طاقة إيجابي بحلول منتصف العشرينيات، مع خطط لمحطة ARC الكهربائية قبل عام 2035.",
+      "hq_city": "ديفنز"
+    },
+    "fr": {
+      "name": "Commonwealth Fusion Systems",
+      "country": "États-Unis",
+      "sub_domain": "Énergie de fusion",
+      "short_description": "Filiale du MIT utilisant des aimants supraconducteurs haute température pour SPARC.",
+      "technology": "Aimants HTS, fusion par tokamak",
+      "why_relevant": "La société de fusion qui promet du courant sur le réseau avant 2035.",
+      "history": "Issue du MIT en 2018, Commonwealth Fusion Systems s'est donné pour mission d'accélérer la commercialisation de la fusion grâce à des aimants supraconducteurs à haute température. Elle a levé des tours de financement historiques en 2021 menés par Breakthrough Energy Ventures et Tiger Global, puis démontré son aimant HTS record, réduisant les risques du design SPARC. L'entreprise construit maintenant SPARC sur son site de Devens, dans le Massachusetts, et vise des expériences de fusion à gain net d'énergie d'ici le milieu des années 2020, avec une centrale électrique ARC prévue avant 2035.",
+      "hq_city": "Devens"
+    }
+  },
+  "helion-energy": {
+    "ar": {
+      "name": "Helion Energy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "طاقة الاندماج",
+      "short_description": "نهج اندماج نابض بمزيج وقود يبيع بالفعل اتفاقيات الكهرباء الأولى.",
+      "technology": "اندماج نابض غير بارد",
+      "why_relevant": "أبرم اتفاقية شراء الكهرباء من الاندماج، الأولى من نوعها في العالم.",
+      "history": "تأسست Helion Energy عام 2013 على يد ديفيد كيرتلي، وطوّرت نهج اندماج نابض غير بارد يعتمد على مزيج وقود من الديوتيريوم والهيليوم-3. حققت الشركة إنجازات متكررة في بلازما ذات حرارة عالية، وجمعت في 2021 واحدة من أكبر جولات تمويل الاندماج بدعم من سام ألتمان وآخرين. وفي 2023 وقّعت اتفاقية شراء كهرباء اندماجية هي الأولى من نوعها في العالم مع مايكروسوفت، وهي الآن تبني نموذجها بولاريس بهدف تحقيق صافي إنتاج الكهرباء بحلول 2027 ومحطات تجارية في أوائل الثلاثينيات.",
+      "hq_city": "إيفريت"
+    },
+    "fr": {
+      "name": "Helion Energy",
+      "country": "États-Unis",
+      "sub_domain": "Énergie de fusion",
+      "short_description": "Approche de fusion pulsée à mélange de combustibles, vend déjà ses premiers accords d'électricité.",
+      "technology": "Fusion pulsée non cryogénique",
+      "why_relevant": "A signé le tout premier accord mondial d'achat d'électricité issue de la fusion.",
+      "history": "Fondée en 2013 par David Kirtley, Helion Energy a développé une approche de fusion pulsée non cryogénique utilisant un mélange de deutérium et d'hélium-3. La société a multiplié les étapes de plasma à haute température et levé en 2021 l'un des plus importants tours de financement de la fusion, soutenu notamment par Sam Altman. En 2023, elle a signé un accord mondial inédit d'achat d'électricité de fusion avec Microsoft, et construit aujourd'hui son prototype Polaris, visant à démontrer un gain net d'électricité d'ici 2027 et des centrales commerciales au début des années 2030.",
+      "hq_city": "Everett"
+    }
+  },
+  "tae-technologies": {
+    "ar": {
+      "name": "TAE Technologies",
+      "country": "الولايات المتحدة",
+      "sub_domain": "طاقة الاندماج",
+      "short_description": "أقدم شركة اندماج خاصة على الإطلاق، تعمل الآن على بناء مفاعل كوبرنيكوس.",
+      "technology": "تشكيل ميداني مقلوب مدفوع بالحزم",
+      "why_relevant": "عقود من العمل على نهج الديوتيريوم والبورون لإنتاج طاقة بدون نيوترونات.",
+      "history": "تأسست TAE Technologies عام 1998، وهي أقدم شركة اندماج خاصة، نشأت من أبحاث فيزياء البلازما في جامعة كاليفورنيا. أمضت عقدين في تطوير تقنية تشكيل ميداني مقلوب مدفوع بالحزم تستهدف وقود الديوتيريوم والبورون عديم النيوترونات، مرورًا بسلسلة تجارب موسّعة منها جهاز نورمان. وبدعم من مستثمرين مثل غوغل، تبني الشركة الآن مفاعل كوبرنيكوس المصمم لإثبات صافي الطاقة، وتواصل العمل نحو محطات اندماج نظيفة تتجنب النفايات المشعة.",
+      "hq_city": "فوت هيل رانش"
+    },
+    "fr": {
+      "name": "TAE Technologies",
+      "country": "États-Unis",
+      "sub_domain": "Énergie de fusion",
+      "short_description": "La plus ancienne société privée de fusion, construisant aujourd'hui Copernicus.",
+      "technology": "Configuration à champ inversé pilotée par faisceaux",
+      "why_relevant": "Des décennies sur l'approche deutérium-bore pour une énergie aneutronique.",
+      "history": "Fondée en 1998, TAE Technologies est la plus ancienne entreprise privée de fusion, issue de la recherche sur la physique des plasmas de l'université de Californie. Elle a passé deux décennies à mûrir une configuration à champ inversé pilotée par faisceaux visant le combustible deutérium-bore aneutronique, franchissant une série d'expériences à échelle croissante, dont son dispositif Norman. Avec l'appui d'investisseurs comme Google, elle construit aujourd'hui Copernicus, conçu pour démontrer un gain net d'énergie, tout en poursuivant des centrales de fusion propres, sans déchets radioactifs.",
+      "hq_city": "Foothill Ranch"
+    }
+  },
+  "general-fusion": {
+    "ar": {
+      "name": "General Fusion",
+      "country": "كندا",
+      "sub_domain": "طاقة الاندماج",
+      "short_description": "نهج كندا الرائد في الاندماج المستهدف بالمغناطيس للوصول إلى اندماج تجاري.",
+      "technology": "اندماج مدفوع بالضغط",
+      "why_relevant": "أصل بمقياس مؤسسي عملت كولومبيا البريطانية على إدراجه في مشروع محطة تجريبية.",
+      "history": "تأسست General Fusion عام 2002 على يد علماء بينهم ميشيل لابيرج، وابتكرت نهج الاندماج المستهدف بالمغناطيس الذي يضغط بلازما ممغنطة بمكابس ميكانيكية. نمت الشركة بدعم مؤسسات كندية، وحصلت في 2021 على التزام تمويلي من الحكومة الكندية لبناء جهاز يصل إلى التعادل العلمي. وتعاونت مع هيئة الطاقة الذرية البريطانية حول محطة تجريبية للاندماج، وتواصل تطوير الهندسة فيما تعمل كولومبيا البريطانية على نطاق محطة تجريبية تجارية في المنطقة.",
+      "hq_city": "بيرنابي"
+    },
+    "fr": {
+      "name": "General Fusion",
+      "country": "Canada",
+      "sub_domain": "Énergie de fusion",
+      "short_description": "L'approche canadienne de pointe de fusion à cible magnétisée pour une fusion commerciale.",
+      "technology": "Fusion par compression",
+      "why_relevant": "Un actif à l'échelle institutionnelle que la Colombie-Britannique a intégré dans une centrale de démonstration.",
+      "history": "Fondée en 2002 par des scientifiques dont Michel Laberge, General Fusion a inauguré la fusion à cible magnétisée, comprimant des plasmas magnétisés avec des pistons mécaniques. L'entreprise a grandi avec le soutien des institutions canadiennes et a reçu en 2021 un engagement financier du gouvernement du Canada pour une machine capable d'atteindre le seuil scientifique. Elle s'est associée à l'Autorité britannique de l'énergie atomique sur une centrale de démonstration et poursuit ses travaux, la Colombie-Britannique évaluant une installation de démonstration commerciale dans la région.",
+      "hq_city": "Burnaby"
+    }
+  },
+  "radiant-nuclear": {
+    "ar": {
+      "name": "Radiant Nuclear",
+      "country": "الولايات المتحدة",
+      "sub_domain": "المفاعلات الدقيقة",
+      "short_description": "يطوّر مفاعلات نووية معيارية بمقياس كيلوواط لشبكات صغيرة في المناطق النائية.",
+      "technology": "تصميم مفاعل دقيق",
+      "why_relevant": "مفاعلات شبه جاهزة تُركّب على شاحنات للتبديل السريع، طاقة تُسلَّم في صندوق.",
+      "history": "تأسست Radiant Nuclear عام 2019 وتطوّر مفاعل كاليدوس الدقيق القابل للنقل بالشاحنات، والذي يولّد طاقة بمقياس الكيلوواط حتى الميجاواط للشبكات الصغيرة النائية والمواقع الصناعية. جمعت الشركة جولات استثمار مبكرة وفازت بعقود من وزارة الدفاع الأمريكية، وعملت على تطوير تصميم مفاعلها الجاهز للتبديل السريع عبر هندسة تفصيلية ومراجعات سلامة. تتقدم الآن نحو تحقيق التفاعل الحرج الأول خلال هذا العقد، واضعةً نفسها في موقع يسمح بتقديم طاقة مستقلة عن الشبكة في صندوق للتطبيقات المعزولة والطوارئ.",
+      "hq_city": "إل سيغوندو"
+    },
+    "fr": {
+      "name": "Radiant Nuclear",
+      "country": "États-Unis",
+      "sub_domain": "Microréacteurs",
+      "short_description": "Développe des réacteurs nucléaires modulaires à l'échelle du kilowatt pour micro-réseaux isolés.",
+      "technology": "Conception de microréacteur",
+      "why_relevant": "Réacteurs clé en main montés sur camion pour une énergie livrée en caisse.",
+      "history": "Fondée en 2019, Radiant Nuclear développe Kaleidos, un microréacteur transportable par camion fournissant une puissance de l'ordre du kilowatt au mégawatt pour les micro-réseaux isolés et les sites industriels. La société a levé de premiers tours de financement et remporté des contrats du Département de la Défense américain, faisant avancer son réacteur clé en main à travers l'ingénierie détaillée et les examens de sûreté. Radiant progresse désormais vers une première démonstration de criticité cette décennie, se positionnant pour offrir une électricité hors réseau dans une caisse pour les usages isolés et d'urgence.",
+      "hq_city": "El Segundo"
+    }
+  },
+  "nuscale-power": {
+    "ar": {
+      "name": "NuScale Power",
+      "country": "الولايات المتحدة",
+      "sub_domain": "المفاعلات النمطية الصغيرة SMR",
+      "short_description": "أول تصميم SMR يحصل على اعتماد هيئة التنظيم النووي الأمريكية.",
+      "technology": "مفاعلات نمطية صغيرة",
+      "why_relevant": "تصميم SMR معتمد يستهدف اقتصاديات تنافسية دون حاجز 100 ميجاواط.",
+      "history": "تأسست NuScale Power عام 2007 وطوّرت أول تصميم لمفاعل نمطي صغير يحصل على اعتماد هيئة التنظيم النووي الأمريكية، وهو إنجاز تحقق في 2023. نشأت الشركة من أبحاث جامعة ولاية أوريغون وأصبحت شركة مساهمة عامة في 2022، وقادت مشروع الطاقة الخالية من الكربون في أيداهو الذي أُلغي لاحقًا فيما تبحث عن عملاء جدد. تواصل NuScale تسويق محطاتها VOYGR بقدرة 77 ميجاواط كهربائي دوليًا، من رومانيا إلى بولندا، مستهدفة أول نشر خلال هذا العقد.",
+      "hq_city": "كورفاليس"
+    },
+    "fr": {
+      "name": "NuScale Power",
+      "country": "États-Unis",
+      "sub_domain": "SMR",
+      "short_description": "Premier design SMR certifié par la Commission de réglementation nucléaire américaine.",
+      "technology": "Petits réacteurs modulaires",
+      "why_relevant": "Design SMR certifié visant une économie compétitive sous la barre des 100 MW.",
+      "history": "Fondée en 2007, NuScale Power a développé le premier design de petit réacteur modulaire certifié par la Commission de réglementation nucléaire américaine, une étape franchie en 2023. Issue de la recherche de l'université d'État de l'Oregon, l'entreprise est entrée en Bourse en 2022 et a mené le désormais annulé Carbon Free Power Project dans l'Idaho tout en recherchant de nouveaux clients. NuScale continue de commercialiser ses centrales VOYGR de 77 MWe à l'international, de la Roumanie à la Pologne, en visant les premiers déploiements dans cette décennie.",
+      "hq_city": "Corvallis"
+    }
+  },
+  "oklo": {
+    "ar": {
+      "name": "Oklo",
+      "country": "الولايات المتحدة",
+      "sub_domain": "المفاعلات الدقيقة",
+      "short_description": "أول مفاعل دقيق سريع الطيف يحصل على تراخيص تجارية للبناء.",
+      "technology": "مفاعل دقيق سريع بوقود معدني",
+      "why_relevant": "محطات بقدرة 15 ميجاواط قابلة للنشر في أي مكان مع دورة وقود تدوم 20 عامًا.",
+      "history": "تأسست Oklo عام 2013 على يد جاكوب دي ويت وكارولين كوشران، وطوّرت مفاعل أورورا الدقيق سريع الطيف بقدرة 15 ميجاواط وعمر وقود يبلغ 20 عامًا يستخدم وقودًا معاد تدويره. أصبحت الشركة شركة مساهمة عامة عام 2024 وكانت الأولى في الولايات المتحدة التي تحصل على تصريح استخدام موقع ومراحل طلب ترخيص تجاري لمفاعل دقيق متقدم. وقّعت Oklo منذ ذلك الحين اتفاقيات شراء طاقة مع مراكز بيانات وعملاء صناعيين، ما يبشّر بنشر أولي بحلول أواخر العشرينيات.",
+      "hq_city": "سانيفال"
+    },
+    "fr": {
+      "name": "Oklo",
+      "country": "États-Unis",
+      "sub_domain": "Microréacteurs",
+      "short_description": "Premier microréacteur à spectre rapide doté de permis commerciaux de construction.",
+      "technology": "Microréacteur rapide à combustible métallique",
+      "why_relevant": "Des centrales de 15 MW déployables partout avec un combustible à 20 ans de durée de vie.",
+      "history": "Fondée en 2013 par Jacob DeWitte et Caroline Cochran, Oklo a développé Aurora, un microréacteur à spectre rapide de 15 MW à combustible recyclé et durée de vie de 20 ans. L'entreprise est devenue publique en 2024 et a été la première aux États-Unis à obtenir un permis d'utilisation de site et des jalons de demande de licence commerciale pour un microréacteur avancé. Oklo a depuis signé des accords d'achat d'électricité avec des centres de données et des clients industriels, signalant un élan vers un premier déploiement à la fin des années 2020.",
+      "hq_city": "Sunnyvale"
+    }
+  },
+  "kairos-power": {
+    "ar": {
+      "name": "Kairos Power",
+      "country": "الولايات المتحدة",
+      "sub_domain": "المفاعلات المتقدمة",
+      "short_description": "مفاعل حراري عالي الحرارة مبرّد بملح الفلورايد مع ثقافة نماذج أولية سريعة.",
+      "technology": "تقنية FHR",
+      "why_relevant": "النمذجة التكرارية حسّمت المفاجآت الباهظة التكلفة للوحدات الأولى من نوعها.",
+      "history": "تأسست Kairos Power عام 2016 على يد مايك لاوفر وبير بيترسون، وطوّرت مفاعل هيرميس عالي الحرارة المبرّد بملح الفلورايد بأسلوب يعتمد النمذجة الأولية التكرارية السريعة. أصبحت أول مفاعل متقدم غير مبرّد بالماء يحصل على تصريح بناء من هيئة التنظيم النووي الأمريكية، وذلك في 2025 لمحطة هيرميس التجريبية في أوك ريدج بولاية تينيسي. ومع جائزة نشر من وزارة الطاقة وشراكات مع غوغل وSouthern Company، تخطط Kairos لعرض هذه التقنية خلال هذا العقد ثم التوسع إلى محطات KFHR التجارية.",
+      "hq_city": "ألاميدا"
+    },
+    "fr": {
+      "name": "Kairos Power",
+      "country": "États-Unis",
+      "sub_domain": "Réacteurs avancés",
+      "short_description": "Réacteur haute température refroidi au sel de fluorure, avec une philosophie de prototypage rapide.",
+      "technology": "Technologie FHR",
+      "why_relevant": "Le prototypage itératif a levé les surprises coûteuses des premières unités.",
+      "history": "Fondée en 2016 par Mike Laufer et Per Peterson, Kairos Power a développé le réacteur haute température refroidi au sel de fluorure Hermes, avec une philosophie de prototypage itératif rapide. Elle est devenue le premier réacteur avancé non refroidi à l'eau à recevoir un permis de construction de la Commission de réglementation nucléaire américaine, approuvé en 2025 pour sa centrale de démonstration Hermes à Oak Ridge, dans le Tennessee. Avec une récompense de déploiement du Département de l'Énergie et des partenariats avec Google et Southern Company, Kairos prévoit de démontrer la technologie cette décennie puis de passer à l'échelle des centrales commerciales KFHR.",
+      "hq_city": "Alameda"
+    }
+  },
+  "oxford-pv": {
+    "ar": {
+      "name": "Oxford PV",
+      "country": "المملكة المتحدة",
+      "sub_domain": "الطاقة الشمسية البيروفسكايتية",
+      "short_description": "خلايا شمسية ترادفية من البيروفسكايت على السليكون تتجاوز حد الخلية أحادية الوصلة.",
+      "technology": "خلايا ترادفية من البيروفسكايت والسليكون",
+      "why_relevant": "دفعت الكفاءة التجارية للطاقة الشمسية فوق سقف 30 بالمئة القديم.",
+      "history": "تأسست Oxford PV عام 2010 كشركة منبثقة عن جامعة أكسفورد، وابتكرت خلايا شمسية ترادفية من البيروفسكايت على السليكون تتجاوز حد الكفاءة التقليدي للخلية أحادية الوصلة. جمعت الشركة تمويلًا استثماريًا وافتتحت مصنعًا في ألمانيا، وحققت في 2018 رقمًا قياسيًا عالميًا بخلية بيروفسكايت-سليكون بكفاءة 28 بالمئة. وقد شحنت منذ ذلك الحين وحدات ترادفية تجارية مبكرة وأعلنت شراكة إنتاج بمقياس جيجاواط، واضعةً نفسها في موقع لتقديم هذه التقنية إلى سوق الطاقة الشمسية الجماهيرية خلال السنوات المقبلة.",
+      "hq_city": "أكسفورد"
+    },
+    "fr": {
+      "name": "Oxford PV",
+      "country": "Royaume-Uni",
+      "sub_domain": "Solaire pérovskite",
+      "short_description": "Cellules solaires tandem pérovskite-silicium qui dépassent la limite des cellules à simple jonction.",
+      "technology": "Cellules tandem pérovskite-silicium",
+      "why_relevant": "A poussé l'efficacité du solaire commercial au-delà de l'ancien plafond de 30 %.",
+      "history": "Fondée en 2010 comme spin-off de l'université d'Oxford, Oxford PV a été pionnière des cellules solaires tandem pérovskite-silicium qui dépassent la limite des cellules à simple jonction. L'entreprise a levé des fonds, ouvert une usine en Allemagne et établi en 2018 un record mondial avec une cellule pérovskite-silicium à 28 % d'efficacité. Elle a depuis livré ses premiers modules tandem commerciaux et annoncé un partenariat de production à l'échelle du gigawatt, se positionnant pour porter la technologie au grand marché solaire dans les années à venir.",
+      "hq_city": "Oxford"
+    }
+  },
+  "carbon-engineering": {
+    "ar": {
+      "name": "Carbon Engineering",
+      "country": "كندا",
+      "sub_domain": "الالتقاط المباشر للهواء",
+      "short_description": "رائدة الالتقاط المباشر الصناعي لثاني أكسيد الكربون CO2 من الهواء لتحويله عبر شركة 1PointFive.",
+      "technology": "DAC + تحويل الهواء إلى وقود",
+      "why_relevant": "النموذج الأصلي لتقنية DAC الذي تحاكيه الآن عشرات الشركات الناشئة في إزالة الكربون.",
+      "history": "تأسست Carbon Engineering عام 2009 على يد ديفيد كيث، وابتكرت التقاط الهواء المباشر الصناعي لثاني أكسيد الكربون ومسارًا لتحويل الهواء إلى وقود. شغّلت الشركة محطة تجريبية في سكواميش بكولومبيا البريطانية، ورخّصت تقنيتها لشركة 1PointFive التابعة لأكسيدنتال، التي بدأت في 2022 بناء أول محطة كبيرة للالتقاط المباشر في تكساس. أصبحت الشركة جزءًا من مجموعة أكسيدنتال في 2023 وتواصل توسيع تقنيتها بوصفها النموذج المرجعي لصناعة إزالة الكربون المزدهرة.",
+      "hq_city": "سكواميش"
+    },
+    "fr": {
+      "name": "Carbon Engineering",
+      "country": "Canada",
+      "sub_domain": "Capture directe de l'air",
+      "short_description": "Pionnière de la capture directe industrielle du CO2 dans l'air pour sa conversion par 1PointFive.",
+      "technology": "DAC + air-carburant",
+      "why_relevant": "Le modèle DAC que copient désormais une douzaine de startups d'élimination du carbone.",
+      "history": "Fondée en 2009 par David Keith, Carbon Engineering a été pionnière de la capture directe industrielle du CO2 dans l'air et de la voie air-carburant. L'entreprise a exploité une usine de démonstration à Squamish, en Colombie-Britannique, et concédé sa technologie à la filiale d'Occidental, 1PointFive, qui a lancé en 2022 la construction de la première usine DAC à grande échelle au Texas. Devenue partie d'Occidental en 2023, elle continue de passer à l'échelle sa technologie comme le modèle de référence d'un secteur en plein essor de l'élimination du carbone.",
+      "hq_city": "Squamish"
+    }
+  },
+  "climeworks": {
+    "ar": {
+      "name": "Climeworks",
+      "country": "سويسرا",
+      "sub_domain": "الالتقاط المباشر للهواء",
+      "short_description": "تُشغّل أكبر محطة تجارية في العالم للالتقاط المباشر للهواء، ماموث.",
+      "technology": "التقاط DAC معياري بوحدات مرشحات",
+      "why_relevant": "تبيع إزالة دائمة للكربون بمقياس الأطنان لكبرى الشركات.",
+      "history": "تأسست Climeworks عام 2009 كشركة منبثقة عن المعهد الفدرالي السويسري للتكنولوجيا في زيورخ، وسوّقت الالتقاط المباشر المعياري للهواء بتقنية مرشحات قابلة لإعادة الاستخدام. أطلقت محطة أوركا في أيسلندا عام 2021، أول محطة DAC تجارية في العالم، ثم أضافت محطة ماموث التي بدأت التشغيل في 2024 بسعة أكبر بنحو عشرة أضعاف. وبدعم كبار المستثمرين والبرامج الحكومية، تبيع Climeworks أرصدة إزالة الكربون الدائمة لشركات مثل مايكروسوفت وسترايب وإيرباص، مع توسّع مشاريعها في أوروبا وأيسلندا وكينيا.",
+      "hq_city": "زيورخ"
+    },
+    "fr": {
+      "name": "Climeworks",
+      "country": "Suisse",
+      "sub_domain": "Capture directe de l'air",
+      "short_description": "Exploite la plus grande installation commerciale de capture directe de l'air, Mammoth.",
+      "technology": "DAC modulaire à filtres",
+      "why_relevant": "Vend une élimination permanente du carbone à l'échelle de la tonne à de grandes entreprises.",
+      "history": "Fondée en 2009, spin-off de l'ETH Zurich, Climeworks a commercialisé la capture directe de l'air modulaire grâce à des filtres réutilisables. Elle a lancé Orca en Islande en 2021, la première usine DAC commerciale au monde, puis Mammoth en 2024, environ dix fois plus grande, qui a démarré ses opérations. Appuyée par de grands investisseurs et des programmes publics, Climeworks vend des crédits d'élimination permanente du carbone à des sociétés telles que Microsoft, Stripe et Airbus, tout en étendant ses projets en Europe, en Islande et au Kenya.",
+      "hq_city": "Zurich"
+    }
+  },
+  "heirloom-carbon": {
+    "ar": {
+      "name": "Heirloom Carbon",
+      "country": "الولايات المتحدة",
+      "sub_domain": "إزالة الكربون",
+      "short_description": "يسرّع امتصاص CO2 الطبيعي لمعادن الحجر الجيري ليكتمل خلال أيام.",
+      "technology": "تمعدن DAC",
+      "why_relevant": "يستخدم أفران الكربونات لتحويل المعادن المهملة إلى مصانع لأرصدة إزالة الكربون.",
+      "history": "تأسست Heirloom Carbon عام 2020 على يد شاشانك سامالا، وتسرّع امتصاص الحجر الجيري الطبيعي لثاني أكسيد الكربون، مختزلة عملية التمعدن التي تستغرق سنوات إلى أيام باستخدام أفران كهربائية تعمل بالطاقة المتجددة. جمعت الشركة تمويلًا مبكرًا بارزًا وفازت بمنحة من وزارة الطاقة، وافتتحت أول منشأة تجارية لها في تريسي بولاية كاليفورنيا في أواخر 2023. وقّعت Heirloom اتفاقيات شراء أرصدة إزالة الكربون مع مايكروسوفت وكلارنا وغيرهم، وتسعى نحو توسيع منشآتها القادرة على إزالة ملايين الأطنان من ثاني أكسيد الكربون بتكلفة مجدية.",
+      "hq_city": "بريسبان"
+    },
+    "fr": {
+      "name": "Heirloom Carbon",
+      "country": "États-Unis",
+      "sub_domain": "Élimination du carbone",
+      "short_description": "Accélère l'absorption naturelle du CO2 par les minéraux calcaires, ramenée à quelques jours.",
+      "technology": "DAC par minéralisation",
+      "why_relevant": "Des fours à carbonates transforment des minéraux délaissés en usines de crédits d'élimination du carbone.",
+      "history": "Fondée en 2020 par Shashank Samala, Heirloom Carbon accélère l'absorption naturelle du CO2 par le calcaire, réduisant de plusieurs années à quelques jours la minéralisation grâce à des fours électriques alimentés par les renouvelables. L'entreprise a levé d'importants financements précoces, remporté une subvention du Département de l'Énergie et ouvert en fin 2023 sa première installation commerciale à Tracy, en Californie. Heirloom a signé des accords d'achat d'élimination du carbone avec Microsoft, Klarna et d'autres, visant des installations capables d'éliminer des mégatonnes de CO2 à un coût maîtrisé.",
+      "hq_city": "Brisbane"
+    }
+  },
+  "redwood-materials": {
+    "ar": {
+      "name": "Redwood Materials",
+      "country": "الولايات المتحدة",
+      "sub_domain": "إعادة تدوير البطاريات",
+      "short_description": "يعيد تحويل بطاريات السيارات الكهربائية المنتهية إلى مواد القطب الموجب والسالب.",
+      "technology": "إعادة تدوير البطاريات في حلقة مغلقة",
+      "why_relevant": "ذهب سلسلة التوريد الناتج عن إعادة التدوير قد يغطي ثلث حاجة أمريكا من البطاريات.",
+      "history": "تأسست Redwood Materials عام 2017 على يد جي بي ستراوبل المؤسس المشارك لشركة تيسلا، وبنَت خط إعادة تدوير مغلق الحلقة لبطاريات السيارات الكهربائية المنتهية ونفايات التصنيع. جمعت الشركة أكثر من مليار دولار من المستثمرين ومن وزارة الطاقة، وافتتحت منشآت في نيفادا لإعادة التدوير وفي كارولاينا الجنوبية لإنتاج الكاثود والأنود. وقّعت Redwood اتفاقيات توريد مع كبرى شركات السيارات وشركاء البطاريات، وتعمل على إعادة تدوير ما يكفي لتغطية حصة مجدية من الطلب الأمريكي على البطاريات.",
+      "hq_city": "كارسون سيتي"
+    },
+    "fr": {
+      "name": "Redwood Materials",
+      "country": "États-Unis",
+      "sub_domain": "Recyclage de batteries",
+      "short_description": "Transforme les batteries de VE en fin de vie en matériaux de cathode et d'anode.",
+      "technology": "Recyclage de batteries en boucle fermée",
+      "why_relevant": "L'or de la chaîne d'approvisionnement issu du recyclage pourrait couvrir un tiers des besoins américains en batteries.",
+      "history": "Fondée en 2017 par J.B. Straubel, cofondateur de Tesla, Redwood Materials a bâti une filière de recyclage en boucle fermée pour les batteries de véhicules électriques en fin de vie et les déchets de fabrication. L'entreprise a levé plus d'un milliard de dollars auprès d'investisseurs et du Département de l'Énergie, et ouvert des installations au Nevada pour le recyclage et en Caroline du Sud pour la production de cathodes et d'anodes. Redwood a signé des accords d'approvisionnement avec de grands constructeurs et partenaires de batteries, alimentant une part significative de la demande américaine en matériaux de batteries.",
+      "hq_city": "Carson City"
+    }
+  },
+  "ascend-elements": {
+    "ar": {
+      "name": "Ascend Elements",
+      "country": "الولايات المتحدة",
+      "sub_domain": "إعادة تدوير البطاريات",
+      "short_description": "عملية هيدرو-كاثود تعيد تدوير نفايات البطاريات إلى مسحوق كاثود قابل للاستخدام.",
+      "technology": "هيدرو-كاثود",
+      "why_relevant": "أول إنتاج كاثود بمقياس مصنع عملاق في الولايات المتحدة من خلايا مستهلكة.",
+      "history": "تأسست Ascend Elements عام 2015 وطوّرت عملية هيدرو-كاثود مسجلة ببراءة تحوّل نفايات تصنيع البطاريات والخلايا المنتهية إلى مسحوق كاثود قابل للاستخدام. تعمل الشركة من ماساتشوستس، وفازت باستثمار من وزارة الطاقة وأكملت في 2023 منشأة تجارية لإعادة تدوير البطاريات في جورجيا. وهي تبني الآن في كنتاكي ما قد يكون أول مصنع كاثود أمريكي بمقياس جيجافاكتوري من مواد معاد تدويرها، مع اتفاقيات شراء مع كبار مصنعي البطاريات والسيارات.",
+      "hq_city": "ويستبورو"
+    },
+    "fr": {
+      "name": "Ascend Elements",
+      "country": "États-Unis",
+      "sub_domain": "Recyclage de batteries",
+      "short_description": "Un procédé hydro-cathode recycle les déchets de batteries en poudre de cathode réutilisable.",
+      "technology": "Hydro-cathode",
+      "why_relevant": "Première production de cathodes à l'échelle d'une gigafactory aux États-Unis à partir de cellules usagées.",
+      "history": "Fondée en 2015, Ascend Elements a développé un procédé breveté hydro-cathode qui transforme les déchets de fabrication de batteries et les cellules usagées en poudre de cathode réutilisable. Basée dans le Massachusetts, elle a obtenu un investissement du Département de l'Énergie et achevé en 2023 une installation commerciale de recyclage de batteries en Géorgie. Elle construit aujourd'hui dans le Kentucky ce qui pourrait être la première usine de cathodes à l'échelle d'une gigafactory aux États-Unis, avec des accords d'achat de grands acteurs de la batterie et de l'automobile.",
+      "hq_city": "Westborough"
+    }
+  },
+  "li-cycle": {
+    "ar": {
+      "name": "Li-Cycle",
+      "country": "كندا",
+      "sub_domain": "إعادة تدوير البطاريات",
+      "short_description": "شبكة إعادة تدوير لليثيوم أيون بنمط المحاور والفرع مع تقنية تقطيع مغمور مسجلة ببراءة.",
+      "technology": "تقطيع مغمور + محور مركزي",
+      "why_relevant": "إعادة تدوير بلا صهر تستعيد 95 بالمئة من الكتلة الحرجة للبطارية.",
+      "history": "تأسست Li-Cycle عام 2016 وبنَت شبكة إعادة تدوير لليثيوم أيون بنمط المحاور والفرع باستخدام تقنية تقطيع مغمور مسجلة ببراءة تستعيد حتى 95 بالمئة من مواد البطاريات دون صهر. وسّعت الشركة مقرها في تورونتو مواقع الجمع عبر أمريكا الشمالية وأوروبا، وأُدرجت في بورصة نيويورك عام 2021. وبعد إيقاف بناء محورها في روتشستر بنيويورك بسبب تجاوز التكاليف، حصلت Li-Cycle على تمويل استراتيجي من غلينكور وأعادت صياغة استراتيجية المحاور للتركيز على العمليات التجارية.",
+      "hq_city": "تورونتو"
+    },
+    "fr": {
+      "name": "Li-Cycle",
+      "country": "Canada",
+      "sub_domain": "Recyclage de batteries",
+      "short_description": "Un réseau de recyclage lithium-ion en hub-and-spoke avec un déchiquetage submergé breveté.",
+      "technology": "Déchiquetage submergé + hub",
+      "why_relevant": "Un recyclage sans fusion qui récupère 95 % de la masse critique des batteries.",
+      "history": "Fondée en 2016, Li-Cycle a construit un réseau de recyclage lithium-ion en hub-and-spoke grâce à un déchiquetage submergé breveté qui récupère jusqu'à 95 % des matériaux de batterie sans fusion. L'entreprise torontoise a étendu ses sites de collecte en Amérique du Nord et en Europe et s'est inscrite au New York Stock Exchange en 2021. Après avoir suspendu la construction de son hub de Rochester, dans l'État de New York, face aux dépassements de coûts, Li-Cycle a obtenu un financement stratégique de Glencore et a revu sa stratégie pour se recentrer sur l'exploitation commerciale.",
+      "hq_city": "Toronto"
+    }
+  },
+  "electric-hydrogen": {
+    "ar": {
+      "name": "Electric Hydrogen",
+      "country": "الولايات المتحدة",
+      "sub_domain": "المحللات الكهربائية",
+      "short_description": "يبني محللات كهربائية منخفضة التكلفة بمقياس جيجاواط لإنتاج الهيدروجين الأخضر.",
+      "technology": "أكوام تحليل PLM",
+      "why_relevant": "يهدف إلى جعل الهيدروجين منافسًا للوقود الأحفوري في الصناعات الثقيلة.",
+      "history": "تأسست Electric Hydrogen عام 2021 على يد مخضرمين من شركتي First Solar وTesla، وطوّرت أكوام محللات كهربائية بمقياس جيجاواط منخفضة التكلفة لإنتاج الهيدروجين الأخضر. جمعت الشركة تمويلًا كبيرًا، منها جولة من الفئة C بقيمة 380 مليون دولار عام 2023 بقيادة Breakthrough Energy Ventures وآخرين، وهي من أكبر الجولات في قطاع المحللات. افتتحت مصنعًا في ناتيك بولاية ماساتشوستس ووقّعت اتفاقيات توريد مبكرة، مستهدفةً مصانع تجعل الهيدروجين منافسًا للمواد الأولية الأحفورية في الصناعة الثقيلة.",
+      "hq_city": "ناتيك"
+    },
+    "fr": {
+      "name": "Electric Hydrogen",
+      "country": "États-Unis",
+      "sub_domain": "Électrolyseurs",
+      "short_description": "Construit des électrolyseurs à faible coût à l'échelle du gigawatt pour l'hydrogène vert.",
+      "technology": "Stacks d'électrolyse PLM",
+      "why_relevant": "Vise à rendre l'hydrogène compétitif face aux fossiles dans l'industrie lourde.",
+      "history": "Fondée en 2021 par des anciens de First Solar et Tesla, Electric Hydrogen a développé des stacks d'électrolyseurs à l'échelle du gigawatt et à faible coût pour l'hydrogène vert. L'entreprise a levé des financements conséquents, dont un tour de série C de 380 millions de dollars en 2023 mené par Breakthrough Energy Ventures et d'autres, l'un des plus importants dans le secteur des électrolyseurs. Elle a ouvert une usine à Natick, dans le Massachusetts, et signé de premiers accords d'approvisionnement, ciblant des installations qui rendent l'hydrogène compétitif face aux intrants fossiles dans l'industrie lourde.",
+      "hq_city": "Natick"
+    }
+  },
+  "ohmium": {
+    "ar": {
+      "name": "Ohmium",
+      "country": "الولايات المتحدة",
+      "sub_domain": "المحللات الكهربائية",
+      "short_description": "محللات PEM معيارية تُشحن حول العالم لإنتاج هيدروجين متجدد.",
+      "technology": "أكوام PEM مدمجة",
+      "why_relevant": "محللات موضوعة في حاويات تحوّل أي زاوية من الشبكة إلى مركز للهيدروجين النظيف.",
+      "history": "تأسست Ohmium عام 2020 وتصمّم محللات PEM معيارية موضوعة في حاويات يمكن نشرها حيثما تتوفر الطاقة المتجددة. أقامت الشركة تصنيعًا في الهند والولايات المتحدة ونمّت خط طلبيات يبلغ عدة جيجاواط عبر آسيا وأوروبا وأمريكا الشمالية، بدعم مستثمرين مثل Energy Impact Partners. تتيح أكوام Ohmium الجاهزة للتوصيل للعملاء تشغيل قدرات الهيدروجين في أيام، ما يضع الشركة في موقع رائد ضمن سوق الهيدروجين الأخضر الموزّع.",
+      "hq_city": "فريمونت"
+    },
+    "fr": {
+      "name": "Ohmium",
+      "country": "États-Unis",
+      "sub_domain": "Électrolyseurs",
+      "short_description": "Électrolyseurs PEM modulaires expédiés dans le monde entier pour un hydrogène renouvelable.",
+      "technology": "Stacks PEM compacts",
+      "why_relevant": "Des électrolyseurs conteneurisés transforment chaque recoin du réseau en hub d'hydrogène propre.",
+      "history": "Fondée en 2020, Ohmium conçoit des électrolyseurs PEM modulaires conteneurisés, déployables là où l'énergie renouvelable est disponible. L'entreprise a établi une production en Inde et aux États-Unis et a bâti un pipeline de commandes de plusieurs gigawatts en Asie, en Europe et en Amérique du Nord, soutenue par des investisseurs comme Energy Impact Partners. Les stacks prêts à brancher d'Ohmium permettent aux clients de mettre en service des capacités d'hydrogène en quelques jours, positionnant l'entreprise pour un rôle de leader sur le marché distribué de l'hydrogène vert.",
+      "hq_city": "Fremont"
+    }
+  },
+  "sublime-systems": {
+    "ar": {
+      "name": "Sublime Systems",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الإسمنت الكهربائي",
+      "short_description": "يصنع الإسمنت بعملية كهروكيميائية بدلًا من الأفران.",
+      "technology": "إسمنت كهروكيميائي",
+      "why_relevant": "يساعد على تفكيك مشكلة 8 بالمئة من انبعاثات CO2 المختبئة داخل الخرسانة.",
+      "history": "تأسست Sublime Systems عام 2020 كشركة منبثقة عن معهد MIT، وطوّرت عملية كهروكيميائية تصنع إسمنتًا منخفض الكربون في درجة حرارة محيطة بدلًا من الأفران الحارقة. جمعت الشركة أكثر من 100 مليون دولار من مستثمرين مثل Lowercarbon Capital، وفازت بجائزة من وزارة الطاقة وشراكت مع هولسيم أثناء توسيع نشاطها. وبعد التحقق من الكيمياء في مشاريع تجريبية، تبني Sublime أول منشأة إنتاج تجارية لها، مستهدفةً نحو 8 بالمئة من انبعاثات ثاني أكسيد الكربون العالمية التي يساهم فيها تصنيع الإسمنت.",
+      "hq_city": "سومرفيل"
+    },
+    "fr": {
+      "name": "Sublime Systems",
+      "country": "États-Unis",
+      "sub_domain": "Ciment électrique",
+      "short_description": "Fabrique du ciment par procédé électrochimique au lieu de fours.",
+      "technology": "Ciment électrochimique",
+      "why_relevant": "Aide à abattre le problème des 8 % d'émissions de CO2 cachés dans le béton.",
+      "history": "Fondée en 2020, spin-off du MIT, Sublime Systems a développé un procédé électrochimique qui produit un ciment bas carbone à température ambiante au lieu de fours surchauffés. L'entreprise a levé plus de 100 millions de dollars auprès d'investisseurs comme Lowercarbon Capital, remporté une récompense du Département de l'Énergie et conclu un partenariat avec Holcim. Après avoir validé la chimie dans des pilotes, Sublime construit sa première installation commerciale, ciblant les quelque 8 % des émissions mondiales de CO2 dues à la fabrication du ciment.",
+      "hq_city": "Somerville"
+    }
+  },
+  "brimstone-energy": {
+    "ar": {
+      "name": "Brimstone Energy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "إسمنت منزوع الكربون",
+      "short_description": "ينتج الإسمنت من الصخور السليكاتية دون إطلاق CO2 في العملية.",
+      "technology": "SCM من سيليكات الكالسيوم",
+      "why_relevant": "يبيع بديلًا مكافئًا للإسمنت البورتلاندي ذا بصمة كربون سلبية.",
+      "history": "تأسست Brimstone Energy عام 2019 على يد كودي فينك، وطوّرت عملية كيميائية تصنع إسمنت بورتلاندي من الصخور السليكاتية بدلًا من الحجر الجيري، مما يلغي انبعاثات العملية التي تهيمن على بصمة الإسمنت الكربونية. جمعت الشركة الناشئة في أوكلاند بكاليفورنيا أكثر من 80 مليون دولار، منها استثمار من صندوق Breakthrough Energy Ventures التابع لبيل غيتس، وأصبحت أول شركة إسمنت منزوع الكربون تحصل على دعم وزارة الطاقة الأمريكية. وتسعى Brimstone إلى توسيع محطة تجريبية قادرة على تقديم إسمنت سالب الكربون بجودة وتكلفة البورتلاندي التقليدي.",
+      "hq_city": "أوكلاند"
+    },
+    "fr": {
+      "name": "Brimstone Energy",
+      "country": "États-Unis",
+      "sub_domain": "Ciment décarboné",
+      "short_description": "Produit du ciment à partir de roches silicatées sans libérer de CO2 de procédé.",
+      "technology": "SCM à base de silicate de calcium",
+      "why_relevant": "Vend un substitut équivalent au ciment Portland à empreinte carbone négative.",
+      "history": "Fondée en 2019 par Cody Finke, Brimstone Energy a développé un procédé chimique qui fabrique du ciment Portland à partir de roches silicatées au lieu du calcaire, éliminant les émissions de procédé qui dominent l'empreinte carbone du ciment. La startup d'Oakland, en Californie, a levé plus de 80 millions de dollars, dont le soutien de Breakthrough Energy Ventures de Bill Gates, et est devenue la première société de ciment décarboné soutenue par le Département de l'Énergie. Brimstone passe à l'échelle une usine pilote susceptible de livrer un ciment à empreinte carbone négative au prix et à la qualité du Portland traditionnel.",
+      "hq_city": "Oakland"
+    }
+  },
+  "boston-metal": {
+    "ar": {
+      "name": "Boston Metal",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الصلب الأخضر",
+      "short_description": "التحليل الكهربائي للأكاسيد المنصهرة يصنع الصلب دون أفران صهر أو كربون.",
+      "technology": "تحليل كهربائي MOE",
+      "why_relevant": "مسار نحو صلب شبه خالٍ من الكربون دون الحاجة أولًا لنشر مصانع هيدروجين.",
+      "history": "تأسست Boston Metal عام 2012 كشركة منبثقة عن معهد MIT، وطوّرت تقنية التحليل الكهربائي للأكاسيد المنصهرة لإنتاج الصلب والحديد والمعادن من أي خام دون أفران صهر أو كربون. جمعت الشركة أكثر من 300 مليون دولار، منها استثمارات من Breakthrough Energy Ventures وأرسيلور ميتال، وافتتحت مصنعًا تجاريًا في البرازيل ينتج معادن عالية القيمة مثل القصدير والنيوبيوم. وهي الآن توسّع خلايا التحليل الكهربائي بمقياس جيجاواط لصنع صلب أخضر بتكلفة تنافسية للسوق العالمية.",
+      "hq_city": "ووبرن"
+    },
+    "fr": {
+      "name": "Boston Metal",
+      "country": "États-Unis",
+      "sub_domain": "Acier vert",
+      "short_description": "L'électrolyse d'oxydes fondus produit de l'acier sans hauts fourneaux ni carbone.",
+      "technology": "Électrolyse MOE",
+      "why_relevant": "Une voie vers un acier quasi zéro carbone sans d'abord déployer des usines d'hydrogène.",
+      "history": "Fondée en 2012, spin-off du MIT, Boston Metal a développé l'électrolyse d'oxydes fondus pour produire acier, fer et métaux à partir de tout minerai, sans hauts fourneaux ni carbone. L'entreprise a levé plus de 300 millions de dollars, notamment de Breakthrough Energy Ventures et d'ArcelorMittal, et ouvert au Brésil une usine commerciale produisant des métaux de grande valeur comme l'étain et le niobium. Elle passe aujourd'hui à des cellules MOE de classe gigawatt pour fabriquer de l'acier vert à un coût compétitif sur le marché mondial.",
+      "hq_city": "Woburn"
+    }
+  },
+  "electra": {
+    "ar": {
+      "name": "Electra",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الصلب الأخضر",
+      "short_description": "يُكرّف الصلب كهربائيًا في درجات حرارة منخفضة، مما يقلص احتياجاته من الطاقة.",
+      "technology": "تكرير بدرجات حرارة منخفضة",
+      "why_relevant": "التكرير بالكهرباء يفتح صناعة الصلب على الطاقات المتجددة المتقطعة.",
+      "history": "تأسست Electra عام 2020 وطوّرت عملية تكرير كهروكيميائية بدرجات حرارة منخفضة تصنع الحديد والصلب مباشرة من الخام وتستهلك طاقة أقل بنسبة 60 إلى 70 بالمئة عن المسارات التقليدية. جمعت الشركة في بولدر بولاية كولورادو تمويلًا من Breakthrough Energy Ventures وصندوق المناخ الخاص بأمازون وآخرين، وفازت بعقد سلسلة توريد من وزارة الدفاع الأمريكية. تسوّق Electra مصنعها التجريبي بطاقة 30 طنًا يوميًا وتهدف إلى إنتاج صلب شبه خالٍ من الكربون يمكن أن يعمل بالطاقة المتجددة المتقطعة.",
+      "hq_city": "بولدر"
+    },
+    "fr": {
+      "name": "Electra",
+      "country": "États-Unis",
+      "sub_domain": "Acier vert",
+      "short_description": "Raffine l'acier par électrolyse à basse température, réduisant ses besoins énergétiques.",
+      "technology": "Raffinage basse température",
+      "why_relevant": "Un raffinage électrifié qui ouvre la sidérurgie aux renouvelables intermittentes.",
+      "history": "Fondée en 2020, Electra a développé un procédé électrochimique de raffinage à basse température qui fabrique fer et acier directement à partir du minerai en consommant 60 à 70 % d'énergie en moins que les filières classiques. L'entreprise de Boulder, au Colorado, a levé des fonds auprès de Breakthrough Energy Ventures, du fonds climatique d'Amazon et d'autres, et a remporté un contrat de chaîne d'approvisionnement du Département de la Défense américain. Electra commercialise son usine pilote de 30 tonnes par jour et vise un acier quasi zéro carbone pouvant fonctionner sur les renouvelables intermittentes.",
+      "hq_city": "Boulder"
+    }
+  },
+  "rondo-energy": {
+    "ar": {
+      "name": "Rondo Energy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التخزين الحراري",
+      "short_description": "تخزين حراري يعتمد على الطوب يوفّر حرارة العمليات الصناعية عند الطلب.",
+      "technology": "بطاريات حرارية من الطوب",
+      "why_relevant": "حرارة صناعية تُكهرب بمعادن رخيصة لا بمواد نادرة.",
+      "history": "تأسست Rondo Energy عام 2020 وطوّرت بطارية حرارية من الطوب الحراري العادي تحوّل الكهرباء المتجددة إلى حرارة صناعية عالية الحرارة عند الطلب. حظيت بدعم Breakthrough Energy Ventures وصندوق الابتكار المناخي لدى مايكروسوفت وآخرين، ونشرت أول منشأة لها في تايلاند وأعلنت مشاريع توسع في أوروبا والولايات المتحدة. يسمح التخزين الحراري منخفض التكلفة لدى Rondo للمصانع باستبدال الغلايات التي تعمل بالوقود الأحفوري بتحويل طاقة الشمس والرياح الرخيصة على مر الزمن إلى بخار وحرارة معالجة.",
+      "hq_city": "ألاميدا"
+    },
+    "fr": {
+      "name": "Rondo Energy",
+      "country": "États-Unis",
+      "sub_domain": "Stockage thermique",
+      "short_description": "Un stockage thermique à base de briques qui fournit de la chaleur industrielle à la demande.",
+      "technology": "Batteries thermiques en briques",
+      "why_relevant": "Une chaleur industrielle électrifiée avec des minéraux bon marché, pas des matériaux rares.",
+      "history": "Fondée en 2020, Rondo Energy a développé une batterie thermique en briques réfractaires ordinaires qui convertit l'électricité renouvelable en chaleur industrielle haute température à la demande. Soutenue par Breakthrough Energy Ventures, le Climate Innovation Fund de Microsoft et d'autres, l'entreprise a déployé sa première installation en Thaïlande et annoncé des projets d'expansion en Europe et aux États-Unis. Le stockage thermique à faible coût de Rondo permet aux usines de remplacer leurs chaudières fossiles en reportant l'électricité solaire et éolienne bon marché vers la vapeur et la chaleur de process.",
+      "hq_city": "Alameda"
+    }
+  },
+  "antora-energy": {
+    "ar": {
+      "name": "Antora Energy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التخزين الحراري",
+      "short_description": "بطاريات حرارية من كتل الكربون تُطلق الحرارة والكهرباء حسب الطلب.",
+      "technology": "من الحرارة إلى الكهرباء",
+      "why_relevant": "يجسر الشبكة بحرارة مخزّنة تتحول إلى كهرباء قابلة للتحكم عند الطلب.",
+      "history": "تأسست Antora Energy عام 2018 على يد خريجين من جامعة ستانفورد، وبنَت بطاريات حرارية من كتل الكربون تخزّن الكهرباء كحرارة وتعيدها كحرارة معالجة وكهرباء قابلة للتحكم عبر التحويل الضوئي الكهروحراري. جمعت الشركة تمويلًا كبيرًا، منها جولة بقيمة 150 مليون دولار عام 2023، ووقّعت شراكات مع مرافق ومشغلي صناعة. تشغّل Antora الآن أنظمة معيارية تحوّل الحرارة المخزنة إلى كهرباء مرنة، مما يساعد مشغلي الشبكة على دمج مزيد من الطاقة المتجددة المتقطعة.",
+      "hq_city": "سان خوسيه"
+    },
+    "fr": {
+      "name": "Antora Energy",
+      "country": "États-Unis",
+      "sub_domain": "Stockage thermique",
+      "short_description": "Batteries thermiques en blocs de carbone fournissant chaleur et électricité à la demande.",
+      "technology": "Thermique vers électrique",
+      "why_relevant": "Comble le réseau avec de la chaleur stockée convertie en électricité pilotable.",
+      "history": "Fondée en 2018 par des anciens de Stanford, Antora Energy a construit des batteries thermiques en blocs de carbone qui stockent l'électricité sous forme de chaleur et la restituent comme chaleur de process et électricité pilotable via la conversion thermophotovoltaïque. L'entreprise a levé d'importants financements, dont un tour de 150 millions de dollars en 2023, et signé des partenariats avec des services publics et des opérateurs industriels. Antora déploie des systèmes modulaires qui convertissent la chaleur stockée en électricité flexible, aidant les réseaux à intégrer davantage de renouvelables intermittentes.",
+      "hq_city": "San Jose"
+    }
+  },
+  "monolith": {
+    "ar": {
+      "name": "Monolith",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الهيدروجين النظيف",
+      "short_description": "الانحلال الحراري للميثان يفصل الغاز الطبيعي إلى هيدروجين وكربون أسود صلب.",
+      "technology": "هيدروجين بالانحلال الحراري",
+      "why_relevant": "هيدروجين سلعي دون CO2 مع منتج جانبي من الكربون الأسود.",
+      "history": "تأسست Monolith عام 2020 وطوّرت تقنية الانحلال الحراري للميثان التي تفصل الغاز الطبيعي إلى هيدروجين نظيف وكربون أسود صلب بدلًا من إطلاق ثاني أكسيد الكربون. حصلت الشركة في نبراسكا على قرض بقيمة مليار دولار من وزارة الطاقة ووسّعت محطة أوليف كريك، أحد أكبر منشآت الهيدروجين النظيف في العالم، باستثمارات من SK وميتسوبيشي. وتتوسع Monolith لتزويد هيدروجين منخفض التكلفة للأمونيا والتكرير وخلايا الوقود، فيما تبيع المنتج الجانبي من الكربون الأسود لعملاء الإطارات والبلاستيك.",
+      "hq_city": "لينكولن"
+    },
+    "fr": {
+      "name": "Monolith",
+      "country": "États-Unis",
+      "sub_domain": "Hydrogène propre",
+      "short_description": "Le craquage du méthane sépare le gaz naturel en hydrogène et noir de carbone solide.",
+      "technology": "Hydrogène par pyrolyse",
+      "why_relevant": "Un hydrogène de commodité sans CO2, avec un co-produit de noir de carbone.",
+      "history": "Fondée en 2020, Monolith a développé le craquage du méthane, un procédé qui sépare le gaz naturel en hydrogène propre et en noir de carbone solide au lieu d'émettre du CO2. L'entreprise du Nebraska a sécurisé un prêt d'un milliard de dollars du Département de l'Énergie et développé sa centrale d'Olive Creek, l'une des plus grandes installations d'hydrogène propre au monde, avec des investissements de SK et Mitsubishi. Monolith passe à l'échelle pour fournir un hydrogène à bas coût à l'ammoniac, au raffinage et aux piles à combustible, tout en vendant le co-produit noir de carbone aux clients de pneus et de plastiques.",
+      "hq_city": "Lincoln"
+    }
+  },
+  "stegra-h2-green-steel": {
+    "ar": {
+      "name": "Stegra (H2 Green Steel)",
+      "country": "السويد",
+      "sub_domain": "الصلب الأخضر",
+      "short_description": "يبني مصنعًا كبيرًا للصلب بالهيدروجين الأخضر في شمال السويد.",
+      "technology": "صناعة الصلب بالهيدروجين عبر الاختزال المباشر DRI",
+      "why_relevant": "إثبات تجاري رائد أن الصلب بالهيدروجين يمكن تسليمه على نطاق واسع.",
+      "history": "تأسست الشركة عام 2020 باسم H2 Green Steel وأعيدت تسميتها Stegra في 2024، وتبني واحدة من أولى محطات الصلب الأخضر بالهيدروجين على نطاق واسع في بودين شمال السويد. جمعت حزمة تمويل بقيمة 6.5 مليار يورو، واحدة من أكبر حزم التمويل لشركة ناشئة صناعية أوروبية، وأضافت أسهمًا من مستثمرين بينهم Generation Investment Management التابع لأل جور. تهدف Stegra إلى بدء تسليم الصلب المختزل بالهيدروجين لشركات السيارات والصناعة من 2026، في إثبات تجاري رائد للصلب الهيدروجيني على نطاق واسع.",
+      "hq_city": "ستوكهولم"
+    },
+    "fr": {
+      "name": "Stegra (H2 Green Steel)",
+      "country": "Suède",
+      "sub_domain": "Acier vert",
+      "short_description": "Construit une grande aciérie à hydrogène vert dans le nord de la Suède.",
+      "technology": "Sidérurgie par hydrogène-DRI",
+      "why_relevant": "Preuve commerciale phare que l'acier à hydrogène peut être livré à grande échelle.",
+      "history": "Fondée en 2020 sous le nom de H2 Green Steel puis rebaptisée Stegra en 2024, l'entreprise construit à Boden, dans le nord de la Suède, l'une des premières aciéries à hydrogène vert de très grande échelle. Elle a réuni un financement de 6,5 milliards d'euros, l'un des plus importants pour une startup industrielle européenne, complété par du capital d'investisseurs dont Generation Investment Management d'Al Gore. Stegra vise à livrer dès 2026 son acier réduit à l'hydrogène aux constructeurs automobiles et à l'industrie, apportant la preuve commerciale phare de l'acier à hydrogène à grande échelle.",
+      "hq_city": "Stockholm"
+    }
+  },
+  "twelve": {
+    "ar": {
+      "name": "Twelve",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تحويل ثاني أكسيد الكربون",
+      "short_description": "كيمياء كهربائية تحوّل CO2 إلى وقود طائرات وبلاستيك وكيماويات دقيقة.",
+      "technology": "تحليل كهربائي لثاني أكسيد الكربون",
+      "why_relevant": "وقود الطائرات E-Jet من CO2 ملتقط يُطرح كإجابة عملية على إمدادات وقود الطيران المستدام SAF.",
+      "history": "تأسست Twelve عام 2015 وتستخدم الكيمياء الكهربائية لتحويل ثاني أكسيد الكربون الملتقط إلى وقود طائرات وبلاستيك وكيماويات حرجة. جمعت الشركة في بيركلي بكاليفورنيا أكثر من 200 مليون دولار، منها استثمار من صندوق الابتكار المناخي لدى مايكروسوفت، وحققت توسيعًا مئة ضعف لتقنية المحللات الكهربائية. أطلقت Twelve وقودها E-Jet في الولايات المتحدة وفازت بعقود مع شركات طيران والقوات الجوية الأمريكية، فيما تنتج أيضًا البولي بروبيلين ومواد أولية أخرى، وتبني الآن مصنعًا تجاريًا أكبر.",
+      "hq_city": "بيركلي"
+    },
+    "fr": {
+      "name": "Twelve",
+      "country": "États-Unis",
+      "sub_domain": "Conversion du CO2",
+      "short_description": "L'électrochimie transforme le CO2 en carburant d'avion, plastiques et produits chimiques critiques.",
+      "technology": "Électrolyse du CO2",
+      "why_relevant": "Le carburant E-Jet issu du CO2 capturé, présenté comme une réponse pratique au SAF.",
+      "history": "Fondée en 2015, Twelve utilise l'électrochimie pour transformer le CO2 capturé en carburant d'avion, en plastiques et en produits chimiques critiques. L'entreprise de Berkeley, en Californie, a levé plus de 200 millions de dollars, dont le Climate Innovation Fund de Microsoft, et multiplié par cent son électrolyseur. Twelve a lancé son carburant E-Jet aux États-Unis, remporté des contrats avec des compagnies aériennes et l'US Air Force, produit aussi du polypropylène et d'autres intrants, et construit désormais une usine commerciale plus grande.",
+      "hq_city": "Berkeley"
+    }
+  },
+  "air-company": {
+    "ar": {
+      "name": "Air Company",
+      "country": "الولايات المتحدة",
+      "sub_domain": "من CO2 إلى الوقود",
+      "short_description": "يحوّل CO2 والماء إلى وقود طيران مستدام ومشروبات روحية.",
+      "technology": "مفاعلات تحويل CO2 إلى وقود",
+      "why_relevant": "وقود وفودكا بحلقة مغلقة من الهواء الرقيق، يشتريها العملاء فعلًا.",
+      "history": "تأسست Air Company عام 2017 وطوّرت عملية خاصة تحوّل ثاني أكسيد الكربون والماء إلى وقود طيران مستدام ومشروبات روحية ومكونات عطرية باستخدام الطاقة المتجددة. تعاونت الشركة الناشئة في نيويورك لتوريد وقودها AIRMADE للطيران وحققت مبيعات تجارية مبكرة، معتبرة منتجها من الفودكا إثباتًا لدورة الكربون الصفرية. وبدعم مستثمرين منهم Toyota Ventures، تتوسع Air Company نحو الإنتاج الصناعي للوقود وتنمّي خط عملائها في مجال الطيران.",
+      "hq_city": "بروكلين"
+    },
+    "fr": {
+      "name": "Air Company",
+      "country": "États-Unis",
+      "sub_domain": "CO2 en carburants",
+      "short_description": "Convertit le CO2 et l'eau en carburant d'aviation durable et en spiritueux.",
+      "technology": "Réacteurs CO2-carburant",
+      "why_relevant": "Un carburant et une vodka en boucle fermée produits de l'air, que les clients achètent réellement.",
+      "history": "Fondée en 2017, Air Company a développé un procédé propriétaire qui convertit le CO2 et l'eau en carburant d'aviation durable, en spiritueux et en arômes grâce aux énergies renouvelables. La startup new-yorkaise s'est associée pour fournir son SAF AIRMADE et a réalisé de premières ventes commerciales, traitant sa vodka comme une preuve de son cycle carbone nul. Soutenue par des investisseurs dont Toyota Ventures, Air Company étend la production industrielle de carburant et développe son portefeuille de clients aériens.",
+      "hq_city": "Brooklyn"
+    }
+  },
+  "amogy": {
+    "ar": {
+      "name": "Amogy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "طاقة الأمونيا",
+      "short_description": "يحوّل الأمونيا إلى طاقة كهربائية للشاحنات والسفن والآلات الثقيلة.",
+      "technology": "تفكيك الأمونيا + خلايا الوقود",
+      "why_relevant": "الأمونيا الخضراء كهيدروجين سائل للنقل، دون أنظمة تبريد مؤلمة.",
+      "history": "تأسست Amogy عام 2020 كشركة منبثقة عن معهد MIT، وطوّرت نظامًا يفكك الأمونيا الخضراء إلى هيدروجين يمر عبر خلايا الوقود لتوليد طاقة كهربائية للشاحنات والسفن والمعدات الثقيلة. حققت الشركة في بروكلين أول تحقيقات عالمية مدعومة بالأمونيا، منها جرار عام 2022 وشاحنة نصف مقطورة عام 2023 وقاطرة بحرية في العام نفسه. جمعت Amogy أكثر من 200 مليون دولار، منها صندوق المناخ الخاص بأمازون، وهي الآن تكيّف نظامها للسفن البحرية الأكبر.",
+      "hq_city": "بروكلين"
+    },
+    "fr": {
+      "name": "Amogy",
+      "country": "États-Unis",
+      "sub_domain": "Énergie à l'ammoniac",
+      "short_description": "Transforme l'ammoniac en électricité pour camions, navires et engins lourds.",
+      "technology": "Craquage d'ammoniac, piles à combustible",
+      "why_relevant": "L'ammoniac vert comme hydrogène liquide pour le transport, sans cryogénie.",
+      "history": "Issue du MIT en 2020, Amogy a développé un système qui craque l'ammoniac vert en hydrogène et le fait passer dans des piles à combustible pour produire de l'électricité pour camions, navires et engins lourds. L'entreprise de Brooklyn a réalisé des démonstrations mondiales inédites à l'ammoniac, dont un tracteur en 2022, un semi-remorque en 2023 et un remorqueur la même année. Amogy a levé plus de 200 millions de dollars, notamment du fonds climatique d'Amazon, et adapte désormais son système à de plus grands navires de mer.",
+      "hq_city": "Brooklyn"
+    }
+  },
+  "zeroavia": {
+    "ar": {
+      "name": "ZeroAvia",
+      "country": "المملكة المتحدة",
+      "sub_domain": "الطيران الهيدروجيني",
+      "short_description": "يطوّر أنظمة دفع هيدروجينية كهربائية لرحلات إقليمية بدون انبعاثات.",
+      "technology": "طيران بخلايا وقود H2",
+      "why_relevant": "أول طائرة تجارية في العالم تعمل بخلايا الوقود عبر رحلة بمقياس 19 مقعدًا.",
+      "history": "تأسست ZeroAvia عام 2017 على يد فال مفتاخوف، وتطوّر أنظمة دفع هيدروجينية كهربائية للطيران الإقليمي تعمل بخلايا الوقود ومحركات كهربائية. حققت الشركة أول رحلة بطائرة تجارية تعمل بخلايا الوقود باستخدام طائرة بايبر ذات ستة مقاعد عام 2020، وأتبعتها بنموذج 19 مقعدًا عام 2023، مستهدفة دخول الخدمة خلال هذا العقد. جمعت الشركة البريطانية الأمريكية أكثر من 300 مليون دولار من مستثمرين بينهم يونايتد إيرلاينز، وتعمل على اعتماد نظام الدفع ZA600 للطائرات الإقليمية وطائرات التوربين المحوّلة.",
+      "hq_city": "كيمبل"
+    },
+    "fr": {
+      "name": "ZeroAvia",
+      "country": "Royaume-Uni",
+      "sub_domain": "Aviation à hydrogène",
+      "short_description": "Développe des groupes motopropulseurs hydrogène-électricité pour le vol régional zéro émission.",
+      "technology": "Aviation à pile à combustible H2",
+      "why_relevant": "Premier vol commercial mondial à pile à combustible, à l'échelle de 19 passagers.",
+      "history": "Fondée en 2017 par Val Miftakhov, ZeroAvia développe des groupes motopropulseurs hydrogène-électricité pour l'aviation régionale, associant piles à combustible et moteurs électriques. L'entreprise a réalisé le premier vol commercial mondial à pile à combustible avec un Piper six places en 2020, puis un prototype de 19 places en 2023, visant une entrée en service dans cette décennie. La société anglo-américaine a levé plus de 300 millions de dollars auprès d'investisseurs dont United Airlines et certifie son groupe motopropulseur ZA600 pour les avions régionaux et les turbopropulseurs convertis.",
+      "hq_city": "Kemble"
+    }
+  },
+  "sunfire": {
+    "ar": {
+      "name": "Sunfire",
+      "country": "ألمانيا",
+      "sub_domain": "المحللات الكهربائية",
+      "short_description": "الرائد في الاتحاد الأوروبي في التحليل القلوي المضغوط والتحليل بالأكسيد الصلب.",
+      "technology": "أكوام SOEC + قلوية",
+      "why_relevant": "محللات بأكسيد صلب رائدة في الكفاءة لمصافي الصناعات الإلكترونية.",
+      "history": "تأسست Sunfire عام 2010 وأصبحت رائدة أوروبية في التحليل القلوي المضغوط والتحليل بالأكسيد الصلب للهيدروجين الأخضر والوقود الإلكتروني. جمعت الشركة في دريسدن تمويلًا متتابعًا من مستثمرين مثل Planet A، وحصلت على دعم من الاتحاد الأوروبي ومشاريع وطنية، وفازت بطلبيات محطات صناعية من بينها Norsk e-Fuel في النرويج. تقدّم Sunfire الآن منصتين: أكسيد صلب رائد في الكفاءة وقلوية متينة، واضعةً نفسها لتزويد المصافي الإلكترونية ومصانع الكيماويات التي تزيل الكربون في أوروبا.",
+      "hq_city": "دريسدن"
+    },
+    "fr": {
+      "name": "Sunfire",
+      "country": "Allemagne",
+      "sub_domain": "Électrolyseurs",
+      "short_description": "Leader européen de l'électrolyse alcaline pressurisée et à oxyde solide.",
+      "technology": "Stacks SOEC + alcalins",
+      "why_relevant": "Des électrolyseurs à oxyde solide à l'efficacité de pointe pour les e-raffineries industrielles.",
+      "history": "Fondée en 2010, Sunfire est devenue un leader européen de l'électrolyse alcaline pressurisée et à oxyde solide pour l'hydrogène vert et les e-carburants. L'entreprise de Dresde a levé des financements successifs auprès d'investisseurs comme Planet A, obtenu le soutien de l'Union européenne et de programmes nationaux, et remporté des commandes pour des installations industrielles dont Norsk e-Fuel en Norvège. Sunfire propose aujourd'hui des plateformes SOEC de pointe en efficacité et alcalines robustes, se positionnant pour fournir les e-raffineries et usines chimiques qui décarbonent l'Europe.",
+      "hq_city": "Dresde"
+    }
+  },
+  "verkor": {
+    "ar": {
+      "name": "Verkor",
+      "country": "فرنسا",
+      "sub_domain": "مصانع البطاريات العملاقة",
+      "short_description": "يبني مصانع خلايا البطاريات الفرنسية لخزانات الذكاء الاصطناعي الخاصة بالسيارات الكهربائية.",
+      "technology": "إنتاج خلايا LFP/NMC",
+      "why_relevant": "إجابة أوروبا لإبقاء إنتاج الخلايا داخل سلسلة توريدها الخاصة.",
+      "history": "تأسست Verkor عام 2019 لبناء مصانع البطاريات العملاقة الفرنسية الرائدة لتزويد السيارات الكهربائية والتطبيقات الصناعية بالخلايا. جمعت الشركة في غرونوبل أكثر من ملياري يورو كتمويل، بقيادة رينو وشركة التعدين ماكواري، وشرعت في 2023 بأعمال البناء في مصنعها العملاق في دونكيرك. تخطط Verkor لرفع الإنتاج إلى 16 جيجاواط ساعة في البداية ثم 50 جيجاواط ساعة بحلول 2030، ما يعزز قدرة أوروبا على صناعة الخلايا الحرجة داخل سلسلة توريدها الخاصة.",
+      "hq_city": "غرونوبل"
+    },
+    "fr": {
+      "name": "Verkor",
+      "country": "France",
+      "sub_domain": "Gigafactories de batteries",
+      "short_description": "Construit les usines françaises de cellules de batteries pour les tableaux de bord d'IA des VE.",
+      "technology": "Production de cellules LFP/NMC",
+      "why_relevant": "La réponse de l'Europe pour garder la production de cellules dans sa propre chaîne d'approvisionnement.",
+      "history": "Fondée en 2019, Verkor construit les flagship gigafactories de batteries françaises pour fournir des cellules aux véhicules électriques et aux applications industrielles. L'entreprise de Grenoble a levé plus de 2 milliards d'euros de financement, avec Renault et le géant minier Macquarie comme piliers, et lancé en 2023 la construction de sa gigafactory de Dunkerque. Verkor prévoit de porter la production à 16 GWh dans un premier temps puis à 50 GWh d'ici 2030, renforçant la capacité de l'Europe à produire des cellules critiques dans sa propre chaîne d'approvisionnement.",
+      "hq_city": "Grenoble"
+    }
+  }
+}

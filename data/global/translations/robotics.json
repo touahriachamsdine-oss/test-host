@@ -1,0 +1,662 @@
+{
+  "boston-dynamics": {
+    "ar": {
+      "name": "Boston Dynamics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "روبوتات ذات أرجل",
+      "short_description": "الرائد العالمي في الروبوتات الرياضية ذات الأرجل، مع منصتي Spot وAtlas.",
+      "technology": "حركة ديناميكية، مناولة",
+      "why_relevant": "حدّد حدود الممكن تقنيًا في مجال الروبوتات الرباعية الأرجل والإنسانية الشكل.",
+      "history": "تأسست شركة Boston Dynamics عام 1992 كفرع لمختبر الروبوتات في معهد ماساتشوستس للتكنولوجيا MIT، وقضت سنواتها الأولى في حل المشكلات الأساسية للحركة الديناميكية. استحوذت عليها Google عام 2013 ثم SoftBank عام 2017، واستحوذت مجموعة Hyundai Motor على الحصة الأكبر في 2020. أُطلق أول منتج تجاري لها، وهو روبوت Spot رباعي الأرجل، في عام 2020 وتوزعت منه آلاف الوحدات للتفتيش الصناعي، تلاه روبوت Stretch لتفريغ الشاحنات في المستودعات. تواصل الشركة اليوم دفع حدود الروبوتات البشرية عبر منصة Atlas الكهربائية الجديدة مع توسيع عروضها التجارية.",
+      "hq_city": "والتام"
+    },
+    "fr": {
+      "name": "Boston Dynamics",
+      "country": "États-Unis",
+      "sub_domain": "Robots à pattes",
+      "short_description": "Leader mondial des robots à pattes dotés de capacités athlétiques, avec les plateformes Spot et Atlas.",
+      "technology": "Locomotion dynamique, manipulation",
+      "why_relevant": "A repoussé les limites du possible en robotique quadrupède et humanoïde.",
+      "history": "Fondée en 1992 comme émanation du Leg Lab du MIT, Boston Dynamics a consacré ses premières années à résoudre les problèmes fondamentaux de la locomotion dynamique. Google a racheté l'entreprise en 2013, suivie de SoftBank en 2017, puis Hyundai Motor Group en a pris le contrôle majoritaire en 2020. Son premier produit commercial, le quadrupède Spot, a été lancé en 2020 et se déploie à des milliers d'exemplaires pour l'inspection industrielle, suivi du robot de déchargement Stretch. L'entreprise continue de repousser l'autonomie humanoïde avec la plateforme électrique Atlas tout en élargissant son offre commerciale.",
+      "hq_city": "Waltham"
+    }
+  },
+  "figure-ai": {
+    "ar": {
+      "name": "Figure AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "روبوتات بشرية الشكل",
+      "short_description": "مطوّر الروبوت البشري متعدد الاستخدامات Figure 01/02.",
+      "technology": "محولات بشرية الشكل، تحكم عصبي",
+      "why_relevant": "دفعة تجارية لإدخال الروبوتات البشرية في قطاعات اللوجستيات والتصنيع.",
+      "history": "أسس رائد الأعمال بريت أدكوك شركة Figure AI في عام 2022، وسعت إلى طرح روبوتات بشرية متعددة الأغراض تجاريًا في غضون سنوات قليلة. أعلنت الشركة في مطلع 2024 عن جولة تمويل ضخمة بلغت نحو 675 مليون دولار بقيمة تقديرية 2.6 مليار دولار، بمشاركة Microsoft وOpenAI وNVIDIA وجيف بيزوس، ثم كشفت عن روبوت Figure 02 في أغسطس 2024. وضعتها شراكة تصنيع مع BMW وحدات تجريبية أولى للعمل في مصنعها بولاية كارولينا الجنوبية. وفي 2025 قدمت الشركة Figure 03 المزوّد بذكاء اصطناعي للمحادثة وبدأت تجارب مع كبار عملاء اللوجستيات.",
+      "hq_city": "سانيفيل"
+    },
+    "fr": {
+      "name": "Figure AI",
+      "country": "États-Unis",
+      "sub_domain": "Robots humanoïdes",
+      "short_description": "Développeur du robot humanoïde polyvalent Figure 01/02.",
+      "technology": "Actionnement humanoïde, contrôle neuronal",
+      "why_relevant": "La poussée commerciale des humanoïdes dans la logistique et la fabrication.",
+      "history": "Fondée en 2022 par l'entrepreneur Brett Adcock, Figure AI a entrepris de commercialiser des humanoïdes polyvalents en quelques années. Début 2024, elle a annoncé une levée de fonds majeure d'environ 675 millions de dollars pour une valorisation de 2,6 milliards, avec Microsoft, OpenAI, NVIDIA et Jeff Bezos parmi ses investisseurs, puis a dévoilé le robot Figure 02 en août 2024. Un partenariat de fabrication avec BMW a mis les premiers prototypes au travail dans l'usine du constructeur en Caroline du Sud. En 2025, l'entreprise a présenté la Figure 03 dotée d'une IA conversationnelle et lancé des pilotes avec de grands clients logistiques.",
+      "hq_city": "Sunnyvale"
+    }
+  },
+  "agility-robotics": {
+    "ar": {
+      "name": "Agility Robotics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "روبوتات بشرية الشكل",
+      "short_description": "مطوّر روبوت Digit، وهو روبوت بشري مصمّم لعمليات المستودعات اللوجستية.",
+      "technology": "حركة على قدمين، مناولة متحركة",
+      "why_relevant": "أول روبوتات بشرية تُنشر في عمليات لوجستية حقيقية لدى العملاء.",
+      "history": "تأسست Agility Robotics عام 2015 كفرع لجامعة ولاية أوريغون، حيث شكلت أبحاث المؤسس المشارك جوناثان هيرست الأساس لتصاميمها ذات الأرجل. كشفت الشركة الناشئة عن روبوت Digit البشري عام 2019، ثم قضت السنوات التالية في تطويره لأعمال المستودعات. في 2022 أبرمت أولى صفقاتها التجارية، بما فيها شراكة بارزة مع عملاق اللوجستيات GXO، وفي 2023 افتتحت مصنعها RoboFab في سالم لإنتاج Digit بكميات كبيرة. تبيع Agility اليوم روبوت Digit تجاريًا لشركات تنفيذ الطلبات، وتواصل تطوير استقلاليته في بيئات عمل أوسع.",
+      "hq_city": "كورفاليس"
+    },
+    "fr": {
+      "name": "Agility Robotics",
+      "country": "États-Unis",
+      "sub_domain": "Robots humanoïdes",
+      "short_description": "Créateur de Digit, un robot humanoïde conçu pour la logistique d'entrepôt.",
+      "technology": "Locomotion bipède, manipulation mobile",
+      "why_relevant": "Premiers humanoïdes déployés dans des opérations logistiques clients en conditions réelles.",
+      "history": "Agility Robotics a été fondée en 2015 en tant qu'émanation de l'Oregon State University, où les recherches du cofondateur Jonathan Hurst ont posé les bases de ses créations bipèdes. La startup a dévoilé son humanoïde Digit en 2019 puis a consacré les années suivantes à le faire mûrir pour le travail en entrepôt. En 2022, elle a signé ses premiers déploiements commerciaux, dont un partenariat marquant avec le logisticien GXO, et a ouvert en 2023 sa RoboFab à Salem pour produire Digit en série. Agility vend désormais Digit commercialement aux opérateurs de fulfillment et continue d'affiner son autonomie dans des environnements de travail élargis.",
+      "hq_city": "Corvallis"
+    }
+  },
+  "unitree-robotics": {
+    "ar": {
+      "name": "Unitree Robotics",
+      "country": "الصين",
+      "sub_domain": "روبوتات ذات أرجل وبشرية الشكل",
+      "short_description": "تصنع روبوتات رباعية الأرجل وروبوت G1 البشري بأسعار في متناول المستهلك.",
+      "technology": "ميكاترونكس للروبوتات الرباعية والبشرية الشكل",
+      "why_relevant": "خفّضت تكاليف الروبوتات ذات الأرجل بشكل كبير عالميًا.",
+      "history": "أسس وانغ شينغشينغ شركة Unitree Robotics في هانغتشو عام 2016، وبدأ في صنع روبوتات رباعية الأرجل منخفضة التكلفة وهو لا يزال طالبًا. رفعت الشركة سلسلة من الآلات ذات الأرجل بأسعار معقولة، من الرباعي الاستهلاكي Go1 إلى الصناعي B2، فكسرت أسعار المنافسين الغربيين بهامش واسع. بدأت مسيرتها البشرية بروبوت H1 عام 2023، تلاه G1 المدمج بسعر 16 ألف دولار في 2024 ثم R1 بعجلات في أواخر 2024. تشحن Unitree منصاتها اليوم حول العالم، مما يجعل الصين مركزًا للروبوتات ذات الأرجل والبشرية الشكل بأسعار في المتناول.",
+      "hq_city": "هانغتشو"
+    },
+    "fr": {
+      "name": "Unitree Robotics",
+      "country": "Chine",
+      "sub_domain": "Robots à pattes et humanoïdes",
+      "short_description": "Conçoit des quadrupèdes et l'humanoïde G1 à des prix accessibles au grand public.",
+      "technology": "Mécatronique quadrupède et humanoïde",
+      "why_relevant": "A fait chuter drastiquement le coût de la robotique à pattes dans le monde.",
+      "history": "Unitree Robotics a été fondée à Hangzhou en 2016 par Wang Xingxing, qui a commencé à concevoir des quadrupèdes à bas coût alors qu'il était encore étudiant. La société a enchaîné une gamme de machines à pattes abordables, du quadrupède grand public Go1 au B2 à vocation industrielle, cassant les prix face aux concurrents occidentaux. Son virage humanoïde a commencé avec le H1 en 2023, suivi du compact G1 à 16 000 dollars en 2024 puis du R1 à roulettes fin 2024. Unitree expédie désormais ses plateformes dans le monde entier, plaçant la Chine au centre de la robotique à pattes et humanoïde abordable.",
+      "hq_city": "Hangzhou"
+    }
+  },
+  "1x-technologies": {
+    "ar": {
+      "name": "1X Technologies",
+      "country": "النرويج",
+      "sub_domain": "روبوتات بشرية الشكل",
+      "short_description": "مطوّر الروبوت البشري المنزلي NEO، برؤية مدعومة من OpenAI.",
+      "technology": "محركات آمنة، ذكاء اصطناعي مجسّد",
+      "why_relevant": "تراهن على روبوتات بشرية قائمة على البرمجيات للبيئات الاستهلاكية.",
+      "history": "تأسست الشركة عام 2014 باسم Halodi Robotics ثم تحولت إلى 1X Technologies عام 2021، وقضت سنواتها الأولى في تصميم محركات مرنة وآمنة لروبوتات الخدمة. خضع روبوتها البشري بعجلات EVE لتجارب أمنية ولوجستية في أوروبا والولايات المتحدة، وفي 2023 جمعت الشركة تمويلًا كبيرًا بدعم من OpenAI، رهانًا على الذكاء الاصطناعي المجسّد. كشفت عام 2024 عن روبوتها المنزلي NEO كرفيق مرن ومنخفض الضوضاء للبيوت. توسع 1X اليوم نطاق تجاربها النموذجية بينما تدرب NEO على كميات ضخمة من بيانات التحكم عن بُعد.",
+      "hq_city": "أوسلو"
+    },
+    "fr": {
+      "name": "1X Technologies",
+      "country": "Norvège",
+      "sub_domain": "Robots humanoïdes",
+      "short_description": "Développeur de l'humanoïde domestique NEO, porté par une vision soutenue par OpenAI.",
+      "technology": "Actionneurs sûrs, IA incarnée",
+      "why_relevant": "Parie sur des humanoïdes pilotés par logiciel pour les environnements grand public.",
+      "history": "Fondée en 2014 sous le nom de Halodi Robotics puis rebaptisée 1X Technologies en 2021, la firme norvégienne a consacré ses premières années à concevoir des actionneurs à élasticité série sûrs pour robots de service. Son humanoïde à roulettes EVE a été testé dans des missions de sécurité et de logistique en Europe et aux États-Unis, et en 2023 la société a levé un tour important avec OpenAI, illustrant son pari sur l'IA incarnée. L'humanoïde domestique NEO a été présenté en 2024 comme un compagnon souple et peu bruyant destiné aux foyers. 1X développe désormais ses pilotes tout en entraînant NEO sur de larges volumes de données de téléopération.",
+      "hq_city": "Oslo"
+    }
+  },
+  "sanctuary-ai": {
+    "ar": {
+      "name": "Sanctuary AI",
+      "country": "كندا",
+      "sub_domain": "روبوتات بشرية الشكل",
+      "short_description": "تصنع الروبوت البشري Phoenix الموجّه بذكاء اصطناعي مدرَّب عبر التحكم عن بُعد.",
+      "technology": "روبوتات بشرية بلا أنظمة هيدروليكية، ألياف كربون",
+      "why_relevant": "تجمع بين التدريب بإشراف بشري والروبوتات متعددة الأغراض.",
+      "history": "تأسست Sanctuary AI في فانكوفر عام 2018 على يد فريق قاده جوردي روز، مؤسس D-Wave، بهدف بناء عمال بشرية الشكل متعددي الأغراض على أساس التعلم بإشراف بشري. طورت الشركة منصة Carbon الخالية من الأنظمة الهيدروليكية، وكشفت عام 2023 عن روبوتها البشري Phoenix من الجيل السادس. جمعت عمليات النشر الأولى مشغلين بشريين عن بُعد مع الروبوت لتعليمه مهارات المناولة عبر العرض والملاحظة بدل البرمجة التقليدية. وبوتيرة متواصلة من الإصدارات، ارتبطت Sanctuary بنحو مئة عميل وتواصل صقل Carbon نحو استقلالية متعددة الأغراض.",
+      "hq_city": "فانكوفر"
+    },
+    "fr": {
+      "name": "Sanctuary AI",
+      "country": "Canada",
+      "sub_domain": "Robots humanoïdes",
+      "short_description": "Construit l'humanoïde Phoenix, piloté par une IA entraînée en téléopération.",
+      "technology": "Humanoïdes sans hydraulique, fibre de carbone",
+      "why_relevant": "Allie l'entraînement humain-dans-la-boucle aux robots polyvalents.",
+      "history": "Sanctuary AI a été fondée à Vancouver en 2018 par une équipe menée par Geordie Rose, à l'origine de D-Wave, avec l'ambition de créer des robots humanoïdes polyvalents fondés sur un apprentissage humain-dans-la-boucle. La société a développé Carbon, une plateforme sans hydraulique, et a dévoilé son humanoïde Phoenix de sixième génération en 2023. Les premiers déploiements associaient des téléopérateurs humains au robot pour enseigner des compétences de manipulation par la démonstration plutôt que par la programmation classique. Avec une cadence soutenue de révisions matérielles, Sanctuary a signé près d'une centaine de contrats clients et affine Carbon vers une autonomie polyvalente.",
+      "hq_city": "Vancouver"
+    }
+  },
+  "apptronik": {
+    "ar": {
+      "name": "Apptronik",
+      "country": "الولايات المتحدة",
+      "sub_domain": "روبوتات بشرية الشكل",
+      "short_description": "مطوّر روبوت Apollo البشري، المصمم للوظائف الصناعية.",
+      "technology": "محولات بشرية الشكل، ذكاء اصطناعي صناعي",
+      "why_relevant": "عقدت شراكات مع كبرى الصناعات للتحرك نحو قوى عاملة من الروبوتات البشرية.",
+      "history": "انبثقت Apptronik عام 2016 من مختبر الروبوتات المحور حول الإنسان في جامعة تكساس بأوستن، بعد المشاركة في بناء روبوت Valkyrie البشري التابع لوكالة الفضاء الأمريكية ناسا. قضت الشركة سنوات في تطوير أذرع صناعية وأبحاث هياكل خارجية قبل كشف روبوتها البشري Apollo في أغسطس 2023. طلبت شركة اللوجستيات GXO دفعة أولى كبيرة، وأعلنت Mercedes-Benz تجربة له في خط التجميع. وبفضل دعم مين كاو، الشريك المؤسس لـGarmin، تطرح Apptronik روبوت Apollo كعامل لا يكلّ للوظائف المتسخة والخطرة والمملة في ظل تسارع تبني الروبوتات البشرية.",
+      "hq_city": "أوستن"
+    },
+    "fr": {
+      "name": "Apptronik",
+      "country": "États-Unis",
+      "sub_domain": "Robots humanoïdes",
+      "short_description": "Développeur d'Apollo, un humanoïde conçu pour les postes industriels.",
+      "technology": "Actionnement humanoïde, IA industrielle",
+      "why_relevant": "S'est associé à de grands industriels pour ouvrir la voie à des effectifs humanoïdes.",
+      "history": "Apptronik a été créée en 2016 comme émanation du laboratoire de robotique centrée sur l'humain de l'Université du Texas à Austin, après avoir contribué au robot humanoïde Valkyrie de la NASA. La société a passé des années à développer des manipulateurs industriels et des recherches sur les exosquelettes avant de dévoiler son humanoïde Apollo en août 2023. L'opérateur logistique GXO a commandé un important premier lot et Mercedes-Benz a annoncé un pilote pour sa chaîne d'assemblage automobile. Soutenue notamment par le cofondateur de Garmin Min Kao, Apptronik positionne Apollo comme un travailleur infatigable pour les tâches ingrates, dangereuses ou répétitives, à mesure que l'adoption des humanoïdes s'accélère.",
+      "hq_city": "Austin"
+    }
+  },
+  "anybotics": {
+    "ar": {
+      "name": "ANYbotics",
+      "country": "سويسرا",
+      "sub_domain": "روبوتات صناعية ذات أرجل",
+      "short_description": "صانع روبوت ANYmal، وهو رباعي أرجل ذاتي التشغيل للتفتيش الصناعي.",
+      "technology": "ملاحة ذاتية، حمولات استشعار",
+      "why_relevant": "أثبت أن الروبوتات ذات الأرجل قادرة على استبدال البشر في تفتيش المنشآت الخطرة.",
+      "history": "تأسست ANYbotics عام 2016 كفرع للمعهد الفدرالي السويسري للتكنولوجيا ETH Zurich، امتدادًا لسنوات من أبحاث الرباعيات قادها المؤسس المشارك بيتر فانكهاوزر. تخصص روبوت ANYmal في تحمل أجهزة استشعار ثقيلة والملاحة الذاتية داخل المصانع، فيصعد السلالم ويقطع المنشآت دون تدخل بشري. جمعت الشركة عدة جولات نمو، أبرزها 50 مليون دولار في السلسلة B عام 2023، وأطلقت في 2024 روبوت ANYmal X للتفتيش في البيئات القابلة للانفجار. ومع النشر لدى كبرى شركات الطاقة والصناعة في أوروبا، توسع ANYbotics نحو أساطيل تفتيش ذاتية جوية وأرضية.",
+      "hq_city": "زيورخ"
+    },
+    "fr": {
+      "name": "ANYbotics",
+      "country": "Suisse",
+      "sub_domain": "Robots à pattes industriels",
+      "short_description": "Fabricant d'ANYmal, un quadrupède autonome pour l'inspection industrielle.",
+      "technology": "Navigation autonome, capteurs embarqués",
+      "why_relevant": "A prouvé que les robots à pattes peuvent remplacer les humains dans l'inspection de sites dangereux.",
+      "history": "ANYbotics a été fondée en 2016 comme spin-off de l'ETH Zurich, prolongeant des années de recherche quadrupede compilées par le cofondateur Péter Fankhauser. Son robot ANYmal s'est spécialisé dans l'autonomie à haute charge utile, montant des escaliers et arpentant les usines sans intervention. La société a levé plusieurs tours de croissance, dont 50 millions de dollars en série B en 2023, et a lancé l'ANYmal X en 2024 pour l'inspection dans les zones à risque d'explosion. Déployée chez des majors de l'énergie et des industriels européens, ANYbotics développe désormais des flottes autonomes d'inspection aérienne et terrestre.",
+      "hq_city": "Zurich"
+    }
+  },
+  "fourier-intelligence": {
+    "ar": {
+      "name": "Fourier Intelligence",
+      "country": "سنغافورة",
+      "sub_domain": "روبوتات بشرية الشكل وروبوتات تأهيل",
+      "short_description": "تصنع سلسلة روبوتات GR البشرية وهياكل خارجية للتأهيل الطبي.",
+      "technology": "مفاصل بشرية الشكل، روبوتات تأهيل",
+      "why_relevant": "تربط بين روبوتات التأهيل السريري والروبوتات البشرية متعددة الأغراض.",
+      "history": "تأسست Fourier Intelligence في سنغافورة عام 2015 لتوظيف الروبوتات في التأهيل السريري. طوّرت الشركة في البداية هياكل خارجية وأجهزة علاج حركي ووزّعتها عبر شبكة من الشركاء في الصين وجنوب شرق آسيا. في 2023 دخلت سوق الروبوتات البشرية الاستهلاكية والصناعية عبر GR-1، روبوت متعدد الأغراض بالحجم الطبيعي، تلاه في 2024 GR-2 بقدرات مناولة وحسّ لمسي محسّنين. توازن Fourier اليوم بين جذورها التأهيلية وخارطة طريق بشرية طموحة تستهدف المستشفيات وقطاعات الخدمات والمنازل.",
+      "hq_city": "سنغافورة"
+    },
+    "fr": {
+      "name": "Fourier Intelligence",
+      "country": "Singapour",
+      "sub_domain": "Robots humanoïdes et de rééducation",
+      "short_description": "Développe la série humanoïde GR et des exosquelettes de rééducation.",
+      "technology": "Articulations humanoïdes, robotique de rééducation",
+      "why_relevant": "Fait le pont entre la robotique de rééducation clinique et les humanoïdes polyvalents.",
+      "history": "Fourier Intelligence a été créée à Singapour en 2015 pour appliquer la robotique à la rééducation clinique. La société a d'abord développé et distribué des exosquelettes et des appareils de thérapie du mouvement, tissant un réseau de partenaires en Chine et en Asie du Sud-Est. En 2023, elle a basculé vers le marché des humanoïdes avec le GR-1, un robot polyvalent de taille humaine, suivi en 2024 par le GR-2 aux capacités de manipulation et de sens du toucher améliorées. Fourier concilie ses racines rééducatives et une feuille de route humanoïde ambitieuse visant hôpitaux, services et foyers.",
+      "hq_city": "Singapour"
+    }
+  },
+  "skild-ai": {
+    "ar": {
+      "name": "Skild AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "نماذج تأسيسية للروبوتات",
+      "short_description": "تبني نموذجًا تأسيسيًا مشتركًا يعمل كدماغ موحّد للوكلاء المجسّدين.",
+      "technology": "نماذج تأسيسية قابلة للتوسع للروبوتات",
+      "why_relevant": "تطرح أن مهارات الروبوتات يجب أن تكون نموذجًا تأسيسيًا واحدًا قابلًا للتعلّم.",
+      "history": "أسس ديباك باثاك وأبهيناف غوبتا، وهما من خريجي جامعة كارنيجي ميلون، شركة Skild AI عام 2023، وتقوم فكرتهما على أن قدرات الروبوتات يجب أن تتجسد في نموذج واحد قابل للتوسع. قدمت الشركة نموذج Skild Brain التأسيسي للروبوتات، المدرب على بيانات حسية متعددة واسعة بدل تجارب خاصة بمهام محددة. في 2024 أغلقت جولة تمويل من الفئة A بقيمة 300 مليون دولار بقيادة SoftBank Vision Fund وLightspeed، وبلغت قيمتها نحو 1.5 مليار دولار خلال سنة من تأسيسها. تكيّف Skild الآن نموذجها مع أجساد روبوتية مختلفة سعيًا نحو العمومية في المناولة والحركة.",
+      "hq_city": "بيتسبرغ"
+    },
+    "fr": {
+      "name": "Skild AI",
+      "country": "États-Unis",
+      "sub_domain": "Modèles de fondation pour la robotique",
+      "short_description": "Développe un modèle de fondation partagé, un cerveau commun pour les agents incarnés.",
+      "technology": "Modèles de fondation robotiques évolutifs",
+      "why_relevant": "Défend que les compétences des robots reposent sur un seul modèle de fondation apprenable.",
+      "history": "Skild AI a été fondée en 2023 par Deepak Pathak et Abhinav Gupta, deux anciens de l'Université Carnegie Mellon partageant l'idée que les capacités des robots doivent tenir dans un seul modèle évolutif. La startup a présenté Skild Brain, un modèle de fondation robotique entraîné sur de larges flux de données multisensorielles plutôt que sur des démonstrations spécifiques. En 2024, elle a bouclé une série A de 300 millions de dollars menée par SoftBank Vision Fund et Lightspeed, valorisant la société à près de 1,5 milliard de dollars moins d'un an après sa création. Skild adapte désormais son cerveau à différents corps robotiques vers la généralité en manipulation et en locomotion.",
+      "hq_city": "Pittsburgh"
+    }
+  },
+  "physical-intelligence": {
+    "ar": {
+      "name": "Physical Intelligence",
+      "country": "الولايات المتحدة",
+      "sub_domain": "نماذج تأسيسية للروبوتات",
+      "short_description": "مطوّر النموذج التأسيسي العام للروبوتات pi.",
+      "technology": "سياسات عامة، نماذج عالمية قائمة على transformers",
+      "why_relevant": "تقود الجهود نحو نموذج واحد يتحكم في روبوتات متعددة.",
+      "history": "تأسست شركة Physical Intelligence عام 2022 في سان فرانسيسكو على يد باحثين في الروبوتات، بينهم كارول هوسمان وسيرغي ليفين وتشيلسي فين وبريان إشتر، فجمعت مواهب من Google وستانفورد. تطور الشركة سياسة عامة تدعى pi، قائمة على نماذج عالمية مبنية على transformers بهدف التحكم في روبوتات مختلفة عدة. في أواخر 2024 أطلقت النموذج pi-0، وهو نموذج رؤية-لغة-فعل مفتوح المجال، وجمعت نحو 400 مليون دولار بقيمة تقديرية 2.4 مليار دولار. تشمل عمليات النشر المبكرة طي الملابس لدى تجار تجزئة، مع مواصلة الدفع نحو ذكاء مجسّد أكثر عمومية.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Physical Intelligence",
+      "country": "États-Unis",
+      "sub_domain": "Modèles de fondation pour la robotique",
+      "short_description": "Développeur du modèle de fondation robotique généraliste pi.",
+      "technology": "Politiques généralistes, modèles de monde transformer",
+      "why_relevant": "À la tête des efforts pour qu'un seul modèle contrôle de nombreux robots.",
+      "history": "Physical Intelligence a été fondée en 2022 à San Francisco par des chercheurs en robotique, dont Karol Hausman, Sergey Levine, Chelsea Finn et Brian Ichter, réunissant des talents issus de Google et de Stanford. La société développe une politique généraliste, pi, fondée sur des modèles de monde de type transformer capables de piloter de nombreux robots différents. Fin 2024, elle a présenté pi-0, un modèle vision-langage-action ouvert, et a levé quelque 400 millions de dollars pour une valorisation rapportée de 2,4 milliards. Les premiers déploiements, notamment le pliage de vêtements pour des marques, accompagnent la poussée vers une intelligence incarnée toujours plus générale.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "intrinsic": {
+    "ar": {
+      "name": "Intrinsic",
+      "country": "الولايات المتحدة",
+      "sub_domain": "برمجيات الروبوتات الصناعية",
+      "short_description": "شركة تابعة لـAlphabet تطور برمجيات ذكاء اصطناعي تجعل الروبوتات الصناعية أسهل استخدامًا.",
+      "technology": "إدراك آلي، برمجة قائمة على التدفقات",
+      "why_relevant": "تستهدف تقليص تكلفة برمجة الروبوتات الصناعية.",
+      "history": "ولدت Intrinsic عام 2021 كشركة مستقلة ضمن مجموعة Alphabet، انبثقت من مختبر X لتبسيط برمجة الروبوتات الصناعية. بقيادة الرئيسة التنفيذية ويندي تان وايت، طورت بيئة Flowstate البرمجية التي تتيح للمهندسين تعليم خلايا روبوتية عبر وحدات إدراكية بدل كتابة الأكواد يدويًا. استحوذت الشركة عام 2022 على Open Robotics، القيمة على نظام ROS مفتوح المصدر، لتوسيع انتشارها بين المطورين. ومنذ ذلك الحين تركز Intrinsic على خطوط تجميع مدفوعة بالإدراك الحسي للمصنعين الصغار والمتوسطين، وتنقل منظومتها البرمجية تدريجيًا نحو بيئات إنتاج تجارية أولى.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "Intrinsic",
+      "country": "États-Unis",
+      "sub_domain": "Logiciels de robotique industrielle",
+      "short_description": "Filiale d'Alphabet qui développe des logiciels d'IA pour simplifier l'usage des robots industriels.",
+      "technology": "Perception robotique, programmation par flux",
+      "why_relevant": "S'attaque au coût de programmation des robots industriels.",
+      "history": "Intrinsic est née en 2021 comme société indépendante d'Alphabet, issue du laboratoire d'innovation X pour simplifier la programmation des robots industriels. Sous la direction de la PDG Wendy Tan White, elle a développé Flowstate, un environnement logiciel permettant d'enseigner des cellules robotiques par blocs perceptuels plutôt que par code écrit à la main. La société a racheté en 2022 Open Robotics, gardien de l'écosystème open source ROS, pour élargir sa portée de développeurs. Depuis, Intrinsic se concentre sur des assemblages pilotés par la perception pour PME de fabrication, amenant progressivement sa pile logicielle vers des usages de production commerciale.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "bright-machines": {
+    "ar": {
+      "name": "Bright Machines",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تصنيع قائم على البرمجيات",
+      "short_description": "تبني مصانع مصغّرة تجمع بين الروبوتات والبرمجيات لعمليات التجميع.",
+      "technology": "مصانع مصغّرة روبوتية، ذكاء اصطناعي لضبط التكوين",
+      "why_relevant": "تعيد دمج الذكاء الاصطناعي والرؤية الآلية والروبوتات في خلية تصنيع جاهزة للتركيب الفوري.",
+      "history": "أسس أمار هانسبال، الرئيس التنفيذي المشارك السابق لـAutodesk، شركة Bright Machines عام 2018 لإعادة تشكيل التصنيع عبر خلايا روبوتية معرّفة برمجيًا. انبثقت الشركة من وحدة الأتمتة الصناعية لصانع الإلكترونيات Flex، وتطور مصانع مصغّرة تجمع الرؤية الآلية والروبوتات وبرمجيات الضبط لتجميع الإنتاج المتنوع. سلّمت أنظمة لعملاء في الإلكترونيات والسيارات، وأغلقت في 2025 جولة تمويل من الفئة C بقيمة 226 مليون دولار بقيادة NVIDIA وMicrosoft وRockwell Automation، لتنمو قيمتها نحو ثلاثة أضعاف لتصل قرابة 1.6 مليار دولار. تربط الشركة اليوم خلاياها بمنصة سحابية تعيد ضبط خطوط الإنتاج بالبرمجيات وحدها.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Bright Machines",
+      "country": "États-Unis",
+      "sub_domain": "Fabrication définie par logiciel",
+      "short_description": "Conçoit des micro-usines associant robots et logiciels pour l'assemblage.",
+      "technology": "Micro-usines robotiques, IA de configuration",
+      "why_relevant": "Réunit IA, vision et robots dans une cellule de fabrication prête à l'emploi.",
+      "history": "Bright Machines a été fondée en 2018 par Amar Hanspal, ancien co-PDG d'Autodesk, pour refaçonner la fabrication avec des cellules robotiques définies par logiciel. Née de l'unité d'automatisation industrielle de l'équipementier électronique Flex, la société développe des micro-usines associant vision machine, robots et logiciel de configuration pour l'assemblage en séries hétérogènes. Elle a livré des systèmes à des clients électroniques et automobiles, et a bouclé en 2025 une série C de 226 millions de dollars menée par NVIDIA, Microsoft et Rockwell Automation, triplant sa valorisation à environ 1,6 milliard de dollars. Bright Machines adosse désormais ses cellules à une plateforme cloud qui reconfigure les lignes uniquement par logiciel.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "universal-robots": {
+    "ar": {
+      "name": "Universal Robots",
+      "country": "الدنمارك",
+      "sub_domain": "روبوتات تعاونية",
+      "short_description": "مخترع الذراع الروبوتية التعاونية (cobot) واسعة الانتشار.",
+      "technology": "أذرع تعاونية خفيفة، برمجة سهلة",
+      "why_relevant": "أسست فئة الروبوتات التعاونية، وهي اليوم ضمن مجموعة Teradyne.",
+      "history": "تأسست Universal Robots في أودنسه بالدنمارك عام 2005 على يد إسبن أوسترجارد وكاسبر ستوي وكريستيان كاسو، بهدف تقريب الأذرع الروبوتية التعاونية من الورش الصغيرة. أطلق أول روبوت تعاوني UR5 في 2008 بمفاصل تستشعر القوة، فألغت الحاجة إلى الأسوار الواقية. استحوذت عليها Teradyne عام 2015 فعجّلت انتشارها عالميًا. وبحلول 2023 كانت الشركة قد سلمت أكثر من 75 ألف روبوت تعاوني حول العالم ووسعت تشكيلتها نحو الطُرز عالية الحمولة UR20 وUR30، ما رسّخ دورها الرائد في فئة الروبوتات التعاونية الواسعة الاستخدام.",
+      "hq_city": "أودنسه"
+    },
+    "fr": {
+      "name": "Universal Robots",
+      "country": "Danemark",
+      "sub_domain": "Robots collaboratifs",
+      "short_description": "Inventeur du bras robotique collaboratif (cobot) de grande diffusion.",
+      "technology": "Bras cobot légers, programmation simple",
+      "why_relevant": "A créé la catégorie des cobots, désormais au sein du groupe Teradyne.",
+      "history": "Universal Robots a été fondée à Odense, au Danemark, en 2005 par Esben Østergaard, Kasper Støy et Kristian Kassow pour mettre les bras robotiques collaboratifs à la portée des petits ateliers. Son premier cobot UR5 a été lancé en 2008 avec des articulations à détection de force rendant les clôtures de sécurité inutiles. Teradyne a racheté la société en 2015, accélérant sa distribution mondiale. À partir de 2023, Universal Robots avait livré plus de 75 000 cobots dans le monde et élargi sa gamme aux modèles à forte charge utile, le UR20 et le UR30, consolidant son rôle de pionnier de la catégorie cobot grand public.",
+      "hq_city": "Odense"
+    }
+  },
+  "locus-robotics": {
+    "ar": {
+      "name": "Locus Robotics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "AMR للمستودعات",
+      "short_description": "تشغّل أساطيل من الروبوتات المتنقلة ذاتية التشغيل لتنفيذ طلبات المستودعات.",
+      "technology": "أساطيل AMR، تنسيق فرق العمل",
+      "why_relevant": "شريك مثبت لكبرى شركات اللوجستيات، بحجم إنتاج يتجاوز مليارات الوحدات.",
+      "history": "أسس محاربون قدامى في مشغل اللوجستيات Quiet Logistics شركة Locus Robotics عام 2014 في ويلمنجتون بولاية ماساتشوستس، لتعويض نقص اليد العاملة في المستودعات عبر أساطيل من الروبوتات المتنقلة ذاتية التشغيل. تدفع روبوتات Locus من فئة AMR العربات داخل المراكز بينما يلتقط العمال في محطات ثابتة، ووقّعت الشركة عملاء بارزين مثل DHL وBoots بالمملكة المتحدة في سنواتها الأولى. تجاوزت ملياري وحدة ملتقطة وأكثر من مليار دولار من الطلبات التراكمية، وتوسعت في أمريكا الشمالية والاتحاد الأوروبي. وأطلقت أيضًا روبوت Locus Vector الأثقل من فئة AMR مع تصاعد الطلب على التجارة الإلكترونية.",
+      "hq_city": "ويلمنجتون"
+    },
+    "fr": {
+      "name": "Locus Robotics",
+      "country": "États-Unis",
+      "sub_domain": "AMR d'entrepôt",
+      "short_description": "Déploie des flottes de robots mobiles autonomes pour l'exécution des commandes en entrepôt.",
+      "technology": "Flottes d'AMR, orchestration de la main-d'œuvre",
+      "why_relevant": "Partenaire éprouvé des grands acteurs logistiques au débit de plusieurs milliards d'unités.",
+      "history": "Locus Robotics a été fondée en 2014 à Wilmington, dans le Massachusetts, par des vétérans de l'opérateur logistique Quiet Logistics afin de compenser la pénurie de main-d'œuvre en entrepôt par des flottes de robots mobiles autonomes. Les AMR Locus transportent des chariots à travers les centres pendant que les opérateurs prélèvent sur des postes fixes, et la société a signé des clients prestigieux comme DHL et Boots UK dès ses premières années. Elle a dépassé les 2 milliards d'articles prélevés et plus d'un milliard de dollars de commandes cumulées, tout en s'étendant en Amérique du Nord et dans l'UE. Locus a aussi lancé Locus Vector, un AMR plus lourd, alors que la demande d'e-commerce explosait.",
+      "hq_city": "Wilmington"
+    }
+  },
+  "dexterity": {
+    "ar": {
+      "name": "Dexterity",
+      "country": "الولايات المتحدة",
+      "sub_domain": "روبوتات المستودعات",
+      "short_description": "تبني أنظمة روبوتية لتفكيك الطبليات والتعامل مع الصناديق في المستودعات.",
+      "technology": "مناولة موجهة بالرؤية الآلية",
+      "why_relevant": "معالجة موثوقة وعالية الإنتاجية للصناديق في مراكز توزيع فعلية.",
+      "history": "أسس سامير مينون، وهو مهندس روبوتات من جامعة ستانفورد عمل في جهود أبحاث الروبوتات في Google، شركة Dexterity عام 2017. تبني الشركة في ريدوود سيتي أنظمة كاملة لتفكيك الطبليات والتعامل مع الصناديق وتفريغ الشاحنات، لصالح كبار تجار التجزئة ومشغلي الشحن السريع. تعالج منظومتها المدفوعة بالرؤية الآلية ملايين الصناديق على نطاق واسع، عوضًا عن وظائف مشهورة بصعوبة شغلها. جمعت Dexterity جولات تمويل متواصلة خلال طفرة أتمتة المستودعات، وتدير اليوم عمليات إنتاج في مراكز توزيع بأمريكا الشمالية واليابان وأوروبا.",
+      "hq_city": "ريدوود سيتي"
+    },
+    "fr": {
+      "name": "Dexterity",
+      "country": "États-Unis",
+      "sub_domain": "Robotique d'entrepôt",
+      "short_description": "Développe des systèmes robotisés pour la dépallétisation et la manutention de cartons.",
+      "technology": "Manipulation guidée par vision",
+      "why_relevant": "Manutention fiable et à haut débit dans de vrais centres de distribution.",
+      "history": "Dexterity a été fondée en 2017 par Samir Menon, roboticien formé à Stanford ayant travaillé dans les équipes de recherche robotique de Google. La société de Redwood City construit des systèmes complets de dépallétisation de cartons, d'arrivage et de déchargement de camions pour de grands distributeurs et des opérateurs colis. Sa pile de manipulation guidée par la vision traite des millions de cartons à grande échelle, remplaçant des postes notoirement difficiles à pourvoir. Dexterity a levé des tours successifs pendant le boom de l'automatisation des entrepôts et exploite aujourd'hui des installations de production en Amérique du Nord, au Japon et en Europe.",
+      "hq_city": "Redwood City"
+    }
+  },
+  "covariant": {
+    "ar": {
+      "name": "Covariant",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ذكاء اصطناعي للروبوتات",
+      "short_description": "تطور النموذج التأسيسي RFM-1 للمناولة الآلية متعددة الأغراض.",
+      "technology": "نماذج تأسيسية للالتقاط والوضع",
+      "why_relevant": "رائدة في الإمساك العام بالأشياء القائم على التعلم من البيانات في قطاع اللوجستيات.",
+      "history": "أسس بيتر أبيل، أستاذ في جامعة بيركلي، مع باحثين سابقين في OpenAI شركة Covariant عام 2017، وسرعان ما أصبح اسمها الأشهر في الإمساك الآلي المدعوم بالذكاء الاصطناعي داخل المستودعات. تعلمت منصتها Brains عمليات الالتقاط والوضع من بيانات النشر الفعلية، وفي 2024 كشفت عن RFM-1، نموذج تأسيسي متعدد الوسائط للمناولة الآلية. نشرت Amazon مئات الأذرع التي تعمل بتقنية Covariant عبر شبكة تنفيذ الطلبات، وفي 2025 تحركت Amazon للاستحواذ على معظم فريق النموذج التأسيسي، في واحدة من كبرى صفقات الخروج في قطاع روبوتات المستودعات حتى الآن.",
+      "hq_city": "إميريفيل"
+    },
+    "fr": {
+      "name": "Covariant",
+      "country": "États-Unis",
+      "sub_domain": "IA pour la robotique",
+      "short_description": "Développe le modèle de fondation RFM-1 pour la manipulation robotique généraliste.",
+      "technology": "Modèles de fondation pick-and-place",
+      "why_relevant": "Pionnier de la préhension généraliste apprise à partir des données en logistique.",
+      "history": "Covariant a été fondée en 2017 par Pieter Abbeel, professeur à l'Université de Berkeley, et d'anciens chercheurs d'OpenAI, devenant rapidement la marque la plus connue de la préhension robotique alimentée par l'IA dans les entrepôts. Sa plateforme Brains apprenait les opérations pick-and-place à partir des données réelles de déploiement, et la société a dévoilé en 2024 RFM-1, un modèle de fondation multimodal pour la manipulation robotique. Amazon a déployé des centaines de bras Covariant dans son réseau de fulfillment et, en 2025, a racheté l'essentiel de l'équipe du modèle de fondation, l'une des plus grandes sorties de la robotique d'entrepôt à ce jour.",
+      "hq_city": "Emeryville"
+    }
+  },
+  "chef-robotics": {
+    "ar": {
+      "name": "Chef Robotics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "روبوتات قطاع الخدمات الغذائية",
+      "short_description": "تبني روبوتات تحضّر وتقدّم الأطباق في المطابخ عالية الإنتاجية.",
+      "technology": "مناولة الأطعمة، ذكاء اصطناعي بصري",
+      "why_relevant": "تعالج الفئة الوظيفية الأعلى معدل دوران في قطاع الخدمات الغذائية.",
+      "history": "أسس راجات باغاريا شركة Chef Robotics عام 2019 لتطبيق الرؤية الحاسوبية والمناولة على خطوط إنتاج الأغذية، حيث معدل دوران العمالة في أعلى مستوياته. تجمّع روبوتاتها الوجبات في أطباق وتقدمه بشكل يتكيف مع المكونات الطبيعية غير المنتظمة التي تعجز عنها الأتمتة التقليدية. تضم الشركة كبار مصنعي الأغذية ضمن عملائها، وجمعت في 2024 جولة من الفئة B بقيمة 43 مليون دولار بقيادة Insight Partners. ضاعفت Chef Robotics منذ ذلك الحين منشآتها في مصانع الوجبات الجاهزة والبروتينات والأطعمة المحضّرة، مع خارطة طريق نحو أتمتة المطابخ بالكامل.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Chef Robotics",
+      "country": "États-Unis",
+      "sub_domain": "Robots pour la restauration",
+      "short_description": "Construit des robots qui assemblent et dressent les plats dans les cuisines à fort volume.",
+      "technology": "Manipulation alimentaire, IA vision",
+      "why_relevant": "S'attaque au poste au plus fort roulement dans la restauration.",
+      "history": "Chef Robotics a été fondée en 2019 par Rajat Bhageria pour appliquer la vision par ordinateur et la manipulation aux lignes de production alimentaire, où le turn-over est extrême. Ses robots assemblent des bols et dressent des plats, s'adaptant à des ingrédients naturels irréguliers qui rebutent l'automatisation traditionnelle. La société compte de grands fabricants alimentaires parmi ses clients et a levé en 2024 une série B de 43 millions de dollars menée par Insight Partners. Chef Robotics a depuis doublé ses installations dans les usines de repas prêts à consommer, de protéines et d'aliments préparés, visant à terme l'automatisation complète de la cuisine.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "galbot": {
+    "ar": {
+      "name": "Galbot",
+      "country": "الصين",
+      "sub_domain": "روبوتات مناولة",
+      "short_description": "تصنع روبوتات بشرية بعجلات لمهام المستودعات والاسترجاع.",
+      "technology": "مناولة بذراعين، قاعدة متحركة",
+      "why_relevant": "وتيرة نشر قوية في مناولة المواد ضمن القطاع اللوجستي الصيني.",
+      "history": "تأسست Galbot في بكين عام 2016، وقضت سنواتها الأولى في تطوير الذكاء الاصطناعي المجسّد والمناولة بذراعين لسيناريوهات المستودعات والتجزئة. صُممت منصاتها البشرية الشكل بعجلات وجسم يتمدد رأسيًا لمهام التقاط الرفوف والتعامل مع الصناديق والاسترجاع في الممرات الضيقة. بلغت الشركة نضجها الصناعي مع بحث المشغلين اللوجستيين الصينيين عن روبوتات تخفف نقص الأيدي العاملة، وتدير اليوم عمليات نشر إنتاجية في مراكز لوجستية. تجمع Galbot بين تصنيع بالحجم الصيني ونماذج مدرّبة على بيانات المستودعات لتحقيق مناولة مستمرة ذاتية للمواد في بيئات توزيع حقيقية.",
+      "hq_city": "بكين"
+    },
+    "fr": {
+      "name": "Galbot",
+      "country": "Chine",
+      "sub_domain": "Robots de manipulation",
+      "short_description": "Construit des humanoïdes à roues pour les tâches d'entrepôt et de prélèvement.",
+      "technology": "Manipulation à deux bras, base mobile",
+      "why_relevant": "Un rythme de déploiement soutenu en manutention dans la logistique chinoise.",
+      "history": "Galbot a été fondée à Pékin en 2016 et a consacré ses premières années à développer l'IA incarnée et la manipulation à deux bras pour des scénarios d'entrepôt et de commerce de détail. Ses plateformes humanoïdes à roues, dotées d'un corps télescopique vertical, sont conçues pour la préhension en rayon, la manutention de cartons et le prélèvement dans les allées étroites. La société a atteint sa maturité industrielle alors que les opérateurs logistiques chinois cherchaient des robots pour soulager la pénurie de main-d'œuvre, et elle exploite aujourd'hui des déploiements en production dans des hubs logistiques. Galbot associe du matériel conçu à l'échelle chinoise à des modèles entraînés sur données d'entrepôt pour une manutention autonome continue dans des environnements de distribution réels.",
+      "hq_city": "Pékin"
+    }
+  },
+  "clone-robotics": {
+    "ar": {
+      "name": "Clone Robotics",
+      "country": "بولندا",
+      "sub_domain": "روبوتات بشرية بمحاكاة بيولوجية",
+      "short_description": "تصنع روبوتات بشرية بعضلات وعظام صناعية.",
+      "technology": "عضلات اصطناعية من الألياف العضلية",
+      "why_relevant": "مقاربة جذرية للمحركات تستلهم البنية العضلية الهيكلية للبشر.",
+      "history": "أسس فريق صغير شركة Clone Robotics في فروتسواف ببولندا عام 2021، عازمًا على إعادة بناء التشريح البشري بمواد اصطناعية بدل المحركات والتروس. انطلاقًا من الروبوتات اللينة، طوّرت الشركة أليافًا عضلية تنقبض كالأنسجة البيولوجية، ودمجتها في هيكل بشري ذي عضلات وعظام. في 2024 كشفت Clone عن اليد Alpha التي تتحرك بالعضلات، ثم عن النموذج الأولي الكامل Protoclone V1. تجذب الشركة انتباه المستثمرين بمنصات تعمل بالأوتار وتتكيف مع القوة وتتحرك بانسيابية تشبه حركة البشر.",
+      "hq_city": "فروتسواف"
+    },
+    "fr": {
+      "name": "Clone Robotics",
+      "country": "Pologne",
+      "sub_domain": "Humanoïdes bio-inspirés",
+      "short_description": "Construit des humanoïdes dotés de muscles et d'os synthétiques.",
+      "technology": "Muscles artificiels en myofibres",
+      "why_relevant": "Une approche d'actionnement radicale inspirée du système musculo-squelettique humain.",
+      "history": "Clone Robotics a été fondée en 2021 à Wrocław, en Pologne, par une petite équipe déterminée à reconstruire l'anatomie humaine avec des matériaux synthétiques plutôt que des moteurs et des engrenages. S'appuyant sur la robotique souple, l'entreprise a développé les myofibres, des muscles artificiels pneumatiques qui se contractent comme les tissus biologiques, et les a intégrées à un squelette humanoïde musculo-squelettique. En 2024, Clone a dévoilé la main Alpha, une pince réaliste pilotée par muscles, puis le prototype complet Protoclone V1. La société attire l'attention des investisseurs sur des plateformes à tendons, adaptatives à la force et aux mouvements fluides proches de ceux de l'humain.",
+      "hq_city": "Wrocław"
+    }
+  },
+  "rainbow-robotics": {
+    "ar": {
+      "name": "Rainbow Robotics",
+      "country": "كوريا الجنوبية",
+      "sub_domain": "روبوتات بشرية الشكل",
+      "short_description": "مطوّر سلسلة روبوتات RB البشرية، والتي تحظى الآن بدعم من Samsung.",
+      "technology": "منصات بشرية الشكل، تحكم عن بُعد",
+      "why_relevant": "الشركة الرائدة في مجال الروبوتات البشرية في كوريا الجنوبية، بدعم من Samsung.",
+      "history": "أسس مهندسون شاركوا في بناء روبوت HUBO البشري في معهد KAIST، أول روبوت ذي قدمين يفوز بتحدي DARPA للروبوتات، شركة Rainbow Robotics في دايجون بكوريا الجنوبية عام 2011. حوّلت الشركة خبرتها إلى سلسلة RB، فانتقلت من الروبوتات اللوجستية إلى روبوتات بشرية مرنة مع RB-Y1، منصة أذرع وجذع للمناولة الصناعية. في أواخر 2024 استحوذت Samsung Electronics على نحو 17 بالمئة من الشركة لتصبح كبرى المساهمين، ما يكشف طموحات الشركة الكورية العملاقة في مجال الروبوتات البشرية. تزوّد Rainbow الآن مصنعين في آسيا والولايات المتحدة بأنظمة ذات ذراعين.",
+      "hq_city": "دايجون"
+    },
+    "fr": {
+      "name": "Rainbow Robotics",
+      "country": "Corée du Sud",
+      "sub_domain": "Robots humanoïdes",
+      "short_description": "Développeur de la série humanoïde RB, désormais soutenue par Samsung.",
+      "technology": "Plateformes humanoïdes, téléopération",
+      "why_relevant": "Le fer de lance sud-coréen des humanoïdes, soutenu par Samsung.",
+      "history": "Rainbow Robotics a été fondée en 2011 à Daejeon, en Corée du Sud, par des ingénieurs ayant participé à la construction de l'humanoïde HUBO au KAIST, premier robot bipède à remporter la DARPA Robotics Challenge. La société a commercialisé son expertise à travers la série RB, évoluant des robots logistiques vers des humanoïdes flexibles avec le RB-Y1, une plateforme bras-torse destinée à la manipulation industrielle. Fin 2024, Samsung Electronics a acquis environ 17 % du capital, devenant le premier actionnaire et révélant les ambitions humanoïdes du chaebol. Rainbow fournit désormais des systèmes à deux bras aux fabricants d'Asie et des États-Unis.",
+      "hq_city": "Daejeon"
+    }
+  },
+  "xpeng-robotics": {
+    "ar": {
+      "name": "Xpeng Robotics",
+      "country": "الصين",
+      "sub_domain": "روبوتات بشرية الشكل",
+      "short_description": "الذراع الروبوتية لصانع السيارات الكهربائية، تعمل على تطوير روبوت Iron البشري.",
+      "technology": "ذكاء اصطناعي مجسّد، تكامل أنظمة الروبوتات البشرية",
+      "why_relevant": "تربط هندسة مستوى السيارات الكهربائية بمنطق تصنيع الروبوتات البشرية.",
+      "history": "أنشئت Xpeng Robotics في 2020 كذراع روبوتية لصانع السيارات الكهربائية الصيني Xpeng، مستفيدةً من خبرتها في التصنيع والذكاء الاصطناعي. طوّر الروبوت البشري Iron داخل الشركة لإعادة استخدام هندسة السيارات، بما فيها رؤية العين الذكية للإدراك المكاني. خلال 2025 بدأت Xpeng نشر النموذج الأولي إلى جانب نحو 300 عامل في مصانعها، لجمع بيانات لمهام التجميع الذاتي. تجري الشركة أيضًا تجارب على الروبوتات البشرية في قطاعي التجزئة والخدمات، رهانًا على أن الاستشعار والحوسبة بمستوى السيارات الكهربائية سيمنحانها الأفضلية في سباق الذكاء الاصطناعي المادي.",
+      "hq_city": "قوانغتشو"
+    },
+    "fr": {
+      "name": "Xpeng Robotics",
+      "country": "Chine",
+      "sub_domain": "Robots humanoïdes",
+      "short_description": "La branche robotique du constructeur de VE qui développe l'humanoïde Iron.",
+      "technology": "IA incarnée, intégration humanoïde",
+      "why_relevant": "Relie l'ingénierie de niveau automobile à la fabrication d'humanoïdes.",
+      "history": "Xpeng Robotics a été créée en 2020 comme branche robotique du constructeur chinois de véhicules électriques XPeng, mettant à profit son savoir-faire de fabrication et d'IA. L'humanoïde Iron a été développé en interne pour réutiliser l'ingénierie automobile, notamment une vision œil intelligent pour la perception spatiale. En 2025, XPeng a commencé à déployer le prototype aux côtés d'environ 300 employés dans ses usines, collectant des données pour des tâches d'assemblage autonome. L'entreprise mène aussi des pilotes humanoïdes dans le commerce et les services, pariant que les capteurs et calculs de niveau automobile lui donnent un avantage dans la course à l'IA physique.",
+      "hq_city": "Canton"
+    }
+  },
+  "nuro": {
+    "ar": {
+      "name": "Nuro",
+      "country": "الولايات المتحدة",
+      "sub_domain": "توصيل ذاتي",
+      "short_description": "تبني روبوت التوصيل R2 المتحرك على الأرصفة لخدمة التجارة المحلية.",
+      "technology": "روبوتات توصيل L4",
+      "why_relevant": "توصيل آلي تجاري من الرصيف إلى الباب، مع شركاء رئيسيين في قطاع التجزئة.",
+      "history": "أسس ديف فيرغسون وجياجون تشو، وهما من خريجي Waymo، شركة Nuro عام 2016 لبناء روبوتات توصيل مخصصة بلا مقصورة سائق. حصل روبوتا R1 وR2 على موافقات ولائية وفدرالية، وأبرمت الشركة شراكات مع Kroger وDomino's وUber Eats لتنفيذ تسليمات تجارية. جولة 2021 التي بلغت 600 مليون دولار رفعت قيمة Nuro إلى نحو 8.6 مليارات، وجلب 2023 المضطرب تخفيضات في الوظائف ومركزًا ماليًا أقوى. في 2024 كشفت Nuro عن جيل ثالث من مركباتها وأعادت ظهورها بتجارب تجزئة واستراتيجية ترخيص حول منظومة قيادتها الذاتية من مستوى L4.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "Nuro",
+      "country": "États-Unis",
+      "sub_domain": "Livraison autonome",
+      "short_description": "Construit le robot de livraison R2, pensé pour la livraison au bord du trottoir du commerce local.",
+      "technology": "Robots de livraison L4",
+      "why_relevant": "Livraison robotique commerciale du trottoir jusqu'à la porte, avec de grands partenaires de la distribution.",
+      "history": "Nuro a été fondée en 2016 par Dave Ferguson et Jiajun Zhu, anciens de Waymo, pour construire des robots de livraison dédiés, sans cabine de conducteur. Ses véhicules R1 et R2, homologués au niveau étatique et fédéral, ont reçu des approbations aux États-Unis, et l'entreprise a noué des partenariats avec Kroger, Domino's et Uber Eats pour des livraisons commerciales. Une levée de 600 millions de dollars en 2021 a valorisé Nuro à près de 8,6 milliards, mais 2023 a apporté son lot de licenciements et une position financière renforcée. En 2024, Nuro a dévoilé un véhicule de troisième génération et réémergé avec des pilotes de vente et une stratégie de licence autour de sa pile d'autonomie L4.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "serve-robotics": {
+    "ar": {
+      "name": "Serve Robotics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "توصيل على الأرصفة",
+      "short_description": "تشغّل روبوتات أرصفة ذاتية القيادة لتوصيل الطعام.",
+      "technology": "قيادة ذاتية على الأرصفة، برمجيات إدارة الأساطيل",
+      "why_relevant": "شركة مدرجة في Nasdaq تعمل على توسيع نطاق توصيل الميل الأخير الآلي.",
+      "history": "وُلدت Serve Robotics في 2021 بعد أن حوّلت Uber فريق روبوتات التوصيل التابع لـPostmates إلى شركة ناشئة مستقلة بقيادة علي كاشاني. أدرجت الشركة أسهمها في بورصة Nasdaq عام 2022 عبر الاندماج مع شركة استحواذ خاصة SPAC، لتصبح أول مطور روبوتات توصيل على الأرصفة يُطرح للاكتتاب العام. تُسلّم روبوتاتها الوجبات بالشراكة مع Uber Eats وShake Shack. جولة تمويل 2024 بمشاركة NVIDIA عمّقت تكامل الذكاء الاصطناعي ومولت أسطولًا مستهدفًا من 2000 روبوت. تسعى Serve الآن إلى ترخيص منظومة قيادتها الذاتية وتوسيع عملياتها في الجامعات ومراكز التجزئة، ضغطًا نحو الربحية.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Serve Robotics",
+      "country": "États-Unis",
+      "sub_domain": "Livraison sur trottoir",
+      "short_description": "Exploite des robots de trottoir autonomes pour la livraison de repas.",
+      "technology": "Autonomie sur trottoir, logiciels de gestion de flotte",
+      "why_relevant": "Société cotée au Nasdaq qui fait évoluer à grande échelle la livraison robotique du dernier kilomètre.",
+      "history": "Serve Robotics a été créée en 2021 après qu'Uber a transformé son équipe de robots de livraison Postmates en startup indépendante dirigée par Ali Kashani. L'entreprise est entrée en bourse sur le Nasdaq en 2022 via une fusion avec une société d'acquisition, devenant le premier fabricant public de robots de livraison sur trottoir. Ses robots livrent des repas en partenariat avec Uber Eats et Shake Shack. Une levée de fonds en 2024, avec NVIDIA parmi les investisseurs, a approfondi l'intégration de l'IA et financé une flotte cible de 2 000 robots. Serve adosse désormais sa licence d'autonomie à des campus universitaires et de la distribution, visant la rentabilité.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "cartken": {
+    "ar": {
+      "name": "Cartken",
+      "country": "الولايات المتحدة",
+      "sub_domain": "توصيل آلي",
+      "short_description": "توفر روبوتات أرصفة مدفوعة بالذكاء الاصطناعي، بدعم من شركاء تقنيين كبار.",
+      "technology": "منظومة إدراك حسي، روبوتات توصيل",
+      "why_relevant": "حلول قيادة ذاتية بالعلامة البيضاء لأساطيل روبوتات الميل الأخير.",
+      "history": "أسس كريستيان بيرش وأنيل ناندوري شركة Cartken في أوكلاند بكاليفورنيا عام 2019، بعد مسيرتي عمل في Apple وGoogle. تبيع الشركة القيادة الذاتية بعلامة بيضاء بغرض إدراج منظومة الإدراك الحسي في روبوتات العملاء. غطت أولى عمليات النشر الحرم الجامعية، وأدخل شراكة بارزة مع Japan Post وMitsubishi Electric عام 2022 روبوتات Cartken إلى شوارع طوكيو. وبفضل دعم مخضرمي التكنولوجيا، توسعت الشركة في آسيا عبر تعاون مع Alipay، وتدير اليوم أساطيل توصيل على الأرصفة في اليابان والولايات المتحدة والصين.",
+      "hq_city": "أوكلاند"
+    },
+    "fr": {
+      "name": "Cartken",
+      "country": "États-Unis",
+      "sub_domain": "Livraison par robot",
+      "short_description": "Fournit des robots de trottoir pilotés par l'IA, soutenus par de grands partenaires technologiques.",
+      "technology": "Pile de perception, robots de livraison",
+      "why_relevant": "De l'autonomie en marque blanche pour les flottes de robots de dernier kilomètre.",
+      "history": "Cartken a été fondée en 2019 à Oakland, en Californie, par Christian Bersch et Anil Nanduri, après des carrières chez Apple et Google. La société vend l'autonomie en marque blanche : les opérateurs de livraison intègrent sa pile de perception dans leurs propres robots. Les premiers déploiements ont couvert des campus universitaires, et un partenariat marquant signé en 2022 avec Japan Post et Mitsubishi Electric a amené les robots Cartken dans les rues de Tokyo. Soutenue par des vétérans de la tech, l'entreprise s'est étendue en Asie via des collaborations avec Alipay et exploite désormais des flottes sur trottoir au Japon, aux États-Unis et en Chine.",
+      "hq_city": "Oakland"
+    }
+  },
+  "sarcos-technology": {
+    "ar": {
+      "name": "Sarcos Technology",
+      "country": "الولايات المتحدة",
+      "sub_domain": "هياكل خارجية",
+      "short_description": "تطور هياكل خارجية مزوّدة بالطاقة وروبوتات يُتحكم بها عن بُعد للقطاع الصناعي.",
+      "technology": "هياكل خارجية لكامل الجسم، تحكم عن بُعد",
+      "why_relevant": "تعزيزات مريحة وظيفيًا للوظائف الصناعية شديدة المتطلبات الجسدية.",
+      "history": "تنحدر Sarcos Technology من عقود من أبحاث الروبوتات التي يُتحكم بها عن بُعد في جامعة يوتا، واستقلت كشركة نحو عام 2007 ومقرها سولت ليك سيتي. من أبرز منتجاتها الهيكل الخارجي Guardian XO لكامل الجسم الذي يعزز القوة البشرية في الرفع الصناعي، بينما تؤدي روبوتات Guardian مهام التفتيش والمناولة في البيئات الخطرة. أدرجت الشركة أسهمها عبر اندماج SPAC عام 2022 ثم وحّدت عملياتها، وركزت عروضها على إنتاج الهياكل الخارجية وتطبيقات الدفاع والفضاء للوصول إلى نطاق تجاري بتشكيلة منتجات أضيق.",
+      "hq_city": "سولت ليك سيتي"
+    },
+    "fr": {
+      "name": "Sarcos Technology",
+      "country": "États-Unis",
+      "sub_domain": "Exosquelettes",
+      "short_description": "Développe des exosquelettes motorisés et des robots téléopérés pour l'industrie.",
+      "technology": "Exosquelettes full-body, téléopération",
+      "why_relevant": "Une augmentation ergonomique pour les métiers industriels physiquement exigeants.",
+      "history": "Sarcos Technology est née de décennies de recherche sur les robots téléopérés à l'Université de l'Utah, avec une société indépendante établie autour de 2007 et le siège à Salt Lake City. Sa vitrine, le Guardian XO, est un exosquelette complet motorisé qui amplifie la force humaine pour le levage industriel, tandis que les robots Guardian assurent inspection et manipulation dans des environnements dangereux. La société est entrée en bourse via une fusion avec un SPAC en 2022 avant de rationaliser ses opérations, concentrant son offre sur la production d'exosquelettes et les applications de défense et d'aérospatiale pour atteindre l'échelle commerciale avec une gamme plus resserrée.",
+      "hq_city": "Salt Lake City"
+    }
+  },
+  "ekso-bionics": {
+    "ar": {
+      "name": "Ekso Bionics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "هياكل خارجية طبية",
+      "short_description": "تصنع هياكل خارجية قابلة للارتداء لتأهيل مرضى السكتة الدماغية واستعادة الحركة.",
+      "technology": "هياكل خارجية قابلة للارتداء",
+      "why_relevant": "علاج بالهياكل الخارجية قائم على الأدلة، ومستخدم في المستشفيات.",
+      "history": "تعود جذور Ekso Bionics إلى عام 2005، حين بدأت مجموعة مهندسين بالتعاون مع أستاذ الروبوتات في جامعة بيركلي عماد كازروني بإنتاج هياكل خارجية وأدوات مساعدة صناعية. تحولت الشركة نحو التطبيقات الطبية وحصلت على موافقة FDA لهيكل Ekso GT الخارجي للأطراف السفلية لتأهيل مرضى السكتة الدماغية وإصابات النخاع الشوكي، وهو الآن مستخدم في مئات المستشفيات. أدرجت Ekso أسهمها في Nasdaq عام 2014 وعززت منظومتها العلاجية ببرمجيات متصلة لتتبع التأهيل. من مقرها في ريتشموند بكاليفورنيا، تواصل توسيع أدلتها السريرية في مجالات السكتة الدماغية والعمود الفقري والحركة.",
+      "hq_city": "ريتشموند"
+    },
+    "fr": {
+      "name": "Ekso Bionics",
+      "country": "États-Unis",
+      "sub_domain": "Exosquelettes médicaux",
+      "short_description": "Fabrique des exosquelettes portables pour la rééducation post-AVC et la mobilité.",
+      "technology": "Exosquelettes portables",
+      "why_relevant": "Une thérapie par exosquelette validée par les preuves, utilisée dans les hôpitaux.",
+      "history": "Ekso Bionics trace ses origines à 2005, quand un groupe d'ingénieurs travaillant avec le professeur de robotique de Berkeley Homayoon Kazerooni a commencé à produire des exosquelettes et des aides industrielles. L'entreprise s'est tournée vers le médical et a obtenu l'autorisation de la FDA pour l'Ekso GT, exosquelette de membres inférieurs destiné à la rééducation après AVC et lésion de la moelle épinière, aujourd'hui utilisé dans des centaines d'hôpitaux. Ekso est entrée au Nasdaq en 2014 et a renforcé son écosystème thérapeutique avec des logiciels de suivi de rééducation connectés. Depuis Richmond, en Californie, la société élargit ses preuves cliniques dans l'AVC, le spinal et la mobilité.",
+      "hq_city": "Richmond"
+    }
+  },
+  "mujin": {
+    "ar": {
+      "name": "Mujin",
+      "country": "اليابان",
+      "sub_domain": "التحكم في الروبوتات الصناعية",
+      "short_description": "تطور تقنيات تحكم تمكّن من تفكيك الطبليات الآلي للدفعات المختلطة.",
+      "technology": "تخطيط الحركة، رؤية آلية",
+      "why_relevant": "تبيع عقلًا عامًا للمهام الحركية الصناعية الصعبة.",
+      "history": "أسس إيسي تاكينو وروزن ديانكوف شركة Mujin في طوكيو عام 2011، وطوّرا جهاز تحكم عالميًا لتخطيط الحركة يخدم أساطيل الروبوتات الصناعية الصعبة. يوفر جهاز MujinController التخطيط والمعايرة والرؤية الآلية، ما يتيح للأذرع المناوِلة معالجة أحمال مختلطة دون برمجة لكل منشأة. وسّعت الشركة نشر حلولها في اللوجستيات والسيارات والسلع الاستهلاكية في اليابان والصين والولايات المتحدة. وفي 2025 استحوذت شركة الاستشارات Accenture على Mujin لتثبيت حضورها في التصنيع الذكي والتفكيك الآلي للطبليات على نطاق صناعي.",
+      "hq_city": "طوكيو"
+    },
+    "fr": {
+      "name": "Mujin",
+      "country": "Japon",
+      "sub_domain": "Contrôle de robots industriels",
+      "short_description": "Développe une technologie de contrôle permettant la dépallétisation robotisée de lots mixtes.",
+      "technology": "Planification de mouvement, vision artificielle",
+      "why_relevant": "Vend un cerveau universel pour les tâches de mouvement industrielles complexes.",
+      "history": "Mujin a été fondée à Tokyo en 2011 par Issei Takino et Rosen Diankov, qui ont développé un contrôleur universel de planification de mouvement pour des parcs de robots industriels complexes. Son MujinController propose planification, étalonnage et vision machine permettant aux bras manipulateurs de traiter des charges mixtes sans programmation spécifique à chaque installation. La société a déployé ses solutions en logistique, automobile et biens de consommation au Japon, en Chine et aux États-Unis. En 2025, le cabinet de conseil Accenture a racheté Mujin pour ancrer sa stratégie dans la fabrication intelligente et la dépallétisation robotisée à l'échelle industrielle.",
+      "hq_city": "Tokyo"
+    }
+  },
+  "clearpath-robotics": {
+    "ar": {
+      "name": "Clearpath Robotics",
+      "country": "كندا",
+      "sub_domain": "AMR صناعية",
+      "short_description": "صانع خط Otto من مركبات صناعية ذاتية التشغيل.",
+      "technology": "AMR للبيئات الخارجية، منظومات قيادة ذاتية",
+      "why_relevant": "إجابة كندا على نقل المواد الثقيلة الذاتي.",
+      "history": "أسس خريجو جامعة واترلو مات ريندال وبرايان ويب ورايان غاريبي شركة Clearpath Robotics في كيتشنر بأونتاريو عام 2009. بدأت الشركة بمنصات بحثية مثل Husky وJackal للجامعات والمختبرات، ثم أطلقت خط Otto من الروبوتات المتنقلة ذاتية التشغيل للخدمات اللوجستية في المصانع. ومع عمليات نشر في مصانع السيارات والسلع الاستهلاكية حول العالم، أصبحت Clearpath أحد أبرز موردي AMR الغربيين. في 2023 استحوذت Rockwell Automation على الشركة لدمج منظومة القيادة الذاتية ضمن محفظتها لأتمتة الصناعة، وتواصل روبوتات Otto خدمة عملاء التصنيع حول العالم.",
+      "hq_city": "كيتشنر"
+    },
+    "fr": {
+      "name": "Clearpath Robotics",
+      "country": "Canada",
+      "sub_domain": "AMR industriels",
+      "short_description": "Fabricant de la gamme Otto de véhicules industriels autonomes.",
+      "technology": "AMR extérieurs, piles d'autonomie",
+      "why_relevant": "La réponse du Canada au transport autonome de charges lourdes.",
+      "history": "Clearpath Robotics a été fondée en 2009 à Kitchener, en Ontario, par des diplômés de l'Université de Waterloo : Matt Rendall, Bryan Webb et Ryan Gariepy. La société a commencé par des plateformes de recherche comme Husky et Jackal destinées aux universités et laboratoires, avant de lancer sa gamme Otto de robots mobiles autonomes pour la logistique d'usine. Forte de déploiements dans les usines automobiles et de biens de consommation à travers le monde, Clearpath est devenue l'un des principaux fournisseurs occidentaux d'AMR. En 2023, Rockwell Automation a racheté l'entreprise pour intégrer sa pile d'autonomie à son portefeuille d'automatisation industrielle, et les robots Otto continuent de servir des clients industriels mondiaux.",
+      "hq_city": "Kitchener"
+    }
+  },
+  "vention": {
+    "ar": {
+      "name": "Vention",
+      "country": "كندا",
+      "sub_domain": "خلايا عمل روبوتية",
+      "short_description": "منصة لتصميم ومحاكاة ونشر خلايا العمل الروبوتية في يوم واحد.",
+      "technology": "نمذجة CAD لخلايا العمل، سحابة صناعية",
+      "why_relevant": "تقدم تهيئة بدون كود لأتمتة الصناعة.",
+      "history": "أسس إتيان لاكروا شركة Vention في مونتريال عام 2016 لجعل أتمتة الصناعة في متناول مهندسين من كل المستويات. تتيح منصتها MachineBuilder سحب وإفلات محاكاة خلايا الروبوتات وطلبها من كتالوج مكونات، ثم تجميع الآلة خلال أيام. حققت المنصة انتشارًا قويًا لدى المصنعين المتوسطين خلال طفرة الأتمتة، وجمعت الشركة جولة تمويل من الفئة C بقيادة Bessemer Venture Partners عام 2023. وسّعت Vention منذ ذلك الحين شبكة شركاء التكامل وطوّرت برمجياتها السحابية لتشغيل الخلايا التي تساعد على تصميمها.",
+      "hq_city": "مونتريال"
+    },
+    "fr": {
+      "name": "Vention",
+      "country": "Canada",
+      "sub_domain": "Cellules robotiques",
+      "short_description": "Plateforme pour concevoir, simuler et déployer des cellules robotiques en une journée.",
+      "technology": "CAO de cellules + cloud industriel",
+      "why_relevant": "Apporte la configuration sans code à l'automatisation industrielle.",
+      "history": "Vention a été fondée à Montréal en 2016 par Etienne Lacroix pour rendre l'automatisation industrielle accessible aux ingénieurs de tous niveaux. Sa plateforme MachineBuilder permet de glisser-déposer, simuler et commander des cellules robotiques à partir d'un catalogue de composants, puis d'assembler la machine en quelques jours. La plateforme a connu une forte traction auprès des fabricants de taille moyenne pendant le boom de l'automatisation, et la société a levé une série C menée par Bessemer Venture Partners en 2023. Vention a depuis constitué un réseau d'intégrateurs partenaires et étendu ses logiciels cloud pour piloter les cellules qu'elle aide à concevoir.",
+      "hq_city": "Montréal"
+    }
+  }
+}

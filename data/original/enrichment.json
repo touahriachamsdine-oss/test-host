@@ -1,0 +1,250 @@
+{
+  "aircrop": {
+    "history": "Founded in Algeria to bring UAV precision agriculture to North African farms, AirCrop built a Drone-as-a-Service platform combining multispectral imaging with AI crop-health analysis. After seed development through local agritech programs, it was recognized in the Algeria Startup Challenge 2024. The company continues to expand drone fleets and AI models for disease, pest and irrigation detection across the Maghreb.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "تأسّست أيركروب في الجزائر لإدخال الزراعة الدقيقة عبر الطائرات بدون طيار إلى المزارع في شمال إفريقيا، وطوّرت منصة «الزراعة كخدمة عبر الطائرات» تجمع بين التصوير متعدد الأطياف وتحليل صحة المحاصيل بالذكاء الاصطناعي. بعد تطوير أولي في برامج فلاحية محلية، حصلت على تقدير في تحدي الشركات الناشئة الجزائرية 2024. وتواصل توسيع أساطيلها الرقمية ونماذجها الذكية لكشف الأمراض والآفات ومشاكل الري عبر المغرب العربي.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "Fondée en Algérie pour apporter l'agriculture de précision par drone aux fermes nord-africaines, AirCrop a bâti une plateforme « Drone-as-a-Service » alliant imagerie multispectrale et analyse de la santé des cultures par IA. Après un développement initial au sein de programmes agrotech locaux, elle a été reconnue lors du Challenge Startup Algérie 2024. Elle continue d'étendre sa flotte de drones et ses modèles d'IA pour la détection des maladies, ravageurs et problèmes d'irrigation au Maghreb.", "hq_city": "Alger" }
+  },
+  "atlas-space": {
+    "history": "Atlas Spaceworks was created in 2022 to give African institutions affordable space capacity. The company develops CubeSat platforms and low-cost ground-station networks for Earth observation, targeting agricultural and water monitoring across North Africa. It positions itself as a sovereign capacity builder, connecting local universities and agencies with S-band ground infrastructure and telemetry software.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "أُنشئت أطلس سبيس ووركس عام 2022 لمنح المؤسسات الإفريقية قدرة فضائية ميسورة التكلفة. تطوّر الشركة منصات أقمار نانوية (CubeSat) وشبكات محطات أرضية منخفضة التكلفة لرصد الأرض، بهدف مراقبة الزراعة والمياه في شمال إفريقيا. وهي تعمل كبانية قدرة سيادية، تربط الجامعات والوكالات المحلية ببنية تحتية أرضية بنطاق S وبرمجيات القياس عن بُعد.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "Atlas Spaceworks a été créée en 2022 pour offrir aux institutions africaines une capacité spatiale abordable. Elle développe des plateformes CubeSat et des réseaux de stations-sol à faible coût pour l'observation de la Terre, visant le suivi agricole et hydrique en Afrique du Nord. Elle se présente comme un bâtisseur de capacité souveraine, reliant universités et agences locales à des infrastructures sol en bande S et des logiciels de télémétrie.", "hq_city": "Alger" }
+  },
+  "aurion-semi": {
+    "history": "Aurion Semiconductors is an Algerian analog IC design house founded in 2023. Focused on power-management integrated circuits, it targets LDO regulators on a 130nm process, aiming to build foundational design capability in a region without domestic fabs. The startup operates as a fabless designer, validating silicon through external foundries while training local analog engineers.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "أوريون لأشباه الموصلات مكتب تصميم جزائري للدوائر التناظرية تأسس عام 2023. تركّز على الدوائر المتكاملة لإدارة الطاقة وتستهدف منظمات LDO بتقنية 130 نانومتر، بهدف بناء قدرة تصميمية أساسية في منطقة لا تتوفر على مصانع محلية للرقائق. تعمل الشركة كمصمم دون مصنع (فابليس)، وتتحقق من السيليكون عبر مسابك خارجية مع تدريب مهندسين تناظريين محليين.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "Aurion Semiconductors est un bureau de conception de circuits analogiques algérien fondé en 2023. Spécialisée dans les circuits intégrés de gestion de puissance, elle vise les régulateurs LDO en technologie 130nm, dans le but de bâtir une capacité de conception fondamentale dans une région sans fabs domestiques. La startup opère en mode fabless, validant le silicium via des fonderies externes tout en formant des ingénieurs analogiques locaux.", "hq_city": "Alger" }
+  },
+  "aures-medic": {
+    "history": "Aurès MedTech emerged in 2020 from the Aurès region of Algeria to make medical monitoring affordable in rural clinics. The company builds AI-assisted vital-sign monitors on low-power embedded hardware, pairing telehealth APIs with local production to reduce dependence on imported devices. Its devices target primary-care settings where clinicians and connectivity remain scarce.",
+    "hq_city": "Batna",
+    "latitude": 35.5559,
+    "longitude": 6.1740,
+    "ar": { "history": "انطلقت أوريس مدتيك عام 2020 من منطقة الأوراس بالجزائر لجعل المراقبة الطبية في المتناول في العيادات الريفية. تطوّر الشركة أجهزة مراقبة للمؤشرات الحيوية مدعومة بالذكاء الاصطناعي على أجهزة منخفضة الطاقة، وتجمع بين واجهات برمجة الطب عن بُعد والإنتاج المحلي للحد من الاعتماد على الأجهزة المستوردة. تستهدف أجهزتها مراكز الرعاية الأولية حيث يندر الأطباء والاتصال.", "hq_city": "باتنة" },
+    "fr": { "history": "Aurès MedTech a vu le jour en 2020 dans la région des Aurès en Algérie pour rendre la surveillance médicale abordable dans les cliniques rurales. Elle conçoit des moniteurs de signes vitaux assistés par IA sur du matériel embarqué à faible consommation, combinant API de télémédecine et production locale pour réduire la dépendance aux dispositifs importés. Ses appareils ciblent les centres de soins primaires où cliniciens et connectivité restent rares.", "hq_city": "Batna" }
+  },
+  "badis-ai": {
+    "history": "BADIS AI is a sovereign AI software publisher based at the Cyberparc de Sidi Abdellah in Algiers. It develops on-premise solutions — OCR, RAG, AI agents, chatbots and a data assistant — for public and private organizations that must keep data in-country. The company has been ranked among the Top 10 AI and EdTech startups in Algeria, and focuses on Arabic and French language workloads.",
+    "hq_city": "Sidi Abdellah (Algiers)",
+    "latitude": 36.7003,
+    "longitude": 2.8665,
+    "ar": { "history": "باديس للذكاء الاصطناعي ناشر برمجيات سيادية مقرّه «سايبر بارك سيدي عبد الله» بالجزائر العاصمة. يطوّر حلولاً داخلية تشمل التعرف الضوئي على الحروف (OCR) وتوليد الاسترجاع (RAG) والوكلاء الذكيين وروبوتات المحادثة ومساعد البيانات، لمؤسسات عامة وخاصة ملزمة بإبقاء بياناتها داخل الوطن. حلّت الشركة ضمن أفضل عشر شركات ذكاء اصطناعي وتعليم تقني في الجزائر، وتركّز على معالجة اللغتين العربية والفرنسية.", "hq_city": "سيدي عبد الله (الجزائر)" },
+    "fr": { "history": "BADIS AI est un éditeur de logiciels d'IA souveraine installé au Cyberparc de Sidi Abdellah à Alger. Il développe des solutions sur site — OCR, RAG, agents IA, chatbots et assistant de données — destinées aux organisations publiques et privées tenues de conserver leurs données dans le pays. La société a été classée parmi les 10 meilleures startups IA et EdTech d'Algérie et se concentre sur les charges de travail en arabe et en français.", "hq_city": "Sidi Abdellah (Alger)" }
+  },
+  "bk-fire-icosium": {
+    "history": "An established Algerian industrial deeptech SME repositioned as BK Fire, the company produces the Icosium — a 480 kg, fully Algerian-made firefighting robot. Rated to resist 2,000°C with 80 m water projection and a 300 m control range, Icosium was developed for hazardous industrial firefighting. A 2026 AI upgrade adds autonomous fire detection and aim.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "شركة جزائرية صناعية للتكنولوجيا العميقة أُعيد وضعها باسم BK Fire، تنتج روبوت الإطفاء «إكوسيوم» الذي يزن 480 كغ وهو تصنيع جزائري بالكامل. يقاوم الإكوسيوم حرارة 2,000 درجة مئوية مع قذف مياه لمسافة 80 متراً ومدى تحكّم يبلغ 300 متر، وطُوّر لمكافحة الحرائق الصناعية الخطرة. أضاف تحديث الذكاء الاصطناعي لعام 2026 كشفاً ذاتياً للحرائق وتصويباً تلقائياً.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "PME algérienne de deeptech industriel repositionnée sous le nom de BK Fire, elle produit l'Icosium — un robot pompier de 480 kg, entièrement fabriqué en Algérie. Capable de résister à 2 000 °C avec une projection d'eau de 80 m et une portée de contrôle de 300 m, l'Icosium a été conçu pour la lutte contre les incendies industriels dangereux. Une mise à jour IA de 2026 ajoute la détection et la visée autonomes des incendies.", "hq_city": "Alger" }
+  },
+  "crunch-lab": {
+    "history": "Crunch Lab is a US-based R&D laboratory founded in 2021 to industrialize carbon nanotube materials. The lab produces yarns, sheets and films from carbon nanotubes, then combines them with electrochemical applications in energy and advanced materials. Its R&D pipeline targets scalable manufacturing routes that move nanotube materials from the lab bench to industrial volumes.",
+    "hq_city": "New York",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "ar": { "history": "كرانش لاب مختبر أبحاث وتطوير أمريكي تأسس عام 2021 لتحويل مواد الأنابيب النانوية الكربونية إلى إنتاج صناعي. ينتج المختبر خيوطاً وألواحاً وأغشية من الأنابيب النانوية الكربونية، ثم يجمعها مع تطبيقات كهروكيميائية في الطاقة والمواد المتقدمة. يستهدف خط تطويره مسارات تصنيع قابلة للتوسع تنقل مواد الأنابيب النانوية من مقاعد المختبر إلى أحجام صناعية.", "hq_city": "نيويورك" },
+    "fr": { "history": "Crunch Lab est un laboratoire de R&D basé aux États-Unis, fondé en 2021 pour industrialiser les matériaux en nanotubes de carbone. Le laboratoire produit des fils, feuilles et films en nanotubes de carbone, puis les combine à des applications électrochimiques dans l'énergie et les matériaux avancés. Son pipeline de R&D vise des voies de fabrication évolutives pour passer des paillasses aux volumes industriels.", "hq_city": "New York" }
+  },
+  "cybershield-dz": {
+    "history": "CyberShield DZ was founded in 2019 to close the managed-security gap for Algerian SMEs and the public sector. Its platform combines SIEM, EDR and AI-driven threat correlation into a managed detection and response service tailored to local compliance needs. The startup operates a security operations capability aimed at protecting critical infrastructure without relying on offshore monitoring teams.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "تأسست سايبرشيلد دي زد عام 2019 لسد الفجوة في الأمن المُدار لدى المؤسسات الصغيرة والمتوسطة والقطاع العمومي في الجزائر. يدمج منصّتها أمن المعلومات SIEM وحماية نقطة النهاية EDR وربط التهديدات بالذكاء الاصطناعي في خدمة كشف واستجابة مُدارة مصمّمة لتلبية متطلبات الامتثال المحلية. تدير الشركة قدرة عمليات أمنية تهدف لحماية البنية التحتية الحيوية دون الاعتماد على فرق مراقبة خارجية.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "CyberShield DZ a été fondée en 2019 pour combler le manque de sécurité gérée des PME algériennes et du secteur public. Sa plateforme combine SIEM, EDR et corrélation de menaces pilotée par IA dans un service de détection et réponse gérée adapté aux exigences locales de conformité. La startup opère une capacité de centre d'opérations de sécurité visant à protéger les infrastructures critiques sans dépendre d'équipes de supervision offshore.", "hq_city": "Alger" }
+  },
+  "dz-biomark": {
+    "history": "DZ BioMark was established in 2020 to deliver low-cost molecular diagnostics to regions with difficult logistics. Its CRISPR-based detection kits and lyophilized reagents are designed to survive desert transport without cold chains, shortening sample-to-result times for infectious disease testing. The company partners with rural health networks to make rapid diagnostics available far from central laboratories.",
+    "hq_city": "Oran",
+    "latitude": 35.6987,
+    "longitude": -0.6339,
+    "ar": { "history": "أنشئت دي زد بيومارك عام 2020 لِتوفير تشخيصات جزيئية منخفضة التكلفة للمناطق ذات اللوجستيات الصعبة. صُمّمت مجموعات الكشف المعتمدة على كريسبر وكواشفها المجففة بالتجميد لتحمّل النقل في الصحراء دون سلاسل تبريد، مما يقصّر الوقت بين أخذ العيّنة والنتيجة في اختبارات الأمراض المعدية. تتعاون الشركة مع شبكات الصحة الريفية لجعل التشخيص السريع متاحاً بعيداً عن المختبرات المركزية.", "hq_city": "وهران" },
+    "fr": { "history": "DZ BioMark a été créée en 2020 pour fournir des diagnostics moléculaires à faible coût aux régions à logistique difficile. Ses kits de détection basés sur CRISPR et ses réactifs lyophilisés sont conçus pour survivre au transport désertique sans chaîne du froid, réduisant les délais d'obtention des résultats pour les maladies infectieuses. La société s'associe aux réseaux de santé ruraux pour rendre le diagnostic rapide accessible loin des laboratoires centraux.", "hq_city": "Oran" }
+  },
+  "flyteq": {
+    "history": "FLYTEQ grew from the Algerian drone ecosystem into a multi-service engineering company. Its portfolio spans precision agriculture (AGRO TEQ), geospatial mapping (GEO TEQ), infrastructure inspection (SCAN TEQ) and high-altitude cleaning (CLEAN TEQ). The company builds its own airframes and mission software, serving agriculture, construction and energy clients across Algeria.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "نمت فلايتك من منظومة الطائرات بدون طيار الجزائرية إلى شركة هندسية متعددة الخدمات. تشمل حافظة خدماتها الزراعة الدقيقة (AGRO TEQ) والخرائط الجغرافية المكانية (GEO TEQ) وتفتيش البنية التحتية (SCAN TEQ) والتنظيف العالي (CLEAN TEQ). تبني الشركة هياكلها الجوية وبرمجيات المهام بنفسها، وتخدم عملاء في الزراعة والبناء والطاقة عبر الجزائر.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "FLYTEQ est née de l'écosystème algérien du drone pour devenir une société d'ingénierie multi-services. Son portefeuille couvre l'agriculture de précision (AGRO TEQ), la cartographie géospatiale (GEO TEQ), l'inspection d'infrastructures (SCAN TEQ) et le nettoyage en hauteur (CLEAN TEQ). L'entreprise fabrique ses propres cellules et logiciels de mission, au service de clients agricoles, BTP et énergétiques à travers l'Algérie.", "hq_city": "Alger" }
+  },
+  "farmai": {
+    "history": "FarmAI was founded in 2022 to give Algerian farmers an early warning system for crop disease. By pairing multispectral drone imagery with AI classifiers, the startup detects wheat rust and other plant infections before they spread. Its work on rust detection won Huawei's Tech4Good People's Choice Award and a $100K prize, helping fund field trials across cereal-growing regions.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "تأسست فارم أي عام 2022 لِتزويد المزارعين الجزائريين بنظام إنذار مبكر لأمراض المحاصيل. من خلال الجمع بين تصوير الطائرات بدون طيار متعدد الأطياف ومصنّفات الذكاء الاصطناعي، تكشف الشركة صدا القمح والأمراض النباتية الأخرى قبل انتشارها. أحرز عملها في كشف الصدأ جائزة «تيك4جود» لاختيار الجمهور من هواوي ومبلغ 100 ألف دولار، ما ساعد في تمويل تجارب ميدانية في مناطق زراعة الحبوب.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "FarmAI a été fondée en 2022 pour offrir aux agriculteurs algériens un système d'alerte précoce contre les maladies des cultures. En couplant imagerie multispectrale par drone et classifieurs IA, la startup détecte la rouille du blé et d'autres infections végétales avant leur propagation. Ses travaux sur la détection de la rouille ont remporté le prix « Tech4Good People's Choice » de Huawei et 100 000 $, finançant des essais au champ dans les régions céréalières.", "hq_city": "Alger" }
+  },
+  "formlabs": {
+    "history": "Formlabs was founded in 2011 out of MIT's Media Lab to make professional 3D printing accessible. Its Form 1 kicked off a desktop SLA revolution, later expanded into SLS, resin libraries and the industrial Form series. The company grew through venture funding and now serves engineers, manufacturers and designers worldwide, becoming a pillar of desktop and benchtop additive manufacturing.",
+    "hq_city": "Somerville",
+    "latitude": 42.3876,
+    "longitude": -71.0995,
+    "ar": { "history": "تأسست فورم لابس عام 2011 انطلاقاً من مختبر ميديا التابع لمعهد ماساتشوستس للتكنولوجيا لجعل الطباعة ثلاثية الأبعاد الاحترافية في المتناول. أشعلت طابعة Form 1 ثورة الطباعة SLA المكتبية، ثم توسّعت إلى تقنية SLS ومكتبات الراتنجات وسلسلة فورم الصناعية. نمت الشركة عبر تمويل رأس المال المخاطر، وتخدم اليوم المهندسين والمصنّعين والمصمّمين حول العالم، وأصبحت ركيزة التصنيع الإضافي المكتبي.", "hq_city": "سومرفيل" },
+    "fr": { "history": "Formlabs a été fondée en 2011 à partir du MIT Media Lab pour rendre l'impression 3D professionnelle accessible. Sa Form 1 a lancé une révolution de l'impression SLA de bureau, avant de s'étendre au SLS, aux bibliothèques de résines et à la série industrielle Form. La société a grandi grâce au capital-risque et sert désormais ingénieurs, industriels et designers dans le monde entier.", "hq_city": "Somerville" }
+  },
+  "graphene-dz": {
+    "history": "GrapheneDZ was created in 2019 to develop graphene-enhanced membranes for water desalination. The project sought to combine CVD graphene growth with membrane coating, leveraging Algeria's hydrocarbon feedstock to produce advanced materials for water treatment. The venture remained in early R&D and later moved to rejection status in the national review pipeline.",
+    "hq_city": "Oran",
+    "latitude": 35.6987,
+    "longitude": -0.6339,
+    "ar": { "history": "أُنشئ جرافين دي زد عام 2019 لتطوير أغشية معزّزة بالغرافين لتحلية المياه. سعى المشروع إلى الجمع بين نمو الغرافين بطريقة الترسيب الكيميائي من البخار وطلاء الأغشية، والاستفادة من المواد الهيدروكربونية الجزائرية لإنتاج مواد متقدمة لمعالجة المياه. بقي المشروع في مرحلة البحث والتطوير المبكرة وأُدرج لاحقاً ضمن حالة «مرفوض» في مسار المراجعة الوطنية.", "hq_city": "وهران" },
+    "fr": { "history": "GrapheneDZ a été créée en 2019 pour développer des membranes renforcées au graphène destinées au dessalement de l'eau. Le projet visait à combiner croissance CVD du graphène et revêtement de membranes, en tirant parti de la matière première hydrocarbonée algérienne pour produire des matériaux avancés de traitement de l'eau. La startup est restée en R&D précoce puis est passée au statut « rejeté » dans le pipeline national.", "hq_city": "Oran" }
+  },
+  "grover-energy": {
+    "history": "Grover Energy is a French deeptech founded in 2022 exploring a radical alternative to electrochemical batteries: storing electrical energy in coils of exotic-metal cables. The concept targets grid-scale renewable storage and ultra-fast EV charging without battery chemistry. The startup is in early validation, testing cable materials and charge-discharge behavior.",
+    "hq_city": "Paris",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "ar": { "history": "غروفير إنرجي شركة فرنسية في التكنولوجيا العميقة تأسست عام 2022 تستكشف بديلاً جذرياً عن البطاريات الكهروكيميائية: تخزين الطاقة الكهربائية في ملفّات من كابلات معدنية خاصة. يركّز المفهوم على تخزين الطاقة المتجددة على نطاق الشبكات والشحن فائق السرعة للسيارات الكهربائية دون كيمياء البطاريات. الشركة في مرحلة تحقق مبكرة، وتختبر مواد الكابلات وسلوك الشحن والتفريغ.", "hq_city": "باريس" },
+    "fr": { "history": "Grover Energy est une deeptech française fondée en 2022 qui explore une alternative radicale aux batteries électrochimiques : stocker l'énergie électrique dans des bobines de câbles en métaux spéciaux. Le concept vise le stockage d'énergies renouvelables à l'échelle du réseau et la recharge ultra-rapide des véhicules électriques sans chimie de batterie. La startup est en validation précoce, testant les matériaux de câbles et les comportements de charge-décharge.", "hq_city": "Paris" }
+  },
+  "kabas-ai": {
+    "history": "KABAS AI was founded in 2024 to build a sovereign Arabic large language model trained on-premises for government and enterprise adoption. The startup focuses on data residency, developing its own training and fine-tuning pipelines so that sensitive Arabic-language workloads stay inside the country. Its roadmap pairs core model development with RAG and on-prem inference for public-sector deployments.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "تأسست كاباس أي عام 2024 لبناء نموذج لغوي عربي كبير سيادي يُدرَّب داخل البلاد لاستخدامات الحكومة والمؤسسات. تركّز الشركة على إقامة البيانات، إذ تطوّر خطوط تدريب وضبط خاصة بها بحيث تبقى أعباء العمل الحسّاسة باللغة العربية داخل الوطن. يجمع مسار عملها بين تطوير النموذج الأساسي وتقنيات RAG والاستدلال الداخلي لنشر القطاع العام.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "KABAS AI a été fondée en 2024 pour bâtir un grand modèle de langue arabe souverain, entraîné sur site pour les usages gouvernementaux et d'entreprise. La startup met l'accent sur la résidence des données en développant ses propres pipelines d'entraînement et de fine-tuning afin que les charges de travail sensibles en arabe restent dans le pays. Sa feuille de route combine le développement du modèle avec du RAG et de l'inférence sur site.", "hq_city": "Alger" }
+  },
+  "kleenov": {
+    "history": "Kleenov develops AquaBotX, an autonomous aquatic robot built in Algeria to clean floating waste and monitor water quality in dams, ports, rivers and lakes. The company emerged from water-pollution challenges in Algerian reservoirs, combining solar-electric propulsion with sensors for turbidity and environmental monitoring. It targets municipalities and dam operators with a maintenance-as-a-service model.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "تطوّر كلينوف روبوتاً مائياً ذاتي التحكم باسم أكوابوت إكس صُنع في الجزائر لتنظيف النفايات العائمة ومراقبة جودة المياه في السدود والموانئ والأنهار والبحيرات. انطلقت الشركة من تحديات تلوث المياه في الخزانات الجزائرية، وتجمع بين الدفع الكهربائي الشمسي وأجهزة استشعار العكارة والرصد البيئي. تستهدف البلديات ومشغّلي السدود بنموذج الصيانة كخدمة.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "Kleenov développe AquaBotX, un robot aquatique autonome fabriqué en Algérie pour nettoyer les déchets flottants et surveiller la qualité de l'eau dans les barrages, ports, rivières et lacs. L'entreprise est née des défis de pollution des réservoirs algériens, combinant propulsion électrique solaire et capteurs de turbidité et de surveillance environnementale. Elle cible municipalités et exploitants de barrages via une offre de maintenance as-a-service.", "hq_city": "Alger" }
+  },
+  "lablabee": {
+    "history": "LabLabee launched in 2021 as the first Algerian edtech with US ambitions, offering on-demand virtual labs for 5G, Cloud, IMS and Kubernetes. Its browser-based environments let telcos and universities train engineers without physical hardware. Backed by a $3.4M round in 2024 led by Reach Capital, the company is scaling from North Africa toward international training markets.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "أُطلقت لاب لابي عام 2021 كأول شركة جزائرية في التعليم التقني تخطّط للتوسع الأمريكي، وتوفر مختبرات افتراضية حسب الطلب لتقنيات الجيل الخامس 5G والسحابة وIMS وKubernetes. تتيح بيئاتها القائمة على المتصفح لشركات الاتصالات والجامعات تدريب المهندسين دون أجهزة مادية. وبتمويل 3.4 مليون دولار عام 2024 بقيادة Reach Capital، تتوسع الشركة من شمال إفريقيا نحو الأسواق التدريبية الدولية.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "LabLabee a été lancée en 2021 comme première edtech algérienne à ambitions américaines, proposant des laboratoires virtuels à la demande pour la 5G, le Cloud, l'IMS et Kubernetes. Ses environnements navigateur permettent aux opérateurs et universités de former des ingénieurs sans matériel physique. Soutenue par un tour de 3,4 M$ en 2024 mené par Reach Capital, elle passe de l'Afrique du Nord vers les marchés internationaux de la formation.", "hq_city": "Alger" }
+  },
+  "mimic-al": {
+    "history": "MIMIC-AL positions itself as Algeria's first Biotech 4.0 startup, specializing in bioengineering and omics. Its work spans lab-on-chip platforms, genetic engineering, and cell and tissue engineering, developed with the Biotechnology Research Center (C.R.B.t). The startup aims to turn laboratory biology into automated, data-driven production pipelines for diagnostics and therapeutics.",
+    "hq_city": "Constantine",
+    "latitude": 36.3650,
+    "longitude": 6.6147,
+    "ar": { "history": "تُقدّم ميميك أل نفسها كأول شركة ناشئة جزائرية في التكنولوجيا الحيوية 4.0، متخصصة في الهندسة البيولوجية وعلم الأوميكس. يشمل عملها منصات المختبر على الشريحة والهندسة الوراثية وهندسة الخلايا والأنسجة، ويتطور بالشراكة مع مركز البحوث في التكنولوجيا الحيوية. تهدف الشركة إلى تحويل علم الأحياء المخبري إلى خطوط إنتاج مؤتمتة مبنية على البيانات للتشخيص والعلاجات.", "hq_city": "قسنطينة" },
+    "fr": { "history": "MIMIC-AL se présente comme la première startup algérienne de Biotech 4.0, spécialisée en bio-ingénierie et omiques. Ses travaux couvrent les plateformes lab-on-chip, l'ingénierie génétique et l'ingénierie cellulaire et tissulaire, développés avec le Centre de recherche en biotechnologie (C.R.B.t). La startup vise à transformer la biologie de laboratoire en chaînes de production automatisées et pilotées par les données.", "hq_city": "Constantine" }
+  },
+  "maghreb-storage": {
+    "history": "Maghreb Storage Solutions was founded in 2023 to balance solar intermittency for North African grids. The company integrates LFP battery energy storage systems with smart inverters and EMS software, targeting utility-scale projects behind growing photovoltaic fleets. It works with developers and grid operators to turn cheap solar into dispatchable power.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "تأسست حلول تخزين المغرب الكبير عام 2023 لموازنة تقلّب الطاقة الشمسية في شبكات شمال إفريقيا. تدمج الشركة أنظمة تخزين طاقة البطاريات من نوع LFP مع محولات ذكية وبرمجيات إدارة الطاقة، مستهدفة مشاريع على نطاق الشبكات خلف أساطيل الخلايا الكهروضوئية المتنامية. تعمل مع المطوّرين ومشغّلي الشبكات لتحويل الطاقة الشمسية الرخيصة إلى طاقة قابلة للتوزيع.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "Maghreb Storage Solutions a été fondée en 2023 pour équilibrer l'intermittence solaire des réseaux nord-africains. La société intègre des systèmes de stockage par batteries LFP avec convertisseurs intelligents et logiciels EMS, visant des projets à l'échelle des réseaux derrière les flottes photovoltaïques croissantes. Elle travaille avec développeurs et gestionnaires de réseau pour transformer le solaire bon marché en électricité pilotable.", "hq_city": "Alger" }
+  },
+  "nanox-imaging": {
+    "history": "Nanox Imaging was founded in 2011 to make medical imaging radically more accessible. Its approach combines a light-field digital X-ray source with cloud-connected scanning, aiming to lower the cost and footprint of imaging devices. As the company matured, it paired hardware development with a cloud platform for image interpretation and AI-based clinical workflows.",
+    "hq_city": "Neve Ilan",
+    "latitude": 31.8453,
+    "longitude": 35.0771,
+    "ar": { "history": "تأسست نانوكس إيمدجينغ عام 2011 لجعل التصوير الطبي متاحاً بشكل جذري. يجمع نهجها بين مصدر أشعة سينية رقمية بحقل ضوئي والمسح الضوئي المتصل بالسحابة، بهدف خفض تكلفة وحجم أجهزة التصوير. ومع نضوج الشركة، قرنت تطوير العتاد بمنصة سحابية لتفسير الصور وسير عمل سريرية قائمة على الذكاء الاصطناعي.", "hq_city": "نيڤيه إيلان" },
+    "fr": { "history": "Nanox Imaging a été fondée en 2011 pour rendre l'imagerie médicale radicalement plus accessible. Son approche combine une source de rayons X numériques à champ lumineux et un balayage connecté au cloud, visant à réduire le coût et l'empreinte des appareils d'imagerie. En mûrissant, la société a couplé le matériel à une plateforme cloud d'interprétation d'images et de flux cliniques basés sur l'IA.", "hq_city": "Neve Ilan" }
+  },
+  "nooragri": {
+    "history": "NoorAgri supports smart and sustainable farming across Algeria with a Farming-as-a-Service model. It builds and manages greenhouses, tunnels and pivot irrigation systems that combine advanced materials, IoT sensors, AI and solar energy. The company targets water-stressed regions where protected agriculture can cut consumption and extend growing seasons.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "تدعم نور أجري الزراعة الذكية والمستدامة عبر الجزائر بنموذج «الزراعة كخدمة». تبني الشركة وتدير البيوت البلاستيكية والأنفاق وأنظمة الري المحوري التي تجمع بين المواد المتقدمة وأجهزة استشعار إنترنت الأشياء والذكاء الاصطناعي والطاقة الشمسية. تستهدف المناطق التي تعاني من شح المياه حيث يمكن للزراعة المحمية خفض الاستهلاك وتمديد مواسم النمو.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "NoorAgri soutient une agriculture intelligente et durable à travers l'Algérie grâce à un modèle Farming-as-a-Service. Elle construit et gère des serres, tunnels et pivots d'irrigation combinant matériaux avancés, capteurs IoT, IA et énergie solaire. La société cible les régions en stress hydrique où l'agriculture sous abri peut réduire la consommation et prolonger les saisons de culture.", "hq_city": "Alger" }
+  },
+  "northvolt": {
+    "history": "Northvolt was founded in 2016 to build a European alternative to Asian battery supply. Raised through landmark funding rounds, it established gigafactories for lithium-ion cells, energy-storage systems and a proprietary recycling program built around its Revolt process. The company pursued vertical integration from cell chemistry to recycling to anchor EV and grid storage in Europe.",
+    "hq_city": "Stockholm",
+    "latitude": 59.3293,
+    "longitude": 18.0686,
+    "ar": { "history": "تأسست نورثفولت عام 2016 لبناء بديل أوروبي لإمدادات البطاريات الآسيوية. وبفضل جولات تمويل بارزة، أقامت مصانع غيغافكتورية لخلايا الليثيوم أيون وأنظمة تخزين الطاقة وبرنامج إعادة تدوير خاص يعتمد على عمليتها Revolt. سعت الشركة إلى التكامل الرأسي من كيمياء الخلايا إلى إعادة التدوير لتثبيت السيارات الكهربائية وتخزين الشبكات في أوروبا.", "hq_city": "ستوكهولم" },
+    "fr": { "history": "Northvolt a été fondée en 2016 pour bâtir une alternative européenne à l'offre asiatique de batteries. Grâce à des levées de fonds marquantes, elle a établi des gigafactories de cellules lithium-ion, de systèmes de stockage d'énergie et un programme de recyclage propriétaire autour de son process Revolt. L'entreprise a poursuivi l'intégration verticale, de la chimie cellulaire au recyclage, pour ancrer le véhicule électrique et le stockage en Europe.", "hq_city": "Stockholm" }
+  },
+  "optibot-dz": {
+    "history": "OptiBot DZ brings Robotics-as-a-Service to Algerian warehouses and factories. It offers self-driving carts carrying 500–1500 kg and robotic arms through a subscription model that removes upfront automation cost. The startup deploys fleets for material transport and handling, reducing labor risk and improving throughput in industrial sites.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "تقدّم أوبتي بوت دي زد الروبوتات كخدمة للمستودعات والمصانع الجزائرية. تعرض عربات ذاتية القيادة تحمل من 500 إلى 1500 كغ وأذرعاً آلية عبر نموذج اشتراك يزيل تكلفة الأتمتة الأولية. تنشر الشركة أساطيل لنقل المواد والتعامل معها، مما يقلل المخاطر البدنية ويحسّن الإنتاجية في المواقع الصناعية.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "OptiBot DZ apporte la robotique-as-a-service aux entrepôts et usines algériens. Elle propose des chariots autonomes de 500 à 1500 kg et des bras robotisés via un modèle par abonnement qui supprime le coût initial d'automatisation. La startup déploie des flottes pour le transport et la manutention, réduisant les risques physiques et améliorant le débit des sites industriels.", "hq_city": "Alger" }
+  },
+  "qareeb": {
+    "history": "Qareeb was founded in 2023 to design IoT and edge computing products that survive Algerian field conditions. Its Q-Farming system uses LoRa connectivity with up to 30 km range for smart agriculture, alongside Q-Vision and Q-Access product lines for monitoring and access control. The company iterates hardware and firmware locally to fit real deployment environments.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "تأسست قريب عام 2023 لتصميم منتجات إنترنت الأشياء والحوسبة الطرفية التي تصمد في ظروف الميدان الجزائرية. يستخدم نظامها الزراعي الذكي Q-Farming اتصال LoRa بمدى يصل إلى 30 كيلومتراً، إلى جانب خطي منتجات Q-Vision وQ-Access للمراقبة والتحكم بالدخول. تكرّر الشركة عتادها وبرمجياتها محلياً لتلائم بيئات النشر الفعلية.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "Qareeb a été fondée en 2023 pour concevoir des produits IoT et edge computing capables de survivre aux conditions de terrain algériennes. Son système d'agriculture intelligente Q-Farming utilise la connectivité LoRa jusqu'à 30 km, aux côtés des gammes Q-Vision et Q-Access pour la surveillance et le contrôle d'accès. La société itère matériel et firmware localement pour épouser les environnements réels.", "hq_city": "Alger" }
+  },
+  "rocket-lab": {
+    "history": "Rocket Lab was founded in 2006 and became a leading end-to-end space company. Its Electron rocket opened a dedicated small-satellite launch market, followed by spacecraft manufacturing, satellite components and the larger Neutron vehicle program. The company matured from early test flights to routine launches and a broad space-systems portfolio, serving government and commercial constellations.",
+    "hq_city": "Long Beach",
+    "latitude": 33.7701,
+    "longitude": -118.1937,
+    "ar": { "history": "تأسست روكيت لاب عام 2006 وأصبحت شركة فضاء رائدة متكاملة. فتح صاروخها إلكترون سوق الإطلاق المخصص للأقمار الصناعية الصغيرة، تلاه تصنيع المركبات الفضائية ومكوّناتها وبرنامج مركبة نيترون الأكبر. تطورت الشركة من رحلات اختبار مبكرة إلى عمليات إطلاق روتينية وحافظة واسعة لأنظمة الفضاء، لتخدم الأبراج الحكومية والتجارية.", "hq_city": "لونغ بيتش" },
+    "fr": { "history": "Rocket Lab a été fondée en 2006 et est devenue une société spatiale de bout en bout de premier plan. Son lanceur Electron a ouvert un marché dédié au lancement des petits satellites, suivi de la fabrication de vaisseaux, de composants satellitaires et du programme de lanceur Neutron. La société est passée des vols d'essai à des lancements réguliers et à un large portefeuille de systèmes spatiaux.", "hq_city": "Long Beach" }
+  },
+  "sahara-drones": {
+    "history": "Sahara Sky Drones was created in 2022 to fly autonomous drone swarms over large Saharan-adjacent farms. Its systems combine solar charging, NDVI imaging and swarm coordination to monitor crops across vast arid plots that are hard to cover by foot. The startup targets large-scale cereal and forage producers, delivering field-level data to guide irrigation and fertilizer use.",
+    "hq_city": "Ouargla",
+    "latitude": 31.9589,
+    "longitude": 5.3250,
+    "ar": { "history": "أُنشئت صحارى سكاي درونز عام 2022 لتحليق أسراب طائرات بدون طيار ذاتية التحكم فوق مزارع كبرى ملاصقة للصحراء. تدمج أنظمتها الشحن الشمسي وتصوير NDVI وتنسيق الأسراب لمراقبة المحاصيل في مساحات قاحلة شاسعة يصعب تغطيتها سيراً على الأقدام. تستهدف الشركة منتجي الحبوب والأعلاف الكبار، وتقدّم بيانات على مستوى الحقل لتوجيه الري واستخدام الأسمدة.", "hq_city": "ورقلة" },
+    "fr": { "history": "Sahara Sky Drones a été créée en 2022 pour faire voler des essaims de drones autonomes au-dessus de grandes fermes adjacentes au Sahara. Ses systèmes combinent charge solaire, imagerie NDVI et coordination d'essaims pour surveiller les cultures sur de vastes parcelles arides difficiles à couvrir à pied. Elle cible les grands producteurs de céréales et fourrages.", "hq_city": "Ouargla" }
+  },
+  "sifive": {
+    "history": "SiFive was founded in 2015 as the pioneer of commercial RISC-V processor IP. Originating from UC Berkeley's RISC-V project, it built the tools and cores that let chipmakers customize open-architecture processors for AI accelerators, SoCs and embedded systems. The company licenses IP and design flows, playing a central role in the industry's move beyond proprietary ISAs.",
+    "hq_city": "San Francisco",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "ar": { "history": "تأسست سايفايف عام 2015 كرائدة في الملكية الفكرية لمعالجات RISC-V التجارية. انطلاقاً من مشروع RISC-V بجامعة كاليفورنيا بيركلي، بنت الأدوات والنوى التي تتيح لمصنّعي الرقائق تخصيص معالجات مفتوحة البنية لتسريعات الذكاء الاصطناعي وSoC والأنظمة المدمجة. ترخّص الشركة الملكية الفكرية وتدفقات التصميم، وتؤدي دوراً محورياً في انتقال الصناعة بعيداً عن مجموعات التعليمات المملوكة.", "hq_city": "سان فرانسيسكو" },
+    "fr": { "history": "SiFive a été fondée en 2015 comme pionnière de l'IP processeur RISC-V commerciale. Issue du projet RISC-V de l'UC Berkeley, elle a construit les outils et cœurs permettant aux fabricants de personnaliser des processeurs à architecture ouverte pour accélérateurs IA, SoC et systèmes embarqués. La société licencie IP et flots de conception, jouant un rôle central dans la sortie de l'industrie des ISA propriétaires.", "hq_city": "San Francisco" }
+  },
+  "symloop": {
+    "history": "Symloop is an Algiers-based deep-tech AI company founded in 2012. It builds NOOR, a sovereign AI platform, and production AI systems for banks, ministries, oil and gas operators and hospitals across MENA. The company pairs Arabic-NLP and data-platform work with on-premise deployment, positioning itself as a regional alternative to foreign cloud AI stacks.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "سيملوب شركة جزائرية في التكنولوجيا العميقة مقرّها الجزائر العاصمة، تأسست عام 2012. تَبني منصة نُور للذكاء الاصطناعي السيادي، وأنظمة إنتاجية للبنوك والوزارات ومشغّلي النفط والغاز والمستشفيات عبر الشرق الأوسط وشمال إفريقيا. تجمع الشركة بين معالجة اللغة العربية ومنصات البيانات والنشر الداخلي، وتضع نفسها بديلاً إقليمياً لمكدسات الذكاء الاصطناعي السحابية الأجنبية.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "Symloop est une entreprise de deeptech IA basée à Alger, fondée en 2012. Elle construit NOOR, une plateforme d'IA souveraine, et des systèmes d'IA en production pour banques, ministères, opérateurs pétroliers et hôpitaux dans la région MENA. La société associe traitement de l'arabe, plateformes de données et déploiement sur site, se positionnant comme une alternative régionale aux stacks cloud étrangers.", "hq_city": "Alger" }
+  },
+  "think-touch-solution": {
+    "history": "Think Touch Solution is an Algiers-based MedTech and biotech startup founded in 2022, specialized in AI-driven pharmacovigilance, cosmetovigilance and materiovigilance. Its products CureSkyAI and CosmetoCare help institutions monitor adverse events from medications and cosmetics. In 2025 the startup was selected for the Saudi Biotechnology Accelerator, expanding beyond its North African base.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "ثينك تاتش سوليوشن شركة ناشئة في التقنيات الطبية والحيوية مقرّها الجزائر العاصمة، تأسست عام 2022، متخصصة في التيقظ الدوائي والتجميلي واليقظة تجاه المنتجات الطبية بالذكاء الاصطناعي. تساعد منتجاتها CureSkyAI وCosmetoCare المؤسسات على رصد الأحداث الضارة للأدوية ومستحضرات التجميل. عام 2025، اختيرت الشركة للمسرّع السعودي للتكنولوجيا الحيوية، متوسعةً إلى ما بعد قاعدتها في شمال إفريقيا.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "Think Touch Solution est une startup MedTech/ biotech basée à Alger, fondée en 2022, spécialisée en pharmacovigilance, cosmétovigilance et matériovigilance pilotées par l'IA. Ses produits CureSkyAI et CosmetoCare aident les institutions à surveiller les événements indésirables des médicaments et cosmétiques. En 2025, elle a été sélectionnée pour l'accélérateur saoudien de biotechnologie, au-delà de sa base nord-africaine.", "hq_city": "Alger" }
+  },
+  "wiz": {
+    "history": "Wiz was founded in 2020 by veterans of Israel's cyber-intelligence community and rapidly became the fastest-growing security company ever. Its cloud-native platform consolidated vulnerability management, container security and cloud security into a single graph-based view. After raising more than $1B, Wiz accepted a $32B acquisition by Google in 2025, cementing its position in cloud security.",
+    "hq_city": "New York",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "ar": { "history": "تأسست ويز عام 2020 على يد مخضرمي المجتمع الاستخباراتي السيبراني الإسرائيلي وسرعان ما أصبحت أسرع شركة أمنية نمواً على الإطلاق. وحدّت منصّتها السحابية الأصلية إدارة الثغرات وأمن الحاويات وأمن السحابة في رؤية واحدة قائمة على الرسم البياني. بعد جمع أكثر من مليار دولار، قبلت ويز استحواذ غوغل عليها مقابل 32 مليار دولار عام 2025، ما عزّز مكانتها في أمن السحابة.", "hq_city": "نيويورك" },
+    "fr": { "history": "Wiz a été fondée en 2020 par des vétérans du renseignement cyber israélien et est devenue l'entreprise de sécurité à la croissance la plus rapide jamais vue. Sa plateforme cloud-native a réuni gestion des vulnérabilités, sécurité des conteneurs et sécurité cloud en une seule vue orientée graphe. Après avoir levé plus d'un milliard de dollars, Wiz a accepté un rachat par Google de 32 milliards de dollars en 2025.", "hq_city": "New York" }
+  },
+  "yassirt-robotics": {
+    "history": "Yassirt Robotics was founded in 2021 to make industrial automation affordable for North African factories. The startup pairs cobot arms and vision systems with PLC integration and ROS2 software to automate assembly lines. It targets manufacturers looking to raise quality and throughput without the cost or complexity of traditional industrial robotics.",
+    "hq_city": "Algiers",
+    "latitude": 36.7538,
+    "longitude": 3.0588,
+    "ar": { "history": "تأسست ياسرت روبوتيكس عام 2021 لجعل الأتمتة الصناعية في المتناول لمصانع شمال إفريقيا. تجمع الشركة بين أذرع روبوتية تعاونية وأنظمة رؤية مع تكامل وحدات التحكم PLC وبرمجيات ROS2 لأتمتة خطوط التجميع. تستهدف المصنّعين الراغبين في رفع الجودة والإنتاجية دون تكلفة أو تعقيد الروبوتات الصناعية التقليدية.", "hq_city": "الجزائر العاصمة" },
+    "fr": { "history": "Yassirt Robotics a été fondée en 2021 pour rendre l'automatisation industrielle abordable pour les usines nord-africaines. La startup associe bras cobot et systèmes de vision à l'intégration PLC et au logiciel ROS2 pour automatiser les lignes d'assemblage. Elle cible les industriels souhaitant améliorer qualité et cadence sans le coût ni la complexité de la robotique industrielle classique.", "hq_city": "Alger" }
+  }
+}

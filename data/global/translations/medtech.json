@@ -1,0 +1,706 @@
+{
+  "viz-ai": {
+    "ar": {
+      "name": "Viz.ai",
+      "country": "الولايات المتحدة",
+      "sub_domain": "فرز السكتات الدماغية بالذكاء الاصطناعي",
+      "short_description": "يكتشف حالات السكتة الدماغية المشتبه بها من صور التصوير المقطعي (CT) ويخطر الأخصائيين في ثوانٍ.",
+      "technology": "ذكاء اصطناعي للتصوير الطبي",
+      "why_relevant": "إثبات أن الفرز بالذكاء الاصطناعي يحوّل نداء الجلطة من 30 دقيقة إلى تنبيه فوري.",
+      "history": "تأسست فيز.إيه آي (Viz.ai) عام 2016 على يد جرّاح أعصاب ومستثمر وفريق من علماء البيانات، بهدف اختصار الدقائق في رعاية السكتات الدماغية. يحلّل ذكاؤها الاصطناعي صور تصوير الأوعية المقطعية وينبّه الأخصائي المناسب تلقائيًا، وفي 2018 نالت أول اعتماد من إدارة الغذاء والدواء (FDA) لخوارزمية فرز بالذكاء الاصطناعي. ثم توسّعت الشركة إلى فحص الانصمام الرئوي والشريان الأورطي والعمود الفقري العنقي، وأُدرجت في البورصة عبر اندماج مع شركة استحواذ خاصة (SPAC) عام 2021. تخدم منصتها اليوم أكثر من 1800 مستشفى، وانتقلت من مجرد الكشف إلى تنسيق الرعاية المدعوم بالذكاء الاصطناعي.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Viz.ai",
+      "country": "États-Unis",
+      "sub_domain": "Triage IA de l'AVC",
+      "short_description": "Détecte les suspicions d'AVC sur les scanners CT et alerte les spécialistes en quelques secondes.",
+      "technology": "IA d'imagerie médicale",
+      "why_relevant": "La preuve que le triage par IA transforme un appel sur un caillot de 30 minutes en une alerte instantanée.",
+      "history": "Fondée en 2016 par un neurochirurgien, un investisseur et des data scientists, Viz.ai s'est donné pour mission de gagner des minutes précieuses dans la prise en charge des AVC. Son IA analyse les angiographies par scanner et convoque automatiquement le bon spécialiste ; en 2018, la société a obtenu la première autorisation FDA pour un algorithme de triage par IA. Viz.ai s'est étendue à l'embolie pulmonaire, à l'aorte et au rachis cervical, puis est entrée en Bourse via une fusion SPAC en 2021. Sa plateforme dessert aujourd'hui plus de 1 800 hôpitaux et s'est élargie de la détection à la coordination de soins assistée par IA.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "aidoc": {
+    "ar": {
+      "name": "Aidoc",
+      "country": "إسرائيل",
+      "sub_domain": "تصوير شعاعي بالذكاء الاصطناعي",
+      "short_description": "يرصد النتائج الحرجة في صور CT والأشعة السينية (X-ray) لترتيب أولويات أطباء الأشعة.",
+      "technology": "ذكاء اصطناعي للتصوير الشعاعي يعمل باستمرار",
+      "why_relevant": "يعمل باستمرار على مئات الأرشيفات الطبية في المستشفيات.",
+      "history": "تأسست Aidoc في تل أبيب عام 2016، وبنَت ذكاءً اصطناعيًا دائم التشغيل يرصد النتائج الحرجة في صور التصوير المقطعي (CT) والأشعة السينية فور وصولها إلى قائمة أعمال أخصائي الأشعة. نالت أول اعتماد من إدارة الغذاء والدواء (FDA) لأداة فرز شعاعي بالذكاء الاصطناعي عام 2018، ومع بداية عشرينيات القرن تحوّلت منصتها داخل مئات الأرشيفات الطبية حول العالم. بعد جمع نحو 170 مليون دولار، أصبحت Aidoc سوقًا للذكاء الاصطناعي يضم خوارزميات شركات أخرى، وفي 2025 وافقت Nvidia على الاستحواذ عليها لتثبيت وجودها في التصوير الطبي.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "Aidoc",
+      "country": "Israël",
+      "sub_domain": "Radiologie IA",
+      "short_description": "Signale les résultats critiques sur les CT et radiographies pour prioriser l'intervention des radiologues.",
+      "technology": "IA de radiologie en continu",
+      "why_relevant": "S'exécute en continu sur des centaines d'archives d'imagerie hospitalières.",
+      "history": "Fondée à Tel Aviv en 2016, Aidoc a développé une IA fonctionnant en continu qui signale les résultats critiques sur les scanners CT et les radiographies dès leur arrivée dans la file de lecture des radiologues. En 2018, elle a obtenu la première autorisation FDA pour un outil de triage radiologique par IA, et au début des années 2020, sa plateforme tournait dans des centaines d'archives hospitalières dans le monde. Après avoir levé environ 170 millions de dollars, Aidoc est devenue une place de marché IA agrégant des algorithmes tiers, et en 2025 Nvidia a accepté de racheter la société pour ancrer son portefeuille d'imagerie médicale.",
+      "hq_city": "Tel Aviv"
+    }
+  },
+  "qure-ai": {
+    "ar": {
+      "name": "Qure.ai",
+      "country": "الهند",
+      "sub_domain": "تشخيصات بالذكاء الاصطناعي",
+      "short_description": "ذكاء اصطناعي للكشف عن السلّ (TB) وأشعة الصدر بدقة تكفي برامج بمستوى منظمة الصحة العالمية (WHO).",
+      "technology": "ذكاء اصطناعي محمول لتصوير الصدر",
+      "why_relevant": "ذكاء اصطناعي يفحص السلّ على نطاق واسع في العيادات محدودة الموارد.",
+      "history": "نشأت Qure.ai عام 2016 من شركة التحليلات Fractal، بهدف جعل التصوير الطبي بمستوى الخبراء متاحًا في العيادات التي تفتقر إلى أخصائيي الأشعة. أصبحت خوارزمية تصوير الصدر qXR أساسًا لبرامج الكشف عن السل المدعومة من منظمة الصحة العالمية، وعزّزت اعتمادات إدارة الغذاء والدواء لتحليل إصابات الرأس والأشعة السينية انتشارها. ومع انتشارها في أكثر من 100 دولة وقراءة عشرات ملايين الصور، توسّعت Qure.ai من أدوات تصوير إلى رعاية رقمية متكاملة تربط المرضى الأشَدّ مرضًا بالفريق الطبي ومسارات العلاج.",
+      "hq_city": "مومباي"
+    },
+    "fr": {
+      "name": "Qure.ai",
+      "country": "Inde",
+      "sub_domain": "Diagnostic par IA",
+      "short_description": "Une IA de la tuberculose et des radiographies thoraciques suffisamment précise pour des programmes de niveau OMS.",
+      "technology": "IA d'imagerie thoracique portable",
+      "why_relevant": "Une IA qui dépiste la tuberculose à grande échelle dans les cliniques à faibles ressources.",
+      "history": "Qure.ai est née en 2016 au sein de la société d'analyse Fractal, avec l'ambition de rendre l'imagerie médicale de niveau expert accessible dans les cliniques dépourvues de radiologues. Son algorithme qXR de radiographie thoracique est devenu une pierre angulaire des programmes de dépistage de la tuberculose adossés à l'OMS, et les autorisations FDA pour l'analyse des traumatismes crâniens et des radiographies ont élargi sa portée. Présente dans plus de 100 pays avec des dizaines de millions d'examens analysés, Qure.ai est passée de l'imagerie à des parcours de soins numériques complets.",
+      "hq_city": "Mumbai"
+    }
+  },
+  "niramai": {
+    "ar": {
+      "name": "Niramai",
+      "country": "الهند",
+      "sub_domain": "فحص حراري للثدي",
+      "short_description": "تصوير حراري غير تلامسي مدعوم بالذكاء الاصطناعي للكشف المبكر عن آفات الثدي.",
+      "technology": "تصوير حراري + تحليلات تعلّم آلي (ML)",
+      "why_relevant": "فحص خالٍ من الإشعاع ويحترم الخصوصية، مناسب للعيادات المجتمعية.",
+      "history": "تأسست Niramai عام 2016 على يد باحثين من المعهد الهندي للعلوم، بهدف إتاحة فحص الثدي للعيادات التي لا تملك أجهزة تصوير. يعتمد نظامها الحراري Thermalytix على مستشعر حراري عالي الدقة وتعلّم آلي لاكتشاف آفات الثدي المبكرة دون إشعاع أو تلامس جسدي. وبعد فحص أكثر من 100 ألف امرأة في مستشفيات وعيادات متنقلة في أنحاء الهند، حازت Niramai جوائز من هيئات صحية دولية ودعم مستثمرين بينهم pi Ventures، لتصبح حلاً قابلاً للتوسع يحترم الخصوصية في فحص الثدي بالمناطق المحرومة.",
+      "hq_city": "بنغالور"
+    },
+    "fr": {
+      "name": "Niramai",
+      "country": "Inde",
+      "sub_domain": "Dépistage mammaire thermique",
+      "short_description": "Imagerie thermique sans contact couplée à l'IA pour la détection précoce des lésions mammaires.",
+      "technology": "Imagerie thermique + analyse ML",
+      "why_relevant": "Un dépistage sans rayonnement et respectueux de la vie privée, adapté aux cliniques communautaires.",
+      "history": "Niramai a été fondée en 2016 par des chercheurs de l'Institut indien des sciences pour apporter le dépistage du cancer du sein aux cliniques sans matériel d'imagerie. Son système Thermalytix combine un capteur thermique haute résolution et un apprentissage automatique pour détecter les lésions précoces sans rayonnement ni contact physique. Après avoir dépisté plus de 100 000 femmes dans des hôpitaux et cliniques mobiles à travers l'Inde, Niramai a reçu des récompenses d'organismes de santé internationaux et le soutien d'investisseurs comme pi Ventures.",
+      "hq_city": "Bengaluru"
+    }
+  },
+  "ezra": {
+    "ar": {
+      "name": "Ezra",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تصوير بالرنين المغناطيسي لكامل الجسم",
+      "short_description": "يفحص 13 عضوًا بحثًا عن السرطان في ساعة واحدة عبر تصوير بالرنين المغناطيسي (MRI) موجّه بالذكاء الاصطناعي.",
+      "technology": "تصوير بالرنين المغناطيسي مسرّع بالذكاء الاصطناعي",
+      "why_relevant": "يحوّل فحص السرطان الذي يُجرى مرة واحدة في العمر إلى اشتراك سنوي.",
+      "history": "تأسست Ezra عام 2018 على يد رجل الأعمال إيمي غال، بهدف تحويل فحص السرطان الشامل للجسم إلى متابعة سريعة ومتكررة. تفحص أشعة الرنين المغناطيسي لديها حتى 13 عضوًا في نحو ساعة، بمساعدة ذكاء اصطناعي يقصّر مدة التصوير ويحدد الأنسجة المشبوهة. افتتحت الشركة مراكز في نيويورك وبالو ألتو وغيرهما، وجمعت تمويلًا بجولة B بقيمة 61 مليون دولار لتمويل أجهزة أشعة أكبر تغطي مزيدًا من الأعضاء. وتسوّق Ezra اليوم نموذج اشتراك يقلب فكرة فحص السرطان مرة واحدة في العمر إلى عادة صحية سنوية.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Ezra",
+      "country": "États-Unis",
+      "sub_domain": "IRM corps entier",
+      "short_description": "Examine 13 organes à la recherche de cancers en une heure, via une IRM guidée par IA.",
+      "technology": "IRM accélérée par IA",
+      "why_relevant": "Transforme l'examen unique d'une vie en abonnement annuel.",
+      "history": "Ezra a été fondée en 2018 par l'entrepreneur Emi Gal pour faire du dépistage du cancer à l'échelle du corps entier un examen rapide et récurrent. Ses IRM explorent jusqu'à 13 organes en environ une heure, guidées par une IA qui raccourcit la durée d'acquisition et signale les tissus suspects. L'entreprise a ouvert des centres à New York, Palo Alto et ailleurs, puis a levé 61 millions de dollars en série B pour financer des scanners plus grands capables de couvrir davantage d'organes. Ezra commercialise désormais un abonnement qui transforme l'examen unique d'une vie en habitude annuelle.",
+      "hq_city": "New York"
+    }
+  },
+  "omada-health": {
+    "ar": {
+      "name": "Omada Health",
+      "country": "الولايات المتحدة",
+      "sub_domain": "رعاية رقمية للأمراض المزمنة",
+      "short_description": "برامج رقمية لمرض السكري والوزن ورعاية القلب والأوعية الدموية.",
+      "technology": "منصة رعاية عن بُعد",
+      "why_relevant": "صحة رقمية قائمة على النتائج على نطاق الشركات، بنتائج مُحكَّمة علميًا.",
+      "history": "تأسست Omada Health في سان فرانسيسكو عام 2011 على يد شون دافي وأدريان جيمس بعد لقاء أحدهما بمقدمات السكري في عائلته. يجمع برنامجها الرقمي للوقاية من السكري بين موازين وقراءات غلوكوز متصلة وبين مدربين بشريين، وكان من أوائل البرامج الرقمية بهذا الحجم التي تنشر نتائج سريرية محكّمة علميًا. وبفضل جمع أكثر من نصف مليار دولار من مستثمرين بينهم Andreessen Horowitz، توسّعت Omada إلى ارتفاع ضغط الدم والرعاية القلبية الوعائية، وباتت برامجها تُعتمد اليوم من شركات وشركات تأمين في الولايات المتحدة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Omada Health",
+      "country": "États-Unis",
+      "sub_domain": "Soins chroniques digitaux",
+      "short_description": "Programmes digitaux pour le diabète, le poids et la santé cardiovasculaire.",
+      "technology": "Plateforme de soins à distance",
+      "why_relevant": "Une santé digitale fondée sur les résultats, à l'échelle des employeurs, avec des études validées par les pairs.",
+      "history": "Omada Health a été fondée à San Francisco en 2011 par Sean Duffy et Adrian James, après une rencontre du fondateur avec le prédiabète dans sa famille. Son programme numérique de prévention du diabète associe balances connectées et relevés de glucose à des coachs humains, et il fut l'un des premiers dispositifs digitaux à cette échelle à publier des résultats cliniques relus par les pairs. Fort de plus de 500 millions de dollars levés auprès d'investisseurs comme Andreessen Horowitz, Omada s'est étendu à l'hypertension et à la santé cardiovasculaire, et ses programmes sont aujourd'hui contractés par des employeurs et des assurances santé aux États-Unis.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "hinge-health": {
+    "ar": {
+      "name": "Hinge Health",
+      "country": "الولايات المتحدة",
+      "sub_domain": "رعاية رقمية للجهاز العضلي الهيكلي (MSK)",
+      "short_description": "علاج رقمي للجهاز العضلي الهيكلي يعتمد على الحساسات والتدريب، وأصبح الآن شركة مدرجة.",
+      "technology": "إعادة تأهيل منزلية موجّهة بالحساسات",
+      "why_relevant": "يستبدل علاج آلام الظهر المرتكز على المواد الأفيونية بعلاج طبيعي يُقدَّم عبر التطبيق.",
+      "history": "تأسست Hinge Health عام 2015 على يد دانيال بيريز، خبير علوم الرياضة، وجبرائيل ميكلنبورغ، الطبيب، بهدف علاج الألم العضلي الهيكلي دون مسكّنات أفيونية. يدمج تطبيقها حساسات قابلة للارتداء وتمارين موجّهة وتدريبًا صحيًا، وتنشر تجارب تُظهر نتائج تضاهي العلاج الطبيعي المباشر. توسّعت الشركة عبر أرباب العمل وشركات التأمين، وبنَت حساس Enso الخاص بها، وأنجزت إدراجها الأولي في البورصة عام 2025، لتصبح من أوائل المتخصصين الرقميين في الطب العضلي الهيكلي في الأسواق العامة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Hinge Health",
+      "country": "États-Unis",
+      "sub_domain": "Soins musculo-squelettiques digitaux",
+      "short_description": "Thérapie musculo-squelettique digitale avec capteurs et coaching, désormais cotée en bourse.",
+      "technology": "Rééducation à domicile guidée par capteurs",
+      "why_relevant": "Remplace la prise en charge du mal de dos par opioïdes par une kinésithérapie délivrée par app.",
+      "history": "Hinge Health a été fondée en 2015 par Daniel Perez, expert de l'exercice physique, et Gabriel Mecklenburg, médecin, pour traiter la douleur musculo-squelettique sans opioïdes. Son application associe capteurs portables, exercices guidés et coaching santé, et publie des essais montrant des résultats comparables à la kinésithérapie en présentiel. La société a grandi via les employeurs et assurances, a fabriqué son propre capteur Enso, puis a réalisé son introduction en Bourse en 2025, devenant l'un des premiers spécialistes digitaux du musculo-squelettique coté en Bourse.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "oura": {
+    "ar": {
+      "name": "Oura",
+      "country": "فنلندا",
+      "sub_domain": "صحة قابلة للارتداء",
+      "short_description": "خاتم ذكي يقيس النوم والتعافي واتجاهات الجاهزية.",
+      "technology": "خاتم قابل للارتداء بتقنية PPG",
+      "why_relevant": "حوّل الخاتم إلى الرفيق الصحي القياسي للمستهلك.",
+      "history": "بدأت Oura عام 2013 في أولو بفنلندا، حين أطلق فريق من المهندسين فكرة تتبع النوم عبر خاتم. يقيس الخاتم مراحل النوم وحرارة الجسم والجاهزية، وكسب شهرة مبكرة بفضل شراكات مع دوري كرة السلة الأمريكي (NBA) والفورمولا 1، إضافة إلى أبحاث مع مستشفيات حول الحمى ونوبات الليل. بيعت ملايين من الخواتم بنموذج يجمع بين الجهاز والاشتراك، وتوسّعت Oura نحو الدراسات الطبية والعافية المؤسسية وأجهزة استشعار جديدة.",
+      "hq_city": "أولو"
+    },
+    "fr": {
+      "name": "Oura",
+      "country": "Finlande",
+      "sub_domain": "Santé portable (wearable)",
+      "short_description": "Anneau connecté qui mesure le sommeil, la récupération et les tendances de disponibilité.",
+      "technology": "Anneau connecté à capteur PPG",
+      "why_relevant": "A fait de l'anneau le compagnon de santé grand public de référence.",
+      "history": "Oura a débuté en 2013 à Oulu, en Finlande, où une équipe d'ingénieurs s'est lancée dans le suivi du sommeil via une bague. L'anneau mesure les phases de sommeil, la température corporelle et la disponibilité, et s'est fait connaître par des partenariats avec la NBA et la Formule 1 ainsi que par des recherches menées avec des hôpitaux sur la fièvre et le travail de nuit. Plusieurs millions de bagues ont été vendues sur un modèle combinant matériel et abonnement, et Oura s'est étendue aux études médicales, au bien-être en entreprise et à de nouveaux capteurs.",
+      "hq_city": "Oulu"
+    }
+  },
+  "whoop": {
+    "ar": {
+      "name": "Whoop",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أجهزة قابلة للارتداء لتتبع التعافي",
+      "short_description": "جهاز قابل للارتداء لتتبع التعافي والإجهاد، يستخدمه الرياضيون المحترفون.",
+      "technology": "ترطيب ضوئي وتعافٍ بتتبع HRV",
+      "why_relevant": "يحدد مقياس حمل التدريب الذي أصبح معيارًا في الرياضة النخبوية.",
+      "history": "تأسست Whoop عام 2012 على يد ويل أحمد في غرفته بجامعة هارفارد، بهدف قياس التوازن بين جهد التدريب والتعافي. برزت الشركة بسوار لا يُباع إلا بالاشتراك يقيس التعافي والجهد والنوم على مدار الساعة، واعتمدت مقاييسها دوريات كرة القدم الأمريكية (NFL) وكرة السلة (NBA) والبيسبول (MLB). جُمعت ملايين الدولارات من مستثمرين ورياضيين مثل مايكل فيلبس وباتريك ماهومز، ووصلت Whoop إلى تقييم 3.6 مليار دولار، متوسعة نحو رصد الإجهاد ونبض القلب وصحة المرأة.",
+      "hq_city": "بوسطن"
+    },
+    "fr": {
+      "name": "Whoop",
+      "country": "États-Unis",
+      "sub_domain": "Wearables de récupération",
+      "short_description": "Wearable de récupération et de charge utilisé par les athlètes professionnels.",
+      "technology": "Hydratation optique, récupération HRV",
+      "why_relevant": "Définit la métrique de charge d'entraînement désormais standard dans le sport d'élite.",
+      "history": "Whoop a été fondée en 2012 par Will Ahmed dans sa chambre d'étudiant à Harvard, pour quantifier l'équilibre entre charge d'entraînement et récupération. L'entreprise s'est distinguée avec un bracelet exclusivement sur abonnement qui mesure récupération, charge et sommeil en continu, et ses indicateurs ont été adoptés par la NFL, la NBA et la MLB. Des millions de dollars ont été levés auprès d'investisseurs et d'athlètes comme Michael Phelps et Patrick Mahomes, et Whoop a atteint une valorisation de 3,6 milliards de dollars, étendant son offre au stress, à la fréquence cardiaque et à la santé féminine.",
+      "hq_city": "Boston"
+    }
+  },
+  "cala-health": {
+    "ar": {
+      "name": "Cala Health",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التنبيه العصبي",
+      "short_description": "تنبيه عصبي قابل للارتداء يثبّط الرعاش الأساسي.",
+      "technology": "تنبيه عصبي محيطي",
+      "why_relevant": "عالج الرعاش دون أدوية أو جراحة دماغ.",
+      "history": "تأسست Cala Health عام 2014 على يد أخصائية الأعصاب كيت روزنبلوث، بهدف علاج اضطرابات الحركة دون جراحة جائرة. يوجّه جهازها Cala Trio تحفيزًا محيطيًا مستهدفًا إلى المعصم أثناء نوبات الرعاش، وأصبح عام 2018 أول علاج قابل للارتداء معتمد من إدارة الغذاء والدواء (FDA) للرعاش الأساسي. وبفضل جمع أكثر من 100 مليون دولار من مستثمرين بينهم GV وJohnson & Johnson، تستكشف Cala اليوم تطبيقات تتعلق بالتوازن ومرض باركنسون والاكتئاب.",
+      "hq_city": "ريدوود سيتي"
+    },
+    "fr": {
+      "name": "Cala Health",
+      "country": "États-Unis",
+      "sub_domain": "Neurostimulation",
+      "short_description": "Neurostimulation portable qui supprime le tremblement essentiel.",
+      "technology": "Neurostimulation périphérique",
+      "why_relevant": "A traité le tremblement sans médicaments ni chirurgie cérébrale.",
+      "history": "Cala Health a été fondée en 2014 par la neurologue Kate Rosenbluth pour traiter les troubles du mouvement sans chirurgie invasive. Son dispositif Cala Trio délivre une stimulation périphérique ciblée au poignet pendant les épisodes de tremblement, et il est devenu en 2018 la première thérapie portable autorisée par la FDA pour le tremblement essentiel. Fort de plus de 100 millions de dollars levés auprès d'investisseurs comme GV et Johnson & Johnson, Cala explore aujourd'hui des applications pour l'équilibre, la maladie de Parkinson et la dépression.",
+      "hq_city": "Redwood City"
+    }
+  },
+  "neuropace": {
+    "ar": {
+      "name": "NeuroPace",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تنبيه عصبي استجابي",
+      "short_description": "نظام RNS يحسّ بالنوبات الصرعية ويوقفها في حالات الصرع المقاوم للأدوية.",
+      "technology": "RNS مزروع بنظام حلقة مغلقة",
+      "why_relevant": "المنبّه العصبي الاستجابي الوحيد المعتمد للوقاية من النوبات.",
+      "history": "تأسست NeuroPace عام 1997 لبناء زرعة تستجيب للنوبات الصرعية لحظة بدئها. يقرأ نظام التحفيز العصبي الاستجابي (RNS) إشارات الدماغ عبر أقطاب كهربائية ويصدر تحفيزًا قصيرًا عند ظهور نشاط غير طبيعي، ونال اعتماد إدارة الغذاء والدواء (FDA) عام 2013 لعلاج الصرع المقاوم للأدوية لدى البالغين. أُدرجت الشركة في بورصة ناسداك عام 2021 بالرمز NPCE وبنَت قاعدة كبيرة من المستخدمين المزروعين، مع بيانات سجل طويلة الأمد تؤكد انخفاض وتيرة النوبات وتحسّن جودة الحياة.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "NeuroPace",
+      "country": "États-Unis",
+      "sub_domain": "Neurostimulation adaptative",
+      "short_description": "Le système RNS détecte et interrompt les crises d'épilepsie pharmaco-résistante.",
+      "technology": "RNS implanté en boucle fermée",
+      "why_relevant": "Le seul neurostimulateur adaptatif approuvé pour prévenir les crises.",
+      "history": "NeuroPace a été fondée en 1997 pour développer un implant capable de réagir dès le début d'une crise d'épilepsie. Son système de neurostimulation adaptative (RNS) lit les signaux cérébraux via des électrodes et délivre une brève stimulation dès qu'une activité anormale apparaît, obtenant en 2013 l'approbation de la FDA pour les adultes atteints d'épilepsie pharmaco-résistante. L'entreprise est entrée au Nasdaq en 2021 sous le symbole NPCE et a constitué une vaste base de patients implantés, ses données de registre de long terme confirmant une réduction des crises et une meilleure qualité de vie.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "nalu-medical": {
+    "ar": {
+      "name": "Nalu Medical",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التعديل العصبي",
+      "short_description": "تحفيز كهربائي عبر الجلد لآلام الظهر المزمنة.",
+      "technology": "تعديل عصبي عبر مُولّد نبضات مصغّر (Micro-IPG)",
+      "why_relevant": "زرعة أصغر من زرعات الشركات الراسخة تفتح باب التعديل العصبي لمزيد من المرضى.",
+      "history": "تأسست Nalu Medical عام 2014 بهدف تصغير زرعات التعديل العصبي المستخدمة في علاج آلام الظهر والساق المزمنة. مولّد النبضات المصغّر القابل للزرع لديها، الذي نال اعتماد إدارة الغذاء والدواء للتحفيز النخاعي والمحيطي، يُزرع عبر إبرة في إجراء خارجي أصغر بكثير من الأجهزة التقليدية. وبفضل جمع أكثر من 300 مليون دولار من مستثمرين بينهم MVM Partners وPura Vida، بنت Nalu حضورًا تجاريًا في عيادات الألم بالولايات المتحدة وأوروبا.",
+      "hq_city": "غوليتا"
+    },
+    "fr": {
+      "name": "Nalu Medical",
+      "country": "États-Unis",
+      "sub_domain": "Neuromodulation",
+      "short_description": "Stimulation électrique percutanée contre les douleurs lombaires chroniques.",
+      "technology": "Neuromodulation par micro-IPG",
+      "why_relevant": "Un implant plus petit que ceux des acteurs établis, qui élargit l'accès à la neuromodulation.",
+      "history": "Nalu Medical a été fondée en 2014 dans le but de miniaturiser les implants de neuromodulation utilisés contre les douleurs chroniques du dos et des jambes. Son générateur d'impulsions implantable de taille microscopique, autorisé par la FDA pour la stimulation spinale et périphérique, se pose par ponction lors d'une procédure ambulatoire, bien plus petite que les dispositifs conventionnels. Fort de plus de 300 millions de dollars levés auprès d'investisseurs comme MVM et Pura Vida, Nalu a développé un réseau commercial dans les centres de la douleur aux États-Unis et en Europe.",
+      "hq_city": "Goleta"
+    }
+  },
+  "cathworks": {
+    "ar": {
+      "name": "CathWorks",
+      "country": "إسرائيل",
+      "sub_domain": "تقييم وظيفي بالذكاء الاصطناعي",
+      "short_description": "يحسب مقاييس تدفق الدم FFR من صور تصوير الأوعية القياسية دون سلك.",
+      "technology": "ذكاء اصطناعي لحساب FFR من تصوير الأوعية",
+      "why_relevant": "يستبدل أسلاك قياس الضغط الجراحية في قسطرة القلب.",
+      "history": "تأسست CathWorks في إسرائيل عام 2013 على يد المخضرم في مجال الأجهزة الطبية موتي فريمان، بهدف إلغاء الحاجة إلى أسلاك قياس الضغط الجائرة في تقييم الشرايين التاجية. تحسب منصتها FFRangio مقاييس تدفق الدم الفسيولوجية من صور تصوير الأوعية القياسية، وأتاح اعتماد إدارة الغذاء والدواء عام 2020 للأطباء اتخاذ قرار تركيب الدعامة دون عبور الآفة. تحقّقت الشركة من التقنية في دراسة FAST-FFR السريرية، وجمعت عشرات ملايين الدولارات، وأسّست حضورًا في مختبرات القسطرة بالولايات المتحدة وأوروبا وآسيا قبل إدراجها في البورصة عام 2024.",
+      "hq_city": "كفار سابا"
+    },
+    "fr": {
+      "name": "CathWorks",
+      "country": "Israël",
+      "sub_domain": "Évaluation fonctionnelle par IA",
+      "short_description": "Calcule les paramètres de débit FFR à partir d'angiogrammes standard, sans fil guide.",
+      "technology": "IA FFR basée sur l'angiogramme",
+      "why_relevant": "Remplace les fils de pression invasifs lors du cathétérisme cardiaque.",
+      "history": "CathWorks a été fondée en Israël en 2013 par le vétéran des dispositifs médicaux Moti Freiman pour se passer des fils de mesure de pression invasifs dans l'évaluation coronarienne. Sa plateforme FFRangio calcule des paramètres physiologiques de flux sanguin à partir d'angiogrammes standard, et une autorisation FDA de 2020 a permis aux cardiologues de décider de la pose d'un stent sans franchir la lésion. La société a validé la technologie dans l'étude clinique FAST-FFR, levé des dizaines de millions de dollars et équipé des laboratoires de cathétérisme aux États-Unis, en Europe et en Asie, avant son introduction en Bourse en 2024.",
+      "hq_city": "Kfar Saba"
+    }
+  },
+  "bigfoot-biomedical": {
+    "ar": {
+      "name": "Bigfoot Biomedical",
+      "country": "الولايات المتحدة",
+      "sub_domain": "إنسولين آلي",
+      "short_description": "نظام ذكي لتوصيل الإنسولين يعتمد على بيانات إنسولين معايرة.",
+      "technology": "مضخة إنسولين + أتمتة مراقبة الغلوكوز المستمرة (CGM)",
+      "why_relevant": "يبسّط قرارات الإنسولين لمرضى السكري.",
+      "history": "تأسست Bigfoot Biomedical عام 2014 على يد خبراء مخضرمين من شركات أجهزة السكري، بهدف تبسيط إدارة الإنسولين. يجمع نظامها Unity بين أقلام إنسولين ذكية وبيانات الغلوكوز من Abbott لتقديم جرعات موصى بها، واعتمدته إدارة الغذاء والدواء للعلاج اليومي بالإنسولين عام 2021. وبعد جولة تمويل قادتها Abbott، استحوذت Abbott على الشركة عام 2023، وباتت التقنية اليوم ضمن محفظة الرعاية المتصلة لديها، لتقدّم توصيات جرعات آلية لملايين ممن يعتمدون على الإنسولين.",
+      "hq_city": "ميلبيتاس"
+    },
+    "fr": {
+      "name": "Bigfoot Biomedical",
+      "country": "États-Unis",
+      "sub_domain": "Insuline automatisée",
+      "short_description": "Système intelligent de délivrance d'insuline s'appuyant sur des données calibrées.",
+      "technology": "Pompe à insuline + automatisation CGM",
+      "why_relevant": "Simplifie les décisions liées à l'insuline pour les personnes diabétiques.",
+      "history": "Bigfoot Biomedical a été fondée en 2014 par des vétérans des fabricants de dispositifs pour le diabète, dans le but de simplifier la gestion de l'insuline. Son système Unity associe des stylos intelligents aux données glucose d'Abbott pour recommander les doses d'insuline, et la FDA l'a autorisé pour l'insulinothérapie quotidienne en 2021. Après un tour de financement mené par Abbott, la société a été rachetée par Abbott en 2023. La technologie fait désormais partie du portefeuille de soins connectés d'Abbott, appliquant des conseils de dosage automatisés à des millions de personnes sous insuline.",
+      "hq_city": "Milpitas"
+    }
+  },
+  "dariohealth": {
+    "ar": {
+      "name": "DarioHealth",
+      "country": "الولايات المتحدة",
+      "sub_domain": "رعاية رقمية لمرض السكري",
+      "short_description": "أجهزة ذكية لمراقبة الغلوكوز مقترنة ببرامج تدريب صحي.",
+      "technology": "بيانات الغلوكوز + ذكاء اصطناعي لنمط الحياة",
+      "why_relevant": "إدارة متصلة للغلوكوز بسعر مناسب للمستهلك تُباع على نطاق واسع.",
+      "history": "بدأت DarioHealth في إسرائيل عام 2011 بجهاز غلوكوز جيبي يتصل بالهاتف الذكي، ويجمع بين القراءات والتدريب الآلي. والشركة، التي تتخذ مقرًّا مزدوجًا في إسرائيل ونيويورك، أُدرجت في بورصة ناسداك عام 2019 وتوسّعت من السكري إلى ارتفاع ضغط الدم والصحة الاستقلابية والصحة السلوكية. ومن خلال عمليات استحواذ مثل Upright وWay to Well وشراكات مع شركات التأمين وأرباب العمل، تبيع Dario اليوم برامج رعاية متكاملة تجمع الأجهزة والبيانات والتدريب في الولايات المتحدة وأوروبا.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "DarioHealth",
+      "country": "États-Unis",
+      "sub_domain": "Soins digitaux du diabète",
+      "short_description": "Glucomètres connectés associés à des programmes de coaching.",
+      "technology": "Données de glucose + IA du mode de vie",
+      "why_relevant": "Une gestion connectée du glucose vendue à grande échelle à prix grand public.",
+      "history": "DarioHealth a débuté en Israël en 2011 avec un glucomètre de poche branché sur smartphone, associant les relevés à un coaching automatisé. Basée à la fois en Israël et à New York, l'entreprise est entrée au Nasdaq en 2019 et s'est étendue du diabète à l'hypertension, à la santé métabolique et à la santé comportementale. Via des acquisitions comme Upright et Way to Well, et des partenariats avec assureurs et employeurs, Dario propose désormais des programmes intégrés de prise en charge multi-affections associant dispositifs médicaux, données et coaching aux États-Unis et en Europe.",
+      "hq_city": "New York"
+    }
+  },
+  "vida-health": {
+    "ar": {
+      "name": "Vida Health",
+      "country": "الولايات المتحدة",
+      "sub_domain": "رعاية افتراضية",
+      "short_description": "سوق رقمية للصحة تجمع بين المرضى والمدربين الصحيين والمختصين.",
+      "technology": "شبكة رعاية افتراضية",
+      "why_relevant": "برامج متكاملة للأمراض المزمنة تُقدَّم عبر تطبيق واحد.",
+      "history": "تأسست Vida Health عام 2014 على يد ستيفاني تيلينيوس، بهدف إنشاء موطن واحد متصل لتدريب الأمراض المزمنة. تُعنى شبكتها بالجمع بين المرضى ومدربي الصحة وأخصائيي التغذية والمعالجين عبر تطبيق واحد، وبرامجها تغطي السكري وصحة القلب والصحة النفسية. جمعت Vida أكثر من 200 مليون دولار وأصبحت شريكًا مهمًا لأرباب العمل وشركات التأمين، وتوسّعت عبر استحواذات في مجال الصحة السلوكية. ويجمع نموذجها حلولًا متفرقة في منصة واحدة قابلة للتعويض، تُدعَم بنتائج منشورة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Vida Health",
+      "country": "États-Unis",
+      "sub_domain": "Soins virtuels",
+      "short_description": "Plateforme de santé digitale qui met en relation patients, coachs et cliniciens.",
+      "technology": "Réseau de soins virtuels",
+      "why_relevant": "Des programmes de maladies chroniques regroupés dans une seule app.",
+      "history": "Vida Health a été fondée en 2014 par Stephanie Tilenius pour créer un point d'entrée unique et connecté pour le coaching des maladies chroniques. Son réseau met en relation patients, coachs santé, diététiciens et thérapeutes dans une seule application, avec des programmes pour le diabète, la santé cardiovasculaire et la santé mentale. Vida a levé plus de 200 millions de dollars et s'est imposée comme partenaire des employeurs et des assurances, s'étendant via des acquisitions en santé comportementale. Son modèle regroupe des solutions fragmentées en une plateforme remboursable appuyée par des résultats publiés.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "akili-interactive": {
+    "ar": {
+      "name": "Akili Interactive",
+      "country": "الولايات المتحدة",
+      "sub_domain": "علاجات رقمية",
+      "short_description": "علاج قائم على لعبة فيديو معتمد من إدارة الغذاء والدواء (FDA) لاضطراب فرط الحركة ونقص الانتباه (ADHD) لدى الأطفال.",
+      "technology": "ألعاب معرفية تكيفية",
+      "why_relevant": "أول علاج رقمي بوصفة طبية يُعتمد كدواء حقيقي.",
+      "history": "تأسست Akili Interactive عام 2011 على يد علماء أعصاب ومطوّري ألعاب، بهدف تحويل تدريب الانتباه إلى علاج. أصبح علاجها لاضطراب فرط الحركة ونقص الانتباه EndeavorRx أول علاج رقمي بوصفة طبية ينال اعتماد إدارة الغذاء والدواء عام 2020، بعد تجارب عشوائية على الأطفال. أُدرجت Akili في البورصة عبر اندماج مع Social Capital Suvretta عام 2022، ووافقت عام 2024 على الاستحواذ من Virtual Therapeutics. ساعدت رحلة الشركة في ترسيخ مسار تنظيمي وتجاري للبرمجيات الموصوفة كدواء.",
+      "hq_city": "بوسطن"
+    },
+    "fr": {
+      "name": "Akili Interactive",
+      "country": "États-Unis",
+      "sub_domain": "Thérapeutiques digitales",
+      "short_description": "Thérapie par jeu vidéo autorisée par la FDA pour le TDAH chez l'enfant.",
+      "technology": "Jeux cognitifs adaptatifs",
+      "why_relevant": "Première thérapeutique digitale sur ordonnance autorisée comme un vrai médicament.",
+      "history": "Akili Interactive a été fondée en 2011 par des neuroscientifiques et des développeurs de jeux pour transformer l'entraînement de l'attention en thérapie. Son traitement du TDAH EndeavorRx est devenu la première thérapeutique digitale sur ordonnance autorisée par la FDA en 2020, après des essais randomisés chez l'enfant. Akili est entrée en Bourse via une fusion avec Social Capital Suvretta en 2022, puis a accepté d'être rachetée par Virtual Therapeutics en 2024. Cette trajectoire a contribué à établir une voie réglementaire et commerciale pour les logiciels prescrits comme médicament.",
+      "hq_city": "Boston"
+    }
+  },
+  "wysa": {
+    "ar": {
+      "name": "Wysa",
+      "country": "المملكة المتحدة",
+      "sub_domain": "صحة نفسية بالذكاء الاصطناعي",
+      "short_description": "روبوت محادثة بالذكاء الاصطناعي سريع النشر يقدم دعمًا للصحة النفسية.",
+      "technology": "ذكاء اصطناعي محادثي قائم على الأدلة",
+      "why_relevant": "معالج بالذكاء الاصطناعي لستة أسابيع متاح للجميع، تبنّته خدمات الصحة النفسية في هيئة الصحة البريطانية (NHS).",
+      "history": "تأسست Wysa عام 2014 على يد جو أغراوال، الاستشارية السابقة، وراماكانت فيمباتي، مهندس الذكاء الاصطناعي، بهدف جعل دعم الصحة النفسية في متناول الجميع عبر الهاتف الذكي. تبنّت هيئة الصحة البريطانية (NHS) رفيقها الذكي المبني على تقنيات العلاج المعرفي السلوكي، ونال عام 2021 تصنيف جهاز اختراقي (Breakthrough Device) من إدارة الغذاء والدواء الأمريكية. جمعت Wysa عشرات ملايين الدولارات وتعمل اليوم مع أنظمة صحية في المملكة المتحدة والهند وأستراليا والولايات المتحدة.",
+      "hq_city": "بوسطن"
+    },
+    "fr": {
+      "name": "Wysa",
+      "country": "Royaume-Uni",
+      "sub_domain": "Santé mentale par IA",
+      "short_description": "Chatbot IA déployable en un temps record pour le soutien en santé mentale.",
+      "technology": "IA conversationnelle fondée sur des preuves",
+      "why_relevant": "Un thérapeute IA de six semaines accessible à tous, adopté par la santé mentale du NHS.",
+      "history": "Wysa a été fondée en 2014 par Jo Aggarwal, ancienne consultante, et Ramakant Vempati, ingénieur IA, afin que le soutien en santé mentale soit accessible à tous via un smartphone. Son compagnon IA, fondé sur des techniques cognitivo-comportementales, a été adopté par les services de santé mentale du NHS et a obtenu une désignation de dispositif révolutionnaire (Breakthrough Device) de la FDA en 2021. Wysa a levé des dizaines de millions de dollars et travaille désormais avec des systèmes de santé du Royaume-Uni, d'Inde, d'Australie et des États-Unis.",
+      "hq_city": "Boston"
+    }
+  },
+  "woebot-health": {
+    "ar": {
+      "name": "Woebot Health",
+      "country": "الولايات المتحدة",
+      "sub_domain": "صحة نفسية بالذكاء الاصطناعي",
+      "short_description": "دعم معرفي-سلوكي آلي على مدار الساعة، مستمد من التجارب السريرية.",
+      "technology": "عميل محادثة للعلاج المعرفي السلوكي (CBT)",
+      "why_relevant": "أثبت في التجارب أن العلاج المعرفي السلوكي عبر روبوت المحادثة يوازي فعالية المختصين.",
+      "history": "تأسست Woebot Health عام 2017 على يد عالمة النفس الإكلينيكية أليسون دارسي، انطلاقًا من جامعة ستانفورد، بهدف تقديم العلاج المعرفي السلوكي عبر المحادثة. يتواصل روبوت المحادثة لديها مع المستخدمين في حوارات يومية قصيرة، وأظهرت تجارب عشوائية نتائج تضاهي العلاج المعرفي السلوكي الذي يقدمه الأطباء في معالجة الاكتئاب وتحديات تعاطي المواد. جمعت الشركة 90 مليون دولار في جولة B قادتها Jazz Venture Partners، وأعادت تركيز خططها على علاجات صحة نفسية بمستوى الوصفات الطبية، مما رسّخ روبوتات المحادثة كقناة سريرية موثوقة قابلة للتوسع.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Woebot Health",
+      "country": "États-Unis",
+      "sub_domain": "Santé mentale par IA",
+      "short_description": "Un soutien cognitivo-comportemental automatisé 24/7, issu d'essais cliniques.",
+      "technology": "Agent conversationnel TCC",
+      "why_relevant": "A démontré en essais cliniques qu'une TCC par chatbot égale l'efficacité d'un clinicien.",
+      "history": "Woebot Health a été fondée en 2017 par la psychologue clinicienne Alison Darcy, issue de l'université de Stanford, pour délivrer une thérapie cognitivo-comportementale sous forme conversationnelle. Son chatbot accompagne les utilisateurs lors de courts échanges quotidiens, et des essais randomisés ont montré des effets comparables à une TCC menée par un clinicien pour la dépression et les troubles liés à la consommation de substances. L'entreprise a levé 90 millions de dollars en série B menée par Jazz Venture Partners et a recentré sa feuille de route sur des traitements de santé mentale de niveau prescription.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "k-health": {
+    "ar": {
+      "name": "K Health",
+      "country": "الولايات المتحدة",
+      "sub_domain": "رعاية أولية بالذكاء الاصطناعي",
+      "short_description": "استقبال بالذكاء الاصطناعي يفرز الأعراض قبل زيارة الطبيب.",
+      "technology": "نموذج لغوي سريري (LLM) + خرائط أعراض",
+      "why_relevant": "فرز يعتمد على الآلة أولًا يحافظ على رعاية أولية ميسورة التكلفة.",
+      "history": "تأسست K Health عام 2016 على يد ألون بلوخ وران شاؤول وجيسي رابينوفيتش، لتطبيق بيانات مجهولة الهوية من ملايين السجلات الطبية على الفرز اليومي للأعراض. يساعد تطبيقها المرضى على فهم أعراضهم، ويوصّلهم بأطباء متاحين على مدار الساعة، ويتتبع الأمراض المزمنة، ويصل إلى ملايين المستخدمين عبر الوصول المباشر وشراكات التأمين. وبعدما تجاوز تقييمها المليار دولار عام 2024، توسّعت الشركة المقيمة في نيويورك من المحادثة إلى الرعاية الأولية والإحالات التخصصية.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "K Health",
+      "country": "États-Unis",
+      "sub_domain": "Soins primaires par IA",
+      "short_description": "Un triage des symptômes par IA en amont de la consultation.",
+      "technology": "LLM clinique + cartographies des symptômes",
+      "why_relevant": "Un triage d'abord machine qui maintient des soins primaires abordables.",
+      "history": "K Health a été fondée en 2016 par Allon Bloch, Ran Shaul et Jesse Rabinowitz pour appliquer des données anonymisées de millions de dossiers médicaux au triage quotidien des symptômes. Son application aide à comprendre les symptômes, met en relation avec des médecins disponibles 24/7 et suit les maladies chroniques, touchant des millions d'utilisateurs via l'accès direct et des partenariats avec des assureurs. Valorisée au-delà du milliard de dollars en 2024, la société basée à New York s'est élargie du chat aux soins primaires, aux orientations spécialisées et à des accès en clinique soutenus par les assureurs.",
+      "hq_city": "New York"
+    }
+  },
+  "forward": {
+    "ar": {
+      "name": "Forward",
+      "country": "الولايات المتحدة",
+      "sub_domain": "عيادات بمنهج الذكاء الاصطناعي أولًا",
+      "short_description": "عيادات قائمة على الذكاء الاصطناعي مع مراقبة مستمرة وطب دقيق.",
+      "technology": "منصة سريرية بالذكاء الاصطناعي",
+      "why_relevant": "أعاد بناء نقاط التواصل مع العيادة حول الخوارزميات والحساسات.",
+      "history": "تأسست Forward عام 2016 على يد أدريان عون، المدير التنفيذي السابق في Google، ورفيقه إيليا أبازوف، بهدف إعادة بناء الرعاية الأولية حول الاستشعار المستمر والخوارزميات. تقدم عياداتها القائمة على الاشتراك استقبالًا بالذكاء الاصطناعي وكبائن لفحص الجسم ورعاية عن بُعد على مدار الساعة، وافتتحت أول فروعها في سان فرانسيسكو عام 2017. وبعد جمع أكثر من 200 مليون دولار من مستثمرين بينهم Founders Fund، توسّعت Forward إلى مدن متعددة وشراكات مع أرباب العمل، ساعية لإثبات إمكانية تقديم طب وقائي قائم على الآلة على نطاق المستهلك.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Forward",
+      "country": "États-Unis",
+      "sub_domain": "Cliniques centrées IA",
+      "short_description": "Des cliniques articulées autour de l'IA, avec suivi continu et médecine de précision.",
+      "technology": "Plateforme clinique IA",
+      "why_relevant": "A reconstruit les points de contact de la clinique autour d'algorithmes et de capteurs.",
+      "history": "Forward a été fondée en 2016 par Adrian Aoun, ancien cadre de Google, avec Ilya Abyzov, pour reconstruire les soins primaires autour de capteurs et d'algorithmes fonctionnant en continu. Ses cliniques par abonnement proposent une prise d'antécédents par IA, des cabines de scan corporel et des soins à distance 24/7, avec une première adresse ouverte à San Francisco en 2017. Après avoir levé plus de 200 millions de dollars auprès d'investisseurs comme Founders Fund, Forward s'est étendue à plusieurs villes et à des partenariats employeurs, pour démontrer qu'une médecine préventive centrée sur la machine peut passer à l'échelle grand public.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "carbon-health": {
+    "ar": {
+      "name": "Carbon Health",
+      "country": "الولايات المتحدة",
+      "sub_domain": "عيادات هجينة",
+      "short_description": "نموذج هجين سريع للرعاية العاجلة مع سجل صحي إلكتروني (EHR) متكامل.",
+      "technology": "سجل صحي إلكتروني متكامل + عيادات",
+      "why_relevant": "رعاية أولية متاحة في نفس اليوم، وبرمجياتها هي الخندق التنافسي الحقيقي.",
+      "history": "تأسست Carbon Health عام 2015 على يد أرين بالي وأمين يلماز، مبتكري منصة Udemy، بهدف بناء نموذج رعاية يجمع بين سرعة الزيارات وبرمجيات حقيقية. نمت عياداتها الهجينة للرعاية العاجلة وسجلها الصحي الإلكتروني الخاص بسرعة، وأصبحت الشركة مزودًا رئيسيًا لخدمات اختبار كوفيد-19 والتطعيم أثناء الجائحة. ومع جمع أكثر من 500 مليون دولار، افتتحت Carbon عشرات العيادات ثم تحولت نحو شراكات مع شركات التأمين وأرباب العمل، مقرنةً سجلها الصحي بعروض طبية عن بُعد للمؤسسات.",
+      "hq_city": "أوكلاند"
+    },
+    "fr": {
+      "name": "Carbon Health",
+      "country": "États-Unis",
+      "sub_domain": "Cliniques hybrides",
+      "short_description": "Modèle hybride de soins urgents rapide, avec un dossier médical électronique (EHR) intégré.",
+      "technology": "EHR intégré + cliniques",
+      "why_relevant": "Des soins primaires accessibles le jour même, dont le logiciel est le véritable avantage concurrentiel.",
+      "history": "Carbon Health a été fondée en 2015 par Eren Bali et Emin Yilmaz, créateurs d'Udemy, pour bâtir le modèle de soins que méritaient, selon eux, les réseaux de cliniques : des consultations rapides appuyées sur un vrai logiciel. Ses cliniques hybrides de soins urgents et son EHR propriétaire ont grandi vite, et l'entreprise est devenue un acteur clé du dépistage et de la vaccination contre le COVID-19. Avec plus de 500 millions de dollars levés, Carbon a ouvert des dizaines de cliniques puis s'est recentrée sur les partenariats assurances et employeurs, associant son EHR à des offres de télésanté d'entreprise.",
+      "hq_city": "Oakland"
+    }
+  },
+  "teladoc-health": {
+    "ar": {
+      "name": "Teladoc Health",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الصحة عن بُعد",
+      "short_description": "شركة عالمية للرعاية الافتراضية تخدم ملايين الأعضاء.",
+      "technology": "منصة رعاية افتراضية",
+      "why_relevant": "وسّع فئة الصحة عن بُعد للمؤسسات من الشركات الناشئة إلى شركات التأمين.",
+      "history": "تعود جذور Teladoc إلى عام 2002، حين أطلق مايكل غورتون خدمة استشارات طبية عبر الهاتف في ولاية تكساس. أصبحت الشركة المنصة الأبرز للصحة عن بُعد الموجهة للمؤسسات، وأُدرجت في البورصة عام 2015، وأنجزت عام 2020 اندماجها مع Livongo بقيمة 18.5 مليار دولار، مقرنةً الزيارات الافتراضية ببيانات الأمراض المزمنة. تخدم Teladoc Health اليوم عشرات ملايين الأعضاء حول العالم في الرعاية العاجلة والصحة النفسية والبرامج المزمنة، وتوسّعت نحو التوثيق المدعوم بالذكاء الاصطناعي وأسواق جديدة.",
+      "hq_city": "بيرشيس، نيويورك"
+    },
+    "fr": {
+      "name": "Teladoc Health",
+      "country": "États-Unis",
+      "sub_domain": "Télésanté",
+      "short_description": "Entreprise mondiale de soins virtuels pour des millions de membres.",
+      "technology": "Plateforme de soins virtuels",
+      "why_relevant": "A fait passer la télésanté d'entreprise des startups aux assureurs à grande échelle.",
+      "history": "Teladoc remonte à 2002, lorsque Michael Gorton a lancé au Texas un service de consultation médicale par téléphone. L'entreprise est devenue la plateforme de référence de la télésanté d'entreprise, est entrée en Bourse en 2015 et a réalisé en 2020 la fusion à 18,5 milliards de dollars avec Livongo, associant visites virtuelles et données sur les maladies chroniques. Teladoc Health sert désormais des dizaines de millions de membres dans le monde, pour les soins urgents, la santé mentale et les programmes chroniques, avec une expansion vers la documentation assistée par IA et de nouveaux marchés.",
+      "hq_city": "Purchase, New York"
+    }
+  },
+  "osso-vr": {
+    "ar": {
+      "name": "Osso VR",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تدريب جراحي",
+      "short_description": "تدريب جراحي بالواقع الافتراضي (VR) أُثبت نقل مهاراته عبر التجارب السريرية.",
+      "technology": "محاكاة جراحية غامرة",
+      "why_relevant": "أثبتت المحاكاة بالواقع الافتراضي مضاعفة علامات التقنية مقارنة بالتدريب النظري.",
+      "history": "تأسست Osso VR عام 2016 على يد جرّاح العظام جاستن باراد، بهدف جعل التدريب الجراحي أكثر أمانًا وتكرارًا داخل الواقع الافتراضي. تتيح محاكاة غامرة للجراحين إعادة ممارسة العمليات، وأظهرت تجارب محكّمة أن الجراحين المدرّبين عبر Osso يحققون ضعف علامات التقنية مقارنة بالمجموعات الضابطة. وبجمع أكثر من 90 مليون دولار من مستثمرين بينهم Accel وJazz، بنت Osso مناهج تدريب مع مصنّعين مثل Zimmer Biomet وJohnson & Johnson.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Osso VR",
+      "country": "États-Unis",
+      "sub_domain": "Formation chirurgicale",
+      "short_description": "Formation chirurgicale en VR dont le transfert de compétences a été validé par des essais cliniques.",
+      "technology": "Simulation chirurgicale immersive",
+      "why_relevant": "La simulation VR a doublé les scores techniques par rapport à l'apprentissage sur manuel.",
+      "history": "Osso VR a été fondée en 2016 par le chirurgien orthopédiste Justin Barad pour rendre la formation chirurgicale plus sûre et plus répétable en réalité virtuelle. Ses simulations immersives permettent aux chirurgiens de répéter des procédures, et des essais relus par les pairs ont montré que les chirurgiens formés sur Osso obtenaient des scores techniques environ deux fois supérieurs aux groupes témoins. Avec plus de 90 millions de dollars levés auprès d'investisseurs comme Accel et Jazz, Osso a construit des cursus avec des fabricants tels que Zimmer Biomet et Johnson & Johnson.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "vicarious-surgical": {
+    "ar": {
+      "name": "Vicarious Surgical",
+      "country": "الولايات المتحدة",
+      "sub_domain": "روبوتات جراحية",
+      "short_description": "روبوت جراحي بمنفذ واحد مع تحكم بالكاميرا بدقة تحاكي معصم الإنسان.",
+      "technology": "جراحة عن بُعد بشق واحد",
+      "why_relevant": "رهان مطروح للتداول بأن منفذًا صغيرًا واحدًا يمكنه إجراء عمليات كاملة.",
+      "history": "تأسست Vicarious Surgical عام 2015 على يد خريجَي هندسة من معهد ماساتشوستس للتكنولوجيا (MIT)، بهدف اختزال الروبوتات الجراحية إلى شق واحد. يُدخَل نظامها ذو الأذرع البشرية عبر منفذ صغير واحد ويُوجَّه بكاميرا يتحكم بها كمعصم بشري. قاد اندماج مع شركة استحواذ خاصة (SPAC) عام 2021 الشركة إلى بورصة نيويورك بتقييم يقارب المليار دولار، وتُركز الشركة منذ ذلك الحين على تحسين التصميم والحصول على اعتماد إدارة الغذاء والدواء.",
+      "hq_city": "والثام"
+    },
+    "fr": {
+      "name": "Vicarious Surgical",
+      "country": "États-Unis",
+      "sub_domain": "Robotique chirurgicale",
+      "short_description": "Robot chirurgical à orifice unique avec un contrôle de caméra aussi souple qu'un poignet humain.",
+      "technology": "Téléchirurgie mini-invasive à incision unique",
+      "why_relevant": "Un pari coté en bourse : un seul petit orifice pour réaliser des opérations complètes.",
+      "history": "Vicarious Surgical a été fondée en 2015 par deux anciens ingénieurs du MIT qui voulaient ramener la robotique chirurgicale à une seule incision. Leur système à bras humanoïdes s'insère par un seul petit orifice et est guidé par une caméra pilotée comme un poignet humain. Une fusion SPAC en 2021 a mené la société à la Bourse de New York pour une valorisation proche du milliard de dollars, et l'entreprise se concentre depuis sur le perfectionnement de son système et l'autorisation FDA pour généraliser la robotique à orifice unique.",
+      "hq_city": "Waltham"
+    }
+  },
+  "limbic": {
+    "ar": {
+      "name": "Limbic",
+      "country": "المملكة المتحدة",
+      "sub_domain": "صحة نفسية بالذكاء الاصطناعي",
+      "short_description": "فرز بالذكاء الاصطناعي ومساعدة للمعالجين، حاز اعترافًا إكلينيكيًا في المملكة المتحدة.",
+      "technology": "ذكاء اصطناعي مُثبت سريريًا",
+      "why_relevant": "أول ذكاء اصطناعي يُعتمد كجهاز طبي من الفئة IIa للعلاج داخل هيئة الصحة البريطانية (NHS).",
+      "history": "تأسست Limbic في لندن عام 2017 على يد عالِمَي الأعصاب الحسابيين روس هاربر وماريو راجوكي، إلى جانب البروفيسور أنيل سيث، بهدف تطبيق الشبكات العصبية على إحالة المرضى في الصحة النفسية. يتولى ذكاؤها الاصطناعي الإحالة الذاتية والتقييم ودعم المعالجين داخل خدمات العلاج النفسي التحدثي البريطانية، وأصبح Limbic Care عام 2022 أول مساعد ذكاء اصطناعي معتمد كجهاز طبي من الفئة IIa للعلاج داخل هيئة الصحة (NHS). عالجت المنصة ملايين التفاعلات مع المرضى، وتبيع Limbic اليوم خدمات الفرز والتحليلات الذكية لأنظمة صحية دولية.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "Limbic",
+      "country": "Royaume-Uni",
+      "sub_domain": "Santé mentale par IA",
+      "short_description": "Triage IA et assistance thérapeute, récompensé par une reconnaissance clinique au Royaume-Uni.",
+      "technology": "IA cliniquement validée",
+      "why_relevant": "Première IA approuvée comme dispositif médical de classe IIa pour la thérapie au sein du NHS.",
+      "history": "Limbic a été fondé à Londres en 2017 par les neuroscientifiques computationnels Ross Harper et Mario Ragucci, aux côtés du professeur Anil Seth, pour appliquer les réseaux de neurones à l'orientation des patients en santé mentale. Son IA gère l'auto-orientation, l'évaluation et le soutien des thérapeutes dans les services de thérapie par la parole du Royaume-Uni, et Limbic Care est devenu en 2022 le premier assistant IA certifié comme dispositif médical de classe IIa pour la thérapie au sein du NHS. Des millions d'interactions ont été traitées, et Limbic vend désormais son triage IA à des systèmes de santé à l'international.",
+      "hq_city": "Londres"
+    }
+  },
+  "alto-pharmacy": {
+    "ar": {
+      "name": "Alto Pharmacy",
+      "country": "الولايات المتحدة",
+      "sub_domain": "صيدلية رقمية",
+      "short_description": "توصيل صيدلاني في نفس اليوم مع تخفيضات متوافقة مع شركات التأمين.",
+      "technology": "منصة لوجستية صيدلانية",
+      "why_relevant": "صيدلية عميقة تشغيليًا تضع المريض أولًا، تُختصر في برمجيات.",
+      "history": "تأسست Alto Pharmacy عام 2015 في سان فرانسيسكو على يد جيمي كاراكر وشركائه، بهدف إعادة بناء الصيدلة حول المريض. حوّلت التوصيل في اليوم نفسه وأتمتة التأمين والاستشارة داخل التطبيق مسار الوصفات المعقّد إلى حلقة رقمية سلسة، وتجاوزت قيمة الشركة المليار دولار. توسّعت Alto من التوصيل الحضري الفوري إلى إدارة الأدوية المتخصصة والمزمنة، وبالرغم من تراجع تقييمات الصيدليات الرقمية منتصف العقد، تظل واحدة من أكثر الصيدليات القائمة على البرمجيات ابتكارًا من الناحية التشغيلية في الولايات المتحدة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Alto Pharmacy",
+      "country": "États-Unis",
+      "sub_domain": "Pharmacie digitale",
+      "short_description": "Livraison de pharmacie le jour même, avec des économies favorisées par les assurances.",
+      "technology": "Plateforme logistique pharmaceutique",
+      "why_relevant": "Une pharmacie tournée vers le patient, profondément opérationnelle, exprimée en logiciel.",
+      "history": "Alto Pharmacy a été fondée en 2015 à San Francisco par Jamie Karraker et ses cofondateurs pour reconstruire la pharmacie autour du patient. Livraison le jour même, automatisation des assurances et consultation dans l'application ont transformé un parcours de prescription complexe en boucle numérique fluide, et l'entreprise a dépassé le milliard de dollars de valorisation. Alto est passée de la livraison à la demande en ville à la gestion des médicaments spécialisés et chroniques, et malgré le reflux des valorisations de la pharmacie digitale au milieu des années 2020, elle reste l'une des pharmacies nées du logiciel les plus innovantes des États-Unis.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "notable": {
+    "ar": {
+      "name": "Notable",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أتمتة الرعاية الصحية",
+      "short_description": "يؤتمت الموافقات المسبقة واستقبال المرضى عبر الذكاء الاصطناعي الصوتي.",
+      "technology": "وكلاء ذكاء اصطناعي للإدارة الصحية",
+      "why_relevant": "يزيل الأوراق الروتينية التي تهدر ساعات من وقت الأطباء.",
+      "history": "تأسست Notable عام 2017 على يد براناي كاباديا، لتطبيق وكلاء أذكياء على الإدارة الصحية. تؤتمت أعمالها الصوتية والوثائقية الموافقات المسبقة وإدارة الإحالات واستقبال المرضى في أنظمة رعاية كبرى، وتدّعي توفير ملايين ساعات العمل الإداري لمنظمات مقدمي الرعاية. جمعت الشركة أكثر من 100 مليون دولار، بينها جولة B قادتها ICONIQ Growth عام 2024، وتطوّرت من أدوات أحادية المهمة إلى مسارات عمل آلية شاملة بين الأطباء والدافعين والمرضى.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Notable",
+      "country": "États-Unis",
+      "sub_domain": "Automatisation de la santé",
+      "short_description": "Automatise l'autorisation préalable et l'admission des patients grâce à l'IA vocale.",
+      "technology": "Agents IA administratifs pour la santé",
+      "why_relevant": "Élimine la paperasse qui grignote des heures de temps clinique.",
+      "history": "Notable a été fondée en 2017 par Pranay Kapadia pour appliquer des agents intelligents à l'administration de la santé. Son automatisation vocale et documentaire gère l'autorisation préalable, la gestion des orientations et l'admission dans de grands systèmes de soins, revendiquant des millions d'heures administratives économisées. L'entreprise a levé plus de 100 millions de dollars, dont une série B menée par ICONIQ Growth en 2024, et est passée d'outils à tâche unique à des flux de travail autonomes de bout en bout entre cliniciens, payeurs et patients.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "ada-health": {
+    "ar": {
+      "name": "Ada Health",
+      "country": "ألمانيا",
+      "sub_domain": "تقييم الأعراض",
+      "short_description": "مرشد صحي بالذكاء الاصطناعي يقيّم الأعراض بأكثر من أربعين لغة.",
+      "technology": "محرك استدلال سريري",
+      "why_relevant": "محرك أعراض مُثبت سريريًا، تعتمده أنظمة صحية حول العالم.",
+      "history": "تأسست Ada Health في برلين عام 2016 على يد عالم الرياضيات دانيال ناثراث، والطبيب الباحث مارتن هيرش، والدكتورة كلير نوفورول، بهدف إتاحة فهم الأعراض بشكل مُسند سريريًا للجميع. يقيّم تطبيقها الحائز جوائز الأعراض بأكثر من أربعين لغة، ووسّعت شراكاتها مع Bayer وSamsung وأنظمة صحية في أفريقيا وآسيا من انتشاره. ومع عشرات ملايين المستخدمين واعتمادات تنظيمية في أسواق عدة، تُرخّص Ada اليوم محرك الاستدلال السريري لديها للمستشفيات وشركات التأمين وصنّاع الأجهزة القابلة للارتداء.",
+      "hq_city": "برلين"
+    },
+    "fr": {
+      "name": "Ada Health",
+      "country": "Allemagne",
+      "sub_domain": "Évaluation des symptômes",
+      "short_description": "Guide de santé par IA qui évalue les symptômes dans plus de quarante langues.",
+      "technology": "Moteur de raisonnement clinique",
+      "why_relevant": "Un moteur de symptômes cliniquement validé, déployé par des systèmes de santé du monde entier.",
+      "history": "Ada Health a été fondée à Berlin en 2016 par le mathématicien Daniel Nathrath, le médecin-chercheur Martin Hirsch et la docteure Claire Novorol afin de permettre à chacun de comprendre ses symptômes de façon cliniquement fondée. Son application primée évalue les symptômes dans plus de quarante langues, et des partenariats avec Bayer, Samsung et des systèmes de santé en Afrique et en Asie ont élargi sa portée. Avec des dizaines de millions d'utilisateurs et des autorisations réglementaires dans plusieurs pays, Ada concède aujourd'hui sous licence son moteur de raisonnement clinique aux hôpitaux, assureurs et fabricants de wearables.",
+      "hq_city": "Berlin"
+    }
+  },
+  "maven-clinic": {
+    "ar": {
+      "name": "Maven Clinic",
+      "country": "الولايات المتحدة",
+      "sub_domain": "صحة المرأة",
+      "short_description": "عيادة افتراضية لرعاية الإنجاب وصحة الأم والطفل.",
+      "technology": "رعاية رقمية للأمومة",
+      "why_relevant": "اليونيكورن الأعلى قيمة في فئة صحة المرأة والأسرة.",
+      "history": "تأسست Maven Clinic عام 2014 على يد كاثرين رايدر، بهدف إتاحة رعاية متخصصة للنساء والأسر عبر عيادة رقمية واحدة. تغطي شبكتها الخصوبة والحمل والتربية وطب الأطفال، وتُقدَّم عبر أرباب العمل وشركات التأمين، وأصبحت الشركة يونيكورنًا بجولة 90 مليون دولار عام 2022. دعمت Maven أكثر من 20 مليون عضو، ووسّعت مزاياها لتشمل تأجير الأرحام ودعم القابلات، وبنت برامج سريرية بنتائج منشورة.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Maven Clinic",
+      "country": "États-Unis",
+      "sub_domain": "Santé des femmes",
+      "short_description": "Clinique virtuelle pour la reproduction et les soins périnatals et familiaux.",
+      "technology": "Soins maternels digitaux",
+      "why_relevant": "La licorne la mieux valorisée de la santé des femmes et de la famille.",
+      "history": "Maven Clinic a été fondée en 2014 par Katherine Ryder pour offrir aux femmes et aux familles une prise en charge spécialisée via une seule clinique digitale. Son réseau couvre la fertilité, la grossesse, la parentalité et la pédiatrie, distribué par l'intermédiaire des employeurs et des assurances, et l'entreprise est devenue une licorne grâce à un tour de 90 millions de dollars en 2022. Maven a accompagné plus de 20 millions de membres, élargi ses avantages à la gestation pour autrui et au soutien de doulas, et construit des programmes cliniques aux résultats publiés.",
+      "hq_city": "New York"
+    }
+  },
+  "carrot-fertility": {
+    "ar": {
+      "name": "Carrot Fertility",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مزايا الخصوبة",
+      "short_description": "منصة عالمية لرعاية الخصوبة عبر مزايا الموظفين، موجّهة لأصحاب العمل.",
+      "technology": "شبكة مزايا للخصوبة",
+      "why_relevant": "يجعل أطفال الأنابيب (IVF) وتأجير الأرحام في المتناول عبر شراكة مع أصحاب العمل.",
+      "history": "تأسست Carrot Fertility عام 2016 على يد الطبيبة عاصمة أحمد ورائدة الأعمال تامي صن، بهدف جعل رعاية الخصوبة ميزة وظيفية رئيسية. تساعد منصتها العالمية أصحاب العمل على تقديم أطفال الأنابيب وتجميد البويضات وتأجير الأرحام ودعم صحة الدورة الشهرية في أكثر من 100 دولة، مقرنةً شبكات رعاية محلية بتوجيه سريري. تجاوز تقييم Carrot المليار دولار عام 2021، وعمّقت منذ ذلك الحين برامجها لتكوين الأسرة وحفظ الخصوبة للعملاء المؤسسيين حول العالم.",
+      "hq_city": "مينلو بارك"
+    },
+    "fr": {
+      "name": "Carrot Fertility",
+      "country": "États-Unis",
+      "sub_domain": "Avantages fertilité",
+      "short_description": "Plateforme mondiale de prise en charge de la fertilité via les avantages salariés.",
+      "technology": "Réseau d'avantages fertilité",
+      "why_relevant": "Rend la FIV et la gestation pour autrui abordables via une alliance avec les employeurs.",
+      "history": "Carrot Fertility a été fondée en 2016 par la médecin Asima Ahmad et l'entrepreneuse Tammy Sun pour faire de la prise en charge de la fertilité un avantage salarié courant. Sa plateforme mondiale aide les employeurs à offrir FIV, congélation d'ovocytes, gestation pour autrui et santé menstruelle dans plus de 100 pays, combinant réseaux de soins locaux et accompagnement clinique. Carrot a dépassé le milliard de dollars de valorisation lors d'un tour en 2021 et a depuis étoffé ses programmes de construction familiale et de préservation de la fertilité pour ses clients entreprises.",
+      "hq_city": "Menlo Park"
+    }
+  },
+  "cedar": {
+    "ar": {
+      "name": "Cedar",
+      "country": "الولايات المتحدة",
+      "sub_domain": "فوترة المرضى",
+      "short_description": "منصة دفع للمرضى تحسّن تجربة الفوترة في المستشفيات.",
+      "technology": "إشراك المريض ماليًا",
+      "why_relevant": "يحوّل فواتير المستشفى إلى تدفق دفع واضح ومحادثة سلسة.",
+      "history": "تأسست Cedar عام 2016 على يد فلوريان أوتو وأريل ليدو، بهدف تحويل فاتورة المستشفى إلى محادثة واضحة وشخصية. ترشد منصتها للدفع والإشراك المالي المرضى في التفسيرات وخطط الدفع والدعم داخل مئات الأنظمة الصحية. جمعت الشركة نحو 200 مليون دولار، بينها جولة C قادتها Andreessen Horowitz وFranklin Templeton، وأضافت لاحقًا أدوات ذكاء اصطناعي لاكتشاف المطالبات وسلامة الإيرادات، وتدير اليوم ملايين تفاعلات دفع المرضى سنويًا.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Cedar",
+      "country": "États-Unis",
+      "sub_domain": "Facturation patient",
+      "short_description": "Plateforme de paiement patient qui améliore l'expérience de facturation des hôpitaux.",
+      "technology": "Engagement financier du patient",
+      "why_relevant": "Transforme les factures d'hôpital en un parcours de paiement simple et conversationnel.",
+      "history": "Cedar a été fondée en 2016 par Florian Otto et Arel Lidow pour transformer la facture d'hôpital en une conversation claire et personnalisée. Sa plateforme de paiement et d'engagement financier accompagne les patients dans les explications, les plans de paiement et le support, auprès de centaines de systèmes de santé. L'entreprise a levé environ 200 millions de dollars, dont une série C menée par Andreessen Horowitz et Franklin Templeton, puis a ajouté des outils IA pour la découverte de remboursements et l'intégrité des revenus, orchestrant des millions d'interactions de paiement patient chaque année.",
+      "hq_city": "New York"
+    }
+  }
+}

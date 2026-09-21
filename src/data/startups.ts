@@ -15,6 +15,10 @@ export interface Startup {
   whyRelevant: string;
   priority: StartupPriority;
   status: StartupStatus;
+  history?: string;
+  hqCity?: string;
+  latitude?: number;
+  longitude?: number;
   refNo?: number;
 }
 

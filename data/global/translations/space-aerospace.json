@@ -1,0 +1,706 @@
+{
+  "spacex": {
+    "ar": {
+      "name": "SpaceX",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الإطلاق وإنترنت LEO",
+      "short_description": "صواريخ قابلة لإعادة الاستخدام ضمن عائلة Falcon وبرنامج Starship؛ ومشغّل شبكة ستارلينك Starlink.",
+      "technology": "إطلاق قابل لإعادة الاستخدام وميجاكونستليشن",
+      "why_relevant": "جعلت الرحلات الفضائية رخيصة وروتينية بالنسبة لقطاع الصناعة بأكمله.",
+      "history": "تأسست SpaceX عام 2002 على يد إيلون ماسك بهدف خفض كلفة الوصول إلى المدار بشكل جذري. وصل صاروخ Falcon 1 إلى المدار عام 2008، وأطلق Falcon 9 أول مرة عام 2010 وحقق أول هبوط لمعزز مداري عام 2015. ونقلت كبسولة Crew Dragon رواد فضاء تابعين لناسا منذ عام 2020، وتشغّل Starlink الآن آلاف الأقمار. ويتقدم Starship، وهو نظام فائق الثقل قابل لإعادة الاستخدام بالكامل، عبر رحلات اختبارية متزايدة الطموح. وبتمويل خاص وبقيمة من الأعلى عالميًا بين الشركات الناشئة، تهيمن SpaceX على الإطلاق التجاري.",
+      "hq_city": "هاوثورن"
+    },
+    "fr": {
+      "name": "SpaceX",
+      "country": "États-Unis",
+      "sub_domain": "Lancement et internet LEO",
+      "short_description": "Fusées réutilisables avec la famille Falcon et le programme Starship ; opérateur de Starlink.",
+      "technology": "Lancement réutilisable, mégaconstellations",
+      "why_relevant": "A rendu le vol spatial bon marché et routinier pour toute l'industrie.",
+      "history": "Fondée en 2002 par Elon Musk, SpaceX visait à réduire drastiquement le coût de l'accès à l'orbite. Falcon 1 a atteint l'orbite en 2008 ; Falcon 9 a volé pour la première fois en 2010 et a réalisé le premier atterrissage d'un booster orbital en 2015. Crew Dragon a transporté des astronautes de la NASA dès 2020, et Starlink exploite désormais des milliers de satellites. Starship, le système super-lourd entièrement réutilisable, progresse par des vols d'essai de plus en plus ambitieux. Détenue par des capitaux privés et parmi les startups les plus valorisées au monde, SpaceX domine le lancement commercial.",
+      "hq_city": "Hawthorne"
+    }
+  },
+  "blue-origin": {
+    "ar": {
+      "name": "Blue Origin",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الإطلاق والأنظمة الفضائية",
+      "short_description": "مطوّرة صاروخ New Glenn ومحرك BE-4 لإطلاق البضائع ورواد الفضاء.",
+      "technology": "إطلاق مداري قابل لإعادة الاستخدام",
+      "why_relevant": "صاروخ رفع ثقيل قابل لإعادة الاستخدام يخدم الآن ناسا والعملاء التجاريين.",
+      "history": "تأسست Blue Origin عام 2000 على يد جيف بيزوس، وأمضت سنوات في تطوير المركبة دون المدارية New Shepard التي بدأت نقل ركاب مدفوعين عام 2021. وتصنّع الشركة محرك BE-4 المختار لصاروخ Vulcan التابع لـ United Launch Alliance ولصاروخها الثقيل New Glenn الذي بلغ المدار في رحلته الأولى عام 2025. وبدعم من استثمار بيزوس الشخصي، أصبحت Blue Origin موردًا رئيسيًا للإطلاق لناسا والقطاع التجاري، وتسعى إلى وصول مداري قابل لإعادة الاستخدام ومركبات هبوط قمرية.",
+      "hq_city": "كنت"
+    },
+    "fr": {
+      "name": "Blue Origin",
+      "country": "États-Unis",
+      "sub_domain": "Lancement et systèmes spatiaux",
+      "short_description": "Développeur de New Glenn et du moteur BE-4 pour le lancement de fret et d'équipages.",
+      "technology": "Lancement orbital réutilisable",
+      "why_relevant": "Lanceur lourd réutilisable servant désormais la NASA et les clients commerciaux.",
+      "history": "Fondée en 2000 par Jeff Bezos, Blue Origin a passé des années à développer le véhicule suborbital New Shepard, qui a commencé à transporter des passagers payants en 2021. L'entreprise fabrique le moteur BE-4, choisi pour le Vulcan de United Launch Alliance et pour son propre lanceur lourd New Glenn, qui a atteint l'orbite lors de son vol inaugural en 2025. Soutenue par l'investissement personnel de Bezos, Blue Origin est aujourd'hui un fournisseur majeur de lancements pour la NASA et le secteur commercial, visant un accès orbital réutilisable et des atterrisseurs lunaires.",
+      "hq_city": "Kent"
+    }
+  },
+  "astranis": {
+    "ar": {
+      "name": "Astranis",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أقمار Micro-GEO",
+      "short_description": "يبني أقمارًا مصغّرة مخصصة للاستقرار الجغرافي تحوّل موقع GEO إلى حزم تغطية متعددة.",
+      "technology": "منصات أقمار Micro-GEO",
+      "why_relevant": "اتصال مخصص لمناطق GEO الأقل خدمة بكلفة أقل بكثير من الحلول التقليدية.",
+      "history": "تأسست Astranis عام 2015 في سان فرانسيسكو بهدف تقليص حجم أقمار الاتصالات الجغرافية المستقرة إلى نحو عُشر حجمها التقليدي. أُطلق أول قمر MicroGEO لها عام 2023، ووقّعت الشركة اتفاقيات لتوفير نطاق مخصص لألاسكا والفلبين وأمريكا اللاتينية. وبعد جمع مئات الملايين من الدولارات، تصنّع Astranis مركبات GEO صغيرة تقسّم موقعًا مداريًا واحدًا إلى حزم عديدة للمناطق الأقل خدمة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Astranis",
+      "country": "États-Unis",
+      "sub_domain": "Satellites micro-GEO",
+      "short_description": "Construit des micro-satellites géostationnaires dédiés qui découpent une position GEO en faisceaux.",
+      "technology": "Plateformes satellites micro-GEO",
+      "why_relevant": "Une connectivité dédiée pour les régions GEO mal desservies, à une fraction du coût historique.",
+      "history": "Fondée en 2015 à San Francisco, Astranis a entrepris de réduire les satellites de télécommunications géostationnaires à environ un dixième de leur taille traditionnelle. Son premier satellite MicroGEO a été lancé en 2023, et l'entreprise a signé des accords pour fournir une bande passante dédiée à l'Alaska, aux Philippines et à l'Amérique latine. Après avoir levé plusieurs centaines de millions de dollars, Astranis fabrique de petits engins GEO qui découpent une position orbitale unique en de nombreux faisceaux pour les régions mal desservies.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "relativity-space": {
+    "ar": {
+      "name": "Relativity Space",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الإطلاق بالطباعة ثلاثية الأبعاد",
+      "short_description": "يطبع صواريخه باستخدام التصنيع الإضافي بالقوس السلكي الذي تشغّله الروبوتات.",
+      "technology": "صواريخ مصنوعة بالتصنيع الإضافي بالقوس السلكي",
+      "why_relevant": "استبدلت آلاف قطع الصواريخ بعدد قليل من القطع المطبوعة ثلاثيًا.",
+      "history": "تأسست Relativity Space عام 2015 ورادت الطباعة ثلاثية الأبعاد للصواريخ على نطاق واسع عبر طابعاتها الروبوتية بالقوس السلكي Stargate. أُطلق صاروخ Terran 1 عام 2023، ليثبت أن مركبة مطبوعة ثلاثيًا في معظمها قادرة على الطيران. ثم تحولت الشركة إلى Terran R الأكبر ثم إلى تطبيقات دفاعية. ورغم تحديات التمويل وتغيّر القيادة، تبقى Relativity مرجعًا في التصنيع الإضافي الفضائي من مقرها في لونغ بيتش.",
+      "hq_city": "لونغ بيتش"
+    },
+    "fr": {
+      "name": "Relativity Space",
+      "country": "États-Unis",
+      "sub_domain": "Lancement par impression 3D",
+      "short_description": "Imprime ses fusées par fabrication additive robotisée à arc filaire.",
+      "technology": "Fusées en fabrication additive à arc filaire",
+      "why_relevant": "A remplacé des milliers de pièces de fusée par une poignée de pièces imprimées en 3D.",
+      "history": "Fondée en 2015, Relativity Space a été pionnière de l'impression 3D à grande échelle de fusées grâce à ses imprimantes robotiques à arc filaire Stargate. La fusée Terran 1 a été lancée en 2023, prouvant qu'un véhicule en grande partie imprimé en 3D pouvait voler. L'entreprise s'est ensuite tournée vers la plus grande Terran R puis vers des applications de défense. Malgré des difficultés de financement et des changements de direction, Relativity reste une référence de la fabrication additive aérospatiale depuis son siège de Long Beach.",
+      "hq_city": "Long Beach"
+    }
+  },
+  "firefly-aerospace": {
+    "ar": {
+      "name": "Firefly Aerospace",
+      "country": "الولايات المتحدة",
+      "sub_domain": "إطلاق صغير إلى متوسط",
+      "short_description": "مشغّل صاروخ Alpha ومركبة الهبوط القمرية Blue Ghost.",
+      "technology": "دفع صاروخي ومركبات هبوط قمرية",
+      "why_relevant": "أول مركبة هبوط تجارية تحقق نجاحًا كاملًا على القمر في 2025.",
+      "history": "تأسست Firefly Aerospace عام 2014 وتجاوزت بدايات مضطربة لتطلق صاروخها Alpha بنجاح عام 2023. وحققت مركبة الهبوط القمرية Blue Ghost أول هبوط قمري تجاري ناجح بالكامل عام 2025. وبدعم من AE Industrial Partners، تطوّر Firefly صواريخ ومركبات هبوط قمرية وفازت بعقود من ناسا، لتضع نفسها مزوّدًا شاملًا للنقل الفضائي الصغير والمتوسط من سيدار بارك في تكساس.",
+      "hq_city": "سيدار بارك"
+    },
+    "fr": {
+      "name": "Firefly Aerospace",
+      "country": "États-Unis",
+      "sub_domain": "Lancement léger à moyen",
+      "short_description": "Opérateur de la fusée Alpha et de l'atterrisseur lunaire Blue Ghost.",
+      "technology": "Propulsion de fusée, atterrisseurs lunaires",
+      "why_relevant": "Premier atterrisseur commercial à réussir pleinement sur la Lune en 2025.",
+      "history": "Fondée en 2014, Firefly Aerospace a surmonté des débuts mouvementés pour faire voler avec succès sa fusée Alpha en 2023. Son atterrisseur lunaire Blue Ghost a réalisé le premier atterrissage lunaire commercial pleinement réussi en 2025. Soutenue par AE Industrial Partners, Firefly développe des lanceurs et des atterrisseurs lunaires et a remporté des contrats de la NASA, s'imposant comme un fournisseur complet de transport spatial léger à moyen depuis Cedar Park, au Texas.",
+      "hq_city": "Cedar Park"
+    }
+  },
+  "abl-space-systems": {
+    "ar": {
+      "name": "ABL Space Systems",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الإطلاق",
+      "short_description": "صمم صاروخ RS1 ليُطلق من حاويات الشحن.",
+      "technology": "منصات إطلاق متنقلة",
+      "why_relevant": "دفعت نحو مواقع إطلاق متنقلة للغاية ومنخفضة الكلفة.",
+      "history": "تأسست ABL Space Systems عام 2017 وطوّرت صاروخ RS1 المصمم للانطلاق من حاويات الشحن القياسية، ما يتيح نشرًا سريعًا من مواقع بسيطة. وبعد فشل إطلاق في ألاسكا عام 2023، واجهت الشركة انتكاسات وتسريحات مع مواصلتها تحسين أنظمة الإطلاق الأرضية المتنقلة. ومن مقرها في إل سغوندو، تهدف بنية ABL الحاوياتية إلى منح مشغّلي الأقمار الصغيرة وصولًا مرنًا ومنخفض الكلفة إلى المدار بأقل بنية تحتية.",
+      "hq_city": "إل سغوندو"
+    },
+    "fr": {
+      "name": "ABL Space Systems",
+      "country": "États-Unis",
+      "sub_domain": "Lancement",
+      "short_description": "A conçu la fusée RS1 pour un lancement depuis des conteneurs maritimes.",
+      "technology": "Véhicules de lancement mobiles",
+      "why_relevant": "A poussé vers des sites de lancement ultra-mobiles et à faible coût.",
+      "history": "Fondée en 2017, ABL Space Systems a développé la fusée RS1, conçue pour être lancée depuis des conteneurs maritimes standard, permettant un déploiement rapide depuis des sites sommaires. Après un échec de lancement en Alaska en 2023, l'entreprise a connu des revers et des licenciements tout en affinant ses systèmes au sol mobiles. Basée à El Segundo, l'architecture conteneurisée d'ABL vise à offrir aux opérateurs de petits satellites un accès flexible et peu coûteux à l'orbite avec une infrastructure minimale.",
+      "hq_city": "El Segundo"
+    }
+  },
+  "planet-labs": {
+    "ar": {
+      "name": "Planet Labs",
+      "country": "الولايات المتحدة",
+      "sub_domain": "مراقبة الأرض",
+      "short_description": "تشغّل أكبر أسطول أقمار لتصوير الأرض، وتلتقط صورًا للكوكب بأكمله يوميًا.",
+      "technology": "كوكبة Doves وتحليلات البيانات",
+      "why_relevant": "صوّرت كتلة اليابسة بأكملها يوميًا لصالح الزراعة والدفاع.",
+      "history": "تأسست Planet Labs عام 2010 على يد علماء سابقين في ناسا، ونشرت أكبر كوكبة تجارية لتصوير الأرض عبر أقمارها المكعبة Dove. وطرحت أسهمها عبر SPAC عام 2021، وهي الآن تصوّر كتلة اليابسة بأكملها يوميًا. وحسّنت أقمار Pelican وSuperDove الدقة، وتخدم البيانات الزراعة والدفاع ورصد المناخ. ومن مقرها في سان فرانسيسكو، تبقى Planet المزوّد الرائد للمراقبة العالمية اليومية من الفضاء.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Planet Labs",
+      "country": "États-Unis",
+      "sub_domain": "Observation de la Terre",
+      "short_description": "Opère la plus grande flotte de satellites d'imagerie terrestre, photographiant toute la planète chaque jour.",
+      "technology": "Constellation Doves, analytique",
+      "why_relevant": "A imagé chaque jour l'ensemble des terres émergées pour l'agriculture et la défense.",
+      "history": "Fondée en 2010 par d'anciens scientifiques de la NASA, Planet Labs a déployé la plus grande constellation commerciale d'imagerie terrestre, ses cubesats Dove. Entrée en bourse via un SPAC en 2021, elle image désormais chaque jour l'ensemble des terres émergées. Les satellites Pelican et SuperDove ont amélioré la résolution, et les données servent l'agriculture, la défense et le suivi du climat. Basée à San Francisco, Planet reste le principal fournisseur de surveillance mondiale quotidienne depuis l'espace.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "spire-global": {
+    "ar": {
+      "name": "Spire Global",
+      "country": "الولايات المتحدة",
+      "sub_domain": "البيانات الفضائية",
+      "short_description": "يوفر بيانات الطقس وAIS والترددات الراديوية من كوكبة عالمية من الأقمار الصغيرة.",
+      "technology": "احتجاب راديوي في مدار LEO",
+      "why_relevant": "يكمّل نماذج التنبؤ الجوي ببيانات كثيفة لرصد الغلاف الجوي.",
+      "history": "تأسست Spire Global عام 2012 وتشغّل كوكبة من الأقمار الصغيرة تجمع بيانات الطقس وAIS البحري وبيانات الطيران عبر الاحتجاب الراديوي والاستطلاع الكهرومغناطيسي. وطرحت الشركة أسهمها عام 2021 وتبيع بياناتها للحكومات والصناعة. ومن مقرها في سان فرانسيسكو مع عمليات رئيسية في غلاسكو، توفّر Spire قياسات جوية كثيفة تحسّن نماذج التنبؤ العالمية وتتتبع السفن والطائرات حول العالم.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Spire Global",
+      "country": "États-Unis",
+      "sub_domain": "Données spatiales",
+      "short_description": "Fournit des données météo, AIS et radiofréquences depuis une constellation mondiale de petits satellites.",
+      "technology": "Occultation radio LEO",
+      "why_relevant": "Complète les modèles de prévision avec des données atmosphériques denses.",
+      "history": "Fondée en 2012, Spire Global exploite une constellation de petits satellites collectant des données météo, AIS maritimes et aéronautiques grâce à l'occultation radio et au renseignement d'origine électromagnétique. L'entreprise est entrée en bourse en 2021 et vend ses données aux gouvernements et à l'industrie. Basée à San Francisco avec des activités majeures à Glasgow, Spire fournit des mesures atmosphériques denses qui améliorent les modèles de prévision mondiale et suit navires et aéronefs dans le monde entier.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "kepler-communications": {
+    "ar": {
+      "name": "Kepler Communications",
+      "country": "كندا",
+      "sub_domain": "مرحّلات LEO",
+      "short_description": "تشغّل كوكبة لترحيل البيانات تربط الأقمار الموجودة في المدار الأرضي المنخفض.",
+      "technology": "ترحيل بصري/راديوي بين الأقمار",
+      "why_relevant": "تصنع طرق البيانات السريعة التي تتيح للأقمار التواصل مع الأرض كل يوم.",
+      "history": "تأسست Kepler Communications عام 2015 في تورونتو، وتبني كوكبة لترحيل البيانات تهدف إلى ربط الأقمار في المدار الأرضي المنخفض. وبعد إطلاق أقمار تجريبية، جمعت أكثر من 200 مليون دولار وتوجهت نحو الوصلات البصرية بين الأقمار. وتهدف شبكتها إلى منح المركبات الفضائية اتصالًا مستمرًا بدلًا من مرور قصير فوق المحطات الأرضية. وتخدم Kepler عملاء حكوميين وتجاريين وتُعد من اللاعبين الرئيسيين في القطاع الفضائي الكندي.",
+      "hq_city": "تورونتو"
+    },
+    "fr": {
+      "name": "Kepler Communications",
+      "country": "Canada",
+      "sub_domain": "Relais LEO",
+      "short_description": "Exploite une constellation de relais de données reliant les satellites en orbite terrestre basse.",
+      "technology": "Relais inter-satellites optique/radio",
+      "why_relevant": "Crée les autoroutes de données qui permettent aux satellites de communiquer avec la Terre chaque jour.",
+      "history": "Fondée en 2015 à Toronto, Kepler Communications construit une constellation de relais de données destinée à connecter les satellites en orbite terrestre basse. Après avoir lancé des satellites de démonstration, elle a levé plus de 200 millions de dollars et s'est orientée vers les liaisons inter-satellites optiques. Son réseau vise à offrir aux engins spatiaux une connectivité continue plutôt que de brefs passages au-dessus des stations au sol. Kepler sert des clients publics et commerciaux et compte parmi les acteurs clés du secteur spatial canadien.",
+      "hq_city": "Toronto"
+    }
+  },
+  "iceye": {
+    "ar": {
+      "name": "ICEYE",
+      "country": "فنلندا",
+      "sub_domain": "تصوير SAR",
+      "short_description": "أقمار رادار ذات فتحة تركيبية ترى عبر الغيوم ليلًا ونهارًا.",
+      "technology": "كوكبة MicroSAR",
+      "why_relevant": "رائدة سوق التصوير الراداري لقطاعي التأمين والمراقبة البحرية.",
+      "history": "تأسست ICEYE عام 2014 في إسبو بفنلندا، وبنَت أول قمر رادار صغير ذي فتحة تركيبية في العالم وأطلقته عام 2018. وتوفّر كوكبتها MicroSAR تصويرًا في كل الأحوال الجوية ليلًا ونهارًا يُستخدم في الفيضانات والقطاع البحري والتأمين. وجمعت ICEYE مئات الملايين وتوسّعت إلى الدفاع وخدمات البيانات. ومن مقرها الفنلندي، تتصدر السوق التجارية لتصوير SAR بفضل إعادة الزيارة السريعة وقدرات التداخل الراداري.",
+      "hq_city": "إسبو"
+    },
+    "fr": {
+      "name": "ICEYE",
+      "country": "Finlande",
+      "sub_domain": "Imagerie SAR",
+      "short_description": "Satellites à radar à synthèse d'ouverture qui voient à travers les nuages, de jour comme de nuit.",
+      "technology": "Constellation MicroSAR",
+      "why_relevant": "Leader du marché de l'imagerie radar pour l'assurance et la surveillance maritime.",
+      "history": "Fondée en 2014 à Espoo, en Finlande, ICEYE a construit le premier petit satellite radar à synthèse d'ouverture au monde, lancé en 2018. Sa constellation MicroSAR fournit une imagerie par tous les temps, de jour comme de nuit, utilisée pour les inondations, le maritime et l'assurance. ICEYE a levé des centaines de millions et s'est étendue à la défense et aux services de données. Depuis son siège finlandais, elle domine le marché commercial du SAR grâce à une revisite rapide et des capacités interférométriques.",
+      "hq_city": "Espoo"
+    }
+  },
+  "capella-space": {
+    "ar": {
+      "name": "Capella Space",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تصوير SAR",
+      "short_description": "تتولى توجيه أقمار SAR عالية التكرار لصالح الدفاع والاستخبارات.",
+      "technology": "رادار SAR بنطاق X",
+      "why_relevant": "إعادة زيارة سريعة عبر SAR تدعم المراقبة ليلًا ونهارًا في أي مكان.",
+      "history": "تأسست Capella Space عام 2016 وتشغّل أقمار SAR بنطاق X تقدّم صورًا عالية الدقة بغض النظر عن الطقس أو الإضاءة. أُطلق أول قمر لها عام 2018، وطوّرت الشركة كوكبة توفّر توجيهًا سريعًا لعملاء الدفاع والاستخبارات. وبدعم من رأس المال الجريء ومقرها في سان فرانسيسكو، كانت Capella رائدة في التوجيه الآلي لـ SAR، ما يتيح طلب صور رادارية لأي موقع واستلامها خلال ساعات.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Capella Space",
+      "country": "États-Unis",
+      "sub_domain": "Imagerie SAR",
+      "short_description": "Programmation à haute fréquence de satellites SAR pour la défense et le renseignement.",
+      "technology": "SAR en bande X",
+      "why_relevant": "Un SAR à revisite rapide qui soutient la surveillance de jour comme de nuit, partout.",
+      "history": "Fondée en 2016, Capella Space exploite des satellites SAR en bande X fournissant des images haute résolution quelles que soient la météo et la luminosité. Son premier satellite a été lancé en 2018, et l'entreprise a développé une constellation offrant une programmation rapide aux clients de la défense et du renseignement. Soutenue par le capital-risque et basée à San Francisco, Capella a été pionnière de la programmation SAR automatisée, permettant de commander et recevoir des images radar de tout lieu en quelques heures.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "astroscale": {
+    "ar": {
+      "name": "Astroscale",
+      "country": "اليابان",
+      "sub_domain": "خدمة في المدار",
+      "short_description": "تُزيل الحطام الفضائي وتُقدّم خدمات الصيانة للأقمار العاملة في المدار.",
+      "technology": "الالتقاء المداري والإرساء والتقاط الحطام",
+      "why_relevant": "أول عرض تجاري للإرساء بجسم حطام وإخراجه من المدار.",
+      "history": "تأسست Astroscale عام 2013 في طوكيو، وأصبحت أول شركة تعرض التحامًا وإرساءً تجاريًا مع الحطام المداري. وأثبتت مهمتها ELSA-d عام 2021 تقنية الالتقاط المغناطيسي، وتستهدف البرامج اللاحقة صيانة نهاية العمر وإزالة الحطام. وتعمل Astroscale في اليابان وبريطانيا والولايات المتحدة مع وكالات الفضاء لإنشاء اقتصاد مستدام للخدمات في المدار، وجمعت تمويلات كبيرة.",
+      "hq_city": "طوكيو"
+    },
+    "fr": {
+      "name": "Astroscale",
+      "country": "Japon",
+      "sub_domain": "Maintenance en orbite",
+      "short_description": "Retire les débris spatiaux et assure la maintenance des satellites en orbite.",
+      "technology": "RPO, amarrage, capture de débris",
+      "why_relevant": "Première démonstration commerciale d'amarrage et de désorbitation de débris.",
+      "history": "Fondée en 2013 à Tokyo, Astroscale est devenue la première entreprise à démontrer un rendez-vous et un amarrage commerciaux avec des débris orbitaux. Sa mission ELSA-d, en 2021, a validé une technologie de capture magnétique, et les programmes suivants visent la maintenance en fin de vie et le retrait des débris. Présente au Japon, au Royaume-Uni et aux États-Unis, Astroscale travaille avec les agences spatiales pour établir une économie durable de services en orbite et a levé des fonds considérables.",
+      "hq_city": "Tokyo"
+    }
+  },
+  "pixxel": {
+    "ar": {
+      "name": "Pixxel",
+      "country": "الهند",
+      "sub_domain": "التصوير فائق الأطياف",
+      "short_description": "ينشر أقمارًا فائقة الأطياف لرسم البصمة الكيميائية للأرض.",
+      "technology": "مراقبة أرضية فائقة الأطياف",
+      "why_relevant": "يبيّن كيف يمكن للبيانات الطيفية كشف التسربات والمحاصيل والمعادن.",
+      "history": "تأسست Pixxel عام 2019 في بنغالورو، وتطوّر أقمارًا فائقة الأطياف تلتقط مئات النطاقات الطيفية لتحديد المواد والمحاصيل والتلوث من المدار. وبعد جمع عشرات الملايين وإطلاق مركبات تجريبية، بدأت كوكبتها Firefly التصوير التجاري. وتتعاون الشركة مع عملاء في الزراعة والتعدين والدفاع، ما يجعل الهند في مقدمة مراقبة الأرض المتقدمة والتحليلات الطيفية.",
+      "hq_city": "بنغالورو"
+    },
+    "fr": {
+      "name": "Pixxel",
+      "country": "Inde",
+      "sub_domain": "Imagerie hyperspectrale",
+      "short_description": "Déploie des satellites hyperspectraux pour cartographier l'empreinte chimique de la Terre.",
+      "technology": "EO hyperspectrale",
+      "why_relevant": "Montre comment les données spectrales détectent fuites, cultures et minéraux.",
+      "history": "Fondée en 2019 à Bengaluru, Pixxel développe des satellites hyperspectraux capturant des centaines de bandes spectrales pour identifier matériaux, cultures et pollutions depuis l'orbite. Après avoir levé des dizaines de millions et lancé des engins de démonstration, sa constellation Firefly a entamé l'imagerie commerciale. L'entreprise collabore avec des clients de l'agriculture, des mines et de la défense, positionnant l'Inde comme un leader de l'observation avancée de la Terre et de l'analytique spectrale.",
+      "hq_city": "Bengaluru"
+    }
+  },
+  "satellogic": {
+    "ar": {
+      "name": "Satellogic",
+      "country": "الأرجنتين",
+      "sub_domain": "مراقبة الأرض",
+      "short_description": "كوكبة تصوير عالية الدقة دون مستوى المتر تنطلق من أمريكا اللاتينية.",
+      "technology": "مراقبة أرضية بصرية دون المتر",
+      "why_relevant": "بطلة أمريكا اللاتينية في مراقبة الأرض التجارية عالية الدقة.",
+      "history": "تأسست Satellogic عام 2010 في بوينس آيرس، وتبني أقمار مراقبة أرضية دون المتر منخفضة الكلفة عبر التكامل الرأسي. أطلقت أول مركبة لها عام 2013، وطرحت أسهمها عبر SPAC عام 2022، وتشغّل كوكبة Aleph لتصوير عالي التكرار. وتخدم عملاء حكوميين وتجاريين حول العالم، وتدافع Satellogic عن وصول ميسور للبيانات والتحليلات الجيومكانية بقيادة أمريكا اللاتينية.",
+      "hq_city": "بوينس آيرس"
+    },
+    "fr": {
+      "name": "Satellogic",
+      "country": "Argentine",
+      "sub_domain": "Observation de la Terre",
+      "short_description": "Constellation d'imagerie sub-métrique haute résolution issue d'Amérique latine.",
+      "technology": "EO optique sub-métrique",
+      "why_relevant": "Le champion d'Amérique latine de l'EO commerciale haute résolution.",
+      "history": "Fondée en 2010 à Buenos Aires, Satellogic construit des satellites d'observation de la Terre sub-métriques à faible coût grâce à une intégration verticale. Elle a lancé son premier engin en 2013, est entrée en bourse via un SPAC en 2022 et exploite la constellation Aleph pour une imagerie à haute fréquence. Servant des clients publics et commerciaux du monde entier, Satellogic défend un accès abordable, piloté depuis l'Amérique latine, aux données et analyses géospatiales.",
+      "hq_city": "Buenos Aires"
+    }
+  },
+  "umbra": {
+    "ar": {
+      "name": "Umbra",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تصوير SAR",
+      "short_description": "رادار SAR عالي الدقة مع زيارات متكررة عبر حساس أصغر حجمًا.",
+      "technology": "رادار SAR عالي الدقة بنطاق X",
+      "why_relevant": "عملاء الدفاع والمناخ يقتنون كشفًا راداريًا سريعًا ومنخفض الكلفة للتغيرات.",
+      "history": "تأسست Umbra عام 2015 في سانتا باربرا، وتطوّر أقمار SAR مدمجة بنطاق X تقدّم صورًا رادارية عالية الدقة. أُطلق أول قمر لها عام 2021، وتوفّر الشركة توجيهًا سريعًا وإعادة زيارة متكررة لعملاء الدفاع والمناخ. وبتمويل من رأس المال الجريء وعقود دفاعية، تقدّم Umbra كشفًا ميسورًا للتغيرات ومراقبة في كل الأحوال الجوية من كوكبة متنامية من المركبات الرادارية الصغيرة.",
+      "hq_city": "سانتا باربرا"
+    },
+    "fr": {
+      "name": "Umbra",
+      "country": "États-Unis",
+      "sub_domain": "Imagerie SAR",
+      "short_description": "SAR haute résolution avec revisites fréquentes à partir d'un capteur plus compact.",
+      "technology": "SAR haute résolution en bande X",
+      "why_relevant": "Les clients de la défense et du climat achètent une détection de changement radar rapide et abordable.",
+      "history": "Fondée en 2015 à Santa Barbara, Umbra développe des satellites SAR compacts en bande X fournissant des images radar haute résolution. Son premier satellite a été lancé en 2021, et l'entreprise propose une programmation rapide et des revisites fréquentes pour les clients de la défense et du climat. Financée par le capital-risque et des contrats de défense, Umbra offre une détection de changement abordable et une surveillance par tous les temps depuis une constellation croissante de petits engins radar.",
+      "hq_city": "Santa Barbara"
+    }
+  },
+  "loft-orbital": {
+    "ar": {
+      "name": "Loft Orbital",
+      "country": "الولايات المتحدة",
+      "sub_domain": "عمليات المهام الفضائية",
+      "short_description": "مشغّل إطلاق مشترك يحمل حمولات العملاء على منصة أقمار موحدة.",
+      "technology": "أقمار YAM موحدة",
+      "why_relevant": "يحوّل المهام الفضائية إلى بساطة استئجار خادم.",
+      "history": "تأسست Loft Orbital عام 2017 وتشغّل منصات أقمار موحدة من سلسلة YAM تستضيف حمولات عملاء متعددة على إطلاقات مشتركة. ويتيح نموذج البنية الفضائية كخدمة للعملاء تنفيذ مهام دون بناء مركباتهم الخاصة. وبمكاتب في سان فرانسيسكو ودنفر وفرنسا، أطلقت Loft عدة مهام وجمعت تمويلات كبيرة لتبسيط الوصول إلى المدار وتسريعه.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Loft Orbital",
+      "country": "États-Unis",
+      "sub_domain": "Opérations de mission",
+      "short_description": "Opérateur de covoiturage spatial qui fait voler les charges utiles clients sur une plateforme satellite standardisée.",
+      "technology": "Satellites YAM standardisés",
+      "why_relevant": "Transforme les missions spatiales en la simplicité de louer un serveur.",
+      "history": "Fondée en 2017, Loft Orbital exploite des plateformes satellites standardisées, sa série YAM, qui hébergent plusieurs charges utiles clients sur des lancements partagés. Ce modèle d'infrastructure spatiale en tant que service permet aux clients de mener des missions sans construire leur propre engin. Avec des bureaux à San Francisco, Denver et en France, Loft a lancé plusieurs missions et levé des fonds importants pour simplifier et accélérer l'accès à l'orbite.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "vyoma": {
+    "ar": {
+      "name": "Vyoma",
+      "country": "ألمانيا",
+      "sub_domain": "السلامة الفضائية",
+      "short_description": "يتتبع الحطام الفضائي بحساسات بصرية ويقدّم إنذارات مبكرة ضد الاصطدام.",
+      "technology": "تتبع بصري للحطام",
+      "why_relevant": "يحمي قيمة المدار الأرضي المنخفض من تنامي أعداد الحطام الفضائي.",
+      "history": "تأسست Vyoma عام 2020 في ميونخ، وتبني شبكة من الحساسات البصرية وبرمجيات لتتبع الحطام الفضائي والتنبؤ بالاصطدامات. وترصد مقاريبها الأرضية الأجسام في المدار الأرضي المنخفض وتغذّي منصة بيانات تنبّه المشغّلين إلى الاقترابات الخطرة. ومع تنامي الحطام، تقدّم Vyoma خدمات الوعي بالوضع الفضائي لعملاء تجاريين وحكوميين في أوروبا.",
+      "hq_city": "ميونخ"
+    },
+    "fr": {
+      "name": "Vyoma",
+      "country": "Allemagne",
+      "sub_domain": "Sécurité spatiale",
+      "short_description": "Suit les débris spatiaux avec des capteurs optiques et fournit des alertes précoces de collision.",
+      "technology": "Suivi optique des débris",
+      "why_relevant": "Protège la valeur de l'orbite basse face à une population croissante de débris.",
+      "history": "Fondée en 2020 à Munich, Vyoma construit un réseau de capteurs optiques et des logiciels pour suivre les débris spatiaux et prévoir les collisions. Ses télescopes au sol surveillent les objets en orbite terrestre basse et alimentent une plateforme de données qui avertit les opérateurs des approches rapprochées. Face à la croissance des débris, Vyoma fournit des services de connaissance de la situation spatiale aux clients commerciaux et gouvernementaux européens.",
+      "hq_city": "Munich"
+    }
+  },
+  "sierra-space": {
+    "ar": {
+      "name": "Sierra Space",
+      "country": "الولايات المتحدة",
+      "sub_domain": "محطات فضاء تجارية",
+      "short_description": "مطوّرة المركبة الفضائية Dream Chaser والوحدات القابلة للنفخ للمحطات الفضائية.",
+      "technology": "مركبات بجسم رفع فضائي ووحدات قابلة للنفخ",
+      "why_relevant": "مركبة شحن معتمدة من ناسا تمهّد الطريق لاقتصاد تجاري في مدار LEO.",
+      "history": "تأسست Sierra Space عام 2021 كشركة منبثقة عن Sierra Nevada Corporation، وتطوّر المكوك Dream Chaser لإعادة تزويد ناسا بالبضائع ومسكن LIFE القابل للنفخ للمحطات التجارية. وأنجز Dream Chaser اختبارات رئيسية نحو أول مهمة له إلى محطة ISS. وبدعم استثماري كبير ومقرها في لويفيل بولاية كولورادو، تُعد Sierra Space محورية في خطط اقتصاد تجاري في المدار الأرضي المنخفض.",
+      "hq_city": "لويفيل"
+    },
+    "fr": {
+      "name": "Sierra Space",
+      "country": "États-Unis",
+      "sub_domain": "Stations spatiales commerciales",
+      "short_description": "Développeur de la navette spatiale Dream Chaser et de modules gonflables de station.",
+      "technology": "Corps portant, modules gonflables",
+      "why_relevant": "Une navette cargo certifiée NASA, voie vers une économie commerciale en LEO.",
+      "history": "Fondée en 2021 comme spin-off de Sierra Nevada Corporation, Sierra Space développe la navette Dream Chaser pour le ravitaillement cargo de la NASA et l'habitat gonflable LIFE pour les stations commerciales. Dream Chaser a franchi des étapes clés vers sa première mission vers l'ISS. Soutenue par des investissements majeurs et basée à Louisville, dans le Colorado, Sierra Space est au cœur des projets d'économie commerciale en orbite terrestre basse.",
+      "hq_city": "Louisville"
+    }
+  },
+  "isar-aerospace": {
+    "ar": {
+      "name": "Isar Aerospace",
+      "country": "ألمانيا",
+      "sub_domain": "الإطلاق",
+      "short_description": "يبني صاروخ Spectrum للإطلاقات المخصصة للأقمار الصناعية الصغيرة.",
+      "technology": "دفع بالأكسجين السائل والبروبان",
+      "why_relevant": "الإجابة الأوروبية الممولة من القطاع الخاص للإطلاق الصغير السيادي.",
+      "history": "تأسست Isar Aerospace عام 2018 في ميونخ، وتطوّر صاروخ Spectrum، وهو مركبة إطلاق من مرحلتين تعمل بمحركات LOX-بروبان لمهام مخصصة للأقمار الصغيرة. وجمعت الشركة أكثر من 400 مليون دولار في واحدة من أكبر جولات القطاع الفضائي الأوروبي، وأجرت اختبارات طيران مبكرة من النرويج. وتهدف Isar إلى توفير قدرة إطلاق أوروبية سيادية وتنافس على عقود إطلاق صغير مؤسسية وتجارية.",
+      "hq_city": "ميونخ"
+    },
+    "fr": {
+      "name": "Isar Aerospace",
+      "country": "Allemagne",
+      "sub_domain": "Lancement",
+      "short_description": "Construit la fusée Spectrum pour des lancements dédiés de petits satellites.",
+      "technology": "Propulsion LOX-propane",
+      "why_relevant": "La réponse européenne financée par des fonds privés pour un lancement léger souverain.",
+      "history": "Fondée en 2018 à Munich, Isar Aerospace développe la fusée Spectrum, un lanceur à deux étages propulsé par des moteurs LOX-propane pour des missions dédiées de petits satellites. L'entreprise a levé plus de 400 millions de dollars, l'un des plus grands tours spatiaux européens, et a mené des essais de vol précoces depuis la Norvège. Isar vise à offrir une capacité de lancement européenne souveraine et concourt pour des contrats institutionnels et commerciaux de petit lancement.",
+      "hq_city": "Munich"
+    }
+  },
+  "rocket-factory-augsburg": {
+    "ar": {
+      "name": "Rocket Factory Augsburg",
+      "country": "ألمانيا",
+      "sub_domain": "الإطلاق",
+      "short_description": "تطوّر صاروخ RFA One وحصلت أولًا على رخصة الإطلاق البحري في أوروبا.",
+      "technology": "أنظمة إطلاق مدارية",
+      "why_relevant": "مفهوم إطلاق بإنتاج متسلسل مصمم لمئات الرحلات سنويًا.",
+      "history": "تأسست Rocket Factory Augsburg عام 2018 في أوغسبورغ، وتطوّر صاروخ RFA One بإنتاج متسلسل ومحركات ذات احتراق مرحلي. وحصلت على أول رخصة إطلاق بحري في أوروبا وتقدمت في اختبارات المحركات المدمجة، رغم حادث على منصة الاختبار عام 2024 دمّر المرحلة الأولى. وبدعم من OHB ومستثمرين خاصين، تستهدف RFA إطلاقًا أوروبيًا عالي الوتيرة ومنخفض الكلفة للأقمار الصغيرة.",
+      "hq_city": "أوغسبورغ"
+    },
+    "fr": {
+      "name": "Rocket Factory Augsburg",
+      "country": "Allemagne",
+      "sub_domain": "Lancement",
+      "short_description": "Développe la fusée RFA One et a obtenu le premier permis de lancement offshore d'Europe.",
+      "technology": "Systèmes de lancement orbital",
+      "why_relevant": "Un concept de lancement en production en série conçu pour des centaines de vols par an.",
+      "history": "Fondée en 2018 à Augsbourg, Rocket Factory Augsburg développe la fusée RFA One en production en série avec des moteurs à combustion étagée. Elle a obtenu le premier permis de lancement offshore d'Europe et a progressé dans les essais moteurs intégrés, malgré un accident au banc d'essai en 2024 qui a détruit un premier étage. Soutenue par OHB et des investisseurs privés, RFA vise un lancement européen à cadence élevée et faible coût pour les petits satellites.",
+      "hq_city": "Augsburg"
+    }
+  },
+  "skyroot-aerospace": {
+    "ar": {
+      "name": "Skyroot Aerospace",
+      "country": "الهند",
+      "sub_domain": "الإطلاق",
+      "short_description": "أول شركة صواريخ هندية خاصة تصل إلى الفضاء بفضل صاروخ Vikram.",
+      "technology": "صواريخ سبر من المركّب الكربوني",
+      "why_relevant": "فتحت سوق الإطلاق الصغير التجاري في الهند.",
+      "history": "تأسست Skyroot Aerospace عام 2018 في حيدر أباد، وأصبحت أول شركة هندية خاصة تصل إلى الفضاء عندما طار صاروخها Vikram-S عام 2022. وباستخدام هياكل من المركّب الكربوني ومحركات مطبوعة ثلاثيًا، تطوّر عائلة Vikram لإطلاق الأقمار الصغيرة. وبدعم من مستثمرين هنود كبار، فتحت Skyroot سوق الإطلاق التجاري في الهند وتدعم الطموحات الفضائية الخاصة للبلاد.",
+      "hq_city": "حيدر أباد"
+    },
+    "fr": {
+      "name": "Skyroot Aerospace",
+      "country": "Inde",
+      "sub_domain": "Lancement",
+      "short_description": "Première entreprise indienne privée de fusées à atteindre l'espace avec Vikram.",
+      "technology": "Fusées-sondes en composite de carbone",
+      "why_relevant": "A ouvert le marché indien du petit lancement commercial.",
+      "history": "Fondée en 2018 à Hyderabad, Skyroot Aerospace est devenue la première entreprise privée indienne à atteindre l'espace lorsque sa fusée Vikram-S a volé en 2022. Utilisant des structures en composite de carbone et des moteurs imprimés en 3D, elle développe la famille Vikram pour le lancement de petits satellites. Soutenue par de grands investisseurs indiens, Skyroot a ouvert le marché indien du lancement commercial et porte les ambitions spatiales privées du pays.",
+      "hq_city": "Hyderabad"
+    }
+  },
+  "agnikul-cosmos": {
+    "ar": {
+      "name": "Agnikul Cosmos",
+      "country": "الهند",
+      "sub_domain": "الإطلاق",
+      "short_description": "تطوّر صاروخ Agnibaan بمحركات شبه مبردة مطبوعة ثلاثيًا.",
+      "technology": "محركات صواريخ مطبوعة ثلاثيًا",
+      "why_relevant": "أول إطلاق هندي خاص بمحرك مطبوع ثلاثيًا بالكامل.",
+      "history": "تأسست Agnikul Cosmos عام 2017 في تشيناي، وتطوّر صاروخ Agnibaan المزوّد بمحرك شبه مبرد مطبوع ثلاثيًا بالكامل من قطعة واحدة. وفي عام 2024 نفّذت أول إطلاق دون مداري خاص في الهند من سريهاريكوتا. وبدعم من رأس المال الجريء ومساندة ISRO، تركّز Agnikul على إطلاق الأقمار الصغيرة عند الطلب بمركبة مبسّطة سريعة التصنيع.",
+      "hq_city": "تشيناي"
+    },
+    "fr": {
+      "name": "Agnikul Cosmos",
+      "country": "Inde",
+      "sub_domain": "Lancement",
+      "short_description": "Développe la fusée Agnibaan avec des moteurs semi-cryogéniques imprimés en 3D.",
+      "technology": "Moteurs de fusée imprimés en 3D",
+      "why_relevant": "Premier lancement privé indien réussi avec un moteur entièrement imprimé en 3D.",
+      "history": "Fondée en 2017 à Chennai, Agnikul Cosmos développe la fusée Agnibaan, dotée d'un moteur semi-cryogénique entièrement imprimé en 3D en une seule pièce. En 2024, elle a réalisé le premier lancement suborbital privé d'Inde depuis Sriharikota. Soutenue par le capital-risque et appuyée par l'ISRO, Agnikul se concentre sur le lancement de petits satellites à la demande avec un véhicule simplifié et rapidement fabricable.",
+      "hq_city": "Chennai"
+    }
+  },
+  "pld-space": {
+    "ar": {
+      "name": "PLD Space",
+      "country": "إسبانيا",
+      "sub_domain": "الإطلاق",
+      "short_description": "حققت أول إطلاق صاروخي خاص في أوروبا بصاروخ Miura 1 ثم Miura 5.",
+      "technology": "صواريخ من دون المدارية إلى المدارية",
+      "why_relevant": "الوصول السيادي لجنوب أوروبا إلى المدار عبر صواريخ قابلة للاسترداد.",
+      "history": "تأسست PLD Space عام 2011 في إلتشي بإسبانيا، وأصبحت أول شركة أوروبية خاصة تطلق صاروخًا عندما طار Miura 1 دون مداري عام 2023. وتطوّر الآن Miura 5 الأكبر والقابل لإعادة الاستخدام جزئيًا للمهام المدارية. وبدعم من مستثمرين إسبان وأوروبيين، تهدف PLD Space إلى منح جنوب أوروبا وصولًا سياديًا قابلًا للاسترداد إلى الفضاء للحمولات الصغيرة.",
+      "hq_city": "إلتشي"
+    },
+    "fr": {
+      "name": "PLD Space",
+      "country": "Espagne",
+      "sub_domain": "Lancement",
+      "short_description": "A réalisé le premier lancement de fusée privé d'Europe, Miura 1, puis Miura 5.",
+      "technology": "Fusées suborbitales à orbitales",
+      "why_relevant": "L'accès souverain de l'Europe du Sud à l'orbite grâce à des fusées récupérables.",
+      "history": "Fondée en 2011 à Elche, en Espagne, PLD Space est devenue la première entreprise privée européenne à lancer une fusée lorsque Miura 1 a volé en suborbital en 2023. Elle développe désormais la plus grande Miura 5, partiellement réutilisable, pour des missions orbitales. Soutenue par des investisseurs espagnols et européens, PLD Space vise à offrir à l'Europe du Sud un accès souverain et récupérable à l'espace pour de petites charges utiles.",
+      "hq_city": "Elche"
+    }
+  },
+  "momentus": {
+    "ar": {
+      "name": "Momentus",
+      "country": "الولايات المتحدة",
+      "sub_domain": "لوجستيات الفضاء",
+      "short_description": "يوفر خدمات النقل والقطر داخل الفضاء نحو مدارات متعددة.",
+      "technology": "قاطرات دفع تعمل بالماء",
+      "why_relevant": "ينقل الأقمار الصغيرة إلى مدارات دقيقة بعد الإطلاق المشترك.",
+      "history": "تأسست Momentus عام 2017 في سان خوسيه، وتوفّر مركبات نقل مداري وخدمات نقل في الفضاء بدفع مائي. وطرحت أسهمها عام 2021 لكنها واجهت صعوبات فنية ومالية قبل أن تعيد التوجيه وتعيد الهيكلة. ونفّذت قاطراتها Vigoride عدة مهام لتسليم أقمار صغيرة إلى مدارات دقيقة بعد إطلاقات مشتركة، وإن كانت الشركة قد قلّصت عملياتها لاحقًا.",
+      "hq_city": "سان خوسيه"
+    },
+    "fr": {
+      "name": "Momentus",
+      "country": "États-Unis",
+      "sub_domain": "Logistique spatiale",
+      "short_description": "Fournit des services de transport et de remorquage dans l'espace vers des orbites arbitraires.",
+      "technology": "Remorqueurs à propulsion à eau",
+      "why_relevant": "Achemine les petits satellites vers des orbites de précision après un lancement partagé.",
+      "history": "Fondée en 2017 à San José, Momentus fournit des véhicules de transfert orbital et du transport spatial à propulsion à eau. Entrée en bourse en 2021, elle a connu des difficultés techniques et financières avant de se réorienter et de se restructurer. Ses remorqueurs Vigoride ont réalisé plusieurs missions pour livrer de petits satellites sur des orbites précises après des lancements partagés, même si l'entreprise a depuis réduit ses activités.",
+      "hq_city": "San Jose"
+    }
+  },
+  "the-exploration-company": {
+    "ar": {
+      "name": "The Exploration Company",
+      "country": "فرنسا",
+      "sub_domain": "كبسولات شحن",
+      "short_description": "تطوّر كبسولة Nyx المدارية القابلة لإعادة الاستخدام للشحن ورواد الفضاء.",
+      "technology": "كبسولات مدارية قابلة لإعادة الاستخدام",
+      "why_relevant": "كبسولة أوروبية معيارية تخدم المحطات التجارية في مدار LEO.",
+      "history": "تأسست The Exploration Company عام 2021، وتطوّر كبسولة Nyx المدارية القابلة لإعادة الاستخدام للشحن ولاحقًا للطواقم، لخدمة المحطات الفضائية التجارية. وبفريقين في بوردو وميونخ، فازت بعقود من وكالة الفضاء الأوروبية وعقود تجارية وجمعت تمويلات كبيرة. وصُممت Nyx لتكون معيارية وقابلة لإعادة التزويد بالوقود، ما يجعل الشركة الناشئة الفرنسية-الألمانية نظيرًا أوروبيًا لكبسولة Dragon من SpaceX.",
+      "hq_city": "بوردو"
+    },
+    "fr": {
+      "name": "The Exploration Company",
+      "country": "France",
+      "sub_domain": "Capsules cargo",
+      "short_description": "Développe Nyx, une capsule orbitale réutilisable pour le fret et les équipages.",
+      "technology": "Capsules orbitales réutilisables",
+      "why_relevant": "Capsule européenne modulaire au service des stations commerciales en LEO.",
+      "history": "Fondée en 2021, The Exploration Company développe Nyx, une capsule orbitale réutilisable pour le fret et à terme les équipages, au service des stations spatiales commerciales. Avec des équipes à Bordeaux et à Munich, elle a remporté des contrats de l'ESA et commerciaux et levé d'importants financements. Nyx est conçue pour être modulaire et ravitaillable, positionnant la startup franco-allemande comme un pendant européen du Dragon de SpaceX.",
+      "hq_city": "Bordeaux"
+    }
+  },
+  "axiom-space": {
+    "ar": {
+      "name": "Axiom Space",
+      "country": "الولايات المتحدة",
+      "sub_domain": "محطات تجارية",
+      "short_description": "ينظّم بعثات رواد فضاء خاصة ويبني محطات فضاء تجارية.",
+      "technology": "وحدات محطات وبعثات رواد فضاء",
+      "why_relevant": "أول وحدات تجارية تُرسى على محطة ISS ثم تنفصل لتصبح محطة مستقلة.",
+      "history": "تأسست Axiom Space عام 2016 في هيوستن، وتنظّم بعثات رواد فضاء خاصة إلى محطة الفضاء الدولية وتبني محطة تجارية. ونفّذت أول بعثة خاصة بالكامل إلى محطة ISS عام 2022، وتملك عقودًا من ناسا لوحدات محطة ستنفصل لاحقًا لتشكّل موقعًا مستقلًا. وبدعم استثماري كبير، تقود Axiom تسويق المدار الأرضي المنخفض.",
+      "hq_city": "هيوستن"
+    },
+    "fr": {
+      "name": "Axiom Space",
+      "country": "États-Unis",
+      "sub_domain": "Stations commerciales",
+      "short_description": "Organise des missions privées d'astronautes et construit des stations spatiales commerciales.",
+      "technology": "Modules de station, missions d'astronautes",
+      "why_relevant": "Premiers modules commerciaux prévus pour s'amarrer à l'ISS puis se détacher en station.",
+      "history": "Fondée en 2016 à Houston, Axiom Space organise des missions privées d'astronautes vers la Station spatiale internationale et construit une station commerciale. Elle a mené la première mission entièrement privée vers l'ISS en 2022 et détient des contrats de la NASA pour des modules de station qui finiront par se détacher pour former un avant-poste indépendant. Soutenue par des investissements majeurs, Axiom mène la commercialisation de l'orbite terrestre basse.",
+      "hq_city": "Houston"
+    }
+  },
+  "vast": {
+    "ar": {
+      "name": "Vast",
+      "country": "الولايات المتحدة",
+      "sub_domain": "محطات تجارية",
+      "short_description": "يبني محطة الفضاء الخاصة Haven، أول مسكن تجاري في مدار VLEO.",
+      "technology": "وحدات سكن خاصة",
+      "why_relevant": "تخطط لأول محطة مأهولة تجارية بالكامل قبل المنافسين الراسخين.",
+      "history": "تأسست Vast عام 2021، وتطوّر محطة الفضاء التجارية Haven بهدف إنشاء أول مسكن مأهول يبنيه القطاع الخاص في المدار الأرضي المنخفض. وأطلقت مهام تمهيدية وحجزت رحلات مع SpaceX، مستهدفةً عمليات مأهولة أبكر من كثير من المنافسين. وبدعم الملياردير جيد مكاليب ومقرها في لونغ بيتش بكاليفورنيا، تستكشف Vast مفاهيم الجاذبية الاصطناعية ووجهة خاصة في مدار LEO.",
+      "hq_city": "لونغ بيتش"
+    },
+    "fr": {
+      "name": "Vast",
+      "country": "États-Unis",
+      "sub_domain": "Stations commerciales",
+      "short_description": "Construit la station spatiale privée Haven, le premier habitat commercial en VLEO.",
+      "technology": "Modules d'habitat privés",
+      "why_relevant": "Prévoit la première station habitée entièrement commerciale avant les acteurs établis.",
+      "history": "Fondée en 2021, Vast développe la station spatiale commerciale Haven, visant le premier habitat habité construit par des acteurs privés en orbite terrestre basse. Elle a lancé des missions précurseurs et obtenu des vols SpaceX, visant des opérations habitées plus tôt que de nombreux concurrents. Soutenue par le milliardaire Jed McCaleb et basée à Long Beach, en Californie, Vast explore des concepts de gravité artificielle et une destination privée en LEO.",
+      "hq_city": "Long Beach"
+    }
+  },
+  "sidus-space": {
+    "ar": {
+      "name": "Sidus Space",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أقمار صناعية",
+      "short_description": "يبني منصات LizzieSat للمهام عند الطلب بما يشمل المجال الدفاعي.",
+      "technology": "منصة أقمار معيارية متعددة المهام بنمط LEGO",
+      "why_relevant": "منصة معيارية مبتكرة تتيح لأي جهة إطلاق حمولة بسرعة.",
+      "history": "تأسست Sidus Space عام 2012 في كيب كانافيرال بفلوريدا، وتبني منصة الأقمار الصغيرة LizzieSat لحمولات متعددة المهام عند الطلب بما يشمل الدفاع. وطرحت الشركة أسهمها عام 2021 وأطلقت مركبات LizzieSat تضم مكونات مطبوعة ثلاثيًا ومعالجة طرفية مدعومة بالذكاء الاصطناعي. وتقدّم Sidus تصنيع أقمار وخدمات بيانات من الطرف إلى الطرف، لتضع نفسها مزوّدًا مرنًا للعملاء الحكوميين والتجاريين.",
+      "hq_city": "كيب كانافيرال"
+    },
+    "fr": {
+      "name": "Sidus Space",
+      "country": "États-Unis",
+      "sub_domain": "Satellites",
+      "short_description": "Construit des plateformes LizzieSat pour des missions à la demande, y compris de défense.",
+      "technology": "Plateforme satellite modulaire multi-missions",
+      "why_relevant": "Une plateforme standardisée originale qui permet à chacun de faire voler une charge utile rapidement.",
+      "history": "Fondée en 2012 à Cap Canaveral, en Floride, Sidus Space construit la plateforme de petits satellites LizzieSat pour des charges utiles multi-missions à la demande, y compris de défense. L'entreprise est entrée en bourse en 2021 et a lancé des engins LizzieSat intégrant des composants imprimés en 3D et un traitement embarqué assisté par IA. Sidus propose une fabrication de satellites et des services de données de bout en bout, s'imposant comme un fournisseur flexible pour les clients publics et commerciaux.",
+      "hq_city": "Cape Canaveral"
+    }
+  },
+  "astroforge": {
+    "ar": {
+      "name": "AstroForge",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تنقيب الكويكبات",
+      "short_description": "تطمح إلى تكرير المعادن في الفضاء وإعادتها إلى الأرض.",
+      "technology": "تكرير في الفضاء",
+      "why_relevant": "أول شركة خاصة تضع نموذجًا أوليًا لناقلة في المدار في إطار تنقيب الكويكبات.",
+      "history": "تأسست AstroForge عام 2022، وتهدف إلى استخراج معادن مجموعة البلاتين من الكويكبات وتكريرها. وأطلقت مركبة تجريبية عام 2023 وتطوّر تقنية تكرير في الفضاء لتجنّب إعادة الخام الثقيل إلى الأرض. وبدعم من رأس المال الجريء ومقرها في هنتنغتون بيتش بكاليفورنيا، تسعى AstroForge إلى رؤية طويلة الأمد لاستخراج الموارد خارج الأرض رغم التحديات الفنية والاقتصادية الكبيرة.",
+      "hq_city": "هنتنغتون بيتش"
+    },
+    "fr": {
+      "name": "AstroForge",
+      "country": "États-Unis",
+      "sub_domain": "Extraction minière d'astéroïdes",
+      "short_description": "Vise à raffiner des métaux dans l'espace et à les ramener sur Terre.",
+      "technology": "Raffinage dans l'espace",
+      "why_relevant": "Première entreprise privée à placer un prototype de réservoir en orbite pour l'exploitation d'astéroïdes.",
+      "history": "Fondée en 2022, AstroForge vise à extraire et raffiner des métaux du groupe du platine sur des astéroïdes. Elle a lancé un engin de démonstration en 2023 et développe une technologie de raffinage dans l'espace afin d'éviter de ramener du minerai lourd sur Terre. Soutenue par le capital-risque et basée à Huntington Beach, en Californie, AstroForge poursuit une vision à long terme d'extraction de ressources hors Terre malgré d'importants défis techniques et économiques.",
+      "hq_city": "Huntington Beach"
+    }
+  },
+  "k2-space": {
+    "ar": {
+      "name": "K2 Space",
+      "country": "الولايات المتحدة",
+      "sub_domain": "منصات أقمار صناعية",
+      "short_description": "يبني منصات قياسية كبيرة للأقمار العملاقة وكوكباتها.",
+      "technology": "منصات أقمار كبيرة الحجم",
+      "why_relevant": "منصات منخفضة الكلفة وعالية الطاقة مهيأة للجيل المقبل من الأقمار.",
+      "history": "تأسست K2 Space عام 2022، وتبني منصات أقمار كبيرة وعالية الطاقة تهدف إلى خفض كلفة الميجاكونستليشنات ومهام الأمن القومي المتطلبة. وجمعت الشركة واحدة من أكبر جولات التمويل الأولي في القطاع، وتطوّر مركبات أكبر بكثير من الأقمار الصغيرة المعتادة. ومن مقرها في تورانس بكاليفورنيا، تريد K2 Space توفير الجيل المقبل من الأقمار عالية القدرة بأسعار الإنتاج الضخم.",
+      "hq_city": "تورانس"
+    },
+    "fr": {
+      "name": "K2 Space",
+      "country": "États-Unis",
+      "sub_domain": "Plateformes satellites",
+      "short_description": "Construit de grandes plateformes standard pour les méga-satellites et les constellations.",
+      "technology": "Plateformes satellites grand format",
+      "why_relevant": "Des plateformes à faible coût et haute puissance calibrées pour la prochaine génération de satellites.",
+      "history": "Fondée en 2022, K2 Space construit de grandes plateformes satellites à haute puissance destinées à réduire le coût des méga-constellations et des missions exigeantes de sécurité nationale. L'entreprise a levé l'un des plus importants tours de démarrage du secteur et développe des engins bien plus grands que les petits satellites habituels. Basée à Torrance, en Californie, K2 Space veut fournir la prochaine génération de satellites à haute capacité à des prix de production de masse.",
+      "hq_city": "Torrance"
+    }
+  },
+  "impulse-space": {
+    "ar": {
+      "name": "Impulse Space",
+      "country": "الولايات المتحدة",
+      "sub_domain": "قاطرات مدارية",
+      "short_description": "يبني القاطرتين المداريتين Helios و Mira للنقل داخل الفضاء.",
+      "technology": "قاطرات مبردة",
+      "why_relevant": "قاطرات عالية ΔV تَعِد بتسليمات عبر المدارات في اليوم نفسه ضمن الإطلاق المشترك.",
+      "history": "تأسست Impulse Space عام 2021 على يد توم مولر، المسؤول السابق عن الدفع في SpaceX، وتطوّر مركبتي النقل المداري Mira وHelios للنقل في الفضاء. وتهدف قاطراتها المبردة إلى نقل الأقمار إلى مدارات دقيقة بعد الإطلاقات المشتركة، مع مهام عالية ΔV مخطط لها. وبدعم تمويلي كبير ومقرها في ريدوندو بيتش بكاليفورنيا، تستهدف Impulse لوجستيات مدارية سريعة ومرنة.",
+      "hq_city": "ريدوندو بيتش"
+    },
+    "fr": {
+      "name": "Impulse Space",
+      "country": "États-Unis",
+      "sub_domain": "Remorqueurs orbitaux",
+      "short_description": "Construit les remorqueurs orbitaux Helios et Mira pour le transport spatial.",
+      "technology": "Remorqueurs cryogéniques",
+      "why_relevant": "Des remorqueurs à haut ΔV promettent des livraisons inter-orbites le jour même.",
+      "history": "Fondée en 2021 par Tom Mueller, ancien responsable de la propulsion chez SpaceX, Impulse Space développe les véhicules de transfert orbital Mira et Helios pour le transport spatial. Ses remorqueurs cryogéniques visent à déplacer les satellites vers des orbites précises après des lancements partagés, avec des missions à haut ΔV prévues. Soutenue par d'importants financements et basée à Redondo Beach, en Californie, Impulse cible une logistique orbitale rapide et flexible.",
+      "hq_city": "Redondo Beach"
+    }
+  },
+  "terran-orbital": {
+    "ar": {
+      "name": "Terran Orbital",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أقمار صناعية",
+      "short_description": "تصمم وتصنّع أقمارًا صغيرة لكوكبات دفاعية.",
+      "technology": "إنتاج ضخم للأقمار الصغيرة",
+      "why_relevant": "شريك تصنيع رئيسي لكوكبات الدفاع الأمريكية الكبيرة.",
+      "history": "تأسست Terran Orbital عام 2013، وتصمم وتصنّع أقمارًا صغيرة لكوكبات دفاعية كبيرة، داعمةً بشكل خاص برامج Lockheed Martin. وطرحت أسهمها عام 2022 وبنَت مصنعًا عالي الإنتاج في فلوريدا رغم الخسائر المالية. وفي عام 2024 استحوذت Lockheed Martin على الشركة، لتؤمّن قدرة رئيسية لتصنيع الأقمار الصغيرة في الولايات المتحدة من موقعها في بوكا راتون بفلوريدا.",
+      "hq_city": "بوكا راتون"
+    },
+    "fr": {
+      "name": "Terran Orbital",
+      "country": "États-Unis",
+      "sub_domain": "Satellites",
+      "short_description": "Conçoit et fabrique des petits satellites pour des constellations de défense.",
+      "technology": "Production en volume de petits satellites",
+      "why_relevant": "Partenaire de fabrication clé pour les grandes constellations de défense américaines.",
+      "history": "Fondée en 2013, Terran Orbital conçoit et fabrique de petits satellites pour de grandes constellations de défense, soutenant notamment les programmes de Lockheed Martin. Entrée en bourse en 2022, elle a construit une usine à haut volume en Floride, malgré des pertes financières. En 2024, Lockheed Martin a racheté l'entreprise, sécurisant une capacité clé de fabrication de petits satellites aux États-Unis depuis son site de Boca Raton, en Floride.",
+      "hq_city": "Boca Raton"
+    }
+  }
+}

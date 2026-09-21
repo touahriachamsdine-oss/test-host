@@ -128,6 +128,9 @@
     "sourceLabel": "Information source",
     "officialSiteLabel": "Official site",
     "teamLabel": "Research team",
+    "historyLabel": "History",
+    "locationLabel": "Headquarters",
+    "viewMapLabel": "Open in OpenStreetMap",
     "breadcrumbHome": "Home",
     "breadcrumbDomain": "Domain",
     "breadcrumbSeparator": "/"

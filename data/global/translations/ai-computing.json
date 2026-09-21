@@ -1,0 +1,706 @@
+{
+  "openai": {
+    "ar": {
+      "name": "OpenAI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "نماذج الذكاء الاصطناعي الحدودية",
+      "short_description": "مطوّرة نماذج GPT ومساعد ChatGPT، وهي واحدة من أبرز مختبرات أبحاث الذكاء الاصطناعي الحدودية.",
+      "technology": "تدريب مسبق لنماذج اللغات الكبيرة LLM، والتعلم من التغذية الراجعة البشرية RLHF، ونماذج الاستدلال",
+      "why_relevant": "عرّفت سباق الذكاء الاصطناعي الحديث؛ وتستخدم عائلتها من النماذج من قِبل المطورين في جميع أنحاء العالم.",
+      "history": "تأسست OpenAI في سان فرانسيسكو في ديسمبر 2015 على يد سام ألتمان وإيلون ماسك وغريغ بروكمان وإيليا سوتسكيفر وآخرين كمختبر أبحاث غير ربحي. أطلقت نموذج GPT-1 عام 2018 ثم GPT-2 عام 2019، وتحوّلت عام 2019 إلى هيكل ربحي مقيّد بدعم استثماري من مايكروسوفت بلغ مليار دولار. أُطلق ChatGPT في نوفمبر 2022 ووصل إلى 100 مليون مستخدم خلال شهرين، ثم جاء GPT-4 عام 2023، وجولة بقيمة 6.6 مليار دولار عام 2024 قدّرت الشركة بأكثر من 150 مليار دولار.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "OpenAI",
+      "country": "États-Unis",
+      "sub_domain": "Modèles d'IA de pointe",
+      "short_description": "Crée les modèles GPT et l'assistant ChatGPT ; l'un des principaux laboratoires de recherche en IA de pointe.",
+      "technology": "Pré-entraînement de LLM, RLHF, modèles de raisonnement",
+      "why_relevant": "Il définit la course moderne à l'IA ; sa famille de modèles est utilisée par les développeurs du monde entier.",
+      "history": "OpenAI a été fondée à San Francisco en décembre 2015 par Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever et d'autres, en tant que laboratoire de recherche à but non lucratif. Elle a publié GPT-1 en 2018 puis GPT-2 en 2019, avant d'adopter en 2019 une structure à but lucratif plafonné avec un investissement d'un milliard de dollars de Microsoft. ChatGPT a été lancé en novembre 2022 et a atteint 100 millions d'utilisateurs en deux mois, suivi de GPT-4 en 2023, puis d'un tour de 6,6 milliards de dollars en 2024 valorisant l'entreprise à plus de 150 milliards.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "anthropic": {
+    "ar": {
+      "name": "Anthropic",
+      "country": "الولايات المتحدة",
+      "sub_domain": "نماذج الذكاء الاصطناعي الحدودية",
+      "short_description": "صانعة عائلة نماذج Claude، بتركيز على سلامة الذكاء الاصطناعي وقابلية تفسيره.",
+      "technology": "الذكاء الاصطناعي الدستوري، والتعلم المعزز واسع النطاق",
+      "why_relevant": "تقدّم البديل القائم على السلامة أولًا في الذكاء الاصطناعي الحدودي مع اعتماد واسع لدى المؤسسات.",
+      "history": "تأسست Anthropic في سان فرانسيسكو عام 2021 على يد داريو ودانييلا أمودي وزملاء من باحثي OpenAI السابقين، وجعلت السلامة وقابلية التفسير جوهر مهمتها. ابتكرت الذكاء الاصطناعي الدستوري وأطلقت Claude في مارس 2023. استثمرت Google نحو 300 مليون دولار عام 2023، وتعهدت Amazon بما يصل إلى 4 مليارات دولار. أصبحت عائلتا Claude 3 وClaude 3.5 مستخدمتين على نطاق واسع في المؤسسات، وبحلول 2024 قُدّرت الشركة بأكثر من 18 مليار دولار.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Anthropic",
+      "country": "États-Unis",
+      "sub_domain": "Modèles d'IA de pointe",
+      "short_description": "À l'origine de la famille Claude, axée sur la sûreté et l'interprétabilité de l'IA.",
+      "technology": "IA constitutionnelle, RL à grande échelle",
+      "why_relevant": "Incarnation de l'alternative sécurité d'abord en IA de pointe, adoptée par les entreprises.",
+      "history": "Anthropic a été fondée à San Francisco en 2021 par d'anciens chercheurs d'OpenAI, Dario et Daniela Amodei et leurs collègues, avec la sûreté et l'interprétabilité au cœur de sa mission. Elle a introduit l'IA constitutionnelle et lancé Claude en mars 2023. Google a investi environ 300 millions de dollars en 2023 et Amazon s'est engagé à hauteur de 4 milliards. Les familles Claude 3 puis Claude 3.5 sont devenues des références en entreprise, et dès 2024 la société était valorisée à plus de 18 milliards de dollars.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "google-deepmind": {
+    "ar": {
+      "name": "Google DeepMind",
+      "country": "المملكة المتحدة",
+      "sub_domain": "أبحاث الذكاء الاصطناعي الحدودية",
+      "short_description": "مختبر أبحاث الذكاء الاصطناعي الذي يقف وراء AlphaFold وAlphaGo وعائلة نماذج Gemini.",
+      "technology": "التعلم المعزز، والتعلم العميق، ونمذجة طيّ البروتينات",
+      "why_relevant": "حاز على اعتراف بمستوى نوبل لعلوم الذكاء الاصطناعي؛ وغيّر AlphaFold مجال علم الأحياء.",
+      "history": "تأسس DeepMind في لندن عام 2010 على يد ديميس هاسابيس وشين ليغ ومصطفى سليمان، واستحوذت عليه Google عام 2014. صنع التاريخ عام 2016 عندما هزم AlphaGo بطل لعبة Go لي سيدول. ثم حلّ AlphaFold مشكلة التنبؤ بطيّ البروتينات، فنال هاسابيس وجون جمبر جائزة نوبل في الكيمياء 2024. وفي 2023 اندمج DeepMind مع Google Brain لتشكيل Google DeepMind الذي أطلق عائلة نماذج Gemini ولا يزال من مختبرات الأبحاث الحدودية الرائدة عالميًا.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "Google DeepMind",
+      "country": "Royaume-Uni",
+      "sub_domain": "Recherche en IA de pointe",
+      "short_description": "Laboratoire de recherche à l'origine d'AlphaFold, d'AlphaGo et de la famille Gemini.",
+      "technology": "Apprentissage par renforcement, deep learning, repliement des protéines",
+      "why_relevant": "Reconnaissance de niveau Nobel pour la science de l'IA ; AlphaFold a transformé la biologie.",
+      "history": "DeepMind a été fondée à Londres en 2010 par Demis Hassabis, Shane Legg et Mustafa Suleyman, puis rachetée par Google en 2014. Elle est entrée dans l'histoire en 2016 lorsque AlphaGo a battu le champion de Go Lee Sedol. AlphaFold a ensuite résolu la prédiction du repliement des protéines, valant à Hassabis et John Jumper le prix Nobel de chimie 2024. En 2023, DeepMind a fusionné avec Google Brain pour former Google DeepMind, à l'origine de la famille Gemini et toujours l'un des laboratoires de pointe mondiaux.",
+      "hq_city": "Londres"
+    }
+  },
+  "mistral-ai": {
+    "ar": {
+      "name": "Mistral AI",
+      "country": "فرنسا",
+      "sub_domain": "نماذج ذكاء اصطناعي مفتوحة الأوزان",
+      "short_description": "مطوّرة أوروبية لنماذج اللغات الكبيرة مفتوحة الأوزان ومساعدات البرمجة.",
+      "technology": "معماريات خليط الخبراء MoE، ونماذج لغات كبيرة مفتوحة الأوزان",
+      "why_relevant": "البطل الأوروبي الأول في الذكاء الاصطناعي، يقدم بدائل مفتوحة الأوزان أمام المختبرات المغلقة.",
+      "history": "تأسست Mistral AI في باريس في مايو 2023 على يد آرثر مينش وغيّوم لامبل وتيموثي لاكروا، وهم باحثون سابقون في Meta وDeepMind. جمعت 105 ملايين يورو بعد أسابيع من انطلاقها وأطلقت نموذج Mistral 7B مفتوح الأوزان. تلتها جولة بقيمة 415 مليون دولار في ديسمبر 2023 قدّرت الشركة بنحو ملياري دولار بمشاركة مايكروسوفت. أطلقت لاحقًا نماذج Mixtral بمعمارية خليط الخبراء ومساعد Le Chat، وأصبحت البطل الأوروبي الأول في الذكاء الاصطناعي.",
+      "hq_city": "باريس"
+    },
+    "fr": {
+      "name": "Mistral AI",
+      "country": "France",
+      "sub_domain": "Modèles d'IA à poids ouverts",
+      "short_description": "Développeur européen de grands modèles de langage à poids ouverts et d'assistants de code.",
+      "technology": "Mixture-of-experts, LLM à poids ouverts",
+      "why_relevant": "Champion européen de l'IA offrant des alternatives à poids ouverts face aux laboratoires fermés.",
+      "history": "Mistral AI a été fondée à Paris en mai 2023 par Arthur Mensch, Guillaume Lample et Timothée Lacroix, anciens chercheurs de Meta et DeepMind. Elle a levé 105 millions d'euros quelques semaines après son lancement et publié le modèle à poids ouverts Mistral 7B. Un tour de 415 millions de dollars a suivi en décembre 2023, valorisant la société près de 2 milliards, avec la participation de Microsoft. Elle a ensuite lancé les modèles Mixtral à mixture-of-experts et l'assistant Le Chat, devenant le champion européen de l'IA.",
+      "hq_city": "Paris"
+    }
+  },
+  "cohere": {
+    "ar": {
+      "name": "Cohere",
+      "country": "كندا",
+      "sub_domain": "نماذج لغات كبيرة للمؤسسات",
+      "short_description": "تبني نماذج لغات كبيرة متعددة اللغات وأنظمة استرجاع مصممة خصيصًا للمؤسسات.",
+      "technology": "التوليد المعزز بالاسترجاع RAG، ونماذج مؤسسية، والتضمينات embeddings",
+      "why_relevant": "رائدة في التوليد المعزز بالاسترجاع (RAG) لتطبيقات الذكاء الاصطناعي الحرجة للأعمال.",
+      "history": "تأسست Cohere في تورونتو عام 2019 على يد أيدن غوميز وإيفان تشانغ ونيك فروست، بناءً على مشاركة غوميز في تأليف ورقة Transformer. ركّزت على نماذج لغوية بمستوى المؤسسات بدل المنتجات الاستهلاكية، وكانت رائدة في التوليد المعزز بالاسترجاع. جمعت مئات الملايين من الدولارات ووصلت إلى تقييم 5.5 مليار دولار عام 2024، وتخدم عملاء مؤسسيين كبارًا بنماذج Command ومنصات التضمين.",
+      "hq_city": "تورونتو"
+    },
+    "fr": {
+      "name": "Cohere",
+      "country": "Canada",
+      "sub_domain": "LLM d'entreprise",
+      "short_description": "Conçoit des LLM multilingues et des systèmes de récupération adaptés aux entreprises.",
+      "technology": "RAG, LLM d'entreprise, embeddings",
+      "why_relevant": "Pionnier du RAG pour une IA critique en entreprise.",
+      "history": "Cohere a été fondée à Toronto en 2019 par Aidan Gomez, Ivan Zhang et Nick Frosst, en s'appuyant sur la co-signature par Gomez de l'article Transformer. Elle s'est concentrée sur des modèles de langage de niveau entreprise plutôt que grand public et a été pionnière du RAG. La société a levé des centaines de millions de dollars, atteignant une valorisation de 5,5 milliards en 2024, et sert de grands clients avec ses modèles Command et ses plateformes d'embeddings.",
+      "hq_city": "Toronto"
+    }
+  },
+  "hugging-face": {
+    "ar": {
+      "name": "Hugging Face",
+      "country": "الولايات المتحدة",
+      "sub_domain": "منصة تعلم آلي",
+      "short_description": "تستضيف أكبر مستودع مفتوح لنماذج التعلم الآلي ومجموعات البيانات ومكتبة Transformers.",
+      "technology": "مركز نماذج مفتوح، ومكتبة Transformers",
+      "why_relevant": "المركز المحايد الافتراضي للأوزان المفتوحة ومخرجات الأبحاث.",
+      "history": "تأسست Hugging Face في نيويورك عام 2016 على يد كليمان دولانغ وجوليان شومون وتوماس وولف، وبدأت كشركة روبوتات محادثة. تحوّلت عام 2018 إلى المصادر المفتوحة بإطلاق مكتبة Transformers ثم مركز Hugging Face Hub. أصبحت المنصة المقرّ الافتراضي للنماذج المفتوحة ومجموعات البيانات والعروض التجريبية، وتستضيف ملايين المخرجات. جمعت أكثر من 395 مليون دولار وبلغت تقييم 4.5 مليار دولار عام 2023، وتتعاون مع كل مختبرات الذكاء الاصطناعي الكبرى.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Hugging Face",
+      "country": "États-Unis",
+      "sub_domain": "Plateforme ML",
+      "short_description": "Héberge le plus grand dépôt ouvert de modèles ML, de jeux de données et de la bibliothèque Transformers.",
+      "technology": "Hub de modèles ouvert, Transformers",
+      "why_relevant": "Le hub neutre de référence pour les poids ouverts et les artefacts de recherche.",
+      "history": "Hugging Face a été fondée à New York en 2016 par Clément Delangue, Julien Chaumond et Thomas Wolf, à l'origine comme startup de chatbots. Elle s'est tournée en 2018 vers l'open source en publiant la bibliothèque Transformers puis le Hugging Face Hub. La plateforme est devenue le foyer par défaut des modèles ouverts, des jeux de données et des démos, hébergeant des millions d'artefacts. Elle a levé plus de 395 millions de dollars, atteignant 4,5 milliards de valorisation en 2023, et collabore avec tous les grands laboratoires d'IA.",
+      "hq_city": "New York"
+    }
+  },
+  "perplexity-ai": {
+    "ar": {
+      "name": "Perplexity AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "محرك إجابات بالذكاء الاصطناعي",
+      "short_description": "تبني محرك إجابات يبحث في الويب مع مصادر موثّقة في الوقت الفعلي.",
+      "technology": "نموذج لغات كبيرة + استرجاع الويب المباشر",
+      "why_relevant": "ابتكرت فئة البحث بالإجابات الموثّقة وأعادت تشكيل البحث الاستهلاكي.",
+      "history": "تأسست Perplexity AI في سان فرانسيسكو عام 2022 على يد أرافيند سرينيفاس ودينيس ياراتس وجوني هو وأندي كونينسكي، بهدف إعادة ابتكار البحث على الويب بالمصادر الموثّقة. أُطلق محرك الإجابات علنًا في ديسمبر 2022 ونما بسرعة خلال 2023. قدّرت جولة السلسلة B مطلع 2024 الشركة بنحو مليار دولار، تلتها جولة بقيمة 500 مليون دولار بتقييم مُعلن قدره 9 مليارات دولار. أطلقت لاحقًا متصفح Comet لتوسيع حضورها الاستهلاكي.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Perplexity AI",
+      "country": "États-Unis",
+      "sub_domain": "Moteur de réponses IA",
+      "short_description": "Moteur de réponses qui interroge le web avec des sources citées en temps réel.",
+      "technology": "LLM + recherche web en direct",
+      "why_relevant": "A créé le segment de la réponse sourcée et redéfini la recherche grand public.",
+      "history": "Perplexity AI a été fondée à San Francisco en 2022 par Aravind Srinivas, Denis Yarats, Johnny Ho et Andy Konwinski, avec l'ambition de réinventer la recherche web grâce aux citations. Son moteur de réponses a été lancé publiquement en décembre 2022 et a connu une croissance rapide en 2023. Un tour de série B début 2024 a valorisé la société près d'un milliard de dollars, suivi d'un tour de 500 millions à une valorisation annoncée de 9 milliards. Elle a ensuite lancé le navigateur Comet pour étendre sa présence grand public.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "xai": {
+    "ar": {
+      "name": "xAI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "نماذج الذكاء الاصطناعي الحدودية",
+      "short_description": "مطوّرة مساعد Grok والحاسوب العملاق Colossus.",
+      "technology": "نماذج لغات كبيرة، وعناقيد معالجات رسومية واسعة النطاق",
+      "why_relevant": "دفعت الإنتاجية التدريبية واسعة النطاق في فترة قياسية.",
+      "history": "تأسست xAI عام 2023 على يد إيلون ماسك وفريق من باحثي OpenAI وDeepMind وGoogle السابقين. أطلقت Grok في نوفمبر 2023 وبنَت بسرعة الحاسوب العملاق Colossus في ممفيس بـ 100 ألف معالج Nvidia H100. جمعت الشركة 6 مليارات دولار عام 2024 وتمويلًا إضافيًا في 2025، ووصل تقييمها المعلن إلى أكثر من 50 مليار دولار، مع دمج Grok في منصة X وتوسيع الإنتاجية التدريبية بقوة.",
+      "hq_city": "بالو ألتو"
+    },
+    "fr": {
+      "name": "xAI",
+      "country": "États-Unis",
+      "sub_domain": "Modèles d'IA de pointe",
+      "short_description": "Développeur de l'assistant Grok et du supercalculateur Colossus.",
+      "technology": "LLM, clusters GPU à grande échelle",
+      "why_relevant": "A repoussé le débit d'entraînement à grande échelle en un temps record.",
+      "history": "xAI a été fondée en 2023 par Elon Musk et une équipe d'anciens chercheurs d'OpenAI, DeepMind et Google. Elle a lancé Grok en novembre 2023 et a rapidement construit le supercalculateur Colossus à Memphis avec 100 000 GPU Nvidia H100. La société a levé 6 milliards de dollars en 2024 puis des fonds supplémentaires en 2025, atteignant une valorisation annoncée de plus de 50 milliards, tout en intégrant Grok à X et en accélérant fortement son débit d'entraînement.",
+      "hq_city": "Palo Alto"
+    }
+  },
+  "deepseek": {
+    "ar": {
+      "name": "DeepSeek",
+      "country": "الصين",
+      "sub_domain": "نماذج ذكاء اصطناعي مفتوحة الأوزان",
+      "short_description": "مطوّرة نماذج استدلال مفتوحة الأوزان تنافس المختبرات الحدودية بتكلفة منخفضة.",
+      "technology": "معماريات خليط الخبراء MoE، وتدريب منخفض التكلفة",
+      "why_relevant": "أثبتت أنه يمكن تدريب نماذج منافسة للحدود بأسلوب فعّال من حيث التكلفة.",
+      "history": "تأسست DeepSeek في هانغتشو عام 2023 على يد ليانغ وينفنغ بدعم من صندوق التحوط الكمي High-Flyer. أطلقت نماذجها المفتوحة DeepSeek Coder وDeepSeek-V2 المعروفة بتصاميم خليط الخبراء الفعّالة. وفي يناير 2025 أطلقت DeepSeek-R1، وهو نموذج استدلال دُرّب بجزء بسيط من تكاليف الحدود، ما أثار اهتمامًا عالميًا وردّ فعل حادًا في الأسواق. لا تزال الشركة قوة رائدة في الذكاء الاصطناعي المفتوح الأوزان والفعّال من حيث التكلفة.",
+      "hq_city": "هانغتشو"
+    },
+    "fr": {
+      "name": "DeepSeek",
+      "country": "Chine",
+      "sub_domain": "Modèles d'IA à poids ouverts",
+      "short_description": "Développeur de modèles de raisonnement à poids ouverts rivalisant avec les labos de pointe à faible coût.",
+      "technology": "Architectures MoE, entraînement économique",
+      "why_relevant": "A prouvé qu'on peut entraîner des modèles de niveau pointe de façon efficace.",
+      "history": "DeepSeek a été fondée en 2023 à Hangzhou par Liang Wenfeng, soutenue par le fonds quantitatif High-Flyer. Elle a publié ses modèles ouverts DeepSeek Coder et DeepSeek-V2, réputés pour leurs architectures mixture-of-experts efficaces. En janvier 2025, elle a lancé DeepSeek-R1, un modèle de raisonnement entraîné pour une fraction des coûts de pointe, ce qui a suscité un intérêt mondial et une forte réaction des marchés. La société reste une force majeure de l'IA ouverte et économique.",
+      "hq_city": "Hangzhou"
+    }
+  },
+  "moonshot-ai": {
+    "ar": {
+      "name": "Moonshot AI",
+      "country": "الصين",
+      "sub_domain": "نماذج لغات كبيرة لمساعدات الذكاء الاصطناعي",
+      "short_description": "مطوّرة مساعد Kimi المعروف بقدرته على فهم السياقات الطويلة.",
+      "technology": "محولات السياق الطويل",
+      "why_relevant": "المساعد الاستهلاكي الرائد للسياقات الطويلة في الصين.",
+      "history": "تأسست Moonshot AI في بكين في مارس 2023 على يد يانغ تشيلين، الباحث السابق في Google وMeta. أطلقت مساعد Kimi المعروف بنوافذ السياق الطويلة جدًا، والذي جذب سريعًا ملايين المستخدمين في الصين. جمعت الشركة أكثر من مليار دولار عبر جولات عدة، من بينها استثمارات من علي بابا وتينسنت، وبلغ تقييمها أكثر من 3 مليارات دولار بحلول 2024، ولا تزال لاعبًا رائدًا في مساعدات السياق الطويل.",
+      "hq_city": "بكين"
+    },
+    "fr": {
+      "name": "Moonshot AI",
+      "country": "Chine",
+      "sub_domain": "LLM d'assistants IA",
+      "short_description": "Développeur de l'assistant Kimi, réputé pour sa compréhension des longs contextes.",
+      "technology": "Transformers à long contexte",
+      "why_relevant": "Assistant grand public de référence pour les longs contextes en Chine.",
+      "history": "Moonshot AI a été fondée à Pékin en mars 2023 par Yang Zhilin, ancien chercheur chez Google et Meta. Elle a lancé l'assistant Kimi, remarquable pour ses très longues fenêtres de contexte, qui a rapidement attiré des millions d'utilisateurs en Chine. La société a levé plus d'un milliard de dollars en plusieurs tours, notamment auprès d'Alibaba et Tencent, atteignant une valorisation de plus de 3 milliards dès 2024, et reste un acteur majeur des assistants à long contexte.",
+      "hq_city": "Pékin"
+    }
+  },
+  "zhipu-ai": {
+    "ar": {
+      "name": "Zhipu AI",
+      "country": "الصين",
+      "sub_domain": "منصات ذكاء اصطناعي مفتوحة",
+      "short_description": "تبني عائلة النماذج المفتوحة GLM ومنصة مطورين للذكاء الاصطناعي.",
+      "technology": "نماذج لغات كبيرة مفتوحة، وواجهات برمجة للمطورين",
+      "why_relevant": "من أبرز مطوري النماذج المفتوحة في الصين، مع اعتماد واسع في التطبيقات.",
+      "history": "تأسست Zhipu AI في بكين عام 2019، وتعود جذورها إلى مختبر هندسة المعرفة في جامعة تسينغهوا. طوّرت عائلة النماذج المفتوحة GLM ومساعد ChatGLM، وأصبحت من أوائل مطوري نماذج اللغات الكبيرة في الصين. بدعم من علي بابا وتينسنت وغيرهما جمعت تمويلًا كبيرًا وأطلقت منصة مطورين مفتوحة. وكانت من أولى شركات الذكاء الاصطناعي الصينية التي تسعى للإدراج العام، مع توسيع منظومتها المفتوحة.",
+      "hq_city": "بكين"
+    },
+    "fr": {
+      "name": "Zhipu AI",
+      "country": "Chine",
+      "sub_domain": "Plateformes IA ouvertes",
+      "short_description": "Conçoit la famille de modèles ouverts GLM et une plateforme de développement IA.",
+      "technology": "LLM ouverts, API développeurs",
+      "why_relevant": "Parmi les principaux développeurs de modèles ouverts en Chine, avec une forte adoption applicative.",
+      "history": "Zhipu AI a été fondée à Pékin en 2019, ses racines remontant au laboratoire d'ingénierie des connaissances de l'université Tsinghua. Elle a développé la famille de modèles ouverts GLM et l'assistant ChatGLM, devenant l'un des premiers développeurs chinois de LLM. Soutenue par Alibaba, Tencent et d'autres, elle a levé des fonds importants et lancé une plateforme ouverte pour développeurs. Elle a été parmi les premières sociétés d'IA chinoises à viser une cotation publique, tout en élargissant son écosystème ouvert.",
+      "hq_city": "Pékin"
+    }
+  },
+  "minimax": {
+    "ar": {
+      "name": "MiniMax",
+      "country": "الصين",
+      "sub_domain": "ذكاء اصطناعي متعدد الوسائط",
+      "short_description": "تطوّر نماذج النصوص والصوت والفيديو، بما في ذلك مولّد الفيديو Hailuo.",
+      "technology": "نماذج توليد متعددة الوسائط",
+      "why_relevant": "تدفع التوليد متعدد الوسائط الاستهلاكي على نطاق عالمي.",
+      "history": "تأسست MiniMax في شنغهاي عام 2021 على يد يان جونجي وزملائه، مع تركيز على التوليد متعدد الوسائط. بنت نماذج abab النصية ومولّد الفيديو Hailuo والأدوات الصوتية المستخدمة على نطاق واسع في الصين. جمعت تمويلًا من علي بابا وتينسنت ومستثمرين آخرين وبلغت قيمة بمليارات الدولارات. ثم سعت للإدراج في هونغ كونغ، ما وضعها بين أبرز شركات الذكاء الاصطناعي التوليدي الصينية.",
+      "hq_city": "شنغهاي"
+    },
+    "fr": {
+      "name": "MiniMax",
+      "country": "Chine",
+      "sub_domain": "IA multimodale",
+      "short_description": "Développe des modèles texte, voix et vidéo, dont le générateur vidéo Hailuo.",
+      "technology": "Modèles de génération multimodale",
+      "why_relevant": "Accélère la génération multimodale grand public à l'échelle mondiale.",
+      "history": "MiniMax a été fondée à Shanghai en 2021 par Yan Junjie et ses collègues, en se concentrant sur la génération multimodale. Elle a conçu les modèles texte abab, le générateur vidéo Hailuo et des outils audio largement utilisés en Chine. La société a levé des fonds auprès d'Alibaba, Tencent et d'autres investisseurs et a atteint une valorisation de plusieurs milliards de dollars. Elle a ensuite visé une introduction en bourse à Hong Kong, se plaçant parmi les principales startups chinoises d'IA générative.",
+      "hq_city": "Shanghai"
+    }
+  },
+  "scale-ai": {
+    "ar": {
+      "name": "Scale AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "بنية بيانات وتدريب بالتغذية الراجعة البشرية",
+      "short_description": "توفّر بيانات تدريب عالية الجودة ووسمًا لأنظمة الذكاء الاصطناعي.",
+      "technology": "وسم البيانات، وخطوط التعلم من التغذية الراجعة البشرية RLHF",
+      "why_relevant": "طبقة البنية التحتية خلف معظم عمليات البيانات في الذكاء الاصطناعي الحدودي.",
+      "history": "تأسست Scale AI في سان فرانسيسكو عام 2016 على يد ألكسندر وانغ ولوسي غو، لتوفير وسم البيانات والتعليق عليها لأجل الذكاء الاصطناعي. أصبحت شريك البنية التحتية للبيانات للقيادة الذاتية والدفاع والمختبرات الحدودية، وتشغّل خطوط RLHF. وفي 2024 جمعت جولة بقيمة مليار دولار بتقييم 13.8 مليار دولار. وفي 2025 استثمرت Meta نحو 14.3 مليار دولار مقابل حصة 49%، وانضم وانغ إلى Meta لقيادة جهودها في الذكاء الفائق.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Scale AI",
+      "country": "États-Unis",
+      "sub_domain": "Infrastructure données & RLHF",
+      "short_description": "Fournit des données d'entraînement de haute qualité et de l'annotation pour les systèmes d'IA.",
+      "technology": "Annotation de données, pipelines RLHF",
+      "why_relevant": "La couche d'infrastructure derrière la plupart des opérations de données en IA de pointe.",
+      "history": "Scale AI a été fondée à San Francisco en 2016 par Alexandr Wang et Lucy Guo, fournissant de l'étiquetage et de l'annotation de données pour l'IA. Elle est devenue le partenaire d'infrastructure de données de la conduite autonome, de la défense et des laboratoires de pointe, alimentant les pipelines RLHF. En 2024, elle a levé un tour d'un milliard de dollars à une valorisation de 13,8 milliards. En 2025, Meta a investi environ 14,3 milliards pour une participation de 49 %, Wang rejoignant Meta pour diriger ses efforts en superintelligence.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "cerebras-systems": {
+    "ar": {
+      "name": "Cerebras Systems",
+      "country": "الولايات المتحدة",
+      "sub_domain": "حوسبة الذكاء الاصطناعي",
+      "short_description": "تبني محركًا بمقياس الرقاقة لتدريب النماذج الكبيرة واستدلالها.",
+      "technology": "سيليكون بمقياس الرقاقة، وأنظمة CS",
+      "why_relevant": "بديل حوسبي عالي النطاق الترددي لتدريب النماذج على مستوى الحدود.",
+      "history": "تأسست Cerebras Systems في سانيفيل عام 2015 على يد أندرو فيلدمان وزملائه، بمراهنة على السيليكون بمقياس الرقاقة. كشفت عن شريحة WSE عام 2019، وهي أكبر شبه موصل بُني على الإطلاق، لاستهداف تدريب الذكاء الاصطناعي. ويُبقي تصميمها بمقياس الرقاقة الذاكرة على الشريحة لتجنّب اختناقات التوصيل. سعت الشركة للإدراج العام في بورصة ناسداك خلال 2024-2025، وتزوّد بنية حوسبة عالية النطاق الترددي للتدريب والاستدلال، بما في ذلك لبرامج الذكاء الاصطناعي السيادي.",
+      "hq_city": "سانيفيل"
+    },
+    "fr": {
+      "name": "Cerebras Systems",
+      "country": "États-Unis",
+      "sub_domain": "Calcul IA",
+      "short_description": "Conçoit un moteur à l'échelle de la plaquette pour l'entraînement et l'inférence de grands modèles.",
+      "technology": "Silicium wafer-scale, systèmes CS",
+      "why_relevant": "Alternative de calcul à haute bande passante pour l'entraînement à l'échelle de pointe.",
+      "history": "Cerebras Systems a été fondée à Sunnyvale en 2015 par Andrew Feldman et ses collègues, misant sur le silicium à l'échelle de la plaquette. Elle a dévoilé la puce WSE en 2019, le plus grand semi-conducteur jamais construit, dédié à l'entraînement de l'IA. Sa conception à l'échelle de la plaquette garde la mémoire sur puce pour éviter les goulots d'étranglement d'interconnexion. La société a visé une cotation au Nasdaq en 2024-2025 et fournit un calcul à haute bande passante pour l'entraînement et l'inférence, y compris pour des programmes d'IA souveraine.",
+      "hq_city": "Sunnyvale"
+    }
+  },
+  "groq": {
+    "ar": {
+      "name": "Groq",
+      "country": "الولايات المتحدة",
+      "sub_domain": "استدلال الذكاء الاصطناعي",
+      "short_description": "تشغّل وحدة معالجة لغات فائقة السرعة لاستدلال نماذج اللغات الكبيرة.",
+      "technology": "مسرّعات استدلال من نوع LPU",
+      "why_relevant": "حقّقت إنتاجية رموز أسرع بمرتبة من الحجم في استدلال نماذج اللغات الكبيرة.",
+      "history": "تأسست Groq في ماونتن فيو عام 2016 على يد جوناثان روس، مهندس وحدة TPU السابق في Google. طوّرت وحدة معالجة اللغات LPU، وهي شريحة حتمية لاستدلال فائق السرعة لنماذج اللغات الكبيرة. أظهرت العروض العامة عام 2024 إنتاجية رموز تفوق بكثير الأنظمة القائمة على المعالجات الرسومية. جمعت الشركة أكثر من 640 مليون دولار وبلغت تقييم 2.8 مليار دولار، ثم أطلقت خدمة GroqCloud للمطورين.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "Groq",
+      "country": "États-Unis",
+      "sub_domain": "Inférence IA",
+      "short_description": "Exploite une unité de traitement du langage ultrarapide pour l'inférence de LLM.",
+      "technology": "Accélérateurs d'inférence LPU",
+      "why_relevant": "Rendement en tokens nettement supérieur pour l'inférence de LLM.",
+      "history": "Groq a été fondée à Mountain View en 2016 par Jonathan Ross, ancien ingénieur des TPU chez Google. Elle a développé le Language Processing Unit, une puce déterministe pour une inférence de LLM très rapide. Des démonstrations publiques en 2024 ont montré un débit de tokens bien supérieur aux systèmes sur GPU. La société a levé plus de 640 millions de dollars et atteint une valorisation de 2,8 milliards, avant de lancer son service GroqCloud pour les développeurs.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "together-ai": {
+    "ar": {
+      "name": "Together AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "سحابة ذكاء اصطناعي",
+      "short_description": "سحابة غير خادمية لتدريب النماذج مفتوحة المصدر واستدلالها.",
+      "technology": "سحابة معالجات رسومية، وتقديم نماذج مفتوحة",
+      "why_relevant": "بيئة استدلال شائعة وبأسعار معقولة لبيئة النماذج المفتوحة.",
+      "history": "تأسست Together AI في سان فرانسيسكو عام 2022 على يد فيبول فيد براكاش وتسي تشانغ وبيري مهراد، بناءً على أبحاث المصادر المفتوحة. تقدّم سحابة غير خادمية لتدريب النماذج المفتوحة وتقديمها، إضافة إلى عناقيد معالجات رسومية للمؤسسات. جمعت 102.5 مليون دولار في جولة السلسلة A ثم 305 ملايين دولار عام 2025 بتقييم معلن قدره 3.3 مليار دولار، لتصبح بيئة تشغيل أساسية لمنظومة النماذج المفتوحة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Together AI",
+      "country": "États-Unis",
+      "sub_domain": "Cloud IA",
+      "short_description": "Cloud serverless pour l'entraînement et l'inférence de modèles open source.",
+      "technology": "Cloud GPU, service de modèles ouverts",
+      "why_relevant": "Runtime d'inférence abordable et prisé de l'écosystème de modèles ouverts.",
+      "history": "Together AI a été fondée à San Francisco en 2022 par Vipul Ved Prakash, Ce Zhang et Peri Mehrdad, en s'appuyant sur la recherche open source. Elle propose un cloud serverless pour entraîner et servir des modèles ouverts, ainsi que des clusters GPU pour les entreprises. La société a levé 102,5 millions de dollars en série A puis 305 millions en 2025 à une valorisation annoncée de 3,3 milliards, devenant un runtime clé de l'écosystème des modèles ouverts.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "anyscale": {
+    "ar": {
+      "name": "Anyscale",
+      "country": "الولايات المتحدة",
+      "sub_domain": "حوسبة موزعة",
+      "short_description": "مبتكرة Ray، محرك الحوسبة الموزعة لتوسيع نطاق أعباء عمل Python والذكاء الاصطناعي.",
+      "technology": "الحوسبة الموزعة عبر Ray",
+      "why_relevant": "يشكّل Ray أساس جزء كبير من بنية التعلم الآلي الحديثة.",
+      "history": "تأسست Anyscale في سان فرانسيسكو عام 2019 على يد روبرت نيشيهارا وفيليب موريتز وإيون ستويكا لتسويق إطار Ray للحوسبة الموزعة. تطوّرت الشركة من مختبر RISELab في جامعة بيركلي وجعلت Ray عمادًا للعديد من منصات التعلم الآلي. جمعت أكثر من 250 مليون دولار وبلغت تقييمًا يزيد على مليار دولار عام 2021، ثم توسّعت إلى خدمات Ray المُدارة لتوسيع أعباء الذكاء الاصطناعي.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Anyscale",
+      "country": "États-Unis",
+      "sub_domain": "Calcul distribué",
+      "short_description": "À l'origine de Ray, le moteur de calcul distribué qui met à l'échelle les workloads Python et IA.",
+      "technology": "Calcul distribué Ray",
+      "why_relevant": "Ray soutient l'essentiel de l'infrastructure ML moderne.",
+      "history": "Anyscale a été fondée à San Francisco en 2019 par Robert Nishihara, Philipp Moritz et Ion Stoica pour commercialiser Ray, le framework de calcul distribué. Issue du RISELab de l'université de Berkeley, elle a fait de Ray la colonne vertébrale de nombreuses plateformes ML. La société a levé plus de 250 millions de dollars et dépassé le milliard de valorisation en 2021, avant d'étendre son offre aux services Ray managés pour mettre à l'échelle les workloads IA.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "modal": {
+    "ar": {
+      "name": "Modal",
+      "country": "الولايات المتحدة",
+      "sub_domain": "حوسبة معالجات رسومية غير خادمية",
+      "short_description": "منصة غير خادمية لتشغيل أعباء عمل المعالجات الرسومية والمعالجات المركزية.",
+      "technology": "حاويات غير خادمية، وجدولة معالجات رسومية",
+      "why_relevant": "جعلت مهام المعالجات الرسومية المتوازية المؤقتة سهلة التشغيل.",
+      "history": "تأسست Modal في سان فرانسيسكو عام 2021 على يد إيريك بيرنهاردسون وأكشات بوبنا لجعل حوسبة المعالجات الرسومية غير الخادمية سهلة. تتيح منصتها للمطورين تشغيل دوال Python داخل حاويات عند الطلب، مع توسّع من الصفر إلى آلاف المعالجات. نمت سريعًا بين الشركات الناشئة والباحثين، وجمعت 25 مليون دولار في السلسلة A و87 مليون دولار في السلسلة B عام 2025، لتصبح طبقة حوسبة مؤقتة شائعة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Modal",
+      "country": "États-Unis",
+      "sub_domain": "Calcul GPU serverless",
+      "short_description": "Plateforme serverless pour exécuter des workloads GPU et CPU.",
+      "technology": "Conteneurs serverless, ordonnancement GPU",
+      "why_relevant": "Rend trivial l'exécution de tâches GPU parallèles éphémères.",
+      "history": "Modal a été fondée à San Francisco en 2021 par Erik Bernhardsson et Akshat Bubna pour rendre le calcul GPU serverless simple. Sa plateforme permet d'exécuter des fonctions Python conteneurisées à la demande, en passant de zéro à des milliers de GPU. Elle s'est rapidement imposée auprès des startups et des chercheurs et a levé 25 millions en série A puis 87 millions en série B en 2025, devenant une couche de calcul éphémère prisée pour l'IA.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "baseten": {
+    "ar": {
+      "name": "Baseten",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تقديم النماذج",
+      "short_description": "بنية تحتية لبناء تطبيقات الذكاء الاصطناعي وتقديمها في الإنتاج.",
+      "technology": "استدلال نماذج اللغات الكبيرة، وسجل النماذج",
+      "why_relevant": "بسّطت المسار من الضبط الدقيق إلى التقديم في الإنتاج.",
+      "history": "تأسست Baseten عام 2019 على يد توهين سريفاستافا وأمير حقيغات وبارناس ساداو لتبسيط نشر نماذج التعلم الآلي. تقدّم بنية تحتية لضبط النماذج وتقديمها وتوسيعها في الإنتاج مع التركيز على أداء الاستدلال. جمعت الشركة 40 مليون دولار عام 2024 ثم جولة بقيمة 75 مليون دولار، وأصبحت طبقة تقديم شائعة لتطبيقات الذكاء الاصطناعي والمنتجات العاملة بالوكلاء. كما تدعم تحسين أداء النماذج وتنسيق المعالجات الرسومية لأعباء العمل المتطلبة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Baseten",
+      "country": "États-Unis",
+      "sub_domain": "Service de modèles",
+      "short_description": "Infrastructure pour construire et déployer des applications IA en production.",
+      "technology": "Inférence LLM, registre de modèles",
+      "why_relevant": "A simplifié le chemin du fine-tuning au déploiement en production.",
+      "history": "Baseten a été fondée en 2019 par Tuhin Srivastava, Amir Haghighat et Parnas Sadau pour simplifier le déploiement de modèles ML. Elle fournit une infrastructure pour affiner, servir et mettre à l'échelle des modèles en production, avec un accent sur la performance d'inférence. La société a levé 40 millions de dollars en 2024 puis 75 millions, devenant une couche de service courante pour les applications d'IA et les produits agentiques. Elle prend aussi en charge l'optimisation des performances des modèles et l'orchestration GPU pour les charges exigeantes.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "fireworks-ai": {
+    "ar": {
+      "name": "Fireworks AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "استدلال الذكاء الاصطناعي",
+      "short_description": "تقديم استدلال سريع للنماذج مفتوحة المصدر والنماذج المخصصة.",
+      "technology": "تحسين استدلال نماذج اللغات الكبيرة",
+      "why_relevant": "حزمة تقديم عالية الإنتاجية للنماذج المفتوحة، مستخدمة على نطاق واسع من الشركات الناشئة.",
+      "history": "تأسست Fireworks AI في ريدوود سيتي عام 2022 على يد مهندسي PyTorch السابقين في Meta، بمن فيهم لين تشياو وديمترو إيفتشينكو. تقدّم استدلالًا عالي الإنتاجية ومنخفض الكمون للنماذج المفتوحة والمخصصة عبر حزمة تقديم محسّنة. جمعت الشركة 52 مليون دولار عام 2024 ثم 250 مليون دولار في السلسلة C عام 2025 بتقييم 4 مليارات دولار، وتخدم العديد من الشركات الناشئة والمؤسسات.",
+      "hq_city": "ريدوود سيتي"
+    },
+    "fr": {
+      "name": "Fireworks AI",
+      "country": "États-Unis",
+      "sub_domain": "Inférence IA",
+      "short_description": "Inférence rapide pour modèles open source et modèles personnalisés.",
+      "technology": "Optimisation de l'inférence de LLM",
+      "why_relevant": "Stack d'inférence à haut débit pour modèles ouverts, largement adoptée par les startups.",
+      "history": "Fireworks AI a été fondée à Redwood City en 2022 par d'anciens ingénieurs PyTorch de Meta, dont Lin Qiao et Dmytro Ivchenko. Elle offre une inférence à haut débit et faible latence pour les modèles ouverts et personnalisés via une pile de service optimisée. La société a levé 52 millions de dollars en 2024 puis 250 millions en série C en 2025 à une valorisation de 4 milliards, servant de nombreuses startups et entreprises.",
+      "hq_city": "Redwood City"
+    }
+  },
+  "reka-ai": {
+    "ar": {
+      "name": "Reka AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "نماذج متعددة الوسائط",
+      "short_description": "تبني نماذج أساس متعددة الوسائط من بيانات الصور والفيديو والصوت.",
+      "technology": "نماذج أساس متعددة الوسائط",
+      "why_relevant": "من أقوى المختبرات متعددة الوسائط القريبة من الأوساط الأكاديمية.",
+      "history": "تأسست Reka AI في ماونتن فيو عام 2022 على يد باحثين سابقين في DeepMind وGoogle وMeta، من بينهم داني يوغاتاما. تبني نماذج أساس متعددة الوسائط تعالج النصوص والصور والفيديو والصوت، وتقدّم نماذج مملوكة وأخرى مدمجة. جمعت الشركة 50 مليون دولار عام 2023 ثم 110 ملايين دولار عام 2024 بتقييم معلن قدره مليار دولار، مع شراكات سيادية ومؤسسية.",
+      "hq_city": "ماونتن فيو"
+    },
+    "fr": {
+      "name": "Reka AI",
+      "country": "États-Unis",
+      "sub_domain": "Modèles multimodaux",
+      "short_description": "Construit des modèles de fondation multimodaux à partir d'images, de vidéos et d'audio.",
+      "technology": "Modèles de fondation multimodaux",
+      "why_relevant": "L'un des laboratoires multimodaux les plus solides, proches du milieu académique.",
+      "history": "Reka AI a été fondée à Mountain View en 2022 par d'anciens chercheurs de DeepMind, Google et Meta, dont Dani Yogatama. Elle construit des modèles de fondation multimodaux traitant texte, images, vidéo et audio, et propose des modèles propriétaires comme compacts. La société a levé 50 millions de dollars en 2023 puis 110 millions en 2024 à une valorisation annoncée d'un milliard, avec des partenaires souverains et d'entreprise.",
+      "hq_city": "Mountain View"
+    }
+  },
+  "aleph-alpha": {
+    "ar": {
+      "name": "Aleph Alpha",
+      "country": "ألمانيا",
+      "sub_domain": "ذكاء اصطناعي سيادي",
+      "short_description": "مختبر ذكاء اصطناعي أوروبي يبني نماذج لغات شفافة وسيادية.",
+      "technology": "نماذج لغات كبيرة، وحزم ذكاء اصطناعي سيادية",
+      "why_relevant": "مدافعة رائدة عن سيادة البيانات الأوروبية في الذكاء الاصطناعي.",
+      "history": "تأسست Aleph Alpha في هايدلبرغ عام 2019 على يد يوناس أندروليس، ورسّخت نفسها بطلًا أوروبيًا للذكاء الاصطناعي السيادي. بنت عائلتي نماذج Luminous وPharia، وتقدّم ذكاءً شفافًا قابلًا للتشغيل محليًا للحكومات والصناعة. جمعت الشركة أكثر من 500 مليون دولار، منها جولة عام 2023 تجاوزت 500 مليون دولار، وعقدت شراكات مع مؤسسات ألمانية وأوروبية لتعزيز سيادة البيانات والامتثال التنظيمي.",
+      "hq_city": "هايدلبرغ"
+    },
+    "fr": {
+      "name": "Aleph Alpha",
+      "country": "Allemagne",
+      "sub_domain": "IA souveraine",
+      "short_description": "Laboratoire de recherche européen développant des modèles de langage transparents et souverains.",
+      "technology": "LLM, stacks d'IA souveraine",
+      "why_relevant": "Champion de la souveraineté des données européennes en IA.",
+      "history": "Aleph Alpha a été fondée à Heidelberg en 2019 par Jonas Andrulis, se positionnant comme le champion européen de l'IA souveraine. Elle a développé les familles de modèles Luminous et Pharia et propose une IA transparente, déployable sur site, pour les gouvernements et l'industrie. La société a levé plus de 500 millions de dollars, dont un tour supérieur à 500 millions en 2023, et s'est associée à des institutions allemandes et européennes pour promouvoir la souveraineté des données et la conformité.",
+      "hq_city": "Heidelberg"
+    }
+  },
+  "ai21-labs": {
+    "ar": {
+      "name": "AI21 Labs",
+      "country": "إسرائيل",
+      "sub_domain": "منصات نماذج اللغات الكبيرة",
+      "short_description": "مطوّرة عائلتي النماذج Jurassic وJamba وأدوات الكتابة بالذكاء الاصطناعي.",
+      "technology": "نماذج لغات كبيرة متعددة المعماريات",
+      "why_relevant": "رائدة إسرائيلية عريقة في نماذج اللغات الكبيرة التجارية.",
+      "history": "تأسست AI21 Labs في تل أبيب عام 2017 على يد أمنون شاشوا ويوآف شوهام وأوري غوشين. أطلقت نماذج Jurassic اللغوية ومساعد الكتابة Wordtune، ثم قدّمت معمارية Jamba الهجينة بين SSM وTransformer عام 2024. جمعت الشركة أكثر من 300 مليون دولار ووصلت إلى تقييم 1.4 مليار دولار عام 2023، ولا تزال رائدة إسرائيلية عريقة في الذكاء الاصطناعي التوليدي التجاري.",
+      "hq_city": "تل أبيب"
+    },
+    "fr": {
+      "name": "AI21 Labs",
+      "country": "Israël",
+      "sub_domain": "Plateformes LLM",
+      "short_description": "Développeur des familles de modèles Jurassic et Jamba et d'outils d'écriture IA.",
+      "technology": "LLM multi-architectures",
+      "why_relevant": "Pionnier israélien de longue date dans les LLM commerciaux.",
+      "history": "AI21 Labs a été fondée à Tel Aviv en 2017 par Amnon Shashua, Yoav Shoham et Ori Goshen. Elle a lancé les modèles de langage Jurassic et l'assistant d'écriture Wordtune, puis présenté l'architecture hybride SSM-Transformer Jamba en 2024. La société a levé plus de 300 millions de dollars et atteint une valorisation de 1,4 milliard en 2023, demeurant un pionnier israélien de l'IA générative commerciale.",
+      "hq_city": "Tel Aviv"
+    }
+  },
+  "writer": {
+    "ar": {
+      "name": "Writer",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ذكاء اصطناعي توليدي للمؤسسات",
+      "short_description": "منصة ذكاء اصطناعي توليدي للمؤسسات بنماذج مخصصة للمجالات.",
+      "technology": "توليد معزز بالاسترجاع للمؤسسات، ونماذج لغات كبيرة مضبوطة بدقة",
+      "why_relevant": "تركيز عميق على المؤسسات مع تحكم كامل بالنماذج المخصصة للمجالات.",
+      "history": "تأسست Writer في سان فرانسيسكو عام 2020 على يد ماي حبيب ووسيم الشيّخ. نمت من مساعد كتابة بالذكاء الاصطناعي إلى منصة ذكاء اصطناعي توليدي متكاملة للمؤسسات، بعائلة نماذج Palmyra وتوليد معزز بالاسترجاع قائم على رسم معرفي. جمعت 100 مليون دولار عام 2023 ثم 200 مليون دولار في السلسلة C عام 2024 بتقييم 1.9 مليار دولار، مع تركيز على نماذج مخصصة للمجالات وقابلة للتحكم للمؤسسات الكبرى.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Writer",
+      "country": "États-Unis",
+      "sub_domain": "IA générative d'entreprise",
+      "short_description": "Plateforme d'IA générative d'entreprise avec des modèles spécialisés par domaine.",
+      "technology": "RAG d'entreprise, LLM fine-tunés",
+      "why_relevant": "Focus marqué sur la maîtrise de modèles spécialisés pour les entreprises.",
+      "history": "Writer a été fondée à San Francisco en 2020 par May Habib et Waseem AlShikh. Elle est passée d'un assistant d'écriture IA à une plateforme complète d'IA générative d'entreprise, avec la famille de modèles Palmyra et un RAG fondé sur un graphe de connaissances. La société a levé 100 millions de dollars en 2023 puis 200 millions en série C en 2024 à une valorisation de 1,9 milliard, avec des modèles spécialisés et contrôlables pour les grandes entreprises.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "anysphere-cursor": {
+    "ar": {
+      "name": "Anysphere (Cursor)",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أدوات مطورين بالذكاء الاصطناعي",
+      "short_description": "مبتكرة محرر الأكواد Cursor المصمم حول الذكاء الاصطناعي.",
+      "technology": "تكامل بروتوكول LSP مع الأكواد، وعوامل نماذج اللغات الكبيرة",
+      "why_relevant": "دليل على أن مساعدات البرمجة بالذكاء الاصطناعي قادرة على تغيير اقتصاديات سير عمل المطورين.",
+      "history": "تأسست Anysphere في سان فرانسيسكو عام 2022 على يد مايكل ترويل وسليح آصف وأرفيد لينرماك وأمان سانغر، مبتكري محرر الأكواد Cursor. دمج Cursor وكلاء نماذج اللغات الكبيرة مباشرة في سير التحرير واكتسب اعتمادًا سريعًا بين المطورين. جمعت الشركة 60 مليون دولار في السلسلة A عام 2024 ثم 105 ملايين دولار بتقييم 2.5 مليار دولار مطلع 2025، تلتها جولة قدّرت قيمتها بنحو 10 مليارات دولار.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Anysphere (Cursor)",
+      "country": "États-Unis",
+      "sub_domain": "Outils de développement IA",
+      "short_description": "À l'origine de Cursor, l'éditeur de code pensé nativement pour l'IA.",
+      "technology": "Intégration LSP, agents LLM",
+      "why_relevant": "Preuve que l'IA d'aide au code peut transformer l'économie du travail des développeurs.",
+      "history": "Anysphere a été fondée à San Francisco en 2022 par Michael Truell, Sualeh Asif, Arvid Lunnemark et Aman Sanger, créateurs de l'éditeur de code Cursor. Cursor a intégré des agents LLM directement dans le flux d'édition et a été rapidement adopté par les développeurs. La société a levé 60 millions de dollars en série A en 2024 puis 105 millions à une valorisation de 2,5 milliards début 2025, suivis d'un tour la valorisant près de 10 milliards.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "cognition-ai": {
+    "ar": {
+      "name": "Cognition AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "عوامل برمجية ذكية",
+      "short_description": "مطوّرة Devin، وهو عامل برمجي مستقل لهندسة البرمجيات بالذكاء الاصطناعي.",
+      "technology": "عوامل برمجية مستقلة",
+      "why_relevant": "دفعت فكرة عوامل هندسة البرمجيات المستقلة بالكامل.",
+      "history": "تأسست Cognition AI في سان فرانسيسكو عام 2023 على يد سكوت وو وستيفن هاو ووالدن يان. كشفت عن Devin في مارس 2024 كأول مهندس برمجيات مستقل بالذكاء الاصطناعي، قادر على التخطيط وإنجاز مهام البرمجة من البداية إلى النهاية. جمعت الشركة 175 مليون دولار بتقييم ملياري دولار عام 2024، ثم استحوذت على Windsurf عام 2025، مواصلةً دفع وكلاء الهندسة المستقلة.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Cognition AI",
+      "country": "États-Unis",
+      "sub_domain": "Agents logiciels IA",
+      "short_description": "Développeur de Devin, un agent autonome d'ingénierie logicielle.",
+      "technology": "Agents logiciels autonomes",
+      "why_relevant": "A popularisé l'idée d'agents d'ingénierie entièrement autonomes.",
+      "history": "Cognition AI a été fondée à San Francisco en 2023 par Scott Wu, Steven Hao et Walden Yan. Elle a dévoilé Devin en mars 2024, présenté comme le premier ingénieur logiciel autonome par IA, capable de planifier et d'accomplir des tâches de code de bout en bout. La société a levé 175 millions de dollars à une valorisation de 2 milliards en 2024, puis racheté Windsurf en 2025, poursuivant le développement d'agents d'ingénierie autonomes.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "lovable": {
+    "ar": {
+      "name": "Lovable",
+      "country": "السويد",
+      "sub_domain": "منشئات تطبيقات بالذكاء الاصطناعي",
+      "short_description": "تمكّن غير المطورين من توليد تطبيقات ويب كاملة من نصوص تعليمات.",
+      "technology": "توليد الأكواد، وتجربة واجهة بالذكاء الاصطناعي",
+      "why_relevant": "من أسرع منصات التحويل من النص إلى التطبيق نموًا.",
+      "history": "تأسست Lovable في ستوكهولم عام 2023 على يد أنطون أوسيكا وفابيان هيدين، استنادًا إلى مشروع GPT Engineer مفتوح المصدر. تتيح منصتها التحويل من النص إلى التطبيق لغير المطورين توليد تطبيقات ويب كاملة ونشرها. نمت Lovable إلى ملايين المستخدمين وسجّلت نموًا سريعًا في الإيرادات، وجمعت 200 مليون دولار عام 2025 بتقييم 1.8 مليار دولار، لتصبح من أسرع شركات الذكاء الاصطناعي نموًا في أوروبا.",
+      "hq_city": "ستوكهولم"
+    },
+    "fr": {
+      "name": "Lovable",
+      "country": "Suède",
+      "sub_domain": "Constructeurs d'apps IA",
+      "short_description": "Permet aux non-développeurs de générer des applications web complètes à partir de prompts.",
+      "technology": "Génération de code, UX IA",
+      "why_relevant": "L'une des plateformes prompt-to-app à la croissance la plus rapide.",
+      "history": "Lovable a été fondée à Stockholm en 2023 par Anton Osika et Fabian Hedin, à partir du projet open source GPT Engineer. Sa plateforme prompt-to-app permet aux non-développeurs de générer et déployer des applications web complètes. Lovable a atteint des millions d'utilisateurs et une croissance rapide de son chiffre d'affaires, levant 200 millions de dollars en 2025 à une valorisation de 1,8 milliard, l'une des startups d'IA les plus rapides d'Europe.",
+      "hq_city": "Stockholm"
+    }
+  },
+  "replit": {
+    "ar": {
+      "name": "Replit",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أدوات مطورين بالذكاء الاصطناعي",
+      "short_description": "بيئة تطوير متكاملة سحابية مع ذكاء اصطناعي فاعل يبني التطبيقات وينشرها.",
+      "technology": "بيئة تطوير متصفحية، وعوامل ذكاء اصطناعي",
+      "why_relevant": "بسّطت البرمجة وإنشاء التطبيقات عبر المتصفح مع الذكاء الاصطناعي.",
+      "history": "تأسس Replit عام 2016 على يد أمجد مسعد وفارس مسعد وهايا عودة، مقدّمًا بيئة تطوير متكاملة تعاونية عبر المتصفح. أضاف Ghostwriter بالذكاء الاصطناعي ثم وكيل Replit الذي يبني التطبيقات وينشرها من تعليمات لغوية طبيعية. يخدم Replit عشرات الملايين من المستخدمين وجمع أكثر من 220 مليون دولار، ليصل إلى تقييم 1.16 مليار دولار عام 2023، مع توسيع منصته القائمة على الذكاء الاصطناعي.",
+      "hq_city": "فوستر سيتي"
+    },
+    "fr": {
+      "name": "Replit",
+      "country": "États-Unis",
+      "sub_domain": "Outils de développement IA",
+      "short_description": "IDE cloud avec une IA agentique qui construit et déploie des applications.",
+      "technology": "IDE navigateur, agents IA",
+      "why_relevant": "A simplifié le code et la création d'apps depuis le navigateur, boosté par l'IA.",
+      "history": "Replit a été fondée en 2016 par Amjad Masad, Faris Masad et Haya Odeh, proposant un IDE collaboratif dans le navigateur. Elle a ajouté l'IA Ghostwriter puis l'agent Replit, qui construit et déploie des applications à partir de prompts en langage naturel. Replit sert des dizaines de millions d'utilisateurs et a levé plus de 220 millions de dollars, atteignant une valorisation de 1,16 milliard en 2023, tout en étendant sa plateforme IA-first.",
+      "hq_city": "Foster City"
+    }
+  },
+  "elevenlabs": {
+    "ar": {
+      "name": "ElevenLabs",
+      "country": "المملكة المتحدة",
+      "sub_domain": "كلام بالذكاء الاصطناعي",
+      "short_description": "منصة صوتيات بالذكاء الاصطناعي لتحويل النص إلى كلام واقعي واستنساخ الأصوات.",
+      "technology": "تحويل عصبي للنص إلى كلام، واستنساخ الأصوات",
+      "why_relevant": "رسمت معيار الجودة للكلام الاصطناعي عبر اللغات.",
+      "history": "تأسست ElevenLabs في لندن عام 2022 على يد بيوتر دابكوفسكي وماتي ستانشيفسكي، بتركيز على تحويل النص إلى كلام عصبي واقعي واستنساخ الأصوات. رسمت نماذجها سريعًا معيارًا للجودة عبر لغات عديدة، وتوسّعت المنصة إلى الدبلجة ووكلاء الصوت وواجهات البرمجة. جمعت الشركة 19 مليون دولار في السلسلة A ثم 80 مليون دولار في السلسلة B عام 2024 بتقييم 1.1 مليار دولار، لتصبح رائدة في الذكاء الاصطناعي الصوتي.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "ElevenLabs",
+      "country": "Royaume-Uni",
+      "sub_domain": "Synthèse vocale IA",
+      "short_description": "Plateforme vocale IA pour une synthèse vocale réaliste et le clonage de voix.",
+      "technology": "TTS neuronal, clonage vocal",
+      "why_relevant": "A établi la référence en matière de voix synthétique toutes langues confondues.",
+      "history": "ElevenLabs a été fondée à Londres en 2022 par Piotr Dabkowski et Mati Staniszewski, avec pour objectif une synthèse vocale neuronale réaliste et le clonage de voix. Ses modèles ont vite établi une référence de qualité dans de nombreuses langues, et la plateforme s'est étendue au doublage, aux agents vocaux et aux API. La société a levé 19 millions en série A puis 80 millions en série B en 2024 à une valorisation de 1,1 milliard, devenant un leader de l'IA vocale.",
+      "hq_city": "Londres"
+    }
+  },
+  "synthesia": {
+    "ar": {
+      "name": "Synthesia",
+      "country": "المملكة المتحدة",
+      "sub_domain": "صور رمزية بالذكاء الاصطناعي",
+      "short_description": "تنتج مقاطع فيديو بجودة استوديوهات من النصوص باستخدام صور رمزية واقعية.",
+      "technology": "توليد الفيديو بالصور الرمزية، والعرض العصبي",
+      "why_relevant": "ابتكرت فئة فيديو الذكاء الاصطناعي للمؤسسات التي تستخدمها علامات تجارية كبرى.",
+      "history": "تأسست Synthesia في لندن عام 2017 على يد فيكتور ريباريبيلي وماتياس نيسنر ولورديس أغابيتو وشتيفن تشيريلد، محوّلة أبحاث العرض العصبي إلى منتج. تنتج فيديوهات بجودة الاستوديو من النصوص باستخدام صور رمزية بالذكاء الاصطناعي، وتستهدف التدريب والتواصل المؤسسي. جمعت الشركة 90 مليون دولار عام 2023 بتقييم مليار دولار، وتخدم آلاف المؤسسات من بينها علامات تجارية عالمية كبرى.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "Synthesia",
+      "country": "Royaume-Uni",
+      "sub_domain": "Avatars IA",
+      "short_description": "Produit des vidéos qualité studio à partir de texte, avec des avatars réalistes.",
+      "technology": "Génération vidéo d'avatars, rendu neuronal",
+      "why_relevant": "A créé la catégorie de la vidéo IA d'entreprise, utilisée par de grandes marques.",
+      "history": "Synthesia a été fondée à Londres en 2017 par Victor Riparbelli, Matthias Niessner, Lourdes Agapito et Steffen Tjerrild, transformant la recherche sur le rendu neuronal en produit. Elle crée des vidéos de qualité studio à partir de texte grâce à des avatars IA, destinées à la formation et à la communication d'entreprise. La société a levé 90 millions de dollars en 2023 à une valorisation d'un milliard et sert des milliers d'entreprises, dont de grandes marques mondiales.",
+      "hq_city": "Londres"
+    }
+  },
+  "runway": {
+    "ar": {
+      "name": "Runway",
+      "country": "الولايات المتحدة",
+      "sub_domain": "فيديو توليدي",
+      "short_description": "تبني سلسلة Gen من نماذج الفيديو التوليدية والأدوات الإبداعية.",
+      "technology": "الانتشار من النص إلى الفيديو",
+      "why_relevant": "رائدة في فيديو الذكاء الاصطناعي التوليدي الاستهلاكي قبل الموجة الحالية.",
+      "history": "تأسس Runway في نيويورك عام 2018 على يد كريستوبال فالينزويلا وأنستاسيس جيرمانيديس وأليخاندرو ماتامالا. أطلق نماذج الفيديو Gen-1 وGen-2 عام 2023، فجلب التحويل من النص إلى الفيديو إلى جمهور واسع، ثم نموذج Gen-3 Alpha. جمعت الشركة 141 مليون دولار في السلسلة C عام 2023 بتقييم 1.5 مليار دولار، وجولة بقيمة 308 ملايين دولار عام 2025، مع شراكات مع الاستوديوهات وشركات الإعلام.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Runway",
+      "country": "États-Unis",
+      "sub_domain": "Vidéo générative",
+      "short_description": "Développe la série Gen de modèles vidéo génératifs et d'outils créatifs.",
+      "technology": "Diffusion texte-vers-vidéo",
+      "why_relevant": "Pionnier de la vidéo générative grand public avant la vague actuelle.",
+      "history": "Runway a été fondée à New York en 2018 par Cristóbal Valenzuela, Anastasis Germanidis et Alejandro Matamala. Elle a publié les modèles vidéo Gen-1 et Gen-2 en 2023, démocratisant le texte-vers-vidéo, puis Gen-3 Alpha. La société a levé 141 millions de dollars en série C en 2023 à une valorisation de 1,5 milliard, puis 308 millions en 2025, en partenariat avec des studios et des groupes médias.",
+      "hq_city": "New York"
+    }
+  },
+  "luma-ai": {
+    "ar": {
+      "name": "Luma AI",
+      "country": "الولايات المتحدة",
+      "sub_domain": "فيديو توليدي",
+      "short_description": "مطوّرة مولّد الفيديو Dream Machine المنبثق من أبحاث NeurIPS.",
+      "technology": "محولات انتشار للفيديو",
+      "why_relevant": "تحويل نص إلى فيديو عالي الجودة مع واقعية فيزيائية قوية.",
+      "history": "تأسست Luma AI في بالو ألتو عام 2021 على يد أميت جاين وألبرتو تايوتي، مع تركيز أولي على العرض العصبي والتقاط ثلاثي الأبعاد بتقنية NeRF. أطلقت Dream Machine عام 2024، وهو مولّد فيديو من النص معروف بحركته الواقعية، فجذب ملايين المستخدمين. جمعت الشركة 43 مليون دولار في السلسلة B ثم جولة بقيمة 90 مليون دولار، لترسيخ مكانتها كمختبر رائد في الفيديو التوليدي.",
+      "hq_city": "بالو ألتو"
+    },
+    "fr": {
+      "name": "Luma AI",
+      "country": "États-Unis",
+      "sub_domain": "Vidéo générative",
+      "short_description": "Développeur du générateur vidéo Dream Machine, issu de recherches NeurIPS.",
+      "technology": "Transformers de diffusion vidéo",
+      "why_relevant": "Texte-vers-vidéo de haute qualité avec un réalisme physique marqué.",
+      "history": "Luma AI a été fondée à Palo Alto en 2021 par Amit Jain et Alberto Taiuti, d'abord axée sur le rendu neuronal et la capture 3D via la technologie NeRF. Elle a lancé Dream Machine en 2024, un générateur texte-vers-vidéo réputé pour son mouvement réaliste, qui a attiré des millions d'utilisateurs. La société a levé 43 millions en série B puis 90 millions, s'imposant comme un laboratoire majeur de la vidéo générative.",
+      "hq_city": "Palo Alto"
+    }
+  }
+}

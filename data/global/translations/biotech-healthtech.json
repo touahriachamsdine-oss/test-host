@@ -1,0 +1,706 @@
+{
+  "ginkgo-bioworks": {
+    "ar": {
+      "name": "Ginkgo Bioworks",
+      "country": "الولايات المتحدة",
+      "sub_domain": "هندسة الخلايا",
+      "short_description": "تُبرمج الخلايا مثل الكود البرمجي على نطاق صناعي لخدمة الأمن الحيوي وقطاع الأدوية الحيوية.",
+      "technology": "علم الأحياء التركيبي، أتمتة المصانع الحيوية",
+      "why_relevant": "أكبر منصة مفتوحة لهندسة الخلايا على مستوى العالم.",
+      "history": "تأسست Ginkgo عام 2008 على يد العالم توم نايت من معهد ماساتشوستس للتكنولوجيا وطلابه، وانبثقت من مجتمع علم الأحياء التركيبي في المعهد كـ«مصنع» يبرمج الخلايا مثل الكود البرمجي. توسّعت الشركة عبر عمليات الاستحواذ، ومنها Gen9 عام 2017 وZymergen عام 2022، ونمت خلال جائحة كوفيد-19 بفضل عقود ضخمة لاختبارات المراقبة. وفي عام 2021 أُدرجت في البورصة عبر شركة استحواذ مدعومة بمستثمرين كبار. وتدير Ginkgo اليوم أكبر منصة مفتوحة لهندسة الخلايا في العالم، لخدمة عملاء في الأدوية الحيوية والزراعة والأمن الحيوي.",
+      "hq_city": "بوسطن"
+    },
+    "fr": {
+      "name": "Ginkgo Bioworks",
+      "country": "États-Unis",
+      "sub_domain": "Ingénierie cellulaire",
+      "short_description": "Programme les cellules comme du code à l'échelle industrielle pour la biosécurité et la biopharmacie.",
+      "technology": "Biologie de synthèse, automatisation des fonderies",
+      "why_relevant": "La plus grande fonderie ouverte d'ingénierie cellulaire au monde.",
+      "history": "Fondée en 2008 par le scientifique du MIT Tom Knight et ses étudiants, Ginkgo est issue de la communauté de biologie de synthèse du MIT en tant que « fonderie » qui programme les cellules comme du code. Elle s'est développée par acquisitions, notamment Gen9 en 2017 et Zymergen en 2022, et a grandi pendant la pandémie de COVID-19 grâce à de gros contrats de tests de surveillance. En 2021, elle est entrée en Bourse via un SPAC soutenu par de grands investisseurs. Aujourd'hui, Ginkgo exploite la plus grande plateforme ouverte d'ingénierie cellulaire au monde, servant des clients en biopharmacie, agriculture et biosécurité.",
+      "hq_city": "Boston"
+    }
+  },
+  "twist-bioscience": {
+    "ar": {
+      "name": "Twist Bioscience",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تخليق الحمض النووي (DNA)",
+      "short_description": "تخليق الحمض النووي على شرائح السيليكون لتشغيل تسلسل الجيل الجديد والأجسام المضادة المهندسة.",
+      "technology": "تخليق الحمض النووي على الرقاقات",
+      "why_relevant": "أرست إنتاج الحمض النووي الاصطناعي على نطاق واسع للبحث العلمي ومعايير GMP.",
+      "history": "تأسست Twist عام 2013 بهدف تصغير تخليق الحمض النووي على شرائح السيليكون، لتطبع آلاف الخيوط الجديدة على شريحة واحدة. أطلقت منتجات تجارية للحمض النووي الاصطناعي، ثم توسعت إلى إثراء الأهداف لتسلسل الجيل الجديد واكتشاف الأجسام المضادة. أُدرجت الشركة في بورصة ناسداك عام 2018، ثم أضافت تصنيعًا وفق معايير GMP للاستخدام السريري والعلاجي. كما تعاونت Twist مع مايكروسوفت في تخزين البيانات الرقمية في الحمض النووي. وهي اليوم مورّد رائد للحمض النووي والحمض النووي الريبوزي والأجسام المضادة الاصطناعية على نطاق صناعي.",
+      "hq_city": "جنوب سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Twist Bioscience",
+      "country": "États-Unis",
+      "sub_domain": "Synthèse d'ADN",
+      "short_description": "Synthèse d'ADN sur silicium au service du séquençage nouvelle génération et des anticorps modifiés.",
+      "technology": "Synthèse d'ADN sur puce",
+      "why_relevant": "A démocratisé l'ADN synthétique à grande échelle pour la recherche et la production GMP.",
+      "history": "Fondée en 2013, Twist a entrepris de miniaturiser la synthèse d'ADN sur des wafers de silicium, imprimant des milliers de brins d'ADN inédits sur une seule puce. Elle a lancé des produits d'ADN synthétique commercial, puis s'est étendue à l'enrichissement ciblé pour le séquençage nouvelle génération et à la découverte d'anticorps. L'entreprise est entrée au Nasdaq en 2018 puis a ajouté une production GMP pour la recherche clinique et thérapeutique. Twist a aussi collaboré avec Microsoft sur le stockage de données numériques dans l'ADN. C'est aujourd'hui un fournisseur de premier plan d'ADN, d'ARN et d'anticorps synthétiques à l'échelle industrielle.",
+      "hq_city": "South San Francisco"
+    }
+  },
+  "recursion-pharmaceuticals": {
+    "ar": {
+      "name": "Recursion Pharmaceuticals",
+      "country": "الولايات المتحدة",
+      "sub_domain": "اكتشاف الأدوية بالذكاء الاصطناعي",
+      "short_description": "يستخدم تجارب مختبرية آلية وتعلمًا آليًا لاكتشاف الأدوية.",
+      "technology": "فحص وظائفي عالي الإنتاجية + تعلم آلي",
+      "why_relevant": "رائد في فحص الخريطة البيولوجية على نطاق واسع باستخدام الذكاء الاصطناعي.",
+      "history": "تأسست Recursion عام 2013 على يد كريستوفر جيبسون وزملائه، وبدأت بإجراء تجارب آلية دون فروض مسبقة في مختبر تحت الأرض، مولّدة مجموعات بيانات هائلة من تصوير الخلايا. أُدرجت الشركة في بورصة ناسداك عام 2021، واستحوذت على شركتي الذكاء الاصطناعي Cyclica وValence Labs في 2022-2023، ثم أقامت شراكة مع Nvidia عام 2024 لبناء نماذج أساسية بيولوجية ضخمة. أنتجت منصتها المستقلة عن المرض مرشحات سريرية متعددة طُوّرت مع شركاء مثل Bayer وRoche/Genentech. وتجمع Recursion اليوم بين الفحص الوظائفي عالي الإنتاجية والذكاء الاصطناعي على نطاق صناعي.",
+      "hq_city": "سولت ليك سيتي"
+    },
+    "fr": {
+      "name": "Recursion Pharmaceuticals",
+      "country": "États-Unis",
+      "sub_domain": "Découverte de médicaments par IA",
+      "short_description": "Combine expériences de laboratoire automatisées et apprentissage automatique pour découvrir des médicaments.",
+      "technology": "Phénomique haut débit + ML",
+      "why_relevant": "Pionnier du criblage de la carte du vivant à l'échelle grâce à l'IA.",
+      "history": "Fondée en 2013 par Christopher Gibson et ses associés, Recursion a commencé par mener des expériences automatisées sans hypothèse préalable dans un laboratoire en sous-sol, générant d'immenses jeux de données d'imagerie cellulaire. Cotée au Nasdaq en 2021, elle a acquis les sociétés d'IA Cyclica et Valence Labs en 2022-2023, puis s'est associée à Nvidia en 2024 pour bâtir de grands modèles de fondation biologiques. Sa plateforme indépendante de la maladie a produit plusieurs candidats cliniques développés avec des partenaires comme Bayer et Roche/Genentech. Recursion combine aujourd'hui phénomique à haut débit et apprentissage automatique à l'échelle industrielle.",
+      "hq_city": "Salt Lake City"
+    }
+  },
+  "insilico-medicine": {
+    "ar": {
+      "name": "Insilico Medicine",
+      "country": "هونغ كونغ",
+      "sub_domain": "اكتشاف الأدوية بالذكاء الاصطناعي",
+      "short_description": "منصة ذكاء اصطناعي توليدي متكاملة لاكتشاف الأهداف العلاجية وتصميم الأدوية.",
+      "technology": "كيمياء توليدية، اكتشاف الأهداف العلاجية",
+      "why_relevant": "أول دواء اكتشفه الذكاء الاصطناعي يصل إلى التجارب السريرية البشرية لعلاج التليّف.",
+      "history": "تأسست Insilico عام 2014 على يد أليكس زافورونكوف، وبنت واحدة من أوائل منصات الذكاء الاصطناعي التوليدية المتكاملة التي تغطي اكتشاف الأهداف والكيمياء التوليدية والتنبؤ السريري. أصبح مرشحها لعلاج التليف الرئوي مجهول السبب، المصمم بالذكاء الاصطناعي، أول دواء من هذا النوع يدخل التجارب السريرية البشرية عام 2021، وأعلنت نتائج إيجابية في المرحلة 2a عام 2024. وبفضل مستثمرين مثل Warburg Pincus وQiming Venture Partners، وقّعت الشركة اتفاقيات ترخيص بمليارات الدولارات مع كبرى شركات الأدوية. وهي تدفع اليوم خط أنابيب من الأدوية المولّدة بالذكاء الاصطناعي نحو الاعتماد.",
+      "hq_city": "هونغ كونغ"
+    },
+    "fr": {
+      "name": "Insilico Medicine",
+      "country": "Hong Kong",
+      "sub_domain": "Découverte de médicaments par IA",
+      "short_description": "Plateforme d'IA générative de bout en bout pour la découverte de cibles et la conception de médicaments.",
+      "technology": "Chimie générative, découverte de cibles",
+      "why_relevant": "Premier médicament découvert par IA à entrer en essais cliniques humains contre la fibrose.",
+      "history": "Fondée en 2014 par Alex Zhavoronkov, Insilico a construit l'une des premières plateformes d'IA générative de bout en bout, couvrant la découverte de cibles, la chimie générative et la prédiction clinique. Son candidat conçu par IA contre la fibrose pulmonaire idiopathique est devenu en 2021 le premier médicament de ce type à entrer en essais cliniques humains, avec des résultats positifs de Phase 2a en 2024. Soutenue par des investisseurs comme Warburg Pincus et Qiming Venture Partners, la société a signé des accords de licence d'un milliard de dollars avec de grandes pharmas. Elle fait désormais progresser un pipeline de médicaments générés par IA vers l'approbation.",
+      "hq_city": "Hong Kong"
+    }
+  },
+  "cradle-bio": {
+    "ar": {
+      "name": "Cradle Bio",
+      "country": "هولندا",
+      "sub_domain": "تصميم البروتينات بالذكاء الاصطناعي",
+      "short_description": "ذكاء اصطناعي توليدي لتصميم البروتينات وتحسينها بسرعة.",
+      "technology": "نماذج لغوية للبروتينات",
+      "why_relevant": "هدفها جعل هندسة البروتينات بنفس سهولة كتابة الأوامر النصية.",
+      "history": "تأسست Cradle عام 2021 في هولندا على يد ستيف فان غريكن، الرئيس التنفيذي السابق في جوجل، ومهندسي بروتينات، بهدف جعل هندسة البروتينات بنفس سهولة توجيه الأوامر للذكاء الاصطناعي. جمعت الشركة جولة تمويل من الفئة A بقيادة Index Ventures عام 2023 ووسّعت قاعدة مستثمريها في أوروبا والولايات المتحدة. تستخدم منصتها الذكاء الاصطناعي التوليدي مع تغذية راجعة من المختبرات لتتعلم نماذجها باستمرار من التجارب الفعلية. وتساعد تقنية Cradle عملاءها على تصميم إنزيمات وأجسام مضادة أسرع مع تحسين خصائص البروتينات الأساسية، لخدمة قاعدة متنامية من الشركاء الصناعيين والدوائيين.",
+      "hq_city": "دلفت"
+    },
+    "fr": {
+      "name": "Cradle Bio",
+      "country": "Pays-Bas",
+      "sub_domain": "Conception de protéines par IA",
+      "short_description": "IA générative pour concevoir et optimiser les protéines plus vite.",
+      "technology": "Modèles de langage des protéines",
+      "why_relevant": "Sa mission : rendre l'ingénierie des protéines aussi simple qu'une requête textuelle.",
+      "history": "Fondée en 2021 aux Pays-Bas par Stef van Grieken, ancien dirigeant de Google, et des ingénieurs en protéines, Cradle est née pour rendre l'ingénierie des protéines aussi simple qu'une requête à une IA. L'entreprise a levé une Série A menée par Index Ventures en 2023 et élargi sa base d'investisseurs en Europe et aux États-Unis. Sa plateforme d'IA générative s'appuie sur les retours du laboratoire pour que ses modèles apprennent en continu des expériences réelles. La technologie de Cradle aide ses clients à concevoir plus vite des enzymes et des anticorps tout en améliorant des propriétés protéiques clés, au service de nombreux partenaires industriels et biopharmaceutiques.",
+      "hq_city": "Delft"
+    }
+  },
+  "profluent": {
+    "ar": {
+      "name": "Profluent",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تصميم البروتينات بالذكاء الاصطناعي",
+      "short_description": "تُولّد بروتينات جديدة لتحرير الجينات، بما فيها أداة التحرير OpenCRISPR-1.",
+      "technology": "نماذج توليدية للبروتينات",
+      "why_relevant": "أصدرت أداة تحرير جيني صمّمها الذكاء الاصطناعي كمصدر مفتوح لصالح الجميع.",
+      "history": "تأسست Profluent عام 2022 على يد علي مدني، الباحث في الذكاء الاصطناعي الذي قاد سابقًا أعمال نماذج اللغة البروتينية وراء ProGen، بهدف تطبيق نماذج اللغة الكبيرة على ابتكار البروتينات. اجتذبت الشركة كفاءات رائدة في الحوسبة والمختبرات وجمعت عشرات ملايين الدولارات، بما فيها جولة عام 2024 بقيادة Insight Partners وAir Street Capital. وفي عام 2024 أصدرت OpenCRISPR-1، وهو محرر جيني مصمم بالذكاء الاصطناعي مبني على بنية Cas9، كمورد مفتوح متاح للجميع. وتواصل تطوير نماذج بروتينية توليدية لتحرير الجينات والمستحضرات الحيوية العلاجية.",
+      "hq_city": "بيركلي"
+    },
+    "fr": {
+      "name": "Profluent",
+      "country": "États-Unis",
+      "sub_domain": "Conception de protéines par IA",
+      "short_description": "Génère de nouvelles protéines pour l'édition génique, dont l'éditeur OpenCRISPR-1.",
+      "technology": "Modèles génératifs de protéines",
+      "why_relevant": "A open-sourcé un éditeur génique conçu par IA comme bien public.",
+      "history": "Fondée en 2022 par Ali Madani, chercheur en IA qui avait dirigé les travaux sur les modèles de langage des protéines derrière ProGen, Profluent a entrepris d'appliquer les grands modèles de langage à l'invention de protéines. La société a attiré des talents de pointe en science computationnelle et en laboratoire et a levé des dizaines de millions de dollars, dont une levée en 2024 menée par Insight Partners et Air Street Capital. En 2024, elle a publié en open source OpenCRISPR-1, un éditeur génique conçu par IA fondé sur l'architecture Cas9, offert comme bien public. Profluent poursuit le développement de modèles génératifs de protéines pour l'édition génique et les biologiques thérapeutiques.",
+      "hq_city": "Berkeley"
+    }
+  },
+  "generate-biomedicines": {
+    "ar": {
+      "name": "Generate:Biomedicines",
+      "country": "الولايات المتحدة",
+      "sub_domain": "علم الأحياء التوليدي",
+      "short_description": "يستخدم الذكاء الاصطناعي التوليدي لابتكار أدوية قابلة للبرمجة من الصفر.",
+      "technology": "تصميم توليدي للبروتينات",
+      "why_relevant": "علاجات بروتينية مبتكرة من الصفر بتصميم حسابي وتحقق مخبري.",
+      "history": "تأسست Generate:Biomedicines عام 2018 من قِبل Flagship Pioneering، وبنت منصة بيولوجيا توليدية تصمم بروتينات جديدة من الصفر بدل تعديل بروتينات الطبيعة. جمعت الشركة جولات تمويل كبيرة، منها 273 مليون دولار عام 2020 و370 مليونًا عام 2021، وأبرمت في 2022 تعاونًا متعدد البرامج مع Novartis بقيمة تصل إلى 1.5 مليار دولار. افتتحت منشأة تصنيع خاصة وفق معايير GMP لإنتاج مستحضراتها الحيوية المصممة حسابيًا. وتغذّي منصتها اليوم خط أنابيب يشمل الأورام والمناعة والأمراض النادرة، مع مرشحات متعددة في طريقها إلى العيادة.",
+      "hq_city": "سومرفيل"
+    },
+    "fr": {
+      "name": "Generate:Biomedicines",
+      "country": "États-Unis",
+      "sub_domain": "Biologie générative",
+      "short_description": "Utilise l'IA générative pour créer des médicaments programmables de novo.",
+      "technology": "Conception générative de protéines",
+      "why_relevant": "Thérapies protéiques de novo conçues par calcul puis validées en laboratoire.",
+      "history": "Fondée en 2018 par Flagship Pioneering, Generate:Biomedicines a bâti une plateforme de biologie générative qui conçoit des protéines de novo, à partir de zéro, plutôt que de modifier les protéines de la nature. Elle a sécurisé d'importants tours de financement, dont 273 millions de dollars en 2020 et 370 millions en 2021, et a conclu en 2022 une collaboration multiprogrammes avec Novartis valorisée jusqu'à 1,5 milliard de dollars. L'entreprise a ouvert sa propre usine GMP pour produire ses biologiques conçus par calcul. Sa plateforme alimente aujourd'hui un pipeline couvrant oncologie, immunologie et maladies rares, avec plusieurs candidats en route vers la clinique.",
+      "hq_city": "Somerville"
+    }
+  },
+  "abcellera": {
+    "ar": {
+      "name": "AbCellera",
+      "country": "كندا",
+      "sub_domain": "اكتشاف الأجسام المضادة",
+      "short_description": "منصة لاكتشاف الأجسام المضادة استنادًا إلى الخلية الواحدة، ساهمت في تطوير أجسام مضادة لكوفيد-19.",
+      "technology": "منصات فحص الخلية الواحدة",
+      "why_relevant": "أثبت التطوير السريع للأجسام المضادة أثناء الجائحة كفاءة منصتها.",
+      "history": "تأسست AbCellera عام 2012 انطلاقًا من جامعة كولومبيا البريطانية على يد الباحث في الموائع الدقيقة كارل هانسن، وبنت منصة الخلية الواحدة التي تستقصي ملايين الخلايا المنتجة للأجسام المضادة. برزت المنصة عام 2020 حين أنتج تعاونها مع Eli Lilly لمكافحة كوفيد-19 الجسم المضاد bamlanivimab في وقت قياسي. قاد هذا النجاح إلى طرح عام أولي مكتَتَب بالكامل في بورصة ناسداك في ديسمبر 2020، جمع أكثر من نصف مليار دولار. ومنذ ذلك الحين وقّعت AbCellera شراكات اكتشاف مع كبرى شركات الأدوية وطوّرت خط أنابيب علاجيًا داخليًا.",
+      "hq_city": "فانكوفر"
+    },
+    "fr": {
+      "name": "AbCellera",
+      "country": "Canada",
+      "sub_domain": "Découverte d'anticorps",
+      "short_description": "Découverte d'anticorps à l'échelle de la cellule unique, à l'origine des anticorps anti-COVID-19.",
+      "technology": "Plateformes de criblage sur cellule unique",
+      "why_relevant": "Le développement express d'anticorps pendant la pandémie a fait ses preuves.",
+      "history": "Fondée en 2012, issue de l'Université de la Colombie-Britannique par le chercheur en microfluidique Carl Hansen, AbCellera a bâti une plateforme de cellule unique qui interroge des millions de cellules productrices d'anticorps. La plateforme s'est illustrée en 2020 lorsque sa collaboration avec Eli Lilly contre la COVID-19 a produit l'anticorps bamlanivimab en un temps record. Ce succès a porté une introduction au Nasdaq sursouscrite en décembre 2020, levant plus d'un demi-milliard de dollars. AbCellera a depuis noué des partenariats de découverte dans toute la grande pharma et développé un pipeline thérapeutique interne.",
+      "hq_city": "Vancouver"
+    }
+  },
+  "mammoth-biosciences": {
+    "ar": {
+      "name": "Mammoth Biosciences",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تشخيصات CRISPR",
+      "short_description": "تبني أنظمة كشف قائمة على CRISPR، شارك في تأسيسها الحائزة على نوبل جينيفر دودنا.",
+      "technology": "تشخيصات CRISPR-Cas",
+      "why_relevant": "أجهزة استشعار CRISPR بدون خلايا لإجراء الفحوصات عند نقطة الرعاية.",
+      "history": "تأسست Mammoth عام 2017 على يد الحائزة على نوبل جينيفر دودنا وزملائها جانيس تشين ولوكاس هارينغتون وتريفور مارتن، وتبني أنظمة كشف قائمة على CRISPR تعتمد إنزيم Cas13. خلال جائحة كوفيد-19 طوّرت بسرعة اختبارات CRISPR عند نقطة الرعاية للكشف عن SARS-CoV-2، بما فيها تعاون مع UCSF. جمعت الشركة أكثر من 150 مليون دولار، بما فيها جولة من الفئة D عام 2021، وكشفت عن شراكات مع كبرى شركات الأدوية الحيوية مثل GSK. وتركّز اليوم على تشخيصات CRISPR سريعة ومنخفضة التكلفة للأمراض المعدية وغيرها.",
+      "hq_city": "جنوب سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Mammoth Biosciences",
+      "country": "États-Unis",
+      "sub_domain": "Diagnostics CRISPR",
+      "short_description": "Développe des systèmes de détection basés sur CRISPR, cofondée par la Prix Nobel Jennifer Doudna.",
+      "technology": "Diagnostics CRISPR-Cas",
+      "why_relevant": "Capteurs CRISPR acellulaires pour les tests au point de soins.",
+      "history": "Fondée en 2017 par la Prix Nobel Jennifer Doudna et ses collègues Janice Chen, Lucas Harrington et Trevor Martin, Mammoth développe des systèmes de détection CRISPR reposant sur l'enzyme Cas13. Pendant la pandémie de COVID-19, elle a rapidement mis au point des tests CRISPR au point de soins contre le SARS-CoV-2, notamment avec l'UCSF. L'entreprise a levé plus de 150 millions de dollars, dont une Série D en 2021, et a annoncé des partenariats avec de grandes biopharmas comme GSK. Elle se concentre aujourd'hui sur des diagnostics CRISPR rapides et peu coûteux pour les maladies infectieuses et au-delà.",
+      "hq_city": "South San Francisco"
+    }
+  },
+  "caribou-biosciences": {
+    "ar": {
+      "name": "Caribou Biosciences",
+      "country": "الولايات المتحدة",
+      "sub_domain": "العلاج الخلوي بـCRISPR",
+      "short_description": "تستخدم تحرير الجينات بتقنية CRISPR لتطوير علاجات خلوية جاهزة قابلة للمشاركة.",
+      "technology": "تحرير دقيق بتقنية CRISPR-Cas9",
+      "why_relevant": "مرشحات علاجية من نوع CAR-T خيفية مبنية بإدخال دقيق عبر CRISPR.",
+      "history": "تأسست Caribou عام 2011 كشركة منبثقة عن مختبر جينيفر دودنا في بيركلي، وطوّرت أدوات تحرير دقيقة بتقنية CRISPR-Cas9 وبنتها المعمارية chRDNA للعلاج الخلوي. تقدّمت مرشحاتها الخيفية CAR-T، وعلى رأسها CB-010، في تجارب المرحلة 1، فيما أكد تعاونها مع AbbVie عام 2021 جدوى نهجها. أُدرجت الشركة في بورصة ناسداك عام 2021 وجمعت تمويلات كبيرة لخط أنابيبها. وتركّز اليوم على تطوير علاجات خلوية جاهزة مهندسة بـCRISPR، لتصبح رائدة في CAR-T الخيفي المبني على إدخال دقيق بالتقنية.",
+      "hq_city": "بيركلي"
+    },
+    "fr": {
+      "name": "Caribou Biosciences",
+      "country": "États-Unis",
+      "sub_domain": "Thérapie cellulaire CRISPR",
+      "short_description": "Utilise l'édition génomique CRISPR pour développer des thérapies cellulaires allogéniques prêtes à l'emploi.",
+      "technology": "Édition de précision CRISPR-Cas9",
+      "why_relevant": "Candidats CAR-T allogéniques construits par insertion CRISPR de précision.",
+      "history": "Fondée en 2011 comme spin-off du laboratoire Berkeley de Jennifer Doudna, Caribou a développé des outils d'édition de précision CRISPR-Cas9, puis son architecture chRDNA pour la thérapie cellulaire. Ses candidats CAR-T allogéniques, menés par CB-010, ont progressé en essais de Phase 1, tandis qu'une collaboration avec AbbVie en 2021 a validé son approche. L'entreprise est entrée au Nasdaq en 2021 et a levé d'importants financements pour son pipeline. Elle se concentre aujourd'hui sur le développement de thérapies cellulaires prêtes à l'emploi, s'imposant comme un leader des CAR-T allogéniques à insertion CRISPR de précision.",
+      "hq_city": "Berkeley"
+    }
+  },
+  "benevolentai": {
+    "ar": {
+      "name": "BenevolentAI",
+      "country": "المملكة المتحدة",
+      "sub_domain": "اكتشاف الأدوية بالذكاء الاصطناعي",
+      "short_description": "يستخدم الرسوم البيانية المعرفية والذكاء الاصطناعي لاكتشاف علاجات جديدة من أدبيات علمية ضخمة.",
+      "technology": "رسوم بيانية معرفية طبية حيوية، تعلم آلي",
+      "why_relevant": "نموذج يُحتذى في الجمع بين الاستدلال الطبي الحيوي السببي والذكاء الاصطناعي.",
+      "history": "تأسست BenevolentAI في لندن على يد كين مولفاني وإيفان غريفين وجاكلين هنتر، وبنت رسمًا بيانيًا معرفيًا طبيًا حيويًا يشمل الأدبيات العلمية والبراءات والبيانات السريرية. أجرت تحليلات مبكرة لإعادة استخدام الأدوية ضد كوفيد-19، وأُدرجت في بورصة يورونكست أمستردام عام 2022 بعد اندماج مع شركة استحواذ. عزّزت الشركة منصة الذكاء الاصطناعي عبر عمليات الاستحواذ والتعاون مع شركاء مثل AstraZeneca وMerck KGaA. وتواصل تطبيق الاستدلال السببي بالذكاء الاصطناعي والتعلم الآلي لتسريع اكتشاف الأدوية وتطويرها.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "BenevolentAI",
+      "country": "Royaume-Uni",
+      "sub_domain": "Découverte de médicaments par IA",
+      "short_description": "S'appuie sur un graphe de connaissances et l'IA pour trouver de nouveaux traitements dans la littérature scientifique.",
+      "technology": "Graphes de connaissances biomédicales, ML",
+      "why_relevant": "Exemple type d'alliance entre raisonnement biomédical causal et IA.",
+      "history": "Fondée à Londres par Ken Mulvany, Ivan Griffin et Jacqueline Hunter, BenevolentAI a construit un graphe de connaissances biomédicales réunissant littérature scientifique, brevets et données cliniques. Elle a mené des analyses précoces de repositionnement de médicaments contre la COVID-19 et s'est cotée sur Euronext Amsterdam en 2022 après une combinaison avec un SPAC. L'entreprise a renforcé sa plateforme d'IA par des acquisitions et des collaborations avec des partenaires comme AstraZeneca et Merck KGaA. BenevolentAI continue d'appliquer raisonnement causal et apprentissage automatique pour accélérer la découverte et le développement de médicaments.",
+      "hq_city": "Londres"
+    }
+  },
+  "tempus": {
+    "ar": {
+      "name": "Tempus",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ذكاء اصطناعي للطب الدقيق",
+      "short_description": "يجمع البيانات السريرية والجزيئية لتوجيه قرارات الرعاية المدعومة بالذكاء الاصطناعي.",
+      "technology": "علم الجينوم السريري، ذكاء اصطناعي صحي",
+      "why_relevant": "بنى أكبر مجموعة بيانات جزيئية حقيقية في علم الأورام.",
+      "history": "تأسست Tempus عام 2015 في شيكاغو على يد إريك ليفكوفسكي، وجمعت واحدة من أكبر مكتبات البيانات السريرية والجزيئية في علم الأورام عالميًا. توسّعت الشركة في الفحوصات والتجارب والتحليلات المدعومة بالذكاء الاصطناعي، وأُدرجت في بورصة ناسداك عام 2021. أقامت تعاونًا واسعًا مع نظم الرعاية الصحية وتوسّعت في مطابقة التجارب السريرية وتطوير الأدوية. وتستخدم اليوم بياناتها الجزيئية الواقعية لتوجيه قرارات الرعاية المدعومة بالذكاء الاصطناعي لمرضى السرطان ونظم الصحة في مختلف أنحاء البلاد.",
+      "hq_city": "شيكاغو"
+    },
+    "fr": {
+      "name": "Tempus",
+      "country": "États-Unis",
+      "sub_domain": "IA en médecine de précision",
+      "short_description": "Collecte données cliniques et moléculaires pour éclairer les décisions de soins pilotées par l'IA.",
+      "technology": "Génomique clinique, IA santé",
+      "why_relevant": "A constitué la plus grande base de données moléculaires réelles en oncologie.",
+      "history": "Fondée en 2015 par Eric Lefkofsky à Chicago, Tempus a réuni l'une des plus grandes collections de données cliniques et moléculaires en oncologie au monde. L'entreprise s'est développée dans les tests, les essais et les analyses pilotées par l'IA, et est entrée au Nasdaq en 2021. Elle a tissé de vastes collaborations avec les systèmes de santé et s'est étendue à l'appariement d'essais cliniques et au développement de médicaments. Tempus utilise aujourd'hui sa base de données moléculaires réelles pour orienter les décisions de soins assistées par l'IA pour les patients atteints de cancer à travers le pays.",
+      "hq_city": "Chicago"
+    }
+  },
+  "grail": {
+    "ar": {
+      "name": "Grail",
+      "country": "الولايات المتحدة",
+      "sub_domain": "فحص السرطان",
+      "short_description": "تطوّر اختبار دم للكشف عن أنواع متعددة من السرطان في مراحلها المبكرة.",
+      "technology": "خزعة سائلة قائمة على المثيلة",
+      "why_relevant": "اختبار Galleri متعدد السرطانات هو رهان بمليارات الدولارات على الكشف المبكر.",
+      "history": "تأسست Grail عام 2016 كشركة منبثقة عن Illumina بهدف كشف السرطان مبكرًا عبر اختبار دم بسيط. يستخدم اختبارها Galleri أنماط مثيلة الحمض النووي لفحص أنواع متعددة من السرطان، وأظهرت تجارب سريرية مثل PATHFINDER قدرتها على رصد السرطانات العسيرة الاكتشاف والمبكرة. عادت الشركة إلى ملكية Illumina عام 2021، التي فصلتها لاحقًا عام 2024 تحت ضغوط تنظيمية. وتواصل اليوم تطوير الكشف المبكر متعدد السرطانات، مع دراسات تدخلية طويلة الأمد قيد التنفيذ وتوسيع نطاق الوصول إلى اختبار Galleri.",
+      "hq_city": "مينلو بارك"
+    },
+    "fr": {
+      "name": "Grail",
+      "country": "États-Unis",
+      "sub_domain": "Dépistage du cancer",
+      "short_description": "Développe un test sanguin capable de détecter plusieurs cancers à un stade précoce.",
+      "technology": "Biopsie liquide par méthylation",
+      "why_relevant": "Galleri, détection précoce multi-cancers, est un pari d'un milliard de dollars sur le dépistage.",
+      "history": "Fondée en 2016 comme spin-off d'Illumina pour détecter le cancer à un stade précoce à partir d'un simple test sanguin, Grail utilise son test Galleri, fondé sur les profils de méthylation de l'ADN, pour dépister plusieurs types de cancer. Des essais comme PATHFINDER ont montré la détection de cancers difficiles à trouver et à un stade précoce. La société est revenue dans le giron d'Illumina en 2021, qui l'a ensuite cédée en 2024 sous pression réglementaire. Grail poursuit aujourd'hui le dépistage précoce multi-cancers, avec des études interventionnelles longues en cours et un accès élargi à Galleri.",
+      "hq_city": "Menlo Park"
+    }
+  },
+  "freenome": {
+    "ar": {
+      "name": "Freenome",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الخزعة السائلة",
+      "short_description": "يكتشف السرطان من الدم باستخدام تعلم آلي على مؤشرات خلوية حرة.",
+      "technology": "مؤشرات متعددة عبر cfDNA + تعلم آلي",
+      "why_relevant": "يختبر فحصًا شاملًا للسرطانات من عينة دم واحدة.",
+      "history": "تأسست Freenome عام 2014، وتطوّر فحصًا شاملًا للدم للكشف عن السرطانات يجمع بين تحليل الحمض النووي الحر والتعلم الآلي ومصنّفات مدرّبة بالذكاء الاصطناعي. جمعت الشركة أكثر من 400 مليون دولار من مستثمرين مثل Andreessen Horowitz وRoche لتعزيز نهجها، وأظهرت تقنيتها أداءً قويًا في دراسات كبيرة للكشف عن السرطانات المبكرة والمتقدمة. تحلل منصتها مؤشرات جزيئية متعددة من عينة دم واحدة. وتستعد اليوم لتقديم ملفاتها التنظيمية مع توسيع التعاون البحثي عبر شبكات سريرية كبرى.",
+      "hq_city": "جنوب سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Freenome",
+      "country": "États-Unis",
+      "sub_domain": "Biopsie liquide",
+      "short_description": "Détecte le cancer à partir du sang grâce au machine learning sur les marqueurs acellulaires.",
+      "technology": "Multi-omique cfDNA + ML",
+      "why_relevant": "Valide un dépistage pan-cancer à partir d'une seule prise de sang.",
+      "history": "Fondée en 2014, Freenome développe un dépistage pan-cancer par prise de sang qui combine l'analyse de l'ADN acellulaire, le machine learning et des classifieurs entraînés par IA. L'entreprise a levé plus de 400 millions de dollars auprès d'investisseurs comme Andreessen Horowitz et Roche pour étayer son approche, et sa technologie a montré de solides performances dans de grandes études de détection de cancers précoces et avancés. Sa plateforme analyse de multiples indices moléculaires à partir d'une seule prise de sang. Elle prépare désormais ses soumissions réglementaires tout en élargissant ses collaborations de recherche.",
+      "hq_city": "South San Francisco"
+    }
+  },
+  "guardant-health": {
+    "ar": {
+      "name": "Guardant Health",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الخزعة السائلة",
+      "short_description": "تشخيصات مرافقة وكشف مبكر عن السرطان من عينة دم.",
+      "technology": "تسلسل cfDNA، المثيلة",
+      "why_relevant": "خزعة سائلة معتمدة للسداد على نطاق واسع تستخدم في عيادات الأورام.",
+      "history": "تأسست Guardant Health عام 2011، وكانت رائدة في الخزعة السائلة من عينة دم بسيطة عبر التنميط الجيني باستخدام تقنيات تفاعل البوليميراز المتسلسل والتسلسل. أصبح اختبارها Guardant360 أحد أكثر أدوات التنميط الجينومي استخدامًا وسدادًا في علم الأورام، وتوسعت الشركة نحو الكشف المبكر عن السرطان عبر منصة Shield. أُدرجت في البورصة عام 2018 وأطلقت منذ ذلك الحين دراسات فحص واسعة وتشخيصات مرافقة. وتدعم اليوم الرعاية الموجهة بالجينوم وفحصًا متعدد السرطانات لعيادات في جميع أنحاء العالم.",
+      "hq_city": "ريدوود سيتي"
+    },
+    "fr": {
+      "name": "Guardant Health",
+      "country": "États-Unis",
+      "sub_domain": "Biopsie liquide",
+      "short_description": "Diagnostics compagnons et détection précoce du cancer à partir du sang.",
+      "technology": "Séquençage cfDNA, méthylation",
+      "why_relevant": "Biopsie liquide largement remboursée et utilisée dans les cliniques d'oncologie.",
+      "history": "Fondée en 2011, Guardant Health a été pionnière de la biopsie liquide à partir d'une simple prise de sang, grâce au profilage génomique par PCR et par séquençage. Son test Guardant360 est devenu l'un des outils de profilage génomique les plus utilisés et remboursés en oncologie, et la société s'est étendue à la détection précoce du cancer avec la plateforme Shield. Cotée en 2018, elle a depuis lancé de grandes études de dépistage et des diagnostics compagnons. Guardant soutient aujourd'hui des soins orientés par la génomique et un dépistage multi-cancers pour les cliniques du monde entier.",
+      "hq_city": "Redwood City"
+    }
+  },
+  "color-health": {
+    "ar": {
+      "name": "Color Health",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الصحة الجينومية",
+      "short_description": "فحص جينومي على مستوى السكان مدمج في الرعاية الأولية.",
+      "technology": "علم الجينوم السكاني، سيرورة سريرية",
+      "why_relevant": "يحوّل فحص خطر السرطان الوراثي إلى أداة وقائية روتينية.",
+      "history": "بدأت Color عام 2013 كشركة وراثيات استهلاكية تقدم فحوصًا منخفضة التكلفة للسرطان الوراثي. دخلت في شراكات مع كبار أصحاب العمل ونظم الرعاية الصحية، وأضافت برامج على مستوى السكان في أمراض القلب وعلم الصيدلة الجيني. برزت شركة Color خلال جائحة كوفيد-19 عبر بناء بنية تحتية للفحص وصلت إلى ملايين الأشخاص. وتركّز اليوم على علم الجينوم السكاني المدمج في الرعاية الأولية، لمساعدة العيادات على جعل فحص الأخطار الوراثية أداة وقائية روتينية ضمن الطب الوقائي الأساسي.",
+      "hq_city": "برلينغام"
+    },
+    "fr": {
+      "name": "Color Health",
+      "country": "États-Unis",
+      "sub_domain": "Santé génomique",
+      "short_description": "Dépistage génomique à l'échelle d'une population intégré aux soins primaires.",
+      "technology": "Génomique des populations, flux clinique",
+      "why_relevant": "Fait du dépistage du risque de cancer héréditaire un outil préventif de routine.",
+      "history": "Fondée en 2013, Color a débuté comme société de génétique grand public proposant des tests peu coûteux pour le cancer héréditaire. Elle s'est associée à de grands employeurs et systèmes de santé, ajoutant des programmes à l'échelle des populations en cardiologie et en pharmacogénétique. Color s'est fait connaître pendant la pandémie de COVID-19 en bâtissant une infrastructure de dépistage qui a touché des millions de personnes. Elle se concentre aujourd'hui sur la génomique des populations intégrée aux soins primaires, aidant les cliniques à faire du dépistage des risques héréditaires un outil préventif de routine.",
+      "hq_city": "Burlingame"
+    }
+  },
+  "helix": {
+    "ar": {
+      "name": "Helix",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الجينوميات الاستهلاكية",
+      "short_description": "منصة تسلسل جينومي واسعة النطاق تغذي منتجات استهلاكية متعددة.",
+      "technology": "خطوط معالجة تسلسل الإكسوم الكامل",
+      "why_relevant": "نموذج التسلسل كخدمة يقف وراء عشرات العلامات الصحية.",
+      "history": "تأسست Helix عام 2015 على يد جاستن كاو وجيمس لو وروبن ثورستون، وبنت منصة جينومية سكانية متكاملة تسلسل الإكسومات وتقدم منتجات صحية قابلة للإطلاق عبر شركاء. تشغّل الشركة بنية تحتية واسعة للتسلسل وتتعاون مع نظم الرعاية الصحية وأصحاب العمل وبرامج الصحة العامة في مبادرات على مستوى السكان. سلسلت مئات الآلاف من الأشخاص وطوّرت منتج Exome+ وشراكات في فحص الأمراض المزمنة. ويقود نموذجها القائم على «التسلسل كخدمة» عشرات العلامات الصحية الاستهلاكية، ويجعل علم الجينوم روتينيًا في الرعاية الوقائية.",
+      "hq_city": "سان ماتيو"
+    },
+    "fr": {
+      "name": "Helix",
+      "country": "États-Unis",
+      "sub_domain": "Génomique grand public",
+      "short_description": "Plateforme de séquençage génomique à grande échelle qui alimente de nombreux produits grand public.",
+      "technology": "Pipe-lines de séquençage d'exome entier",
+      "why_relevant": "Un modèle de séquençage-as-a-service derrière des dizaines de marques santé.",
+      "history": "Fondée en 2015 par Justin Kao, James Lu et Robin Thurston, Helix a bâti une plateforme de génomique des populations de bout en bout qui séquence les exomes et propose, via des partenaires, des produits de santé lançables. L'entreprise exploite une vaste infrastructure de séquençage et travaille avec des systèmes de santé, des employeurs et des programmes de santé publique sur des initiatives à l'échelle des populations. Elle a séquencé des centaines de milliers de personnes et développé son produit Exome+ avec des partenariats de dépistage des maladies chroniques. Son modèle de séquençage-as-a-service soutient des dizaines de marques santé et rend la génomique courante dans les soins préventifs.",
+      "hq_city": "San Mateo"
+    }
+  },
+  "genome-medical": {
+    "ar": {
+      "name": "Genome Medical",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الطب الجينومي",
+      "short_description": "شبكة طب عن بُعد من خبراء الوراثة لطلب الاختبارات الجينية وتفسيرها.",
+      "technology": "طب وراثي عن بُعد، تفسير المتغيّرات",
+      "why_relevant": "يعالج نقص الأطباء القادرين على تفسير النتائج الجينومية.",
+      "history": "تأسست Genome Medical عام 2016، وبنت شبكة طب عن بُعد من خبراء الوراثة لمساعدة المرضى على طلب الاختبارات الجينومية وتفسيرها والتصرف بناءً عليها. اندمجت الشركة مع نظم الرعاية الصحية والمختبرات وفرق الرعاية لتقديم استشارات وراثية عن بُعد على نطاق واسع. وسّعت نطاقها نحو برامج السرطان الوراثي وأمراض القلب، وطوّرت أدوات لتبسيط تفسير المتغيّرات. وتعالج اليوم نقص المهنيين الوراثيين عبر الجمع بين الاستشارات عن بُعد وأدوات تساعد العيادات على تقديم الطب الجينومي بكفاءة أكبر.",
+      "hq_city": "جنوب سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Genome Medical",
+      "country": "États-Unis",
+      "sub_domain": "Médecine génomique",
+      "short_description": "Réseau de télésanté d'experts en génétique pour prescrire et expliquer les tests.",
+      "technology": "Télé-génétique, interprétation des variants",
+      "why_relevant": "Résout la pénurie de cliniciens pour interpréter les résultats génomiques.",
+      "history": "Fondée en 2016, Genome Medical a construit un réseau de télémédecine d'experts en génétique pour aider les patients à prescrire, interpréter et exploiter leurs tests génomiques. L'entreprise s'est intégrée aux systèmes de santé, aux laboratoires et aux équipes soignantes pour offrir un conseil génétique à distance à grande échelle. Elle s'est étendue aux programmes de cancer héréditaire et de cardiologie et a développé des outils pour fluidifier l'interprétation des variants. Elle répond aujourd'hui à la pénurie de professionnels en génétique en associant téléconsultations et outils qui aident les cliniques à délivrer une médecine génomique plus efficace.",
+      "hq_city": "South San Francisco"
+    }
+  },
+  "sophia-genetics": {
+    "ar": {
+      "name": "Sophia Genetics",
+      "country": "سويسرا",
+      "sub_domain": "الطب المبني على البيانات",
+      "short_description": "منصة سحابية توحّد تفسير البيانات الجينومية عبر المستشفيات.",
+      "technology": "برمجيات خدمة جينومية سريرية",
+      "why_relevant": "تتيح للمستشفيات وصولًا ديمقراطيًا إلى تحليلات جينومية موزّعة.",
+      "history": "تأسست Sophia Genetics عام 2011 في سويسرا على يد جورجي كامبلونج وبيار هوتر، وأنشأت منصة تحليلات سحابية توحّد تفسير البيانات الجينومية عبر شبكة موزعة من المستشفيات. أُدرجت الشركة في بورصة ناسداك عام 2021 ونشرت منصة SOPHiA DDM في مئات المؤسسات حول العالم. تستثمر بكثافة في التعاون البحثي وتطبق الذكاء الاصطناعي على فحوصات الأورام والأمراض النادرة على نطاق واسع. وتواصل إتاحة وصول عادل إلى التحليلات الجينومية الموحدة، معالجةً ملايين الملفات الجينومية كل عام.",
+      "hq_city": "لوزان"
+    },
+    "fr": {
+      "name": "Sophia Genetics",
+      "country": "Suisse",
+      "sub_domain": "Médecine guidée par les données",
+      "short_description": "Plateforme cloud qui standardise l'interprétation génomique entre les hôpitaux.",
+      "technology": "SaaS de génomique clinique",
+      "why_relevant": "Démocratise l'accès à l'analyse génomique fédérée pour les hôpitaux.",
+      "history": "Fondée en 2011 en Suisse par Jurgi Camblong et Pierre Hutter, Sophia Genetics a créé une plateforme d'analyse cloud qui standardise l'interprétation des données génomiques à travers un réseau décentralisé d'hôpitaux. Cotée au Nasdaq en 2021, l'entreprise a déployé sa plateforme SOPHiA DDM dans des centaines d'institutions dans le monde. Elle investit massivement dans des collaborations de recherche et applique l'IA aux tests d'oncologie et de maladies rares à grande échelle. Elle continue de démocratiser l'accès à l'analyse génomique fédérée, traitant des millions de profils génomiques chaque année.",
+      "hq_city": "Lausanne"
+    }
+  },
+  "delve-bio": {
+    "ar": {
+      "name": "Delve Bio",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تشخيصات الميتاجينوميات",
+      "short_description": "يكشف مسببات الأمراض عسيرة الاكتشاف عبر تسلسل سوائل الجسم.",
+      "technology": "تسلسل ميتاجينومي من الجيل الجديد، تصنيف بالتعلم الآلي",
+      "why_relevant": "يهدف إلى إنهاء رحلات التشخيص الطويلة للعدوى الغامضة.",
+      "history": "تأسست Delve Bio عام 2019 كشركة منبثقة عن جامعة كاليفورنيا في سان فرانسيسكو، وتعمل على التسلسل الميتاجينومي لتحديد مسببات الأمراض عسيرة الاكتشاف في سوائل الجسم. طوّرت الشركة مختبرًا تشخيصيًا صارمًا ومحرك تصنيف قائمًا على الذكاء الاصطناعي للنتائج السريرية. وفي عام 2024 أعلنت شراكة مع Roche Diagnostics لمساعدة المختبرات على تبني التسلسل الميتاجينومي من الجيل الجديد على نطاق واسع. وتهدف اليوم إلى إنهاء رحلات التشخيص الطويلة للعدوى الغامضة وتوسيع نطاق الوصول إلى تشخيصات التسلسل الميتاجينومي.",
+      "hq_city": "سان فرانسيسكو"
+    },
+    "fr": {
+      "name": "Delve Bio",
+      "country": "États-Unis",
+      "sub_domain": "Diagnostics métagénomiques",
+      "short_description": "Identifie les pathogènes difficiles à détecter grâce au séquençage des fluides corporels.",
+      "technology": "NGS métagénomique, classification ML",
+      "why_relevant": "Vise à mettre fin aux odyssées diagnostiques des infections mystérieuses.",
+      "history": "Fondée en 2019 comme spin-off de l'Université de Californie à San Francisco, Delve Bio travaille sur le séquençage métagénomique pour identifier les pathogènes difficiles à trouver à partir des fluides corporels. L'entreprise a développé un laboratoire de diagnostic rigoureux et un moteur de classification fondé sur l'IA pour les résultats cliniques. En 2024, elle a annoncé un partenariat avec Roche Diagnostics pour aider les laboratoires à adopter le séquençage métagénomique nouvelle génération à grande échelle. Elle vise aujourd'hui à mettre fin aux odyssées diagnostiques des infections mystérieuses et à élargir l'accès à ces diagnostics.",
+      "hq_city": "San Francisco"
+    }
+  },
+  "arcturus-therapeutics": {
+    "ar": {
+      "name": "Arcturus Therapeutics",
+      "country": "سنغافورة",
+      "sub_domain": "أدوية الحمض النووي الريبوزي (RNA)",
+      "short_description": "تطوّر أدوية ولقاحات مبنية على mRNA وRNA ذاتي التضاعف.",
+      "technology": "منصات mRNA مع جزيئات دهنية نانوية (LNP)",
+      "why_relevant": "أثبتت أن لقاحات mRNA يمكن أن تكون ثابتة حرارية تصلح للبيئات منخفضة الموارد.",
+      "history": "تأسست Arcturus عام 2013 على يد باحثين في مجال الأدوية الريبوزية، وطوّرت أدوية مبنية على mRNA وRNA ذاتي التضاعف عبر منصتها LUNAR لتوصيل الجزيئات الدهنية النانوية. قدّمت الشركة مرشح لقاحها ضد كوفيد-19 في اليابان عبر شراكة مع CSL وDaiichi Sankyo، وأثبتت أن لقاحات mRNA يمكن أن تكون ثابتة حرارية تناسب البيئات منخفضة الموارد. وسّعت نشاطها نحو علاجات تستهدف الكبد وأمراض وراثية. وتواصل تطوير لقاحات وعلاجات RNA للأمراض المعدية والنادرة وغيرها.",
+      "hq_city": "سان دييغو"
+    },
+    "fr": {
+      "name": "Arcturus Therapeutics",
+      "country": "Singapour",
+      "sub_domain": "Médicaments à ARN",
+      "short_description": "Développe des médicaments et vaccins à ARNm et à ARN auto-amplifiant.",
+      "technology": "Plateformes mRNA-LNP",
+      "why_relevant": "A démontré que les vaccins à ARNm peuvent être thermostables pour les environnements à faibles ressources.",
+      "history": "Fondée en 2013 par des pionniers des médicaments à ARN, Arcturus a développé des médicaments à ARNm et à ARN auto-amplifiant grâce à sa plateforme d'administration par nanoparticules lipidiques LUNAR. La société a fait progresser son candidat vaccin contre la COVID-19 au Japon via un partenariat avec CSL et Daiichi Sankyo, et a montré que les vaccins à ARNm peuvent être thermostables pour les environnements à faibles ressources. Elle s'est étendue à des thérapies ciblant le foie et à des maladies génétiques. Arcturus développe toujours des vaccins et thérapies à ARN pour les maladies infectieuses, rares et autres.",
+      "hq_city": "San Diego"
+    }
+  },
+  "moderna": {
+    "ar": {
+      "name": "Moderna",
+      "country": "الولايات المتحدة",
+      "sub_domain": "العلاجات الحيوية بـmRNA",
+      "short_description": "الرائدة في تقنية mRNA وصاحبة أول لقاح mRNA منتشر على نطاق واسع.",
+      "technology": "منصة mRNA-LNP",
+      "why_relevant": "أثبتت جدوى منصة mRNA وتستهدف الآن السرطان والأمراض النادرة.",
+      "history": "تأسست Moderna عام 2010 في كامبريدج بولاية ماساتشوستس، وكانت رائدة في منصة mRNA-LNP للعلاجات البشرية. في 2020-2021 أصبح لقاحها Spikevax من أول لقاحات mRNA المعتمدة ضد كوفيد-19، وانتشر لمليارات الأشخاص حول العالم محققًا عشرات المليارات من الإيرادات. وسّعت الشركة خط أنابيبها ليشمل لقاحات الجهاز التنفسي والسرطان والأمراض النادرة وبرامج الفيروسات الكامنة. وتطبّق اليوم المنصة على لقاحات السرطان الشخصية وأدوية أخرى مبنية على mRNA، مع بناء قدرات تصنيع عالمية.",
+      "hq_city": "كامبريدج"
+    },
+    "fr": {
+      "name": "Moderna",
+      "country": "États-Unis",
+      "sub_domain": "Thérapies à ARNm",
+      "short_description": "La pionnière de l'ARNm à l'origine du premier vaccin à ARNm largement déployé.",
+      "technology": "Plateforme mRNA-LNP",
+      "why_relevant": "A validé la catégorie des plateformes ARNm et vise désormais le cancer et les maladies rares.",
+      "history": "Fondée en 2010 à Cambridge, dans le Massachusetts, Moderna a été pionnière de la plateforme mRNA-LNP pour la thérapeutique humaine. En 2020-2021, son vaccin Spikevax est devenu l'un des premiers vaccins à ARNm autorisés contre la COVID-19, déployé auprès de milliards de personnes et générant des dizaines de milliards de revenus. La société a élargi son pipeline aux vaccins respiratoires, au cancer, aux maladies rares et aux programmes de virus latents. Elle applique aujourd'hui la plateforme aux vaccins anticancéreux personnalisés et à d'autres médicaments à ARNm, tout en bâtissant des capacités de production mondiales.",
+      "hq_city": "Cambridge"
+    }
+  },
+  "curevac": {
+    "ar": {
+      "name": "CureVac",
+      "country": "ألمانيا",
+      "sub_domain": "لقاحات mRNA",
+      "short_description": "مطوّر ألماني للقاحات mRNA يركز على لقاحات السرطان والأمراض المعدية.",
+      "technology": "منصة لقاحات mRNA",
+      "why_relevant": "ثقل أوروبي موازن منذ فترة طويلة في سباق تقنية mRNA.",
+      "history": "تأسست CureVac عام 2000 في توبنغن بألمانيا، وقضت أكثر من عقدين في تطوير تقنية mRNA، بما في ذلك الحمض النووي الريبوزي غير المعدّل وتصميم الكودونات الأمثل. تعاونت مع GSK على لقاحات من الجيل الجديد، وطوّرت مرشحات مثل CV2CoV، وتحافظ على خط أنابيب من لقاحات الأمراض المعدية والسرطان. أُدرجت الشركة في بورصة ناسداك عام 2020 وتواصل تطوير أساليب mRNA الثابتة حرارياً على منصتها الخاصة. وما زالت CureVac اليوم متحدية أوروبية رائدة في السباق العالمي على تقنية mRNA.",
+      "hq_city": "توبنغن"
+    },
+    "fr": {
+      "name": "CureVac",
+      "country": "Allemagne",
+      "sub_domain": "Vaccins à ARNm",
+      "short_description": "Développeur allemand de vaccins à ARNm, axé sur le cancer et les maladies infectieuses.",
+      "technology": "Plateforme de vaccins à ARNm",
+      "why_relevant": "Contrepoids européen de longue date dans la course à la technologie ARNm.",
+      "history": "Fondée en 2000 à Tübingen, en Allemagne, CureVac a consacré plus de deux décennies au développement de la technologie ARNm, dont l'ARN non modifié et une conception des codons optimisée. Elle s'est associée à GSK sur des vaccins de nouvelle génération, a présenté des candidats comme CV2CoV et maintient un pipeline de vaccins contre les maladies infectieuses et le cancer. La société est cotée au Nasdaq depuis 2020 et continue de faire progresser des approches d'ARNm thermostables sur sa plateforme propriétaire. CureVac demeure aujourd'hui un challenger européen de premier plan dans la course mondiale à l'ARNm.",
+      "hq_city": "Tübingen"
+    }
+  },
+  "absci": {
+    "ar": {
+      "name": "Absci",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تصميم الأجسام المضادة بالذكاء الاصطناعي",
+      "short_description": "تصمّم الأجسام المضادة حسابيًا وتتحقق منها عبر التغذية الراجعة المخبرية.",
+      "technology": "مستحضرات حيوية توليدية بدون تدريب مسبق",
+      "why_relevant": "مرشحات أجسام مضادة مصممة في الحاسوب وتُختبر في غضون أسابيع.",
+      "history": "تأسست Absci عام 2020 وتبني اكتشاف الأجسام المضادة من الصفر باستخدام الذكاء الاصطناعي التوليدي بدون تدريب مسبق (zero-shot) إلى جانب التحقق المخبري. أُدرجت الشركة في البورصة عبر SPAC عام 2021، وطوّرت منصتها المتكاملة لتوليد الأدوية، محققةً توليدًا سريعًا لأجسام مضادة وظيفية. وأعلنت عن شراكات مع شركات كبرى مثل AstraZeneca وMerck لتصميم الأجسام المضادة والإنزيمات. وتصمّم نماذج Absci اليوم مرشحات أجسام مضادة في الحاسوب تُصنَّع وتُختبر في غضون أسابيع، مع التركيز على الأورام والالتهابات ومجالات علاجية أخرى.",
+      "hq_city": "فانكوفر"
+    },
+    "fr": {
+      "name": "Absci",
+      "country": "États-Unis",
+      "sub_domain": "Conception d'anticorps par IA",
+      "short_description": "Conçoit numériquement des anticorps et les valide grâce au retour du laboratoire.",
+      "technology": "Biologiques génératifs zero-shot",
+      "why_relevant": "Candidats anticorps de novo conçus in silico et testés en quelques semaines.",
+      "history": "Fondée en 2020, Absci développe la découverte de novo d'anticorps grâce à l'IA générative zero-shot associée à une validation en laboratoire. La société est entrée en Bourse via un SPAC en 2021 et a fait évoluer sa plateforme Integrated Drug Creation, rapportant la génération rapide d'anticorps fonctionnels. Elle a annoncé des partenariats avec de grandes entreprises comme AstraZeneca et Merck pour la conception d'anticorps et d'enzymes. Aujourd'hui, les modèles d'Absci conçoivent des anticorps candidats in silico, synthétisés et testés en quelques semaines, ciblant oncologie, inflammation et d'autres aires thérapeutiques.",
+      "hq_city": "Vancouver"
+    }
+  },
+  "iambic-therapeutics": {
+    "ar": {
+      "name": "Iambic Therapeutics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "تصميم الأدوية بالذكاء الاصطناعي",
+      "short_description": "منصة كيمياء توليدية مضبوطة على الأولويات السريرية.",
+      "technology": "نماذج كيميائية عصبية بدقة حسابات DFT",
+      "why_relevant": "أسرعت بنقل مرشحات علاجية للأورام صممها الذكاء الاصطناعي إلى العيادة.",
+      "history": "تأسست Iambic Therapeutics عام 2019 وتطوّر نماذج كيمياء توليدية مضبوطة على الملاءمة السريرية، بشبكات عصبية قائمة على الفيزياء تقترب دقتها من حسابات DFT. جمعت الشركة تمويلًا استثماريًا كبيرًا وأسرعت نقل مرشحاتها الأورامية الرائدة المصممة بالذكاء الاصطناعي إلى تجارب المرحلة 1. وانتقلت لاحقًا إلى مقر جديد في منطقة خليج سان فرانسيسكو ووسّعت منصتها عبر مجالات علاجية متعددة. وتواصل اليوم تسريع مسار الأدوية المصممة حسابيًا نحو العيادة مع بناء تعاونات عبر قطاع المستحضرات الحيوية.",
+      "hq_city": "باسادينا"
+    },
+    "fr": {
+      "name": "Iambic Therapeutics",
+      "country": "États-Unis",
+      "sub_domain": "Conception de médicaments par IA",
+      "short_description": "Plateforme de chimie générative calibrée pour la pertinence clinique.",
+      "technology": "Modèles de chimie neuronale, précision DFT",
+      "why_relevant": "A accéléré l'entrée en clinique de candidats oncologiques conçus par IA.",
+      "history": "Fondée en 2019, Iambic Therapeutics développe des modèles de chimie générative calibrés pour la pertinence clinique, avec des réseaux neuronaux fondés sur la physique qui approchent la précision DFT. La société a levé d'importants financements et a rapidement fait progresser ses candidats oncologiques conçus par IA en tête jusqu'aux essais de Phase 1. Elle a ensuite emménagé dans de nouveaux locaux dans la baie de San Francisco et élargi sa plateforme à plusieurs aires thérapeutiques. Iambic continue aujourd'hui d'accélérer le parcours clinique des médicaments conçus par calcul tout en nouant des collaborations dans la biopharma.",
+      "hq_city": "Pasadena"
+    }
+  },
+  "xtalpi": {
+    "ar": {
+      "name": "XtalPi",
+      "country": "الصين",
+      "sub_domain": "الأدوية الكمومية والذكاء الاصطناعي",
+      "short_description": "تجمع بين الكيمياء الكمومية والذكاء الاصطناعي للاكتشاف الحسابي للأدوية.",
+      "technology": "تنبؤ قائم على الفيزياء، تعلم آلي",
+      "why_relevant": "تنبؤ صناعي واسع النطاق بالبلورات والأدوية بجودة GMP.",
+      "history": "تأسست XtalPi عام 2014 وتجمع بين الكيمياء الكمومية والتنبؤ القائم على الفيزياء وتعلم الآلة لاكتشاف الأدوية. تشغّل الشركة واحدة من أكبر منصات التنبؤ الحسابي بالبلورات والأدوية في العالم، وتوسّعت نحو خدمات اكتشاف أدوية متكاملة. أقامت تحالفات استراتيجية مع شركات أدوية صينية وعالمية، بما فيها تعاونات تهدف إلى رقمنة البحث والتطوير القائم على الفيزياء على نطاق صناعي. وتواصل رفع محركات التنبؤ لديها إلى مستوى جودة GMP في مجال التبلور وتطوير الأدوية.",
+      "hq_city": "شنتشن"
+    },
+    "fr": {
+      "name": "XtalPi",
+      "country": "Chine",
+      "sub_domain": "Pharma quantique & IA",
+      "short_description": "Combine chimie quantique et IA pour la découverte computationnelle de médicaments.",
+      "technology": "Prédiction fondée sur la physique, ML",
+      "why_relevant": "Prédiction de cristaux et de médicaments à l'échelle industrielle avec qualité GMP.",
+      "history": "Fondée en 2014, XtalPi associe chimie quantique, prédiction fondée sur la physique et apprentissage automatique pour la découverte de médicaments. L'entreprise exploite l'une des plus grandes plateformes computationnelles de prédiction de cristaux et de médicaments au monde et s'est étendue à des services complets de découverte de médicaments. Elle a noué des alliances stratégiques avec des pharmas chinoises et mondiales, dont des collaborations pour industrialiser la R&D pilotée par la physique. XtalPi continue de porter ses moteurs de prédiction à une qualité GMP pour la cristallisation et le développement de médicaments.",
+      "hq_city": "Shenzhen"
+    }
+  },
+  "schrodinger": {
+    "ar": {
+      "name": "Schrodinger",
+      "country": "الولايات المتحدة",
+      "sub_domain": "التصميم الحسابي للأدوية",
+      "short_description": "برمجيات قائمة على الفيزياء والتعلم الآلي للاكتشاف الجزيئي.",
+      "technology": "محاكاة FEP+ القائمة على الفيزياء",
+      "why_relevant": "المنصة المعيارية التي تعتمد عليها فرق اكتشاف الأدوية الحديثة.",
+      "history": "تأسست Schrodinger عام 1990 وبنت منصات حاسوبية قائمة على الفيزياء تعتمد عليها فرق كثيرة من اكتشاف الأدوية في التصميم الجزيئي. أُدرجت الشركة في بورصة ناسداك عام 2020 وطوّرت أساليب اضطراب الطاقة الحرة مثل FEP+ للتصميم الدوائي الكمي. تخدم كبرى شركات الأدوية والتقنيات الحيوية والمواد، وتحضن برامج داخلية عبر ذراعها البحثية الخاصة. وتظل Schrodinger اليوم المنصة الحاسوبية المعيارية التي يعتمد عليها أسلوب عمل منظمات اكتشاف الأدوية الحديثة.",
+      "hq_city": "نيويورك"
+    },
+    "fr": {
+      "name": "Schrodinger",
+      "country": "États-Unis",
+      "sub_domain": "Conception computationnelle de médicaments",
+      "short_description": "Logiciels fondés sur la physique et le ML pour la découverte moléculaire.",
+      "technology": "FEP+, simulation fondée sur la physique",
+      "why_relevant": "La plateforme de référence sur laquelle calculent les équipes modernes de découverte de médicaments.",
+      "history": "Fondée en 1990, Schrodinger a bâti des plateformes computationnelles fondées sur la physique dont de nombreuses équipes de découverte de médicaments dépendent pour la conception moléculaire. La société est entrée au Nasdaq en 2020 et a fait progresser les méthodes de perturbation de l'énergie libre comme FEP+ pour la conception quantitative de médicaments. Elle sert de grandes pharmas, biotechs et entreprises de matériaux, et héberge des programmes internes via sa propre branche de recherche. Schrodinger demeure aujourd'hui la plateforme computationnelle de référence sur laquelle calculent les organisations modernes de découverte de médicaments.",
+      "hq_city": "New York"
+    }
+  },
+  "basecamp-research": {
+    "ar": {
+      "name": "Basecamp Research",
+      "country": "الولايات المتحدة",
+      "sub_domain": "ذكاء اصطناعي للبيانات الجينومية",
+      "short_description": "يبني أكبر مجموعة بيانات جينومية للتنوع البيولوجي في العالم لدعم ذكاء اصطناعي للبروتينات.",
+      "technology": "ميتاجينوميات + نماذج أساسية للبروتينات",
+      "why_relevant": "يزوّد نماذج البروتينات المتقدمة ببيانات بيولوجية سليمة قانونيًا.",
+      "history": "تأسست Basecamp Research عام 2020 في لندن، وتبني أكبر مجموعة بيانات جينومية للتنوع البيولوجي في العالم، تجمعها عبر بعثات ميدانية عالمية مع مؤسسات شريكة. تجمع الشركة بين علم الميتاجينوميات ونماذج الأساس للبروتينات، لتوفير بيانات متنوعة بيولوجيًا وسليمة قانونيًا للذكاء الاصطناعي الريادي. جمعت عشرات ملايين الدولارات وأقامت عام 2024 شراكة مع Genentech لتطوير نماذج أساس لتصميم البروتينات. وتغذّي اليوم نموذج الجيل الجديد من الذكاء الاصطناعي للبروتينات ببيانات بيولوجية حقيقية على نطاق غير مسبوق.",
+      "hq_city": "لندن"
+    },
+    "fr": {
+      "name": "Basecamp Research",
+      "country": "États-Unis",
+      "sub_domain": "IA sur données génomiques",
+      "short_description": "Constitue le plus grand jeu de données génomiques de biodiversité pour l'IA des protéines.",
+      "technology": "Métagénomique + modèles fondations de protéines",
+      "why_relevant": "Alimente les modèles de protéines de pointe avec des données biologiques juridiquement propres.",
+      "history": "Fondée en 2020 à Londres, Basecamp Research constitue le plus grand ensemble de données génomiques de biodiversité au monde, recueilli lors d'expéditions de terrain mondiales avec des institutions partenaires. L'entreprise associe la métagénomique à des modèles de fondation des protéines, fournissant des données biologiquement diversifiées et juridiquement propres pour l'IA de pointe. Elle a levé des dizaines de millions de dollars et s'est associée à Genentech en 2024 pour développer des modèles de fondation pour la conception de protéines. Basecamp alimente aujourd'hui l'IA de nouvelle génération des protéines avec des données biologiques réelles à une échelle inédite.",
+      "hq_city": "Londres"
+    }
+  },
+  "arzeda": {
+    "ar": {
+      "name": "Arzeda",
+      "country": "الولايات المتحدة",
+      "sub_domain": "هندسة البروتينات",
+      "short_description": "تصمّم إنزيمات صناعية من الصفر بأساليب حسابية.",
+      "technology": "تصميم حسابي للإنزيمات",
+      "why_relevant": "إنزيمات مبتكرة من الصفر تحل محل العمليات البتروكيميائية في الصناعة.",
+      "history": "تأسست Arzeda عام 2008 في منطقة سياتل، وتصمّم الإنزيمات الصناعية من الصفر باستخدام أساليب حسابية. جمعت الشركة تمويلًا استراتيجيًا، بما في ذلك دعم من صندوق Breakthrough Energy Ventures وبرامج حكومية أمريكية، لبناء بروتينات تحل محل العمليات البتروكيميائية. أثبتت Arzeda كفاءة إنزيماتها المصممة عبر عمليات تجريبية وتجارية، بما فيها استخدامات صناعية عالية القيمة. وتركّز اليوم على تصميم الإنزيمات من الصفر لرفع كفاءة التصنيع الحيوي في مجالات الزراعة والمواد والكيماويات.",
+      "hq_city": "سياتل"
+    },
+    "fr": {
+      "name": "Arzeda",
+      "country": "États-Unis",
+      "sub_domain": "Ingénierie des protéines",
+      "short_description": "Conçoit des enzymes industrielles de A à Z par des méthodes computationnelles.",
+      "technology": "Conception computationnelle d'enzymes",
+      "why_relevant": "Des enzymes de novo qui remplacent les procédés pétrochimiques dans l'industrie.",
+      "history": "Fondée en 2008 dans la région de Seattle, Arzeda conçoit des enzymes industrielles à partir de zéro grâce à des méthodes computationnelles. L'entreprise a obtenu des financements stratégiques, dont le soutien de Breakthrough Energy Ventures et de programmes gouvernementaux américains, pour bâtir des protéines qui remplacent les procédés pétrochimiques. Arzeda a démontré ses enzymes conçues dans des processus pilotes et commerciaux, y compris des usages industriels à forte valeur. Elle se concentre aujourd'hui sur la conception d'enzymes de novo qui améliorent la fabrication biologique pour l'agriculture, les matériaux et les produits chimiques.",
+      "hq_city": "Seattle"
+    }
+  },
+  "nuclera": {
+    "ar": {
+      "name": "Nuclera",
+      "country": "المملكة المتحدة",
+      "sub_domain": "طباعة البروتينات الحيوية",
+      "short_description": "أداة مكتبية تطبع البروتينات التي تحتاجها عند الطلب.",
+      "technology": "تعبير بدون خلايا + نفث الحبر",
+      "why_relevant": "يحرّر الباحثين من انتظار التعبير البروتيني في اكتشاف البروتينات.",
+      "history": "تأسست Nuclera عام 2013 في المملكة المتحدة، وطوّرت جهازًا مكتبيًا يطبع البروتينات بسرعة عند الطلب باستخدام التعبير بدون خلايا وتقنية نفث الحبر. جمعت الشركة عشرات ملايين الدولارات، بما في ذلك جولة من الفئة B عام 2024، ما جعل اكتشاف البروتينات أسرع لأفرقة البحث. يختصر نظامها eProtein Discovery أيامًا من عمل التعبير إلى ساعات، ويطبع بروتينات وظيفية للفحص. وتعمل اليوم على إيصال الطباعة الحيوية للبروتينات إلى المختبرات حول العالم.",
+      "hq_city": "كامبريدج"
+    },
+    "fr": {
+      "name": "Nuclera",
+      "country": "Royaume-Uni",
+      "sub_domain": "Bio-impression de protéines",
+      "short_description": "Un appareil de bureau qui imprime les protéines dont vous avez besoin à la demande.",
+      "technology": "Expression acellulaire + jet d'encre",
+      "why_relevant": "Libère les chercheurs des délais d'expression lors de la découverte de protéines.",
+      "history": "Fondée en 2013 au Royaume-Uni, Nuclera a développé un instrument de paillasse qui imprime rapidement des protéines à la demande grâce à l'expression acellulaire et à la technologie à jet d'encre. L'entreprise a levé des dizaines de millions de dollars, dont une Série B en 2024, rendant la découverte de protéines plus rapide pour les équipes de recherche. Son système eProtein Discovery condense des journées d'expression en heures et imprime des protéines fonctionnelles pour le criblage. Nuclera apporte aujourd'hui la bio-impression de protéines aux laboratoires du monde entier.",
+      "hq_city": "Cambridge"
+    }
+  },
+  "skyhawk-therapeutics": {
+    "ar": {
+      "name": "Skyhawk Therapeutics",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أدوية تضفير الحمض النووي الريبوزي",
+      "short_description": "جزيئات صغيرة تضبط تضفير RNA لعلاج الأمراض الوراثية.",
+      "technology": "تضفير RNA بجزيئات صغيرة",
+      "why_relevant": "معدِّلات تضفير فموية من فئتها الأولى لاستهداف الجهاز العصبي والسرطان.",
+      "history": "تأسست Skyhawk Therapeutics عام 2016 وتطوّر جزيئات صغيرة من فئتها الأولى تضبط تضفير RNA لعلاج الأمراض الوراثية. جمعت الشركة تمويلًا كبيرًا، بما في ذلك جولة عام 2023 شارك في قيادتها صندوق Bain Capital Life Sciences، وأقامت تحالفات لاكتشاف الأدوية مع كبرى شركات الأدوية. تستهدف منصتها برامج في طب الأعصاب والأورام والأمراض النادرة، مع معدّلات تضفير فموية تتقدم نحو العيادة. وتواصل اليوم توسيع منصة تضفير RNA لديها عبر مجالات علاجية متعددة.",
+      "hq_city": "والثام"
+    },
+    "fr": {
+      "name": "Skyhawk Therapeutics",
+      "country": "États-Unis",
+      "sub_domain": "Médicaments de l'épissage de l'ARN",
+      "short_description": "Petites molécules qui modulent l'épissage de l'ARN pour traiter les maladies génétiques.",
+      "technology": "Épissage ARN par petites molécules",
+      "why_relevant": "Modulateurs d'épissage oraux de première classe pour cibler le SNC et le cancer.",
+      "history": "Fondée en 2016, Skyhawk Therapeutics développe des petites molécules de première classe qui modulent l'épissage de l'ARN pour traiter les maladies génétiques. L'entreprise a levé d'importants financements, dont une levée en 2023 co-dirigée par Bain Capital Life Sciences, et a noué des alliances de découverte de médicaments avec de grandes pharmas. Sa plateforme cible des programmes en neurologie, oncologie et maladies rares, avec des modulateurs d'épissage oraux qui avancent vers la clinique. Skyhawk continue aujourd'hui d'étendre sa plateforme d'épissage de l'ARN à plusieurs aires thérapeutiques.",
+      "hq_city": "Waltham"
+    }
+  },
+  "deep-genomics": {
+    "ar": {
+      "name": "Deep Genomics",
+      "country": "كندا",
+      "sub_domain": "تأثير المتغيّرات بالذكاء الاصطناعي",
+      "short_description": "يتنبأ بكيفية تسبب المتغيّرات الجينية في المرض لتصميم علاجات مناسبة.",
+      "technology": "جينوميات بالذكاء الاصطناعي + علاج بالأليغنوكليوتيدات",
+      "why_relevant": "يستخدم نماذج تعلم تأثير المتغيّرات كمحرك للاكتشاف.",
+      "history": "تأسست Deep Genomics عام 2015 على يد الرائد في تعلم الآلة بريندان فري، وبنى نماذج ذكاء اصطناعي تتنبأ بدقة بكيفية تسبب المتغيّرات في الحمض النووي بالمرض. حصلت الشركة على تمويل من مستثمرين مثل Radical Ventures وNeo، بينما طبّقت محرك تأثير المتغيّرات لتطوير علاجات بالأوليجونوكليوتيدات للأمراض الوراثية. وأقامت تعاونًا مع شركات المستحضرات الحيوية في أمراض عصبية وأيضية ونادرة. وتستعين Deep Genomics اليوم بنماذجها المكتسبة لتأثير المتغيّرات كمحرك لخط اكتشافها.",
+      "hq_city": "تورونتو"
+    },
+    "fr": {
+      "name": "Deep Genomics",
+      "country": "Canada",
+      "sub_domain": "Effet des variants par IA",
+      "short_description": "Prédit comment les variants de l'ADN causent la maladie pour concevoir des thérapies.",
+      "technology": "Génomique IA + thérapie par oligonucléotides",
+      "why_relevant": "Fait des modèles d'effet des variants un moteur de découverte.",
+      "history": "Fondée en 2015 par le pionnier de l'apprentissage automatique Brendan Frey, Deep Genomics a construit des modèles d'IA qui prédisent précisément comment les variants de l'ADN provoquent des maladies. L'entreprise a obtenu des financements auprès d'investisseurs dont Radical Ventures et Neo, tout en appliquant son moteur des effets de variants pour développer des thérapies par oligonucléotides contre les maladies génétiques. Elle a noué des collaborations avec la biopharma dans des affections neurologiques, métaboliques et rares. Deep Genomics utilise aujourd'hui ses modèles d'effets de variants appris comme moteur de son pipeline de découverte.",
+      "hq_city": "Toronto"
+    }
+  }
+}

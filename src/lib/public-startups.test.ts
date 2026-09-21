@@ -32,7 +32,9 @@ describe('applyStartupTranslation', () => {
       sub_domain: 'الذكاء الاصطناعي التوليدي',
       short_description: 'نموذج لغوي عربي كبير سيادي.',
       technology: 'ضبط دقيق للنماذج اللغوية',
-      why_relevant: 'السيادة الرقمية.'
+      why_relevant: 'السيادة الرقمية.',
+      history: 'تأسست كاباس عام 2024.',
+      hq_city: 'الجزائر العاصمة'
     };
     const result = applyStartupTranslation(STARTUP, tr);
     expect(result.name).toBe('KABAS AI');
@@ -53,7 +55,9 @@ describe('applyStartupTranslation', () => {
       sub_domain: null,
       short_description: 'Desc.',
       technology: 'Tech',
-      why_relevant: 'Why.'
+      why_relevant: 'Why.',
+      history: null,
+      hq_city: null
     };
     const result = applyStartupTranslation(STARTUP, tr);
     expect(result.country).toBe('Algeria');

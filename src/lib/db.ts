@@ -31,6 +31,10 @@ export interface PublicStartup {
   whyRelevant: string;
   priority: StartupPriority;
   status: StartupStatus;
+  history?: string;
+  hqCity?: string;
+  latitude?: number;
+  longitude?: number;
   refNo?: number;
   teamName?: string;
 }
@@ -102,6 +106,14 @@ function mapPublicStartup(row: Record<string, unknown>): PublicStartup {
     ...(row.official_site ? { officialSite: String(row.official_site) } : {}),
     ...(row.source_url ? { sourceUrl: String(row.source_url) } : {}),
     whyRelevant: String(row.why_relevant),
+    ...(row.history ? { history: String(row.history) } : {}),
+    ...(row.hq_city ? { hqCity: String(row.hq_city) } : {}),
+    ...(row.latitude !== undefined && row.latitude !== null
+      ? { latitude: Number(row.latitude) }
+      : {}),
+    ...(row.longitude !== undefined && row.longitude !== null
+      ? { longitude: Number(row.longitude) }
+      : {}),
     priority: String(row.priority) as StartupPriority,
     status: String(row.status) as StartupStatus,
     ...(row.ref_no !== undefined && row.ref_no !== null
