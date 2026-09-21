@@ -1,6 +1,6 @@
 import { useLocale, useTranslations } from 'next-intl';
 import { Globe } from 'lucide-react';
-import { usePathname, useRouter } from '@/i18n/navigation';
+import { usePathname } from '@/i18n/navigation';
 import { routing } from '@/i18n/routing';
 
 const localeLabels: Record<string, string> = {
@@ -12,7 +12,6 @@ const localeLabels: Record<string, string> = {
 export function LangSwitcher() {
   const locale = useLocale();
   const pathname = usePathname();
-  const router = useRouter();
   const t = useTranslations('LangSwitcher');
 
   return (
@@ -22,10 +21,11 @@ export function LangSwitcher() {
         aria-label={t('ariaLabel')}
         className="ring-focus bg-transparent text-sm font-medium text-ink/70 focus:outline-none"
         value={locale}
-onChange={(e) => {
+        onChange={(e) => {
           const next = e.target.value;
           if (next === locale) return;
-          router.replace(pathname, { locale: next });
+          document.cookie = `NEXT_LOCALE=${next};path=/;max-age=31536000;SameSite=Lax`;
+          window.location.href = next === routing.defaultLocale ? pathname : `/${next}${pathname}`;
         }}
       >
         {routing.locales.map((loc) => (
