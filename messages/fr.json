@@ -1,0 +1,508 @@
+{
+  "Metadata": {
+    "title": "Startup Ideas DZ — Répertoire Deep-Tech Algérien",
+    "description": "Répertoire trilingue des startups deep-tech algériennes : IA, robotique, biotech, spatial et bien plus."
+  },
+  "Navbar": {
+    "brand": "Startup Ideas",
+    "brandTag": "DZ",
+    "edition": "Éd. 2026",
+    "home": "Accueil",
+    "browse": "Explorer",
+    "domains": "Domaines",
+    "saved": "Enregistrées",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "signIn": "Se connecter",
+    "signOut": "Se déconnecter"
+  },
+  "Auth": {
+    "loginTitle": "Connexion",
+    "loginSubtitle": "Enregistrez et suivez les startups deep-tech que vous voulez construire en Algérie.",
+    "emailLabel": "E-mail",
+    "passwordLabel": "Mot de passe",
+    "submit": "Se connecter",
+    "submitting": "Connexion…",
+    "signInAccountAlt": "Icône de compte de connexion",
+    "noAccount": "Nouveau sur le répertoire ?",
+    "createAccount": "Créer un compte",
+    "createAccountLong": "Créer un compte",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "signIn": "Se connecter",
+    "nameLabel": "Nom complet",
+    "passwordHint": "Au moins 8 caractères",
+    "errorInvalidCredentials": "E-mail ou mot de passe incorrect. Veuillez réessayer.",
+    "errorEmailTaken": "Un compte existe déjà avec cet e-mail.",
+    "errorWeakPassword": "Votre mot de passe doit contenir au moins 8 caractères.",
+    "errorGeneric": "Une erreur est survenue. Veuillez réessayer.",
+    "errorRateLimited": "Trop de tentatives. Réessayez dans une heure.",
+    "backHome": "Retour à l'accueil",
+    "welcome": "Bon retour !"
+  },
+  "LangSwitcher": {
+    "ariaLabel": "Changer la langue"
+  },
+  "Theme": {
+    "label": "Thème de couleur",
+    "system": "Suivre le système",
+    "light": "Clair",
+    "dark": "Sombre",
+    "night": "Nuit"
+  },
+  "Hero": {
+    "badge": "Deep-Tech · Algérie",
+    "publication": "DZ / DT / 2026",
+    "title": "Découvrez les startups prometteuses",
+    "highlight": "en deep-tech",
+    "subtitle": "Une plateforme trilingue pour explorer les startups algériennes leaders en IA, robotique, biotech et spatial — toutes vérifiées.",
+    "searchPlaceholder": "Rechercher par nom, technologie ou domaine…",
+    "searchButton": "Rechercher",
+    "browseAll": "Explorer toutes les startups",
+    "editionLabel": "Édition",
+    "entriesLabel": "Références enregistrées",
+    "domainsLabel": "Domaines",
+    "teamsLabel": "Équipes"
+  },
+  "HowItWorks": {
+    "title": "Comment lire cet index",
+    "intro": "Chaque fiche est numérotée dans son domaine : un code de domaine, puis le numéro d'entrée (ex. AI · 014).",
+    "priority": "Le carré indique la priorité stratégique :"
+  },
+  "Domains": {
+    "title": "Explorer par domaine",
+    "subtitle": "Les domaines deep-tech qui façonnent le paysage d'innovation algérien.",
+    "explore": "Explorer",
+    "count": "{count, plural, =0 {Aucune initiative} one {# initiative} other {# initiatives}}"
+  },
+  "Browse": {
+    "title": "Explorer les startups",
+    "subtitle": "Toutes les initiatives affichées ici sont vérifiées.",
+    "searchPlaceholder": "Rechercher par nom, technologie ou domaine…",
+    "filterLabel": "Filtrer par domaine",
+    "allDomains": "Tous les domaines",
+    "results": "{count, plural, =0 {} one {(# résultat)} other {(# résultats)}}",
+    "searchButton": "Rechercher",
+    "emptyTitle": "Aucun résultat",
+    "emptyText": "Essayez un autre terme de recherche ou retirez le filtre de domaine.",
+    "entries": "{count, plural, =0 {0 entrées} one {# entrée} other {# entrées}}",
+    "clear": "Effacer",
+    "backToHome": "Retour à l'accueil"
+  },
+  "Filters": {
+    "title": "Filtres",
+    "indexLabel": "Index",
+    "search": "Rechercher des startups…",
+    "country": "Pays",
+    "searchCountries": "Rechercher un pays…",
+    "noCountries": "Aucun pays ne correspond",
+    "priority": "Priorité",
+    "years": "Année de création",
+    "from": "De",
+    "to": "À",
+    "clear": "Effacer les filtres",
+    "showResults": "Afficher les résultats",
+    "close": "Fermer",
+    "emptyTitle": "Aucune startup ne correspond à vos filtres",
+    "emptyText": "Essayez d'ajuster la recherche ou de retirer certains filtres.",
+    "results": "{count, plural, =0 {Aucune startup} one {# startup} other {# startups}}",
+    "entries": "{count, plural, =0 {0 entrées} one {# entrée} other {# entrées}}"
+  },
+  "StartupCard": {
+    "verifiedBadge": "Vérifié",
+    "countryLabel": "Pays",
+    "yearLabel": "Création",
+    "domainLabel": "Domaine",
+    "viewDetails": "Détails",
+    "similarLabel": "Similaires :"
+  },
+  "StartupDetail": {
+    "backToBrowse": "Explorer",
+    "verifiedBadge": "Vérifié",
+    "yearLabel": "Année de création",
+    "countryLabel": "Pays",
+    "domainLabel": "Domaine",
+    "subDomainLabel": "Spécialité",
+    "technologyLabel": "Technologie clé",
+    "priorityLabel": "Priorité",
+    "whyRelevantLabel": "Pourquoi c'est important ?",
+    "sourceLabel": "Source de l'information",
+    "officialSiteLabel": "Site officiel",
+    "teamLabel": "Équipe de recherche",
+    "breadcrumbHome": "Accueil",
+    "breadcrumbDomain": "Domaine",
+    "breadcrumbSeparator": "/"
+  },
+  "DomainValidation": {
+    "label": "Validation",
+    "tier": "Palier",
+    "TO_CHECK": "À vérifier",
+    "IN_PROGRESS": "En cours",
+    "VALIDATED": "Validée",
+    "REJECTED": "Rejetée"
+  },
+  "SaveButton": {
+    "save": "Je veux construire ça en Algérie",
+    "saved": "Ajouté à ma liste ✓",
+    "savedAria": "Retirer de ma liste",
+    "saveAria": "Enregistrer cette startup dans ma liste",
+    "signInToSave": "Connectez-vous pour enregistrer"
+  },
+  "Saved": {
+    "title": "Startups enregistrées",
+    "subtitle": "Les initiatives que vous souhaitez construire en Algérie.",
+    "count": "{count, plural, =0 {Aucune startup enregistrée} one {# startup enregistrée} other {# startups enregistrées}}",
+    "emptyTitle": "Aucune startup enregistrée",
+    "emptyText": "Appuyez sur « Je veux construire ça en Algérie » sur la fiche d'une startup pour l'ajouter ici.",
+    "browse": "Explorer les startups",
+    "remove": "Retirer"
+  },
+  "Priority": {
+    "A": "Haute priorité",
+    "B": "Priorité moyenne",
+    "C": "Priorité standard"
+  },
+  "Status": {
+    "verified": "Vérifié",
+    "pending": "En attente",
+    "rejected": "Rejeté"
+  },
+  "Footer": {
+    "tagline": "Répertoire ouvert, trilingue, des initiatives deep-tech en Algérie.",
+    "exploreTitle": "Explorer",
+    "rights": "Tous droits réservés.",
+    "legalTitle": "Légal",
+    "policy": "Conditions & confidentialité",
+    "credit": "Réalisé par T. Chams à l'incubateur de Tébessa."
+  },
+  "NotFound": {
+    "title": "Page introuvable",
+    "text": "Désolé, la page que vous cherchez est introuvable ou a été rejetée.",
+    "home": "Retour à l'accueil"
+  },
+  "domainNames": {
+    "ai-computing": "IA & Calcul avancé",
+    "robotics": "Robotique",
+    "biotech-healthtech": "Biotech & Santé",
+    "drones-autonomy": "Systèmes autonomes & Drones",
+    "nanotech-materials": "Nanotech & Matériaux avancés",
+    "energy-storage": "Énergie & Stockage",
+    "space-aerospace": "Spatial & Aérospatial",
+    "agritech-foodtech": "AgriTech & FoodTech",
+    "medtech": "MedTech",
+    "semiconductors": "Semiconducteurs & Électronique",
+    "cybersecurity": "Cybersécurité",
+    "manufacturing-3d": "Fabrication avancée & Impression 3D",
+    "cleantech": "Environnement, Eau & CleanTech",
+    "cloud-iot": "Cloud & IoT industriel",
+    "other-deep-tech": "Autres technologies profondes"
+  },
+  "Admin": {
+    "metadata": {
+      "title": "Startup Ideas DZ — Administration"
+    },
+    "brand": {
+      "title": "Startup Ideas DZ"
+    },
+    "nav": {
+      "dashboard": "Tableau de bord",
+      "submitIdea": "Soumettre une idée",
+      "reviewQueue": "File de revue",
+      "domainsValidation": "Domaines — validation",
+      "teamsQuotas": "Équipes & quotas",
+      "importSheet": "Importer une feuille Excel",
+      "guestAccounts": "Comptes invités",
+      "platformTag": "Plateforme officielle",
+      "publicSite": "Site public",
+      "signOut": "Déconnexion",
+      "translations": "Traductions"
+    },
+    "roles": {
+      "team": "Équipe",
+      "reviewer": "Reviseur",
+      "admin": "Administrateur"
+    },
+    "status": {
+      "pending": "En attente",
+      "verified": "Validée",
+      "rejected": "Refusée"
+    },
+    "common": {
+      "loading": "Chargement…",
+      "saveError": "Impossible d’enregistrer (permissions ou erreur serveur).",
+      "urlPlaceholder": "https://…"
+    },
+    "login": {
+      "errorInvalidCredentials": "Identifiants invalides. Comptes réservés au personnel invité.",
+      "title": "Espace sécurisé",
+      "subtitle": "Accès réservé aux comptes invités du gouvernement",
+      "emailLabel": "Email institutionnel",
+      "emailPlaceholder": "nom@mpme.gov.dz",
+      "passwordLabel": "Mot de passe",
+      "submitting": "Connexion…",
+      "submit": "Se connecter",
+      "footerText": "Aucun compte public n'est créé automatiquement. L'administrateur invite chaque utilisateur."
+    },
+    "dashboard": {
+      "cardProposed": "Proposées (pending)",
+      "cardValidated": "Validées",
+      "cardRejected": "À vérifier / refusées",
+      "cardDuplicates": "Doublons 2025",
+      "cardProgress": "Progression",
+      "cardTotal": "Total",
+      "title": "Tableau de bord",
+      "subtitle": "Vue consolidée du programme, alignée sur la feuille DASHBOARD du gouvernement.",
+      "byDomainTitle": "Par domaine technologique",
+      "colDomain": "Domaine",
+      "colTotal": "Total",
+      "colValidated": "Validées",
+      "colPending": "Pending",
+      "colRejected": "Refusées",
+      "colDuplicates": "Doublons",
+      "byTeamTitle": "Par équipe",
+      "colTeam": "Équipe",
+      "colSubmissions": "Soumissions",
+      "unassigned": "Non assignée",
+      "teamQuotasTitle": "Quotas par équipe",
+      "teamQuotasSubtitle": "Progression des 15 équipes vers leur quota de références."
+    },
+    "review": {
+      "errors": {
+        "load": "Impossible de charger la file de revue.",
+        "action": "Action impossible (permissions ou erreur serveur)."
+      },
+      "title": "File de revue",
+      "subtitle": "Approuvez, refusez, fixez la priorité (A/B/C) ou signalez les doublons. Chaque action est journalisée dans l'audit.",
+      "filterPending": "À revoir",
+      "filterVerified": "Validées",
+      "filterRejected": "Refusées",
+      "empty": "Aucune entrée {filter}.",
+      "duplicateBadge": "Doublon 2025",
+      "technologyLabel": "Technologie :",
+      "relevanceLabel": "Pertinence :",
+      "submittedOn": "Soumis le {date}",
+      "approve": "Approuver",
+      "reject": "Refuser",
+      "priorityLabel": "Priorité",
+      "removeDuplicate": "Retirer doublon",
+      "markDuplicate": "Marquer doublon 2025"
+    },
+    "domainsPage": {
+      "title": "Domaines — validation",
+      "subtitle": "Correspond à la feuille LISTES : définissez le statut de validation et le palier de priorité de chaque domaine technologique. Chaque action est journalisée."
+    },
+    "domains": {
+      "colDomain": "Domaine",
+      "colArabic": "Arabe",
+      "colStartups": "Startups",
+      "colValidationTier": "Validation + palier",
+      "statusToCheck": "À vérifier",
+      "statusInProgress": "En cours",
+      "statusValidated": "Validée",
+      "statusRejected": "Rejetée",
+      "noTier": "Aucun palier",
+      "save": "Enregistrer"
+    },
+    "importPage": {
+      "title": "Importer une feuille Excel",
+      "subtitle": "Collez des lignes copiées depuis la feuille LISTES (ou tout export CSV de votre classeur). Les doublons sont détectés par nom ; chaque ligne devient une proposition « à vérifier » dans la file de revue. Les actions sont journalisées."
+    },
+    "import": {
+      "reason": {
+        "unknownDomain": "Domaine inconnu",
+        "shortDescription": "Description trop courte (≥ 10 caractères)",
+        "invalidName": "Nom invalide",
+        "invalidCountry": "Pays invalide",
+        "invalidYear": "Année invalide (≥ 1980)",
+        "invalidUrl": "Lien (URL) invalide",
+        "invalidPriority": "Priorité invalide (A, B ou C)",
+        "missingName": "Nom manquant",
+        "duplicateName": "Déjà enregistré (nom identique)"
+      },
+      "delim": {
+        "tab": "tabulation",
+        "semicolon": "point-virgule",
+        "comma": "virgule",
+        "pipe": "barre verticale"
+      },
+      "notice": {
+        "pasteFirst": "Collez d'abord des lignes dans la zone ci-dessous.",
+        "importFailed": "Échec de l'import (session expirée ou erreur serveur). Reconnectez-vous si besoin.",
+        "fileTooLarge": "Fichier trop volumineux (limite 500 Ko). Réduisez la sélection."
+      },
+      "openFile": "Ouvrir un fichier CSV / TSV",
+      "or": "ou",
+      "copyPasteHint": "copiez votre plage depuis Excel et collez-la ci-dessous",
+      "textareaPlaceholder": "Nom\tPays\tDomaine\tDescription\tAnnée\tPriorité\nQuantex\tAlgérie\tsemiconductors\tRéférenceur quantique…\t2023\tA",
+      "analyse": "Analyser les lignes",
+      "reset": "Réinitialiser",
+      "linesDetected": "{count, plural, one {# ligne détectée} other {# lignes détectées}}",
+      "delimiterLabel": "Délimiteur :",
+      "headerLabel": "En-tête :",
+      "headerDetected": "détecté",
+      "headerNotDetected": "non détecté",
+      "noHeaderDetected": "Aucun en-tête reconnu : les colonnes sont lues dans l'ordre standard (nom, pays, domaine, description…). Le résultat doit être : {fields}",
+      "unknownDomainWarning": "{count, plural, one {# ligne avec un domaine non reconnu} other {# lignes avec un domaine non reconnu}} (ils seront ignorés sans insérer). Valeurs acceptées : nom français/Anglais/Arabe ou code (ex. AI, RB, BIO, MED, OTH…).",
+      "colLine": "Ligne",
+      "moreLines": "+ {count} autres lignes (les 500 premières seront importées).",
+      "importing": "Import en cours…",
+      "submitButton": "Importer {count, plural, one {# ligne} other {# lignes}} (statut : à vérifier)",
+      "field": {
+        "name": "Nom",
+        "country": "Pays",
+        "domain": "Domaine",
+        "subDomain": "Spécialité",
+        "shortDescription": "Description",
+        "technology": "Technologie",
+        "yearFounded": "Année",
+        "officialSite": "Site officiel",
+        "sourceUrl": "Source",
+        "whyRelevant": "Pertinence",
+        "priority": "Priorité",
+        "isDuplicate2025": "Doublon 2025"
+      },
+      "detail": "Détail",
+      "lineNumber": "Ligne {line}",
+      "moreErrors": "+ {count} autres.",
+      "newImport": "Nouvel import",
+      "result": {
+        "imported": "{count, plural, one {# importé} other {# importés}}",
+        "ignored": "{count, plural, one {# ignoré} other {# ignorés}} (doublon)",
+        "errors": "{count, plural, one {# erreur} other {# erreurs}}"
+      }
+    },
+    "submit": {
+      "errors": {
+        "invalidData": "Données invalides.",
+        "domainForbidden": "Domaine non autorisé pour votre équipe.",
+        "submitFailed": "Échec de la soumission."
+      },
+      "successCreated": "Soumission créée avec succès ({id}). Elle attend la revue.",
+      "title": "Soumettre une idée de startup",
+      "domainLocked": "Votre équipe est affectée au domaine «{domain} ». Les soumissions y sont restreintes.",
+      "domainUnlocked": "Un compte «équipe» est rattaché à un domaine précis.",
+      "nameLabel": "Nom de la startup *",
+      "countryLabel": "Pays",
+      "domainLabel": "Domaine technologique *",
+      "subDomainLabel": "Sous-domaine",
+      "subDomainPlaceholder": "ex : Diagnostic",
+      "yearFoundedLabel": "Année de création *",
+      "priorityLabel": "Priorité (initiale)",
+      "priorityC": "C — à définir",
+      "technologyLabel": "Technologies *",
+      "technologyPlaceholder": "ex : LLM, RAG",
+      "shortDescriptionLabel": "Description courte *",
+      "whyRelevantLabel": "Pourquoi est-ce pertinent pour l'Algérie ? *",
+      "officialSiteLabel": "Site officiel",
+      "sourceUrlLabel": "Url source",
+      "submitting": "Envoi…",
+      "submitButton": "Soumettre pour revue",
+      "mySubmissionsTitle": "Mes soumissions",
+      "mySubmissionsEmpty": "Aucune soumission pour l'instant.",
+      "editTitle": "Modifier la startup",
+      "editButton": "Modifier",
+      "updateButton": "Enregistrer",
+      "updating": "Enregistrement…",
+      "successUpdated": "Modifications enregistrées ({id})."
+    },
+    "teamsPage": {
+      "title": "Équipes & quotas",
+      "subtitle": "15 équipes, une par domaine. Le quota indique le nombre cible de startups à référencer par équipe ; l'administrateur seul peut ajuster la valeur."
+    },
+    "teams": {
+      "colCode": "Code",
+      "colTeamDomain": "Équipe / Domaine",
+      "colMembers": "Membres",
+      "colSubmissions": "Soumissions",
+      "colQuota": "Quota",
+      "colProgress": "Progression",
+      "saveOk": "OK"
+    },
+    "users": {
+      "errors": {
+        "load": "Impossible de charger les comptes.",
+        "invalidData": "Données invalides (email ou mot de passe ≥ 8 caractères).",
+        "alreadyUsed": "Création impossible (email peut-être déjà utilisé).",
+        "roleChange": "Changement de rôle impossible."
+      },
+      "successCreated": "Compte invité créé : {email}",
+      "title": "Comptes invités",
+      "subtitle": "Aucune inscription publique : seuls ces comptes peuvent se connecter. Tout changement de rôle est journalisé.",
+      "inviteTitle": "Inviter un nouveau compte",
+      "nameLabel": "Nom complet",
+      "emailLabel": "Email institutionnel",
+      "emailPlaceholder": "nom@mpme.gov.dz",
+      "roleLabel": "Rôle",
+      "domainLabel": "Domaine de l'équipe",
+      "passwordLabel": "Mot de passe provisoire",
+      "passwordPlaceholder": "≥ 8 caractères",
+      "createButton": "Créer le compte invité",
+      "colName": "Nom",
+      "colEmail": "Email",
+      "colRole": "Rôle",
+      "colDomain": "Domaine"
+    },
+    "translations": {
+      "title": "Traductions",
+      "subtitle": "Modifiez les versions française et arabe affichées sur le site public. L’anglais reste la référence.",
+      "coverage": "Couverture : {done}/{total} startups traduites.",
+      "french": "Français",
+      "arabic": "Arabe",
+      "missing": "Non traduite",
+      "translated": "Traduite",
+      "save": "Enregistrer la traduction",
+      "saving": "Enregistrement…",
+      "cancel": "Annuler",
+      "delete": "Supprimer",
+      "deleting": "Suppression…",
+      "saved": "Traduction enregistrée ({locale}).",
+      "deleted": "Traduction supprimée ({locale}).",
+      "editing": "Modification de la traduction {locale}",
+      "sourceLabel": "Source anglaise (référence)",
+      "deleteConfirm": "Recliquez pour confirmer",
+      "errors": {
+        "saveFailed": "Impossible d’enregistrer la traduction.",
+        "deleteFailed": "Impossible de supprimer la traduction."
+      },
+      "searchPlaceholder": "Filtrer les startups…",
+      "noResults": "Aucune startup correspondante"
+    }
+  },
+  "Policy": {
+    "title": "Conditions & Confidentialité",
+    "lastUpdated": "Dernière mise à jour : septembre 2026",
+    "intro": "Cette page explique le fonctionnement de ce répertoire, la gestion de vos données et les conditions qui s’appliquent lorsque vous naviguez ou contribuez.",
+    "usage": {
+      "title": "1. Objet & utilisation",
+      "body": "Le service est un répertoire ouvert et trilingue d’initiatives deep-tech. Il est fourni à titre informatif : la consultation est gratuite et ne nécessite pas de compte."
+    },
+    "accounts": {
+      "title": "2. Comptes & contributions",
+      "body": "Soumettre ou enregistrer du contenu peut nécessiter un compte. Les données de compte se limitent à ce qui est nécessaire pour fournir ces fonctionnalités, et les identifiants sont protégés selon les standards de l’industrie."
+    },
+    "content": {
+      "title": "3. Contenu & exactitude",
+      "body": "Les fiches d’initiatives sont compilées et vérifiées par des éditeurs. Nous faisons des efforts raisonnables pour tenir les informations à jour, sans en garantir l’exhaustivité ni l’exactitude. Détails d’entreprise, financements et coordonnées peuvent évoluer."
+    },
+    "ip": {
+      "title": "4. Propriété intellectuelle",
+      "body": "Le contenu que vous soumettez vous appartient. En le soumettant, vous nous accordez une licence non exclusive pour l’afficher et le maintenir dans le répertoire. Logos et marques demeurent la propriété de leurs titulaires respectifs."
+    },
+    "privacy": {
+      "title": "5. Confidentialité",
+      "body": "Nous collectons uniquement ce qui est nécessaire à l’exploitation du service : les données de compte fournies, les éléments que vous enregistrez et des données d’usage anonymes sur les pages consultées. Ces données ne sont jamais vendues à des tiers."
+    },
+    "cookies": {
+      "title": "6. Cookies",
+      "body": "Nous utilisons quelques cookies pour les fonctions essentielles : préférence de langue, thème visuel et persistance de session lorsque vous êtes connecté. Aucun cookie publicitaire ni de suivi inter-sites n’est utilisé."
+    },
+    "liability": {
+      "title": "7. Responsabilité",
+      "body": "Le service est fourni « tel quel », sans garantie d’aucune sorte. Nous ne sommes pas responsables de l’usage du répertoire ni des décisions prises sur la base de son contenu."
+    },
+    "contact": {
+      "title": "8. Contact & crédits",
+      "body": "Pour toute question relative à ces conditions ou à vos données, contactez l’équipe qui maintient ce répertoire.",
+      "credit": "Réalisé par T. Chams à l’incubateur de Tébessa."
+    }
+  }
+}

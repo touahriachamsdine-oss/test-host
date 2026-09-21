@@ -1,0 +1,488 @@
+{
+  "aircrop": {
+    "fr": {
+      "name": "AirCrop",
+      "country": "Algérie",
+      "sub_domain": "Agriculture de précision par drones et IA",
+      "short_description": "Plateforme « Drone-as-a-Service » qui utilise l'IA pour surveiller en temps réel la santé des cultures : détection de maladies, de ravageurs et de problèmes d'irrigation, plus pulvérisation ciblée. Reconnue dans le cadre du Challenge Startup Algérie 2024.",
+      "technology": "Drones agricoles, imagerie multispectrale, analyses IA",
+      "why_relevant": "Lauréate du Challenge Agritech 2024, elle réduit les pertes de récolte et les intrants pour les agriculteurs algériens."
+    },
+    "ar": {
+      "name": "AirCrop",
+      "country": "الجزائر",
+      "sub_domain": "زراعة دقيقة بالطائرات بدون طيار والذكاء الاصطناعي",
+      "short_description": "منصة «الزراعة كخدمة عبر الطائرات» تستخدم الذكاء الاصطناعي لمراقبة صحة المحاصيل في الوقت الفعلي: كشف الأمراض والآفات ومشاكل الري، مع رش موجّه. حصلت على تقدير في تحدي الشركات الناشئة الجزائرية 2024.",
+      "technology": "طائرات زراعية بدون طيار، تصوير متعدد الأطياف، تحليلات بالذكاء الاصطناعي",
+      "why_relevant": "حائزة على جائزة تحدي Agritech 2024، تحدّ من خسائر المحاصيل وترشّد المدخلات للمزارعين الجزائريين."
+    }
+  },
+  "atlas-space": {
+    "fr": {
+      "name": "Atlas Spaceworks",
+      "country": "Algérie",
+      "sub_domain": "CubeSats et stations au sol",
+      "short_description": "Plateformes CubeSat et réseaux de stations au sol à faible coût pour l'observation de la Terre africaine.",
+      "technology": "Bus CubeSat, stations au sol en bande S, logiciels de télémétrie",
+      "why_relevant": "Construit une capacité spatiale souveraine pour surveiller l'agriculture et l'eau en Afrique du Nord."
+    },
+    "ar": {
+      "name": "Atlas Spaceworks",
+      "country": "الجزائر",
+      "sub_domain": "الأقمار المكعبة والمحطات الأرضية",
+      "short_description": "منصات أقمار نانوية (CubeSat) وشبكات محطات أرضية منخفضة التكلفة لمراقبة الأرض في إفريقيا.",
+      "technology": "حافلات CubeSat، محطات أرضية بالنطاق S، برمجيات قياس عن بُعد",
+      "why_relevant": "تبني قدرة فضائية سيادية لمراقبة الزراعة والمياه في شمال إفريقيا."
+    }
+  },
+  "aures-medic": {
+    "fr": {
+      "name": "Aurès MedTech",
+      "country": "Algérie",
+      "sub_domain": "Dispositifs médicaux",
+      "short_description": "Moniteurs de constantes vitales assistés par IA, abordables et adaptés aux cliniques rurales.",
+      "technology": "ML embarqué, matériel basse consommation, API de télésanté",
+      "why_relevant": "Réduit la dépendance aux dispositifs médicaux importés et améliore l'accès aux soins en milieu rural."
+    },
+    "ar": {
+      "name": "Aurès MedTech",
+      "country": "الجزائر",
+      "sub_domain": "الأجهزة الطبية",
+      "short_description": "أجهزة مراقبة للعلامات الحيوية مدعومة بالذكاء الاصطناعي، بأسعار في المتناول ومناسبة للعيادات الريفية.",
+      "technology": "تعلم آلي مدمج، أجهزة منخفضة الاستهلاك، واجهات برمجية للتطبيب عن بُعد",
+      "why_relevant": "تقلّل الاعتماد على الأجهزة الطبية المستوردة وتحسّن الوصول إلى الرعاية الصحية في المناطق الريفية."
+    }
+  },
+  "badis-ai": {
+    "fr": {
+      "name": "BADIS AI",
+      "country": "Algérie",
+      "sub_domain": "Logiciels IA souverains",
+      "short_description": "Éditeur de logiciels IA souverains sur site (OCR, RAG, agents IA, chatbots, assistant de données) basé au Cyberparc de Sidi Abdellah, Alger. Classé dans le Top 10 des startups IA et EdTech en Algérie.",
+      "technology": "OCR, RAG, agents LLM, suite IA sur site",
+      "why_relevant": "Fait partie de la première vague de startups algériennes d'IA souveraine incubées au Cyberparc de Sidi Abdellah ; il représente l'écosystème national des logiciels IA."
+    },
+    "ar": {
+      "name": "BADIS AI",
+      "country": "الجزائر",
+      "sub_domain": "برمجيات الذكاء الاصطناعي السيادية",
+      "short_description": "ناشر برمجيات ذكاء اصطناعي سيادية تُنشر محليًا (OCR، RAG، وكلاء ذكاء اصطناعي، روبوتات محادثة، مساعد بيانات) مقره بمجمع سيدي عبد الله التقني بالجزائر العاصمة. مصنّف ضمن أفضل 10 شركات ناشئة في الذكاء الاصطناعي والتعليم التقني بالجزائر.",
+      "technology": "OCR، RAG، وكلاء تعلم آلي، مجموعة أدوات ذكاء اصطناعي محلية",
+      "why_relevant": "ضمن الموجة الأولى من شركات الذكاء الاصطناعي السيادية الجزائرية المحتضنة بمجمع سيدي عبد الله؛ ويمثل منظومة البرمجيات الوطنية للذكاء الاصطناعي."
+    }
+  },
+  "bk-fire-icosium": {
+    "fr": {
+      "name": "BK Fire (Icosium)",
+      "country": "Algérie",
+      "sub_domain": "Robots de lutte contre l'incendie",
+      "short_description": "PME deeptech industrielle repositionnée sous le nom BK Fire. Icosium est un robot anti-incendie algérien de 480 kg résistant à 2000 °C, projection d'eau à 80 m, portée de commande de 300 m ; la mise à niveau IA de 2026 ajoute la détection autonome.",
+      "technology": "Robotique, lutte anti-incendie téléopérée, détection et intervention par IA",
+      "why_relevant": "Seul robot de ce type fabriqué en Afrique/monde arabe, exposé à InterSchutz Hanovre - modèle d'export de hardware deeptech algérien."
+    },
+    "ar": {
+      "name": "BK Fire (Icosium)",
+      "country": "الجزائر",
+      "sub_domain": "روبوتات إطفاء الحرائق",
+      "short_description": "شركة صناعية ناشئة أعيدت هيكلتها باسم BK Fire. إيكوسيوم روبوت إطفاء جزائري الصنع يزن 480 كغ يتحمّل حرارة 2000 درجة مئوية، بقذف مائي يصل إلى 80 م ونطاق تحكم 300 م؛ ترقية الذكاء الاصطناعي 2026 تضيف الكشف الذاتي.",
+      "technology": "روبوتات، إطفاء يعمل بالتحكم عن بُعد، كشف وتدخل بالذكاء الاصطناعي",
+      "why_relevant": "الروبوت الوحيد من نوعه المصنّع في إفريقيا/العالم العربي، عُرض في معرض Interschutz هانوفر - نموذج لتصدير الأجهزة التكنولوجية العميقة الجزائرية."
+    }
+  },
+  "cybershield-dz": {
+    "fr": {
+      "name": "CyberShield DZ",
+      "country": "Algérie",
+      "sub_domain": "Opérations de sécurité",
+      "short_description": "Plateforme de détection et de réponse gérées, adaptée aux PME algériennes et au secteur public.",
+      "technology": "SIEM, EDR, corrélation de menaces par IA",
+      "why_relevant": "Comble un manque critique de résilience cybernétique nationale pour les infrastructures sensibles."
+    },
+    "ar": {
+      "name": "CyberShield DZ",
+      "country": "الجزائر",
+      "sub_domain": "عمليات الأمن السيبراني",
+      "short_description": "منصة كشف واستجابة مُدارة، مصممة للمؤسسات الصغيرة والمتوسطة الجزائرية والقطاع العام.",
+      "technology": "SIEM، EDR، ربط التهديدات بالذكاء الاصطناعي",
+      "why_relevant": "تسد فجوة حرجة في المرونة السيبرانية الوطنية للبنى التحتية الحساسة."
+    }
+  },
+  "dz-biomark": {
+    "fr": {
+      "name": "DZ BioMark",
+      "country": "Algérie",
+      "sub_domain": "Diagnostic",
+      "short_description": "Kits de diagnostic moléculaire à faible coût pour les maladies infectieuses, adaptés à la logistique désertique.",
+      "technology": "Détection par CRISPR, réactifs lyophilisés",
+      "why_relevant": "Apporte un diagnostic rapide aux régions isolées, réduisant le délai de transport des échantillons de plusieurs jours."
+    },
+    "ar": {
+      "name": "DZ BioMark",
+      "country": "الجزائر",
+      "sub_domain": "التشخيص الطبي",
+      "short_description": "مجموعات تشخيص جزيئي منخفضة التكلفة للأمراض المعدية، ملائمة للوجستيات الصحراوية.",
+      "technology": "كشف بتقنية CRISPR، كواشف مجففة",
+      "why_relevant": "توفّر تشخيصًا سريعًا للمناطق النائية، وتختصر أيامًا من وقت نقل العينات."
+    }
+  },
+  "farmai": {
+    "fr": {
+      "name": "FarmAI",
+      "country": "Algérie",
+      "sub_domain": "Détection IA des maladies des cultures",
+      "short_description": "Startup agritech qui détecte les infections des plantes à un stade précoce grâce à l'IA et aux drones. Vainqueur du prix People's Choice de Huawei Tech4Good (100 000 $) pour la détection de la rouille du blé par imagerie multispectrale.",
+      "technology": "Vision par ordinateur, imagerie drone multispectrale, classification ML",
+      "why_relevant": "Reconnaissance mondiale (prix Huawei de 100 000 $) pour l'IA appliquée à la sécurité alimentaire - priorité nationale stratégique pour l'autosuffisance en blé."
+    },
+    "ar": {
+      "name": "FarmAI",
+      "country": "الجزائر",
+      "sub_domain": "كشف أمراض المحاصيل بالذكاء الاصطناعي",
+      "short_description": "شركة ناشئة في التكنولوجيا الزراعية تكشف إصابات النباتات مبكرًا عبر الذكاء الاصطناعي والطائرات بدون طيار. فازت بجائزة اختيار الجمهور من Huawei Tech4Good (100 ألف دولار) لكشف صدأ القمح بالتصوير متعدد الأطياف.",
+      "technology": "رؤية حاسوبية، تصوير متعدد الأطياف بالطائرات، تصنيف بالتعلم الآلي",
+      "why_relevant": "اعتراف عالمي (جائزة Huawei بـ100 ألف دولار) لتطبيق الذكاء الاصطناعي على الأمن الغذائي — أولوية وطنية استراتيجية لتحقيق الاكتفاء الذاتي من القمح."
+    }
+  },
+  "flyteq": {
+    "fr": {
+      "name": "FLYTEQ",
+      "country": "Algérie",
+      "sub_domain": "Services d'ingénierie drone",
+      "short_description": "Entreprise algérienne de l'écosystème drone proposant des services : agriculture de précision (AGRO TEQ), cartographie géospatiale (GEO TEQ), inspection d'infrastructures (SCAN TEQ) et nettoyage en hauteur (CLEAN TEQ).",
+      "technology": "Photogrammétrie drone, NDVI multispectral, inspection thermique, intelligence des données IA",
+      "why_relevant": "Capacité algérienne souveraine en ingénierie drone - services de données aériennes pour l'agriculture, la sécurité et l'inspection industrielle."
+    },
+    "ar": {
+      "name": "FLYTEQ",
+      "country": "الجزائر",
+      "sub_domain": "خدمات هندسة الطائرات بدون طيار",
+      "short_description": "شركة جزائرية في منظومة الطائرات بدون طيار تقدم خدمات: الزراعة الدقيقة (AGRO TEQ)، الخرائط الجغرافية (GEO TEQ)، فحص البنى التحتية (SCAN TEQ) والتنظيف على الارتفاعات (CLEAN TEQ).",
+      "technology": "المسح الفوتوغرامتري بالطائرات، NDVI متعدد الأطياف، فحص حراري، استخبارات بيانات بالذكاء الاصطناعي",
+      "why_relevant": "قدرة جزائرية سيادية في هندسة الطائرات — خدمات البيانات الجوية للزراعة والأمن والفحص الصناعي."
+    }
+  },
+  "formlabs": {
+    "fr": {
+      "name": "Formlabs",
+      "country": "États-Unis",
+      "sub_domain": "Impression 3D de bureau et industrielle",
+      "short_description": "Producteur d'imprimantes 3D SLA et SLS accessibles, utilisées par les ingénieurs, industriels et designers du monde entier depuis 2011.",
+      "technology": "Stéréolithographie, frittage sélectif par laser, impression 3D",
+      "why_relevant": "Référence de la démocratisation des équipements avancés de fabrication."
+    },
+    "ar": {
+      "name": "Formlabs",
+      "country": "الولايات المتحدة",
+      "sub_domain": "الطباعة ثلاثية الأبعاد المكتبية والصناعية",
+      "short_description": "مصنّع طابعات ثلاثية الأبعاد SLA وSLS ميسورة التكلفة، يستخدمها المهندسون والمصنّعون والمصممون حول العالم منذ 2011.",
+      "technology": "الطباعة الضوئية، التلبيد الانتقائي بالليزر، الطباعة ثلاثية الأبعاد",
+      "why_relevant": "مرجع في جعل معدات التصنيع المتقدمة في متناول الجميع."
+    }
+  },
+  "kabas-ai": {
+    "fr": {
+      "name": "KABAS AI",
+      "country": "Algérie",
+      "sub_domain": "IA générative",
+      "short_description": "Grand modèle de langue arabe souverain, entraîné sur site pour les gouvernements et les entreprises.",
+      "technology": "Ajustement fin de LLM, RAG, inférence sur site",
+      "why_relevant": "Répond aux enjeux de souveraineté numérique et aux lacunes du traitement du langage arabe avec un modèle fondation construit en Algérie."
+    },
+    "ar": {
+      "name": "KABAS AI",
+      "country": "الجزائر",
+      "sub_domain": "الذكاء الاصطناعي التوليدي",
+      "short_description": "نموذج لغوي عربي كبير سيادي، يُدرَّب محليًا للاستخدام الحكومي والمؤسساتي.",
+      "technology": "ضبط دقيق للنماذج اللغوية، RAG، استدلال محلي",
+      "why_relevant": "يعالج قضايا السيادة الرقمية وثغرات معالجة اللغة العربية بنموذج مؤسس مبني في الجزائر."
+    }
+  },
+  "kleenov": {
+    "fr": {
+      "name": "Kleenov",
+      "country": "Algérie",
+      "sub_domain": "Robots aquatiques autonomes",
+      "short_description": "Développe AquaBotX, un robot aquatique autonome pour nettoyer les déchets flottants et surveiller la qualité de l'eau dans les barrages, ports, rivières et lacs. Technologie développée en Algérie.",
+      "technology": "Robotique aquatique autonome, capteurs, IA",
+      "why_relevant": "Allie robotique et IA pour la préservation de l'environnement - un segment qui répond directement aux défis de l'infrastructure hydraulique algérienne."
+    },
+    "ar": {
+      "name": "Kleenov",
+      "country": "الجزائر",
+      "sub_domain": "روبوتات مائية ذاتية القيادة",
+      "short_description": "تطوّر AquaBotX، روبوت مائي مستقل لتنظيف النفايات العائمة ومراقبة جودة المياه في السدود والموانئ والأنهار والبحيرات. تقنية طوّرت في الجزائر.",
+      "technology": "روبوتات مائية ذاتية القيادة، حساسات، ذكاء اصطناعي",
+      "why_relevant": "يجمع الروبوتات والذكاء الاصطناعي للحفاظ على البيئة — قطاع يعالج مباشرة تحديات البنية التحتية للمياه الجزائرية."
+    }
+  },
+  "lablabee": {
+    "fr": {
+      "name": "LabLabee",
+      "country": "Algérie",
+      "sub_domain": "Laboratoires virtuels / EdTech",
+      "short_description": "Première edtech algérienne avec des ambitions américaines. Fournit des laboratoires virtuels à la demande pour la 5G, le Cloud, l'IMS et Kubernetes. A levé 3,4 M$ en 2024, mené par Reach Capital.",
+      "technology": "Simulateurs et laboratoires virtuels 5G, Cloud, Kubernetes",
+      "why_relevant": "Prouve qu'une startup algérienne peut lever des capitaux internationaux (Reach Capital, Brighteye) pour de la deeptech B2B à l'échelle mondiale."
+    },
+    "ar": {
+      "name": "LabLabee",
+      "country": "الجزائر",
+      "sub_domain": "مختبرات افتراضية / تكنولوجيا التعليم",
+      "short_description": "أول شركة تعليم تقني جزائرية بطموحات أمريكية. توفّر مختبرات افتراضية عند الطلب لتقنيات 5G، السحابة، IMS وKubernetes. جمعت 3.4 مليون دولار في 2024 بقيادة Reach Capital.",
+      "technology": "محاكيات ومختبرات افتراضية لـ5G، السحابة، Kubernetes",
+      "why_relevant": "دليل على قدرة شركة جزائرية ناشئة على جذب رأس مال دولي (Reach Capital, Brighteye) في مجال التكنولوجيا العميقة B2B عالميًا."
+    }
+  },
+  "maghreb-storage": {
+    "fr": {
+      "name": "Maghreb Storage Solutions",
+      "country": "Algérie",
+      "sub_domain": "Stockage par batteries",
+      "short_description": "Systèmes de stockage d'énergie par batteries à l'échelle industrielle pour compenser l'intermittence du solaire.",
+      "technology": "BESS LFP, onduleurs intelligents, logiciels EMS",
+      "why_relevant": "Débloque le potentiel solaire algérien en résolvant le goulot d'étranglement du stockage sur le réseau."
+    },
+    "ar": {
+      "name": "Maghreb Storage Solutions",
+      "country": "الجزائر",
+      "sub_domain": "تخزين الطاقة بالبطاريات",
+      "short_description": "أنظمة تخزين طاقة بالبطاريات على نطاق المرافق لموازنة التذبذب في الطاقة الشمسية.",
+      "technology": "بطاريات LFP، محولات ذكية، برمجيات EMS",
+      "why_relevant": "تطلق العنان للإمكانات الشمسية الجزائرية من خلال حل قيد تخزين الشبكة."
+    }
+  },
+  "mimic-al": {
+    "fr": {
+      "name": "MIMIC-AL",
+      "country": "Algérie",
+      "sub_domain": "Lab-on-chip et bioingénierie",
+      "short_description": "Première startup Biotech 4.0 en Algérie, spécialisée en bioingénierie et omique : plateformes lab-on-chip, génie génétique, ingénierie cellulaire et tissulaire. Partenaire du Centre de Recherche en Biotechnologie (C.R.B.t).",
+      "technology": "Lab-on-chip (LOC), microfluidique, CRISPR, ingénierie tissulaire",
+      "why_relevant": "Startup pionnière de la biotech 4.0 algérienne, reconnue nationalement et distinguée au niveau présidentiel pour sa R&D en lab-on-chip."
+    },
+    "ar": {
+      "name": "MIMIC-AL",
+      "country": "الجزائر",
+      "sub_domain": "المختبر على الشريحة والهندسة الحيوية",
+      "short_description": "أول شركة ناشئة جزائرية في التكنولوجيا الحيوية 4.0، متخصصة في الهندسة الحيوية وعلم الأوميكس: منصات مختبر على شريحة، هندسة وراثية، هندسة خلوية وأنسجية. شريك لمركز البحث في التكنولوجيا الحيوية (C.R.B.t).",
+      "technology": "مختبر على شريحة (LOC)، ميكروفلويديكس، CRISPR، هندسة الأنسجة",
+      "why_relevant": "شركة جزائرية رائدة في التكنولوجيا الحيوية 4.0 حاصلة على تقدير وطني وتمييز رئاسي لأبحاثها في المختبر على الشريحة."
+    }
+  },
+  "nanox-imaging": {
+    "fr": {
+      "name": "Nanox Imaging",
+      "country": "États-Unis",
+      "sub_domain": "Dispositifs de radiographie médicale",
+      "short_description": "Développe une technologie de radiographie numérique à champ lumineux pour rendre l'imagerie médicale accessible et abordable via la numérisation connectée au cloud.",
+      "technology": "Radiographie numérique, sources à cathode froide MEMS, imagerie cloud",
+      "why_relevant": "Réduction radicale du coût de l'imagerie médicale - un modèle pertinent pour l'accès medtech dans les marchés émergents."
+    },
+    "ar": {
+      "name": "Nanox Imaging",
+      "country": "الولايات المتحدة",
+      "sub_domain": "أجهزة الأشعة الطبية",
+      "short_description": "تطوّر تقنية أشعة سينية رقمية بالمجال الضوئي لجعل التصوير الطبي في متناول الجميع وبأسعار معقولة عبر مسح ضوئي موصول بالسحابة.",
+      "technology": "أشعة رقمية، مصادر مهبط بارد MEMS، تصوير سحابي",
+      "why_relevant": "خفض جذري لتكلفة التصوير الطبي — نموذج وثيق الصلة بإتاحة التكنولوجيا الطبية في الأسواق الناشئة."
+    }
+  },
+  "nooragri": {
+    "fr": {
+      "name": "NoorAgri",
+      "country": "Algérie",
+      "sub_domain": "Serres intelligentes et FaaS",
+      "short_description": "Entreprise agritech soutenant une agriculture intelligente et durable : construction et gestion de serres, tunnels et pivots combinant matériaux avancés, IoT, IA et énergie solaire (Farming-as-a-Service).",
+      "technology": "Capteurs IoT, IA, drones agricoles, énergie solaire, ingénierie de serres",
+      "why_relevant": "Intègre IoT, IA, drones et solaire dans toute la chaîne de valeur agricole avec un modèle de service pour les agriculteurs algériens."
+    },
+    "ar": {
+      "name": "NoorAgri",
+      "country": "الجزائر",
+      "sub_domain": "بيوت بلاستيكية ذكية وزراعة كخدمة",
+      "short_description": "شركة تكنولوجيا زراعية تدعم الزراعة الذكية والمستدامة: بناء وإدارة البيوت البلاستيكية والأنفاق وأنظمة المحاور المائية مع دمج المواد المتقدمة، إنترنت الأشياء، الذكاء الاصطناعي والطاقة الشمسية (الزراعة كخدمة).",
+      "technology": "حساسات إنترنت الأشياء، ذكاء اصطناعي، طائرات زراعية، طاقة شمسية، هندسة البيوت البلاستيكية",
+      "why_relevant": "تدمج إنترنت الأشياء والذكاء الاصطناعي والطائرات والطاقة الشمسية عبر سلسلة القيمة الزراعية بنموذج خدمة للمزارعين الجزائريين."
+    }
+  },
+  "northvolt": {
+    "fr": {
+      "name": "Northvolt",
+      "country": "Suède",
+      "sub_domain": "Cellules de batterie lithium-ion",
+      "short_description": "Producteur européen de batteries fabriquant des cellules lithium-ion, des systèmes et le recyclage pour les véhicules électriques et le stockage d'énergie stationnaire.",
+      "technology": "Fabrication de cellules lithium-ion, recyclage de batteries, gigafactories",
+      "why_relevant": "Référence européenne de scale-up deeptech pour le stockage d'énergie ; étalon pour les chaînes de valeur des batteries."
+    },
+    "ar": {
+      "name": "Northvolt",
+      "country": "السويد",
+      "sub_domain": "خلايا بطاريات الليثيوم أيون",
+      "short_description": "مصنّع أوروبي للبطاريات ينتج خلايا الليثيوم أيون وأنظمة وإعادة تدوير للمركبات الكهربائية وتخزين الطاقة الثابتة.",
+      "technology": "تصنيع خلايا الليثيوم أيون، إعادة تدوير البطاريات، مصانع عملاقة",
+      "why_relevant": "مرجع أوروبي في توسّع التكنولوجيا العميقة لتخزين الطاقة؛ ومعيار لسلاسل قيمة البطاريات."
+    }
+  },
+  "optibot-dz": {
+    "fr": {
+      "name": "OptiBot DZ",
+      "country": "Algérie",
+      "sub_domain": "Robotique industrielle (RaaS)",
+      "short_description": "Propose des robots intelligents autonomes - chariots autopilotés (500-1500 kg) et bras robotisés - aux entrepôts et usines algériens via un abonnement Robotics-as-a-Service.",
+      "technology": "Robots mobiles autonomes, navigation LiDAR, vision par ordinateur IA",
+      "why_relevant": "Couche d'adoption robotique locale : le modèle RaaS abordable rend l'automatisation industrielle accessible aux industriels algériens."
+    },
+    "ar": {
+      "name": "OptiBot DZ",
+      "country": "الجزائر",
+      "sub_domain": "الروبوتات الصناعية (روبوتات كخدمة)",
+      "short_description": "توفّر روبوتات ذكية مستقلة — عربات ذاتية القيادة (500-1500 كغ) وأذرع روبوتية — للمستودعات والمصانع الجزائرية عبر نموذج اشتراك (الروبوتات كخدمة).",
+      "technology": "روبوتات متنقلة مستقلة، ملاحة بالليدار، رؤية حاسوبية بالذكاء الاصطناعي",
+      "why_relevant": "طبقة اعتماد محلية للروبوتات: نموذج الاشتراك الاقتصادي يجعل الأتمتة الصناعية في متناول المصنّعين الجزائريين."
+    }
+  },
+  "qareeb": {
+    "fr": {
+      "name": "Qareeb",
+      "country": "Algérie",
+      "sub_domain": "IoT et edge computing",
+      "short_description": "Conçoit des produits IoT et de edge computing adaptés aux conditions de terrain algériennes. Q-Farming utilise la connectivité LoRa avec une portée de 30 km pour l'agriculture intelligente ; également Q-Vision et Q-Access.",
+      "technology": "LoRa, edge computing, vision par ordinateur, contrôle d'accès",
+      "why_relevant": "A remporté le Greentech Challenge et représenté l'Algérie au LEAP 2025 - matériel IoT local conçu pour des conditions locales."
+    },
+    "ar": {
+      "name": "Qareeb",
+      "country": "الجزائر",
+      "sub_domain": "إنترنت الأشياء والحوسبة الطرفية",
+      "short_description": "تصمّم منتجات إنترنت الأشياء والحوسبة الطرفية المكيّفة مع ظروف الميدان الجزائرية. Q-Farming تستخدم اتصال LoRa بمدى 30 كلم للزراعة الذكية؛ بالإضافة إلى Q-Vision وQ-Access.",
+      "technology": "LoRa، حوسبة طرفية، رؤية حاسوبية، تحكم بالدخول",
+      "why_relevant": "فازت بتحدي Greentech وتمثل الجزائر في LEAP 2025 — أجهزة إنترنت الأشياء محلية الصنع مصممة للظروف المحلية."
+    }
+  },
+  "rocket-lab": {
+    "fr": {
+      "name": "Rocket Lab",
+      "country": "États-Unis",
+      "sub_domain": "Services de lancement et engins spatiaux",
+      "short_description": "Entreprise spatiale intégrée fournissant des services de lancement dédiés (Electron), la fabrication d'engins spatiaux et des composants satellite depuis 2006.",
+      "technology": "Petits lanceurs, engins photon, fusées en composite carbone",
+      "why_relevant": "Modèle mondial de petits lanceurs et d'accès orbital rapide, pertinent pour les programmes spatiaux émergents."
+    },
+    "ar": {
+      "name": "Rocket Lab",
+      "country": "الولايات المتحدة",
+      "sub_domain": "خدمات الإطلاق والمركبات الفضائية",
+      "short_description": "شركة فضائية متكاملة تقدّم خدمات إطلاق مخصص (Electron)، وتصنيع مركبات فضائية ومكوّنات أقمار صناعية منذ 2006.",
+      "technology": "مركبات إطلاق صغيرة، مركبات فوتون، صواريخ بألياف الكربون",
+      "why_relevant": "نموذج عالمي للصواريخ الصغيرة والوصول المداري السريع، وثيق الصلة بالبرامج الفضائية الناشئة."
+    }
+  },
+  "sahara-drones": {
+    "fr": {
+      "name": "Sahara Sky Drones",
+      "country": "Algérie",
+      "sub_domain": "Drones agricoles",
+      "short_description": "Essaim de drones autonomes pour l'agriculture de précision sur de grandes exploitations proches du Sahara.",
+      "technology": "Essaimage autonome, imagerie NDVI, recharge solaire",
+      "why_relevant": "Optimise l'utilisation de l'eau et des engrais dans l'agriculture aride, soutenant directement la sécurité alimentaire."
+    },
+    "ar": {
+      "name": "Sahara Sky Drones",
+      "country": "الجزائر",
+      "sub_domain": "طائرات زراعية بدون طيار",
+      "short_description": "سرب طائرات بدون طيار مستقلة للزراعة الدقيقة في المزارع الكبيرة المتاخمة للصحراء.",
+      "technology": "تحليق سرب ذاتي، تصوير NDVI، شحن شمسي",
+      "why_relevant": "يحسّن استخدام الماء والأسمدة في الزراعة الجافة، دعمًا مباشرًا للأمن الغذائي."
+    }
+  },
+  "sifive": {
+    "fr": {
+      "name": "SiFive",
+      "country": "États-Unis",
+      "sub_domain": "Processeurs RISC-V",
+      "short_description": "Pionnier de l'informatique RISC-V, fournissant une IP de processeurs à architecture ouverte et la personnalisation pour les semi-conducteurs, accélérateurs IA et SoC.",
+      "technology": "Cœurs RISC-V, IP de processeurs, conception SoC",
+      "why_relevant": "Au centre du mouvement ISA ouverte qui permet une conception de puces souveraine - clé de la souveraineté des semi-conducteurs."
+    },
+    "ar": {
+      "name": "SiFive",
+      "country": "الولايات المتحدة",
+      "sub_domain": "معالجات RISC-V",
+      "short_description": "رائد الحوسبة RISC-V، يوفّر ملكية فكرية لمعالجات ذات بنية مفتوحة وتخصيصًا لأشباه الموصلات ومسرعات الذكاء الاصطناعي والأنظمة على شريحة.",
+      "technology": "أنوية RISC-V، ملكية فكرية للمعالجات، تصميم SoC",
+      "why_relevant": "في مركز حركة البنية المفتوحة التي تتيح تصميم رقائق سيادي — مفتاح سيادة أشباه الموصلات."
+    }
+  },
+  "symloop": {
+    "fr": {
+      "name": "Symloop",
+      "country": "Algérie",
+      "sub_domain": "Plateforme IA souveraine",
+      "short_description": "Entreprise de deeptech IA à Alger (fondée en 2012) construisant NOOR, une plateforme IA souveraine, et des systèmes IA de production pour banques, ministères, acteurs pétroliers et hôpitaux au MENA.",
+      "technology": "IA de production, cloud souverain, plateformes IA",
+      "why_relevant": "Acteur algérien de longue date dans la deeptech IA, avec des déploiements réels dans des secteurs réglementés au MENA."
+    },
+    "ar": {
+      "name": "Symloop",
+      "country": "الجزائر",
+      "sub_domain": "منصة ذكاء اصطناعي سيادية",
+      "short_description": "شركة تكنولوجيا عميقة في الذكاء الاصطناعي بالجزائر العاصمة (تأسست 2012) تبني NOOR، منصة ذكاء اصطناعي سيادية، وأنظمة ذكاء اصطناعي إنتاجية للبنوك والوزارات ومشغلي النفط والغاز والمستشفيات في الشرق الأوسط وشمال إفريقيا.",
+      "technology": "ذكاء اصطناعي إنتاجي، سحابة سيادية، منصات ذكاء اصطناعي",
+      "why_relevant": "لاعب جزائري راسخ في التكنولوجيا العميقة للذكاء الاصطناعي مع نشر فعلي في قطاعات منظمة في منطقة الشرق الأوسط وشمال إفريقيا."
+    }
+  },
+  "think-touch-solution": {
+    "fr": {
+      "name": "Think Touch Solution",
+      "country": "Algérie",
+      "sub_domain": "Pharmacovigilance IA",
+      "short_description": "Startup MedTech/Biotech basée à Alger, spécialisée en pharmacovigilance, cosmétovigilance et matériovigilance pilotées par l'IA (CureSkyAI, CosmetoCare). Sélectionnée pour le Saudi Biotechnology Accelerator 2025.",
+      "technology": "Analyses prédictives IA, sécurité des médicaments en NLP, données de santé",
+      "why_relevant": "Sélection par un accélérateur international (Saudi Vision 2030) pour la sûreté sanitaire IA protégeant les consommateurs MENA."
+    },
+    "ar": {
+      "name": "Think Touch Solution",
+      "country": "الجزائر",
+      "sub_domain": "التيقظ الدوائي بالذكاء الاصطناعي",
+      "short_description": "شركة ناشئة في التكنولوجيا الطبية والحيوية بالجزائر العاصمة، متخصصة في التيقظ الدوائي والتحصيني والمواد الطبية بقيادة الذكاء الاصطناعي (CureSkyAI, CosmetoCare). تم اختيارها لمسرع التكنولوجيا الحيوية السعودي 2025.",
+      "technology": "تحليلات تنبؤية بالذكاء الاصطناعي، سلامة الأدوية بمعالجة اللغة الطبيعية، بيانات صحية",
+      "why_relevant": "اختيار دولي (رؤية السعودية 2030) لسلامة صحية مدعومة بالذكاء الاصطناعي تحمي المستهلكين في المنطقة."
+    }
+  },
+  "wiz": {
+    "fr": {
+      "name": "Wiz",
+      "country": "États-Unis",
+      "sub_domain": "Plateforme de sécurité cloud",
+      "short_description": "Plateforme de sécurité cloud-native consolidant la gestion des vulnérabilités, la sécurité des conteneurs et du cloud ; devenue l'entreprise de sécurité à la croissance la plus rapide, a levé plus de 1 Md$ et a été acquise par Google en 2025.",
+      "technology": "Sécurité cloud, CNAPP, priorisation des vulnérabilités, analyse sans agent",
+      "why_relevant": "Référence des licornes de la cybersécurité ; référence pertinente pour l'adoption de la sécurité cloud."
+    },
+    "ar": {
+      "name": "Wiz",
+      "country": "الولايات المتحدة",
+      "sub_domain": "منصة أمان سحابي",
+      "short_description": "منصة أمان سحابية أصلية توحّد إدارة الثغرات وأمان الحاويات والسحابة؛ أصبحت أسرع شركة أمن نموًا، جمعت أكثر من مليار دولار واستحوذت عليها Google عام 2025.",
+      "technology": "أمان سحابي، CNAPP، ترتيب أولويات الثغرات، فحص بدون وكيل",
+      "why_relevant": "معيار لـ«اليونيكورن» في الأمن السيبراني؛ ومرجع وثيق الصلة بتبني أمان السحابة."
+    }
+  },
+  "yassirt-robotics": {
+    "fr": {
+      "name": "Yassirt Robotics",
+      "country": "Algérie",
+      "sub_domain": "Robotique industrielle",
+      "short_description": "Bras cobots et systèmes de vision automatisant les chaînes d'assemblage dans les usines nord-africaines.",
+      "technology": "Vision par ordinateur, intégration PLC, ROS2",
+      "why_relevant": "Renforce la compétitivité de la fabrication locale en rendant l'automatisation industrielle abordable."
+    },
+    "ar": {
+      "name": "Yassirt Robotics",
+      "country": "الجزائر",
+      "sub_domain": "الروبوتات الصناعية",
+      "short_description": "أذرع روبوتية متعاونة وأنظمة رؤية تؤتمت خطوط التجميع في مصانع شمال إفريقيا.",
+      "technology": "رؤية حاسوبية، تكامل PLC، ROS2",
+      "why_relevant": "تعزز تنافسية التصنيع المحلي بجعل الأتمتة الصناعية اقتصادية."
+    }
+  }
+}

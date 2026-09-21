@@ -1,0 +1,508 @@
+{
+  "Metadata": {
+    "title": "أفكار الشركات الناشئة — دليل التعمق التقني في الجزائر",
+    "description": "دليل ثلاثي اللغات للشركات الناشئة في مجال التكنولوجيا العميقة: الذكاء الاصطناعي، الروبوتات، التكنولوجيا الحيوية، الفضاء وغيرها."
+  },
+  "Navbar": {
+    "brand": "أفكار شركات ناشئة",
+    "brandTag": "الجزائر",
+    "edition": "طبعة 2026",
+    "home": "الرئيسية",
+    "browse": "تصفّح الشركات",
+    "domains": "المجالات",
+    "saved": "المحفوظة",
+    "openMenu": "افتح القائمة",
+    "closeMenu": "أغلق القائمة",
+    "signIn": "تسجيل الدخول",
+    "signOut": "تسجيل الخروج"
+  },
+  "Auth": {
+    "loginTitle": "تسجيل الدخول",
+    "loginSubtitle": "احفظ الشركات الناشئة في التقنية العميقة التي تريد بناءها في الجزائر وتابعها.",
+    "emailLabel": "البريد الإلكتروني",
+    "passwordLabel": "كلمة المرور",
+    "submit": "تسجيل الدخول",
+    "submitting": "جارٍ تسجيل الدخول…",
+    "signInAccountAlt": "أيقونة حساب تسجيل الدخول",
+    "noAccount": "لسْتَ عضوًا بعد؟",
+    "createAccount": "إنشاء حساب",
+    "createAccountLong": "إنشاء حساب",
+    "haveAccount": "هل لديك حساب بالفعل؟",
+    "signIn": "تسجيل الدخول",
+    "nameLabel": "الاسم الكامل",
+    "passwordHint": "8 أحرف على الأقل",
+    "errorInvalidCredentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة. حاول مجددًا.",
+    "errorEmailTaken": "يوجد حساب بالفعل بهذا البريد الإلكتروني.",
+    "errorWeakPassword": "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل.",
+    "errorGeneric": "حدث خطأ ما. حاول مجددًا.",
+    "errorRateLimited": "محاولات كثيرة جداً. أعد المحاولة بعد ساعة.",
+    "backHome": "العودة إلى الرئيسية",
+    "welcome": "مرحبًا من جديد!"
+  },
+  "LangSwitcher": {
+    "ariaLabel": "تغيير اللغة"
+  },
+  "Theme": {
+    "label": "مظهر الألوان",
+    "system": "حسب النظام",
+    "light": "فاتح",
+    "dark": "داكن",
+    "night": "ليلي"
+  },
+  "Hero": {
+    "badge": "التكنولوجيا العميقة · الجزائر",
+    "publication": "DZ / DT / 2026",
+    "title": "اكتشف الشركات الناشئة الواعدة",
+    "highlight": "في التكنولوجيا العميقة",
+    "subtitle": "منصة ثلاثية اللغة تتيح لك استكشاف الشركات الجزائرية الرائدة في الذكاء الاصطناعي والروبوتات والتكنولوجيا الحيوية والفضاء — جميعها مُتحقَّق منها.",
+    "searchPlaceholder": "ابحث بالاسم، التقنية أو المجال…",
+    "searchButton": "ابحث",
+    "browseAll": "تصفّح كل الشركات",
+    "editionLabel": "الطبعة",
+    "entriesLabel": "المراجع المسجَّلة",
+    "domainsLabel": "المجالات",
+    "teamsLabel": "الفرق"
+  },
+  "HowItWorks": {
+    "title": "كيف تقرأ هذا الفهرس؟",
+    "intro": "كل مبادرة مرقّمة ضمن مجالها: كود المجال ثم رقم المبادرة (مثال: AI · 014).",
+    "priority": "يشير المربّع إلى الأولوية الاستراتيجية:"
+  },
+  "Domains": {
+    "title": "استكشف حسب المجال",
+    "subtitle": "مجالات تقنية عميقة تغطي مشهد الابتكار في الجزائر.",
+    "explore": "استكشف",
+    "count": "{count, plural, zero {لا توجد مبادرة} one {# مبادرة} two {# مبادرتان} few {# مبادرات} many {# مبادرة} other {# مبادرة}}"
+  },
+  "Browse": {
+    "title": "تصفّح الشركات الناشئة",
+    "subtitle": "جميع المبادرات المعروضة هنا حاصلة على حالة «مُتحقَّق».",
+    "searchPlaceholder": "بحث بالاسم، التقنية أو المجال…",
+    "filterLabel": "الفلترة حسب المجال",
+    "allDomains": "كل المجالات",
+    "results": "النتائج {count, plural, zero {} one {(#)} two {(#)} few {(#)} many {(#)} other {(#)}}",
+    "searchButton": "ابحث",
+    "emptyTitle": "لا توجد نتائج",
+    "emptyText": "جرّب كلمة بحث أخرى أو أزل الفلتر الخاص بالمجال.",
+    "entries": "{count, plural, zero {0 مبادرات} one {# مبادرة} two {# مبادرة} few {# مبادرات} many {# مبادرة} other {# مبادرة}}",
+    "clear": "مسح",
+    "backToHome": "العودة إلى الرئيسية"
+  },
+  "Filters": {
+    "title": "الفلاتر",
+    "indexLabel": "فهرس",
+    "search": "ابحث عن الشركات الناشئة…",
+    "country": "البلد",
+    "searchCountries": "ابحث في البلدان…",
+    "noCountries": "لا توجد بلدان مطابقة",
+    "priority": "الأولوية",
+    "years": "سنة التأسيس",
+    "from": "من",
+    "to": "إلى",
+    "clear": "مسح الفلاتر",
+    "showResults": "عرض النتائج",
+    "close": "إغلاق",
+    "emptyTitle": "لا توجد شركات ناشئة مطابقة",
+    "emptyText": "عدّل البحث أو أزل بعض الفلاتر.",
+    "results": "{count, plural, zero {لا توجد شركات} one {# شركة ناشئة} two {# شركتان ناشئتان} few {# شركات ناشئة} many {# شركة ناشئة} other {# شركة ناشئة}}",
+    "entries": "{count, plural, zero {0 مبادرات} one {# مبادرة} two {# مبادرة} few {# مبادرات} many {# مبادرة} other {# مبادرة}}"
+  },
+  "StartupCard": {
+    "verifiedBadge": "مُتحقَّق منه",
+    "countryLabel": "البلد",
+    "yearLabel": "التأسيس",
+    "domainLabel": "المجال",
+    "viewDetails": "التفاصيل",
+    "similarLabel": "ذات صلة:"
+  },
+  "StartupDetail": {
+    "backToBrowse": "تصفّح",
+    "verifiedBadge": "مُتحقَّق منه",
+    "yearLabel": "سنة التأسيس",
+    "countryLabel": "البلد",
+    "domainLabel": "المجال",
+    "subDomainLabel": "التخصص",
+    "technologyLabel": "التقنية الأساسية",
+    "priorityLabel": "الأولوية",
+    "whyRelevantLabel": "لماذا هو مهم؟",
+    "sourceLabel": "مصدر المعلومات",
+    "officialSiteLabel": "الموقع الرسمي",
+    "teamLabel": "فريق البحث",
+    "breadcrumbHome": "الرئيسية",
+    "breadcrumbDomain": "المجال",
+    "breadcrumbSeparator": "/"
+  },
+  "DomainValidation": {
+    "label": "التحقق",
+    "tier": "المستوى",
+    "TO_CHECK": "للتحقق",
+    "IN_PROGRESS": "قيد الإنجاز",
+    "VALIDATED": "مُتحقَّق منه",
+    "REJECTED": "مرفوض"
+  },
+  "SaveButton": {
+    "save": "أريد بناء هذا في الجزائر",
+    "saved": "تمت إضافته إلى قائمتي ✓",
+    "savedAria": "إزالة من قائمتي",
+    "saveAria": "احفظ هذه الشركة الناشئة في قائمتي",
+    "signInToSave": "سجّل الدخول للحفظ"
+  },
+  "Saved": {
+    "title": "الشركات المحفوظة",
+    "subtitle": "المبادرات التي تريد بناءها في الجزائر.",
+    "count": "{count, plural, zero {لا توجد شركات محفوظة} one {# شركة محفوظة} two {# شركتان محفوظتان} few {# شركات محفوظة} many {# شركة محفوظة} other {# شركة محفوظة}}",
+    "emptyTitle": "لا توجد شركات محفوظة بعد",
+    "emptyText": "اضغط على «أريد بناء هذا في الجزائر» في بطاقة الشركة الناشئة لإضافتها إلى هذه القائمة.",
+    "browse": "تصفّح الشركات الناشئة",
+    "remove": "إزالة"
+  },
+  "Priority": {
+    "A": "أولوية عالية",
+    "B": "أولوية متوسطة",
+    "C": "أولوية معيارية"
+  },
+  "Status": {
+    "verified": "مُتحقَّق منه",
+    "pending": "قيد المراجعة",
+    "rejected": "مرفوض"
+  },
+  "Footer": {
+    "tagline": "دليل مفتوح ثلاثي اللغة لمبادرات التكنولوجيا العميقة في الجزائر.",
+    "exploreTitle": "استكشاف",
+    "rights": "جميع الحقوق محفوظة.",
+    "legalTitle": "قانوني",
+    "policy": "الشروط والخصوصية",
+    "credit": "أُنجز بواسطة ت. شمس في حاضنة تبسة."
+  },
+  "NotFound": {
+    "title": "الصفحة غير موجودة",
+    "text": "عذراً، الصفحة التي تبحث عنها غير متوفرة أو مرفوضة.",
+    "home": "العودة إلى الرئيسية"
+  },
+  "domainNames": {
+    "ai-computing": "الذكاء الاصطناعي والحوسبة المتقدمة",
+    "robotics": "الروبوتات",
+    "biotech-healthtech": "التقنية الحيوية وتقنية الصحة",
+    "drones-autonomy": "الأنظمة الذاتية والطائرات المسيّرة",
+    "nanotech-materials": "تقنية النانو والمواد المتقدمة",
+    "energy-storage": "الطاقة وتخزينها",
+    "space-aerospace": "تقنية الفضاء والطيران",
+    "agritech-foodtech": "التقنية الزراعية والغذائية",
+    "medtech": "التقنية الطبية",
+    "semiconductors": "أشباه الموصلات والإلكترونيات",
+    "cybersecurity": "الأمن السيبراني",
+    "manufacturing-3d": "التصنيع المتقدم والطباعة ثلاثية الأبعاد",
+    "cleantech": "البيئة والماء والتقنية النظيفة",
+    "cloud-iot": "الحوسبة السحابية وإنترنت الأشياء الصناعي",
+    "other-deep-tech": "تقنيات عميقة أخرى"
+  },
+  "Admin": {
+    "metadata": {
+      "title": "Startup Ideas DZ — الإدارة"
+    },
+    "brand": {
+      "title": "Startup Ideas DZ"
+    },
+    "nav": {
+      "dashboard": "لوحة القيادة",
+      "submitIdea": "اقتراح فكرة",
+      "reviewQueue": "قائمة المراجعة",
+      "domainsValidation": "المجالات — التحقق",
+      "teamsQuotas": "الفرق والحصص",
+      "importSheet": "استيراد جدول Excel",
+      "guestAccounts": "الحسابات المدعوة",
+      "platformTag": "المنصة الرسمية",
+      "publicSite": "الموقع العمومي",
+      "signOut": "تسجيل الخروج",
+      "translations": "الترجمات"
+    },
+    "roles": {
+      "team": "فريق",
+      "reviewer": "مراجع",
+      "admin": "مشرف"
+    },
+    "status": {
+      "pending": "قيد الانتظار",
+      "verified": "مُتحقَّق منها",
+      "rejected": "مرفوضة"
+    },
+    "common": {
+      "loading": "جارٍ التحميل…",
+      "saveError": "تعذّر الحفظ (خطأ في الصلاحيات أو في الخادم).",
+      "urlPlaceholder": "https://…"
+    },
+    "login": {
+      "errorInvalidCredentials": "بيانات دخول غير صحيحة. الحسابات مخصصة للموظفين المدعوين فقط.",
+      "title": "فضاء آمن",
+      "subtitle": "الوصول مخصص لحسابات الحكومة المدعوة",
+      "emailLabel": "البريد المؤسسي",
+      "emailPlaceholder": "name@mpme.gov.dz",
+      "passwordLabel": "كلمة المرور",
+      "submitting": "جارٍ تسجيل الدخول…",
+      "submit": "تسجيل الدخول",
+      "footerText": "لا يتم إنشاء أي حساب عمومي تلقائيًا. يوجه المشرف دعوة إلى كل مستخدم."
+    },
+    "dashboard": {
+      "cardProposed": "المقترحة (قيد الانتظار)",
+      "cardValidated": "المُتحقَّق منها",
+      "cardRejected": "للتحقق / المرفوضة",
+      "cardDuplicates": "المكررات 2025",
+      "cardProgress": "التقدم",
+      "cardTotal": "المجموع",
+      "title": "لوحة القيادة",
+      "subtitle": "نظرة موحدة على البرنامج، متوافقة مع ورقة DASHBOARD الحكومية.",
+      "byDomainTitle": "حسب المجال التقني",
+      "colDomain": "المجال",
+      "colTotal": "المجموع",
+      "colValidated": "مُتحقَّق منها",
+      "colPending": "قيد الانتظار",
+      "colRejected": "مرفوضة",
+      "colDuplicates": "مكررات",
+      "byTeamTitle": "حسب الفريق",
+      "colTeam": "الفريق",
+      "colSubmissions": "الطلبات",
+      "unassigned": "غير مسندة",
+      "teamQuotasTitle": "حصص الفرق",
+      "teamQuotasSubtitle": "تقدّم الفرق الخمسة عشر نحو حصتها من المراجع."
+    },
+    "review": {
+      "errors": {
+        "load": "تعذّر تحميل قائمة المراجعة.",
+        "action": "تعذّرت العملية (خطأ في الصلاحيات أو في الخادم)."
+      },
+      "title": "قائمة المراجعة",
+      "subtitle": "وافق، ارفض، حدّد الأولوية (A/B/C) أو ميّز المكررات. كل عملية تُسجَّل في سجل التدقيق.",
+      "filterPending": "بانتظار المراجعة",
+      "filterVerified": "مُتحقَّق منها",
+      "filterRejected": "مرفوضة",
+      "empty": "لا توجد إدخالات {filter}.",
+      "duplicateBadge": "مكرر 2025",
+      "technologyLabel": "التقنية:",
+      "relevanceLabel": "الأهمية:",
+      "submittedOn": "أُرسل في {date}",
+      "approve": "اعتماد",
+      "reject": "رفض",
+      "priorityLabel": "الأولوية",
+      "removeDuplicate": "إزالة المكرر",
+      "markDuplicate": "تحديد كمكرر 2025"
+    },
+    "domainsPage": {
+      "title": "المجالات — التحقق",
+      "subtitle": "مطابق لورقة LISTES: حدّد حالة التحقق ومستوى الأولوية لكل مجال تقني. كل عملية تُسجَّل."
+    },
+    "domains": {
+      "colDomain": "المجال",
+      "colArabic": "العربية",
+      "colStartups": "الشركات الناشئة",
+      "colValidationTier": "التحقق + المستوى",
+      "statusToCheck": "للتحقق",
+      "statusInProgress": "قيد الإنجاز",
+      "statusValidated": "مُتحقَّق منها",
+      "statusRejected": "مرفوضة",
+      "noTier": "بدون مستوى",
+      "save": "حفظ"
+    },
+    "importPage": {
+      "title": "استيراد جدول Excel",
+      "subtitle": "الصق الأسطر المنسوخة من ورقة LISTES (أو أي تصدير CSV من دفترك). تُكتشف المكررات حسب الاسم؛ يصبح كل سطر مقترحًا «للتحقق» في قائمة المراجعة. تُسجَّل جميع العمليات."
+    },
+    "import": {
+      "reason": {
+        "unknownDomain": "مجال غير معروف",
+        "shortDescription": "الوصف قصير جدًا (≥ 10 أحرف)",
+        "invalidName": "اسم غير صالح",
+        "invalidCountry": "دولة غير صالحة",
+        "invalidYear": "سنة غير صالحة (≥ 1980)",
+        "invalidUrl": "رابط (URL) غير صالح",
+        "invalidPriority": "أولوية غير صالحة (A أو B أو C)",
+        "missingName": "اسم مفقود",
+        "duplicateName": "مسجّل مسبقًا (اسم مطابق)"
+      },
+      "delim": {
+        "tab": "تبويب",
+        "semicolon": "فاصلة منقوطة",
+        "comma": "فاصلة",
+        "pipe": "شريط عمودي"
+      },
+      "notice": {
+        "pasteFirst": "الصق الأسطر في المنطقة أدناه أولًا.",
+        "importFailed": "فشل الاستيراد (انتهت الجلسة أو خطأ في الخادم). أعد تسجيل الدخول عند الحاجة.",
+        "fileTooLarge": "الملف كبير جدًا (الحد الأقصى 500 كيلوبايت). قلّل التحديد."
+      },
+      "openFile": "فتح ملف CSV / TSV",
+      "or": "أو",
+      "copyPasteHint": "انسخ نطاقك من Excel والصقه أدناه",
+      "textareaPlaceholder": "الاسم\tالبلد\tالمجال\tالوصف\tالسنة\tالأولوية\nQuantex\tالجزائر\tsemiconductors\tمرجع كمي…\t2023\tA",
+      "analyse": "تحليل الأسطر",
+      "reset": "إعادة تهيئة",
+      "linesDetected": "{count, plural, =0 {لا أسطر} one {سطر واحد} two {سطران} few {# أسطر} many {# سطرًا} other {# سطر}}",
+      "delimiterLabel": "الفاصل:",
+      "headerLabel": "الترويسة:",
+      "headerDetected": "مُكتشف",
+      "headerNotDetected": "غير مُكتشف",
+      "noHeaderDetected": "لم يتم التعرف على ترويسة: تُقرأ الأعمدة بالترتيب القياسي (الاسم، البلد، المجال، الوصف…). يجب أن تكون النتيجة: {fields}",
+      "unknownDomainWarning": "{count, plural, one {# سطر بمجال غير معروف} other {# أسطر بمجال غير معروف}} (ستُتجاهل دون إدراج). القيم المقبولة: اسم بالفرنسية/الإنجليزية/العربية أو رمز (مثل AI، RB، BIO، MED، OTH…).",
+      "colLine": "السطر",
+      "moreLines": "+ {count} أسطر أخرى (ستُستورد أول 500).",
+      "importing": "جارٍ الاستيراد…",
+      "submitButton": "استيراد {count, plural, one {# سطر} other {# أسطر}} (الحالة: للتحقق)",
+      "field": {
+        "name": "الاسم",
+        "country": "البلد",
+        "domain": "المجال",
+        "subDomain": "التخصص",
+        "shortDescription": "الوصف",
+        "technology": "التقنية",
+        "yearFounded": "السنة",
+        "officialSite": "الموقع الرسمي",
+        "sourceUrl": "المصدر",
+        "whyRelevant": "الأهمية",
+        "priority": "الأولوية",
+        "isDuplicate2025": "مكرر 2025"
+      },
+      "detail": "التفاصيل",
+      "lineNumber": "السطر {line}",
+      "moreErrors": "+ {count} أخرى.",
+      "newImport": "استيراد جديد",
+      "result": {
+        "imported": "{count, plural, one {# مُستورد} other {# مُستوردة}}",
+        "ignored": "{count, plural, one {# مُتجاهل} other {# مُتجاهلة}} (مكرر)",
+        "errors": "{count, plural, one {# خطأ} other {# أخطاء}}"
+      }
+    },
+    "submit": {
+      "errors": {
+        "invalidData": "بيانات غير صالحة.",
+        "domainForbidden": "المجال غير مسموح به لفريقك.",
+        "submitFailed": "فشل الإرسال."
+      },
+      "successCreated": "تم إنشاء الإرسال بنجاح ({id}). ينتظر المراجعة.",
+      "title": "اقتراح فكرة شركة ناشئة",
+      "domainLocked": "فريقك مُسند إلى مجال \"{domain}\". الطلبات مقتصرة عليه.",
+      "domainUnlocked": "يرتبط حساب «فريق» بمجال محدّد.",
+      "nameLabel": "اسم الشركة الناشئة *",
+      "countryLabel": "البلد",
+      "domainLabel": "المجال التقني *",
+      "subDomainLabel": "المجال الفرعي",
+      "subDomainPlaceholder": "مثال: التشخيص",
+      "yearFoundedLabel": "سنة التأسيس *",
+      "priorityLabel": "الأولوية (الأولية)",
+      "priorityC": "C — يُحدَّد لاحقًا",
+      "technologyLabel": "التقنيات *",
+      "technologyPlaceholder": "مثال: LLM, RAG",
+      "shortDescriptionLabel": "وصف قصير *",
+      "whyRelevantLabel": "لماذا هو مهم للجزائر؟ *",
+      "officialSiteLabel": "الموقع الرسمي",
+      "sourceUrlLabel": "رابط المصدر",
+      "submitting": "جارٍ الإرسال…",
+      "submitButton": "إرسال للمراجعة",
+      "mySubmissionsTitle": "طلباتي",
+      "mySubmissionsEmpty": "لا توجد طلبات بعد.",
+      "editTitle": "تعديل الاقتراح",
+      "editButton": "تعديل",
+      "updateButton": "حفظ التغييرات",
+      "updating": "جارٍ الحفظ…",
+      "successUpdated": "تم حفظ التعديلات ({id})."
+    },
+    "teamsPage": {
+      "title": "الفرق والحصص",
+      "subtitle": "15 فريقًا، فريق لكل مجال. تشير الحصة إلى العدد المستهدف من الشركات الناشئة ليقوم كل فريق بترقيمها؛ المشرف وحده يمكنه تعديل القيمة."
+    },
+    "teams": {
+      "colCode": "الرمز",
+      "colTeamDomain": "الفريق / المجال",
+      "colMembers": "الأعضاء",
+      "colSubmissions": "الطلبات",
+      "colQuota": "الحصة",
+      "colProgress": "التقدم",
+      "saveOk": "موافق"
+    },
+    "users": {
+      "errors": {
+        "load": "تعذّر تحميل الحسابات.",
+        "invalidData": "بيانات غير صالحة (البريد الإلكتروني أو كلمة المرور ≥ 8 أحرف).",
+        "alreadyUsed": "تعذّر الإنشاء (البريد الإلكتروني قد يكون مستخدمًا من قبل).",
+        "roleChange": "تعذّر تغيير الدور."
+      },
+      "successCreated": "تم إنشاء الحساب المدعو: {email}",
+      "title": "الحسابات المدعوة",
+      "subtitle": "لا يوجد تسجيل عمومي: لا يمكن تسجيل الدخول إلا بهذه الحسابات. كل تغيير في الدور يُسجَّل.",
+      "inviteTitle": "دعوة حساب جديد",
+      "nameLabel": "الاسم الكامل",
+      "emailLabel": "البريد المؤسسي",
+      "emailPlaceholder": "name@mpme.gov.dz",
+      "roleLabel": "الدور",
+      "domainLabel": "مجال الفريق",
+      "passwordLabel": "كلمة مرور مؤقتة",
+      "passwordPlaceholder": "≥ 8 أحرف",
+      "createButton": "إنشاء الحساب المدعو",
+      "colName": "الاسم",
+      "colEmail": "البريد",
+      "colRole": "الدور",
+      "colDomain": "المجال"
+    },
+    "translations": {
+      "title": "الترجمات",
+      "subtitle": "حرّر النسختين الفرنسية والعربية المعروضتين على الموقع العام. تبقى الإنجليزية هي المصدر المرجعي.",
+      "coverage": "التغطية: {done}/{total} شركة ناشئة مترجمة.",
+      "french": "الفرنسية",
+      "arabic": "العربية",
+      "missing": "غير مترجمة",
+      "translated": "مترجمة",
+      "save": "حفظ الترجمة",
+      "saving": "جارٍ الحفظ…",
+      "cancel": "إلغاء",
+      "delete": "حذف",
+      "deleting": "جارٍ الحذف…",
+      "saved": "تم حفظ الترجمة ({locale}).",
+      "deleted": "تم حذف الترجمة ({locale}).",
+      "editing": "تعديل الترجمة {locale}",
+      "sourceLabel": "المصدر بالإنجليزية (مرجع)",
+      "deleteConfirm": "انقر مجددًا للتأكيد",
+      "errors": {
+        "saveFailed": "تعذّر حفظ الترجمة.",
+        "deleteFailed": "تعذّر حذف الترجمة."
+      },
+      "searchPlaceholder": "تصفية الشركات الناشئة…",
+      "noResults": "لا توجد شركات ناشئة مطابقة"
+    }
+  },
+  "Policy": {
+    "title": "الشروط والخصوصية",
+    "lastUpdated": "آخر تحديث: سبتمبر 2026",
+    "intro": "توضح هذه الصفحة طريقة عمل هذا الدليل، وكيفية التعامل مع بياناتك، والشروط المطبقة عند التصفح أو المساهمة.",
+    "usage": {
+      "title": "1. الهدف والاستخدام",
+      "body": "الخدمة دليل مفتوح وثلاثي اللغة لمبادرات التكنولوجيا العميقة. تُقدَّم لأغراض إعلامية: التصفح مجاني ولا يتطلب حساباً."
+    },
+    "accounts": {
+      "title": "2. الحسابات والمساهمات",
+      "body": "قد يتطلب تقديم المحتوى أو حفظه إنشاء حساب. تقتصر بيانات الحساب على ما هو ضروري لتوفير هذه الوظائف، وتُحمى بيانات الدخول وفق تدابير متعارف عليها."
+    },
+    "content": {
+      "title": "3. المحتوى والدقة",
+      "body": "تُجمع بطاقات المبادرات وتُراجع من قبل محررين. نبذل جهوداً معقولة لإبقاء المعلومات محدثة، دون ضمان اكتمالها أو دقتها. قد تتغير تفاصيل الشركات والتمويل ومعلومات الاتصال مع مرور الوقت."
+    },
+    "ip": {
+      "title": "4. الملكية الفكرية",
+      "body": "يظل المحتوى الذي تقدمه ملكاً لك. بتقديمه، تمنحنا ترخيصاً غير حصري لعرضه وصيانته في الدليل. تبقى الشعارات والعلامات التجارية ملكاً لأصحابها."
+    },
+    "privacy": {
+      "title": "5. الخصوصية",
+      "body": "نجمع فقط ما هو ضروري لتشغيل الخدمة: بيانات الحساب التي تقدمها، والعناصر التي تحفظها في حسابك، وبيانات استخدام مجهولة عن الصفحات التي تزورها. لا تُباع هذه البيانات لأي طرف ثالث."
+    },
+    "cookies": {
+      "title": "6. ملفات تعريف الارتباط",
+      "body": "نستخدم عدداً قليلاً من ملفات تعريف الارتباط للوظائف الأساسية: تفضيل اللغة، والمظهر المرئي، والحفاظ على الجلسة عند تسجيل الدخول. لا نستخدم أي ملفات إعلانية أو تتبع بين المواقع."
+    },
+    "liability": {
+      "title": "7. المسؤولية",
+      "body": "تُقدَّم الخدمة «كما هي»، دون أي ضمان من أي نوع. لسنا مسؤولين عن كيفية استخدام الدليل أو القرارات المتخذة بناءً على محتواه."
+    },
+    "contact": {
+      "title": "8. التواصل والإشادة",
+      "body": "لأي سؤال حول هذه الشروط أو بياناتك، تواصل مع الفريق القائم على هذا الدليل.",
+      "credit": "أُنجز بواسطة ت. شمس في حاضنة تبسة."
+    }
+  }
+}

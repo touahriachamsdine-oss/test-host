@@ -1,0 +1,501 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  --ink: #16233a;
+  --paper: #f7f5f0;
+  --line: #d8d2c4;
+  --surface: #ffffff;
+  --signal: #1f6f5c;
+  --flag-gold: #a67c2e;
+
+  --glass-bg: rgb(255 255 255 / 0.55);
+  --glass-border: rgb(24 24 24 / 0.08);
+  --ring-glow: 0 0 0 1px var(--signal),
+    0 0 0 4px color-mix(in srgb, var(--signal) 25%, transparent);
+
+  --dur-fast: 120ms;
+  --dur-base: 220ms;
+  --dur-slow: 380ms;
+  --ease-standard: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --ease-emphatic: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --ink: #e9e6de;
+  --paper: #10151c;
+  --line: #2a333f;
+  --surface: #171e27;
+  --signal: #57b492;
+  --flag-gold: #d9b25e;
+
+  --glass-bg: rgb(16 18 22 / 0.55);
+  --glass-border: rgb(255 255 255 / 0.08);
+  --ring-glow: 0 0 0 1px var(--signal),
+    0 0 0 4px color-mix(in srgb, var(--signal) 25%, transparent);
+}
+
+[data-theme="night"] {
+  color-scheme: dark;
+  --ink: #e6e2d6;
+  --paper: #07090c;
+  --line: #1f2733;
+  --surface: #0d1217;
+  --signal: #6ac49f;
+  --flag-gold: #d9b25e;
+
+  --glass-bg: rgb(8 10 16 / 0.6);
+  --glass-border: rgb(255 255 255 / 0.09);
+  --ring-glow: 0 0 0 1px var(--signal),
+    0 0 0 4px color-mix(in srgb, var(--signal) 25%, transparent);
+}
+
+@theme inline {
+  --color-ink: var(--ink);
+  --color-paper: var(--paper);
+  --color-line: var(--line);
+  --color-surface: var(--surface);
+  --color-signal: var(--signal);
+  --color-flag-gold: var(--flag-gold);
+
+  --color-brand-primary: #1f6f5c;
+  --color-brand-primary-dark: #143e33;
+  --color-brand-primary-light: #e4ece7;
+  --color-brand-accent: #a67c2e;
+  --color-brand-accent-light: #f3ecd8;
+  --color-brand-surface: #f7f5f0;
+  --color-brand-surface-alt: #edeae1;
+}
+
+@theme {
+  --font-sans: var(--font-plex), ui-sans-serif, system-ui, sans-serif;
+  --font-arabic: var(--font-plex-arabic), var(--font-plex), ui-sans-serif, system-ui,
+    sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+@layer base {
+  body {
+    line-height: 1.625;
+  }
+}
+
+:where(a, button, input, select, textarea, [role="button"], summary):focus-visible {
+  outline: 2px solid var(--signal);
+  outline-offset: 2px;
+}
+
+html[dir="rtl"] {
+  text-align: start;
+}
+
+html[dir="rtl"] .flip-rtl {
+  transform: scaleX(-1);
+}
+
+html[lang="ar"] body,
+html[lang="ar"] :where(h1, h2, h3, h4, h5, h6, p, a, li, span) {
+  font-family: var(--font-plex-arabic), var(--font-plex), ui-sans-serif, system-ui,
+    sans-serif;
+}
+
+.range-input {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 20px;
+  margin: 0;
+  transform: translateY(-50%);
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  pointer-events: none;
+}
+
+.range-input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: auto;
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  background: var(--surface);
+  border: 1px solid var(--ink);
+  cursor: pointer;
+}
+
+.range-input::-moz-range-thumb {
+  pointer-events: auto;
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  background: var(--surface);
+  border: 1px solid var(--ink);
+  cursor: pointer;
+}
+
+.stagger-init {
+  opacity: 0;
+  transform: translateY(6px);
+}
+
+.stagger-in {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity var(--dur-base) var(--ease-standard),
+    transform var(--dur-base) var(--ease-standard);
+}
+
+@keyframes page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page-enter {
+  animation: page-enter var(--dur-slow) var(--ease-emphatic);
+}
+
+.rise-in > * {
+  animation: rise-in var(--dur-slow) var(--ease-emphatic) both;
+  animation-delay: calc(var(--n, 0) * 60ms);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    transition: background-color 180ms ease, color 180ms ease;
+  }
+  body {
+    transition: background-color 180ms ease;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
+
+@layer components {
+  .field-glass {
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    -webkit-backdrop-filter: blur(14px);
+    backdrop-filter: blur(14px);
+  }
+
+  .panel-glass {
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    -webkit-backdrop-filter: blur(14px);
+    backdrop-filter: blur(14px);
+    border-radius: 8px;
+    box-shadow: 0 8px 24px -16px rgb(0 0 0 / 0.25);
+  }
+
+  .ring-focus:focus-visible {
+    outline: none;
+    box-shadow: var(--ring-glow);
+  }
+
+  .tile-hover {
+    transition:
+      transform var(--dur-base) var(--ease-standard),
+      border-color var(--dur-base) var(--ease-standard),
+      box-shadow var(--dur-base) var(--ease-standard);
+  }
+
+  .grid-guard {
+    min-width: 0;
+  }
+}
+
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .field-glass,
+  .panel-glass,
+  .card-soft {
+    background: var(--color-surface);
+  }
+}
+
+/* Ambient animated backdrop (public app) */
+.ambient-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -10;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.ambient-bg .orb {
+  position: absolute;
+  border-radius: 9999px;
+  will-change: transform;
+}
+
+.orb-1 {
+  width: 46vmax;
+  height: 46vmax;
+  left: -14vmax;
+  top: -16vmax;
+  background: radial-gradient(
+    circle at 32% 32%,
+    color-mix(in srgb, var(--signal) 18%, transparent),
+    transparent 62%
+  );
+}
+
+.orb-2 {
+  width: 40vmax;
+  height: 40vmax;
+  right: -12vmax;
+  top: -8vmax;
+  background: radial-gradient(
+    circle at 60% 40%,
+    color-mix(in srgb, var(--flag-gold) 14%, transparent),
+    transparent 62%
+  );
+}
+
+.orb-3 {
+  width: 48vmax;
+  height: 48vmax;
+  left: -10vmax;
+  bottom: -18vmax;
+  background: radial-gradient(
+    circle at 40% 60%,
+    color-mix(in srgb, var(--signal) 14%, transparent),
+    transparent 62%
+  );
+}
+
+.orb-4 {
+  width: 34vmax;
+  height: 34vmax;
+  right: -8vmax;
+  bottom: -6vmax;
+  background: radial-gradient(
+    circle at 55% 55%,
+    color-mix(in srgb, var(--flag-gold) 12%, transparent),
+    transparent 60%
+  );
+}
+
+@keyframes orb-drift-a {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  33% {
+    transform: translate3d(6vmax, 4vmax, 0) scale(1.12);
+  }
+  66% {
+    transform: translate3d(-4vmax, 7vmax, 0) scale(0.96);
+  }
+}
+
+@keyframes orb-drift-b {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  40% {
+    transform: translate3d(-7vmax, 3vmax, 0) scale(1.08);
+  }
+  70% {
+    transform: translate3d(3vmax, -5vmax, 0) scale(0.94);
+  }
+}
+
+@keyframes orb-drift-c {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(5vmax, -6vmax, 0) scale(1.14);
+  }
+}
+
+@keyframes orb-drift-d {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  45% {
+    transform: translate3d(-5vmax, -4vmax, 0) scale(1.06);
+  }
+  80% {
+    transform: translate3d(2vmax, 3vmax, 0) scale(0.95);
+  }
+}
+
+/* Scrolling domain strip */
+.marquee {
+  overflow: hidden;
+  position: relative;
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent,
+    #000 8%,
+    #000 92%,
+    transparent
+  );
+  mask-image: linear-gradient(
+    to right,
+    transparent,
+    #000 8%,
+    #000 92%,
+    transparent
+  );
+}
+
+.marquee-inner {
+  display: flex;
+  width: max-content;
+  will-change: transform;
+}
+
+.marquee-group {
+  flex: none;
+  display: flex;
+  align-items: center;
+}
+
+@keyframes marquee-scroll {
+  to {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+/* Animated gradient heading */
+.text-shimmer {
+  background: linear-gradient(
+    100deg,
+    var(--signal) 0%,
+    var(--flag-gold) 30%,
+    var(--signal) 60%,
+    var(--flag-gold) 90%
+  );
+  background-size: 220% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@keyframes shine {
+  to {
+    background-position: -220% center;
+  }
+}
+
+/* Borderless card surface */
+.card-soft {
+  position: relative;
+  overflow: hidden;
+  background: var(--glass-bg);
+  border-radius: 14px;
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  box-shadow: 0 12px 32px -24px rgb(0 0 0 / 0.25);
+  transition:
+    transform var(--dur-base) var(--ease-emphatic),
+    background-color var(--dur-base) var(--ease-standard),
+    box-shadow var(--dur-base) var(--ease-standard);
+}
+
+/* Scroll reveal */
+.reveal-init {
+  opacity: 0;
+  transform: translateY(14px);
+}
+
+.reveal-in {
+  opacity: 1;
+  transform: none;
+  transition:
+    opacity var(--dur-slow) var(--ease-emphatic),
+    transform var(--dur-slow) var(--ease-emphatic);
+}
+
+/* Soft fading divider (replaces hard rules) */
+.fade-divider {
+  height: 1px;
+  border: none;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--line) 22%,
+    var(--line) 78%,
+    transparent
+  );
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .ambient-bg .orb-1 {
+    animation: orb-drift-a 26s var(--ease-standard) infinite alternate;
+  }
+  .ambient-bg .orb-2 {
+    animation: orb-drift-b 34s var(--ease-standard) infinite alternate;
+  }
+  .ambient-bg .orb-3 {
+    animation: orb-drift-c 22s var(--ease-standard) infinite alternate;
+  }
+  .ambient-bg .orb-4 {
+    animation: orb-drift-d 40s var(--ease-standard) infinite alternate;
+  }
+
+  .marquee .marquee-track {
+    animation: marquee-scroll var(--marquee-dur, 28s) linear infinite;
+  }
+  .marquee:hover .marquee-track {
+    animation-play-state: paused;
+  }
+
+  .text-shimmer {
+    animation: shine 7s linear infinite;
+  }
+
+  .card-soft:hover {
+    transform: translateY(-3px);
+    background: color-mix(in srgb, var(--surface) 80%, transparent);
+    box-shadow:
+      0 20px 44px -24px color-mix(in srgb, var(--signal) 55%, transparent),
+      0 10px 24px -16px rgb(0 0 0 / 0.25);
+  }
+
+  .tile-hover:hover {
+    transform: translateY(-2px);
+    border-color: var(--glass-border);
+    box-shadow: 0 12px 32px -16px rgb(0 0 0 / 0.35);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ambient-bg .orb,
+  .marquee .marquee-track {
+    animation: none !important;
+  }
+}
