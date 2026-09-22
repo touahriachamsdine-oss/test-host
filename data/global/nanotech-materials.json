@@ -105,21 +105,6 @@
     "longitude": -76.0499
   },
   {
-    "name": "Addionics",
-    "country": "Israel",
-    "sub_domain": "3D battery architecture",
-    "short_description": "3D metal framework for battery electrodes that improves power and cycle life.",
-    "technology": "3D current collectors",
-    "year_founded": 2018,
-    "official_site": "https://addionics.com",
-    "priority": "C",
-    "why_relevant": "Drop-in electrode design that strengthens anodes without new chemistry.",
-    "history": "Addionics was founded in 2018 in Tel Aviv by Moshiel Biton and partners to redesign battery electrodes with a three-dimensional metal current collector. The porous architecture improves power, lowers internal resistance and extends cycle life without changing cell chemistry. The company raised tens of millions in venture funding, opened a pilot production line and signed collaborations with automotive and battery manufacturers. Today Addionics is scaling its drop-in electrode technology for electric vehicles and grid storage, positioning it as a way to upgrade existing gigafactories without new chemistry.",
-    "hq_city": "Tel Aviv",
-    "latitude": 32.0853,
-    "longitude": 34.7818
-  },
-  {
     "name": "Skeleton Technologies",
     "country": "Estonia",
     "sub_domain": "Ultracapacitors",
@@ -208,21 +193,6 @@
     "hq_city": "San Sebastián",
     "latitude": 43.3183,
     "longitude": -1.9812
-  },
-  {
-    "name": "Melodea",
-    "country": "Israel",
-    "sub_domain": "Plant-based bio-packaging",
-    "short_description": "Makes coatings and foams from wood waste as plastic substitutes.",
-    "technology": "Cellulose-nanocrystal coatings",
-    "year_founded": 2011,
-    "official_site": "https://melodea.eu",
-    "priority": "C",
-    "why_relevant": "Replaces petroleum film layers in food packaging with cellulose.",
-    "history": "Melodea was founded in 2011 in Rehovot, Israel to convert wood waste into cellulose nanocrystal materials. Its coatings and foams act as renewable barriers for food and consumer packaging, replacing petroleum-derived film layers. The company built pilot and commercial production, formed partnerships with packaging converters and expanded into Europe. Today Melodea markets bio-based barrier coatings that improve recyclability and reduce plastic use, positioning cellulose nanocrystals as a practical industrial alternative to conventional petrochemical films.",
-    "hq_city": "Rehovot",
-    "latitude": 31.8948,
-    "longitude": 34.8113
   },
   {
     "name": "Notpla",
@@ -418,20 +388,5 @@
     "hq_city": "North Andover",
     "latitude": 42.6987,
     "longitude": -71.1351
-  },
-  {
-    "name": "XJet",
-    "country": "Israel",
-    "sub_domain": "Nano-particle 3D printing",
-    "short_description": "3D-prints ceramics and metals from droplet nano-particles.",
-    "technology": "Nano-particle jetting",
-    "year_founded": 2005,
-    "official_site": "https://xjet3d.com",
-    "priority": "C",
-    "why_relevant": "Prints high-end ceramics impossible with traditional sintering.",
-    "history": "XJet was founded in 2005 in Rehovot, Israel, to commercialize nanoparticle jetting for additive manufacturing. Its systems print ceramics and metals from liquid nanoparticle formulations, producing fine features and smooth surfaces that traditional sintering struggles to achieve. The company raised substantial investment, installed systems with industrial and research customers, and advanced its Carmel platform. Today XJet focuses on high-value ceramic and metal parts for medical, dental, aerospace and tooling applications, positioning nanoparticle jetting as a distinct branch of 3D printing.",
-    "hq_city": "Rehovot",
-    "latitude": 31.8948,
-    "longitude": 34.8113
   }
 ]

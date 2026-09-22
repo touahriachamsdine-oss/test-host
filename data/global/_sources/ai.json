@@ -1,0 +1,526 @@
+[
+ {
+  "name": "BlueDot",
+  "industry": ""
+ },
+ {
+  "name": "Cohere",
+  "industry": ""
+ },
+ {
+  "name": "Element AI",
+  "industry": ""
+ },
+ {
+  "name": "Maluuba",
+  "industry": ""
+ },
+ {
+  "name": "Waabi",
+  "industry": ""
+ },
+ {
+  "name": "AI Foundation",
+  "industry": ""
+ },
+ {
+  "name": "Anduril Industries",
+  "industry": ""
+ },
+ {
+  "name": "Anysphere",
+  "industry": ""
+ },
+ {
+  "name": "Anthropic",
+  "industry": ""
+ },
+ {
+  "name": "Broadcom",
+  "industry": "<ref>{{cite web"
+ },
+ {
+  "name": "Caper AI",
+  "industry": ""
+ },
+ {
+  "name": "Cerebras",
+  "industry": ""
+ },
+ {
+  "name": "Cerence",
+  "industry": ""
+ },
+ {
+  "name": "Character.ai",
+  "industry": ""
+ },
+ {
+  "name": "Cognition AI",
+  "industry": ""
+ },
+ {
+  "name": "Colloquis",
+  "industry": ""
+ },
+ {
+  "name": "Contextual AI",
+  "industry": ""
+ },
+ {
+  "name": "Conversable",
+  "industry": ""
+ },
+ {
+  "name": "CoreWeave",
+  "industry": ""
+ },
+ {
+  "name": "Counsel AI",
+  "industry": ""
+ },
+ {
+  "name": "Covariant",
+  "industry": ""
+ },
+ {
+  "name": "Dataiku",
+  "industry": ""
+ },
+ {
+  "name": "Databricks",
+  "industry": "<ref>{{cite magazine"
+ },
+ {
+  "name": "Decagon",
+  "industry": ""
+ },
+ {
+  "name": "DeepMind",
+  "industry": ""
+ },
+ {
+  "name": "EleutherAI",
+  "industry": ""
+ },
+ {
+  "name": "ElevenLabs",
+  "industry": ""
+ },
+ {
+  "name": "FarmWise",
+  "industry": ""
+ },
+ {
+  "name": "Figure AI",
+  "industry": ""
+ },
+ {
+  "name": "Fireworks AI",
+  "industry": ""
+ },
+ {
+  "name": "Forethought Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Glean Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Google AI",
+  "industry": ""
+ },
+ {
+  "name": "Groq",
+  "industry": ""
+ },
+ {
+  "name": "Hebbia",
+  "industry": ""
+ },
+ {
+  "name": "HeyGen",
+  "industry": ""
+ },
+ {
+  "name": "Hugging Face",
+  "industry": ""
+ },
+ {
+  "name": "Inflection AI",
+  "industry": ""
+ },
+ {
+  "name": "Invisible Technologies",
+  "industry": ""
+ },
+ {
+  "name": "K Health",
+  "industry": ""
+ },
+ {
+  "name": "Labs Companies",
+  "industry": ""
+ },
+ {
+  "name": "Liquid AI",
+  "industry": ""
+ },
+ {
+  "name": "LangChain",
+  "industry": "<ref>{{cite magazine"
+ },
+ {
+  "name": "Mercor",
+  "industry": ""
+ },
+ {
+  "name": "Meta Superintelligence Labs",
+  "industry": ""
+ },
+ {
+  "name": "Microsoft AI",
+  "industry": ""
+ },
+ {
+  "name": "Midjourney, Inc.",
+  "industry": ""
+ },
+ {
+  "name": "Nuro",
+  "industry": ""
+ },
+ {
+  "name": "NVIDIA",
+  "industry": ""
+ },
+ {
+  "name": "OpenAI",
+  "industry": ""
+ },
+ {
+  "name": "OpenEvidence",
+  "industry": ""
+ },
+ {
+  "name": "OpenRouter",
+  "industry": ""
+ },
+ {
+  "name": "Oracle",
+  "industry": "<ref>{{cite news"
+ },
+ {
+  "name": "Otter.ai",
+  "industry": ""
+ },
+ {
+  "name": "Owkin",
+  "industry": ""
+ },
+ {
+  "name": "Perplexity AI",
+  "industry": ""
+ },
+ {
+  "name": "Physical Intelligence Inc.",
+  "industry": ""
+ },
+ {
+  "name": "Poolside AI",
+  "industry": ""
+ },
+ {
+  "name": "Preamble",
+  "industry": ""
+ },
+ {
+  "name": "Project Prometheus",
+  "industry": ""
+ },
+ {
+  "name": "RAIC Labs",
+  "industry": ""
+ },
+ {
+  "name": "Reflection AI",
+  "industry": ""
+ },
+ {
+  "name": "Runway",
+  "industry": ""
+ },
+ {
+  "name": "Safe Superintelligence Inc.",
+  "industry": ""
+ },
+ {
+  "name": "SambaNova Systems",
+  "industry": ""
+ },
+ {
+  "name": "Scale AI",
+  "industry": ""
+ },
+ {
+  "name": "Shield AI",
+  "industry": ""
+ },
+ {
+  "name": "Snowflake",
+  "industry": "<ref>{{cite news"
+ },
+ {
+  "name": "SoundHound AI",
+  "industry": ""
+ },
+ {
+  "name": "Sourcegraph",
+  "industry": "<ref>{{cite web"
+ },
+ {
+  "name": "Spectre AI",
+  "industry": ""
+ },
+ {
+  "name": "Thinking Machines Lab",
+  "industry": ""
+ },
+ {
+  "name": "Undetectable.ai",
+  "industry": ""
+ },
+ {
+  "name": "Waymo",
+  "industry": ""
+ },
+ {
+  "name": "Writer",
+  "industry": ""
+ },
+ {
+  "name": "Writesonic",
+  "industry": ""
+ },
+ {
+  "name": "xAI",
+  "industry": ""
+ },
+ {
+  "name": "Zoox",
+  "industry": ""
+ },
+ {
+  "name": "1X Technologies",
+  "industry": ""
+ },
+ {
+  "name": "01.AI",
+  "industry": ""
+ },
+ {
+  "name": "4Paradigm",
+  "industry": ""
+ },
+ {
+  "name": "Baichuan",
+  "industry": ""
+ },
+ {
+  "name": "DeepSeek",
+  "industry": ""
+ },
+ {
+  "name": "Horizon Robotics",
+  "industry": ""
+ },
+ {
+  "name": "MiniMax",
+  "industry": ""
+ },
+ {
+  "name": "ModelBest",
+  "industry": ""
+ },
+ {
+  "name": "Moonshot AI",
+  "industry": ""
+ },
+ {
+  "name": "SenseTime",
+  "industry": ""
+ },
+ {
+  "name": "StepFun",
+  "industry": ""
+ },
+ {
+  "name": "Xiao-i",
+  "industry": ""
+ },
+ {
+  "name": "Z.ai",
+  "industry": ""
+ },
+ {
+  "name": "Zhipu AI",
+  "industry": ""
+ },
+ {
+  "name": "Artisse AI",
+  "industry": ""
+ },
+ {
+  "name": "Haptik",
+  "industry": ""
+ },
+ {
+  "name": "NeuralGarage",
+  "industry": ""
+ },
+ {
+  "name": "Sarvam AI",
+  "industry": ""
+ },
+ {
+  "name": "AI21 Labs",
+  "industry": ""
+ },
+ {
+  "name": "Aidoc",
+  "industry": ""
+ },
+ {
+  "name": "Decart",
+  "industry": ""
+ },
+ {
+  "name": "Hailo Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Sakana AI",
+  "industry": ""
+ },
+ {
+  "name": "Humain",
+  "industry": ""
+ },
+ {
+  "name": "Upstage",
+  "industry": ""
+ },
+ {
+  "name": "G42",
+  "industry": ""
+ },
+ {
+  "name": "H Company",
+  "industry": ""
+ },
+ {
+  "name": "LightOn",
+  "industry": ""
+ },
+ {
+  "name": "Linagora",
+  "industry": ""
+ },
+ {
+  "name": "Mistral AI",
+  "industry": ""
+ },
+ {
+  "name": "Aleph Alpha",
+  "industry": ""
+ },
+ {
+  "name": "DeepL",
+  "industry": ""
+ },
+ {
+  "name": "Helsing",
+  "industry": ""
+ },
+ {
+  "name": "Translated",
+  "industry": ""
+ },
+ {
+  "name": "Neurotechnology",
+  "industry": ""
+ },
+ {
+  "name": "Axelera AI",
+  "industry": ""
+ },
+ {
+  "name": "Cradle",
+  "industry": ""
+ },
+ {
+  "name": "Unbabel",
+  "industry": ""
+ },
+ {
+  "name": "Furhat Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Lovable",
+  "industry": ""
+ },
+ {
+  "name": "Art Recognition",
+  "industry": ""
+ },
+ {
+  "name": "Respeecher",
+  "industry": ""
+ },
+ {
+  "name": "ARM Holdings",
+  "industry": "<ref>{{cite web"
+ },
+ {
+  "name": "ElevenLabs",
+  "industry": ""
+ },
+ {
+  "name": "Gradient Labs",
+  "industry": ""
+ },
+ {
+  "name": "Isomorphic Labs",
+  "industry": ""
+ },
+ {
+  "name": "Mind Foundry",
+  "industry": ""
+ },
+ {
+  "name": "Peak",
+  "industry": ""
+ },
+ {
+  "name": "Quantexa",
+  "industry": ""
+ },
+ {
+  "name": "Recraft",
+  "industry": ""
+ },
+ {
+  "name": "Stability AI",
+  "industry": ""
+ },
+ {
+  "name": "Synthesia",
+  "industry": ""
+ },
+ {
+  "name": "Wayve",
+  "industry": ""
+ }
+]

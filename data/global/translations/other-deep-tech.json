@@ -417,28 +417,6 @@
       "hq_city": "Paris"
     }
   },
-  "eviation": {
-    "ar": {
-      "name": "Eviation",
-      "country": "إسرائيل",
-      "sub_domain": "الطائرات الكهربائية",
-      "short_description": "مطوّرة طائرة Alice ذات الجناح الثابت والانبعاثات الصفرية للرحلات الإقليمية.",
-      "technology": "هيكل طائرة كهربائي بالبطاريات",
-      "why_relevant": "حلّقت بطائرة كهربائية بالكامل تتسع لتسعة مقاعد تعيد تعريف الرحلات الإقليمية القصيرة.",
-      "history": "تأسست Eviation عام 2015 في إسرائيل، وطوّرت طائرة Alice ذات الجناح الثابت والدفع الكهربائي الكامل للرحلات القصيرة، بدعم مبكر شمل صندوق المناخ التابع لأمازون. في سبتمبر 2022 أكملت Alice رحلتها الأولى بنجاح، وهي رحلة دامت ثماني دقائق انطلقت من مطار أرلينغتون البلدي. تستهدف الشركة تنقلًا إقليميًا صفري الانبعاثات على مسارات تتراوح بين 150 و250 ميلًا بحريًا، لتضع Alice في خدمة لوجستيات التجارة الإلكترونية والشبكات الإقليمية. وتواصل Eviation دمج سلسلة توريد عالمية وجهود الاعتماد من منشآتها في إسرائيل والولايات المتحدة.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Eviation",
-      "country": "Israël",
-      "sub_domain": "Avions électriques",
-      "short_description": "Développeur d'Alice, un avion de ligne régional zéro émission à voilure fixe.",
-      "technology": "Cellule à propulsion 100 % électrique",
-      "why_relevant": "A fait voler un avion 100 % électrique de 9 places qui redéfinit les liaisons régionales.",
-      "history": "Fondée en 2015 en Israël, Eviation a développé Alice, un avion de ligne régional entièrement électrique à voilure fixe, avec un soutien précoce incluant le Climate Pledge Fund d'Amazon. En septembre 2022, Alice a réussi son premier vol d'une durée de huit minutes depuis l'aéroport municipal d'Arlington. La société vise une mobilité régionale zéro émission sur des itinéraires de 150 à 250 milles nautiques, positionnant Alice pour la logistique du e-commerce et les réseaux régionaux. Eviation continue d'intégrer une chaîne d'approvisionnement mondiale et des efforts de certification depuis ses installations en Israël et aux États-Unis.",
-      "hq_city": "Tel Aviv"
-    }
-  },
   "heart-aerospace": {
     "ar": {
       "name": "Heart Aerospace",

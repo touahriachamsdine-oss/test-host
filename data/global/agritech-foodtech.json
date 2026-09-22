@@ -30,21 +30,6 @@
     "longitude": -122.273
   },
   {
-    "name": "Taranis",
-    "country": "Israel",
-    "sub_domain": "Crop scouting AI",
-    "short_description": "AI scouting from high-resolution flights spots pests earlier than scouts.",
-    "technology": "Computer vision + leaf-level detection",
-    "year_founded": 2015,
-    "official_site": "https://taranis.ag",
-    "priority": "B",
-    "why_relevant": "Leaf-level detail is a step beyond drone imagery into precision treatment.",
-    "history": "Launched in 2015, Taranis built an AI-powered crop intelligence platform that fuses satellite, drone and ultra-high-resolution aircraft imagery to detect pests, disease and nutrient stress leaf by leaf. It expanded into the United States, serving major row-crop markets, and raised scale-up funding from venture partners such as Insight Partners. Taranis now offers field-level analytics across millions of acres, helping agronomists move from reactive scouting to precise, early intervention.",
-    "hq_city": "Tel Aviv",
-    "latitude": 32.0853,
-    "longitude": 34.7818
-  },
-  {
     "name": "Semios",
     "country": "Canada",
     "sub_domain": "Orchard IoT",
@@ -58,21 +43,6 @@
     "hq_city": "Vancouver",
     "latitude": 49.2827,
     "longitude": -123.1207
-  },
-  {
-    "name": "CropX",
-    "country": "Israel",
-    "sub_domain": "Soil sensing",
-    "short_description": "In-ground soil sensors plus cloud that automates irrigation decisions.",
-    "technology": "Soil moisture IoT + agronomy",
-    "year_founded": 2014,
-    "official_site": "https://cropx.com",
-    "priority": "B",
-    "why_relevant": "Sensible wireless sensor network adopted across many countries.",
-    "history": "Founded in 2014, CropX developed an in-ground soil sensing system that combines IoT hardware with cloud agronomy to automate irrigation decisions. After acquiring Tule Technologies in 2021, it broadened into evapotranspiration-based water management. Deployments span dozens of countries, and the company opened a United States office while integrating sensor data with farm-management software to cut water and nutrient use across row crops, orchards and turf.",
-    "hq_city": "Tel Aviv",
-    "latitude": 32.0853,
-    "longitude": 34.7818
   },
   {
     "name": "Sentera",
@@ -300,21 +270,6 @@
     "longitude": 5.691
   },
   {
-    "name": "Aleph Farms",
-    "country": "Israel",
-    "sub_domain": "Cultivated meat",
-    "short_description": "Grows steaks from non-modified cow cells without antibiotics.",
-    "technology": "Bio-printed tissue",
-    "year_founded": 2017,
-    "official_site": "https://aleph-farms.com",
-    "priority": "C",
-    "why_relevant": "Grants in Singapore and collaborations to scale cultivated steaks.",
-    "history": "Founded in 2017 and spun out of the Weizmann Institute, Aleph Farms grows cultivated steaks from non-modified cow cells. It completed the world's first cultivated beef aboard the International Space Station in 2019, received regulatory approval in Israel in 2024, and signed strategic partnerships in Singapore and Switzerland. The company is building pilot production lines to scale its thin-cut steaks toward commercial launch.",
-    "hq_city": "Rehovot",
-    "latitude": 31.8928,
-    "longitude": 34.8113
-  },
-  {
     "name": "Brightseed",
     "country": "United States",
     "sub_domain": "AI plant compounds",
@@ -328,36 +283,6 @@
     "hq_city": "San Francisco",
     "latitude": 37.7749,
     "longitude": -122.4194
-  },
-  {
-    "name": "Fermata",
-    "country": "Israel",
-    "sub_domain": "Pest detection AI",
-    "short_description": "Detects pests and disease on virtual trapping from grower photos.",
-    "technology": "Insect vision + early-warning",
-    "year_founded": 2017,
-    "official_site": "https://fermata.tech",
-    "priority": "C",
-    "why_relevant": "Replaces sticky traps with proactive smartphone diagnostics.",
-    "history": "Founded in 2017, Fermata developed computer-vision software that turns ordinary grower photos into virtual pest traps, detecting insects and disease earlier than manual scouting. Its DataScoop platform runs in greenhouses, orchards and open fields, and the system has been deployed with major growers across Israel, Europe and North America. The company keeps expanding its insect library and early-warning analytics to cover more crops.",
-    "hq_city": "Tel Aviv",
-    "latitude": 32.0853,
-    "longitude": 34.7818
-  },
-  {
-    "name": "AgroScout",
-    "country": "Israel",
-    "sub_domain": "Crop monitoring",
-    "short_description": "Drone and satellite imagery that detect crop disease automatically.",
-    "technology": "Drone-based disease analytics",
-    "year_founded": 2016,
-    "official_site": "https://agro-scout.com",
-    "priority": "C",
-    "why_relevant": "Early blight detection before the human eye can see it.",
-    "history": "Founded in 2016, AgroScout uses drones and artificial intelligence to detect crop diseases, pests and nutritional stress in potato, tomato and other crops before symptoms are visible to the naked eye. Its software alerts growers and agronomists, enabling targeted treatment rather than blanket spraying. The company expanded trials with cooperatives in the United States and Europe and continues to refine automated disease-identification models.",
-    "hq_city": "Tel Aviv",
-    "latitude": 32.0853,
-    "longitude": 34.7818
   },
   {
     "name": "Plenty",

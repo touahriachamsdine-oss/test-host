@@ -15,21 +15,6 @@
     "longitude": -122.4194
   },
   {
-    "name": "Aidoc",
-    "country": "Israel",
-    "sub_domain": "AI radiology",
-    "short_description": "Flags critical findings in CT and X-ray scans for radiologist prioritization.",
-    "technology": "Always-on radiology AI",
-    "year_founded": 2016,
-    "official_site": "https://aidoc.com",
-    "priority": "B",
-    "why_relevant": "Runs continuously on hundreds of hospital imaging archives.",
-    "history": "Founded in Tel Aviv in 2016, Aidoc built always-on AI that flags critical findings in CT and X-ray studies as soon as they arrive in the radiology worklist. It earned the first FDA clearance for a radiology AI triage tool in 2018, and by the early 2020s its platform ran inside hundreds of hospital archives worldwide. After raising roughly $170 million, Aidoc became an AI marketplace aggregating third-party algorithms, and in 2025 Nvidia agreed to acquire the company to anchor its medical imaging portfolio.",
-    "hq_city": "Tel Aviv",
-    "latitude": 32.0853,
-    "longitude": 34.7818
-  },
-  {
     "name": "Qure.ai",
     "country": "India",
     "sub_domain": "AI diagnostics",
@@ -178,21 +163,6 @@
     "hq_city": "Goleta",
     "latitude": 34.4358,
     "longitude": -119.8277
-  },
-  {
-    "name": "CathWorks",
-    "country": "Israel",
-    "sub_domain": "Functional assessment AI",
-    "short_description": "Computes FFR blood-flow metrics from standard angiograms without a wire.",
-    "technology": "Angiogram-based FFR AI",
-    "year_founded": 2013,
-    "official_site": "https://cathworks.com",
-    "priority": "B",
-    "why_relevant": "Replaces invasive pressure wires in heart catheterization.",
-    "history": "CathWorks was founded in Israel in 2013 by medtech veteran Moti Freiman to remove invasive pressure wires from coronary assessment. Its FFRangio platform computes physiological blood-flow metrics from standard X-ray angiograms, and a 2020 FDA clearance allowed physicians to make stenting decisions without crossing the lesion. The company validated the technology in the FAST-FFR clinical study, raised tens of millions of dollars, and built an installed base across cath labs in the United States, Europe, and Asia before completing an initial public offering in 2024.",
-    "hq_city": "Kfar Saba",
-    "latitude": 32.175,
-    "longitude": 34.907
   },
   {
     "name": "Bigfoot Biomedical",

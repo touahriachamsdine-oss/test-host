@@ -1,0 +1,321 @@
+[
+ {
+  "name": "Bergey",
+  "industry": "(United States)",
+  "country": "United States"
+ },
+ {
+  "name": "Bornay",
+  "industry": "(Spain)",
+  "country": "Spain"
+ },
+ {
+  "name": "Enessere",
+  "industry": "(Italy)",
+  "country": "Italy"
+ },
+ {
+  "name": "Hi-VAWT",
+  "industry": "(Taiwan)",
+  "country": "Taiwan"
+ },
+ {
+  "name": "quietrevolution",
+  "industry": "(United Kingdom)",
+  "country": "United Kingdom"
+ },
+ {
+  "name": "Southwest",
+  "industry": "(United States)"
+ },
+ {
+  "name": "TUGE Energia",
+  "industry": "(Estonia)",
+  "country": "Estonia"
+ },
+ {
+  "name": "Urban Green Energy",
+  "industry": "(United States)"
+ },
+ {
+  "name": "China Guodian Corporation",
+  "industry": "(China)"
+ },
+ {
+  "name": "CRRC",
+  "industry": "(China)",
+  "country": "China"
+ },
+ {
+  "name": "CSIC",
+  "industry": "(Chongqing)",
+  "country": "China"
+ },
+ {
+  "name": "Envision Energy",
+  "industry": "(China)",
+  "country": "China"
+ },
+ {
+  "name": "Goldwind",
+  "industry": "(China)"
+ },
+ {
+  "name": "SANY",
+  "industry": "(China)",
+  "country": "China"
+ },
+ {
+  "name": "Shanghai Electric",
+  "industry": "(China) (SEwind)",
+  "country": "SEwind"
+ },
+ {
+  "name": "Sinovel",
+  "industry": "(China)",
+  "country": "China"
+ },
+ {
+  "name": "NovaWind",
+  "industry": "(Russia)"
+ },
+ {
+  "name": "GE Renewable Energy",
+  "industry": "(United States)",
+  "country": "United States"
+ },
+ {
+  "name": "PacWind",
+  "industry": "(United States)",
+  "country": "United States"
+ },
+ {
+  "name": "Elecon Engineering",
+  "industry": "(India)",
+  "country": "India"
+ },
+ {
+  "name": "RRB Energy Limited",
+  "industry": "(India)",
+  "country": "India"
+ },
+ {
+  "name": "Suzlon",
+  "industry": "(India)",
+  "country": "India"
+ },
+ {
+  "name": "World Wind",
+  "industry": "(India)",
+  "country": "India"
+ },
+ {
+  "name": "Enercon",
+  "industry": "(Germany)",
+  "country": "Germany"
+ },
+ {
+  "name": "Nordex",
+  "industry": "(Germany)",
+  "country": "Germany"
+ },
+ {
+  "name": "UNISON",
+  "industry": "(South Korea)",
+  "country": "South Korea"
+ },
+ {
+  "name": "Hanjin",
+  "industry": "(South Korea)",
+  "country": "South Korea"
+ },
+ {
+  "name": "Doosan",
+  "industry": "(South Korea)",
+  "country": "South Korea"
+ },
+ {
+  "name": "Hyosung",
+  "industry": "(South Korea)",
+  "country": "South Korea"
+ },
+ {
+  "name": "Hyundai Heavy Industries",
+  "industry": "(South Korea)",
+  "country": "South Korea"
+ },
+ {
+  "name": "Hitachi",
+  "industry": "(Japan)"
+ },
+ {
+  "name": "Japan Steel Works",
+  "industry": "(Japan)",
+  "country": "Japan"
+ },
+ {
+  "name": "Machine Sazi Arak",
+  "industry": "(Iran)",
+  "country": "Iran"
+ },
+ {
+  "name": "Mingyang Wind Power",
+  "industry": "(China)",
+  "country": "China"
+ },
+ {
+  "name": "Mitsubishi Heavy Industries",
+  "industry": "(Japan)",
+  "country": "Japan"
+ },
+ {
+  "name": "Končar",
+  "industry": "(Croatia)",
+  "country": "Croatia"
+ },
+ {
+  "name": "Mapna",
+  "industry": "(Iran)",
+  "country": "Iran"
+ },
+ {
+  "name": "Siemens Gamesa Renewable Energy",
+  "industry": "(Germany/Spain)",
+  "country": "Germany/Spain"
+ },
+ {
+  "name": "STX",
+  "industry": "Windpower (South Korea / The Netherlands)",
+  "country": "South Korea / The Netherlands"
+ },
+ {
+  "name": "TECO",
+  "industry": "(Taiwan)",
+  "country": "Taiwan"
+ },
+ {
+  "name": "Vergnet",
+  "industry": "(France)",
+  "country": "France"
+ },
+ {
+  "name": "Vestas",
+  "industry": "(Denmark)",
+  "country": "Denmark"
+ },
+ {
+  "name": "WEG",
+  "industry": "(Brazil)",
+  "country": "Brazil"
+ },
+ {
+  "name": "Xant",
+  "industry": "(Belgium)",
+  "country": "Belgium"
+ },
+ {
+  "name": "Broadwind Energy",
+  "industry": "(United States)",
+  "country": "United States"
+ },
+ {
+  "name": "Acciona",
+  "industry": "(Spain) merged with Nordex"
+ },
+ {
+  "name": "Northern Power Systems",
+  "industry": "(United States)",
+  "country": "United States"
+ },
+ {
+  "name": "DeWind",
+  "industry": "(Germany/United States)",
+  "country": "South Korea"
+ },
+ {
+  "name": "Alstom Wind",
+  "industry": "(Spain)"
+ },
+ {
+  "name": "Enron Wind",
+  "industry": "(now defunct)"
+ },
+ {
+  "name": "Fuji Heavy Industries",
+  "industry": "(Japan)"
+ },
+ {
+  "name": "Gamesa",
+  "industry": "(Spain)",
+  "country": "Spain"
+ },
+ {
+  "name": "NEG Micon",
+  "industry": "(Spain)"
+ },
+ {
+  "name": "NEG Micon",
+  "industry": "– now part of Vestas"
+ },
+ {
+  "name": "Nordic Windpower",
+  "industry": "(United States)"
+ },
+ {
+  "name": "Raum Energy Inc.",
+  "industry": "(Canada)",
+  "country": "Canada"
+ },
+ {
+  "name": "Scanwind",
+  "industry": "(Norway)"
+ },
+ {
+  "name": "Senvion",
+  "industry": "(Germany)"
+ },
+ {
+  "name": "Prokon",
+  "industry": "(Germany)",
+  "country": "Germany"
+ },
+ {
+  "name": "WinWinD",
+  "industry": "(Finland)",
+  "country": "Finland"
+ },
+ {
+  "name": "Frisia",
+  "industry": "(Germany)",
+  "country": "Germany"
+ },
+ {
+  "name": "Clipper",
+  "industry": "(United States)",
+  "country": "United States"
+ },
+ {
+  "name": "DSTN (DSME Trenton)",
+  "industry": "(Canada)",
+  "country": "Canada"
+ },
+ {
+  "name": "Windflow",
+  "industry": "(New Zealand)",
+  "country": "New Zealand"
+ },
+ {
+  "name": "AWEA",
+  "industry": "(American Wind Energy Association)",
+  "country": "American Wind Energy Association"
+ },
+ {
+  "name": "EWEA",
+  "industry": "(European Wind Energy Association)",
+  "country": "European Wind Energy Association"
+ },
+ {
+  "name": "Wind power in the People's Republic of China",
+  "industry": ""
+ }
+]

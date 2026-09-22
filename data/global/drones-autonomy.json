@@ -120,21 +120,6 @@
     "longitude": 8.5833
   },
   {
-    "name": "Percepto",
-    "country": "Israel",
-    "sub_domain": "Autonomous inspection",
-    "short_description": "Provides self-charging drone-in-a-box for continuous site inspection.",
-    "technology": "Docking stations, patented autonomy",
-    "year_founded": 2014,
-    "official_site": "https://percepto.co",
-    "priority": "C",
-    "why_relevant": "Turnkey remote pilot scheme running 24/7 industrial inspection.",
-    "history": "Percepto was founded in 2014 in Israel by Dor Abuhasira and Raviv Raz, who sought to remove people from repetitive, hazardous site inspections. The company developed a fully autonomous drone-in-a-box solution with a patented self-charging docking station, enabling 24/7 remote monitoring without on-site pilots. Percepto raised more than $100 million across funding rounds, was recognized as a market leader in automated inspection, and moved its headquarters to Austin, Texas, while keeping R&D in Israel. Its operating system, AIM, now powers autonomous visual data programs across energy, mining and logistics facilities worldwide.",
-    "hq_city": "Austin",
-    "latitude": 30.2672,
-    "longitude": -97.7431
-  },
-  {
     "name": "Dedrone",
     "country": "United States",
     "sub_domain": "Counter-UAS",

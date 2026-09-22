@@ -10,6 +10,7 @@ import type { StartupPriority } from '@/data/startups';
 import { Link } from '@/i18n/navigation';
 import { SaveButton } from '@/components/SaveButton';
 import { SavedProvider } from '@/components/SavedProvider';
+import { DifficultyMeter } from '@/components/DifficultyMeter';
 import type { Locale } from '@/i18n/routing';
 
 export const dynamic = 'force-dynamic';
@@ -164,6 +165,94 @@ export default async function StartupPage({
         <h2 className="text-sm font-medium text-ink">{t('whyRelevantLabel')}</h2>
         <p className="mt-2 text-base leading-[26px] text-ink/80">{startup.whyRelevant}</p>
       </div>
+
+      {startup.algeriaValue && startup.algeriaValue !== startup.whyRelevant && (
+        <div className="mt-10 max-w-2xl">
+          <h2 className="text-sm font-medium text-ink">{t('algeriaValueLabel')}</h2>
+          <p className="mt-2 text-base leading-[26px] text-ink/80">{startup.algeriaValue}</p>
+        </div>
+      )}
+
+      {startup.mainSellers && startup.mainSellers.length > 0 && (
+        <div className="mt-10 max-w-2xl">
+          <h2 className="text-sm font-medium text-ink">{t('sellersLabel')}</h2>
+          <ul className="mt-2 space-y-1.5">
+            {startup.mainSellers.map((seller) => (
+              <li key={seller} className="flex items-start gap-2 text-base leading-[26px] text-ink/80">
+                <span aria-hidden className="mt-[11px] h-1.5 w-1.5 shrink-0 rounded-full bg-signal" />
+                {seller}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {startup.teamRec && startup.teamRec.length > 0 && (
+        <div className="mt-10 max-w-2xl">
+          <h2 className="text-sm font-medium text-ink">
+            {t('teamRecLabel')}
+            <span className="ml-2 font-mono text-xs text-ink/50">
+              {t('teamTotalLabel', { count: startup.teamRec.reduce((sum, r) => sum + r.count, 0) })}
+            </span>
+          </h2>
+          <ul className="mt-2 space-y-1.5">
+            {startup.teamRec.map((r) => (
+              <li key={r.role} className="flex items-center gap-2 text-base text-ink/80">
+                <span dir="ltr" className="font-mono text-sm text-signal">
+                  {r.count}×
+                </span>
+                {r.role}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {startup.buildApproach && (
+        <div className="mt-10 max-w-2xl">
+          <h2 className="text-sm font-medium text-ink">{t('buildApproachLabel')}</h2>
+          <p className="mt-2 text-base leading-[26px] text-ink/80">{startup.buildApproach}</p>
+        </div>
+      )}
+
+      {startup.productIssues && (
+        <div className="mt-10 max-w-2xl">
+          <h2 className="text-sm font-medium text-ink">{t('fixLabel')}</h2>
+          <p className="mt-2 text-base leading-[26px] text-ink/80">{startup.productIssues}</p>
+        </div>
+      )}
+
+      {typeof startup.difficultyScore === 'number' && (
+        <div className="mt-10 max-w-2xl">
+          <h2 className="text-sm font-medium text-ink">{t('difficultyLabel')}</h2>
+          <div className="mt-3 card-soft p-4">
+            <DifficultyMeter
+              score={startup.difficultyScore}
+              breakdown={startup.difficultyBreakdown}
+              labels={{
+                tier: t(
+                  startup.difficultyScore >= 70
+                    ? 'difficultyHigh'
+                    : startup.difficultyScore >= 40
+                      ? 'difficultyMedium'
+                      : 'difficultyLow'
+                ),
+                axes: {
+                  technical: t('difficultyTech'),
+                  capital: t('difficultyCapital'),
+                  regulatory: t('difficultyRegulatory'),
+                  market: t('difficultyMarket')
+                }
+              }}
+            />
+          </div>
+        </div>
+      )}
+
+      <p className="mt-10 max-w-2xl text-xs leading-5 text-ink/40">
+        {t('generatedNoteLabel')}
+        {startup.sourceNote ? ` ${startup.sourceNote}` : ''}
+      </p>
 
       {startup.history && (
         <div className="mt-10 max-w-2xl">

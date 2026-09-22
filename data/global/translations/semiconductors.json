@@ -351,28 +351,6 @@
       "hq_city": "Woburn"
     }
   },
-  "weebit-nano": {
-    "ar": {
-      "name": "Weebit Nano",
-      "country": "إسرائيل",
-      "sub_domain": "ذاكرة RRAM",
-      "short_description": "ذاكرة مقاومة تُرخّص إلى مصانع الرقائق لاستبدال الذاكرة المدمجة.",
-      "technology": "ملكية فكرية RRAM قائمة على الأكسيد",
-      "why_relevant": "تندمج في عمليات CMOS الحالية مع كتابة أسرع 100 مرة من الفلاش.",
-      "history": "تأسست Weebit Nano في عام 2015 لتطوير ذاكرة RRAM قائمة على أكسيد السيليكون، وأدرجت أسهمها في بورصة أستراليا ASX عام 2021. أهّلت الشركة ذاكرتها المدمجة RRAM لدى SkyWater ووقّعت في السنوات التالية اتفاقيات ترخيص وتوريد إضافية مع مصانع رقاقات. وتبقى مورداً مدرجاً لملكية فكرية تقدم بديلاً سهل الدمج في عمليات CMOS، وبكتابة أسرع 100 مرة من الفلاش، لتطبيقات الذاكرة المدمجة.",
-      "hq_city": "نتانيا"
-    },
-    "fr": {
-      "name": "Weebit Nano",
-      "country": "Israël",
-      "sub_domain": "Mémoire RRAM",
-      "short_description": "Une RAM résistive concédée sous licence aux fabs pour remplacer la mémoire intégrée.",
-      "technology": "IP RRAM à oxyde",
-      "why_relevant": "S'intègre dans les procédés CMOS existants avec des écritures 100x plus rapides que la flash.",
-      "history": "Weebit Nano a été constituée en 2015 pour développer une RRAM à oxyde de silicium, avant de s'introduire à la bourse australienne ASX en 2021. La société a qualifié sa RRAM embarquée chez SkyWater et signé, dans les années suivantes, des accords de licence et d'approvisionnement avec des fabs. Elle demeure un fournisseur coté d'IP proposant une alternative compatible CMOS, aux écritures 100x plus rapides que la flash, pour la mémoire embarquée.",
-      "hq_city": "Netanya"
-    }
-  },
   "furiosaai": {
     "ar": {
       "name": "FuriosaAI",

@@ -1,0 +1,119 @@
+[
+ {
+  "valuation": "1",
+  "name": "USA"
+ },
+ {
+  "valuation": "2",
+  "name": "CHN"
+ },
+ {
+  "valuation": "3",
+  "name": "SUI"
+ },
+ {
+  "valuation": "4",
+  "name": "USA"
+ },
+ {
+  "valuation": "5",
+  "name": "USA"
+ },
+ {
+  "valuation": "6",
+  "name": "USA"
+ },
+ {
+  "valuation": "7",
+  "name": "USA"
+ },
+ {
+  "valuation": "8",
+  "name": "GBR SWE"
+ },
+ {
+  "valuation": "9",
+  "name": "SUI"
+ },
+ {
+  "valuation": "10",
+  "name": "FRA"
+ },
+ {
+  "valuation": "11",
+  "name": "GER"
+ },
+ {
+  "valuation": "12",
+  "name": "DEN"
+ },
+ {
+  "valuation": "13",
+  "name": "USA"
+ },
+ {
+  "valuation": "14",
+  "name": "GBR"
+ },
+ {
+  "valuation": "15",
+  "name": "USA"
+ },
+ {
+  "valuation": "16",
+  "name": "CHN"
+ },
+ {
+  "valuation": "17",
+  "name": "USA"
+ },
+ {
+  "valuation": "18",
+  "name": "GER",
+  "country": "Private |"
+ },
+ {
+  "valuation": "20",
+  "name": "USA"
+ },
+ {
+  "valuation": "23",
+  "name": "CHN",
+  "country": "|"
+ },
+ {
+  "valuation": "24",
+  "name": "USA"
+ },
+ {
+  "valuation": "26",
+  "name": "JPN",
+  "country": "|"
+ },
+ {
+  "valuation": "29",
+  "name": "USA"
+ },
+ {
+  "valuation": "30",
+  "name": "USA"
+ },
+ {
+  "valuation": "31",
+  "name": "JPN",
+  "country": "|"
+ },
+ {
+  "valuation": "32",
+  "name": "JPN",
+  "country": "|"
+ },
+ {
+  "valuation": "33",
+  "name": "USA"
+ },
+ {
+  "valuation": "34",
+  "name": "USA"
+ }
+]

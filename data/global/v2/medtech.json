@@ -1,0 +1,2522 @@
+[
+ {
+  "name": "Devoted Health",
+  "country": "United States",
+  "sub_domain": "Healthcare",
+  "short_description": "Devoted Health operates in medical devices and competes on focus. Its bet is that a connected care companion, built for hospitals, clinics and home-care patients, beats a broad horizontal platform.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Devoted_Health",
+  "source_url": "https://en.wikipedia.org/wiki/Devoted_Health",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Devoted Health could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "Devoted Health operates in medical devices and competes on focus. Its bet is that a connected care companion, built for hospitals, clinics and home-care patients, beats a broad horizontal platform.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a connected care companion, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate export and procurement rules — the licensing and compliance layer.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Devoted Health could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 71,
+  "difficulty_breakdown": {
+   "technical": 24,
+   "capital": 18,
+   "regulatory": 26,
+   "market": 32
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "Devoted Health ينشط في الأجهزة الطبية ويتنافس بالتركيز. رهانه أن مرافِق رعاية متصل المبنية لـ المستشفيات والعيادات ومرضى الرعاية المنزلية تتفوق على المنصات الأفقية الواسعة.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Devoted Health توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "Devoted Health ينشط في الأجهزة الطبية ويتنافس بالتركيز. رهانه أن مرافِق رعاية متصل المبنية لـ المستشفيات والعيادات ومرضى الرعاية المنزلية تتفوق على المنصات الأفقية الواسعة.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول مرافِق رعاية متصل، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن قواعد التصدير والشراء — طبقة الترخيص والامتثال.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Devoted Health توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "Devoted Health évolue dans les dispositifs médicaux et joue la carte de la concentration. Son pari : un compagnon de soin connecté, conçu pour hôpitaux, cliniques et patients à domicile, bat une plateforme horizontale trop large.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Devoted Health pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "Devoted Health évolue dans les dispositifs médicaux et joue la carte de la concentration. Son pari : un compagnon de soin connecté, conçu pour hôpitaux, cliniques et patients à domicile, bat une plateforme horizontale trop large.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de un compagnon de soin connecté, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi règles d’exportation et d’achat — la couche licence et conformité.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Devoted Health pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "Oyo",
+  "country": "India",
+  "sub_domain": "Hospitality",
+  "short_description": "In the crowded field of medical devices, Oyo differentiates by solving one problem end-to-end — a diagnostic or monitoring device for one condition — instead of stacking horizontal features.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Oyo",
+  "source_url": "https://en.wikipedia.org/wiki/Oyo",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Oyo could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "In the crowded field of medical devices, Oyo differentiates by solving one problem end-to-end — a diagnostic or monitoring device for one condition — instead of stacking horizontal features.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Start with a pilot for one customer, instrument usage, then productize. Keep the stack boring: a diagnostic or monitoring device for one condition, running on proven infrastructure. Ship weekly and hold one metric — retention, safety or uptime — as the north star.",
+  "product_issues": "Oyo competes against incumbents with deep integration and pricing power. The realistic risks are channel lock-in, long procurement cycles and a price war in the commodity tier.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Oyo could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 82,
+  "difficulty_breakdown": {
+   "technical": 28,
+   "capital": 21,
+   "regulatory": 30,
+   "market": 21
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "في ميدان الأجهزة الطبية المزدحم، يميّز Oyo نفسه بحل مشكلة واحدة من البداية للنهاية — جهاز تشخيص أو مراقبة لحالة واحدة — بدل إضافة ميزات أفقية.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Oyo توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "في ميدان الأجهزة الطبية المزدحم، يميّز Oyo نفسه بحل مشكلة واحدة من البداية للنهاية — جهاز تشخيص أو مراقبة لحالة واحدة — بدل إضافة ميزات أفقية.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابدأ بتجربة في موقع عميل واحد مع قياس الاستخدام ثم حوّل إلى منتج. أبقِ التقنية بسيطة: جهاز تشخيص أو مراقبة لحالة واحدة على بنية تحتية مجرّبة. أطلق أسبوعياً واجعل مقاس النجاح — الاحتفاظ أو السلامة أو الاستمرارية — البوصلة.",
+    "product_issues": "يتنافس Oyo ضد لاعبين راسخين يملكون تكاملاً عميقاً وقوة تسعيرية. المخاطر الواقعية: احتكار القنوات، دورات شراء طويلة، وحرب أسعار في الطبقة القياسية.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Oyo توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "Dans le champ saturé de les dispositifs médicaux, Oyo se distingue en résolvant un problème de bout en bout — un dispositif de diagnostic ou suivi pour une pathologie — plutôt qu’en empilant des fonctions horizontales.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Oyo pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "Dans le champ saturé de les dispositifs médicaux, Oyo se distingue en résolvant un problème de bout en bout — un dispositif de diagnostic ou suivi pour une pathologie — plutôt qu’en empilant des fonctions horizontales.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Commencez par un pilote chez un client, mesurez l’usage, puis industrialisez. Gardez une stack simple : un dispositif de diagnostic ou suivi pour une pathologie sur une infrastructure éprouvée. Livrez chaque semaine et tenez une seule métrique — rétention, sécurité ou disponibilité — comme étoile polaire.",
+    "product_issues": "Oyo affronte des acteurs établis dotés d’intégration profonde et de pouvoir de prix. Risques réels : verrouillage des canaux, cycles d’achat longs, guerre des prix sur le segment générique.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Oyo pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "WeDoctor",
+  "country": "China",
+  "sub_domain": "Healthcare",
+  "short_description": "The team behind WeDoctor targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a software-as-medical-device application makes the product more focused than a generalist play.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/WeDoctor",
+  "source_url": "https://en.wikipedia.org/wiki/WeDoctor",
+  "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build medical devices products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "priority": "A",
+  "concept": "The team behind WeDoctor targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a software-as-medical-device application makes the product more focused than a generalist play.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "The realistic path starts with long sales cycles: secure a reference customer at a fair price, then sell the outcome, not the tool. a software-as-medical-device application gives the team a defensible demo.",
+  "product_issues": "WeDoctor competes against incumbents with deep integration and pricing power. The realistic risks are channel lock-in, long procurement cycles and a price war in the commodity tier.",
+  "algeria_value": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build medical devices products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "difficulty_score": 88,
+  "difficulty_breakdown": {
+   "technical": 30,
+   "capital": 23,
+   "regulatory": 32,
+   "market": 15
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "يستهدف فريق WeDoctor المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: تطبيق برمجيات كجهاز طبي يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الأجهزة الطبية يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
+    "concept": "يستهدف فريق WeDoctor المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: تطبيق برمجيات كجهاز طبي يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "المسار الواقعي يبدأ بدورات مبيعات طويلة: احصل على عميل مرجعي بسعر عادل ثم بع النتيجة لا الأداة. تطبيق برمجيات كجهاز طبي يمنح الفريق عرضاً ملموساً.",
+    "product_issues": "يتنافس WeDoctor ضد لاعبين راسخين يملكون تكاملاً عميقاً وقوة تسعيرية. المخاطر الواقعية: احتكار القنوات، دورات شراء طويلة، وحرب أسعار في الطبقة القياسية.",
+    "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الأجهزة الطبية يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
+   },
+   "fr": {
+    "short_description": "L’équipe de WeDoctor cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : une application software-as-medical-device rend le produit plus concentré qu’un acteur généraliste.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les dispositifs médicaux peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
+    "concept": "L’équipe de WeDoctor cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : une application software-as-medical-device rend le produit plus concentré qu’un acteur généraliste.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Le chemin réaliste commence par de longs cycles de vente : décrochez un client de référence à un prix juste, puis vendez le résultat, pas l’outil. une application software-as-medical-device donne à l’équipe une démo défendable.",
+    "product_issues": "WeDoctor affronte des acteurs établis dotés d’intégration profonde et de pouvoir de prix. Risques réels : verrouillage des canaux, cycles d’achat longs, guerre des prix sur le segment générique.",
+    "algeria_value": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les dispositifs médicaux peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux."
+   }
+  }
+ },
+ {
+  "name": "Yanolja",
+  "country": "South Korea",
+  "sub_domain": "Hospitality",
+  "short_description": "The team behind Yanolja targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a diagnostic or monitoring device for one condition makes the product more focused than a generalist play.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Yanolja",
+  "source_url": "https://en.wikipedia.org/wiki/Yanolja",
+  "why_relevant": "The Algerian angle is affordability and context: a diagnostic or monitoring device for one condition, simplified for local needs — plus the engineering-diploma pipeline — can turn Yanolja’s playbook into a domestic or regional win.",
+  "priority": "A",
+  "concept": "The team behind Yanolja targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a diagnostic or monitoring device for one condition makes the product more focused than a generalist play.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Start with a pilot for one customer, instrument usage, then productize. Keep the stack boring: a diagnostic or monitoring device for one condition, running on proven infrastructure. Ship weekly and hold one metric — retention, safety or uptime — as the north star.",
+  "product_issues": "Yanolja competes against incumbents with deep integration and pricing power. The realistic risks are channel lock-in, long procurement cycles and a price war in the commodity tier.",
+  "algeria_value": "The Algerian angle is affordability and context: a diagnostic or monitoring device for one condition, simplified for local needs — plus the engineering-diploma pipeline — can turn Yanolja’s playbook into a domestic or regional win.",
+  "difficulty_score": 84,
+  "difficulty_breakdown": {
+   "technical": 29,
+   "capital": 22,
+   "regulatory": 30,
+   "market": 19
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "يستهدف فريق Yanolja المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: جهاز تشخيص أو مراقبة لحالة واحدة يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من جهاز تشخيص أو مراقبة لحالة واحدة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Yanolja إلى نجاح محلي أو إقليمي.",
+    "concept": "يستهدف فريق Yanolja المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: جهاز تشخيص أو مراقبة لحالة واحدة يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابدأ بتجربة في موقع عميل واحد مع قياس الاستخدام ثم حوّل إلى منتج. أبقِ التقنية بسيطة: جهاز تشخيص أو مراقبة لحالة واحدة على بنية تحتية مجرّبة. أطلق أسبوعياً واجعل مقاس النجاح — الاحتفاظ أو السلامة أو الاستمرارية — البوصلة.",
+    "product_issues": "يتنافس Yanolja ضد لاعبين راسخين يملكون تكاملاً عميقاً وقوة تسعيرية. المخاطر الواقعية: احتكار القنوات، دورات شراء طويلة، وحرب أسعار في الطبقة القياسية.",
+    "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من جهاز تشخيص أو مراقبة لحالة واحدة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Yanolja إلى نجاح محلي أو إقليمي."
+   },
+   "fr": {
+    "short_description": "L’équipe de Yanolja cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : un dispositif de diagnostic ou suivi pour une pathologie rend le produit plus concentré qu’un acteur généraliste.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un dispositif de diagnostic ou suivi pour une pathologie adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Yanolja en victoire domestique ou régionale.",
+    "concept": "L’équipe de Yanolja cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : un dispositif de diagnostic ou suivi pour une pathologie rend le produit plus concentré qu’un acteur généraliste.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Commencez par un pilote chez un client, mesurez l’usage, puis industrialisez. Gardez une stack simple : un dispositif de diagnostic ou suivi pour une pathologie sur une infrastructure éprouvée. Livrez chaque semaine et tenez une seule métrique — rétention, sécurité ou disponibilité — comme étoile polaire.",
+    "product_issues": "Yanolja affronte des acteurs établis dotés d’intégration profonde et de pouvoir de prix. Risques réels : verrouillage des canaux, cycles d’achat longs, guerre des prix sur le segment générique.",
+    "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un dispositif de diagnostic ou suivi pour une pathologie adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Yanolja en victoire domestique ou régionale."
+   }
+  }
+ },
+ {
+  "name": "Doctolib",
+  "country": "France",
+  "sub_domain": "Healthcare",
+  "short_description": "Doctolib operates in medical devices and competes on focus. Its bet is that a diagnostic or monitoring device for one condition, built for hospitals, clinics and home-care patients, beats a broad horizontal platform.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Doctolib",
+  "source_url": "https://en.wikipedia.org/wiki/Doctolib",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Doctolib could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "Doctolib operates in medical devices and competes on focus. Its bet is that a diagnostic or monitoring device for one condition, built for hospitals, clinics and home-care patients, beats a broad horizontal platform.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Start with a pilot for one customer, instrument usage, then productize. Keep the stack boring: a diagnostic or monitoring device for one condition, running on proven infrastructure. Ship weekly and hold one metric — retention, safety or uptime — as the north star.",
+  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate industry licensing and certification — the licensing and compliance layer.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Doctolib could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 72,
+  "difficulty_breakdown": {
+   "technical": 24,
+   "capital": 19,
+   "regulatory": 26,
+   "market": 31
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "Doctolib ينشط في الأجهزة الطبية ويتنافس بالتركيز. رهانه أن جهاز تشخيص أو مراقبة لحالة واحدة المبنية لـ المستشفيات والعيادات ومرضى الرعاية المنزلية تتفوق على المنصات الأفقية الواسعة.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Doctolib توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "Doctolib ينشط في الأجهزة الطبية ويتنافس بالتركيز. رهانه أن جهاز تشخيص أو مراقبة لحالة واحدة المبنية لـ المستشفيات والعيادات ومرضى الرعاية المنزلية تتفوق على المنصات الأفقية الواسعة.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابدأ بتجربة في موقع عميل واحد مع قياس الاستخدام ثم حوّل إلى منتج. أبقِ التقنية بسيطة: جهاز تشخيص أو مراقبة لحالة واحدة على بنية تحتية مجرّبة. أطلق أسبوعياً واجعل مقاس النجاح — الاحتفاظ أو السلامة أو الاستمرارية — البوصلة.",
+    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن ترخيص الصناعة والاعتماد — طبقة الترخيص والامتثال.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Doctolib توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "Doctolib évolue dans les dispositifs médicaux et joue la carte de la concentration. Son pari : un dispositif de diagnostic ou suivi pour une pathologie, conçu pour hôpitaux, cliniques et patients à domicile, bat une plateforme horizontale trop large.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Doctolib pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "Doctolib évolue dans les dispositifs médicaux et joue la carte de la concentration. Son pari : un dispositif de diagnostic ou suivi pour une pathologie, conçu pour hôpitaux, cliniques et patients à domicile, bat une plateforme horizontale trop large.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Commencez par un pilote chez un client, mesurez l’usage, puis industrialisez. Gardez une stack simple : un dispositif de diagnostic ou suivi pour une pathologie sur une infrastructure éprouvée. Livrez chaque semaine et tenez une seule métrique — rétention, sécurité ou disponibilité — comme étoile polaire.",
+    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi licences et certifications métier — la couche licence et conformité.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Doctolib pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "Noom",
+  "country": "United States",
+  "sub_domain": "Healthcare",
+  "short_description": "The team behind Noom targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a diagnostic or monitoring device for one condition makes the product more focused than a generalist play.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Noom",
+  "source_url": "https://en.wikipedia.org/wiki/Noom",
+  "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build medical devices products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "priority": "A",
+  "concept": "The team behind Noom targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a diagnostic or monitoring device for one condition makes the product more focused than a generalist play.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Start with a pilot for one customer, instrument usage, then productize. Keep the stack boring: a diagnostic or monitoring device for one condition, running on proven infrastructure. Ship weekly and hold one metric — retention, safety or uptime — as the north star.",
+  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate industry licensing and certification — the licensing and compliance layer.",
+  "algeria_value": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build medical devices products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "difficulty_score": 85,
+  "difficulty_breakdown": {
+   "technical": 29,
+   "capital": 22,
+   "regulatory": 31,
+   "market": 18
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "يستهدف فريق Noom المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: جهاز تشخيص أو مراقبة لحالة واحدة يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الأجهزة الطبية يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
+    "concept": "يستهدف فريق Noom المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: جهاز تشخيص أو مراقبة لحالة واحدة يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابدأ بتجربة في موقع عميل واحد مع قياس الاستخدام ثم حوّل إلى منتج. أبقِ التقنية بسيطة: جهاز تشخيص أو مراقبة لحالة واحدة على بنية تحتية مجرّبة. أطلق أسبوعياً واجعل مقاس النجاح — الاحتفاظ أو السلامة أو الاستمرارية — البوصلة.",
+    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن ترخيص الصناعة والاعتماد — طبقة الترخيص والامتثال.",
+    "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الأجهزة الطبية يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
+   },
+   "fr": {
+    "short_description": "L’équipe de Noom cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : un dispositif de diagnostic ou suivi pour une pathologie rend le produit plus concentré qu’un acteur généraliste.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les dispositifs médicaux peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
+    "concept": "L’équipe de Noom cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : un dispositif de diagnostic ou suivi pour une pathologie rend le produit plus concentré qu’un acteur généraliste.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Commencez par un pilote chez un client, mesurez l’usage, puis industrialisez. Gardez une stack simple : un dispositif de diagnostic ou suivi pour une pathologie sur une infrastructure éprouvée. Livrez chaque semaine et tenez une seule métrique — rétention, sécurité ou disponibilité — comme étoile polaire.",
+    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi licences et certifications métier — la couche licence et conformité.",
+    "algeria_value": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les dispositifs médicaux peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux."
+   }
+  }
+ },
+ {
+  "name": "Abridge",
+  "country": "United States",
+  "sub_domain": "Healthcare technology and AI",
+  "short_description": "Abridge operates in medical devices and competes on focus. Its bet is that a diagnostic or monitoring device for one condition, built for hospitals, clinics and home-care patients, beats a broad horizontal platform.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Abridge",
+  "source_url": "https://en.wikipedia.org/wiki/Abridge",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Abridge could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "Abridge operates in medical devices and competes on focus. Its bet is that a diagnostic or monitoring device for one condition, built for hospitals, clinics and home-care patients, beats a broad horizontal platform.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Start with a pilot for one customer, instrument usage, then productize. Keep the stack boring: a diagnostic or monitoring device for one condition, running on proven infrastructure. Ship weekly and hold one metric — retention, safety or uptime — as the north star.",
+  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate industry licensing and certification — the licensing and compliance layer.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Abridge could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 72,
+  "difficulty_breakdown": {
+   "technical": 24,
+   "capital": 19,
+   "regulatory": 26,
+   "market": 31
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "Abridge ينشط في الأجهزة الطبية ويتنافس بالتركيز. رهانه أن جهاز تشخيص أو مراقبة لحالة واحدة المبنية لـ المستشفيات والعيادات ومرضى الرعاية المنزلية تتفوق على المنصات الأفقية الواسعة.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Abridge توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "Abridge ينشط في الأجهزة الطبية ويتنافس بالتركيز. رهانه أن جهاز تشخيص أو مراقبة لحالة واحدة المبنية لـ المستشفيات والعيادات ومرضى الرعاية المنزلية تتفوق على المنصات الأفقية الواسعة.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابدأ بتجربة في موقع عميل واحد مع قياس الاستخدام ثم حوّل إلى منتج. أبقِ التقنية بسيطة: جهاز تشخيص أو مراقبة لحالة واحدة على بنية تحتية مجرّبة. أطلق أسبوعياً واجعل مقاس النجاح — الاحتفاظ أو السلامة أو الاستمرارية — البوصلة.",
+    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن ترخيص الصناعة والاعتماد — طبقة الترخيص والامتثال.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Abridge توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "Abridge évolue dans les dispositifs médicaux et joue la carte de la concentration. Son pari : un dispositif de diagnostic ou suivi pour une pathologie, conçu pour hôpitaux, cliniques et patients à domicile, bat une plateforme horizontale trop large.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Abridge pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "Abridge évolue dans les dispositifs médicaux et joue la carte de la concentration. Son pari : un dispositif de diagnostic ou suivi pour une pathologie, conçu pour hôpitaux, cliniques et patients à domicile, bat une plateforme horizontale trop large.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Commencez par un pilote chez un client, mesurez l’usage, puis industrialisez. Gardez une stack simple : un dispositif de diagnostic ou suivi pour une pathologie sur une infrastructure éprouvée. Livrez chaque semaine et tenez une seule métrique — rétention, sécurité ou disponibilité — comme étoile polaire.",
+    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi licences et certifications métier — la couche licence et conformité.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Abridge pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "Mews (company)",
+  "country": "Czech Republic",
+  "sub_domain": "Hospitality management platform",
+  "short_description": "Mews (company) operates in medical devices and competes on focus. Its bet is that a connected care companion, built for hospitals, clinics and home-care patients, beats a broad horizontal platform.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Mews_(company)",
+  "source_url": "https://en.wikipedia.org/wiki/Mews_(company)",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Mews (company) could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "Mews (company) operates in medical devices and competes on focus. Its bet is that a connected care companion, built for hospitals, clinics and home-care patients, beats a broad horizontal platform.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a connected care companion, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate export and procurement rules — the licensing and compliance layer.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Mews (company) could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 69,
+  "difficulty_breakdown": {
+   "technical": 23,
+   "capital": 18,
+   "regulatory": 25,
+   "market": 34
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "Mews (company) ينشط في الأجهزة الطبية ويتنافس بالتركيز. رهانه أن مرافِق رعاية متصل المبنية لـ المستشفيات والعيادات ومرضى الرعاية المنزلية تتفوق على المنصات الأفقية الواسعة.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Mews (company) توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "Mews (company) ينشط في الأجهزة الطبية ويتنافس بالتركيز. رهانه أن مرافِق رعاية متصل المبنية لـ المستشفيات والعيادات ومرضى الرعاية المنزلية تتفوق على المنصات الأفقية الواسعة.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول مرافِق رعاية متصل، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن قواعد التصدير والشراء — طبقة الترخيص والامتثال.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Mews (company) توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "Mews (company) évolue dans les dispositifs médicaux et joue la carte de la concentration. Son pari : un compagnon de soin connecté, conçu pour hôpitaux, cliniques et patients à domicile, bat une plateforme horizontale trop large.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Mews (company) pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "Mews (company) évolue dans les dispositifs médicaux et joue la carte de la concentration. Son pari : un compagnon de soin connecté, conçu pour hôpitaux, cliniques et patients à domicile, bat une plateforme horizontale trop large.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de un compagnon de soin connecté, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi règles d’exportation et d’achat — la couche licence et conformité.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Mews (company) pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "Mozido",
+  "country": "United States",
+  "sub_domain": "Healthcare",
+  "short_description": "Created to attack a specific pain point in medical devices, Mozido bets on a diagnostic or monitoring device for one condition as the wedge hospitals, clinics and home-care patients will actually buy.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Mozido",
+  "source_url": "https://en.wikipedia.org/wiki/Mozido",
+  "why_relevant": "The Algerian angle is affordability and context: a diagnostic or monitoring device for one condition, simplified for local needs — plus the engineering-diploma pipeline — can turn Mozido’s playbook into a domestic or regional win.",
+  "priority": "A",
+  "concept": "Created to attack a specific pain point in medical devices, Mozido bets on a diagnostic or monitoring device for one condition as the wedge hospitals, clinics and home-care patients will actually buy.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Start with a pilot for one customer, instrument usage, then productize. Keep the stack boring: a diagnostic or monitoring device for one condition, running on proven infrastructure. Ship weekly and hold one metric — retention, safety or uptime — as the north star.",
+  "product_issues": "Mozido competes against incumbents with deep integration and pricing power. The realistic risks are channel lock-in, long procurement cycles and a price war in the commodity tier.",
+  "algeria_value": "The Algerian angle is affordability and context: a diagnostic or monitoring device for one condition, simplified for local needs — plus the engineering-diploma pipeline — can turn Mozido’s playbook into a domestic or regional win.",
+  "difficulty_score": 74,
+  "difficulty_breakdown": {
+   "technical": 25,
+   "capital": 19,
+   "regulatory": 27,
+   "market": 29
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "Mozido أُنشئ لمعالجة نقطة ألم محددة في الأجهزة الطبية، ويعتمد جهاز تشخيص أو مراقبة لحالة واحدة كمدخل سيجعله المستشفيات والعيادات ومرضى الرعاية المنزلية يشترون فعلاً.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من جهاز تشخيص أو مراقبة لحالة واحدة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Mozido إلى نجاح محلي أو إقليمي.",
+    "concept": "Mozido أُنشئ لمعالجة نقطة ألم محددة في الأجهزة الطبية، ويعتمد جهاز تشخيص أو مراقبة لحالة واحدة كمدخل سيجعله المستشفيات والعيادات ومرضى الرعاية المنزلية يشترون فعلاً.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابدأ بتجربة في موقع عميل واحد مع قياس الاستخدام ثم حوّل إلى منتج. أبقِ التقنية بسيطة: جهاز تشخيص أو مراقبة لحالة واحدة على بنية تحتية مجرّبة. أطلق أسبوعياً واجعل مقاس النجاح — الاحتفاظ أو السلامة أو الاستمرارية — البوصلة.",
+    "product_issues": "يتنافس Mozido ضد لاعبين راسخين يملكون تكاملاً عميقاً وقوة تسعيرية. المخاطر الواقعية: احتكار القنوات، دورات شراء طويلة، وحرب أسعار في الطبقة القياسية.",
+    "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من جهاز تشخيص أو مراقبة لحالة واحدة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Mozido إلى نجاح محلي أو إقليمي."
+   },
+   "fr": {
+    "short_description": "Créée pour un point de douleur précis dans les dispositifs médicaux, Mozido mise sur un dispositif de diagnostic ou suivi pour une pathologie comme la porte d’entrée que hôpitaux, cliniques et patients à domicile achètera réellement.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un dispositif de diagnostic ou suivi pour une pathologie adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Mozido en victoire domestique ou régionale.",
+    "concept": "Créée pour un point de douleur précis dans les dispositifs médicaux, Mozido mise sur un dispositif de diagnostic ou suivi pour une pathologie comme la porte d’entrée que hôpitaux, cliniques et patients à domicile achètera réellement.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Commencez par un pilote chez un client, mesurez l’usage, puis industrialisez. Gardez une stack simple : un dispositif de diagnostic ou suivi pour une pathologie sur une infrastructure éprouvée. Livrez chaque semaine et tenez une seule métrique — rétention, sécurité ou disponibilité — comme étoile polaire.",
+    "product_issues": "Mozido affronte des acteurs établis dotés d’intégration profonde et de pouvoir de prix. Risques réels : verrouillage des canaux, cycles d’achat longs, guerre des prix sur le segment générique.",
+    "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un dispositif de diagnostic ou suivi pour une pathologie adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Mozido en victoire domestique ou régionale."
+   }
+  }
+ },
+ {
+  "name": "Kry",
+  "country": "Sweden",
+  "sub_domain": "Healthcare",
+  "short_description": "Kry is a Sweden company working in medical devices — a space where Medtronic and Abbott set the reference bar, so newcomers must own a narrower niche.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Kry",
+  "source_url": "https://en.wikipedia.org/wiki/Kry",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Kry could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "Kry is a Sweden company working in medical devices — a space where Medtronic and Abbott set the reference bar, so newcomers must own a narrower niche.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Start with a pilot for one customer, instrument usage, then productize. Keep the stack boring: a diagnostic or monitoring device for one condition, running on proven infrastructure. Ship weekly and hold one metric — retention, safety or uptime — as the north star.",
+  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate industry licensing and certification — the licensing and compliance layer.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Kry could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 73,
+  "difficulty_breakdown": {
+   "technical": 25,
+   "capital": 19,
+   "regulatory": 26,
+   "market": 30
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "Kry شركة من Sweden تعمل في الأجهزة الطبية — مجال يضع فيه Medtronic و Abbott المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Kry توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "Kry شركة من Sweden تعمل في الأجهزة الطبية — مجال يضع فيه Medtronic و Abbott المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابدأ بتجربة في موقع عميل واحد مع قياس الاستخدام ثم حوّل إلى منتج. أبقِ التقنية بسيطة: جهاز تشخيص أو مراقبة لحالة واحدة على بنية تحتية مجرّبة. أطلق أسبوعياً واجعل مقاس النجاح — الاحتفاظ أو السلامة أو الاستمرارية — البوصلة.",
+    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن ترخيص الصناعة والاعتماد — طبقة الترخيص والامتثال.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Kry توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "Kry est une entreprise de Sweden qui opère dans les dispositifs médicaux, un espace où Medtronic et Abbott donnent le la : les entrants doivent viser une niche plus étroite.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Kry pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "Kry est une entreprise de Sweden qui opère dans les dispositifs médicaux, un espace où Medtronic et Abbott donnent le la : les entrants doivent viser une niche plus étroite.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Commencez par un pilote chez un client, mesurez l’usage, puis industrialisez. Gardez une stack simple : un dispositif de diagnostic ou suivi pour une pathologie sur une infrastructure éprouvée. Livrez chaque semaine et tenez une seule métrique — rétention, sécurité ou disponibilité — comme étoile polaire.",
+    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi licences et certifications métier — la couche licence et conformité.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Kry pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "Incredible Health",
+  "country": "United States",
+  "sub_domain": "Healthcare Technology",
+  "short_description": "In the crowded field of medical devices, Incredible Health differentiates by solving one problem end-to-end — a diagnostic or monitoring device for one condition — instead of stacking horizontal features.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Incredible_Health",
+  "source_url": "https://en.wikipedia.org/wiki/Incredible_Health",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Incredible Health could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "In the crowded field of medical devices, Incredible Health differentiates by solving one problem end-to-end — a diagnostic or monitoring device for one condition — instead of stacking horizontal features.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Start with a pilot for one customer, instrument usage, then productize. Keep the stack boring: a diagnostic or monitoring device for one condition, running on proven infrastructure. Ship weekly and hold one metric — retention, safety or uptime — as the north star.",
+  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate export and procurement rules — the licensing and compliance layer.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Incredible Health could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 68,
+  "difficulty_breakdown": {
+   "technical": 23,
+   "capital": 18,
+   "regulatory": 24,
+   "market": 35
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "في ميدان الأجهزة الطبية المزدحم، يميّز Incredible Health نفسه بحل مشكلة واحدة من البداية للنهاية — جهاز تشخيص أو مراقبة لحالة واحدة — بدل إضافة ميزات أفقية.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Incredible Health توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "في ميدان الأجهزة الطبية المزدحم، يميّز Incredible Health نفسه بحل مشكلة واحدة من البداية للنهاية — جهاز تشخيص أو مراقبة لحالة واحدة — بدل إضافة ميزات أفقية.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابدأ بتجربة في موقع عميل واحد مع قياس الاستخدام ثم حوّل إلى منتج. أبقِ التقنية بسيطة: جهاز تشخيص أو مراقبة لحالة واحدة على بنية تحتية مجرّبة. أطلق أسبوعياً واجعل مقاس النجاح — الاحتفاظ أو السلامة أو الاستمرارية — البوصلة.",
+    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن قواعد التصدير والشراء — طبقة الترخيص والامتثال.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Incredible Health توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "Dans le champ saturé de les dispositifs médicaux, Incredible Health se distingue en résolvant un problème de bout en bout — un dispositif de diagnostic ou suivi pour une pathologie — plutôt qu’en empilant des fonctions horizontales.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Incredible Health pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "Dans le champ saturé de les dispositifs médicaux, Incredible Health se distingue en résolvant un problème de bout en bout — un dispositif de diagnostic ou suivi pour une pathologie — plutôt qu’en empilant des fonctions horizontales.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Commencez par un pilote chez un client, mesurez l’usage, puis industrialisez. Gardez une stack simple : un dispositif de diagnostic ou suivi pour une pathologie sur une infrastructure éprouvée. Livrez chaque semaine et tenez une seule métrique — rétention, sécurité ou disponibilité — comme étoile polaire.",
+    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi règles d’exportation et d’achat — la couche licence et conformité.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Incredible Health pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "Unite Us",
+  "country": "United States",
+  "sub_domain": "Healthcare",
+  "short_description": "Unite Us is a United States company working in medical devices — a space where Philips and GE HealthCare set the reference bar, so newcomers must own a narrower niche.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Unite_Us",
+  "source_url": "https://en.wikipedia.org/wiki/Unite_Us",
+  "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build medical devices products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "priority": "A",
+  "concept": "Unite Us is a United States company working in medical devices — a space where Philips and GE HealthCare set the reference bar, so newcomers must own a narrower niche.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a connected care companion, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate industry licensing and certification — the licensing and compliance layer.",
+  "algeria_value": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build medical devices products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "difficulty_score": 78,
+  "difficulty_breakdown": {
+   "technical": 27,
+   "capital": 20,
+   "regulatory": 28,
+   "market": 25
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "Unite Us شركة من United States تعمل في الأجهزة الطبية — مجال يضع فيه Philips و GE HealthCare المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الأجهزة الطبية يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
+    "concept": "Unite Us شركة من United States تعمل في الأجهزة الطبية — مجال يضع فيه Philips و GE HealthCare المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول مرافِق رعاية متصل، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن ترخيص الصناعة والاعتماد — طبقة الترخيص والامتثال.",
+    "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الأجهزة الطبية يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
+   },
+   "fr": {
+    "short_description": "Unite Us est une entreprise de United States qui opère dans les dispositifs médicaux, un espace où Philips et GE HealthCare donnent le la : les entrants doivent viser une niche plus étroite.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les dispositifs médicaux peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
+    "concept": "Unite Us est une entreprise de United States qui opère dans les dispositifs médicaux, un espace où Philips et GE HealthCare donnent le la : les entrants doivent viser une niche plus étroite.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de un compagnon de soin connecté, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi licences et certifications métier — la couche licence et conformité.",
+    "algeria_value": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les dispositifs médicaux peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux."
+   }
+  }
+ },
+ {
+  "name": "HeartFlow",
+  "country": "United States",
+  "sub_domain": "Healthcare",
+  "short_description": "The team behind HeartFlow targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a connected care companion makes the product more focused than a generalist play.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/HeartFlow",
+  "source_url": "https://en.wikipedia.org/wiki/HeartFlow",
+  "why_relevant": "The Algerian angle is affordability and context: a connected care companion, simplified for local needs — plus the engineering-diploma pipeline — can turn HeartFlow’s playbook into a domestic or regional win.",
+  "priority": "A",
+  "concept": "The team behind HeartFlow targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a connected care companion makes the product more focused than a generalist play.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a connected care companion, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "Hardware and data collection are the real bottlenecks: field failures are expensive, and without proprietary datasets the product converges to a commodity. Regulation (local safety and conformity standards) raises the floor but also slows iteration.",
+  "algeria_value": "The Algerian angle is affordability and context: a connected care companion, simplified for local needs — plus the engineering-diploma pipeline — can turn HeartFlow’s playbook into a domestic or regional win.",
+  "difficulty_score": 73,
+  "difficulty_breakdown": {
+   "technical": 25,
+   "capital": 19,
+   "regulatory": 26,
+   "market": 30
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "يستهدف فريق HeartFlow المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: مرافِق رعاية متصل يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من مرافِق رعاية متصل مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج HeartFlow إلى نجاح محلي أو إقليمي.",
+    "concept": "يستهدف فريق HeartFlow المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: مرافِق رعاية متصل يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول مرافِق رعاية متصل، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "العتاد وجمع البيانات هما العقدة الحقيقية: إخفاقات الميدان مكلفة، وبدون بيانات خاصة يتقارب المنتج نحو سلعة. التنظيم (معايير السلامة والمطابقة المحلية) يرفع سقف الجودة لكنه يبطئ التكرار.",
+    "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من مرافِق رعاية متصل مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج HeartFlow إلى نجاح محلي أو إقليمي."
+   },
+   "fr": {
+    "short_description": "L’équipe de HeartFlow cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : un compagnon de soin connecté rend le produit plus concentré qu’un acteur généraliste.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un compagnon de soin connecté adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de HeartFlow en victoire domestique ou régionale.",
+    "concept": "L’équipe de HeartFlow cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : un compagnon de soin connecté rend le produit plus concentré qu’un acteur généraliste.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de un compagnon de soin connecté, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Le matériel et la collecte de données sont les vrais goulots : les échecs terrain coûtent cher, et sans données propriétaires le produit devient un commodity. La régulation (normes locales de sécurité et de conformité) relève le plancher mais ralentit l’itération.",
+    "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un compagnon de soin connecté adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de HeartFlow en victoire domestique ou régionale."
+   }
+  }
+ },
+ {
+  "name": "Molbio Diagnostics",
+  "country": "India",
+  "sub_domain": "Medical device",
+  "short_description": "Created to attack a specific pain point in medical devices, Molbio Diagnostics bets on a connected care companion as the wedge hospitals, clinics and home-care patients will actually buy.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Molbio_Diagnostics",
+  "source_url": "https://en.wikipedia.org/wiki/Molbio_Diagnostics",
+  "why_relevant": "The Algerian angle is affordability and context: a connected care companion, simplified for local needs — plus the engineering-diploma pipeline — can turn Molbio Diagnostics’s playbook into a domestic or regional win.",
+  "priority": "A",
+  "concept": "Created to attack a specific pain point in medical devices, Molbio Diagnostics bets on a connected care companion as the wedge hospitals, clinics and home-care patients will actually buy.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a connected care companion, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "Hardware and data collection are the real bottlenecks: field failures are expensive, and without proprietary datasets the product converges to a commodity. Regulation (local safety and conformity standards) raises the floor but also slows iteration.",
+  "algeria_value": "The Algerian angle is affordability and context: a connected care companion, simplified for local needs — plus the engineering-diploma pipeline — can turn Molbio Diagnostics’s playbook into a domestic or regional win.",
+  "difficulty_score": 76,
+  "difficulty_breakdown": {
+   "technical": 26,
+   "capital": 20,
+   "regulatory": 27,
+   "market": 27
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "Molbio Diagnostics أُنشئ لمعالجة نقطة ألم محددة في الأجهزة الطبية، ويعتمد مرافِق رعاية متصل كمدخل سيجعله المستشفيات والعيادات ومرضى الرعاية المنزلية يشترون فعلاً.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من مرافِق رعاية متصل مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Molbio Diagnostics إلى نجاح محلي أو إقليمي.",
+    "concept": "Molbio Diagnostics أُنشئ لمعالجة نقطة ألم محددة في الأجهزة الطبية، ويعتمد مرافِق رعاية متصل كمدخل سيجعله المستشفيات والعيادات ومرضى الرعاية المنزلية يشترون فعلاً.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول مرافِق رعاية متصل، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "العتاد وجمع البيانات هما العقدة الحقيقية: إخفاقات الميدان مكلفة، وبدون بيانات خاصة يتقارب المنتج نحو سلعة. التنظيم (معايير السلامة والمطابقة المحلية) يرفع سقف الجودة لكنه يبطئ التكرار.",
+    "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من مرافِق رعاية متصل مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Molbio Diagnostics إلى نجاح محلي أو إقليمي."
+   },
+   "fr": {
+    "short_description": "Créée pour un point de douleur précis dans les dispositifs médicaux, Molbio Diagnostics mise sur un compagnon de soin connecté comme la porte d’entrée que hôpitaux, cliniques et patients à domicile achètera réellement.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un compagnon de soin connecté adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Molbio Diagnostics en victoire domestique ou régionale.",
+    "concept": "Créée pour un point de douleur précis dans les dispositifs médicaux, Molbio Diagnostics mise sur un compagnon de soin connecté comme la porte d’entrée que hôpitaux, cliniques et patients à domicile achètera réellement.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de un compagnon de soin connecté, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Le matériel et la collecte de données sont les vrais goulots : les échecs terrain coûtent cher, et sans données propriétaires le produit devient un commodity. La régulation (normes locales de sécurité et de conformité) relève le plancher mais ralentit l’itération.",
+    "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un compagnon de soin connecté adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Molbio Diagnostics en victoire domestique ou régionale."
+   }
+  }
+ },
+ {
+  "name": "Innovaccer",
+  "country": "India",
+  "sub_domain": "Health care",
+  "short_description": "The team behind Innovaccer targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a software-as-medical-device application makes the product more focused than a generalist play.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Innovaccer",
+  "source_url": "https://en.wikipedia.org/wiki/Innovaccer",
+  "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build medical devices products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "priority": "A",
+  "concept": "The team behind Innovaccer targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a software-as-medical-device application makes the product more focused than a generalist play.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "The realistic path starts with long sales cycles: secure a reference customer at a fair price, then sell the outcome, not the tool. a software-as-medical-device application gives the team a defensible demo.",
+  "product_issues": "Innovaccer competes against incumbents with deep integration and pricing power. The realistic risks are channel lock-in, long procurement cycles and a price war in the commodity tier.",
+  "algeria_value": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build medical devices products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "difficulty_score": 77,
+  "difficulty_breakdown": {
+   "technical": 26,
+   "capital": 20,
+   "regulatory": 28,
+   "market": 26
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "يستهدف فريق Innovaccer المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: تطبيق برمجيات كجهاز طبي يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الأجهزة الطبية يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
+    "concept": "يستهدف فريق Innovaccer المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: تطبيق برمجيات كجهاز طبي يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "المسار الواقعي يبدأ بدورات مبيعات طويلة: احصل على عميل مرجعي بسعر عادل ثم بع النتيجة لا الأداة. تطبيق برمجيات كجهاز طبي يمنح الفريق عرضاً ملموساً.",
+    "product_issues": "يتنافس Innovaccer ضد لاعبين راسخين يملكون تكاملاً عميقاً وقوة تسعيرية. المخاطر الواقعية: احتكار القنوات، دورات شراء طويلة، وحرب أسعار في الطبقة القياسية.",
+    "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الأجهزة الطبية يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
+   },
+   "fr": {
+    "short_description": "L’équipe de Innovaccer cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : une application software-as-medical-device rend le produit plus concentré qu’un acteur généraliste.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les dispositifs médicaux peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
+    "concept": "L’équipe de Innovaccer cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : une application software-as-medical-device rend le produit plus concentré qu’un acteur généraliste.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Le chemin réaliste commence par de longs cycles de vente : décrochez un client de référence à un prix juste, puis vendez le résultat, pas l’outil. une application software-as-medical-device donne à l’équipe une démo défendable.",
+    "product_issues": "Innovaccer affronte des acteurs établis dotés d’intégration profonde et de pouvoir de prix. Risques réels : verrouillage des canaux, cycles d’achat longs, guerre des prix sur le segment générique.",
+    "algeria_value": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les dispositifs médicaux peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux."
+   }
+  }
+ },
+ {
+  "name": "Dental Monitoring",
+  "country": "France",
+  "sub_domain": "Healthcare",
+  "short_description": "Dental Monitoring operates in medical devices and competes on focus. Its bet is that a connected care companion, built for hospitals, clinics and home-care patients, beats a broad horizontal platform.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Dental_Monitoring",
+  "source_url": "https://en.wikipedia.org/wiki/Dental_Monitoring",
+  "why_relevant": "The Algerian angle is affordability and context: a connected care companion, simplified for local needs — plus the engineering-diploma pipeline — can turn Dental Monitoring’s playbook into a domestic or regional win.",
+  "priority": "A",
+  "concept": "Dental Monitoring operates in medical devices and competes on focus. Its bet is that a connected care companion, built for hospitals, clinics and home-care patients, beats a broad horizontal platform.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a connected care companion, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "Dental Monitoring competes against incumbents with deep integration and pricing power. The realistic risks are channel lock-in, long procurement cycles and a price war in the commodity tier.",
+  "algeria_value": "The Algerian angle is affordability and context: a connected care companion, simplified for local needs — plus the engineering-diploma pipeline — can turn Dental Monitoring’s playbook into a domestic or regional win.",
+  "difficulty_score": 86,
+  "difficulty_breakdown": {
+   "technical": 29,
+   "capital": 22,
+   "regulatory": 31,
+   "market": 18
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "Dental Monitoring ينشط في الأجهزة الطبية ويتنافس بالتركيز. رهانه أن مرافِق رعاية متصل المبنية لـ المستشفيات والعيادات ومرضى الرعاية المنزلية تتفوق على المنصات الأفقية الواسعة.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من مرافِق رعاية متصل مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Dental Monitoring إلى نجاح محلي أو إقليمي.",
+    "concept": "Dental Monitoring ينشط في الأجهزة الطبية ويتنافس بالتركيز. رهانه أن مرافِق رعاية متصل المبنية لـ المستشفيات والعيادات ومرضى الرعاية المنزلية تتفوق على المنصات الأفقية الواسعة.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول مرافِق رعاية متصل، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "يتنافس Dental Monitoring ضد لاعبين راسخين يملكون تكاملاً عميقاً وقوة تسعيرية. المخاطر الواقعية: احتكار القنوات، دورات شراء طويلة، وحرب أسعار في الطبقة القياسية.",
+    "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من مرافِق رعاية متصل مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Dental Monitoring إلى نجاح محلي أو إقليمي."
+   },
+   "fr": {
+    "short_description": "Dental Monitoring évolue dans les dispositifs médicaux et joue la carte de la concentration. Son pari : un compagnon de soin connecté, conçu pour hôpitaux, cliniques et patients à domicile, bat une plateforme horizontale trop large.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un compagnon de soin connecté adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Dental Monitoring en victoire domestique ou régionale.",
+    "concept": "Dental Monitoring évolue dans les dispositifs médicaux et joue la carte de la concentration. Son pari : un compagnon de soin connecté, conçu pour hôpitaux, cliniques et patients à domicile, bat une plateforme horizontale trop large.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de un compagnon de soin connecté, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Dental Monitoring affronte des acteurs établis dotés d’intégration profonde et de pouvoir de prix. Risques réels : verrouillage des canaux, cycles d’achat longs, guerre des prix sur le segment générique.",
+    "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un compagnon de soin connecté adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Dental Monitoring en victoire domestique ou régionale."
+   }
+  }
+ },
+ {
+  "name": "Virta Health",
+  "country": "United States",
+  "sub_domain": "Healthcare",
+  "short_description": "In the crowded field of medical devices, Virta Health differentiates by solving one problem end-to-end — a connected care companion — instead of stacking horizontal features.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Virta_Health",
+  "source_url": "https://en.wikipedia.org/wiki/Virta_Health",
+  "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build medical devices products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "priority": "A",
+  "concept": "In the crowded field of medical devices, Virta Health differentiates by solving one problem end-to-end — a connected care companion — instead of stacking horizontal features.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a connected care companion, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "Hardware and data collection are the real bottlenecks: field failures are expensive, and without proprietary datasets the product converges to a commodity. Regulation (local safety and conformity standards) raises the floor but also slows iteration.",
+  "algeria_value": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build medical devices products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "difficulty_score": 68,
+  "difficulty_breakdown": {
+   "technical": 23,
+   "capital": 18,
+   "regulatory": 24,
+   "market": 35
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "في ميدان الأجهزة الطبية المزدحم، يميّز Virta Health نفسه بحل مشكلة واحدة من البداية للنهاية — مرافِق رعاية متصل — بدل إضافة ميزات أفقية.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الأجهزة الطبية يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
+    "concept": "في ميدان الأجهزة الطبية المزدحم، يميّز Virta Health نفسه بحل مشكلة واحدة من البداية للنهاية — مرافِق رعاية متصل — بدل إضافة ميزات أفقية.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول مرافِق رعاية متصل، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "العتاد وجمع البيانات هما العقدة الحقيقية: إخفاقات الميدان مكلفة، وبدون بيانات خاصة يتقارب المنتج نحو سلعة. التنظيم (معايير السلامة والمطابقة المحلية) يرفع سقف الجودة لكنه يبطئ التكرار.",
+    "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الأجهزة الطبية يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
+   },
+   "fr": {
+    "short_description": "Dans le champ saturé de les dispositifs médicaux, Virta Health se distingue en résolvant un problème de bout en bout — un compagnon de soin connecté — plutôt qu’en empilant des fonctions horizontales.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les dispositifs médicaux peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
+    "concept": "Dans le champ saturé de les dispositifs médicaux, Virta Health se distingue en résolvant un problème de bout en bout — un compagnon de soin connecté — plutôt qu’en empilant des fonctions horizontales.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de un compagnon de soin connecté, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Le matériel et la collecte de données sont les vrais goulots : les échecs terrain coûtent cher, et sans données propriétaires le produit devient un commodity. La régulation (normes locales de sécurité et de conformité) relève le plancher mais ralentit l’itération.",
+    "algeria_value": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les dispositifs médicaux peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux."
+   }
+  }
+ },
+ {
+  "name": "Cadence Solutions, Inc.",
+  "country": "United States",
+  "sub_domain": "Healthcare",
+  "short_description": "In the crowded field of medical devices, Cadence Solutions, Inc. differentiates by solving one problem end-to-end — a diagnostic or monitoring device for one condition — instead of stacking horizontal features.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Cadence_Solutions%2C_Inc.",
+  "source_url": "https://en.wikipedia.org/wiki/Cadence_Solutions%2C_Inc.",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Cadence Solutions, Inc. could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "In the crowded field of medical devices, Cadence Solutions, Inc. differentiates by solving one problem end-to-end — a diagnostic or monitoring device for one condition — instead of stacking horizontal features.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Start with a pilot for one customer, instrument usage, then productize. Keep the stack boring: a diagnostic or monitoring device for one condition, running on proven infrastructure. Ship weekly and hold one metric — retention, safety or uptime — as the north star.",
+  "product_issues": "Hardware and data collection are the real bottlenecks: field failures are expensive, and without proprietary datasets the product converges to a commodity. Regulation (export and procurement rules) raises the floor but also slows iteration.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Cadence Solutions, Inc. could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 87,
+  "difficulty_breakdown": {
+   "technical": 30,
+   "capital": 23,
+   "regulatory": 31,
+   "market": 16
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "في ميدان الأجهزة الطبية المزدحم، يميّز Cadence Solutions, Inc. نفسه بحل مشكلة واحدة من البداية للنهاية — جهاز تشخيص أو مراقبة لحالة واحدة — بدل إضافة ميزات أفقية.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Cadence Solutions, Inc. توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "في ميدان الأجهزة الطبية المزدحم، يميّز Cadence Solutions, Inc. نفسه بحل مشكلة واحدة من البداية للنهاية — جهاز تشخيص أو مراقبة لحالة واحدة — بدل إضافة ميزات أفقية.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابدأ بتجربة في موقع عميل واحد مع قياس الاستخدام ثم حوّل إلى منتج. أبقِ التقنية بسيطة: جهاز تشخيص أو مراقبة لحالة واحدة على بنية تحتية مجرّبة. أطلق أسبوعياً واجعل مقاس النجاح — الاحتفاظ أو السلامة أو الاستمرارية — البوصلة.",
+    "product_issues": "العتاد وجمع البيانات هما العقدة الحقيقية: إخفاقات الميدان مكلفة، وبدون بيانات خاصة يتقارب المنتج نحو سلعة. التنظيم (قواعد التصدير والشراء) يرفع سقف الجودة لكنه يبطئ التكرار.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Cadence Solutions, Inc. توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "Dans le champ saturé de les dispositifs médicaux, Cadence Solutions, Inc. se distingue en résolvant un problème de bout en bout — un dispositif de diagnostic ou suivi pour une pathologie — plutôt qu’en empilant des fonctions horizontales.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Cadence Solutions, Inc. pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "Dans le champ saturé de les dispositifs médicaux, Cadence Solutions, Inc. se distingue en résolvant un problème de bout en bout — un dispositif de diagnostic ou suivi pour une pathologie — plutôt qu’en empilant des fonctions horizontales.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Commencez par un pilote chez un client, mesurez l’usage, puis industrialisez. Gardez une stack simple : un dispositif de diagnostic ou suivi pour une pathologie sur une infrastructure éprouvée. Livrez chaque semaine et tenez une seule métrique — rétention, sécurité ou disponibilité — comme étoile polaire.",
+    "product_issues": "Le matériel et la collecte de données sont les vrais goulots : les échecs terrain coûtent cher, et sans données propriétaires le produit devient un commodity. La régulation (règles d’exportation et d’achat) relève le plancher mais ralentit l’itération.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Cadence Solutions, Inc. pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "LetsGetChecked",
+  "country": "Ireland",
+  "sub_domain": "Healthcare",
+  "short_description": "The team behind LetsGetChecked targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a connected care companion makes the product more focused than a generalist play.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/LetsGetChecked",
+  "source_url": "https://en.wikipedia.org/wiki/LetsGetChecked",
+  "why_relevant": "The Algerian angle is affordability and context: a connected care companion, simplified for local needs — plus the engineering-diploma pipeline — can turn LetsGetChecked’s playbook into a domestic or regional win.",
+  "priority": "A",
+  "concept": "The team behind LetsGetChecked targets hospitals, clinics and home-care patients in medical devices with a sharp wedge: a connected care companion makes the product more focused than a generalist play.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a connected care companion, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "Hardware and data collection are the real bottlenecks: field failures are expensive, and without proprietary datasets the product converges to a commodity. Regulation (export and procurement rules) raises the floor but also slows iteration.",
+  "algeria_value": "The Algerian angle is affordability and context: a connected care companion, simplified for local needs — plus the engineering-diploma pipeline — can turn LetsGetChecked’s playbook into a domestic or regional win.",
+  "difficulty_score": 79,
+  "difficulty_breakdown": {
+   "technical": 27,
+   "capital": 21,
+   "regulatory": 28,
+   "market": 24
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "يستهدف فريق LetsGetChecked المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: مرافِق رعاية متصل يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من مرافِق رعاية متصل مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج LetsGetChecked إلى نجاح محلي أو إقليمي.",
+    "concept": "يستهدف فريق LetsGetChecked المستشفيات والعيادات ومرضى الرعاية المنزلية في الأجهزة الطبية بمدخل حادّ: مرافِق رعاية متصل يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول مرافِق رعاية متصل، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "العتاد وجمع البيانات هما العقدة الحقيقية: إخفاقات الميدان مكلفة، وبدون بيانات خاصة يتقارب المنتج نحو سلعة. التنظيم (قواعد التصدير والشراء) يرفع سقف الجودة لكنه يبطئ التكرار.",
+    "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من مرافِق رعاية متصل مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج LetsGetChecked إلى نجاح محلي أو إقليمي."
+   },
+   "fr": {
+    "short_description": "L’équipe de LetsGetChecked cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : un compagnon de soin connecté rend le produit plus concentré qu’un acteur généraliste.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un compagnon de soin connecté adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de LetsGetChecked en victoire domestique ou régionale.",
+    "concept": "L’équipe de LetsGetChecked cible hôpitaux, cliniques et patients à domicile dans les dispositifs médicaux avec une entrée tranchée : un compagnon de soin connecté rend le produit plus concentré qu’un acteur généraliste.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de un compagnon de soin connecté, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Le matériel et la collecte de données sont les vrais goulots : les échecs terrain coûtent cher, et sans données propriétaires le produit devient un commodity. La régulation (règles d’exportation et d’achat) relève le plancher mais ralentit l’itération.",
+    "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un compagnon de soin connecté adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de LetsGetChecked en victoire domestique ou régionale."
+   }
+  }
+ },
+ {
+  "name": "HMD Global",
+  "country": "Finland",
+  "sub_domain": "Mobile Devices",
+  "short_description": "Created to attack a specific pain point in medical devices, HMD Global bets on a diagnostic or monitoring device for one condition as the wedge hospitals, clinics and home-care patients will actually buy.",
+  "technology": "sensor hardware, signal processing and regulatory-grade software",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/HMD_Global",
+  "source_url": "https://en.wikipedia.org/wiki/HMD_Global",
+  "why_relevant": "The Algerian angle is affordability and context: a diagnostic or monitoring device for one condition, simplified for local needs — plus the engineering-diploma pipeline — can turn HMD Global’s playbook into a domestic or regional win.",
+  "priority": "A",
+  "concept": "Created to attack a specific pain point in medical devices, HMD Global bets on a diagnostic or monitoring device for one condition as the wedge hospitals, clinics and home-care patients will actually buy.",
+  "main_sellers": [
+   "Medtronic and Abbott",
+   "Siemens Healthineers",
+   "Philips and GE HealthCare"
+  ],
+  "team_rec": [
+   [
+    "Embedded/hardware engineer",
+    2
+   ],
+   [
+    "Signal-processing engineer",
+    1
+   ],
+   [
+    "Regulatory/QA lead",
+    1
+   ],
+   [
+    "Clinical advisor",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Start with a pilot for one customer, instrument usage, then productize. Keep the stack boring: a diagnostic or monitoring device for one condition, running on proven infrastructure. Ship weekly and hold one metric — retention, safety or uptime — as the north star.",
+  "product_issues": "HMD Global competes against incumbents with deep integration and pricing power. The realistic risks are channel lock-in, long procurement cycles and a price war in the commodity tier.",
+  "algeria_value": "The Algerian angle is affordability and context: a diagnostic or monitoring device for one condition, simplified for local needs — plus the engineering-diploma pipeline — can turn HMD Global’s playbook into a domestic or regional win.",
+  "difficulty_score": 76,
+  "difficulty_breakdown": {
+   "technical": 26,
+   "capital": 20,
+   "regulatory": 27,
+   "market": 27
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "HMD Global أُنشئ لمعالجة نقطة ألم محددة في الأجهزة الطبية، ويعتمد جهاز تشخيص أو مراقبة لحالة واحدة كمدخل سيجعله المستشفيات والعيادات ومرضى الرعاية المنزلية يشترون فعلاً.",
+    "technology": "أجهزة استشعار ومعالجة الإشارات وبرمجيات معتمدة تنظيمياً",
+    "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من جهاز تشخيص أو مراقبة لحالة واحدة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج HMD Global إلى نجاح محلي أو إقليمي.",
+    "concept": "HMD Global أُنشئ لمعالجة نقطة ألم محددة في الأجهزة الطبية، ويعتمد جهاز تشخيص أو مراقبة لحالة واحدة كمدخل سيجعله المستشفيات والعيادات ومرضى الرعاية المنزلية يشترون فعلاً.",
+    "main_sellers": [
+     "Medtronic و Abbott",
+     "Siemens Healthineers",
+     "Philips و GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "مهندس أنظمة مدمجة/عتاد",
+      2
+     ],
+     [
+      "مهندس معالجة إشارات",
+      1
+     ],
+     [
+      "مسؤول تنظيمي/جودة",
+      1
+     ],
+     [
+      "مستشار سريري",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابدأ بتجربة في موقع عميل واحد مع قياس الاستخدام ثم حوّل إلى منتج. أبقِ التقنية بسيطة: جهاز تشخيص أو مراقبة لحالة واحدة على بنية تحتية مجرّبة. أطلق أسبوعياً واجعل مقاس النجاح — الاحتفاظ أو السلامة أو الاستمرارية — البوصلة.",
+    "product_issues": "يتنافس HMD Global ضد لاعبين راسخين يملكون تكاملاً عميقاً وقوة تسعيرية. المخاطر الواقعية: احتكار القنوات، دورات شراء طويلة، وحرب أسعار في الطبقة القياسية.",
+    "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من جهاز تشخيص أو مراقبة لحالة واحدة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج HMD Global إلى نجاح محلي أو إقليمي."
+   },
+   "fr": {
+    "short_description": "Créée pour un point de douleur précis dans les dispositifs médicaux, HMD Global mise sur un dispositif de diagnostic ou suivi pour une pathologie comme la porte d’entrée que hôpitaux, cliniques et patients à domicile achètera réellement.",
+    "technology": "capteurs, traitement du signal et logiciel réglementaire",
+    "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un dispositif de diagnostic ou suivi pour une pathologie adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de HMD Global en victoire domestique ou régionale.",
+    "concept": "Créée pour un point de douleur précis dans les dispositifs médicaux, HMD Global mise sur un dispositif de diagnostic ou suivi pour une pathologie comme la porte d’entrée que hôpitaux, cliniques et patients à domicile achètera réellement.",
+    "main_sellers": [
+     "Medtronic et Abbott",
+     "Siemens Healthineers",
+     "Philips et GE HealthCare"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur embarqué/hardware",
+      2
+     ],
+     [
+      "Ingénieur traitement du signal",
+      1
+     ],
+     [
+      "Responsable réglementaire/QA",
+      1
+     ],
+     [
+      "Conseiller clinique",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Commencez par un pilote chez un client, mesurez l’usage, puis industrialisez. Gardez une stack simple : un dispositif de diagnostic ou suivi pour une pathologie sur une infrastructure éprouvée. Livrez chaque semaine et tenez une seule métrique — rétention, sécurité ou disponibilité — comme étoile polaire.",
+    "product_issues": "HMD Global affronte des acteurs établis dotés d’intégration profonde et de pouvoir de prix. Risques réels : verrouillage des canaux, cycles d’achat longs, guerre des prix sur le segment générique.",
+    "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un dispositif de diagnostic ou suivi pour une pathologie adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de HMD Global en victoire domestique ou régionale."
+   }
+  }
+ }
+]

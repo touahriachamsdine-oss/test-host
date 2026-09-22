@@ -181,19 +181,34 @@ const PUBLIC_KEYS = [
   'StartupCard.verifiedBadge',
   'StartupCard.viewDetails',
   'StartupCard.yearLabel',
+  'StartupDetail.algeriaValueLabel',
   'StartupDetail.backToBrowse',
   'StartupDetail.breadcrumbDomain',
   'StartupDetail.breadcrumbHome',
   'StartupDetail.breadcrumbSeparator',
+  'StartupDetail.buildApproachLabel',
   'StartupDetail.countryLabel',
+  'StartupDetail.difficultyCapital',
+  'StartupDetail.difficultyHigh',
+  'StartupDetail.difficultyLabel',
+  'StartupDetail.difficultyLow',
+  'StartupDetail.difficultyMarket',
+  'StartupDetail.difficultyMedium',
+  'StartupDetail.difficultyRegulatory',
+  'StartupDetail.difficultyTech',
   'StartupDetail.domainLabel',
+  'StartupDetail.fixLabel',
+  'StartupDetail.generatedNoteLabel',
   'StartupDetail.historyLabel',
   'StartupDetail.locationLabel',
   'StartupDetail.officialSiteLabel',
   'StartupDetail.priorityLabel',
+  'StartupDetail.sellersLabel',
   'StartupDetail.sourceLabel',
   'StartupDetail.subDomainLabel',
   'StartupDetail.teamLabel',
+  'StartupDetail.teamRecLabel',
+  'StartupDetail.teamTotalLabel',
   'StartupDetail.technologyLabel',
   'StartupDetail.verifiedBadge',
   'StartupDetail.viewMapLabel',
@@ -257,7 +272,7 @@ describe('Admin console i18n', () => {
     const publicKeys = frKeys.filter((key) => !key.startsWith('Admin.')).sort();
     const adminKeys = frKeys.filter((key) => key.startsWith('Admin.'));
     expect(publicKeys).toEqual(PUBLIC_KEYS);
-    expect(publicKeys).toHaveLength(180);
+    expect(publicKeys).toHaveLength(195);
     expect(adminKeys).toHaveLength(215);
 
     const enAdmin = (flatten(en as unknown as Record<string, unknown>)).filter((key) => key.startsWith('Admin.'));

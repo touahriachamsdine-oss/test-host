@@ -10,6 +10,20 @@ export interface StartupTranslationRow {
   why_relevant: string;
   history: string | null;
   hq_city: string | null;
+  concept?: string | null;
+  main_sellers?: unknown;
+  team_rec?: unknown;
+  build_approach?: string | null;
+  product_issues?: string | null;
+  algeria_value?: string | null;
+}
+
+function mapTeamRec(value: unknown): Array<{ role: string; count: number }> | null {
+  if (!Array.isArray(value)) return null;
+  return value.map((r) => {
+    const pair = Array.isArray(r) ? (r as unknown[]) : [r];
+    return { role: String(pair[0] ?? ''), count: Number(pair[1]) || 1 };
+  });
 }
 
 export function applyStartupTranslation(
@@ -26,6 +40,14 @@ export function applyStartupTranslation(
     technology: tr.technology,
     whyRelevant: tr.why_relevant,
     history: tr.history ?? startup.history,
-    hqCity: tr.hq_city ?? startup.hqCity
+    hqCity: tr.hq_city ?? startup.hqCity,
+    concept: tr.concept ?? startup.concept,
+    mainSellers: Array.isArray(tr.main_sellers)
+      ? tr.main_sellers.map(String)
+      : startup.mainSellers,
+    teamRec: mapTeamRec(tr.team_rec) ?? startup.teamRec,
+    buildApproach: tr.build_approach ?? startup.buildApproach,
+    productIssues: tr.product_issues ?? startup.productIssues,
+    algeriaValue: tr.algeria_value ?? startup.algeriaValue
   };
 }

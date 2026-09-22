@@ -1,0 +1,606 @@
+[
+ {
+  "name": "Achronix",
+  "industry": ""
+ },
+ {
+  "name": "ACM Research",
+  "industry": ""
+ },
+ {
+  "name": "Advanced Linear Devices",
+  "industry": ""
+ },
+ {
+  "name": "Air Liquide",
+  "industry": ""
+ },
+ {
+  "name": "Alereon",
+  "industry": ""
+ },
+ {
+  "name": "Ambarella Inc.",
+  "industry": ""
+ },
+ {
+  "name": "Ambiq Micro",
+  "industry": ""
+ },
+ {
+  "name": "AMD",
+  "industry": ""
+ },
+ {
+  "name": "Amkor Technology",
+  "industry": ""
+ },
+ {
+  "name": "Amlogic",
+  "industry": ""
+ },
+ {
+  "name": "Ampere Computing",
+  "industry": ""
+ },
+ {
+  "name": "Ansys",
+  "industry": ""
+ },
+ {
+  "name": "Analog Devices",
+  "industry": ""
+ },
+ {
+  "name": "Applied Materials",
+  "industry": ""
+ },
+ {
+  "name": "Aptina",
+  "industry": ""
+ },
+ {
+  "name": "Arm Holdings",
+  "industry": ""
+ },
+ {
+  "name": "Arteris",
+  "industry": ""
+ },
+ {
+  "name": "ASML",
+  "industry": ""
+ },
+ {
+  "name": "Atomera",
+  "industry": ""
+ },
+ {
+  "name": "BAE Systems",
+  "industry": ""
+ },
+ {
+  "name": "Bosch",
+  "industry": ""
+ },
+ {
+  "name": "Broadcom",
+  "industry": ""
+ },
+ {
+  "name": "Cadence Design Systems",
+  "industry": ""
+ },
+ {
+  "name": "Canesta",
+  "industry": ""
+ },
+ {
+  "name": "Cascade Microtech",
+  "industry": ""
+ },
+ {
+  "name": "Cerebras",
+  "industry": ""
+ },
+ {
+  "name": "Chelsio Communications",
+  "industry": ""
+ },
+ {
+  "name": "Cirrus Logic",
+  "industry": ""
+ },
+ {
+  "name": "Coherent Corp.",
+  "industry": ""
+ },
+ {
+  "name": "Corning Inc.",
+  "industry": ""
+ },
+ {
+  "name": "Cortina Systems",
+  "industry": ""
+ },
+ {
+  "name": "Crossbar",
+  "industry": ""
+ },
+ {
+  "name": "Diodes Incorporated",
+  "industry": ""
+ },
+ {
+  "name": "DisplayLink",
+  "industry": ""
+ },
+ {
+  "name": "Edwards Vacuum",
+  "industry": ""
+ },
+ {
+  "name": "Efficient Power Conversion",
+  "industry": ""
+ },
+ {
+  "name": "Entegris",
+  "industry": ""
+ },
+ {
+  "name": "Entropic Communications",
+  "industry": ""
+ },
+ {
+  "name": "ESilicon",
+  "industry": ""
+ },
+ {
+  "name": "Everspin Technologies",
+  "industry": ""
+ },
+ {
+  "name": "FormFactor",
+  "industry": ""
+ },
+ {
+  "name": "FSI International",
+  "industry": ""
+ },
+ {
+  "name": "GainSpan",
+  "industry": ""
+ },
+ {
+  "name": "GlobalFoundries",
+  "industry": ""
+ },
+ {
+  "name": "GlobalWafers",
+  "industry": ""
+ },
+ {
+  "name": "Grandis",
+  "industry": ""
+ },
+ {
+  "name": "Greenliant Systems",
+  "industry": ""
+ },
+ {
+  "name": "Groq",
+  "industry": ""
+ },
+ {
+  "name": "Helix Semiconductors",
+  "industry": ""
+ },
+ {
+  "name": "Hemlock Semiconductor",
+  "industry": ""
+ },
+ {
+  "name": "Honeywell Aerospace",
+  "industry": ""
+ },
+ {
+  "name": "IBM",
+  "industry": ""
+ },
+ {
+  "name": "IMEC",
+  "industry": ""
+ },
+ {
+  "name": "Infineon Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Inphi Corporation",
+  "industry": ""
+ },
+ {
+  "name": "Integra Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Intel",
+  "industry": ""
+ },
+ {
+  "name": "Intersil",
+  "industry": ""
+ },
+ {
+  "name": "InvenSense",
+  "industry": ""
+ },
+ {
+  "name": "IQE",
+  "industry": ""
+ },
+ {
+  "name": "Jazz Semiconductor",
+  "industry": ""
+ },
+ {
+  "name": "Keysight Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Kioxia",
+  "industry": ""
+ },
+ {
+  "name": "KLA",
+  "industry": ""
+ },
+ {
+  "name": "Lam Research",
+  "industry": ""
+ },
+ {
+  "name": "Lattice Semiconductor",
+  "industry": ""
+ },
+ {
+  "name": "LCY Chemical",
+  "industry": ""
+ },
+ {
+  "name": "Linde plc",
+  "industry": ""
+ },
+ {
+  "name": "Linear Integrated Systems",
+  "industry": ""
+ },
+ {
+  "name": "Littelfuse",
+  "industry": ""
+ },
+ {
+  "name": "Luminar Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Luxtera",
+  "industry": ""
+ },
+ {
+  "name": "MACOM Technology Solutions",
+  "industry": ""
+ },
+ {
+  "name": "Mattson Technology",
+  "industry": ""
+ },
+ {
+  "name": "Marvell Technology",
+  "industry": ""
+ },
+ {
+  "name": "MaxLinear",
+  "industry": ""
+ },
+ {
+  "name": "MCube",
+  "industry": ""
+ },
+ {
+  "name": "MediaTek",
+  "industry": ""
+ },
+ {
+  "name": "Mersen",
+  "industry": ""
+ },
+ {
+  "name": "Microchip Technology",
+  "industry": ""
+ },
+ {
+  "name": "Micron Technology",
+  "industry": ""
+ },
+ {
+  "name": "MIPS Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Mitsubishi Electric United States",
+  "industry": ""
+ },
+ {
+  "name": "Mitsubishi Gas Chemical Company",
+  "industry": ""
+ },
+ {
+  "name": "MoSys",
+  "industry": ""
+ },
+ {
+  "name": "Multibeam Corporation",
+  "industry": ""
+ },
+ {
+  "name": "NeoMagic",
+  "industry": ""
+ },
+ {
+  "name": "Nikon",
+  "industry": ""
+ },
+ {
+  "name": "Nvidia",
+  "industry": ""
+ },
+ {
+  "name": "NXP Semiconductors",
+  "industry": ""
+ },
+ {
+  "name": "Onsemi",
+  "industry": ""
+ },
+ {
+  "name": "Onto Innovation",
+  "industry": ""
+ },
+ {
+  "name": "Open-Silicon",
+  "industry": ""
+ },
+ {
+  "name": "OPTi",
+  "industry": ""
+ },
+ {
+  "name": "Orbit Semiconductor",
+  "industry": ""
+ },
+ {
+  "name": "PA Semiconductor",
+  "industry": ""
+ },
+ {
+  "name": "Packet Digital",
+  "industry": ""
+ },
+ {
+  "name": "Peregrine Semiconductor",
+  "industry": ""
+ },
+ {
+  "name": "Photronics",
+  "industry": ""
+ },
+ {
+  "name": "Pixelworks",
+  "industry": ""
+ },
+ {
+  "name": "Pulse~Link",
+  "industry": ""
+ },
+ {
+  "name": "Qorvo",
+  "industry": ""
+ },
+ {
+  "name": "Qualcomm",
+  "industry": ""
+ },
+ {
+  "name": "Rabbit Semiconductor",
+  "industry": ""
+ },
+ {
+  "name": "Rambus",
+  "industry": ""
+ },
+ {
+  "name": "Reading Works",
+  "industry": ""
+ },
+ {
+  "name": "Renesas Electronics",
+  "industry": ""
+ },
+ {
+  "name": "RF Micropower",
+  "industry": ""
+ },
+ {
+  "name": "Rochester Electronics",
+  "industry": ""
+ },
+ {
+  "name": "S3 Graphics",
+  "industry": ""
+ },
+ {
+  "name": "Samsung Electronics",
+  "industry": ""
+ },
+ {
+  "name": "Sarnoff Corporation",
+  "industry": ""
+ },
+ {
+  "name": "Semtech",
+  "industry": ""
+ },
+ {
+  "name": "ServerWorks",
+  "industry": ""
+ },
+ {
+  "name": "SiBeam",
+  "industry": ""
+ },
+ {
+  "name": "SiFive",
+  "industry": ""
+ },
+ {
+  "name": "Silego Technology",
+  "industry": ""
+ },
+ {
+  "name": "Silicon Labs",
+  "industry": ""
+ },
+ {
+  "name": "Silicon Motion",
+  "industry": ""
+ },
+ {
+  "name": "Silicon Systems",
+  "industry": ""
+ },
+ {
+  "name": "Siltronic",
+  "industry": ""
+ },
+ {
+  "name": "SiTime",
+  "industry": ""
+ },
+ {
+  "name": "SK Hynix",
+  "industry": ""
+ },
+ {
+  "name": "SkyWater Technology",
+  "industry": ""
+ },
+ {
+  "name": "Skyworks Solutions",
+  "industry": ""
+ },
+ {
+  "name": "Socionext",
+  "industry": ""
+ },
+ {
+  "name": "Solidigm",
+  "industry": ""
+ },
+ {
+  "name": "Solvay S.A.",
+  "industry": ""
+ },
+ {
+  "name": "SUMCO",
+  "industry": ""
+ },
+ {
+  "name": "Synopsys",
+  "industry": ""
+ },
+ {
+  "name": "Synaptics",
+  "industry": ""
+ },
+ {
+  "name": "Texas Instruments",
+  "industry": ""
+ },
+ {
+  "name": "Tower Semiconductor",
+  "industry": ""
+ },
+ {
+  "name": "Transphorm",
+  "industry": ""
+ },
+ {
+  "name": "TSMC",
+  "industry": ""
+ },
+ {
+  "name": "Vishay Intertechnology",
+  "industry": ""
+ },
+ {
+  "name": "Western Design Center",
+  "industry": ""
+ },
+ {
+  "name": "Western Digital",
+  "industry": ""
+ },
+ {
+  "name": "Wolfspeed",
+  "industry": ""
+ },
+ {
+  "name": "Xperi",
+  "industry": ""
+ },
+ {
+  "name": "Zero ASIC",
+  "industry": ""
+ },
+ {
+  "name": "Zilog",
+  "industry": ""
+ },
+ {
+  "name": "3M",
+  "industry": ""
+ },
+ {
+  "name": "Outline of semiconductors",
+  "industry": ""
+ },
+ {
+  "name": "Semiconductor Industry Association",
+  "industry": "and Semiconductor Research Corporation"
+ },
+ {
+  "name": "Semiconductor industry in Taiwan",
+  "industry": ""
+ },
+ {
+  "name": "Semiconductor industry in South Korea",
+  "industry": ""
+ },
+ {
+  "name": "Semiconductor industry in Japan",
+  "industry": ""
+ },
+ {
+  "name": "Semiconductor industry in China",
+  "industry": ""
+ },
+ {
+  "name": "Semiconductor industry in the United States",
+  "industry": ""
+ },
+ {
+  "name": "Semiconductor industry in India",
+  "industry": ""
+ }
+]

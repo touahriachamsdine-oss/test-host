@@ -1,0 +1,380 @@
+[
+ {
+  "name": "NotCo",
+  "country": "Chile",
+  "sub_domain": "Food technology",
+  "short_description": "In the crowded field of agritech and food tech, NotCo differentiates by solving one problem end-to-end — a farm-marketplace data layer — instead of stacking horizontal features.",
+  "technology": "precision sensing, irrigation control and supply-chain analytics",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/NotCo",
+  "source_url": "https://en.wikipedia.org/wiki/NotCo",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. NotCo could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "In the crowded field of agritech and food tech, NotCo differentiates by solving one problem end-to-end — a farm-marketplace data layer — instead of stacking horizontal features.",
+  "main_sellers": [
+   "John Deere and CNH",
+   "Syngenta and Bayer",
+   "Cargill and Nestlé"
+  ],
+  "team_rec": [
+   [
+    "Agronomist/data analyst",
+    1
+   ],
+   [
+    "IoT/embedded engineer",
+    2
+   ],
+   [
+    "Full-stack engineer",
+    1
+   ],
+   [
+    "Field/sales lead",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a farm-marketplace data layer, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "Hardware and data collection are the real bottlenecks: field failures are expensive, and without proprietary datasets the product converges to a commodity. Regulation (export and procurement rules) raises the floor but also slows iteration.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. NotCo could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 57,
+  "difficulty_breakdown": {
+   "technical": 19,
+   "capital": 15,
+   "regulatory": 6,
+   "market": 60
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "في ميدان تقنيات الزراعة والغذاء المزدحم، يميّز NotCo نفسه بحل مشكلة واحدة من البداية للنهاية — طبقة بيانات لسوق المزارع — بدل إضافة ميزات أفقية.",
+    "technology": "الاستشعار الدقيق والتحكم في الري وتحليلات سلسلة التوريد",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ NotCo توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "في ميدان تقنيات الزراعة والغذاء المزدحم، يميّز NotCo نفسه بحل مشكلة واحدة من البداية للنهاية — طبقة بيانات لسوق المزارع — بدل إضافة ميزات أفقية.",
+    "main_sellers": [
+     "John Deere و CNH",
+     "Syngenta و Bayer",
+     "Cargill و Nestlé"
+    ],
+    "team_rec": [
+     [
+      "خبير زراعي/محلل بيانات",
+      1
+     ],
+     [
+      "مهندس إنترنت الأشياء/أنظمة مدمجة",
+      2
+     ],
+     [
+      "مهندس تطوير شامل",
+      1
+     ],
+     [
+      "مسؤول ميدان/مبيعات",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول طبقة بيانات لسوق المزارع، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "العتاد وجمع البيانات هما العقدة الحقيقية: إخفاقات الميدان مكلفة، وبدون بيانات خاصة يتقارب المنتج نحو سلعة. التنظيم (قواعد التصدير والشراء) يرفع سقف الجودة لكنه يبطئ التكرار.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ NotCo توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "Dans le champ saturé de l’agritech et la foodtech, NotCo se distingue en résolvant un problème de bout en bout — une couche de données marketplace agricole — plutôt qu’en empilant des fonctions horizontales.",
+    "technology": "capteurs de précision, pilotage de l’irrigation et analytics supply-chain",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. NotCo pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "Dans le champ saturé de l’agritech et la foodtech, NotCo se distingue en résolvant un problème de bout en bout — une couche de données marketplace agricole — plutôt qu’en empilant des fonctions horizontales.",
+    "main_sellers": [
+     "John Deere et CNH",
+     "Syngenta et Bayer",
+     "Cargill et Nestlé"
+    ],
+    "team_rec": [
+     [
+      "Agronome/analyste données",
+      1
+     ],
+     [
+      "Ingénieur IoT/embarqué",
+      2
+     ],
+     [
+      "Ingénieur full-stack",
+      1
+     ],
+     [
+      "Responsable terrain/ventes",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de une couche de données marketplace agricole, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Le matériel et la collecte de données sont les vrais goulots : les échecs terrain coûtent cher, et sans données propriétaires le produit devient un commodity. La régulation (règles d’exportation et d’achat) relève le plancher mais ralentit l’itération.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. NotCo pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "Drools",
+  "country": "India",
+  "sub_domain": "Pet food",
+  "short_description": "The team behind Drools targets farmers, cooperatives and food distributors in agritech and food tech with a sharp wedge: a farm-marketplace data layer makes the product more focused than a generalist play.",
+  "technology": "precision sensing, irrigation control and supply-chain analytics",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Drools",
+  "source_url": "https://en.wikipedia.org/wiki/Drools",
+  "why_relevant": "The Algerian angle is affordability and context: a farm-marketplace data layer, simplified for local needs — plus the engineering-diploma pipeline — can turn Drools’s playbook into a domestic or regional win.",
+  "priority": "A",
+  "concept": "The team behind Drools targets farmers, cooperatives and food distributors in agritech and food tech with a sharp wedge: a farm-marketplace data layer makes the product more focused than a generalist play.",
+  "main_sellers": [
+   "John Deere and CNH",
+   "Syngenta and Bayer",
+   "Cargill and Nestlé"
+  ],
+  "team_rec": [
+   [
+    "Agronomist/data analyst",
+    1
+   ],
+   [
+    "IoT/embedded engineer",
+    2
+   ],
+   [
+    "Full-stack engineer",
+    1
+   ],
+   [
+    "Field/sales lead",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a farm-marketplace data layer, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "Hardware and data collection are the real bottlenecks: field failures are expensive, and without proprietary datasets the product converges to a commodity. Regulation (export and procurement rules) raises the floor but also slows iteration.",
+  "algeria_value": "The Algerian angle is affordability and context: a farm-marketplace data layer, simplified for local needs — plus the engineering-diploma pipeline — can turn Drools’s playbook into a domestic or regional win.",
+  "difficulty_score": 50,
+  "difficulty_breakdown": {
+   "technical": 17,
+   "capital": 13,
+   "regulatory": 5,
+   "market": 65
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "يستهدف فريق Drools الفلاحين والتعاونيات وموزّعي الغذاء في تقنيات الزراعة والغذاء بمدخل حادّ: طبقة بيانات لسوق المزارع يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "technology": "الاستشعار الدقيق والتحكم في الري وتحليلات سلسلة التوريد",
+    "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من طبقة بيانات لسوق المزارع مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Drools إلى نجاح محلي أو إقليمي.",
+    "concept": "يستهدف فريق Drools الفلاحين والتعاونيات وموزّعي الغذاء في تقنيات الزراعة والغذاء بمدخل حادّ: طبقة بيانات لسوق المزارع يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "main_sellers": [
+     "John Deere و CNH",
+     "Syngenta و Bayer",
+     "Cargill و Nestlé"
+    ],
+    "team_rec": [
+     [
+      "خبير زراعي/محلل بيانات",
+      1
+     ],
+     [
+      "مهندس إنترنت الأشياء/أنظمة مدمجة",
+      2
+     ],
+     [
+      "مهندس تطوير شامل",
+      1
+     ],
+     [
+      "مسؤول ميدان/مبيعات",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول طبقة بيانات لسوق المزارع، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "العتاد وجمع البيانات هما العقدة الحقيقية: إخفاقات الميدان مكلفة، وبدون بيانات خاصة يتقارب المنتج نحو سلعة. التنظيم (قواعد التصدير والشراء) يرفع سقف الجودة لكنه يبطئ التكرار.",
+    "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من طبقة بيانات لسوق المزارع مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Drools إلى نجاح محلي أو إقليمي."
+   },
+   "fr": {
+    "short_description": "L’équipe de Drools cible agriculteurs, coopératives et distributeurs alimentaires dans l’agritech et la foodtech avec une entrée tranchée : une couche de données marketplace agricole rend le produit plus concentré qu’un acteur généraliste.",
+    "technology": "capteurs de précision, pilotage de l’irrigation et analytics supply-chain",
+    "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de une couche de données marketplace agricole adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Drools en victoire domestique ou régionale.",
+    "concept": "L’équipe de Drools cible agriculteurs, coopératives et distributeurs alimentaires dans l’agritech et la foodtech avec une entrée tranchée : une couche de données marketplace agricole rend le produit plus concentré qu’un acteur généraliste.",
+    "main_sellers": [
+     "John Deere et CNH",
+     "Syngenta et Bayer",
+     "Cargill et Nestlé"
+    ],
+    "team_rec": [
+     [
+      "Agronome/analyste données",
+      1
+     ],
+     [
+      "Ingénieur IoT/embarqué",
+      2
+     ],
+     [
+      "Ingénieur full-stack",
+      1
+     ],
+     [
+      "Responsable terrain/ventes",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de une couche de données marketplace agricole, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Le matériel et la collecte de données sont les vrais goulots : les échecs terrain coûtent cher, et sans données propriétaires le produit devient un commodity. La régulation (règles d’exportation et d’achat) relève le plancher mais ralentit l’itération.",
+    "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de une couche de données marketplace agricole adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Drools en victoire domestique ou régionale."
+   }
+  }
+ },
+ {
+  "name": "Flo Health",
+  "country": "Brazil",
+  "sub_domain": "Food delivery",
+  "short_description": "The team behind Flo Health targets farmers, cooperatives and food distributors in agritech and food tech with a sharp wedge: a farm-marketplace data layer makes the product more focused than a generalist play.",
+  "technology": "precision sensing, irrigation control and supply-chain analytics",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Flo_Health",
+  "source_url": "https://en.wikipedia.org/wiki/Flo_Health",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Flo Health could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "The team behind Flo Health targets farmers, cooperatives and food distributors in agritech and food tech with a sharp wedge: a farm-marketplace data layer makes the product more focused than a generalist play.",
+  "main_sellers": [
+   "John Deere and CNH",
+   "Syngenta and Bayer",
+   "Cargill and Nestlé"
+  ],
+  "team_rec": [
+   [
+    "Agronomist/data analyst",
+    1
+   ],
+   [
+    "IoT/embedded engineer",
+    2
+   ],
+   [
+    "Full-stack engineer",
+    1
+   ],
+   [
+    "Field/sales lead",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "Build the MVP around a farm-marketplace data layer, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
+  "product_issues": "Hardware and data collection are the real bottlenecks: field failures are expensive, and without proprietary datasets the product converges to a commodity. Regulation (export and procurement rules) raises the floor but also slows iteration.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Flo Health could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 57,
+  "difficulty_breakdown": {
+   "technical": 19,
+   "capital": 15,
+   "regulatory": 6,
+   "market": 60
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "يستهدف فريق Flo Health الفلاحين والتعاونيات وموزّعي الغذاء في تقنيات الزراعة والغذاء بمدخل حادّ: طبقة بيانات لسوق المزارع يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "technology": "الاستشعار الدقيق والتحكم في الري وتحليلات سلسلة التوريد",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Flo Health توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "يستهدف فريق Flo Health الفلاحين والتعاونيات وموزّعي الغذاء في تقنيات الزراعة والغذاء بمدخل حادّ: طبقة بيانات لسوق المزارع يجعل المنتج أكثر تركيزاً من أي منتج عام.",
+    "main_sellers": [
+     "John Deere و CNH",
+     "Syngenta و Bayer",
+     "Cargill و Nestlé"
+    ],
+    "team_rec": [
+     [
+      "خبير زراعي/محلل بيانات",
+      1
+     ],
+     [
+      "مهندس إنترنت الأشياء/أنظمة مدمجة",
+      2
+     ],
+     [
+      "مهندس تطوير شامل",
+      1
+     ],
+     [
+      "مسؤول ميدان/مبيعات",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "ابنِ النموذج الأولي حول طبقة بيانات لسوق المزارع، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
+    "product_issues": "العتاد وجمع البيانات هما العقدة الحقيقية: إخفاقات الميدان مكلفة، وبدون بيانات خاصة يتقارب المنتج نحو سلعة. التنظيم (قواعد التصدير والشراء) يرفع سقف الجودة لكنه يبطئ التكرار.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Flo Health توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "L’équipe de Flo Health cible agriculteurs, coopératives et distributeurs alimentaires dans l’agritech et la foodtech avec une entrée tranchée : une couche de données marketplace agricole rend le produit plus concentré qu’un acteur généraliste.",
+    "technology": "capteurs de précision, pilotage de l’irrigation et analytics supply-chain",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Flo Health pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "L’équipe de Flo Health cible agriculteurs, coopératives et distributeurs alimentaires dans l’agritech et la foodtech avec une entrée tranchée : une couche de données marketplace agricole rend le produit plus concentré qu’un acteur généraliste.",
+    "main_sellers": [
+     "John Deere et CNH",
+     "Syngenta et Bayer",
+     "Cargill et Nestlé"
+    ],
+    "team_rec": [
+     [
+      "Agronome/analyste données",
+      1
+     ],
+     [
+      "Ingénieur IoT/embarqué",
+      2
+     ],
+     [
+      "Ingénieur full-stack",
+      1
+     ],
+     [
+      "Responsable terrain/ventes",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Construisez le MVP autour de une couche de données marketplace agricole, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
+    "product_issues": "Le matériel et la collecte de données sont les vrais goulots : les échecs terrain coûtent cher, et sans données propriétaires le produit devient un commodity. La régulation (règles d’exportation et d’achat) relève le plancher mais ralentit l’itération.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Flo Health pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ }
+]

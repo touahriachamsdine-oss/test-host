@@ -43,28 +43,6 @@
       "hq_city": "Berkeley"
     }
   },
-  "taranis": {
-    "ar": {
-      "name": "Taranis",
-      "country": "إسرائيل",
-      "sub_domain": "استكشاف المحاصيل بالذكاء الاصطناعي",
-      "short_description": "استكشاف بالذكاء الاصطناعي عبر طلعات جوية عالية الدقة يكشف الآفات قبل المرشدين الزراعيين.",
-      "technology": "رؤية حاسوبية + كشف على مستوى الورقة",
-      "why_relevant": "دقة على مستوى الورقة تتجاوز تصوير الطائرات المسيّرة وتقود إلى علاج دقيق.",
-      "history": "تأسست عام 2015، وبنَت Taranis منصة ذكاء اصطناعي للزراعة تدمج صور الأقمار الصناعية والطائرات المسيّرة والطائرات فائقة الدقة للكشف عن الآفات والأمراض ونقص العناصر الغذائية ورقةً ورقة. توسّعت الشركة إلى الولايات المتحدة لدعم أسواق محاصيل الصفوف الرئيسية، وجمعت تمويلات نمو من شركاء رأس ماليين مثل Insight Partners. تقدّم اليوم تحليلات على مستوى الحقل لملايين الهكتارات، لتنقل الخبراء الزراعيين من المعاينة التفاعلية إلى تدخل مبكر دقيق.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Taranis",
-      "country": "Israël",
-      "sub_domain": "Dépistage des cultures par IA",
-      "short_description": "Un dépistage par IA à partir de vols haute résolution détecte les ravageurs plus tôt que les agronomes.",
-      "technology": "Vision par ordinateur + détection au niveau de la feuille",
-      "why_relevant": "Un niveau de détail foliaire qui dépasse l'imagerie drone pour aller jusqu'au traitement de précision.",
-      "history": "Lancée en 2015, Taranis a bâti une plateforme de renseignement agricole par IA qui fusionne des images satellite, drone et aériennes à très haute résolution pour détecter ravageurs, maladies et carences feuille par feuille. L'entreprise s'est implantée aux États-Unis, où elle dessert de grandes cultures de rang, et a levé des fonds de croissance auprès de partenaires comme Insight Partners. Taranis fournit aujourd'hui des analyses au niveau de la parcelle sur des millions d'hectares, aidant les agronomes à passer d'un dépistage réactif à une intervention précoce et précise.",
-      "hq_city": "Tel-Aviv"
-    }
-  },
   "semios": {
     "ar": {
       "name": "Semios",
@@ -85,28 +63,6 @@
       "why_relevant": "Des données de lutte anti-insectes continues pour les cultures pérennes.",
       "history": "Fondée en 2010, Semios a été pionnière de la surveillance sans fil pour cultures pérennes, en associant capteurs climatiques de canopée et pièges à phéromones qui perturbent les cycles de reproduction des insectes et consignent les captures vingt-quatre heures sur vingt-quatre. Soutenue notamment par Morningside, l'entreprise s'est déployée sur des milliers d'hectares de vergers et de vignobles en Amérique du Nord, en Amérique du Sud et en Europe. Sa plateforme convertit captures et relevés météo en alertes sur les maladies et les pressions, permettant d'intervenir avant l'installation d'une infestation.",
       "hq_city": "Vancouver"
-    }
-  },
-  "cropx": {
-    "ar": {
-      "name": "CropX",
-      "country": "إسرائيل",
-      "sub_domain": "استشعار التربة",
-      "short_description": "مجسّات ترابية في الأرض مع منصة سحابية تؤتمت قرارات الري.",
-      "technology": "إنترنت أشياء لرطوبة التربة + هندسة زراعية",
-      "why_relevant": "شبكة استشعار لاسلكية عملية اعتمدتها دول عديدة.",
-      "history": "تأسست عام 2014، وطوّرت CropX نظام استشعار ترابي داخل الأرض يجمع بين أجهزة إنترنت الأشياء وهندسة زراعية سحابية لأتمتة قرارات الري. وبعد استحواذها على Tule Technologies عام 2021، توسّعت في إدارة المياه المبنية على التبخّر النتحي. تغطي عملياتها عشرات الدول، وافتتحت الشركة مكتباً في الولايات المتحدة مع دمج بيانات المستشعرات في برامج إدارة المزارع لخفض استهلاك الماء والعناصر الغذائية عبر محاصيل الصفوف والبساتين والمروج.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "CropX",
-      "country": "Israël",
-      "sub_domain": "Capteurs de sol",
-      "short_description": "Capteurs de sol enterrés et cloud qui automatisent les décisions d'irrigation.",
-      "technology": "IoT d'humidité du sol + agronomie",
-      "why_relevant": "Un réseau de capteurs sans fil pragmatique adopté dans de nombreux pays.",
-      "history": "Fondée en 2014, CropX a mis au point un système de capteurs de sol enterrés qui associent du matériel IoT à une agronomie cloud pour automatiser les décisions d'irrigation. Après l'acquisition de Tule Technologies en 2021, elle s'est étendue à la gestion de l'eau basée sur l'évapotranspiration. Ses déploiements couvrent des dizaines de pays et l'entreprise a ouvert un bureau aux États-Unis tout en intégrant les données de capteurs aux logiciels de gestion agricole pour réduire eau et nutriments dans les grandes cultures, les vergers et les gazons.",
-      "hq_city": "Tel-Aviv"
     }
   },
   "sentera": {
@@ -439,28 +395,6 @@
       "hq_city": "Maastricht"
     }
   },
-  "aleph-farms": {
-    "ar": {
-      "name": "Aleph Farms",
-      "country": "إسرائيل",
-      "sub_domain": "لحوم مخبرية (مستنبتة)",
-      "short_description": "تستنبت شرائح اللحم من خلايا بقريّة غير معدّلة وبدون مضادات حيوية.",
-      "technology": "أنسجة مطبوعة بيولوجياً",
-      "why_relevant": "موافقات في سنغافورة وشراكات لتوسيع نطاق شرائح اللحم المستنبتة.",
-      "history": "أسست عام 2017 وانبثقت عن معهد وايزمان، وتستنبت Aleph Farms شرائح لحم من خلايا بقريّة غير معدّلة. أنجزت أول لحم بقري مستنبت على متن محطة الفضاء الدولية عام 2019، ونالت موافقة تنظيمية في إسرائيل عام 2024، ووقّعت شراكات استراتيجية في سنغافورة وسويسرا. تبني الشركة خطوط إنتاج تجريبية لتوسيع شرائحها الدقيقة نحو الإطلاق التجاري.",
-      "hq_city": "رحوفوت"
-    },
-    "fr": {
-      "name": "Aleph Farms",
-      "country": "Israël",
-      "sub_domain": "Viande cultivée",
-      "short_description": "Fait pousser des steaks à partir de cellules bovines non modifiées, sans antibiotiques.",
-      "technology": "Tissus bio-imprimés",
-      "why_relevant": "Autorisations à Singapour et collaborations pour passer les steaks cultivés à l'échelle.",
-      "history": "Fondée en 2017 et issue du Weizmann Institute, Aleph Farms cultive des steaks à partir de cellules bovines non modifiées. Elle a réalisé en 2019 le premier bœuf cultivé à bord de la Station spatiale internationale, obtenu une autorisation réglementaire en Israël en 2024 et signé des partenariats stratégiques à Singapour et en Suisse. L'entreprise construit des lignes de production pilotes pour lancer à l'échelle commerciale ses steaks en tranches fines.",
-      "hq_city": "Rehovot"
-    }
-  },
   "brightseed": {
     "ar": {
       "name": "Brightseed",
@@ -481,50 +415,6 @@
       "why_relevant": "Transforme le règne végétal en une bibliothèque interrogeable de molécules bienfaisantes.",
       "history": "Fondée en 2017, Brightseed associe apprentissage automatique et biologie à haut débit pour cartographier les phyto-composés du règne végétal et révéler des molécules à potentiel santé. Sa plateforme d'IA Forager travaille avec de grands partenaires agricoles et de consommation pour découvrir et valider de nouveaux composés. L'entreprise a levé d'importants financements et s'est engagée dans des tests cliniques d'ingrédients ciblant la santé intestinale et métabolique.",
       "hq_city": "San Francisco"
-    }
-  },
-  "fermata": {
-    "ar": {
-      "name": "Fermata",
-      "country": "إسرائيل",
-      "sub_domain": "كشف الآفات بالذكاء الاصطناعي",
-      "short_description": "يكشف الآفات والأمراض عبر مصائد افتراضية مبنية على صور المزارعين.",
-      "technology": "رؤية الحشرات + إنذار مبكر",
-      "why_relevant": "يستبدل المصائد اللاصقة بتشخيص استباقي عبر الهاتف الذكي.",
-      "history": "تأسست عام 2017، وطوّرت Fermata برنامج رؤية حاسوبية يحوّل صور المزارعين العادية إلى مصائد افتراضية تكشف الحشرات والأمراض أبكر من الفحص اليدوي. تعمل منصتها DataScoop في البيوت المحمية والبساتين والحقول المفتوحة، ونُشر النظام لدى مزارعين كبار في إسرائيل وأوروبا وأمريكا الشمالية. وتواصل الشركة توسيع مكتبة الحشرات وتحليلات الإنذار المبكر لتغطية مزيد من المحاصيل.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Fermata",
-      "country": "Israël",
-      "sub_domain": "Détection des ravageurs par IA",
-      "short_description": "Détecte ravageurs et maladies par piégeage virtuel à partir des photos des producteurs.",
-      "technology": "Vision insectes + alerte précoce",
-      "why_relevant": "Remplace les pièges collants par un diagnostic préventif sur smartphone.",
-      "history": "Fondée en 2017, Fermata a développé un logiciel de vision par ordinateur qui transforme les photos ordinaires des producteurs en pièges virtuels, détectant insectes et maladies plus tôt qu'un dépistage manuel. Sa plateforme DataScoop fonctionne en serre, en verger et en plein champ, et le système a été déployé chez de grands producteurs en Israël, en Europe et en Amérique du Nord. L'entreprise élargit en continu ses bibliothèques d'insectes et ses alertes précoces à davantage de cultures.",
-      "hq_city": "Tel-Aviv"
-    }
-  },
-  "agroscout": {
-    "ar": {
-      "name": "AgroScout",
-      "country": "إسرائيل",
-      "sub_domain": "مراقبة المحاصيل",
-      "short_description": "صور الطائرات المسيّرة والأقمار الصناعية تكشف أمراض المحاصيل تلقائياً.",
-      "technology": "تحليلات الأمراض عبر الطائرات المسيّرة",
-      "why_relevant": "كشف مبكر للّفحة قبل أن تراها العين المجردة.",
-      "history": "تأسست عام 2016، وتستخدم AgroScout الطائرات المسيّرة والذكاء الاصطناعي لكشف أمراض المحاصيل والآفات والإجهاد الغذائي في البطاطس والطماطم وغيرها قبل أن تتضح الأعراض للعين المجردة. ينبّه برنامجها المزارعين والخبراء الزراعيين، ما يتيح معالجة مستهدفة بدل الرش العشوائي. وسّعت الشركة تجاربها مع تعاونيات في الولايات المتحدة وأوروبا، وتواصل صقل نماذج التعرف الآلي على الأمراض.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "AgroScout",
-      "country": "Israël",
-      "sub_domain": "Suivi des cultures",
-      "short_description": "Des images drone et satellite qui détectent automatiquement les maladies des cultures.",
-      "technology": "Analyse des maladies par drone",
-      "why_relevant": "Détecte la brûlure avant même que l'œil humain ne la voie.",
-      "history": "Fondée en 2016, AgroScout utilise drones et intelligence artificielle pour détecter maladies, ravageurs et stress nutritionnel dans les cultures de pomme de terre, de tomate et d'autres, avant que les symptômes soient visibles à l'œil nu. Son logiciel alerte producteurs et agronomes, permettant un traitement ciblé plutôt qu'une pulvérisation généralisée. L'entreprise a élargi ses essais avec des coopératives aux États-Unis et en Europe et continue d'affiner ses modèles d'identification automatique des maladies.",
-      "hq_city": "Tel-Aviv"
     }
   },
   "plenty": {

@@ -285,21 +285,6 @@
     "longitude": 2.3522
   },
   {
-    "name": "Eviation",
-    "country": "Israel",
-    "sub_domain": "Electric aircraft",
-    "short_description": "Developer of Alice, a fixed-wing zero-emission commuter aircraft.",
-    "technology": "Battery-electric airframe",
-    "year_founded": 2015,
-    "official_site": "https://eviation.com",
-    "priority": "C",
-    "why_relevant": "Flew a 9-seat all-electric airplane that redefines regional hops.",
-    "history": "Founded in 2015 in Israel, Eviation developed Alice, a fixed-wing, fully battery-electric commuter aircraft, with backing including early investment from Amazon's Climate Pledge Fund. In September 2022 Alice completed a successful first flight, an eight-minute journey from Arlington Municipal Airport. The company targets zero-emission regional mobility on 150-250 nautical mile routes, positioning Alice for e-commerce logistics and regional flight networks. Eviation continues integrating a global supply chain and certification efforts from facilities in Israel and the United States.",
-    "hq_city": "Tel Aviv",
-    "latitude": 32.0853,
-    "longitude": 34.7818
-  },
-  {
     "name": "Heart Aerospace",
     "country": "Sweden",
     "sub_domain": "Electric aircraft",

@@ -87,28 +87,6 @@
       "hq_city": "Oakland"
     }
   },
-  "storedot": {
-    "ar": {
-      "name": "StoreDot",
-      "country": "إسرائيل",
-      "sub_domain": "الشحن السريع للغاية",
-      "short_description": "تطوّر خلايا بطاريات سيليكون للشحن السريع للغاية (XFC).",
-      "technology": "خلايا XFC غالبة السيليكون",
-      "why_relevant": "خلايا بقطب أنود سيليكوني أثبتت شحنها من 10 إلى 80 بالمئة خلال دقائق.",
-      "history": "تأسست StoreDot عام 2012 في إسرائيل لتطوير خلايا الشحن فائق السرعة (XFC)، متحولة من الليثيوم-أيون إلى أنودات غالبة السيليكون تمنح مدى حقيقياً في دقائق. ضمّت جولة الفئة D عام 2021 مستثمرين مثل دايملر وBP وسامسونغ، وأثبت خطها الزمني 100in5 إمكانية شحن مدى 100 ميل في خمس دقائق. سلّمت الشركة عينات من الفئة B لمصنّعي سيارات عالميين مثل فولفو وفينفاست، وأعلنت جاهزيتها التجارية. وهي تواصل تطوير كيميائيات قائمة على أشباه الفلزات وتهدف إلى أداء 100in3 مع ترخيص تقنية XFC لشركاء صناعة البطاريات.",
-      "hq_city": "هرتسليا"
-    },
-    "fr": {
-      "name": "StoreDot",
-      "country": "Israël",
-      "sub_domain": "Recharge ultra-rapide",
-      "short_description": "Développe des cellules de batterie au silicium à recharge ultra-rapide (XFC).",
-      "technology": "Cellules XFC à dominante silicium",
-      "why_relevant": "Des cellules à anode silicium capables de charger de 10 à 80 pour cent en quelques minutes.",
-      "history": "StoreDot a été fondée en 2012 en Israël pour développer des cellules à recharge ultra-rapide (XFC), passant du lithium-ion à des anodes à dominante silicium qui apportent une autonomie réelle en quelques minutes. Sa série D de 2021 a réuni Daimler, BP et Samsung, et sa feuille de route 100in5 a démontré la recharge de 100 miles d'autonomie en cinq minutes. La société a livré des échantillons de série B à des constructeurs comme Volvo et VinFast et annoncé sa maturité commerciale. Elle poursuit ses chimies à base de métalloïdes, vise une performance 100in3 et licencie sa technologie XFC à des partenaires batteries.",
-      "hq_city": "Herzliya"
-    }
-  },
   "energy-dome": {
     "ar": {
       "name": "Energy Dome",
@@ -261,28 +239,6 @@
       "why_relevant": "Une production de saumure à l'échelle commerciale visant à combler le déficit américain en minéraux critiques.",
       "history": "EnergyX a été fondée en 2018 par Teague Egan pour développer des membranes d'extraction directe du lithium et des technologies à état solide, face à la dépendance croissante des États-Unis envers les minéraux critiques importés. L'entreprise a été validée à l'échelle laboratoire puis pilote dans des régions de saumure, notamment le Salar de Uyuni en Bolivie, et a annoncé en 2022 un engagement de financement de 450 millions de dollars pour bâtir une capacité commerciale. Sa plateforme à état solide LiTAS et ses membranes sélectives ciblent à la fois fabricants de batteries et producteurs de saumure. EnergyX se positionne désormais sur toute la chaîne de valeur du lithium dans les Amériques.",
       "hq_city": "Austin"
-    }
-  },
-  "h2pro": {
-    "ar": {
-      "name": "H2Pro",
-      "country": "إسرائيل",
-      "sub_domain": "الهيدروجين الأخضر",
-      "short_description": "محلّل كهربائي E-TAC يفكك الماء إلى هيدروجين بكفاءة غير مسبوقة.",
-      "technology": "دورة E-TAC الكهروكيميائية",
-      "why_relevant": "تقسيم الماء على خطوتين بذكاء ديناميكي حراري يتيح هيدروجيناً أخضر رخيصاً.",
-      "history": "تأسست H2Pro عام 2019 انطلاقاً من معهد التخنيون لتسويق دورة التحليل الكهربائي E-TAC، وهي طريقة من خطوتين تفصل إنتاج الهيدروجين عن الأكسجين لتجاوز سقف كفاءة المحللات التقليدية. جمعت الشركة 79 مليون دولار في جولة الفئة B عام 2022 من مستثمرين مثل Breakthrough Energy Ventures وهيونداي وBP. ثم أثبتت نماذج أولية على مقياس الكيلوواط، وانتقلت نحو عروض تجريبية لمكدسات متعددة عشرات الكيلوواط. وتهدف H2Pro إلى إنتاج هيدروجين أخضر بتكلفة أقل عبر إزالة الأغشية والفواصل من عملية تفكيك الماء بالكامل.",
-      "hq_city": "قيسارية"
-    },
-    "fr": {
-      "name": "H2Pro",
-      "country": "Israël",
-      "sub_domain": "Hydrogène vert",
-      "short_description": "Électrolyseur E-TAC qui décompose l'eau en hydrogène avec une efficacité inégalée.",
-      "technology": "Cycle électrochimique E-TAC",
-      "why_relevant": "Une décomposition de l'eau en deux étapes ingénieuse sur le plan thermodynamique permet un H2 vert bon marché.",
-      "history": "H2Pro a été fondée en 2019 à partir du Technion pour commercialiser le cycle d'électrolyse E-TAC, une méthode en deux étapes qui découple la production d'hydrogène et d'oxygène afin d'éviter le plafond d'efficacité des électrolyseurs classiques. L'entreprise a levé une série B de 79 millions de dollars en 2022 auprès d'investisseurs comme Breakthrough Energy Ventures, Hyundai et BP. Elle a ensuite validé des prototypes à l'échelle du kilowatt et progressé vers des démonstrations de stacks de plusieurs centaines de kilowatts. H2Pro vise un hydrogène vert moins cher en éliminant membranes et séparateurs du procédé d'électrolyse.",
-      "hq_city": "Césarée"
     }
   },
   "bloom-energy": {

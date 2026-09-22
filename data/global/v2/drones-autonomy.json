@@ -1,0 +1,254 @@
+[
+ {
+  "name": "ZongMu Technology",
+  "country": "China",
+  "sub_domain": "Self-driving cars",
+  "short_description": "ZongMu Technology operates in drones and autonomy and competes on focus. Its bet is that a fleet management and BVLOS platform, built for agriculture, logistics and inspection fleets, beats a broad horizontal platform.",
+  "technology": "computer vision, sensor fusion and flight control",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/ZongMu_Technology",
+  "source_url": "https://en.wikipedia.org/wiki/ZongMu_Technology",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. ZongMu Technology could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "ZongMu Technology operates in drones and autonomy and competes on focus. Its bet is that a fleet management and BVLOS platform, built for agriculture, logistics and inspection fleets, beats a broad horizontal platform.",
+  "main_sellers": [
+   "DJI and Skydio",
+   "Zipline and Wing",
+   "AeroVironment"
+  ],
+  "team_rec": [
+   [
+    "Flight software engineer",
+    2
+   ],
+   [
+    "Vision engineer",
+    1
+   ],
+   [
+    "Aerospace engineer",
+    1
+   ],
+   [
+    "Embedded engineer",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "The realistic path starts with long sales cycles: secure a reference customer at a fair price, then sell the outcome, not the tool. a fleet management and BVLOS platform gives the team a defensible demo.",
+  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate industry licensing and certification — the licensing and compliance layer.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. ZongMu Technology could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 71,
+  "difficulty_breakdown": {
+   "technical": 28,
+   "capital": 21,
+   "regulatory": 17,
+   "market": 34
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "ZongMu Technology ينشط في المسيّرات والاستقلالية ويتنافس بالتركيز. رهانه أن منصة لإدارة الأسطول والتحليق خارج مدى الرؤية المبنية لـ الزراعة والخدمات اللوجستية وأساطيل التفتيش تتفوق على المنصات الأفقية الواسعة.",
+    "technology": "رؤية حاسوبية ودمج الحساسات والتحكم بالطيران",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ ZongMu Technology توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "ZongMu Technology ينشط في المسيّرات والاستقلالية ويتنافس بالتركيز. رهانه أن منصة لإدارة الأسطول والتحليق خارج مدى الرؤية المبنية لـ الزراعة والخدمات اللوجستية وأساطيل التفتيش تتفوق على المنصات الأفقية الواسعة.",
+    "main_sellers": [
+     "DJI و Skydio",
+     "Zipline و Wing",
+     "AeroVironment"
+    ],
+    "team_rec": [
+     [
+      "مهندس برمجيات طيران",
+      2
+     ],
+     [
+      "مهندس رؤية حاسوبية",
+      1
+     ],
+     [
+      "مهندس فضاء",
+      1
+     ],
+     [
+      "مهندس أنظمة مدمجة",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "المسار الواقعي يبدأ بدورات مبيعات طويلة: احصل على عميل مرجعي بسعر عادل ثم بع النتيجة لا الأداة. منصة لإدارة الأسطول والتحليق خارج مدى الرؤية يمنح الفريق عرضاً ملموساً.",
+    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن ترخيص الصناعة والاعتماد — طبقة الترخيص والامتثال.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ ZongMu Technology توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "ZongMu Technology évolue dans les drones et l’autonomie et joue la carte de la concentration. Son pari : une plateforme de gestion de flotte BVLOS, conçu pour agriculture, logistique et flottes d’inspection, bat une plateforme horizontale trop large.",
+    "technology": "vision par ordinateur, fusion de capteurs et pilotage automatique",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. ZongMu Technology pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "ZongMu Technology évolue dans les drones et l’autonomie et joue la carte de la concentration. Son pari : une plateforme de gestion de flotte BVLOS, conçu pour agriculture, logistique et flottes d’inspection, bat une plateforme horizontale trop large.",
+    "main_sellers": [
+     "DJI et Skydio",
+     "Zipline et Wing",
+     "AeroVironment"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur logiciel de vol",
+      2
+     ],
+     [
+      "Ingénieur vision",
+      1
+     ],
+     [
+      "Ingénieur aérospatial",
+      1
+     ],
+     [
+      "Ingénieur embarqué",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Le chemin réaliste commence par de longs cycles de vente : décrochez un client de référence à un prix juste, puis vendez le résultat, pas l’outil. une plateforme de gestion de flotte BVLOS donne à l’équipe une démo défendable.",
+    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi licences et certifications métier — la couche licence et conformité.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. ZongMu Technology pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "Plus.ai",
+  "country": "United States",
+  "sub_domain": "Self-driving trucks",
+  "short_description": "Plus.ai operates in drones and autonomy and competes on focus. Its bet is that a fleet management and BVLOS platform, built for agriculture, logistics and inspection fleets, beats a broad horizontal platform.",
+  "technology": "computer vision, sensor fusion and flight control",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/Plus.ai",
+  "source_url": "https://en.wikipedia.org/wiki/Plus.ai",
+  "why_relevant": "The Algerian angle is affordability and context: a fleet management and BVLOS platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Plus.ai’s playbook into a domestic or regional win.",
+  "priority": "A",
+  "concept": "Plus.ai operates in drones and autonomy and competes on focus. Its bet is that a fleet management and BVLOS platform, built for agriculture, logistics and inspection fleets, beats a broad horizontal platform.",
+  "main_sellers": [
+   "DJI and Skydio",
+   "Zipline and Wing",
+   "AeroVironment"
+  ],
+  "team_rec": [
+   [
+    "Flight software engineer",
+    2
+   ],
+   [
+    "Vision engineer",
+    1
+   ],
+   [
+    "Aerospace engineer",
+    1
+   ],
+   [
+    "Embedded engineer",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "The realistic path starts with long sales cycles: secure a reference customer at a fair price, then sell the outcome, not the tool. a fleet management and BVLOS platform gives the team a defensible demo.",
+  "product_issues": "Hardware and data collection are the real bottlenecks: field failures are expensive, and without proprietary datasets the product converges to a commodity. Regulation (export and procurement rules) raises the floor but also slows iteration.",
+  "algeria_value": "The Algerian angle is affordability and context: a fleet management and BVLOS platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Plus.ai’s playbook into a domestic or regional win.",
+  "difficulty_score": 77,
+  "difficulty_breakdown": {
+   "technical": 31,
+   "capital": 23,
+   "regulatory": 18,
+   "market": 28
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "Plus.ai ينشط في المسيّرات والاستقلالية ويتنافس بالتركيز. رهانه أن منصة لإدارة الأسطول والتحليق خارج مدى الرؤية المبنية لـ الزراعة والخدمات اللوجستية وأساطيل التفتيش تتفوق على المنصات الأفقية الواسعة.",
+    "technology": "رؤية حاسوبية ودمج الحساسات والتحكم بالطيران",
+    "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من منصة لإدارة الأسطول والتحليق خارج مدى الرؤية مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Plus.ai إلى نجاح محلي أو إقليمي.",
+    "concept": "Plus.ai ينشط في المسيّرات والاستقلالية ويتنافس بالتركيز. رهانه أن منصة لإدارة الأسطول والتحليق خارج مدى الرؤية المبنية لـ الزراعة والخدمات اللوجستية وأساطيل التفتيش تتفوق على المنصات الأفقية الواسعة.",
+    "main_sellers": [
+     "DJI و Skydio",
+     "Zipline و Wing",
+     "AeroVironment"
+    ],
+    "team_rec": [
+     [
+      "مهندس برمجيات طيران",
+      2
+     ],
+     [
+      "مهندس رؤية حاسوبية",
+      1
+     ],
+     [
+      "مهندس فضاء",
+      1
+     ],
+     [
+      "مهندس أنظمة مدمجة",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "المسار الواقعي يبدأ بدورات مبيعات طويلة: احصل على عميل مرجعي بسعر عادل ثم بع النتيجة لا الأداة. منصة لإدارة الأسطول والتحليق خارج مدى الرؤية يمنح الفريق عرضاً ملموساً.",
+    "product_issues": "العتاد وجمع البيانات هما العقدة الحقيقية: إخفاقات الميدان مكلفة، وبدون بيانات خاصة يتقارب المنتج نحو سلعة. التنظيم (قواعد التصدير والشراء) يرفع سقف الجودة لكنه يبطئ التكرار.",
+    "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من منصة لإدارة الأسطول والتحليق خارج مدى الرؤية مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Plus.ai إلى نجاح محلي أو إقليمي."
+   },
+   "fr": {
+    "short_description": "Plus.ai évolue dans les drones et l’autonomie et joue la carte de la concentration. Son pari : une plateforme de gestion de flotte BVLOS, conçu pour agriculture, logistique et flottes d’inspection, bat une plateforme horizontale trop large.",
+    "technology": "vision par ordinateur, fusion de capteurs et pilotage automatique",
+    "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de une plateforme de gestion de flotte BVLOS adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Plus.ai en victoire domestique ou régionale.",
+    "concept": "Plus.ai évolue dans les drones et l’autonomie et joue la carte de la concentration. Son pari : une plateforme de gestion de flotte BVLOS, conçu pour agriculture, logistique et flottes d’inspection, bat une plateforme horizontale trop large.",
+    "main_sellers": [
+     "DJI et Skydio",
+     "Zipline et Wing",
+     "AeroVironment"
+    ],
+    "team_rec": [
+     [
+      "Ingénieur logiciel de vol",
+      2
+     ],
+     [
+      "Ingénieur vision",
+      1
+     ],
+     [
+      "Ingénieur aérospatial",
+      1
+     ],
+     [
+      "Ingénieur embarqué",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Le chemin réaliste commence par de longs cycles de vente : décrochez un client de référence à un prix juste, puis vendez le résultat, pas l’outil. une plateforme de gestion de flotte BVLOS donne à l’équipe une démo défendable.",
+    "product_issues": "Le matériel et la collecte de données sont les vrais goulots : les échecs terrain coûtent cher, et sans données propriétaires le produit devient un commodity. La régulation (règles d’exportation et d’achat) relève le plancher mais ralentit l’itération.",
+    "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de une plateforme de gestion de flotte BVLOS adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Plus.ai en victoire domestique ou régionale."
+   }
+  }
+ }
+]

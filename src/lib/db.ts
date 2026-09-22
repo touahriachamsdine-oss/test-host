@@ -37,6 +37,21 @@ export interface PublicStartup {
   longitude?: number;
   refNo?: number;
   teamName?: string;
+  concept?: string;
+  mainSellers?: string[];
+  teamRec?: Array<{ role: string; count: number }>;
+  buildApproach?: string;
+  productIssues?: string;
+  algeriaValue?: string;
+  difficultyScore?: number;
+  difficultyBreakdown?: {
+    technical: number;
+    capital: number;
+    regulatory: number;
+    market: number;
+  };
+  sourceTier?: string;
+  sourceNote?: string;
 }
 
 export interface AdminStartup extends PublicStartup {
@@ -118,7 +133,43 @@ function mapPublicStartup(row: Record<string, unknown>): PublicStartup {
     status: String(row.status) as StartupStatus,
     ...(row.ref_no !== undefined && row.ref_no !== null
       ? { refNo: Number(row.ref_no) }
-      : {})
+      : {}),
+    ...(row.concept ? { concept: String(row.concept) } : {}),
+    ...(Array.isArray(row.main_sellers)
+      ? { mainSellers: row.main_sellers.map(String) }
+      : {}),
+    ...(Array.isArray(row.team_rec)
+      ? {
+          teamRec: (row.team_rec as unknown[]).map((r) => {
+            const pair = Array.isArray(r) ? (r as unknown[]) : [r];
+            return { role: String(pair[0] ?? ''), count: Number(pair[1]) || 1 };
+          })
+        }
+      : {}),
+    ...(row.build_approach ? { buildApproach: String(row.build_approach) } : {}),
+    ...(row.product_issues ? { productIssues: String(row.product_issues) } : {}),
+    ...(row.algeria_value ? { algeriaValue: String(row.algeria_value) } : {}),
+    ...(row.difficulty_score !== undefined && row.difficulty_score !== null
+      ? { difficultyScore: Number(row.difficulty_score) }
+      : {}),
+    ...(row.difficulty_breakdown && typeof row.difficulty_breakdown === 'object'
+      ? {
+          difficultyBreakdown: {
+            technical: Number(
+              (row.difficulty_breakdown as Record<string, unknown>).technical || 0
+            ),
+            capital: Number(
+              (row.difficulty_breakdown as Record<string, unknown>).capital || 0
+            ),
+            regulatory: Number(
+              (row.difficulty_breakdown as Record<string, unknown>).regulatory || 0
+            ),
+            market: Number((row.difficulty_breakdown as Record<string, unknown>).market || 0)
+          }
+        }
+      : {}),
+    ...(row.source_tier ? { sourceTier: String(row.source_tier) } : {}),
+    ...(row.source_note ? { sourceNote: String(row.source_note) } : {})
   };
 }
 

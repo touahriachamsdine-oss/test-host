@@ -175,28 +175,6 @@
       "hq_city": "Weiterstadt"
     }
   },
-  "percepto": {
-    "ar": {
-      "name": "Percepto",
-      "country": "إسرائيل",
-      "sub_domain": "التفتيش الذاتي",
-      "short_description": "توفّر حلّ طائرة مسيّرة داخل صندوق ذاتية الشحن للتفتيش المستمر على المواقع.",
-      "technology": "محطات إرساء، استقلالية حائزة على براءة اختراع",
-      "why_relevant": "حلّ متكامل للقيادة عن بُعد يشغّل تفتيشاً صناعياً على مدار الساعة.",
-      "history": "تأسست Percepto عام 2014 في إسرائيل على يد دور أبو هسيرة ورافيف راز، اللذين سعيا لإبعاد البشر عن عمليات التفتيش الصناعي المتكررة والخطرة. طوّرت الشركة حلاً متكاملاً لطائرة داخل صندوق ذاتية القيادة بالكامل، مع محطة شحن ذاتي حاصلة على براءة اختراع، ما يتيح مراقبة عن بُعد على مدار الساعة دون طيّارين في الموقع. جمعت Percepto أكثر من 100 مليون دولار ونالت اعترافاً كقائدة لسوق التفتيش الآلي، ثم نقلت مقرّها إلى أوستن بتكساس مع إبقاء البحث والتطوير في إسرائيل. ويشغّل نظام تشغيلها AIM اليوم برامج بيانات بصرية مستقلة في منشآت الطاقة والتعدين والخدمات اللوجستية حول العالم.",
-      "hq_city": "أوستن"
-    },
-    "fr": {
-      "name": "Percepto",
-      "country": "Israël",
-      "sub_domain": "Inspection autonome",
-      "short_description": "Fournit un drone-in-a-box auto-rechargeable pour l'inspection continue de sites.",
-      "technology": "Stations d'accueil, autonomie brevetée",
-      "why_relevant": "Solution clé en main de pilotage à distance pour une inspection industrielle 24/7.",
-      "history": "Percepto a été fondée en 2014 en Israël par Dor Abuhasira et Raviv Raz, qui cherchaient à retirer les humains des inspections industrielles répétitives et dangereuses. La société a développé une solution drone-in-a-box entièrement autonome avec station de rechargement brevetée, permettant une surveillance à distance 24h/24 sans pilote sur site. Percepto a levé plus de 100 millions de dollars et a été reconnue comme un leader du marché de l'inspection automatisée, avant de déplacer son siège à Austin, au Texas, tout en conservant la R&D en Israël. Son système d'exploitation AIM pilote aujourd'hui des programmes de données visuelles autonomes dans l'énergie, les mines et la logistique dans le monde entier.",
-      "hq_city": "Austin"
-    }
-  },
   "dedrone": {
     "ar": {
       "name": "Dedrone",

@@ -1,0 +1,3040 @@
+[
+ {
+  "name": "AL fajer L-10",
+  "industry": ""
+ },
+ {
+  "name": "Amel (UAV)",
+  "industry": ""
+ },
+ {
+  "name": "AeroDreams",
+  "industry": "AeroDreams Chi-7 ()",
+  "country": ""
+ },
+ {
+  "name": "FMA IA X 59 Dronner",
+  "industry": "(FAdeA) - reconnaissance (1972)",
+  "country": "1972"
+ },
+ {
+  "name": "Lipán M3",
+  "industry": "\"Apache\" - reconnaissance (2007)",
+  "country": "2007"
+ },
+ {
+  "name": "Nostromo Defensa",
+  "industry": "Nostromo Caburé ()",
+  "country": ""
+ },
+ {
+  "name": "Nostromo Yarará",
+  "industry": ""
+ },
+ {
+  "name": "Krunk UAV",
+  "industry": ""
+ },
+ {
+  "name": "X-55 (UAV)",
+  "industry": ""
+ },
+ {
+  "name": "AAI Corporation Aerosonde",
+  "industry": "- weather data"
+ },
+ {
+  "name": "Boeing MQ-28 Ghost Bat",
+  "industry": "Boeing Air Power Teaming System ()",
+  "country": ""
+ },
+ {
+  "name": "Coptercam",
+  "industry": ""
+ },
+ {
+  "name": "GAF Jindivik",
+  "industry": ""
+ },
+ {
+  "name": "GAF Turana",
+  "industry": ""
+ },
+ {
+  "name": "Schiebel Camcopter S-100",
+  "industry": "- multi-role"
+ },
+ {
+  "name": "Schiebel",
+  "industry": "Camcopter S-300 - multi-role"
+ },
+ {
+  "name": "Diamond Hero",
+  "industry": ""
+ },
+ {
+  "name": "Orbiter-2M",
+  "industry": ""
+ },
+ {
+  "name": "INDELA-I.N.SKY",
+  "industry": ""
+ },
+ {
+  "name": "Jane's Information Group",
+  "industry": "Yastreb"
+ },
+ {
+  "name": "Sterkh-BM",
+  "industry": ""
+ },
+ {
+  "name": "MBLE Épervier",
+  "industry": "(1969)",
+  "country": "1969"
+ },
+ {
+  "name": "B-Hunter UAV",
+  "industry": "(2002)",
+  "country": "2002"
+ },
+ {
+  "name": "14-X",
+  "industry": ", a Mach 10 UAV scramjet under development by FAB"
+ },
+ {
+  "name": "Brazilian Air Force",
+  "industry": "Acauã VANT Experimental UAV of the to develop electronic systems for future Brazilian UAVS."
+ },
+ {
+  "name": "Northrop KD2R-5",
+  "industry": "Aeromot K1AM UAV/Target drone for the Brazilian Navy"
+ },
+ {
+  "name": "Brazilian Navy",
+  "industry": "Arara T1 Small UAV/target of AGX/Aeroalcool for the ."
+ },
+ {
+  "name": "Avibras Falcão",
+  "industry": "Tactical UAV"
+ },
+ {
+  "name": "BQM-1BR",
+  "industry": "First Brazilian UAV/target of the CBT (Companhia Brasileira de Tratores)."
+ },
+ {
+  "name": "Caçador",
+  "industry": ", developed from Israeli IAI Heron"
+ },
+ {
+  "name": "Carcara",
+  "industry": "Infantry portable UAV"
+ },
+ {
+  "name": "FT-100 Horus",
+  "industry": "Flight Technologies Soldier portable UAV"
+ },
+ {
+  "name": "Brazilian Army",
+  "industry": "Flight Technologies VT-15 UAV In test of the "
+ },
+ {
+  "name": "Quadcopter",
+  "industry": "Gyro 200 ED mini-UAV of the Gyrofly Innovations."
+ },
+ {
+  "name": "Embraer Defense and Security",
+  "industry": "Harpia This is a medium size tactical UAV of the Harpia Systems (Joint-Venture of the "
+ },
+ {
+  "name": "Brazilian Air Force",
+  "industry": "Sea Runner target of the ."
+ },
+ {
+  "name": "XMobots Apoema 1000B",
+  "industry": "LALE (low-altitude long-endurance) (2009)",
+  "country": "2009"
+ },
+ {
+  "name": "XMobots Nauru 500C",
+  "industry": ", used by both the Brazilian Air Force and Brazilian Navy. Used by the CENSIPAM during Operation Catramani II."
+ },
+ {
+  "name": "Aeryon Scout",
+  "industry": ", reconnaissance (2009)",
+  "country": "2009"
+ },
+ {
+  "name": "Aeryon SkyRanger R60",
+  "industry": ", reconnaissance (2013)",
+  "country": "2013"
+ },
+ {
+  "name": "Aeryon SkyRanger R70",
+  "industry": ", reconnaissance (2017)",
+  "country": "2017"
+ },
+ {
+  "name": "Aeryon SkyRaider R80D",
+  "industry": ", reconnaissance (2017)",
+  "country": "2017"
+ },
+ {
+  "name": "Canadair CL-89",
+  "industry": ", reconnaissance (1964) - joint funded by UK, later by West Germany as well"
+ },
+ {
+  "name": "CL-289",
+  "industry": ", reconnaissance (1990)",
+  "country": "1990"
+ },
+ {
+  "name": "CL-227 Sentinel",
+  "industry": ", reconnaissance (1977)",
+  "country": "1977"
+ },
+ {
+  "name": "CL-327 Guardian",
+  "industry": ", reconnaissance (1996)",
+  "country": "1996"
+ },
+ {
+  "name": "Draganflyer X6",
+  "industry": ", surveillance (2009)",
+  "country": "2009"
+ },
+ {
+  "name": "Meggitt Vindicator II",
+  "industry": "(CU-162)",
+  "country": "CU-162"
+ },
+ {
+  "name": "Prioria Robotics Maveric",
+  "industry": ""
+ },
+ {
+  "name": "MMIST CQ-10 Snowgoose",
+  "industry": "(2000)",
+  "country": "2000"
+ },
+ {
+  "name": "Primoco UAV",
+  "industry": ""
+ },
+ {
+  "name": "Sojka III",
+  "industry": ""
+ },
+ {
+  "name": "Spark",
+  "industry": "Jan Zizka<ref>{{cite web"
+ },
+ {
+  "name": "ThunderFly TF-G2 autogyro",
+  "industry": ""
+ },
+ {
+  "name": "Danish Aviation Systems",
+  "industry": ": Ebee"
+ },
+ {
+  "name": "Aisheng ASN-209",
+  "industry": ""
+ },
+ {
+  "name": "Aérospatiale C.22",
+  "industry": ", target drone"
+ },
+ {
+  "name": "Altec MART",
+  "industry": ""
+ },
+ {
+  "name": "ARSAERO CT 10",
+  "industry": ""
+ },
+ {
+  "name": "CAC K100",
+  "industry": ""
+ },
+ {
+  "name": "CAC Fox",
+  "industry": ""
+ },
+ {
+  "name": "Dassault LOGIDUC",
+  "industry": ""
+ },
+ {
+  "name": "Dassault nEUROn",
+  "industry": ", combat (was expected in 2011)",
+  "country": "was expected in 2011"
+ },
+ {
+  "name": "Dassault-Sagem SlowFast",
+  "industry": ", reconnaissance (2004)",
+  "country": "2004"
+ },
+ {
+  "name": "Donecle drone",
+  "industry": ", autonomous aircraft inspection"
+ },
+ {
+  "name": "EADS Harfang",
+  "industry": ", reconnaissance (2006)",
+  "country": "2006"
+ },
+ {
+  "name": "EADS Talarion",
+  "industry": ""
+ },
+ {
+  "name": "Lehmann Aviation",
+  "industry": "L-A series civilian drones"
+ },
+ {
+  "name": "Lehmann Aviation",
+  "industry": "L-M series civilian drones"
+ },
+ {
+  "name": "Nord CT.10",
+  "industry": "(Arsenal / SFECMAS Ars.5.501)",
+  "country": "Arsenal / SFECMAS Ars.5.501"
+ },
+ {
+  "name": "Nord CT.20",
+  "industry": "(Arsenal / SFECMAS T.5.510)",
+  "country": "Arsenal / SFECMAS T.5.510"
+ },
+ {
+  "name": "Nord CT.41",
+  "industry": ""
+ },
+ {
+  "name": "Parrot AR.Drone",
+  "industry": ""
+ },
+ {
+  "name": "SAGEM Crecerelle",
+  "industry": ""
+ },
+ {
+  "name": "SAGEM Patroller",
+  "industry": ""
+ },
+ {
+  "name": "SAGEM Sperwer",
+  "industry": ", reconnaissance"
+ },
+ {
+  "name": "SURVEY Copter Aliaca & Aliaca ER",
+  "industry": ", Small Tactical UAS"
+ },
+ {
+  "name": "SURVEY Copter CAPA-X",
+  "industry": ", Light Tactical UAS"
+ },
+ {
+  "name": "SURVEY Copter DVF2000ER",
+  "industry": ", Small Tactical UAS"
+ },
+ {
+  "name": "SURVEY Copter Tracker",
+  "industry": ", Small Tactical UAS"
+ },
+ {
+  "name": "Techno-Sud Vigilant",
+  "industry": ""
+ },
+ {
+  "name": "Turgis & Gaillard Aarok",
+  "industry": ", MALE Turboprop drone with a 1500 kg payload (2023)",
+  "country": "2023"
+ },
+ {
+  "name": "Airbus Sagitta",
+  "industry": ", jet powered UAV developed as part of the Open Innovation initiative"
+ },
+ {
+  "name": "Arado Ar E.377 und Ar E.377A",
+  "industry": "(air to ship)",
+  "country": "air to ship"
+ },
+ {
+  "name": "Argus As 292",
+  "industry": ", anti-aircraft target drone (1937)",
+  "country": "1937"
+ },
+ {
+  "name": "Argus Fernfeuer",
+  "industry": ""
+ },
+ {
+  "name": "Blohm & Voss BV 143A und BV 143B",
+  "industry": "(air to ship)",
+  "country": "air to ship"
+ },
+ {
+  "name": "Blohm & Voss BV 246",
+  "industry": "(air to surface",
+  "country": "air to surface, also known as Blohm & Voss BV 226"
+ },
+ {
+  "name": "Blohm & Voss BV 950 L10 und BV 950 L11",
+  "industry": "(air to ship)",
+  "country": "air to ship"
+ },
+ {
+  "name": "AscTec Falcon 8",
+  "industry": ", industrial octocopter for aerial imaging (UAV)",
+  "country": "UAV"
+ },
+ {
+  "name": "Dornier Kiebitz",
+  "industry": ""
+ },
+ {
+  "name": "EADS Barracuda",
+  "industry": ", German-led program together with Spain"
+ },
+ {
+  "name": "EMT Aladin",
+  "industry": ", reconnaissance"
+ },
+ {
+  "name": "EMT Luna",
+  "industry": ", reconnaissance"
+ },
+ {
+  "name": "EMT Luna NG",
+  "industry": ", reconnaissance"
+ },
+ {
+  "name": "EMT Museco",
+  "industry": ", ATOL helicopter, reconnaissance and communication"
+ },
+ {
+  "name": "EuroHawk",
+  "industry": ", reconnaissance (developed together with the U.S.)",
+  "country": "developed together with the U.S."
+ },
+ {
+  "name": "Fieseler Fi 157",
+  "industry": "anti-aircraft target drone (1937)",
+  "country": "1937"
+ },
+ {
+  "name": "H-Aero",
+  "industry": ""
+ },
+ {
+  "name": "Henschel Hs 117",
+  "industry": "(surface to airplane",
+  "country": "surface to airplane, air to air"
+ },
+ {
+  "name": "Henschel Hs 293",
+  "industry": "(air to ship)",
+  "country": "air to ship"
+ },
+ {
+  "name": "Henschel Hs 294",
+  "industry": "(air to ship)",
+  "country": "air to ship"
+ },
+ {
+  "name": "Henschel Hs 298",
+  "industry": "(air to air)",
+  "country": "air to air"
+ },
+ {
+  "name": "Hyfish",
+  "industry": ""
+ },
+ {
+  "name": "Messerschmitt Enzian E-4",
+  "industry": "(surface to airplane)",
+  "country": "surface to airplane"
+ },
+ {
+  "name": "MikroKopter",
+  "industry": "and variants QuadroKopter"
+ },
+ {
+  "name": "Quantum‑Systems",
+  "industry": "Vector"
+ },
+ {
+  "name": "Rheinmetall KZO",
+  "industry": "(reconnaissance)",
+  "country": "reconnaissance"
+ },
+ {
+  "name": "Ruhrstahl Kramer X-7",
+  "industry": "(air to tank",
+  "country": "air to tank, also known as Ruhrstahl Kramer 347"
+ },
+ {
+  "name": "V-1 flying bomb",
+  "industry": "(Vergeltungswaffen V-1 surface to surface",
+  "country": "Vergeltungswaffen V-1 surface to surface, air to surface jet bomb, also known as Fieseler Fi 103"
+ },
+ {
+  "name": "Wingcopter",
+  "industry": "178 Heavy Lift (Delivery Drone)."
+ },
+ {
+  "name": "BSK Defense",
+  "industry": "Erevos MALE reconnaissance UAV"
+ },
+ {
+  "name": "DELAER RX-3",
+  "industry": "surveillance and reconnaissance"
+ },
+ {
+  "name": "EADS 3 Sigma Nearchos",
+  "industry": "reconnaissance (1996)",
+  "country": "1996"
+ },
+ {
+  "name": "EAV (HAI) Ε1-79 Pegasos",
+  "industry": "reconnaissance (1982)",
+  "country": "1982"
+ },
+ {
+  "name": "EAV (HAI) Ε1-79 Pegasos II",
+  "industry": "reconnaissance (2005)",
+  "country": "2005"
+ },
+ {
+  "name": "HCUAV",
+  "industry": "surveillance UAV (2015)",
+  "country": "2015"
+ },
+ {
+  "name": "UCAV",
+  "industry": "Ypaspistis"
+ },
+ {
+  "name": "DRDO Nishant",
+  "industry": ""
+ },
+ {
+  "name": "DRDO Abhyas",
+  "industry": ""
+ },
+ {
+  "name": "DRDO Ghatak",
+  "industry": "(Stealth UCAV under development)",
+  "country": "Stealth UCAV under development"
+ },
+ {
+  "name": "HAL RUAV-200",
+  "industry": ""
+ },
+ {
+  "name": "Hermes 900",
+  "industry": "Adani Hermes 900 : Adani Groups manufactures Israeli drones."
+ },
+ {
+  "name": "Hal Cats",
+  "industry": ": Combat Air Teaming System including stealth UAV's."
+ },
+ {
+  "name": "DRDO Rustom",
+  "industry": ""
+ },
+ {
+  "name": "TAPAS-BH-201",
+  "industry": "(Rustom II)",
+  "country": "Rustom II"
+ },
+ {
+  "name": "DRDO Imperial Eagle",
+  "industry": ""
+ },
+ {
+  "name": "DRDO Kapothaka",
+  "industry": "thumb|DRDO Stealth UAV"
+ },
+ {
+  "name": "DRDO Lakshya",
+  "industry": ""
+ },
+ {
+  "name": "DRDO Netra",
+  "industry": ""
+ },
+ {
+  "name": "DRDO Ulka",
+  "industry": ""
+ },
+ {
+  "name": "IAI-HAL NRUAV",
+  "industry": ""
+ },
+ {
+  "name": "Maraal",
+  "industry": ""
+ },
+ {
+  "name": "NAL / ADE Black Kite",
+  "industry": ""
+ },
+ {
+  "name": "NAL / ADE Golden Hawk",
+  "industry": ""
+ },
+ {
+  "name": "NAL / ADE Pushpak",
+  "industry": ""
+ },
+ {
+  "name": "NAL Slybird",
+  "industry": ""
+ },
+ {
+  "name": "Pawan UAV",
+  "industry": ""
+ },
+ {
+  "name": "Badan Riset dan Inovasi Nasional",
+  "industry": "PUNA (Pesawat Udara Nir-Awak) Sriti"
+ },
+ {
+  "name": "LSU-02",
+  "industry": ", (Lapan Surveillance UAV-02), LSU-03, and LSU-05, made by Lembaga Antariksa dan Penerbangan Nasional, now part of Badan Riset dan Inovasi Nasional)"
+ },
+ {
+  "name": "Elang Hitam",
+  "industry": "(IAe Male UAV",
+  "country": "IAe Male UAV, Made by PT IAe - 2020"
+ },
+ {
+  "name": "alt=Various local-made drones at Indonesia Drone Expo 2024|thumb|Various drone showcased during Indonesia Drone Expo 2024. From top-left, clockwise: AMX UAV Vertic and Vertic XL; BETA UAS Raybe, Omnibe and IRIS; Aero Terra Indonesia AT-250.",
+  "industry": "LTD (Large Target Drone",
+  "country": "Large Target Drone, Made by PT Mandiri Mitra Muhibbah - 2006"
+ },
+ {
+  "name": "AMX UAV",
+  "industry": "AMX Vertic and Vertic XL (tail-sitter drone with 4 rotors for mapping/surveillance)"
+ },
+ {
+  "name": "Smart Transportation Solutions",
+  "industry": "Sekar Agri"
+ },
+ {
+  "name": "Beehive Drone",
+  "industry": "BVD-V25 (electric fixed-wing VTOL for surveillance)"
+ },
+ {
+  "name": "Aerro Terra Indonesia",
+  "industry": "AiV-330 (electric fixed-wing VTOL for surveillance)"
+ },
+ {
+  "name": "loitering munition",
+  "industry": "MiniBe (flying wing for mapping"
+ },
+ {
+  "name": "UGM",
+  "industry": "Palapa S1"
+ },
+ {
+  "name": "CIS",
+  "industry": "BGAC develops drones in China on helicopters & aircraft imported from USA"
+ },
+ {
+  "name": "Dassault nEUROn",
+  "industry": "(France/Sweden/Switzerland/Greece/Italy/Spain)",
+  "country": "France/Sweden/Switzerland/Greece/Italy/Spain"
+ },
+ {
+  "name": "EADS Barracuda",
+  "industry": "(Spain/Germany)",
+  "country": "Spain/Germany"
+ },
+ {
+  "name": "EADS Talarion",
+  "industry": ""
+ },
+ {
+  "name": "IAI-HAL NRUAV",
+  "industry": ""
+ },
+ {
+  "name": "Singular Aircraft SA03",
+  "industry": "(UK/Spain)",
+  "country": "UK/Spain"
+ },
+ {
+  "name": "HESA Ababil",
+  "industry": ""
+ },
+ {
+  "name": "Hemaseh",
+  "industry": ""
+ },
+ {
+  "name": "Karrar",
+  "industry": ""
+ },
+ {
+  "name": "Mobin",
+  "industry": ""
+ },
+ {
+  "name": "Meraj",
+  "industry": ""
+ },
+ {
+  "name": "Pars robot",
+  "industry": ""
+ },
+ {
+  "name": "Qods Mohajer",
+  "industry": ""
+ },
+ {
+  "name": "Qods Saeghe",
+  "industry": ""
+ },
+ {
+  "name": "Sarir",
+  "industry": ""
+ },
+ {
+  "name": "Shahbal",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 121",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 123",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 125",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 129",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 131",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 136",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 141",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 149",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 161",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 171",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 191",
+  "industry": ""
+ },
+ {
+  "name": "Shahed 197",
+  "industry": "<ref>{{cite web |url=https://theaviationist.com/2022/03/08/the-f-35i-adir-scored-first-air-to-air-kill-shooting-down-iranian-drones-last-year/ |title=The F-35I Adir Scored First Air-To-Air Kill Shooting Down Iranian Drones Last Year"
+ },
+ {
+  "name": "Shahed-238",
+  "industry": ""
+ },
+ {
+  "name": "Sofreh Mahi",
+  "industry": ""
+ },
+ {
+  "name": "Saegheh",
+  "industry": ""
+ },
+ {
+  "name": "Talash",
+  "industry": ""
+ },
+ {
+  "name": "Yasir UAV",
+  "industry": ""
+ },
+ {
+  "name": "Zohal",
+  "industry": ""
+ },
+ {
+  "name": "Kaman12",
+  "industry": ""
+ },
+ {
+  "name": "Kaman19",
+  "industry": ""
+ },
+ {
+  "name": "Kaman22",
+  "industry": ""
+ },
+ {
+  "name": "Arash UAV",
+  "industry": ""
+ },
+ {
+  "name": "Casper 250",
+  "industry": "Top I Vision"
+ },
+ {
+  "name": "Silver Arrow Micro-V",
+  "industry": ""
+ },
+ {
+  "name": "Silver Arrow Sniper",
+  "industry": ""
+ },
+ {
+  "name": "IAI Scout",
+  "industry": ""
+ },
+ {
+  "name": "IAI Harpy",
+  "industry": ""
+ },
+ {
+  "name": "IAI Harop",
+  "industry": ""
+ },
+ {
+  "name": "IAI I-View",
+  "industry": ""
+ },
+ {
+  "name": "IAI Panther",
+  "industry": ""
+ },
+ {
+  "name": "IAI Ranger",
+  "industry": "(with Switzerland)",
+  "country": "with Switzerland"
+ },
+ {
+  "name": "IAI Heron",
+  "industry": ""
+ },
+ {
+  "name": "IAI Eitan",
+  "industry": ""
+ },
+ {
+  "name": "AAI RQ-2 Pioneer",
+  "industry": "(with USA)",
+  "country": "with USA"
+ },
+ {
+  "name": "AAI RQ-7 Shadow",
+  "industry": ""
+ },
+ {
+  "name": "IAI Bird-Eye",
+  "industry": ""
+ },
+ {
+  "name": "Elbit Skylark",
+  "industry": ""
+ },
+ {
+  "name": "Elbit Hermes 90",
+  "industry": ""
+ },
+ {
+  "name": "Elbit Hermes 450",
+  "industry": ""
+ },
+ {
+  "name": "Elbit Hermes 900",
+  "industry": ""
+ },
+ {
+  "name": "Aeronautics Defense Dominator",
+  "industry": ""
+ },
+ {
+  "name": "Aeronautics Defense Orbiter",
+  "industry": ""
+ },
+ {
+  "name": "Tactical Robotics Cormorant",
+  "industry": ""
+ },
+ {
+  "name": "Tadiran Mastiff",
+  "industry": ""
+ },
+ {
+  "name": "Urban Aeronautics X-Hawk",
+  "industry": ""
+ },
+ {
+  "name": "Meteor, now SELEX Galileo Avionica",
+  "industry": "Mirach series (Mirach 26"
+ },
+ {
+  "name": "SELEX Galileo Avionica",
+  "industry": "NIBBIO"
+ },
+ {
+  "name": "SELEX Galileo Avionica",
+  "industry": "FALCO"
+ },
+ {
+  "name": "Alenia Aeronautica Sky-x",
+  "industry": ", research UCAV (2005)",
+  "country": "2005"
+ },
+ {
+  "name": "Alenia Aeronautica Sky-y",
+  "industry": ", research-reconnaissance MALE (2007)",
+  "country": "2007"
+ },
+ {
+  "name": "Alenia Aeronautica",
+  "industry": "Molynx/Black Lynx",
+  "country": "in development"
+ },
+ {
+  "name": "Alenia Aeronautica ITV",
+  "industry": ""
+ },
+ {
+  "name": "Mirach 26",
+  "industry": ""
+ },
+ {
+  "name": "Mirach 150",
+  "industry": ""
+ },
+ {
+  "name": "Nimbus EosXi",
+  "industry": ", Unmanned Aerial Vehicle in Hybrid airship configuration"
+ },
+ {
+  "name": "Piaggio P.1HH HammerHead",
+  "industry": ""
+ },
+ {
+  "name": "Selex ES Falco",
+  "industry": ""
+ },
+ {
+  "name": "Kawasaki KAQ-1",
+  "industry": ", target"
+ },
+ {
+  "name": "Yamaha R-MAX",
+  "industry": ", industrial"
+ },
+ {
+  "name": "Kawasaki Ki-147 I-Go-1A",
+  "industry": "(air to surface)",
+  "country": "air to surface"
+ },
+ {
+  "name": "Mitsubishi Ki-148 I-Go-1B",
+  "industry": "(air to surface)",
+  "country": "air to surface"
+ },
+ {
+  "name": "Jordan Falcon",
+  "industry": ""
+ },
+ {
+  "name": "Eagle ARV System",
+  "industry": ""
+ },
+ {
+  "name": "CTRM Aludra",
+  "industry": ""
+ },
+ {
+  "name": "S4 Ehécatl by Hydra Technologies",
+  "industry": ""
+ },
+ {
+  "name": "E1 Gavilán by Hydra Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Aviolanda AT-21",
+  "industry": ""
+ },
+ {
+  "name": "Mine Kafon Drone",
+  "industry": ""
+ },
+ {
+  "name": "Daily Post",
+  "industry": "GULMA (nonoperational)",
+  "country": "nonoperational"
+ },
+ {
+  "name": "Tsaigumi UAV",
+  "industry": ""
+ },
+ {
+  "name": "Robot Aviation",
+  "industry": "Aerobot Canard"
+ },
+ {
+  "name": "Robot Aviation",
+  "industry": "SkyRobot FX20"
+ },
+ {
+  "name": "Robot Aviation",
+  "industry": "SkyRobot FX450"
+ },
+ {
+  "name": "Black Hornet Nano",
+  "industry": "."
+ },
+ {
+  "name": "GIDS",
+  "industry": "HUMA",
+  "country": "Remote Sensing Drone"
+ },
+ {
+  "name": "GIDS Shahpar",
+  "industry": "— (Reconnaissance Drone)"
+ },
+ {
+  "name": "Shahpar-2",
+  "industry": "GIDS"
+ },
+ {
+  "name": "Shahpar-3",
+  "industry": "GIDS"
+ },
+ {
+  "name": "GIDS Uqab",
+  "industry": "— (Real Time Reconnaissance Drone)"
+ },
+ {
+  "name": "GIDS Uqab-II",
+  "industry": "— (Naval Variant of the Uqab)"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Border Eagle",
+  "country": "Surveillance Drone"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Explorer",
+  "country": "Civilian Drone"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Hawk MK-V",
+  "country": "Surveillance Drone"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Hornet",
+  "country": "Surveillance Drone"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Hummer",
+  "country": "Multicopter Drone"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Nishan MK-II and TJ-1000",
+  "country": "High-Speed Target Drone"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Rover MK-I & XS",
+  "country": "Civilian Scientific Data Gatherer Drone"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Shadow MK-II",
+  "country": "Surveillance Drone"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Tornado",
+  "country": "Decoy Drone"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Vector",
+  "country": "Surveillance Drone"
+ },
+ {
+  "name": "Integrated Dynamics",
+  "industry": "Vision MK-I and Mk-II",
+  "country": "Surveillance Drone"
+ },
+ {
+  "name": "NESCOM Burraq",
+  "industry": "— (Combat Drone)"
+ },
+ {
+  "name": "PAC",
+  "industry": "Ababeel",
+  "country": "Small Scale Target Drone"
+ },
+ {
+  "name": "PAC",
+  "industry": "Baaz",
+  "country": "Large Scale Target Drone"
+ },
+ {
+  "name": "PAC",
+  "industry": "Falco"
+ },
+ {
+  "name": "Jasoos",
+  "industry": "SATUMA I & Jasoos II Bravo+"
+ },
+ {
+  "name": "CEDEP-1",
+  "industry": ""
+ },
+ {
+  "name": "UAV FAP",
+  "industry": ""
+ },
+ {
+  "name": "Bot generated title -->",
+  "industry": "TUAV"
+ },
+ {
+  "name": "Casper 250/SOFAR",
+  "industry": ""
+ },
+ {
+  "name": "Pteryx UAV",
+  "industry": ""
+ },
+ {
+  "name": "SKNL PRz PR5 Wiewiór plus",
+  "industry": "- (Studenckie Koło Naukowe Lotników",
+  "country": "Studenckie Koło Naukowe Lotników, Politechnika Rzeszowska - SKNL PRz"
+ },
+ {
+  "name": "WB Electronics FlyEye",
+  "industry": ""
+ },
+ {
+  "name": "WB Electronics FT5-Łoś",
+  "industry": ""
+ },
+ {
+  "name": "WB Electronics Warmate",
+  "industry": ""
+ },
+ {
+  "name": "thumb|UAVision OGASSA OGS42 VTOL of the Portuguese Navy.",
+  "industry": "ANTEX-M"
+ },
+ {
+  "name": "Tekever",
+  "industry": "AR1"
+ },
+ {
+  "name": "Tekever",
+  "industry": "AR3"
+ },
+ {
+  "name": "Tekever",
+  "industry": "AR4"
+ },
+ {
+  "name": "Tekever",
+  "industry": "AR5"
+ },
+ {
+  "name": "PAIC Império SP1",
+  "industry": ""
+ },
+ {
+  "name": "UAVision",
+  "industry": "OGASSA OGS42"
+ },
+ {
+  "name": "UAVision",
+  "industry": "OGASSA OGS42V"
+ },
+ {
+  "name": "UAVision",
+  "industry": "UX SPYRO"
+ },
+ {
+  "name": "UAVision",
+  "industry": "WINGO"
+ },
+ {
+  "name": "UAVision",
+  "industry": "WINGO S"
+ },
+ {
+  "name": "Air Strato",
+  "industry": ""
+ },
+ {
+  "name": "Groza Group of Companies",
+  "industry": "Slon (en Elephant) heavy‑lift quadcopter"
+ },
+ {
+  "name": "Parodiya",
+  "industry": ", one type of decoy launched with Geran drones<ref>{{cite web"
+ },
+ {
+  "name": "Ushkuynik Prince Vandal of Novgorod",
+  "industry": "<ref>{{cite web"
+ },
+ {
+  "name": "ZALA",
+  "industry": "Izdeliye‑53 (Lancet successor)"
+ },
+ {
+  "name": "ZALA KUB‑BLA",
+  "industry": "(\"Kamikaze Cube\")",
+  "country": "not autonomous attack"
+ },
+ {
+  "name": "ZALA",
+  "industry": "Lancet-3"
+ },
+ {
+  "name": "Saqr 1",
+  "industry": ""
+ },
+ {
+  "name": "Saqr 2",
+  "industry": ""
+ },
+ {
+  "name": "Saqr 3",
+  "industry": ""
+ },
+ {
+  "name": "Saqr 4",
+  "industry": ""
+ },
+ {
+  "name": "PSATRI",
+  "industry": "UAV"
+ },
+ {
+  "name": "Pegaz",
+  "industry": "– combat drone"
+ },
+ {
+  "name": "Gavran 145",
+  "industry": "– loitering munition"
+ },
+ {
+  "name": "Osica",
+  "industry": "– loitering munition"
+ },
+ {
+  "name": "Vrabac",
+  "industry": "– reconnaissance drone"
+ },
+ {
+  "name": "ST Aero FanTail",
+  "industry": ""
+ },
+ {
+  "name": "ST Aero MAV-1",
+  "industry": ""
+ },
+ {
+  "name": "ST Aero Skyblade",
+  "industry": ""
+ },
+ {
+  "name": "C-Astral Aerospace Bramor C4EYE",
+  "industry": "ISR UAV - NATO Class I <150 kg Mini Tactical RPAS"
+ },
+ {
+  "name": "C-Astral Aerospace Atlas C4EYE",
+  "industry": "ISR UAV - NATO Class I <150 kg Mini Tactical RPAS"
+ },
+ {
+  "name": "C-Astral Aerospace SQA eVTOL",
+  "industry": "ISR UAV"
+ },
+ {
+  "name": "Denel Dynamics Seeker",
+  "industry": "- Tactical reconnaissance (a light air-to-ground missile is under development for it)",
+  "country": "a light air-to-ground missile is under development for it"
+ },
+ {
+  "name": "Denel Dynamics Skua",
+  "industry": "- Target drone"
+ },
+ {
+  "name": "ATE Vulture",
+  "industry": "- Artillery spotting/targeting UAV"
+ },
+ {
+  "name": "Denel Dynamics Bateleur",
+  "industry": "- MALE reconnaissance/elint UAV"
+ },
+ {
+  "name": "Milkor 380",
+  "industry": "- Multi-function UAV. Achieved its maiden flight on 19 September 2023"
+ },
+ {
+  "name": "RQ-101",
+  "industry": "Korea Aerospace "
+ },
+ {
+  "name": "Night Intruder 600VT",
+  "industry": "Korea Aerospace "
+ },
+ {
+  "name": "KUS-FS MALE",
+  "industry": "Korean Air Aerospace "
+ },
+ {
+  "name": "KUS-VH",
+  "industry": "Korean Air Aerospace "
+ },
+ {
+  "name": "KUS-FC",
+  "industry": "Korean Air Aerospace "
+ },
+ {
+  "name": "Aurea Avionics Seeker UAS",
+  "industry": ""
+ },
+ {
+  "name": "CONYCA GEODRONE",
+  "industry": ""
+ },
+ {
+  "name": "Aerovision Fulmar",
+  "industry": ""
+ },
+ {
+  "name": "EADS Barracuda",
+  "industry": "(with Germany)",
+  "country": "with Germany"
+ },
+ {
+  "name": "Sirtap",
+  "industry": "- (es:Sirtap)",
+  "country": "es:Sirtap"
+ },
+ {
+  "name": "Lihiniya MK I",
+  "industry": ""
+ },
+ {
+  "name": "Lihiniya MK II",
+  "industry": ""
+ },
+ {
+  "name": "Aeroscout Scout B1-100",
+  "industry": ""
+ },
+ {
+  "name": "Aurora Flight Sciences",
+  "industry": "Aurora Swiss Aerospace Skiron Expeditionary sUAS"
+ },
+ {
+  "name": "KZD-85",
+  "industry": ""
+ },
+ {
+  "name": "RUAG Ranger",
+  "industry": ""
+ },
+ {
+  "name": "Swiss UAV KOAX X-240",
+  "industry": ""
+ },
+ {
+  "name": "Swiss UAV NEO S-300",
+  "industry": ""
+ },
+ {
+  "name": "Swiss UAV NEO S-350",
+  "industry": ""
+ },
+ {
+  "name": "UMS Skeldar",
+  "industry": ""
+ },
+ {
+  "name": "SHARC",
+  "industry": ""
+ },
+ {
+  "name": "CybAero",
+  "industry": "APID 55"
+ },
+ {
+  "name": "NCSIST Albatross",
+  "industry": ""
+ },
+ {
+  "name": "NCSIST Cardinal I",
+  "industry": ""
+ },
+ {
+  "name": "NCSIST Cardinal II",
+  "industry": ""
+ },
+ {
+  "name": "NCSIST Fire Cardinal",
+  "industry": ""
+ },
+ {
+  "name": "NCSIST Chien Hsiang",
+  "industry": ""
+ },
+ {
+  "name": "NCSIST Teng Yun",
+  "industry": ""
+ },
+ {
+  "name": "AeroVironment RQ-11 Raven",
+  "industry": "(with US)",
+  "country": "with US"
+ },
+ {
+  "name": "IAI Searcher",
+  "industry": "(with Israel)",
+  "country": "with Israel"
+ },
+ {
+  "name": "Asisguard Songar",
+  "industry": ""
+ },
+ {
+  "name": "Aselsan",
+  "industry": "ARI-1T rotary-wing"
+ },
+ {
+  "name": "Bayraktar Akıncı",
+  "industry": ", UCAV under development"
+ },
+ {
+  "name": "Bayraktar Mini UAV",
+  "industry": "(Reconnaissance)",
+  "country": "Reconnaissance"
+ },
+ {
+  "name": "Bayraktar Kızılelma",
+  "industry": "(UCAV under development)",
+  "country": "UCAV under development"
+ },
+ {
+  "name": "Bayraktar Tactical UAV",
+  "industry": "(Reconnaissance and surveillance)",
+  "country": "Reconnaissance and surveillance"
+ },
+ {
+  "name": "Bayraktar TB2",
+  "industry": "UCAV"
+ },
+ {
+  "name": "Bayraktar TB3",
+  "industry": "UCAV"
+ },
+ {
+  "name": "Bayraktar VTOL",
+  "industry": ""
+ },
+ {
+  "name": "Malazgirt",
+  "industry": "Baykar Mini VTOL (Reconnaissance and surveillance)",
+  "country": "Reconnaissance and surveillance"
+ },
+ {
+  "name": "VTOL",
+  "industry": "UAVERA Çağatay CGT50 UAS used by General Directorate of Security (Turkey)",
+  "country": "Turkey"
+ },
+ {
+  "name": "Havelsan BAHA",
+  "industry": ","
+ },
+ {
+  "name": "Havelsan Bulut",
+  "industry": ","
+ },
+ {
+  "name": "VTOL",
+  "industry": "LAPİS ULAK VTL 02 - Armed UAV integrated with TUBITAK-SAGE TOGAN - Air-to-surface launched 81 mm mortar munition"
+ },
+ {
+  "name": "STM Kargu",
+  "industry": ""
+ },
+ {
+  "name": "TAI Aksungur",
+  "industry": ""
+ },
+ {
+  "name": "TAI Anka-A (MALE) UAV",
+  "industry": ""
+ },
+ {
+  "name": "TAI Anka-B (MALE)",
+  "industry": "UCAV"
+ },
+ {
+  "name": "TAI Anka-3",
+  "industry": ""
+ },
+ {
+  "name": "TAI Baykuş",
+  "industry": ""
+ },
+ {
+  "name": "TAI Gözcü",
+  "industry": "(Short-range tactical reconnaissance",
+  "country": "Short-range tactical reconnaissance, surveillance, target acquisition"
+ },
+ {
+  "name": "TAI Keklik",
+  "industry": ""
+ },
+ {
+  "name": "TAI Martı",
+  "industry": ""
+ },
+ {
+  "name": "TAI Pelikan",
+  "industry": "(Reconnaissance",
+  "country": "Reconnaissance, surveillance, target acquisition"
+ },
+ {
+  "name": "TAI Şimşek",
+  "industry": "(Turbojet powered",
+  "country": "Turbojet powered, high-speed aerial target drone, threat simulator"
+ },
+ {
+  "name": "TAI Turna-G",
+  "industry": "(Turboprop powered",
+  "country": "Turboprop powered, medium-speed target drone"
+ },
+ {
+  "name": "Vestel Karayel",
+  "industry": "(Tactical UAV/UCAV)",
+  "country": "Tactical UAV/UCAV"
+ },
+ {
+  "name": "A1-CM Furia",
+  "industry": ""
+ },
+ {
+  "name": "ACE One",
+  "industry": "(Stealth UCAV)",
+  "country": "Stealth UCAV"
+ },
+ {
+  "name": "Aerorozvidka",
+  "industry": "R12 quadcopter"
+ },
+ {
+  "name": "Aerorozvidka",
+  "industry": "R18 octocopter"
+ },
+ {
+  "name": "Bullet",
+  "industry": ""
+ },
+ {
+  "name": "Bober (drone)",
+  "industry": ""
+ },
+ {
+  "name": "General Cherry",
+  "industry": "AIR Pro main interceptor of anti-personnel drones"
+ },
+ {
+  "name": "First Contact Osa",
+  "industry": ""
+ },
+ {
+  "name": "Jedi Shahed Hunter",
+  "industry": ""
+ },
+ {
+  "name": "Leleka-100",
+  "industry": ""
+ },
+ {
+  "name": "Liutyi",
+  "industry": "An-196 main long range drone"
+ },
+ {
+  "name": "OSIRIS UEB-1",
+  "industry": ""
+ },
+ {
+  "name": "ODIN (miltech project)",
+  "industry": "Win_Hit<ref>{{cite web"
+ },
+ {
+  "name": "Ptashka",
+  "industry": "(en: little bird) Variants: 5"
+ },
+ {
+  "name": "PD-2",
+  "industry": ""
+ },
+ {
+  "name": "Punisher (drone)",
+  "industry": ""
+ },
+ {
+  "name": "Raybird-3",
+  "industry": ""
+ },
+ {
+  "name": "SkyFall",
+  "industry": "<ref name=\"Bavovna-SkyFallCompany\">{{cite web"
+ },
+ {
+  "name": "Sokil-300",
+  "industry": ""
+ },
+ {
+  "name": "Shark (drone)",
+  "industry": ""
+ },
+ {
+  "name": "Strategy Force Solution",
+  "industry": "GOGOL-M long range"
+ },
+ {
+  "name": "Swarmer",
+  "industry": "makes the Styx AI swarm engine which clears a grid by recon calculating how bombers divvy up the personnel. (In Ukraine"
+ },
+ {
+  "name": "Ukrainian Special Military Technologies (USMT)",
+  "industry": "Hunter D-15 BOMBER ELRS (Express Long Range System) open-source Radio Control (RC with 50 km+ range) hopping link"
+ },
+ {
+  "name": "Ukrspecsystems",
+  "industry": "Octopus-100 C-UAS AI vision<ref name=\"GovUKOctopus\">"
+ },
+ {
+  "name": "Vyriy Industries",
+  "industry": "(en: swarm) Vyriy-10-TFL-1 (AFU reporting name: Molfar)"
+ },
+ {
+  "name": "Wild Hornets",
+  "industry": "Sting main interceptor of long range drones"
+ },
+ {
+  "name": "Adcom Systems",
+  "industry": "Yabhon"
+ },
+ {
+  "name": "Airspeed Queen Wasp",
+  "industry": "(1936)",
+  "country": "1936"
+ },
+ {
+  "name": "ArduCopter",
+  "industry": ""
+ },
+ {
+  "name": "BAE Systems Ampersand",
+  "industry": ", reconnaissance (2008)",
+  "country": "2008"
+ },
+ {
+  "name": "BAE Systems Corax",
+  "industry": ", research (2004)",
+  "country": "2004"
+ },
+ {
+  "name": "BAE Systems Fury",
+  "industry": ", reconnaissance/attack (2008)",
+  "country": "2008"
+ },
+ {
+  "name": "BAE Systems GA22",
+  "industry": ""
+ },
+ {
+  "name": "BAE Systems HERTI",
+  "industry": ", reconnaissance (2004)",
+  "country": "2004"
+ },
+ {
+  "name": "BAE Systems Mantis",
+  "industry": ", research, (planned)",
+  "country": "planned"
+ },
+ {
+  "name": "BAE Systems Skylynx II",
+  "industry": ", reconnaissance (2006)",
+  "country": "2006"
+ },
+ {
+  "name": "BAE Systems Taranis",
+  "industry": ", research (planned)",
+  "country": "planned"
+ },
+ {
+  "name": "BAE Systems Magma",
+  "industry": ", blown air research platform."
+ },
+ {
+  "name": "BAE Systems Demon",
+  "industry": ", based on a BAE Eclipse drone"
+ },
+ {
+  "name": "BAE Systems Phoenix",
+  "industry": ", reconnaissance (1986)",
+  "country": "1986"
+ },
+ {
+  "name": "BAE Systems PHASA-35",
+  "industry": ""
+ },
+ {
+  "name": "de Havilland Queen Bee",
+  "industry": "(1930s) - gunnery target"
+ },
+ {
+  "name": "English Electric Canberra U Mk.10",
+  "industry": ""
+ },
+ {
+  "name": "EMC Operations Dimorphodon",
+  "industry": ", dormancy and constriction UAS."
+ },
+ {
+  "name": "Fairey Queen",
+  "industry": "(1930s) - gunnery target"
+ },
+ {
+  "name": "Gloster Meteor",
+  "industry": ", U Mk.15, U Mk.16 and U Mk.21 - conversion to target drone"
+ },
+ {
+  "name": "Miles Queen Martinet",
+  "industry": "(1940s)",
+  "country": "1940s"
+ },
+ {
+  "name": "ML Aviation",
+  "industry": "Pilotless Target (1950s) - to MoS specification U120D"
+ },
+ {
+  "name": "Novel Air Concept",
+  "industry": ", research, (under construction)",
+  "country": "under construction"
+ },
+ {
+  "name": "Prioria Robotics Maveric",
+  "industry": ""
+ },
+ {
+  "name": "QinetiQ Banshee",
+  "industry": ", formerly Target Technology Ltd, then Meggitt, Banshee - target drone, and reconnaissance (1984–present)",
+  "country": "1984–present"
+ },
+ {
+  "name": "QinetiQ Mercator",
+  "industry": ", research (in development)",
+  "country": "in development"
+ },
+ {
+  "name": "QinetiQ Zephyr",
+  "industry": ", high-altitude long-endurance (in development)",
+  "country": "in development"
+ },
+ {
+  "name": "RAE LARYNX",
+  "industry": "(1927–1929) - guided anti-ship weapon"
+ },
+ {
+  "name": "R.F.C. 1917 Aerial Target",
+  "industry": "The first drone aircraft"
+ },
+ {
+  "name": "Singular Aircraft SA03",
+  "industry": "(UK/Spain)",
+  "country": "UK/Spain"
+ },
+ {
+  "name": "Thales Watchkeeper WK450",
+  "industry": ", reconnaissance (2005)",
+  "country": "2005"
+ },
+ {
+  "name": "UB.109T",
+  "industry": "(1950s) - project for long range unpiloted bomb"
+ },
+ {
+  "name": "Westland Wisp",
+  "industry": "- experimental unmanned coaxial helicopter for urban reconnaissance 1976"
+ },
+ {
+  "name": "AAI RQ-2 Pioneer",
+  "industry": ", reconnaissance (1986)",
+  "country": "1986"
+ },
+ {
+  "name": "AAI RQ-7 Shadow",
+  "industry": ", reconnaissance (1999)",
+  "country": "1999"
+ },
+ {
+  "name": "AIRS Seeker Wing",
+  "industry": ""
+ },
+ {
+  "name": "Aerojet General MQM-58 Overseer",
+  "industry": ""
+ },
+ {
+  "name": "Aerojet AN/USD-2",
+  "industry": ""
+ },
+ {
+  "name": "Aerojet SD-2",
+  "industry": ""
+ },
+ {
+  "name": "Aero Telemetry H-1 Racer",
+  "industry": ", Commercial, medium endurance, for Hollywood Film Use (2003)",
+  "country": "2003"
+ },
+ {
+  "name": "Aero Telemetry XF-11",
+  "industry": ", Commercial, medium endurance, for Hollywood Film Use (2003)",
+  "country": "2003"
+ },
+ {
+  "name": "Aero Telemetry H-4 Hercules",
+  "industry": ", Commercial for Hollywood Film Use (2003)",
+  "country": "2003"
+ },
+ {
+  "name": "AeroVironment FQM-151 Pointer",
+  "industry": ""
+ },
+ {
+  "name": "AeroVironment RQ-11 Raven",
+  "industry": ", reconnaissance (2005)",
+  "country": "2005"
+ },
+ {
+  "name": "AeroVironment RQ-14 Dragon Eye",
+  "industry": ", reconnaissance (2002)",
+  "country": "2002"
+ },
+ {
+  "name": "AeroVironment RQ-20 Puma",
+  "industry": ", reconnaissance (2007)",
+  "country": "2007"
+ },
+ {
+  "name": "AeroVironment Nano Hummingbird",
+  "industry": ""
+ },
+ {
+  "name": "AeroVironment SkyTote",
+  "industry": ""
+ },
+ {
+  "name": "AeroVironment Switchblade-600",
+  "industry": ", Replicator funded"
+ },
+ {
+  "name": "AeroVironment Wasp III",
+  "industry": ", reconnaissance (2001)",
+  "country": "2001"
+ },
+ {
+  "name": "Alliant RQ-6 Outrider",
+  "industry": ", reconnaissance (1996)",
+  "country": "1996"
+ },
+ {
+  "name": "American Dynamics AD-150",
+  "industry": ", reconnaissance, attack"
+ },
+ {
+  "name": "Anduril",
+  "industry": "ALTIUS™-600M (not in the database of USPTO Tess"
+ },
+ {
+  "name": "Anduril",
+  "industry": "Bolt-M"
+ },
+ {
+  "name": "Anduril Ghost-X",
+  "industry": "SOCOM"
+ },
+ {
+  "name": "Anduril FQ-44 Fury",
+  "industry": ", Collaborative Combat Aircraft (CCA), Replicator funded"
+ },
+ {
+  "name": "Applied Aeronautics Albatross UAV",
+  "industry": ""
+ },
+ {
+  "name": "AQM-127 SLAT",
+  "industry": ""
+ },
+ {
+  "name": "AQM-128",
+  "industry": ""
+ },
+ {
+  "name": "Arcturus T-20",
+  "industry": ", reconnaissance, attack (2009)",
+  "country": "2009"
+ },
+ {
+  "name": "ASSET (spacecraft)",
+  "industry": ""
+ },
+ {
+  "name": "ATAIR Insect",
+  "industry": ""
+ },
+ {
+  "name": "ATAIR LEAPP",
+  "industry": ""
+ },
+ {
+  "name": "ATAIR Micro LEAPP",
+  "industry": ""
+ },
+ {
+  "name": "AUM-N-2 Petrel",
+  "industry": ""
+ },
+ {
+  "name": "Aurora Goldeneye",
+  "industry": ""
+ },
+ {
+  "name": "Aurora Flight Sciences Orion",
+  "industry": ""
+ },
+ {
+  "name": "Auterion GS",
+  "industry": "(San Diego County) quadcopter (custom test)",
+  "country": "EFP"
+ },
+ {
+  "name": "BAE Systems Silver Fox",
+  "industry": ""
+ },
+ {
+  "name": "BAE Systems SkyEye",
+  "industry": "(with the United Kingdom)",
+  "country": "1973"
+ },
+ {
+  "name": "BAE Systems Skylynx II",
+  "industry": ""
+ },
+ {
+  "name": "BAI BQM-147 Dragon",
+  "industry": "reconnaissance (1986)",
+  "country": "1986"
+ },
+ {
+  "name": "Beechcraft AQM-37A",
+  "industry": ""
+ },
+ {
+  "name": "Beechcraft Model 1019",
+  "industry": "Designated AQM-37A by the United States Military"
+ },
+ {
+  "name": "Beechcraft Model 1025 Cardinal",
+  "industry": ""
+ },
+ {
+  "name": "Beechcraft Model Model 1072",
+  "industry": "United Kingdom variant"
+ },
+ {
+  "name": "Beechcraft Model Model 1088",
+  "industry": "Italian variant"
+ },
+ {
+  "name": "Beechcraft Model Model 1094",
+  "industry": ""
+ },
+ {
+  "name": "Beechcraft KD2B-1",
+  "industry": ""
+ },
+ {
+  "name": "Beechcraft Q-12",
+  "industry": ""
+ },
+ {
+  "name": "Beechcraft AQM-37 Jayhawk",
+  "industry": ", target (1961)",
+  "country": "1961"
+ },
+ {
+  "name": "Beechcraft MQM-61 Cardinal",
+  "industry": ""
+ },
+ {
+  "name": "Beechcraft MQM-61A Cardinal",
+  "industry": ", target (1959)",
+  "country": "1959"
+ },
+ {
+  "name": "Beechcraft MQM-107 Streaker",
+  "industry": "(1974)",
+  "country": "1974"
+ },
+ {
+  "name": "Bell Eagle Eye",
+  "industry": ", tiltrotor reconnaissance (1998) (cancelled)",
+  "country": "cancelled"
+ },
+ {
+  "name": "Boeing A160 Hummingbird",
+  "industry": ", research (2005)",
+  "country": "2005"
+ },
+ {
+  "name": "Boeing CQM-121 Pave Tiger",
+  "industry": ", anti-radar drone (1983)",
+  "country": "1983"
+ },
+ {
+  "name": "Boeing Condor",
+  "industry": ", reconnaissance (1988)",
+  "country": "1988"
+ },
+ {
+  "name": "Boeing Dominator",
+  "industry": ", experimental (2007) -Persistent Munition Technology Demonstrator-"
+ },
+ {
+  "name": "Boeing HALE",
+  "industry": "Under development"
+ },
+ {
+  "name": "Boeing Insitu RQ-21 Blackjack",
+  "industry": ""
+ },
+ {
+  "name": "Boeing Phantom Eye",
+  "industry": ", reconnaissance (2011)",
+  "country": "2011"
+ },
+ {
+  "name": "Boeing Phantom Ray",
+  "industry": ""
+ },
+ {
+  "name": "Boeing Insitu ScanEagle",
+  "industry": ", reconnaissance (2004)",
+  "country": "2004"
+ },
+ {
+  "name": "Boeing SolarEagle",
+  "industry": ""
+ },
+ {
+  "name": "Boeing X-37",
+  "industry": ""
+ },
+ {
+  "name": "Boeing X-45",
+  "industry": ", research (2002)",
+  "country": "2002"
+ },
+ {
+  "name": "Boeing X-46",
+  "industry": ", research (2003)",
+  "country": "2003"
+ },
+ {
+  "name": "Boeing X-48",
+  "industry": ""
+ },
+ {
+  "name": "Boeing X-50",
+  "industry": ", research (2003)",
+  "country": "2003"
+ },
+ {
+  "name": "Boeing X-51",
+  "industry": ""
+ },
+ {
+  "name": "Boeing YQM-94A Compass Cope B",
+  "industry": ", reconnaissance (1973)",
+  "country": "1973"
+ },
+ {
+  "name": "BQM-90",
+  "industry": ", target (1970)",
+  "country": "1970"
+ },
+ {
+  "name": "Brunswick-Balke-Collender OQ-4",
+  "industry": ""
+ },
+ {
+  "name": "Chance-Vought KD2U-1 Regulus II",
+  "industry": ""
+ },
+ {
+  "name": "Composite Engineering BQM-167 Streaker",
+  "industry": ", in development (2006)",
+  "country": "2006"
+ },
+ {
+  "name": "Composite Engineering MQM-107 Streaker",
+  "industry": ""
+ },
+ {
+  "name": "Cornelius XBG-3",
+  "industry": ""
+ },
+ {
+  "name": "Culver PQ-8",
+  "industry": ""
+ },
+ {
+  "name": "Culver PQ-10",
+  "industry": ""
+ },
+ {
+  "name": "Culver PQ-14 Cadet",
+  "industry": ""
+ },
+ {
+  "name": "Culver XPQ-15",
+  "industry": ""
+ },
+ {
+  "name": "Culver Q-8",
+  "industry": ""
+ },
+ {
+  "name": "Culver TDC",
+  "industry": ""
+ },
+ {
+  "name": "Culver TD2C",
+  "industry": ""
+ },
+ {
+  "name": "Culver TD3C",
+  "industry": ""
+ },
+ {
+  "name": "Culver Model V, TD4C",
+  "industry": ""
+ },
+ {
+  "name": "Curtiss KD2C Skeet",
+  "industry": ""
+ },
+ {
+  "name": "Curtiss TDU-12/B Skydart",
+  "industry": ""
+ },
+ {
+  "name": "Cyber Defence CyberScout",
+  "industry": ""
+ },
+ {
+  "name": "DARPA",
+  "industry": "-USN Tactically Exploited Reconnaissance Node ISR UAV"
+ },
+ {
+  "name": "DARPA Vulture",
+  "industry": ", under development"
+ },
+ {
+  "name": "DRS RQ-15 Neptune",
+  "industry": ", naval reconnaissance (2002)",
+  "country": "2002"
+ },
+ {
+  "name": "DRS Sentry HP",
+  "industry": ""
+ },
+ {
+  "name": "DSI/NASA Oblique Wing RPV",
+  "industry": ""
+ },
+ {
+  "name": "Excalibur unmanned aerial vehicle",
+  "industry": ""
+ },
+ {
+  "name": "Fairchild SM-73 Bull Goose (WS-123A Goose)",
+  "industry": ""
+ },
+ {
+  "name": "Facebook Aquila",
+  "industry": ""
+ },
+ {
+  "name": "Fairchild BQ-3",
+  "industry": ""
+ },
+ {
+  "name": "Fairchild SD-5 Osprey",
+  "industry": ""
+ },
+ {
+  "name": "Fleetwings BQ-1",
+  "industry": ""
+ },
+ {
+  "name": "Fleetwings BQ-2",
+  "industry": ""
+ },
+ {
+  "name": "Fleetwings PQ-12",
+  "industry": ""
+ },
+ {
+  "name": "Fletcher FBT-2",
+  "industry": ""
+ },
+ {
+  "name": "Freefly Systems ALTA",
+  "industry": ", aerial cinematography"
+ },
+ {
+  "name": "Freewing Scorpion",
+  "industry": ""
+ },
+ {
+  "name": "General Atomics ALTUS",
+  "industry": ", research (1996)",
+  "country": "1996"
+ },
+ {
+  "name": "General Atomics Avenger",
+  "industry": ", reconnaissance, attack (2009)",
+  "country": "2009"
+ },
+ {
+  "name": "General Atomics Gnat",
+  "industry": "-750",
+  "country": "1989"
+ },
+ {
+  "name": "General Atomics MQ-1 Predator",
+  "industry": ""
+ },
+ {
+  "name": "General Atomics MQ-1C Grey Eagle",
+  "industry": ", air attack (2009)",
+  "country": "2009"
+ },
+ {
+  "name": "General Atomics MQ-9 Reaper",
+  "industry": ", reconnaissance, air attack (2006)",
+  "country": "2006"
+ },
+ {
+  "name": "General Atomics MQ-20ER Avenger",
+  "industry": ", Shield Hivemind AI, \"loyal wingman\" swarm control, retractable EO/IR, RCS, FL50, 20 hrs, 400 mph, 8000 mi, stealthy internal bay & S‑shaped exhaust, 3500 lb conventional"
+ },
+ {
+  "name": "General Atomics RQ-1 Predator",
+  "industry": ", reconnaissance, combat (1995)",
+  "country": "1995"
+ },
+ {
+  "name": "General Atomics YFQ-42",
+  "industry": ""
+ },
+ {
+  "name": "General Atomics XQ-67A",
+  "industry": ", under development"
+ },
+ {
+  "name": "Global Observer",
+  "industry": ", under development"
+ },
+ {
+  "name": "Globe KD2G Firefly",
+  "industry": ", target (1946)",
+  "country": "1946"
+ },
+ {
+  "name": "Globe KD4G Quail",
+  "industry": ", target (1949)",
+  "country": "1949"
+ },
+ {
+  "name": "Globe KD5G",
+  "industry": ", target (1949)",
+  "country": "1949"
+ },
+ {
+  "name": "Globe KD6G Firefly",
+  "industry": ", target (1951)",
+  "country": "1951"
+ },
+ {
+  "name": "Globe KDG Snipe",
+  "industry": ", target (1946)",
+  "country": "1946"
+ },
+ {
+  "name": "Gorgon (missile family)",
+  "industry": ""
+ },
+ {
+  "name": "Griffon Outlaw",
+  "industry": ""
+ },
+ {
+  "name": "Griffon Outlaw G2",
+  "industry": ""
+ },
+ {
+  "name": "Griffon Outlaw Seahunter",
+  "industry": ""
+ },
+ {
+  "name": "Gyrodyne QH-50 DASH",
+  "industry": "or Drone Anti-Submarine Helicopter"
+ },
+ {
+  "name": "Hewitt-Sperry Automatic Airplane",
+  "industry": ", weapon (1917)",
+  "country": "1917"
+ },
+ {
+  "name": "Honeywell RQ-16 T-Hawk",
+  "industry": ", reconnaissance (2006)",
+  "country": "2006"
+ },
+ {
+  "name": "IAI RQ-5 Hunter",
+  "industry": ", reconnaissance (1999)",
+  "country": "1999"
+ },
+ {
+  "name": "Imaging 1 micro UAV",
+  "industry": ""
+ },
+ {
+  "name": "Insectothopter",
+  "industry": ""
+ },
+ {
+  "name": "Interstate TDR",
+  "industry": ""
+ },
+ {
+  "name": "Interstate XBDR",
+  "industry": ""
+ },
+ {
+  "name": "Insitu Aerosonde",
+  "industry": ""
+ },
+ {
+  "name": "KQ-X",
+  "industry": ""
+ },
+ {
+  "name": "Kettering Bug",
+  "industry": ", weapon (1918)",
+  "country": "1918"
+ },
+ {
+  "name": "Kratos XQ-58 Valkyrie",
+  "industry": ""
+ },
+ {
+  "name": "Lethal Miniature Aerial Missile System",
+  "industry": ""
+ },
+ {
+  "name": "Lockheed AQM-60 Kingfisher",
+  "industry": ""
+ },
+ {
+  "name": "Lockheed D-21",
+  "industry": ", reconnaissance (1964)",
+  "country": "1964"
+ },
+ {
+  "name": "Lockheed Indago 3",
+  "industry": "<ref>{{Cite web"
+ },
+ {
+  "name": "Lockheed Martin Desert Hawk",
+  "industry": ", reconnaissance (2001)",
+  "country": "2001"
+ },
+ {
+  "name": "Lockheed Martin Desert Hawk III",
+  "industry": ""
+ },
+ {
+  "name": "Lockheed Martin MPUAV Cormorant",
+  "industry": "(cancelled)",
+  "country": "cancelled"
+ },
+ {
+  "name": "Lockheed Martin P-175 Polecat",
+  "industry": ", research (2006)",
+  "country": "2006"
+ },
+ {
+  "name": "Lockheed Martin RQ-170 Sentinel",
+  "industry": ", reconnaissance (2009)",
+  "country": "2009"
+ },
+ {
+  "name": "Lockheed Martin RQ-3 DarkStar",
+  "industry": ", research (1996)",
+  "country": "1996"
+ },
+ {
+  "name": "Lockheed Martin Sea Ghost",
+  "industry": ""
+ },
+ {
+  "name": "Lockheed Martin Stalker",
+  "industry": ""
+ },
+ {
+  "name": "Lockheed Martin X-44 (UAV)",
+  "industry": ""
+ },
+ {
+  "name": "Lockheed Martin X-56",
+  "industry": ""
+ },
+ {
+  "name": "Lockheed MQM-105 Aquila",
+  "industry": "experimental Lockheed UAV"
+ },
+ {
+  "name": "Lockheed Aequare",
+  "industry": ""
+ },
+ {
+  "name": "LTV XQM-93",
+  "industry": ""
+ },
+ {
+  "name": "MA-31",
+  "industry": ""
+ },
+ {
+  "name": "Marcus UAV Devil Ray",
+  "industry": ""
+ },
+ {
+  "name": "Martin X-23 PRIME",
+  "industry": ""
+ },
+ {
+  "name": "Martin Marietta Model 845",
+  "industry": ""
+ },
+ {
+  "name": "McDonnell KDD, TD2D Katydid",
+  "industry": ""
+ },
+ {
+  "name": "McDonnell KSD Gargoyle",
+  "industry": ""
+ },
+ {
+  "name": "McDonnell ADM-20 Quail",
+  "industry": ", decoy (1958)",
+  "country": "1958"
+ },
+ {
+  "name": "McDonnell Douglas X-36",
+  "industry": ""
+ },
+ {
+  "name": "MMIST CQ-10 Snowgoose",
+  "industry": ", cargo (2005)",
+  "country": "2005"
+ },
+ {
+  "name": "MQ-25 Stingray",
+  "industry": ""
+ },
+ {
+  "name": "MTC MQ-17 SpyHawk",
+  "industry": ""
+ },
+ {
+  "name": "Nano Hummingbird",
+  "industry": ", surveillance and reconnaissance (2011)",
+  "country": "2011"
+ },
+ {
+  "name": "NASA Advanced Soaring Concepts Apex",
+  "industry": "research (cancelled before first flight",
+  "country": "cancelled before first flight, 1999"
+ },
+ {
+  "name": "NASA Centurion",
+  "industry": ""
+ },
+ {
+  "name": "NASA GL-10 Greased Lightning",
+  "industry": ""
+ },
+ {
+  "name": "NASA Helios",
+  "industry": ""
+ },
+ {
+  "name": "NASA Hyper III",
+  "industry": ""
+ },
+ {
+  "name": "NASA Mini-Sniffer",
+  "industry": ", research (1975 to 1982)",
+  "country": "1975 to 1982"
+ },
+ {
+  "name": "NASA Pathfinder",
+  "industry": ", research (2001)",
+  "country": "2001"
+ },
+ {
+  "name": "Naval Aircraft Factory TDN",
+  "industry": ""
+ },
+ {
+  "name": "Naval Research Laboratory Flyrt",
+  "industry": ""
+ },
+ {
+  "name": "North American X-10",
+  "industry": ", research (1953)",
+  "country": "1953"
+ },
+ {
+  "name": "North American MQM-42 Redhead-Roadrunner",
+  "industry": ""
+ },
+ {
+  "name": "Northrop RP-71",
+  "industry": ""
+ },
+ {
+  "name": "Northrop RP-76",
+  "industry": ""
+ },
+ {
+  "name": "Northrop AQM-35",
+  "industry": ", target (1956)",
+  "country": "1956"
+ },
+ {
+  "name": "Northrop AQM-38",
+  "industry": ", target (1959)",
+  "country": "1959"
+ },
+ {
+  "name": "Northrop BQM-74A Chukar",
+  "industry": ", target, decoy (1964)",
+  "country": "1964"
+ },
+ {
+  "name": "Northrop GAM-67 Crossbow",
+  "industry": ", multi-role (1956)",
+  "country": "1956"
+ },
+ {
+  "name": "Northrop MQM-74A Chukar",
+  "industry": ", target, decoy (1964)",
+  "country": "1964"
+ },
+ {
+  "name": "Northrop Grumman MQ-8 Fire Scout",
+  "industry": ", reconnaissance (2000)",
+  "country": "2000"
+ },
+ {
+  "name": "Northrop Grumman MQ-8C Fire Scout",
+  "industry": ""
+ },
+ {
+  "name": "Northrop Grumman RQ-4 Global Hawk",
+  "industry": ", reconnaissance (2001)",
+  "country": "2001"
+ },
+ {
+  "name": "Northrop Grumman RQ-180",
+  "industry": ", intelligence, surveillance and reconnaissance (2013)",
+  "country": "2013"
+ },
+ {
+  "name": "Northrop Grumman",
+  "industry": "Tactically Exploited Reconnaissance Node ISR UAV"
+ },
+ {
+  "name": "Northrop Grumman X-47A Pegasus",
+  "industry": ", research (2003)",
+  "country": "2003"
+ },
+ {
+  "name": "Northrop Grumman X-47B",
+  "industry": "flight proven prototype (2013)",
+  "country": "2013"
+ },
+ {
+  "name": "Northrop Grumman X-47C",
+  "industry": ""
+ },
+ {
+  "name": "Northrop MQM-74A Chukar",
+  "industry": ", target, decoy (1964)",
+  "country": "1964"
+ },
+ {
+  "name": "Northrop XBQM-108",
+  "industry": ""
+ },
+ {
+  "name": "Northrop NV-144",
+  "industry": ""
+ },
+ {
+  "name": "Northrop Grumman Bat",
+  "industry": ""
+ },
+ {
+  "name": "Northrop Grumman Firebird",
+  "industry": ""
+ },
+ {
+  "name": "NSRDC BQM-108",
+  "industry": ""
+ },
+ {
+  "name": "Octatron SkySeer",
+  "industry": ""
+ },
+ {
+  "name": "Oregon Iron Works Sea Scout",
+  "industry": ""
+ },
+ {
+  "name": "Piccolissimo",
+  "industry": ""
+ },
+ {
+  "name": "Piper LBP",
+  "industry": ""
+ },
+ {
+  "name": "Pratt-Read LBE",
+  "industry": ""
+ },
+ {
+  "name": "Prioria Robotics Maveric",
+  "industry": ""
+ },
+ {
+  "name": "Project AQUILINE",
+  "industry": ""
+ },
+ {
+  "name": "Propulsive Wing",
+  "industry": ", high lift, large cargo-carrying, cross-flow fan propulsion (2008)",
+  "country": "2008"
+ },
+ {
+  "name": "Radioplane TDD-1",
+  "industry": ", target (1939)",
+  "country": "1939"
+ },
+ {
+  "name": "Radioplane OQ-1",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane OQ-2",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane OQ-3",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane OQ-6",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane OQ-7",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane OQ-13",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane OQ-14",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane OQ-17",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane OQ-19",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane Q-1",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane Q-3",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-1",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-2",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-3",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-4",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-5",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-70",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-71 Falconer",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-76",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-77",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-78",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane RP-86",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane Dennymite",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane XKD4R",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane MQM-33",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane MQM-36 Shelduck",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane AQM-38",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane MQM-57 Falconer",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane KD2R Quail",
+  "industry": ""
+ },
+ {
+  "name": "Radioplane BTT",
+  "industry": ""
+ },
+ {
+  "name": "Republic SD-3 Snooper",
+  "industry": ""
+ },
+ {
+  "name": "Republic SD-4 Swallow",
+  "industry": ""
+ },
+ {
+  "name": "Resolute Eagle",
+  "industry": ", reconnaissance (2016)",
+  "country": "2016"
+ },
+ {
+  "name": "RoboSeed Nano",
+  "industry": ""
+ },
+ {
+  "name": "Rockwell HiMAT",
+  "industry": ". research",
+  "country": "1979"
+ },
+ {
+  "name": "RTX",
+  "industry": "Coyote LE SR Air-Launched Effects (ALE)",
+  "country": "ALE"
+ },
+ {
+  "name": "Ryan AQM-34 Firebee",
+  "industry": ", target (1951)",
+  "country": "1951"
+ },
+ {
+  "name": "Ryan AQM-81A Firebolt",
+  "industry": ", target (1983)",
+  "country": "1983"
+ },
+ {
+  "name": "Ryan AQM-91 Firefly",
+  "industry": ", reconnaissance (1968)",
+  "country": "1968"
+ },
+ {
+  "name": "Ryan BQM-34 Firebee",
+  "industry": ", target (1951)",
+  "country": "1951"
+ },
+ {
+  "name": "Ryan YQM-98",
+  "industry": ""
+ },
+ {
+  "name": "Ryan Model 147 Lightning Bug",
+  "industry": ", reconnaissance (1962)",
+  "country": "1962"
+ },
+ {
+  "name": "Ryan Q-2",
+  "industry": ""
+ },
+ {
+  "name": "Ryan KDA",
+  "industry": ""
+ },
+ {
+  "name": "Ryan YQM-98A Compass Cope R",
+  "industry": ", reconnaissance (1974)",
+  "country": "1974"
+ },
+ {
+  "name": "S-TEC Sentry",
+  "industry": ", reconnaissance (1986)",
+  "country": "1986"
+ },
+ {
+  "name": "Shield AI",
+  "industry": "Nova"
+ },
+ {
+  "name": "Shield AI",
+  "industry": "V-BAT"
+ },
+ {
+  "name": "Sikorsky Cypher",
+  "industry": ", research, (1992)",
+  "country": "1992"
+ },
+ {
+  "name": "Simmonds Aerocessories OQ-11",
+  "industry": ""
+ },
+ {
+  "name": "Sea Robin XFC",
+  "industry": ""
+ },
+ {
+  "name": "Sky Sentinel",
+  "industry": ""
+ },
+ {
+  "name": "Skydio X10D",
+  "industry": "has DedroneBeyond radar sensors (for C-UAS)"
+ },
+ {
+  "name": "Sonex Aircraft Teros",
+  "industry": ""
+ },
+ {
+  "name": "Swift Engineering",
+  "industry": ", Swift020/021 (スウィフト020/021) (2016)",
+  "country": "2016"
+ },
+ {
+  "name": "Systems Integration Evaluation Remote Research Aircraft (SIERRA)",
+  "industry": ", research (2009)",
+  "country": "2009"
+ },
+ {
+  "name": "Taylorcraft LBT",
+  "industry": ""
+ },
+ {
+  "name": "TechJect Dragonfly UAV",
+  "industry": ""
+ },
+ {
+  "name": "Teledyne Ryan 410",
+  "industry": ""
+ },
+ {
+  "name": "Teledyne Ryan BQM-145 Peregrine",
+  "industry": ", reconnaissance (1992)",
+  "country": "1992"
+ },
+ {
+  "name": "Teledyne Ryan Scarab",
+  "industry": ""
+ },
+ {
+  "name": "Temco XKDT Teal",
+  "industry": ", target (1957)",
+  "country": "1957"
+ },
+ {
+  "name": "Unmanned Aeronautics GhostRay",
+  "industry": ", reconnaissance (2016)",
+  "country": "2016"
+ },
+ {
+  "name": "Unmanned Aeronautics XRay",
+  "industry": ", (2016)",
+  "country": "2016"
+ },
+ {
+  "name": "Dzyne ULTRA",
+  "industry": ""
+ },
+ {
+  "name": "Vector P",
+  "industry": ""
+ },
+ {
+  "name": "Vera Tech Phantom Sentinel",
+  "industry": ""
+ },
+ {
+  "name": "Wingtra WingtraOne",
+  "industry": ""
+ },
+ {
+  "name": "XGAM-71 Buck Duck",
+  "industry": ""
+ },
+ {
+  "name": "XSM-74",
+  "industry": ""
+ },
+ {
+  "name": "Xtreme Drones Velocicopter",
+  "industry": "DELTA",
+  "country": "2012"
+ },
+ {
+  "name": "Northrop JB-1 Jet bomb",
+  "industry": "(surface to surface)",
+  "country": "surface to surface"
+ },
+ {
+  "name": "Northrop JB-10 Buzz bomb",
+  "industry": "(surface to surface)",
+  "country": "surface to surface"
+ },
+ {
+  "name": "Aeronca GB-1, GB-2, GB-3, GB-4, GB-5, GB-6, GB-7, GB-8, GB-9, GB-10, GB-11, GB-12, GB-13, GB-14 and GB-15",
+  "industry": "(air to surface)",
+  "country": "air to surface"
+ },
+ {
+  "name": "Aeronca GT-1",
+  "industry": "(air to ship)",
+  "country": "air to ship"
+ },
+ {
+  "name": "WFEL JB-4",
+  "industry": "(surface to surface",
+  "country": "surface to surface, air to surface"
+ },
+ {
+  "name": "Zipline",
+  "industry": "(delivery drone)",
+  "country": "delivery drone"
+ },
+ {
+  "name": "ITAD M-400",
+  "industry": ""
+ },
+ {
+  "name": "VT-Patrol",
+  "industry": ""
+ },
+ {
+  "name": "Loitering munition",
+  "industry": ""
+ },
+ {
+  "name": "Unmanned combat aerial vehicle",
+  "industry": ""
+ }
+]

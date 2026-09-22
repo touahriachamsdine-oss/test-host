@@ -483,28 +483,6 @@
       "hq_city": "Heidelberg"
     }
   },
-  "ai21-labs": {
-    "ar": {
-      "name": "AI21 Labs",
-      "country": "إسرائيل",
-      "sub_domain": "منصات نماذج اللغات الكبيرة",
-      "short_description": "مطوّرة عائلتي النماذج Jurassic وJamba وأدوات الكتابة بالذكاء الاصطناعي.",
-      "technology": "نماذج لغات كبيرة متعددة المعماريات",
-      "why_relevant": "رائدة إسرائيلية عريقة في نماذج اللغات الكبيرة التجارية.",
-      "history": "تأسست AI21 Labs في تل أبيب عام 2017 على يد أمنون شاشوا ويوآف شوهام وأوري غوشين. أطلقت نماذج Jurassic اللغوية ومساعد الكتابة Wordtune، ثم قدّمت معمارية Jamba الهجينة بين SSM وTransformer عام 2024. جمعت الشركة أكثر من 300 مليون دولار ووصلت إلى تقييم 1.4 مليار دولار عام 2023، ولا تزال رائدة إسرائيلية عريقة في الذكاء الاصطناعي التوليدي التجاري.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "AI21 Labs",
-      "country": "Israël",
-      "sub_domain": "Plateformes LLM",
-      "short_description": "Développeur des familles de modèles Jurassic et Jamba et d'outils d'écriture IA.",
-      "technology": "LLM multi-architectures",
-      "why_relevant": "Pionnier israélien de longue date dans les LLM commerciaux.",
-      "history": "AI21 Labs a été fondée à Tel Aviv en 2017 par Amnon Shashua, Yoav Shoham et Ori Goshen. Elle a lancé les modèles de langage Jurassic et l'assistant d'écriture Wordtune, puis présenté l'architecture hybride SSM-Transformer Jamba en 2024. La société a levé plus de 300 millions de dollars et atteint une valorisation de 1,4 milliard en 2023, demeurant un pionnier israélien de l'IA générative commerciale.",
-      "hq_city": "Tel Aviv"
-    }
-  },
   "writer": {
     "ar": {
       "name": "Writer",

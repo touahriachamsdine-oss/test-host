@@ -1,0 +1,453 @@
+[
+ {
+  "name": "Motomel",
+  "country": "Argentina"
+ },
+ {
+  "name": "Zanella"
+ },
+ {
+  "name": "Hunter Motorcycles",
+  "country": "Australia"
+ },
+ {
+  "name": "Savic Motorcycles"
+ },
+ {
+  "name": "Thumpstar"
+ },
+ {
+  "name": "Husqvarna",
+  "country": "Austria"
+ },
+ {
+  "name": "KTM"
+ },
+ {
+  "name": "Puch"
+ },
+ {
+  "name": "Akij Motors",
+  "country": "BGD"
+ },
+ {
+  "name": "Nitol Niloy Group"
+ },
+ {
+  "name": "Runner Automobiles"
+ },
+ {
+  "name": "Walton Motors"
+ },
+ {
+  "name": "MMZ",
+  "country": "BLR"
+ },
+ {
+  "name": "Dafra Motos",
+  "country": "Brazil"
+ },
+ {
+  "name": "Voltz"
+ },
+ {
+  "name": "Can-Am",
+  "country": "Canada"
+ },
+ {
+  "name": "Havoc Motorcycles"
+ },
+ {
+  "name": "CFMoto",
+  "country": "China"
+ },
+ {
+  "name": "Chang Jiang"
+ },
+ {
+  "name": "Dayun"
+ },
+ {
+  "name": "Evoke Motorcycles"
+ },
+ {
+  "name": "Gaokin"
+ },
+ {
+  "name": "Jincheng Group"
+ },
+ {
+  "name": "Keeway"
+ },
+ {
+  "name": "Lifan"
+ },
+ {
+  "name": "Loncin"
+ },
+ {
+  "name": "Niu Technologies"
+ },
+ {
+  "name": "QJMotor"
+ },
+ {
+  "name": "Qingqi"
+ },
+ {
+  "name": "Segway Inc."
+ },
+ {
+  "name": "Sur-Ron"
+ },
+ {
+  "name": "Voge"
+ },
+ {
+  "name": "Yinxiang Motorcycle"
+ },
+ {
+  "name": "Znen"
+ },
+ {
+  "name": "Zongshen"
+ },
+ {
+  "name": "ZXMOTO"
+ },
+ {
+  "name": "AKT",
+  "country": "COL"
+ },
+ {
+  "name": "Auteco"
+ },
+ {
+  "name": "Jawa Moto",
+  "country": "Czech Republic"
+ },
+ {
+  "name": "Midual",
+  "country": "France"
+ },
+ {
+  "name": "Peugeot Scooters"
+ },
+ {
+  "name": "Sherco"
+ },
+ {
+  "name": "Voxan"
+ },
+ {
+  "name": "BMW Motorrad",
+  "country": "Germany"
+ },
+ {
+  "name": "Sachs Motorcycles"
+ },
+ {
+  "name": "Ather Energy",
+  "country": "India"
+ },
+ {
+  "name": "Bajaj Auto"
+ },
+ {
+  "name": "Hero MotoCorp"
+ },
+ {
+  "name": "Mahindra Two Wheelers"
+ },
+ {
+  "name": "Ola Electric"
+ },
+ {
+  "name": "Royal Enfield"
+ },
+ {
+  "name": "TVS Motor"
+ },
+ {
+  "name": "Ultraviolette Automotive"
+ },
+ {
+  "name": "Astra International",
+  "country": "Indonesia"
+ },
+ {
+  "name": "Viar Motor Indonesia"
+ },
+ {
+  "name": "Aprilia",
+  "country": "Italy"
+ },
+ {
+  "name": "Askoll"
+ },
+ {
+  "name": "Beta Motor"
+ },
+ {
+  "name": "Benelli"
+ },
+ {
+  "name": "Bimota"
+ },
+ {
+  "name": "Ducati"
+ },
+ {
+  "name": "Energica"
+ },
+ {
+  "name": "Fantic Motor"
+ },
+ {
+  "name": "Ghezzi & Brian"
+ },
+ {
+  "name": "Italjet"
+ },
+ {
+  "name": "Lambretta"
+ },
+ {
+  "name": "Magni"
+ },
+ {
+  "name": "FB Mondial"
+ },
+ {
+  "name": "Moto Guzzi"
+ },
+ {
+  "name": "Malaguti"
+ },
+ {
+  "name": "Moto Morini"
+ },
+ {
+  "name": "MV Agusta"
+ },
+ {
+  "name": "Paton"
+ },
+ {
+  "name": "Piaggio"
+ },
+ {
+  "name": "SWM"
+ },
+ {
+  "name": "Terra Modena"
+ },
+ {
+  "name": "Vespa"
+ },
+ {
+  "name": "Vyrus"
+ },
+ {
+  "name": "Honda",
+  "country": "Japan"
+ },
+ {
+  "name": "Moriwaki"
+ },
+ {
+  "name": "Kawasaki"
+ },
+ {
+  "name": "Suzuki"
+ },
+ {
+  "name": "Yamaha"
+ },
+ {
+  "name": "DNA Motors",
+  "country": "South Korea"
+ },
+ {
+  "name": "KR Motors"
+ },
+ {
+  "name": "Modenas",
+  "country": "Malaysia"
+ },
+ {
+  "name": "Naza"
+ },
+ {
+  "name": "Italika",
+  "country": "Mexico"
+ },
+ {
+  "name": "FTN Motion",
+  "country": "New Zealand"
+ },
+ {
+  "name": "DYL Motorcycles",
+  "country": "PAK"
+ },
+ {
+  "name": "Sazgar"
+ },
+ {
+  "name": "United Auto Industries"
+ },
+ {
+  "name": "Atlas Honda"
+ },
+ {
+  "name": "Pak Suzuki Motors"
+ },
+ {
+  "name": "Junak"
+ },
+ {
+  "name": "AJP"
+ },
+ {
+  "name": "FAMEL"
+ },
+ {
+  "name": "IMZ-Ural"
+ },
+ {
+  "name": "IZh"
+ },
+ {
+  "name": "Velomotors"
+ },
+ {
+  "name": "ZiD"
+ },
+ {
+  "name": "Qooder",
+  "country": "Switzerland"
+ },
+ {
+  "name": "Tomos",
+  "country": "SVN"
+ },
+ {
+  "name": "Derbi",
+  "country": "Spain"
+ },
+ {
+  "name": "Gas Gas"
+ },
+ {
+  "name": "Montesa"
+ },
+ {
+  "name": "Rieju"
+ },
+ {
+  "name": "Husqvarna",
+  "country": "Sweden"
+ },
+ {
+  "name": "Aeon Motor",
+  "country": "Taiwan"
+ },
+ {
+  "name": "Gogoro"
+ },
+ {
+  "name": "Kymco"
+ },
+ {
+  "name": "PGO"
+ },
+ {
+  "name": "SYM"
+ },
+ {
+  "name": "Taiwan Golden Bee"
+ },
+ {
+  "name": "Dayang Motors",
+  "country": "Thailand"
+ },
+ {
+  "name": "Mondial",
+  "country": "Turkey"
+ },
+ {
+  "name": "KMZ",
+  "country": "Ukraine"
+ },
+ {
+  "name": "Ariel Motor Company",
+  "country": "United Kingdom"
+ },
+ {
+  "name": "Cheney Racing"
+ },
+ {
+  "name": "Clews Competition Motorcycles"
+ },
+ {
+  "name": "Maeving"
+ },
+ {
+  "name": "Métisse"
+ },
+ {
+  "name": "Scomadi"
+ },
+ {
+  "name": "Triumph"
+ },
+ {
+  "name": "Wasp Motorcycles"
+ },
+ {
+  "name": "Alligator",
+  "country": "United States"
+ },
+ {
+  "name": "ARCH Motorcycle"
+ },
+ {
+  "name": "Boss Hoss"
+ },
+ {
+  "name": "Brammo"
+ },
+ {
+  "name": "Cleveland CycleWerks"
+ },
+ {
+  "name": "Confederate/Curtiss Motorcycles"
+ },
+ {
+  "name": "Harley-Davidson"
+ },
+ {
+  "name": "Indian Motorcycle"
+ },
+ {
+  "name": "Janus Motorcycles"
+ },
+ {
+  "name": "Lightning Motorcycle"
+ },
+ {
+  "name": "MTT"
+ },
+ {
+  "name": "Rokon"
+ },
+ {
+  "name": "US Highland"
+ },
+ {
+  "name": "Z Electric Vehicle"
+ },
+ {
+  "name": "Zero Motorcycles"
+ }
+]

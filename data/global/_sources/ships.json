@@ -1,0 +1,1360 @@
+[
+ {
+  "name": "Suez shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Alexandria Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Tema Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Baku Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Radiant Shipyard Limited",
+  "industry": ""
+ },
+ {
+  "name": "FMC Dockyard Limited",
+  "industry": ""
+ },
+ {
+  "name": "Ananda Shipyard and Shipways",
+  "industry": ""
+ },
+ {
+  "name": "Chittagong Dry Dock Limited",
+  "industry": ""
+ },
+ {
+  "name": "Khulna Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Western Marine Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "China State Shipbuilding Corporation",
+  "industry": ""
+ },
+ {
+  "name": "China Shipbuilding Industry Corporation",
+  "industry": ""
+ },
+ {
+  "name": "Hudong-Zhonghua Shipbuilding",
+  "industry": ""
+ },
+ {
+  "name": "Dalian Shipbuilding Industry Company",
+  "industry": ""
+ },
+ {
+  "name": "Guangzhou Shipyard International",
+  "industry": ""
+ },
+ {
+  "name": "Jiangnan Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Yantai Raffles Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Hongkong United Dockyards",
+  "industry": ""
+ },
+ {
+  "name": "Mazagon Dock Limited",
+  "industry": ", Mumbai, Maharashtra"
+ },
+ {
+  "name": "Cochin Shipyard Limited",
+  "industry": ", Kochi, KeralaHindustan Shipyard Limited, Visakhapatnam, Andhra Pradesh"
+ },
+ {
+  "name": "Garden Reach Shipbuilders and Engineers",
+  "industry": ", Kolkata, West Bengal"
+ },
+ {
+  "name": "Goa Shipyard Limited",
+  "industry": ", Vasco da Gama, Goa"
+ },
+ {
+  "name": "Naval Dockyard (Bombay)",
+  "industry": ", Mumbai, Maharashtra"
+ },
+ {
+  "name": "Naval Dockyard (Visakhapatnam)",
+  "industry": ", Visakhapatnam, Andhra Pradesh"
+ },
+ {
+  "name": "Jawaharlal Nehru Port Trust",
+  "industry": ", Navi Mumbai, Maharashtra"
+ },
+ {
+  "name": "Shalimar Works (1980) Ltd",
+  "industry": ", Kolkata, West Bengal"
+ },
+ {
+  "name": "Hooghly Dock & Port Engineers Limited",
+  "industry": ", Howrah, West Bengal"
+ },
+ {
+  "name": "Swan Defence and Heavy Industries Limited",
+  "industry": ", Port Pipavav, Gujarat"
+ },
+ {
+  "name": "Bharati Defence And Infrastructure Limited",
+  "industry": ", Mumbai, Maharashtra"
+ },
+ {
+  "name": "ABG Shipyard Limited",
+  "industry": ", Mumbai, Maharashtra"
+ },
+ {
+  "name": "Hazira Port Private Limited",
+  "industry": ", Hazira, Gujarat"
+ },
+ {
+  "name": "Adani Katupalli Port Private Limited",
+  "industry": ", Kattupalli, Tamil Nadu"
+ },
+ {
+  "name": "Modest Infrastructure Ltd",
+  "industry": ", Bhavnagar, Gujarat"
+ },
+ {
+  "name": "Tebma Shipyard Limited",
+  "industry": ", Chennai, Tamil Nadu"
+ },
+ {
+  "name": "Timblo Drydocks Private Limited",
+  "industry": ", Curchorem, Goa"
+ },
+ {
+  "name": "Titagarh Marines",
+  "industry": ", Kolkata, West Bengal"
+ },
+ {
+  "name": "Western India Shipyard Limited",
+  "industry": ", Mormugao, Goa"
+ },
+ {
+  "name": "PT PAL Indonesia",
+  "industry": ""
+ },
+ {
+  "name": "PT Lundin Industry Invest",
+  "industry": ""
+ },
+ {
+  "name": "PT Palindo Marine",
+  "industry": ""
+ },
+ {
+  "name": "Sadra Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Persian Gulf Shipbuilding",
+  "industry": ""
+ },
+ {
+  "name": "Israel Shipyards",
+  "industry": ""
+ },
+ {
+  "name": "IAI Ramta",
+  "industry": ""
+ },
+ {
+  "name": "Imabari Shipbuilding",
+  "industry": "Imabari"
+ },
+ {
+  "name": "Kawasaki Shipbuilding Corporation",
+  "industry": ""
+ },
+ {
+  "name": "Mitsubishi Heavy Industries",
+  "industry": "(Nagasaki)",
+  "country": "Nagasaki"
+ },
+ {
+  "name": "Sumitomo Heavy Industries",
+  "industry": "Oppama"
+ },
+ {
+  "name": "Boustead Naval Shipyard",
+  "industry": "Lumut"
+ },
+ {
+  "name": "Boustead Penang Shipyard",
+  "industry": "Penang Island"
+ },
+ {
+  "name": "Labuan Shipyard and Engineering",
+  "industry": "Labuan"
+ },
+ {
+  "name": "Malaysia Marine and Heavy Engineering",
+  "industry": "Pasir Gudang"
+ },
+ {
+  "name": "Boustead Langkawi Shipyard",
+  "industry": "Langkawi"
+ },
+ {
+  "name": "Karachi Shipyard & Engineering Works",
+  "industry": ", Karachi"
+ },
+ {
+  "name": "PN Dockyard",
+  "industry": ", Karachi"
+ },
+ {
+  "name": "Austal Philippines Pty. Ltd.",
+  "industry": "(Balamban",
+  "country": "Balamban, Cebu"
+ },
+ {
+  "name": "Hanjin Heavy Industries Corporation Philippines",
+  "industry": "(Zambales)",
+  "country": "Zambales"
+ },
+ {
+  "name": "Keppel Philippines Marine Batangas Shipyard",
+  "industry": "(Bauan",
+  "country": "Bauan, Batangas"
+ },
+ {
+  "name": "Keppel Philippines Marine Subic Shipyard",
+  "industry": "(Subic",
+  "country": "Subic, Zambales"
+ },
+ {
+  "name": "Herma Shipyard Inc.",
+  "industry": "(Mariveles",
+  "country": "Mariveles, Bataan"
+ },
+ {
+  "name": "King Salman Global Maritime Industries Complex",
+  "industry": ""
+ },
+ {
+  "name": "ST Engineering Marine",
+  "industry": ""
+ },
+ {
+  "name": "Daewoo Shipbuilding & Marine Engineering Co., Ltd.",
+  "industry": "2023 Hanhwa ocean"
+ },
+ {
+  "name": "Hanjin Heavy Industries Co., Ltd.",
+  "industry": "HJ shipbuilding"
+ },
+ {
+  "name": "Hyundai Heavy Industries Co., Ltd.",
+  "industry": "Ulsan"
+ },
+ {
+  "name": "Hyundai Mipo Dockyard Co., Ltd.",
+  "industry": "Ulsan"
+ },
+ {
+  "name": "Hyundai Samho Heavy Industries Co., Ltd.",
+  "industry": "Yeongam near Mokpo"
+ },
+ {
+  "name": "K Shipbuilding",
+  "industry": ", Changwon"
+ },
+ {
+  "name": "Samsung Heavy Industries Co., Ltd.",
+  "industry": "Geoje"
+ },
+ {
+  "name": "Colombo Dockyard",
+  "industry": ""
+ },
+ {
+  "name": "CSBC Corporation, Taiwan",
+  "industry": "(Kaohsiung)",
+  "country": "Kaohsiung"
+ },
+ {
+  "name": "Horizon Yachts",
+  "industry": "(Kaohsiung)",
+  "country": "Kaohsiung"
+ },
+ {
+  "name": "Lungteh Shipbuilding",
+  "industry": "(Yilan )",
+  "country": "Yilan"
+ },
+ {
+  "name": "Jong Shyn Shipbuilding Company",
+  "industry": ""
+ },
+ {
+  "name": "Italthai Industrial Group",
+  "industry": ""
+ },
+ {
+  "name": "The Bangkok Dock Company",
+  "industry": "(Sattahip)",
+  "country": "Sattahip"
+ },
+ {
+  "name": "Odessos Shiprepair yard",
+  "industry": ", Varna"
+ },
+ {
+  "name": "Brodogradilište 3. Maj",
+  "industry": "Rijeka"
+ },
+ {
+  "name": "Kraljevica Shipyard",
+  "industry": "Brodogradilište Kraljevica"
+ },
+ {
+  "name": "Brodosplit",
+  "industry": "Split"
+ },
+ {
+  "name": "Uljanik",
+  "industry": "Pula"
+ },
+ {
+  "name": "Aalborg Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Baltic Workboats",
+  "industry": "Shipyard"
+ },
+ {
+  "name": "BLRT Grupp",
+  "industry": ""
+ },
+ {
+  "name": "Helsinki",
+  "industry": ""
+ },
+ {
+  "name": "Turku metropolitan area",
+  "industry": ""
+ },
+ {
+  "name": "Rauma",
+  "industry": ""
+ },
+ {
+  "name": "Uusikaupunki",
+  "industry": ""
+ },
+ {
+  "name": "Bréhal",
+  "industry": ": Iguana Yachts (2008-)",
+  "country": "2008-"
+ },
+ {
+  "name": "Cherbourg",
+  "industry": ": Constructions Mécaniques de Normandie (1945-)",
+  "country": "1945-"
+ },
+ {
+  "name": "Les Herbiers",
+  "industry": ": Jeanneau (1957–)",
+  "country": "1957–"
+ },
+ {
+  "name": "Saint Nazaire",
+  "industry": ""
+ },
+ {
+  "name": "Bremen",
+  "industry": ""
+ },
+ {
+  "name": "Bremerhaven",
+  "industry": ": Schichau Seebeckwerft (1950–2009)",
+  "country": "1950–2009"
+ },
+ {
+  "name": "Emden",
+  "industry": ": Nordseewerke (1903–2010)",
+  "country": "1903–2010"
+ },
+ {
+  "name": "Flensburg",
+  "industry": ": Flensburger Schiffbau-Gesellschaft (FSG) (1872–)",
+  "country": "1872–"
+ },
+ {
+  "name": "Hamburg",
+  "industry": ""
+ },
+ {
+  "name": "Kiel",
+  "industry": ""
+ },
+ {
+  "name": "Kressbronn am Bodensee",
+  "industry": ": Bodan-Werft (1919–2011)",
+  "country": "1919–2011"
+ },
+ {
+  "name": "Lübeck",
+  "industry": ": Flender Werke (1917–2002)",
+  "country": "1917–2002"
+ },
+ {
+  "name": "Papenburg",
+  "industry": ": Meyer Werft (1795-)",
+  "country": "1795-"
+ },
+ {
+  "name": "Rendsburg",
+  "industry": ": Nobiskrug (1905–)",
+  "country": "1905–"
+ },
+ {
+  "name": "Rostock",
+  "industry": ": Neptun Werft (1850–)",
+  "country": "1850–"
+ },
+ {
+  "name": "Stralsund",
+  "industry": ": Volkswerft (1945–)",
+  "country": "1945–"
+ },
+ {
+  "name": "Wilhelmshaven",
+  "industry": ""
+ },
+ {
+  "name": "Basileiades",
+  "industry": ""
+ },
+ {
+  "name": "Elefsis Shipyards",
+  "industry": ""
+ },
+ {
+  "name": "Hellenic Shipyards Co.",
+  "industry": "Skaramanga"
+ },
+ {
+  "name": "Neorion",
+  "industry": ""
+ },
+ {
+  "name": "Chalkis Shipyards",
+  "industry": ""
+ },
+ {
+  "name": "Azimut",
+  "industry": ""
+ },
+ {
+  "name": "Baglietto",
+  "industry": "La Spezia"
+ },
+ {
+  "name": "Benetti",
+  "industry": "Viareggio"
+ },
+ {
+  "name": "FB Design",
+  "industry": "Annone Brianza"
+ },
+ {
+  "name": "Ferretti Group",
+  "industry": ""
+ },
+ {
+  "name": "Fincantieri",
+  "industry": ""
+ },
+ {
+  "name": "Perini Navi",
+  "industry": "Viareggio"
+ },
+ {
+  "name": "Cantiere Navale Visentini",
+  "industry": "Donada"
+ },
+ {
+  "name": "Rosetti Marino",
+  "industry": ""
+ },
+ {
+  "name": "Royal IHC",
+  "industry": ""
+ },
+ {
+  "name": "Barkmeijer Shipyards",
+  "industry": ", Stroobos"
+ },
+ {
+  "name": "Damen Group",
+  "industry": ""
+ },
+ {
+  "name": "Amels Holland B.V.",
+  "industry": ""
+ },
+ {
+  "name": "Feadship",
+  "industry": ""
+ },
+ {
+  "name": "Heesen Yachts",
+  "industry": ""
+ },
+ {
+  "name": "Holland Jachtbouw Zaandam BV",
+  "industry": ""
+ },
+ {
+  "name": "Royal Huisman",
+  "industry": ""
+ },
+ {
+  "name": "ICON Yachts",
+  "industry": ""
+ },
+ {
+  "name": "OceAnco",
+  "industry": ""
+ },
+ {
+  "name": "Jongert",
+  "industry": ""
+ },
+ {
+  "name": "Kleven Verft",
+  "industry": "Ulsteinvik"
+ },
+ {
+  "name": "Moss Verft",
+  "industry": ""
+ },
+ {
+  "name": "Ulstein Group",
+  "industry": "Ulsteinvik"
+ },
+ {
+  "name": "Aker Solutions",
+  "industry": "Various Locations."
+ },
+ {
+  "name": "Elbląg",
+  "industry": ": F. Schichau (1854–1945)",
+  "country": "1854–1945"
+ },
+ {
+  "name": "Gdańsk",
+  "industry": ""
+ },
+ {
+  "name": "Szczecin",
+  "industry": ""
+ },
+ {
+  "name": "West Sea Shipyard",
+  "industry": "- Viana Do Castelo"
+ },
+ {
+  "name": "Lisnave",
+  "industry": "- Estaleiros Navais SA Setúbal"
+ },
+ {
+  "name": "Damen Shipyards Galați",
+  "industry": "(Galați)",
+  "country": "Galați"
+ },
+ {
+  "name": "Mangalia shipyard",
+  "industry": "(Mangalia)",
+  "country": "Mangalia"
+ },
+ {
+  "name": "Constanţa Shipyard",
+  "industry": "(Constanţa)",
+  "country": "Constanţa"
+ },
+ {
+  "name": "Arkhangelsk",
+  "industry": ": Krasnaya Kuznitsa (1693–1862",
+  "country": "1693–1862, 1887–"
+ },
+ {
+  "name": "Bolshoy Kamen",
+  "industry": ": Zvezda shipyard (2015–)",
+  "country": "2015–"
+ },
+ {
+  "name": "Kaliningrad",
+  "industry": ": Yantar Shipyard (1945–)",
+  "country": "1945–"
+ },
+ {
+  "name": "Komsomolsk-on-Amur",
+  "industry": ": Amur Shipbuilding Plant (1932–)",
+  "country": "1932–"
+ },
+ {
+  "name": "Nizhny Novgorod",
+  "industry": ": Krasnoye Sormovo (1849–)",
+  "country": "1849–"
+ },
+ {
+  "name": "Polyarny",
+  "industry": ": Russian Shipyard Number 10 (1935–)",
+  "country": "1935–"
+ },
+ {
+  "name": "Rybinsk",
+  "industry": ": Vympel Shipyard (1930–)",
+  "country": "1930–"
+ },
+ {
+  "name": "Saint Petersburg",
+  "industry": ""
+ },
+ {
+  "name": "Severodvinsk",
+  "industry": ""
+ },
+ {
+  "name": "Vladivostok",
+  "industry": ""
+ },
+ {
+  "name": "Vyborg",
+  "industry": ": Vyborg Shipyard (1948–)",
+  "country": "1948–"
+ },
+ {
+  "name": "Zelenodolsk",
+  "industry": ": Zelenodolsk Shipyard(1895–)",
+  "country": "1895–"
+ },
+ {
+  "name": "Navantia",
+  "industry": ""
+ },
+ {
+  "name": "Dockstavarvet",
+  "industry": ""
+ },
+ {
+  "name": "Eriksbergs Mekaniska Verkstad",
+  "industry": ""
+ },
+ {
+  "name": "Götaverken",
+  "industry": ""
+ },
+ {
+  "name": "Kockums Naval Solutions",
+  "industry": ""
+ },
+ {
+  "name": "Lödöse varv",
+  "industry": ""
+ },
+ {
+  "name": "Oskarshamn Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Ada Shipyard",
+  "industry": "Tuzla"
+ },
+ {
+  "name": "Kherson",
+  "industry": ": Kherson Shipyard (1950s-)",
+  "country": "1950s-"
+ },
+ {
+  "name": "Kyiv",
+  "industry": ": Kuznya na Rybalskomu (1928–)",
+  "country": "1928–"
+ },
+ {
+  "name": "Mykolaiv",
+  "industry": ""
+ },
+ {
+  "name": "Cornwall",
+  "industry": ""
+ },
+ {
+  "name": "Cumbria",
+  "industry": ""
+ },
+ {
+  "name": "Devon",
+  "industry": ""
+ },
+ {
+  "name": "Durham",
+  "industry": ""
+ },
+ {
+  "name": "East Riding of Yorkshire",
+  "industry": ""
+ },
+ {
+  "name": "Hampshire",
+  "industry": ""
+ },
+ {
+  "name": "Isle of Wight",
+  "industry": ""
+ },
+ {
+  "name": "Kent",
+  "industry": ""
+ },
+ {
+  "name": "London",
+  "industry": ""
+ },
+ {
+  "name": "Merseyside",
+  "industry": ""
+ },
+ {
+  "name": "North Yorkshire",
+  "industry": ""
+ },
+ {
+  "name": "South Yorkshire",
+  "industry": ""
+ },
+ {
+  "name": "Southampton",
+  "industry": ""
+ },
+ {
+  "name": "Tyne and Wear",
+  "industry": ""
+ },
+ {
+  "name": "Belfast",
+  "industry": ": Harland and Wolff"
+ },
+ {
+  "name": "Clyde",
+  "industry": ":"
+ },
+ {
+  "name": "ABCO Industries",
+  "industry": ""
+ },
+ {
+  "name": "A. F. Theriault Shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Allied Shipbuilders",
+  "industry": ""
+ },
+ {
+  "name": "Davie Shipbuilding",
+  "industry": ""
+ },
+ {
+  "name": "Irving Shipbuilding",
+  "industry": ""
+ },
+ {
+  "name": "Kiewit Corporation",
+  "industry": ""
+ },
+ {
+  "name": "NewDock-St. John's Dockyard Company",
+  "industry": ""
+ },
+ {
+  "name": "Port Weller Dry Docks",
+  "industry": ""
+ },
+ {
+  "name": "Seaspan ULC",
+  "industry": ""
+ },
+ {
+  "name": "Toronto Drydock Company",
+  "industry": ""
+ },
+ {
+  "name": "SEMAR",
+  "industry": "(Veracruz Federal Shipbuilding)",
+  "country": "Veracruz Federal Shipbuilding"
+ },
+ {
+  "name": "Carso Marina",
+  "industry": ""
+ },
+ {
+  "name": "Pemex Construcción",
+  "industry": ""
+ },
+ {
+  "name": "Veracruz Kukulkan Shipyards",
+  "industry": ""
+ },
+ {
+  "name": "Zihuatanejo Marina",
+  "industry": ""
+ },
+ {
+  "name": "Acapulco shipyards",
+  "industry": "(Acapulco Naval Shipbuilding)",
+  "country": "Acapulco Naval Shipbuilding"
+ },
+ {
+  "name": "Alameda Works Shipyard",
+  "industry": ", Alameda, California (1916–1956)",
+  "country": "1916–1956"
+ },
+ {
+  "name": "Albina Engine & Machine Works",
+  "industry": ", Portland, Oregon"
+ },
+ {
+  "name": "American Shipbuilding",
+  "industry": ", Cleveland, Ohio, Lorain, Ohio (1888–1995)",
+  "country": "1888–1995"
+ },
+ {
+  "name": "Atlantic Basin Iron Works",
+  "industry": ", Brooklyn, New York"
+ },
+ {
+  "name": "Austal USA",
+  "industry": ", Mobile, Alabama"
+ },
+ {
+  "name": "Avondale Shipyard",
+  "industry": ", Westwego, Louisiana"
+ },
+ {
+  "name": "BAE Systems Ship Repair",
+  "industry": ", Norfolk, Virginia"
+ },
+ {
+  "name": "Bath Iron Works",
+  "industry": ", Bath, Maine"
+ },
+ {
+  "name": "Bay Shipbuilding Company",
+  "industry": ", Sturgeon Bay, Wisconsin"
+ },
+ {
+  "name": "Bethlehem Shipbuilding Corporation, Limited",
+  "industry": "(BethShip) (1913–1964)",
+  "country": "1913–1964"
+ },
+ {
+  "name": "Bethlehem Sparrows Point Shipyard",
+  "industry": ", Sparrows Point, Maryland (1914–1997)",
+  "country": "1914–1997"
+ },
+ {
+  "name": "Boston Navy Yard",
+  "industry": ", Charlestown, Massachusetts"
+ },
+ {
+  "name": "Bollinger Shipyards",
+  "industry": ", Lockport, Louisiana"
+ },
+ {
+  "name": "Brooklyn Navy Yard",
+  "industry": ", Brooklyn, New York"
+ },
+ {
+  "name": "Brown Shipbuilding",
+  "industry": ", Houston, Texas (1942–1985)",
+  "country": "1942–1985"
+ },
+ {
+  "name": "Brown & Bell Shipyard",
+  "industry": ", New York City (1824–1855)",
+  "country": "1824–1855"
+ },
+ {
+  "name": "Burger Boat Company",
+  "industry": ", Manitowoc, Wisconsin"
+ },
+ {
+  "name": "California Shipbuilding Corporation",
+  "industry": ", Terminal Island, Los Angeles County, California"
+ },
+ {
+  "name": "Charleston Naval Shipyard",
+  "industry": ", Charleston, South Carolina"
+ },
+ {
+  "name": "Chesapeake Shipbuilding",
+  "industry": ", Salisbury, Maryland"
+ },
+ {
+  "name": "Chester Shipbuilding",
+  "industry": ", Chester, Pennsylvania"
+ },
+ {
+  "name": "Commercial Iron Works",
+  "industry": ", Portland, Oregon"
+ },
+ {
+  "name": "Consolidated Steel",
+  "industry": "Orange Shipyard"
+ },
+ {
+  "name": "Defoe Shipbuilding Company",
+  "industry": ", Bay City, Michigan (1905–1975)",
+  "country": "1905–1975"
+ },
+ {
+  "name": "Delaware River Iron Ship Building and Engine Works",
+  "industry": ", Chester, Pennsylvania"
+ },
+ {
+  "name": "Derecktor Shipyards",
+  "industry": ", Mamaroneck, New York"
+ },
+ {
+  "name": "Dravo Corporation",
+  "industry": ", Pittsburgh, Pennsylvania"
+ },
+ {
+  "name": "Eastern Shipbuilding Group",
+  "industry": ", Panama City, FL"
+ },
+ {
+  "name": "Edward F. Williams",
+  "industry": ", Greenpoint, Brooklyn"
+ },
+ {
+  "name": "Edward Knight Collins",
+  "industry": "and the Collins Line",
+  "country": "1818–1858"
+ },
+ {
+  "name": "Electric Boat Corporation",
+  "industry": ", Groton, Connecticut, Quonset Point, Rhode Island"
+ },
+ {
+  "name": "Federal Shipbuilding & Drydock",
+  "industry": ", Newark, New Jersey (1917–1949)",
+  "country": "1917–1949"
+ },
+ {
+  "name": "Fore River Shipyard",
+  "industry": ", Quincy, Massachusetts (1901–1964)",
+  "country": "1901–1964"
+ },
+ {
+  "name": "Gas Engine & Power Company & Charles L. Seabury Company",
+  "industry": ", Morris Heights, Bronx, New York"
+ },
+ {
+  "name": "General Dynamics",
+  "industry": ", Quincy, Massachusetts"
+ },
+ {
+  "name": "General Engineering & Dry Dock Company",
+  "industry": ", Alameda, California"
+ },
+ {
+  "name": "George Lawley & Sons",
+  "industry": ", Neponset, Massachusetts"
+ },
+ {
+  "name": "Gladding-Hearn Shipbuilding",
+  "industry": ", Somerset, Massachusetts"
+ },
+ {
+  "name": "Gulf Shipbuilding",
+  "industry": ", Chickasaw, Alabama"
+ },
+ {
+  "name": "George Steers and Co",
+  "industry": ", Greenpoint, Brooklyn"
+ },
+ {
+  "name": "Henry B. Nevins, Incorporated",
+  "industry": ", City Island, New York"
+ },
+ {
+  "name": "Higgins",
+  "industry": ", New Orleans, Louisiana"
+ },
+ {
+  "name": "Ingalls Shipbuilding",
+  "industry": ", Pascagoula, Mississippi"
+ },
+ {
+  "name": "Isaac C. Smith",
+  "industry": ", Hoboken, New Jersey"
+ },
+ {
+  "name": "Jakobson Shipyard",
+  "industry": ", Oyster Bay, Long Island, New York"
+ },
+ {
+  "name": "James O. Curtis",
+  "industry": ", Medford, Massachusetts"
+ },
+ {
+  "name": "Jeffersonville Boat & Machine",
+  "industry": ", Jeffersonville, Indiana"
+ },
+ {
+  "name": "John H. Mathis & Company",
+  "industry": ", Camden, New Jersey"
+ },
+ {
+  "name": "John Roach & Sons",
+  "industry": ", Chester, Pennsylvania and New York City"
+ },
+ {
+  "name": "John Trumpy & Sons",
+  "industry": ", Annapolis, Maryland"
+ },
+ {
+  "name": "Kaiser Shipyards",
+  "industry": ""
+ },
+ {
+  "name": "Lake Washington Shipyard",
+  "industry": ", Houghton, Washington"
+ },
+ {
+  "name": "Lawrence & Foulks",
+  "industry": ", New York"
+ },
+ {
+  "name": "Lockheed Shipbuilding and Construction Company",
+  "industry": ", Seattle, Washington formerly Puget Sound Bridge and Dredging Company"
+ },
+ {
+  "name": "Long Beach Naval Shipyard",
+  "industry": ", Long Beach, California"
+ },
+ {
+  "name": "Los Angeles Shipbuilding and Drydock",
+  "industry": ", Los Angeles, California"
+ },
+ {
+  "name": "Mare Island Naval Shipyard",
+  "industry": ", Vallejo, California"
+ },
+ {
+  "name": "Marinette Marine",
+  "industry": ", Marinette, Wisconsin"
+ },
+ {
+  "name": "Marinship",
+  "industry": "– Bechtel Shipyards"
+ },
+ {
+  "name": "Maryland Drydock",
+  "industry": ", Baltimore, Maryland"
+ },
+ {
+  "name": "Merchant Shipbuilding Corporation",
+  "industry": ", Chester, Pennsylvania"
+ },
+ {
+  "name": "Moore Dry Dock Company",
+  "industry": ", Oakland, California"
+ },
+ {
+  "name": "Morse Dry Dock & Repair Company",
+  "industry": ", Brooklyn, New York"
+ },
+ {
+  "name": "National Steel and Shipbuilding Company",
+  "industry": ", San Diego, California"
+ },
+ {
+  "name": "Neafie & Levy",
+  "industry": ", Philadelphia, Pennsylvania"
+ },
+ {
+  "name": "New England Shipbuilding Corporation",
+  "industry": ", South Portland, Maine"
+ },
+ {
+  "name": "Newport News Shipbuilding & Drydock",
+  "industry": ", Newport News, Virginia"
+ },
+ {
+  "name": "New York Shipbuilding",
+  "industry": "Corporation (New York Ship)",
+  "country": "1899–1967"
+ },
+ {
+  "name": "Norfolk Naval Shipyard",
+  "industry": ", Portsmouth, Virginia"
+ },
+ {
+  "name": "North Florida Shipyards, Inc.",
+  "industry": ", Jacksonville, Florida"
+ },
+ {
+  "name": "Oregon Shipbuilding Corporation",
+  "industry": ", Portland, Oregon, part of the Kaiser Shipyards"
+ },
+ {
+  "name": "Pearl Harbor Naval Shipyard",
+  "industry": ", Pearl Harbor, Hawaii"
+ },
+ {
+  "name": "Pennellville Historic District",
+  "industry": ""
+ },
+ {
+  "name": "Percy & Small Shipyard",
+  "industry": ", Bath, Maine"
+ },
+ {
+  "name": "Philadelphia Naval Shipyard",
+  "industry": ", Philadelphia, Pennsylvania"
+ },
+ {
+  "name": "Philly Shipyard",
+  "industry": ", Philadelphia, Pennsylvania"
+ },
+ {
+  "name": "Portsmouth Naval Shipyard",
+  "industry": ", Kittery, Maine"
+ },
+ {
+  "name": "Puget Sound Naval Shipyard",
+  "industry": ", Bremerton, Washington"
+ },
+ {
+  "name": "Pusey and Jones",
+  "industry": ", Wilmington, Delaware"
+ },
+ {
+  "name": "Reaney, Son & Archbold",
+  "industry": ", Chester, Pennsylvania"
+ },
+ {
+  "name": "Richmond Shipyards",
+  "industry": ", Richmond, California, part of the Kaiser Shipyards"
+ },
+ {
+  "name": "SAFE Boats International LLC",
+  "industry": ", Bremerton, Washington"
+ },
+ {
+  "name": "Seattle-Tacoma Shipbuilding",
+  "industry": ", Seattle, Washington"
+ },
+ {
+  "name": "Swiftships",
+  "industry": ", Morgan City, Louisiana"
+ },
+ {
+  "name": "Sun Shipbuilding and Drydock Company",
+  "industry": ", Chester, Pennsylvania"
+ },
+ {
+  "name": "T. J. Southard",
+  "industry": "(Richmond",
+  "country": "Richmond, Maine"
+ },
+ {
+  "name": "Tampa Shipbuilding",
+  "industry": ", Tampa, Florida"
+ },
+ {
+  "name": "Todd Shipyards",
+  "industry": ""
+ },
+ {
+  "name": "United States Coast Guard Yard",
+  "industry": ", Curtis Bay, Baltimore, Maryland"
+ },
+ {
+  "name": "Union Iron Works",
+  "industry": ", San Francisco, California (1905–1941)",
+  "country": "1905–1941"
+ },
+ {
+  "name": "Vigor Marine Group",
+  "industry": ", Washington, Oregon, California, and Virginia"
+ },
+ {
+  "name": "VT Halter Marine",
+  "industry": ", Pascagoula, Mississippi"
+ },
+ {
+  "name": "Western Pipe & Steel",
+  "industry": ", San Francisco, California"
+ },
+ {
+  "name": "William Cramp & Sons",
+  "industry": "Shipbuilding Company"
+ },
+ {
+  "name": "William H. Webb shipyard",
+  "industry": ", New York City"
+ },
+ {
+  "name": "Westervelt & Co. shipyard",
+  "industry": ", New York City"
+ },
+ {
+  "name": "Winslow Marine Railway & Shipbuilding",
+  "industry": ", Winslow, Washington, Seattle, Washington"
+ },
+ {
+  "name": "Zidell Marine",
+  "industry": ", Portland, Oregon"
+ },
+ {
+  "name": "Austal",
+  "industry": "(Henderson",
+  "country": "Henderson, Western Australia"
+ },
+ {
+  "name": "ASC",
+  "industry": ", (Osborne, South Australia and Henderson, Western Australia)",
+  "country": "Osborne, South Australia and Henderson, Western Australia"
+ },
+ {
+  "name": "Australian Marine Complex",
+  "industry": "(Henderson",
+  "country": "Henderson, Western Australia"
+ },
+ {
+  "name": "BAE Systems Maritime Australia",
+  "industry": "(Henderson",
+  "country": "Henderson, Western Australia and Williamstown, Victoria"
+ },
+ {
+  "name": "BSC Marine Group",
+  "industry": ", (Toowong, Queensland)",
+  "country": "Toowong, Queensland"
+ },
+ {
+  "name": "Cairncross Dockyard",
+  "industry": ", (Morningside, Queensland)",
+  "country": "Morningside, Queensland"
+ },
+ {
+  "name": "Civmec",
+  "industry": ", (Henderson, Western Australia)",
+  "country": "Henderson, Western Australia"
+ },
+ {
+  "name": "de Havilland Marine",
+  "industry": ", (Bankstown, New South Wales)",
+  "country": "Bankstown, New South Wales"
+ },
+ {
+  "name": "Forgacs Marine & Defence",
+  "industry": "(Tomago",
+  "country": "Tomago, New South Wales"
+ },
+ {
+  "name": "Incat",
+  "industry": "(Hobart",
+  "country": "Hobart, Tasmania"
+ },
+ {
+  "name": "Lars Halvorsen Sons",
+  "industry": ", (Sydney, New South Wales)",
+  "country": "Sydney, New South Wales"
+ },
+ {
+  "name": "Norman R Wright & Sons",
+  "industry": ", (Bulimba, Queensland)",
+  "country": "Bulimba, Queensland"
+ },
+ {
+  "name": "NQEA",
+  "industry": "(Cairns",
+  "country": "Cairns, Queensland"
+ },
+ {
+  "name": "Osborne Naval Shipyard",
+  "industry": ", (Osborne, South Australia)",
+  "country": "Osborne, South Australia"
+ },
+ {
+  "name": "Richardson Devine Marine",
+  "industry": "(Hobart",
+  "country": "Hobart, Tasmania"
+ },
+ {
+  "name": "Walsh Island Dockyard & Engineering Works",
+  "industry": ", (Newcastle, New South Wales)",
+  "country": "Newcastle, New South Wales"
+ },
+ {
+  "name": "Williamstown Dockyard",
+  "industry": ". (Williamstown",
+  "country": "Williamstown, Victoria"
+ },
+ {
+  "name": "Astillero \"Río Santiago\" (AFNE)",
+  "industry": "(Ensenada",
+  "country": "Ensenada, Buenos Aires"
+ },
+ {
+  "name": "Astilleros Argentinos S.A. (ASTARSA)",
+  "industry": ""
+ },
+ {
+  "name": "Puerto Belgrano Naval Base shipyard",
+  "industry": ""
+ },
+ {
+  "name": "Tandanor",
+  "industry": ""
+ },
+ {
+  "name": "INACE",
+  "industry": ""
+ },
+ {
+  "name": "EMGEPRON",
+  "industry": ""
+ },
+ {
+  "name": "Asenav",
+  "industry": "Valdivia"
+ },
+ {
+  "name": "ASMAR",
+  "industry": "Talcahuano"
+ },
+ {
+  "name": "COTECMAR",
+  "industry": ""
+ },
+ {
+  "name": "SIMA",
+  "industry": ""
+ }
+]

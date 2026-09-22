@@ -153,28 +153,6 @@
       "hq_city": "Vestal"
     }
   },
-  "addionics": {
-    "ar": {
-      "name": "Addionics",
-      "country": "إسرائيل",
-      "sub_domain": "بنية بطارية ثلاثية الأبعاد",
-      "short_description": "إطار معدني ثلاثي الأبعاد لأقطاب البطاريات يحسّن الطاقة وعمر الدورات.",
-      "technology": "مجمعات تيار ثلاثية الأبعاد",
-      "why_relevant": "تصميم أقطاب قابل للدمج مباشرة يقوّي الأنودات دون كيمياء جديدة.",
-      "history": "تأسست Addionics عام 2018 في تل أبيب على يد موشيل بيتون وشركائه لإعادة تصميم أقطاب البطاريات عبر مجمّع تيار معدني ثلاثي الأبعاد. تحسّن هذه البنية المسامية الطاقة وتخفض المقاومة الداخلية وتطيل عمر الدورات دون تغيير كيمياء الخلية. جمعت الشركة عشرات الملايين من رأس المال الجسور، وافتتحت خط إنتاج تجريبي، ووقّعت تعاونات مع مصنّعي السيارات والبطاريات. وتوسّع Addionics اليوم نطاق تقنية الأقطاب القابلة للدمج المباشر لخدمة السيارات الكهربائية وتخزين الشبكة.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Addionics",
-      "country": "Israël",
-      "sub_domain": "Architecture de batterie 3D",
-      "short_description": "Une structure métallique 3D pour électrodes qui améliore la puissance et la durée de vie en cycles.",
-      "technology": "Collecteurs de courant 3D",
-      "why_relevant": "Un design d'électrode drop-in qui renforce les anodes sans nouvelle chimie.",
-      "history": "Addionics a été fondée en 2018 à Tel-Aviv par Moshiel Biton et ses associés pour repenser les électrodes de batterie grâce à un collecteur de courant métallique tridimensionnel. Cette architecture poreuse améliore la puissance, réduit la résistance interne et prolonge la durée de vie en cycles sans changer la chimie des cellules. L'entreprise a levé des dizaines de millions en capital-risque, ouvert une ligne pilote et signé des collaborations avec des constructeurs automobiles et des fabricants de batteries. Aujourd'hui, Addionics met à l'échelle sa technologie d'électrode drop-in pour les véhicules électriques et le stockage stationnaire.",
-      "hq_city": "Tel-Aviv"
-    }
-  },
   "skeleton-technologies": {
     "ar": {
       "name": "Skeleton Technologies",
@@ -305,28 +283,6 @@
       "why_relevant": "L'ancre de l'UE pour un approvisionnement fiable en graphène aux spécifications contrôlées.",
       "history": "Graphenea a été fondée en 2010 à Saint-Sébastien, en Espagne, comme essaimage du centre de recherche CIC nanoGUNE. Elle est devenue un producteur européen de films de graphène par dépôt chimique en phase vapeur et de poudres d'oxyde de graphène, servant les chercheurs en électronique, capteurs et matériaux avec un approvisionnement aux spécifications contrôlées. L'entreprise a accru sa capacité de production, ouvert une filiale aux États-Unis et bâti une large clientèle industrielle. Aujourd'hui, Graphenea est un fournisseur de référence pour un graphène fiable, soutenant le passage du matériau de l'étude académique aux dispositifs commerciaux.",
       "hq_city": "Saint-Sébastien"
-    }
-  },
-  "melodea": {
-    "ar": {
-      "name": "Melodea",
-      "country": "إسرائيل",
-      "sub_domain": "تغليف حيوي نباتي",
-      "short_description": "تصنع طلاءات ورغوات من مخلفات الخشب كبدائل للبلاستيك.",
-      "technology": "طلاءات نانوبلورات السليلوز",
-      "why_relevant": "يستبدل طبقات الأغشية البترولية في تغليف الأغذية بالسليلوز.",
-      "history": "تأسست Melodea عام 2011 في رحوفوت بإسرائيل لتحويل مخلفات الخشب إلى مواد قائمة على نانوبلورات السليلوز. تعمل طلاءاتها ورغواتها كحواجز متجددة لتغليف الأغذية والمنتجات الاستهلاكية، فتحل محل طبقات الأغشية المشتقة من البترول. بنت الشركة إنتاجاً تجريبياً ثم تجارياً، وأقامت شراكات مع محوّلي التغليف، وتوسّعت في أوروبا. وتتسوّق Melodea اليوم طلاءات حاجزة حيوية تحسّن قابلية إعادة التدوير وتقلل استخدام البلاستيك، وتضع نانوبلورات السليلوز كبديل صناعي عملي للأغشية البتروكيميائية.",
-      "hq_city": "رحوفوت"
-    },
-    "fr": {
-      "name": "Melodea",
-      "country": "Israël",
-      "sub_domain": "Bio-emballage végétal",
-      "short_description": "Fabrique des revêtements et des mousses à partir de déchets de bois, en substituts du plastique.",
-      "technology": "Revêtements en nanocristaux de cellulose",
-      "why_relevant": "Remplace les couches de film pétrolier des emballages alimentaires par de la cellulose.",
-      "history": "Melodea a été fondée en 2011 à Rehovot, en Israël, pour convertir les déchets de bois en matériaux à base de nanocristaux de cellulose. Ses revêtements et mousses servent de barrières renouvelables pour l'emballage alimentaire et de grande consommation, remplaçant les couches de film issues du pétrole. L'entreprise a construit une production pilote puis commerciale, noué des partenariats avec des transformateurs d'emballage et s'est étendue en Europe. Aujourd'hui, Melodea commercialise des revêtements barrières biosourcés qui améliorent la recyclabilité et réduisent l'usage du plastique.",
-      "hq_city": "Rehovot"
     }
   },
   "notpla": {
@@ -613,28 +569,6 @@
       "why_relevant": "Alimente la fabrication additive avec des poudres équivalentes et plus bas-carbone.",
       "history": "6K Additive a été créée en 2014 au sein de 6K, basée à North Andover, dans le Massachusetts, pour produire des poudres métalliques avancées. Sa plateforme à plasma micro-ondes UniMelt convertit rebuts et matières premières en poudres sphériques premium destinées à la fabrication additive, avec une intensité carbone inférieure à l'atomisation classique. L'entreprise a accru sa capacité, qualifié des alliages pour l'aérospatial et la défense, et développé une activité de recyclage du titane et du nickel. Aujourd'hui, 6K Additive alimente le marché croissant de l'impression 3D en poudres durables et performantes.",
       "hq_city": "North Andover"
-    }
-  },
-  "xjet": {
-    "ar": {
-      "name": "XJet",
-      "country": "إسرائيل",
-      "sub_domain": "طباعة ثلاثية الأبعاد بالجسيمات النانوية",
-      "short_description": "تطبع السيراميك والمعادن ثلاثي الأبعاد من جسيمات نانوية سائلة.",
-      "technology": "نفث الجسيمات النانوية",
-      "why_relevant": "تطبع سيراميكاً فاخراً يستحيل إنتاجه بالتلبيد التقليدي.",
-      "history": "تأسست XJet عام 2005 في رحوفوت بإسرائيل لتسويق نفث الجسيمات النانوية للتصنيع الإضافي. تطبع أنظمتها السيراميك والمعادن من تركيبات سائلة من الجسيمات النانوية، فتنتج تفاصيل دقيقة وأسطحاً ملساء يصعب تحقيقها بالتلبيد التقليدي. جمعت الشركة استثمارات كبيرة، وركّبت أنظمتها لدى عملاء صناعيين وبحثيين، وطوّرت منصة Carmel. وتركّز XJet اليوم على قطع السيراميك والمعادن عالية القيمة للتطبيقات الطبية وطب الأسنان والفضاء والعدد والأدوات، وتضع نفث الجسيمات النانوية كفرع متميز من الطباعة ثلاثية الأبعاد.",
-      "hq_city": "رحوفوت"
-    },
-    "fr": {
-      "name": "XJet",
-      "country": "Israël",
-      "sub_domain": "Impression 3D par nanoparticules",
-      "short_description": "Imprime céramiques et métaux en 3D à partir de nanoparticules en gouttelettes.",
-      "technology": "Projection de nanoparticules",
-      "why_relevant": "Imprime des céramiques haut de gamme impossibles à obtenir par frittage traditionnel.",
-      "history": "XJet a été fondée en 2005 à Rehovot, en Israël, pour commercialiser la projection de nanoparticules pour la fabrication additive. Ses systèmes impriment céramiques et métaux à partir de formulations liquides de nanoparticules, produisant des détails fins et des surfaces lisses difficiles à obtenir par frittage traditionnel. L'entreprise a levé des investissements importants, installé des systèmes chez des clients industriels et de recherche, et fait évoluer sa plateforme Carmel. Aujourd'hui, XJet se concentre sur des pièces céramiques et métalliques à haute valeur pour le médical, le dentaire, l'aérospatial et l'outillage.",
-      "hq_city": "Rehovot"
     }
   }
 }

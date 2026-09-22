@@ -1,0 +1,514 @@
+[
+ {
+  "name": "Fastbrick Robotics",
+  "industry": ""
+ },
+ {
+  "name": "B&R",
+  "industry": ""
+ },
+ {
+  "name": "Taurob",
+  "industry": ""
+ },
+ {
+  "name": "Clearpath Robotics",
+  "industry": ""
+ },
+ {
+  "name": "CRS Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Kinova",
+  "industry": ""
+ },
+ {
+  "name": "Robotics Design Inc.",
+  "industry": ""
+ },
+ {
+  "name": "White Box Robotics",
+  "industry": ""
+ },
+ {
+  "name": "AgiBot",
+  "industry": ""
+ },
+ {
+  "name": "CloudMinds",
+  "industry": ""
+ },
+ {
+  "name": "Deep Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Dobot",
+  "industry": ""
+ },
+ {
+  "name": "Ecovacs Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Engine AI",
+  "industry": ""
+ },
+ {
+  "name": "Flexiv",
+  "industry": ""
+ },
+ {
+  "name": "Estun Automation",
+  "industry": ""
+ },
+ {
+  "name": "Fourier (company)",
+  "industry": ""
+ },
+ {
+  "name": "Geekplus",
+  "industry": ""
+ },
+ {
+  "name": "Horizon Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Leju Robot",
+  "industry": ""
+ },
+ {
+  "name": "Mech-Mind Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Roborock",
+  "industry": ""
+ },
+ {
+  "name": "Shenzhen Picea Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Siasun Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Turing Robot",
+  "industry": ""
+ },
+ {
+  "name": "UBtech Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Unitree Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Zhiwei Robotics Corp.",
+  "industry": ""
+ },
+ {
+  "name": "DOK-ING",
+  "industry": ""
+ },
+ {
+  "name": "Jorgensen Engineering",
+  "industry": ""
+ },
+ {
+  "name": "Universal Robots",
+  "industry": ""
+ },
+ {
+  "name": "Welltec",
+  "industry": ""
+ },
+ {
+  "name": "Cleveron",
+  "industry": ""
+ },
+ {
+  "name": "Milrem Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Starship Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Aldebaran",
+  "industry": ""
+ },
+ {
+  "name": "Exotec",
+  "industry": ""
+ },
+ {
+  "name": "Donecle",
+  "industry": ""
+ },
+ {
+  "name": "Festo",
+  "industry": ""
+ },
+ {
+  "name": "Fischertechnik",
+  "industry": ""
+ },
+ {
+  "name": "Halfmann Teleskoptechnik",
+  "industry": ""
+ },
+ {
+  "name": "KUKA",
+  "industry": ""
+ },
+ {
+  "name": "MetraLabs GmbH",
+  "industry": ""
+ },
+ {
+  "name": "Neura Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Neurospace",
+  "industry": ""
+ },
+ {
+  "name": "Reis Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Rowa Automatisierungssysteme",
+  "industry": ""
+ },
+ {
+  "name": "Hanson Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Sastra Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Robomow",
+  "industry": ""
+ },
+ {
+  "name": "Comau",
+  "industry": ""
+ },
+ {
+  "name": "Makr Shakr",
+  "industry": ""
+ },
+ {
+  "name": "Cyberdyne Inc.",
+  "industry": ""
+ },
+ {
+  "name": "Denso",
+  "industry": ""
+ },
+ {
+  "name": "Epson Robots",
+  "industry": ""
+ },
+ {
+  "name": "FANUC",
+  "industry": ""
+ },
+ {
+  "name": "Kawasaki Heavy Industries",
+  "industry": ""
+ },
+ {
+  "name": "Mitsubishi Electric",
+  "industry": ""
+ },
+ {
+  "name": "Nachi-Fujikoshi",
+  "industry": ""
+ },
+ {
+  "name": "Omron",
+  "industry": ""
+ },
+ {
+  "name": "Yaskawa Electric Corporation",
+  "industry": ""
+ },
+ {
+  "name": "ZMP INC.",
+  "industry": ""
+ },
+ {
+  "name": "1X Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Doosan Robotics",
+  "industry": ""
+ },
+ {
+  "name": "HD Hyundai Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Hyundai WIA",
+  "industry": ""
+ },
+ {
+  "name": "Rainbow Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Robotis",
+  "industry": ""
+ },
+ {
+  "name": "Robotnik Automation",
+  "industry": ""
+ },
+ {
+  "name": "NDC Netzler & Dahlgren Co AB",
+  "industry": ""
+ },
+ {
+  "name": "ANYbotics",
+  "industry": ""
+ },
+ {
+  "name": "ABB",
+  "industry": ""
+ },
+ {
+  "name": "Stäubli",
+  "industry": ""
+ },
+ {
+  "name": "HIWIN",
+  "industry": ""
+ },
+ {
+  "name": "Techman",
+  "industry": ""
+ },
+ {
+  "name": "Thunder Tiger",
+  "industry": ""
+ },
+ {
+  "name": "Academy of Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Active Robots",
+  "industry": ""
+ },
+ {
+  "name": "Engineered Arts",
+  "industry": ""
+ },
+ {
+  "name": "Moley Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Open Bionics",
+  "industry": ""
+ },
+ {
+  "name": "Oxa",
+  "industry": ""
+ },
+ {
+  "name": "ST Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Agility Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Amazon Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Anduril Industries",
+  "industry": ""
+ },
+ {
+  "name": "Anybots",
+  "industry": ""
+ },
+ {
+  "name": "Barrett Technology",
+  "industry": ""
+ },
+ {
+  "name": "Berkshire Grey",
+  "industry": ""
+ },
+ {
+  "name": "Bluefin Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Bossa Nova Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Boston Dynamics",
+  "industry": ""
+ },
+ {
+  "name": "Covariant (company)",
+  "industry": ""
+ },
+ {
+  "name": "Daxbot",
+  "industry": ""
+ },
+ {
+  "name": "Double Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Ekso Bionics",
+  "industry": ""
+ },
+ {
+  "name": "Energid Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Evolution Robotics",
+  "industry": ""
+ },
+ {
+  "name": "FarmWise",
+  "industry": ""
+ },
+ {
+  "name": "Figure AI",
+  "industry": ""
+ },
+ {
+  "name": "Foster-Miller",
+  "industry": ""
+ },
+ {
+  "name": "Harvest Automation",
+  "industry": ""
+ },
+ {
+  "name": "Honeybee Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Intuitive Surgical",
+  "industry": ""
+ },
+ {
+  "name": "IRobot",
+  "industry": ""
+ },
+ {
+  "name": "ISEE",
+  "industry": ""
+ },
+ {
+  "name": "Knightscope",
+  "industry": ""
+ },
+ {
+  "name": "Meka Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Neato Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Omron Adept",
+  "industry": ""
+ },
+ {
+  "name": "Open Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Palladyne AI",
+  "industry": ""
+ },
+ {
+  "name": "Prioria",
+  "industry": ""
+ },
+ {
+  "name": "Rethink Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Serve Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Sphero",
+  "industry": ""
+ },
+ {
+  "name": "Starship Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Symbotic",
+  "industry": ""
+ },
+ {
+  "name": "Unimation",
+  "industry": ""
+ },
+ {
+  "name": "Universal Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Vecna Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Willow Garage",
+  "industry": ""
+ },
+ {
+  "name": "Wolf Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Wonder Workshop",
+  "industry": ""
+ },
+ {
+  "name": "TOSY",
+  "industry": ""
+ },
+ {
+  "name": "Robotics",
+  "industry": ""
+ },
+ {
+  "name": "Robotics (disambiguation)",
+  "industry": ""
+ },
+ {
+  "name": "Glossary of robotics",
+  "industry": ""
+ }
+]

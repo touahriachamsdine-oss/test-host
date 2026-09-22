@@ -240,21 +240,6 @@
     "longitude": -71.1523
   },
   {
-    "name": "Weebit Nano",
-    "country": "Israel",
-    "sub_domain": "RRAM memory",
-    "short_description": "Resistive RAM licensed into fabs for embedded memory swaps.",
-    "technology": "Oxide RRAM IP",
-    "year_founded": 2015,
-    "official_site": "https://weebit-nano.com",
-    "priority": "C",
-    "why_relevant": "Drops into existing CMOS with 100x faster writes than flash.",
-    "history": "Weebit Nano was incorporated in 2015 to develop silicon-oxide RRAM and pursued an ASX listing in Australia, reaching the public market in 2021. The company qualified its embedded RRAM with SkyWater and signed further licensing and supply agreements with fabs in the following years. It remains a publicly traded IP provider pushing a drop-in, 100x-faster-write alternative to flash in embedded memory applications.",
-    "hq_city": "Netanya",
-    "latitude": 32.3215,
-    "longitude": 34.8532
-  },
-  {
     "name": "FuriosaAI",
     "country": "South Korea",
     "sub_domain": "AI accelerators",
@@ -267,7 +252,7 @@
     "history": "FuriosaAI was founded in 2017 by researchers tied to Seoul National University to build AI accelerators for deep learning. The company shipped its second-generation RNGD accelerator, produced at Samsung's foundry, backed by substantial Korean funding across multiple rounds. It continues developing LLM-focused accelerators and a serious software stack for data-center deployment in Korea and Japan.",
     "hq_city": "Seoul",
     "latitude": 37.5665,
-    "longitude": 126.9780
+    "longitude": 126.978
   },
   {
     "name": "Rebellions",

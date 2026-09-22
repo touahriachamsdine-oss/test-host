@@ -1,0 +1,9370 @@
+[
+ {
+  "name": "BlueDot",
+  "source": "ai"
+ },
+ {
+  "name": "Cohere",
+  "source": "ai"
+ },
+ {
+  "name": "Element AI",
+  "source": "ai"
+ },
+ {
+  "name": "Maluuba",
+  "source": "ai"
+ },
+ {
+  "name": "Waabi",
+  "source": "ai"
+ },
+ {
+  "name": "AI Foundation",
+  "source": "ai"
+ },
+ {
+  "name": "Anduril Industries",
+  "source": "ai"
+ },
+ {
+  "name": "Anysphere",
+  "source": "ai"
+ },
+ {
+  "name": "Anthropic",
+  "source": "ai"
+ },
+ {
+  "name": "Broadcom",
+  "source": "ai"
+ },
+ {
+  "name": "Caper AI",
+  "source": "ai"
+ },
+ {
+  "name": "Cerebras",
+  "source": "ai"
+ },
+ {
+  "name": "Cerence",
+  "source": "ai"
+ },
+ {
+  "name": "Character.ai",
+  "source": "ai"
+ },
+ {
+  "name": "Cognition AI",
+  "source": "ai"
+ },
+ {
+  "name": "Colloquis",
+  "source": "ai"
+ },
+ {
+  "name": "Contextual AI",
+  "source": "ai"
+ },
+ {
+  "name": "Conversable",
+  "source": "ai"
+ },
+ {
+  "name": "CoreWeave",
+  "source": "ai"
+ },
+ {
+  "name": "Counsel AI",
+  "source": "ai"
+ },
+ {
+  "name": "Covariant",
+  "source": "ai"
+ },
+ {
+  "name": "Dataiku",
+  "source": "ai"
+ },
+ {
+  "name": "Databricks",
+  "source": "ai"
+ },
+ {
+  "name": "Decagon",
+  "source": "ai"
+ },
+ {
+  "name": "DeepMind",
+  "source": "ai"
+ },
+ {
+  "name": "EleutherAI",
+  "source": "ai"
+ },
+ {
+  "name": "ElevenLabs",
+  "source": "ai"
+ },
+ {
+  "name": "FarmWise",
+  "source": "ai"
+ },
+ {
+  "name": "Figure AI",
+  "source": "ai"
+ },
+ {
+  "name": "Fireworks AI",
+  "source": "ai"
+ },
+ {
+  "name": "Forethought Technologies",
+  "source": "ai"
+ },
+ {
+  "name": "Glean Technologies",
+  "source": "ai"
+ },
+ {
+  "name": "Google AI",
+  "source": "ai"
+ },
+ {
+  "name": "Groq",
+  "source": "ai"
+ },
+ {
+  "name": "Hebbia",
+  "source": "ai"
+ },
+ {
+  "name": "HeyGen",
+  "source": "ai"
+ },
+ {
+  "name": "Hugging Face",
+  "source": "ai"
+ },
+ {
+  "name": "Inflection AI",
+  "source": "ai"
+ },
+ {
+  "name": "Invisible Technologies",
+  "source": "ai"
+ },
+ {
+  "name": "K Health",
+  "source": "ai"
+ },
+ {
+  "name": "Labs Companies",
+  "source": "ai"
+ },
+ {
+  "name": "Liquid AI",
+  "source": "ai"
+ },
+ {
+  "name": "LangChain",
+  "source": "ai"
+ },
+ {
+  "name": "Mercor",
+  "source": "ai"
+ },
+ {
+  "name": "Meta Superintelligence Labs",
+  "source": "ai"
+ },
+ {
+  "name": "Microsoft AI",
+  "source": "ai"
+ },
+ {
+  "name": "Midjourney, Inc.",
+  "source": "ai"
+ },
+ {
+  "name": "Nuro",
+  "source": "ai"
+ },
+ {
+  "name": "NVIDIA",
+  "source": "ai"
+ },
+ {
+  "name": "OpenAI",
+  "source": "ai"
+ },
+ {
+  "name": "OpenEvidence",
+  "source": "ai"
+ },
+ {
+  "name": "OpenRouter",
+  "source": "ai"
+ },
+ {
+  "name": "Oracle",
+  "source": "ai"
+ },
+ {
+  "name": "Otter.ai",
+  "source": "ai"
+ },
+ {
+  "name": "Owkin",
+  "source": "ai"
+ },
+ {
+  "name": "Perplexity AI",
+  "source": "ai"
+ },
+ {
+  "name": "Physical Intelligence Inc.",
+  "source": "ai"
+ },
+ {
+  "name": "Poolside AI",
+  "source": "ai"
+ },
+ {
+  "name": "Preamble",
+  "source": "ai"
+ },
+ {
+  "name": "Project Prometheus",
+  "source": "ai"
+ },
+ {
+  "name": "RAIC Labs",
+  "source": "ai"
+ },
+ {
+  "name": "Reflection AI",
+  "source": "ai"
+ },
+ {
+  "name": "Runway",
+  "source": "ai"
+ },
+ {
+  "name": "Safe Superintelligence Inc.",
+  "source": "ai"
+ },
+ {
+  "name": "SambaNova Systems",
+  "source": "ai"
+ },
+ {
+  "name": "Scale AI",
+  "source": "ai"
+ },
+ {
+  "name": "Shield AI",
+  "source": "ai"
+ },
+ {
+  "name": "Snowflake",
+  "source": "ai"
+ },
+ {
+  "name": "SoundHound AI",
+  "source": "ai"
+ },
+ {
+  "name": "Sourcegraph",
+  "source": "ai"
+ },
+ {
+  "name": "Spectre AI",
+  "source": "ai"
+ },
+ {
+  "name": "Thinking Machines Lab",
+  "source": "ai"
+ },
+ {
+  "name": "Undetectable.ai",
+  "source": "ai"
+ },
+ {
+  "name": "Waymo",
+  "source": "ai"
+ },
+ {
+  "name": "Writer",
+  "source": "ai"
+ },
+ {
+  "name": "Writesonic",
+  "source": "ai"
+ },
+ {
+  "name": "xAI",
+  "source": "ai"
+ },
+ {
+  "name": "Zoox",
+  "source": "ai"
+ },
+ {
+  "name": "1X Technologies",
+  "source": "ai"
+ },
+ {
+  "name": "01.AI",
+  "source": "ai"
+ },
+ {
+  "name": "4Paradigm",
+  "source": "ai"
+ },
+ {
+  "name": "Baichuan",
+  "source": "ai"
+ },
+ {
+  "name": "DeepSeek",
+  "source": "ai"
+ },
+ {
+  "name": "Horizon Robotics",
+  "source": "ai"
+ },
+ {
+  "name": "MiniMax",
+  "source": "ai"
+ },
+ {
+  "name": "ModelBest",
+  "source": "ai"
+ },
+ {
+  "name": "Moonshot AI",
+  "source": "ai"
+ },
+ {
+  "name": "SenseTime",
+  "source": "ai"
+ },
+ {
+  "name": "StepFun",
+  "source": "ai"
+ },
+ {
+  "name": "Xiao-i",
+  "source": "ai"
+ },
+ {
+  "name": "Z.ai",
+  "source": "ai"
+ },
+ {
+  "name": "Zhipu AI",
+  "source": "ai"
+ },
+ {
+  "name": "Artisse AI",
+  "source": "ai"
+ },
+ {
+  "name": "Haptik",
+  "source": "ai"
+ },
+ {
+  "name": "NeuralGarage",
+  "source": "ai"
+ },
+ {
+  "name": "Sarvam AI",
+  "source": "ai"
+ },
+ {
+  "name": "AI21 Labs",
+  "source": "ai"
+ },
+ {
+  "name": "Aidoc",
+  "source": "ai"
+ },
+ {
+  "name": "Decart",
+  "source": "ai"
+ },
+ {
+  "name": "Hailo Technologies",
+  "source": "ai"
+ },
+ {
+  "name": "Sakana AI",
+  "source": "ai"
+ },
+ {
+  "name": "Humain",
+  "source": "ai"
+ },
+ {
+  "name": "Upstage",
+  "source": "ai"
+ },
+ {
+  "name": "G42",
+  "source": "ai"
+ },
+ {
+  "name": "H Company",
+  "source": "ai"
+ },
+ {
+  "name": "LightOn",
+  "source": "ai"
+ },
+ {
+  "name": "Linagora",
+  "source": "ai"
+ },
+ {
+  "name": "Mistral AI",
+  "source": "ai"
+ },
+ {
+  "name": "Aleph Alpha",
+  "source": "ai"
+ },
+ {
+  "name": "DeepL",
+  "source": "ai"
+ },
+ {
+  "name": "Helsing",
+  "source": "ai"
+ },
+ {
+  "name": "Translated",
+  "source": "ai"
+ },
+ {
+  "name": "Neurotechnology",
+  "source": "ai"
+ },
+ {
+  "name": "Axelera AI",
+  "source": "ai"
+ },
+ {
+  "name": "Cradle",
+  "source": "ai"
+ },
+ {
+  "name": "Unbabel",
+  "source": "ai"
+ },
+ {
+  "name": "Furhat Robotics",
+  "source": "ai"
+ },
+ {
+  "name": "Lovable",
+  "source": "ai"
+ },
+ {
+  "name": "Art Recognition",
+  "source": "ai"
+ },
+ {
+  "name": "Respeecher",
+  "source": "ai"
+ },
+ {
+  "name": "ARM Holdings",
+  "source": "ai"
+ },
+ {
+  "name": "Gradient Labs",
+  "source": "ai"
+ },
+ {
+  "name": "Isomorphic Labs",
+  "source": "ai"
+ },
+ {
+  "name": "Mind Foundry",
+  "source": "ai"
+ },
+ {
+  "name": "Peak",
+  "source": "ai"
+ },
+ {
+  "name": "Quantexa",
+  "source": "ai"
+ },
+ {
+  "name": "Recraft",
+  "source": "ai"
+ },
+ {
+  "name": "Stability AI",
+  "source": "ai"
+ },
+ {
+  "name": "Synthesia",
+  "source": "ai"
+ },
+ {
+  "name": "Wayve",
+  "source": "ai"
+ },
+ {
+  "name": "SNVI",
+  "source": "automobiles"
+ },
+ {
+  "name": "ASA Aluminium Body",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zanella",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sero Electric",
+  "source": "automobiles"
+ },
+ {
+  "name": "Anasagasti",
+  "source": "automobiles"
+ },
+ {
+  "name": "AutoLatina",
+  "source": "automobiles"
+ },
+ {
+  "name": "Autoar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Crespi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Eniak",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hispano-Argentina",
+  "source": "automobiles"
+ },
+ {
+  "name": "IAVA",
+  "source": "automobiles"
+ },
+ {
+  "name": "IAME",
+  "source": "automobiles"
+ },
+ {
+  "name": "IKA",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sevel Argentina",
+  "source": "automobiles"
+ },
+ {
+  "name": "SIAM Di Tella",
+  "source": "automobiles"
+ },
+ {
+  "name": "ErAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "ACE EV Group",
+  "source": "automobiles"
+ },
+ {
+  "name": "BCI Bus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Borland Racing Developments",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bolwell",
+  "source": "automobiles"
+ },
+ {
+  "name": "Custom Bus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Elfin Sports Cars",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ford Australia",
+  "source": "automobiles"
+ },
+ {
+  "name": "Minetti Sports Cars",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nota",
+  "source": "automobiles"
+ },
+ {
+  "name": "P&D Coachworks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Volgren",
+  "source": "automobiles"
+ },
+ {
+  "name": "Brabham Automotive",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ford Performance Vehicles (FPV)",
+  "source": "automobiles"
+ },
+ {
+  "name": "Giocattolo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Holden",
+  "source": "automobiles"
+ },
+ {
+  "name": "KTM",
+  "source": "automobiles"
+ },
+ {
+  "name": "Magna Steyr",
+  "source": "automobiles"
+ },
+ {
+  "name": "Puch",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rosenbauer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tushek & Spigel",
+  "source": "automobiles"
+ },
+ {
+  "name": "Austro-Daimler",
+  "source": "automobiles"
+ },
+ {
+  "name": "Austro-Tatra",
+  "source": "automobiles"
+ },
+ {
+  "name": "Denzel",
+  "source": "automobiles"
+ },
+ {
+  "name": "Felber",
+  "source": "automobiles"
+ },
+ {
+  "name": "Libelle",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lohner–Porsche",
+  "source": "automobiles"
+ },
+ {
+  "name": "Möve",
+  "source": "automobiles"
+ },
+ {
+  "name": "Steyr",
+  "source": "automobiles"
+ },
+ {
+  "name": "Steyr-Daimler-Puch",
+  "source": "automobiles"
+ },
+ {
+  "name": "AzSamand",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ganja Auto Plant",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nakhchivan Automobile Plant",
+  "source": "automobiles"
+ },
+ {
+  "name": "BMTF",
+  "source": "automobiles"
+ },
+ {
+  "name": "BelAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "BelGee",
+  "source": "automobiles"
+ },
+ {
+  "name": "Belkommunmash",
+  "source": "automobiles"
+ },
+ {
+  "name": "MAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "MoAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "MZKT",
+  "source": "automobiles"
+ },
+ {
+  "name": "Neman",
+  "source": "automobiles"
+ },
+ {
+  "name": "Edran",
+  "source": "automobiles"
+ },
+ {
+  "name": "Gillet",
+  "source": "automobiles"
+ },
+ {
+  "name": "Van Hool",
+  "source": "automobiles"
+ },
+ {
+  "name": "Auto-Mixte",
+  "source": "automobiles"
+ },
+ {
+  "name": "FN",
+  "source": "automobiles"
+ },
+ {
+  "name": "Impéria",
+  "source": "automobiles"
+ },
+ {
+  "name": "Métallurgique",
+  "source": "automobiles"
+ },
+ {
+  "name": "Minerva",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nagant",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pieper",
+  "source": "automobiles"
+ },
+ {
+  "name": "Quantum Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Motor Company of Botswana",
+  "source": "automobiles"
+ },
+ {
+  "name": "Agrale",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chamonix NG Cars",
+  "source": "automobiles"
+ },
+ {
+  "name": "Grupo Caoa",
+  "source": "automobiles"
+ },
+ {
+  "name": "Comil",
+  "source": "automobiles"
+ },
+ {
+  "name": "Carbuss",
+  "source": "automobiles"
+ },
+ {
+  "name": "Marcopolo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mascarello",
+  "source": "automobiles"
+ },
+ {
+  "name": "Neobus",
+  "source": "automobiles"
+ },
+ {
+  "name": "TAC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Volkswagen Truck & Bus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Brasinca",
+  "source": "automobiles"
+ },
+ {
+  "name": "Busscar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dacon",
+  "source": "automobiles"
+ },
+ {
+  "name": "Engesa",
+  "source": "automobiles"
+ },
+ {
+  "name": "FNM",
+  "source": "automobiles"
+ },
+ {
+  "name": "Farus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Gurgel",
+  "source": "automobiles"
+ },
+ {
+  "name": "HTT",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hofstetter",
+  "source": "automobiles"
+ },
+ {
+  "name": "JPX",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lobini",
+  "source": "automobiles"
+ },
+ {
+  "name": "Obvio!",
+  "source": "automobiles"
+ },
+ {
+  "name": "Puma",
+  "source": "automobiles"
+ },
+ {
+  "name": "Romi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Santa Matilde",
+  "source": "automobiles"
+ },
+ {
+  "name": "Troller",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vemag",
+  "source": "automobiles"
+ },
+ {
+  "name": "Litex",
+  "source": "automobiles"
+ },
+ {
+  "name": "SIN",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bulgaralpine",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bulgarrenault",
+  "source": "automobiles"
+ },
+ {
+  "name": "Moskvych",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pirin-Fiat",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sofia",
+  "source": "automobiles"
+ },
+ {
+  "name": "Campagna",
+  "source": "automobiles"
+ },
+ {
+  "name": "canEV",
+  "source": "automobiles"
+ },
+ {
+  "name": "Edison Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Conquest",
+  "source": "automobiles"
+ },
+ {
+  "name": "Felino",
+  "source": "automobiles"
+ },
+ {
+  "name": "Girardin Minibus",
+  "source": "automobiles"
+ },
+ {
+  "name": "GreenPower",
+  "source": "automobiles"
+ },
+ {
+  "name": "Intermeccanica",
+  "source": "automobiles"
+ },
+ {
+  "name": "INKAS",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lion Electric",
+  "source": "automobiles"
+ },
+ {
+  "name": "Magnum Cars",
+  "source": "automobiles"
+ },
+ {
+  "name": "New Flyer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nova Bus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Potential Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Prevost",
+  "source": "automobiles"
+ },
+ {
+  "name": "Roshel",
+  "source": "automobiles"
+ },
+ {
+  "name": "Terradyne",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vicinity",
+  "source": "automobiles"
+ },
+ {
+  "name": "Acadian",
+  "source": "automobiles"
+ },
+ {
+  "name": "Asüna",
+  "source": "automobiles"
+ },
+ {
+  "name": "Beaumont",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bricklin",
+  "source": "automobiles"
+ },
+ {
+  "name": "Brooks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dennis",
+  "source": "automobiles"
+ },
+ {
+  "name": "Derby",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dupont",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dynasty",
+  "source": "automobiles"
+ },
+ {
+  "name": "Frontenac",
+  "source": "automobiles"
+ },
+ {
+  "name": "Gray-Dort",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hayes Trucks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Manic",
+  "source": "automobiles"
+ },
+ {
+  "name": "McLaughlin",
+  "source": "automobiles"
+ },
+ {
+  "name": "Meteor",
+  "source": "automobiles"
+ },
+ {
+  "name": "Monarch",
+  "source": "automobiles"
+ },
+ {
+  "name": "Orion",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pacific Trucks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Passport",
+  "source": "automobiles"
+ },
+ {
+  "name": "Redpath",
+  "source": "automobiles"
+ },
+ {
+  "name": "Russell",
+  "source": "automobiles"
+ },
+ {
+  "name": "Studebaker",
+  "source": "automobiles"
+ },
+ {
+  "name": "ZENN",
+  "source": "automobiles"
+ },
+ {
+  "name": "Arcfox",
+  "source": "automobiles"
+ },
+ {
+  "name": "Avatr",
+  "source": "automobiles"
+ },
+ {
+  "name": "Aion",
+  "source": "automobiles"
+ },
+ {
+  "name": "Apex Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "BAIC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Baojun",
+  "source": "automobiles"
+ },
+ {
+  "name": "BAW",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bestune",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bisu Auto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Brilliance",
+  "source": "automobiles"
+ },
+ {
+  "name": "BYD",
+  "source": "automobiles"
+ },
+ {
+  "name": "Changan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chery",
+  "source": "automobiles"
+ },
+ {
+  "name": "CNHTC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dayun",
+  "source": "automobiles"
+ },
+ {
+  "name": "Deepal",
+  "source": "automobiles"
+ },
+ {
+  "name": "Denza",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dongfeng",
+  "source": "automobiles"
+ },
+ {
+  "name": "EuAuto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Exeed",
+  "source": "automobiles"
+ },
+ {
+  "name": "FAW",
+  "source": "automobiles"
+ },
+ {
+  "name": "Fangchengbao",
+  "source": "automobiles"
+ },
+ {
+  "name": "Forthing",
+  "source": "automobiles"
+ },
+ {
+  "name": "Foton",
+  "source": "automobiles"
+ },
+ {
+  "name": "GAC Group",
+  "source": "automobiles"
+ },
+ {
+  "name": "Geely",
+  "source": "automobiles"
+ },
+ {
+  "name": "Great Wall",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hafei",
+  "source": "automobiles"
+ },
+ {
+  "name": "Haima",
+  "source": "automobiles"
+ },
+ {
+  "name": "Haval",
+  "source": "automobiles"
+ },
+ {
+  "name": "Higer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hongqi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Huajing",
+  "source": "automobiles"
+ },
+ {
+  "name": "iCar/iCaur",
+  "source": "automobiles"
+ },
+ {
+  "name": "IM Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "JAC Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jaecoo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jetour",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jiangling",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jinbei",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jonway",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kaiyi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Karry",
+  "source": "automobiles"
+ },
+ {
+  "name": "King Long",
+  "source": "automobiles"
+ },
+ {
+  "name": "Leapmotor",
+  "source": "automobiles"
+ },
+ {
+  "name": "Li Auto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Maxus",
+  "source": "automobiles"
+ },
+ {
+  "name": "M-Hero",
+  "source": "automobiles"
+ },
+ {
+  "name": "Neta",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nio",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ora",
+  "source": "automobiles"
+ },
+ {
+  "name": "Omoda",
+  "source": "automobiles"
+ },
+ {
+  "name": "Roewe",
+  "source": "automobiles"
+ },
+ {
+  "name": "SAIC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sehol",
+  "source": "automobiles"
+ },
+ {
+  "name": "Seres Auto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Shacman",
+  "source": "automobiles"
+ },
+ {
+  "name": "Soueast",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tank",
+  "source": "automobiles"
+ },
+ {
+  "name": "Trumpchi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Venucia",
+  "source": "automobiles"
+ },
+ {
+  "name": "Voyah",
+  "source": "automobiles"
+ },
+ {
+  "name": "Wey",
+  "source": "automobiles"
+ },
+ {
+  "name": "Wuling",
+  "source": "automobiles"
+ },
+ {
+  "name": "Xiaomi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Xiamen Golden Dragon Bus",
+  "source": "automobiles"
+ },
+ {
+  "name": "XPeng",
+  "source": "automobiles"
+ },
+ {
+  "name": "Yudo Auto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Yutong",
+  "source": "automobiles"
+ },
+ {
+  "name": "Yangwang",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zhongtong Bus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zotye",
+  "source": "automobiles"
+ },
+ {
+  "name": "ZX Auto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zeekr",
+  "source": "automobiles"
+ },
+ {
+  "name": "212",
+  "source": "automobiles"
+ },
+ {
+  "name": "Changhe",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dadi Auto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Emgrand",
+  "source": "automobiles"
+ },
+ {
+  "name": "Englon",
+  "source": "automobiles"
+ },
+ {
+  "name": "Everus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Gonow",
+  "source": "automobiles"
+ },
+ {
+  "name": "Heibao",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hanteng",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hawtai",
+  "source": "automobiles"
+ },
+ {
+  "name": "Landwind",
+  "source": "automobiles"
+ },
+ {
+  "name": "Leahead",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lifan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Qoros",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ranz",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rising Auto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zinoro",
+  "source": "automobiles"
+ },
+ {
+  "name": "DOK-ING",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rimac",
+  "source": "automobiles"
+ },
+ {
+  "name": "Škoda",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tatra",
+  "source": "automobiles"
+ },
+ {
+  "name": "Avia",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kaipan",
+  "source": "automobiles"
+ },
+ {
+  "name": "MTX",
+  "source": "automobiles"
+ },
+ {
+  "name": "Praga",
+  "source": "automobiles"
+ },
+ {
+  "name": "Aero",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jawa",
+  "source": "automobiles"
+ },
+ {
+  "name": "LIAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "Velorex",
+  "source": "automobiles"
+ },
+ {
+  "name": "Walter Fiat",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zenvo",
+  "source": "automobiles"
+ },
+ {
+  "name": "El Nasr Automotive Manufacturing Company",
+  "source": "automobiles"
+ },
+ {
+  "name": "Egyptian German Automotive Company",
+  "source": "automobiles"
+ },
+ {
+  "name": "Speranza Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Marathon Motors Engineering",
+  "source": "automobiles"
+ },
+ {
+  "name": "Valmet Automotive",
+  "source": "automobiles"
+ },
+ {
+  "name": "Electric Raceabout",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sisu Auto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Aixam",
+  "source": "automobiles"
+ },
+ {
+  "name": "Alpine",
+  "source": "automobiles"
+ },
+ {
+  "name": "Auverland",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bolloré",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bugatti",
+  "source": "automobiles"
+ },
+ {
+  "name": "Citroën",
+  "source": "automobiles"
+ },
+ {
+  "name": "Delage",
+  "source": "automobiles"
+ },
+ {
+  "name": "DS",
+  "source": "automobiles"
+ },
+ {
+  "name": "Exagon",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ligier",
+  "source": "automobiles"
+ },
+ {
+  "name": "Microcar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Méga",
+  "source": "automobiles"
+ },
+ {
+  "name": "Peugeot",
+  "source": "automobiles"
+ },
+ {
+  "name": "PGO",
+  "source": "automobiles"
+ },
+ {
+  "name": "Renault",
+  "source": "automobiles"
+ },
+ {
+  "name": "Renault Trucks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Venturi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Avions Voisin",
+  "source": "automobiles"
+ },
+ {
+  "name": "Berliet",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chenard-Walcker",
+  "source": "automobiles"
+ },
+ {
+  "name": "Darracq",
+  "source": "automobiles"
+ },
+ {
+  "name": "Decauville",
+  "source": "automobiles"
+ },
+ {
+  "name": "De Dion-Bouton",
+  "source": "automobiles"
+ },
+ {
+  "name": "Delahaye",
+  "source": "automobiles"
+ },
+ {
+  "name": "Delaunay-Belleville",
+  "source": "automobiles"
+ },
+ {
+  "name": "Facel Vega",
+  "source": "automobiles"
+ },
+ {
+  "name": "Helicron",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hommell",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hotchkiss",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lorraine-Dietrich",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mathis",
+  "source": "automobiles"
+ },
+ {
+  "name": "Matra",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Panhard",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rochet-Schneider",
+  "source": "automobiles"
+ },
+ {
+  "name": "Salmson",
+  "source": "automobiles"
+ },
+ {
+  "name": "Simca",
+  "source": "automobiles"
+ },
+ {
+  "name": "Talbot",
+  "source": "automobiles"
+ },
+ {
+  "name": "Talbot-Lago",
+  "source": "automobiles"
+ },
+ {
+  "name": "Alpina",
+  "source": "automobiles"
+ },
+ {
+  "name": "Apollo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Artega",
+  "source": "automobiles"
+ },
+ {
+  "name": "Audi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bitter",
+  "source": "automobiles"
+ },
+ {
+  "name": "BMW",
+  "source": "automobiles"
+ },
+ {
+  "name": "Daimler Truck",
+  "source": "automobiles"
+ },
+ {
+  "name": "Isdera",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lotec",
+  "source": "automobiles"
+ },
+ {
+  "name": "Maybach",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mercedes-Benz",
+  "source": "automobiles"
+ },
+ {
+  "name": "Multicar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Neoplan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Opel",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ruf",
+  "source": "automobiles"
+ },
+ {
+  "name": "Porsche",
+  "source": "automobiles"
+ },
+ {
+  "name": "Setra",
+  "source": "automobiles"
+ },
+ {
+  "name": "Smart",
+  "source": "automobiles"
+ },
+ {
+  "name": "Volkswagen",
+  "source": "automobiles"
+ },
+ {
+  "name": "Volkswagen Commercial Vehicles",
+  "source": "automobiles"
+ },
+ {
+  "name": "Wiesmann",
+  "source": "automobiles"
+ },
+ {
+  "name": "Adler",
+  "source": "automobiles"
+ },
+ {
+  "name": "AGA",
+  "source": "automobiles"
+ },
+ {
+  "name": "Auto Union",
+  "source": "automobiles"
+ },
+ {
+  "name": "AWS",
+  "source": "automobiles"
+ },
+ {
+  "name": "AWZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "Barkas",
+  "source": "automobiles"
+ },
+ {
+  "name": "Borgward",
+  "source": "automobiles"
+ },
+ {
+  "name": "Brennabor",
+  "source": "automobiles"
+ },
+ {
+  "name": "Büssing",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dauer",
+  "source": "automobiles"
+ },
+ {
+  "name": "DKW",
+  "source": "automobiles"
+ },
+ {
+  "name": "Glas",
+  "source": "automobiles"
+ },
+ {
+  "name": "Goliath",
+  "source": "automobiles"
+ },
+ {
+  "name": "Gumpert",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hanomag",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hansa",
+  "source": "automobiles"
+ },
+ {
+  "name": "Heinkel",
+  "source": "automobiles"
+ },
+ {
+  "name": "Horch",
+  "source": "automobiles"
+ },
+ {
+  "name": "Karmann",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lloyd",
+  "source": "automobiles"
+ },
+ {
+  "name": "Maurer-Union",
+  "source": "automobiles"
+ },
+ {
+  "name": "Melkus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Messerschmitt",
+  "source": "automobiles"
+ },
+ {
+  "name": "MAN",
+  "source": "automobiles"
+ },
+ {
+  "name": "NAG",
+  "source": "automobiles"
+ },
+ {
+  "name": "NSU",
+  "source": "automobiles"
+ },
+ {
+  "name": "Robur",
+  "source": "automobiles"
+ },
+ {
+  "name": "Simson",
+  "source": "automobiles"
+ },
+ {
+  "name": "Stoewer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tempo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Trabant",
+  "source": "automobiles"
+ },
+ {
+  "name": "Wanderer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Wartburg",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zundapp",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rosmo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kantanka",
+  "source": "automobiles"
+ },
+ {
+  "name": "ELVO",
+  "source": "automobiles"
+ },
+ {
+  "name": "Korres",
+  "source": "automobiles"
+ },
+ {
+  "name": "Namco",
+  "source": "automobiles"
+ },
+ {
+  "name": "Replicar Hellas",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kioleides",
+  "source": "automobiles"
+ },
+ {
+  "name": "Keraboss",
+  "source": "automobiles"
+ },
+ {
+  "name": "Temax",
+  "source": "automobiles"
+ },
+ {
+  "name": "Alta",
+  "source": "automobiles"
+ },
+ {
+  "name": "Attica",
+  "source": "automobiles"
+ },
+ {
+  "name": "Autokinitoviomihania Ellados",
+  "source": "automobiles"
+ },
+ {
+  "name": "Automeccanica",
+  "source": "automobiles"
+ },
+ {
+  "name": "Balkania",
+  "source": "automobiles"
+ },
+ {
+  "name": "BET",
+  "source": "automobiles"
+ },
+ {
+  "name": "Biamax",
+  "source": "automobiles"
+ },
+ {
+  "name": "BIOMAN",
+  "source": "automobiles"
+ },
+ {
+  "name": "DIM",
+  "source": "automobiles"
+ },
+ {
+  "name": "MAVA-Renault",
+  "source": "automobiles"
+ },
+ {
+  "name": "MEBEA",
+  "source": "automobiles"
+ },
+ {
+  "name": "Neorion",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pan-Car",
+  "source": "automobiles"
+ },
+ {
+  "name": "Theologou",
+  "source": "automobiles"
+ },
+ {
+  "name": "Credo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ikarus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rába",
+  "source": "automobiles"
+ },
+ {
+  "name": "Csepel Automobile Factory",
+  "source": "automobiles"
+ },
+ {
+  "name": "Csonka",
+  "source": "automobiles"
+ },
+ {
+  "name": "Puli",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ajanta Group",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ashok Leyland",
+  "source": "automobiles"
+ },
+ {
+  "name": "Asia MotorWorks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Atul Auto",
+  "source": "automobiles"
+ },
+ {
+  "name": "AVANI",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bajaj",
+  "source": "automobiles"
+ },
+ {
+  "name": "Eicher",
+  "source": "automobiles"
+ },
+ {
+  "name": "Force",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hero Motocop",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hindustan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hradyesh",
+  "source": "automobiles"
+ },
+ {
+  "name": "KAL",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mahindra",
+  "source": "automobiles"
+ },
+ {
+  "name": "Maruti Suzuki",
+  "source": "automobiles"
+ },
+ {
+  "name": "Omega Seiki Mobility",
+  "source": "automobiles"
+ },
+ {
+  "name": "SML Isuzu",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tara International",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tata",
+  "source": "automobiles"
+ },
+ {
+  "name": "TVS",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chinkara",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ideal Jawa",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kinetic Engineering Limited",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lohia Machinery",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mopeds India Limited",
+  "source": "automobiles"
+ },
+ {
+  "name": "Premier",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sipani",
+  "source": "automobiles"
+ },
+ {
+  "name": "Standard",
+  "source": "automobiles"
+ },
+ {
+  "name": "Azar Motor Industrial Co",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bahman",
+  "source": "automobiles"
+ },
+ {
+  "name": "Diar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Farda Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Fath Vehicle Industries",
+  "source": "automobiles"
+ },
+ {
+  "name": "Iran Khodro",
+  "source": "automobiles"
+ },
+ {
+  "name": "Khodro Kaveer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kish Khodro",
+  "source": "automobiles"
+ },
+ {
+  "name": "Modiran Vehicle Manufacturing",
+  "source": "automobiles"
+ },
+ {
+  "name": "Morattab",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lamari",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pars Khodro",
+  "source": "automobiles"
+ },
+ {
+  "name": "SAIPA",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zagross Khodro",
+  "source": "automobiles"
+ },
+ {
+  "name": "Carmor",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ha'argaz",
+  "source": "automobiles"
+ },
+ {
+  "name": "Merkavim",
+  "source": "automobiles"
+ },
+ {
+  "name": "Plasan",
+  "source": "automobiles"
+ },
+ {
+  "name": "REE Automotive",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tomcar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zibar",
+  "source": "automobiles"
+ },
+ {
+  "name": "AIL",
+  "source": "automobiles"
+ },
+ {
+  "name": "Autocars",
+  "source": "automobiles"
+ },
+ {
+  "name": "Abarth",
+  "source": "automobiles"
+ },
+ {
+  "name": "Alfa Romeo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Automobili Estrema",
+  "source": "automobiles"
+ },
+ {
+  "name": "Casalini",
+  "source": "automobiles"
+ },
+ {
+  "name": "Covini",
+  "source": "automobiles"
+ },
+ {
+  "name": "CTS",
+  "source": "automobiles"
+ },
+ {
+  "name": "DR Motor",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ducati",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ferrari",
+  "source": "automobiles"
+ },
+ {
+  "name": "Fiat",
+  "source": "automobiles"
+ },
+ {
+  "name": "Iso",
+  "source": "automobiles"
+ },
+ {
+  "name": "Italdesign",
+  "source": "automobiles"
+ },
+ {
+  "name": "Iveco",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lamborghini",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lancia",
+  "source": "automobiles"
+ },
+ {
+  "name": "Maserati",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mazzanti",
+  "source": "automobiles"
+ },
+ {
+  "name": "Minardi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pagani",
+  "source": "automobiles"
+ },
+ {
+  "name": "Piaggio",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pininfarina",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vespa",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zagato",
+  "source": "automobiles"
+ },
+ {
+  "name": "APIS",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ansaldo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Aquila",
+  "source": "automobiles"
+ },
+ {
+  "name": "A.S.A.",
+  "source": "automobiles"
+ },
+ {
+  "name": "A.T.S.",
+  "source": "automobiles"
+ },
+ {
+  "name": "Autobianchi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Aurea",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bandini",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bertone",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bizzarrini",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bremach",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ceirano",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chiribiri",
+  "source": "automobiles"
+ },
+ {
+  "name": "Cisitalia",
+  "source": "automobiles"
+ },
+ {
+  "name": "Cizeta",
+  "source": "automobiles"
+ },
+ {
+  "name": "De Tomaso",
+  "source": "automobiles"
+ },
+ {
+  "name": "Diatto",
+  "source": "automobiles"
+ },
+ {
+  "name": "FCA",
+  "source": "automobiles"
+ },
+ {
+  "name": "Fornasari",
+  "source": "automobiles"
+ },
+ {
+  "name": "Innocenti",
+  "source": "automobiles"
+ },
+ {
+  "name": "Iso Milano",
+  "source": "automobiles"
+ },
+ {
+  "name": "Isotta Fraschini",
+  "source": "automobiles"
+ },
+ {
+  "name": "Itala",
+  "source": "automobiles"
+ },
+ {
+  "name": "Junior",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lambretta",
+  "source": "automobiles"
+ },
+ {
+  "name": "LMX",
+  "source": "automobiles"
+ },
+ {
+  "name": "Marca-Tre-Spade",
+  "source": "automobiles"
+ },
+ {
+  "name": "Moretti",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nardi",
+  "source": "automobiles"
+ },
+ {
+  "name": "O.M.",
+  "source": "automobiles"
+ },
+ {
+  "name": "O.S.C.A.",
+  "source": "automobiles"
+ },
+ {
+  "name": "Qvale",
+  "source": "automobiles"
+ },
+ {
+  "name": "Scuderia Ferrari",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rapid",
+  "source": "automobiles"
+ },
+ {
+  "name": "S.C.A.T.",
+  "source": "automobiles"
+ },
+ {
+  "name": "Siata",
+  "source": "automobiles"
+ },
+ {
+  "name": "S.P.A.",
+  "source": "automobiles"
+ },
+ {
+  "name": "Stanguellini",
+  "source": "automobiles"
+ },
+ {
+  "name": "Storero",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vignale",
+  "source": "automobiles"
+ },
+ {
+  "name": "Volugrafo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zust",
+  "source": "automobiles"
+ },
+ {
+  "name": "Acura",
+  "source": "automobiles"
+ },
+ {
+  "name": "Aspark",
+  "source": "automobiles"
+ },
+ {
+  "name": "Autobacs Seven",
+  "source": "automobiles"
+ },
+ {
+  "name": "Daihatsu",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dome",
+  "source": "automobiles"
+ },
+ {
+  "name": "GLM",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hino",
+  "source": "automobiles"
+ },
+ {
+  "name": "Honda",
+  "source": "automobiles"
+ },
+ {
+  "name": "Infiniti",
+  "source": "automobiles"
+ },
+ {
+  "name": "Isuzu",
+  "source": "automobiles"
+ },
+ {
+  "name": "J-Bus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lexus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mazda",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mitsubishi Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mitsubishi Fuso",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mitsuoka",
+  "source": "automobiles"
+ },
+ {
+  "name": "NMKV",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nissan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Subaru",
+  "source": "automobiles"
+ },
+ {
+  "name": "Suzuki",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tommykaira",
+  "source": "automobiles"
+ },
+ {
+  "name": "Takeoka Auto Craft",
+  "source": "automobiles"
+ },
+ {
+  "name": "Toyota",
+  "source": "automobiles"
+ },
+ {
+  "name": "UD Trucks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Asahi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Autozam",
+  "source": "automobiles"
+ },
+ {
+  "name": "Datsun",
+  "source": "automobiles"
+ },
+ {
+  "name": "Eunos",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ohta",
+  "source": "automobiles"
+ },
+ {
+  "name": "Otomo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Prince",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mobius Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dartz",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ford-Vairogs",
+  "source": "automobiles"
+ },
+ {
+  "name": "RAF (Latvija)",
+  "source": "automobiles"
+ },
+ {
+  "name": "W Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "MDI",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bufori",
+  "source": "automobiles"
+ },
+ {
+  "name": "DefTech",
+  "source": "automobiles"
+ },
+ {
+  "name": "Inokom",
+  "source": "automobiles"
+ },
+ {
+  "name": "Modenas",
+  "source": "automobiles"
+ },
+ {
+  "name": "Naza",
+  "source": "automobiles"
+ },
+ {
+  "name": "Perodua",
+  "source": "automobiles"
+ },
+ {
+  "name": "Proton",
+  "source": "automobiles"
+ },
+ {
+  "name": "DINA",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mastretta",
+  "source": "automobiles"
+ },
+ {
+  "name": "VUHL",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ramirez",
+  "source": "automobiles"
+ },
+ {
+  "name": "VAM",
+  "source": "automobiles"
+ },
+ {
+  "name": "Montecarlo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Neo Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Laraki",
+  "source": "automobiles"
+ },
+ {
+  "name": "Renault Somaca",
+  "source": "automobiles"
+ },
+ {
+  "name": "Fiat Somaca",
+  "source": "automobiles"
+ },
+ {
+  "name": "Shan Star",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hulas Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Burton",
+  "source": "automobiles"
+ },
+ {
+  "name": "Carver",
+  "source": "automobiles"
+ },
+ {
+  "name": "DAF",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dakar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Donkervoort",
+  "source": "automobiles"
+ },
+ {
+  "name": "Spijkstaal",
+  "source": "automobiles"
+ },
+ {
+  "name": "Spyker",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vandenbrink",
+  "source": "automobiles"
+ },
+ {
+  "name": "VDL Nedcar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vencer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Anziel",
+  "source": "automobiles"
+ },
+ {
+  "name": "Saker Cars",
+  "source": "automobiles"
+ },
+ {
+  "name": "Trekka",
+  "source": "automobiles"
+ },
+ {
+  "name": "Innoson Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pyeonghwa Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sungri Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Samhung Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Moxy Trucks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Buddy",
+  "source": "automobiles"
+ },
+ {
+  "name": "Think",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sazgar",
+  "source": "automobiles"
+ },
+ {
+  "name": "United Auto Industries",
+  "source": "automobiles"
+ },
+ {
+  "name": "Adam Motor Company",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dewan Farooque Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nexus Automotive",
+  "source": "automobiles"
+ },
+ {
+  "name": "Almazora Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Del Monte Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sarao Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Delta",
+  "source": "automobiles"
+ },
+ {
+  "name": "AMZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "Arrinera",
+  "source": "automobiles"
+ },
+ {
+  "name": "Autosan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jelcz",
+  "source": "automobiles"
+ },
+ {
+  "name": "Solaris",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ursus",
+  "source": "automobiles"
+ },
+ {
+  "name": "FSC Żuk",
+  "source": "automobiles"
+ },
+ {
+  "name": "FSM",
+  "source": "automobiles"
+ },
+ {
+  "name": "FSO",
+  "source": "automobiles"
+ },
+ {
+  "name": "FSR Tarpan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Intrall",
+  "source": "automobiles"
+ },
+ {
+  "name": "Polski Fiat",
+  "source": "automobiles"
+ },
+ {
+  "name": "Star",
+  "source": "automobiles"
+ },
+ {
+  "name": "Syrena",
+  "source": "automobiles"
+ },
+ {
+  "name": "Warszawa",
+  "source": "automobiles"
+ },
+ {
+  "name": "ZSD Nysa",
+  "source": "automobiles"
+ },
+ {
+  "name": "MOBIpeople",
+  "source": "automobiles"
+ },
+ {
+  "name": "Salvador Caetano",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vinci",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bravia",
+  "source": "automobiles"
+ },
+ {
+  "name": "Portaro",
+  "source": "automobiles"
+ },
+ {
+  "name": "UMM",
+  "source": "automobiles"
+ },
+ {
+  "name": "Edfor",
+  "source": "automobiles"
+ },
+ {
+  "name": "ALBA",
+  "source": "automobiles"
+ },
+ {
+  "name": "DM",
+  "source": "automobiles"
+ },
+ {
+  "name": "Olda",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dacia",
+  "source": "automobiles"
+ },
+ {
+  "name": "ROMAN",
+  "source": "automobiles"
+ },
+ {
+  "name": "ARO",
+  "source": "automobiles"
+ },
+ {
+  "name": "Oltcit",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rocar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Aurus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Avtotor",
+  "source": "automobiles"
+ },
+ {
+  "name": "GAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "IZh",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kamaz",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lada",
+  "source": "automobiles"
+ },
+ {
+  "name": "PAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sollers",
+  "source": "automobiles"
+ },
+ {
+  "name": "UAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "Amur",
+  "source": "automobiles"
+ },
+ {
+  "name": "Avtoframos",
+  "source": "automobiles"
+ },
+ {
+  "name": "AvtoKuban",
+  "source": "automobiles"
+ },
+ {
+  "name": "Derways",
+  "source": "automobiles"
+ },
+ {
+  "name": "GAZ (Volga)",
+  "source": "automobiles"
+ },
+ {
+  "name": "Marussia",
+  "source": "automobiles"
+ },
+ {
+  "name": "Moskvitch",
+  "source": "automobiles"
+ },
+ {
+  "name": "Russo-Balt",
+  "source": "automobiles"
+ },
+ {
+  "name": "SeAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "SMZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "TagAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "Yo-Mobile",
+  "source": "automobiles"
+ },
+ {
+  "name": "ZiL",
+  "source": "automobiles"
+ },
+ {
+  "name": "KSU Gazal-1",
+  "source": "automobiles"
+ },
+ {
+  "name": "FAP",
+  "source": "automobiles"
+ },
+ {
+  "name": "FAS",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ikarbus",
+  "source": "automobiles"
+ },
+ {
+  "name": "IMT",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zastava",
+  "source": "automobiles"
+ },
+ {
+  "name": "IDA",
+  "source": "automobiles"
+ },
+ {
+  "name": "Yugo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Adria Mobil",
+  "source": "automobiles"
+ },
+ {
+  "name": "Revoz",
+  "source": "automobiles"
+ },
+ {
+  "name": "TAM-Europe",
+  "source": "automobiles"
+ },
+ {
+  "name": "TAM",
+  "source": "automobiles"
+ },
+ {
+  "name": "AAD",
+  "source": "automobiles"
+ },
+ {
+  "name": "Perana Performance Group",
+  "source": "automobiles"
+ },
+ {
+  "name": "CT&T United",
+  "source": "automobiles"
+ },
+ {
+  "name": "Daewoo Bus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Genesis",
+  "source": "automobiles"
+ },
+ {
+  "name": "GM Korea",
+  "source": "automobiles"
+ },
+ {
+  "name": "Gwangju Global Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hyundai",
+  "source": "automobiles"
+ },
+ {
+  "name": "KG Mobility",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kia",
+  "source": "automobiles"
+ },
+ {
+  "name": "Renault Korea",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tata Daewoo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Asia Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Daewoo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Keohwa",
+  "source": "automobiles"
+ },
+ {
+  "name": "Proto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Saehan",
+  "source": "automobiles"
+ },
+ {
+  "name": "SsangYong",
+  "source": "automobiles"
+ },
+ {
+  "name": "Samsung",
+  "source": "automobiles"
+ },
+ {
+  "name": "Shinjin",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sibal",
+  "source": "automobiles"
+ },
+ {
+  "name": "Abadal",
+  "source": "automobiles"
+ },
+ {
+  "name": "Aspid",
+  "source": "automobiles"
+ },
+ {
+  "name": "Cupra",
+  "source": "automobiles"
+ },
+ {
+  "name": "GTA",
+  "source": "automobiles"
+ },
+ {
+  "name": "Irizar",
+  "source": "automobiles"
+ },
+ {
+  "name": "SEAT",
+  "source": "automobiles"
+ },
+ {
+  "name": "Spania",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tauro",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tramontana",
+  "source": "automobiles"
+ },
+ {
+  "name": "Uro",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hispano Suiza",
+  "source": "automobiles"
+ },
+ {
+  "name": "Micro",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vega EVX",
+  "source": "automobiles"
+ },
+ {
+  "name": "Koenigsegg",
+  "source": "automobiles"
+ },
+ {
+  "name": "NEVS",
+  "source": "automobiles"
+ },
+ {
+  "name": "Polestar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Scania",
+  "source": "automobiles"
+ },
+ {
+  "name": "Volvo Buses",
+  "source": "automobiles"
+ },
+ {
+  "name": "Volvo Cars",
+  "source": "automobiles"
+ },
+ {
+  "name": "Volvo Trucks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jösse Car",
+  "source": "automobiles"
+ },
+ {
+  "name": "Saab",
+  "source": "automobiles"
+ },
+ {
+  "name": "Uniti",
+  "source": "automobiles"
+ },
+ {
+  "name": "Micro Mobility Systems",
+  "source": "automobiles"
+ },
+ {
+  "name": "Leblanc",
+  "source": "automobiles"
+ },
+ {
+  "name": "Piëch Automotive",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rinspeed",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sbarro",
+  "source": "automobiles"
+ },
+ {
+  "name": "Enzmann",
+  "source": "automobiles"
+ },
+ {
+  "name": "Martini",
+  "source": "automobiles"
+ },
+ {
+  "name": "Monteverdi",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pic-Pic",
+  "source": "automobiles"
+ },
+ {
+  "name": "Soletta",
+  "source": "automobiles"
+ },
+ {
+  "name": "CMC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Foxtron",
+  "source": "automobiles"
+ },
+ {
+  "name": "Luxgen",
+  "source": "automobiles"
+ },
+ {
+  "name": "Yulon",
+  "source": "automobiles"
+ },
+ {
+  "name": "Thai Rung",
+  "source": "automobiles"
+ },
+ {
+  "name": "Wallyscar",
+  "source": "automobiles"
+ },
+ {
+  "name": "BMC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Erkunt",
+  "source": "automobiles"
+ },
+ {
+  "name": "Etox",
+  "source": "automobiles"
+ },
+ {
+  "name": "Fiat-Tofaş",
+  "source": "automobiles"
+ },
+ {
+  "name": "FNSS",
+  "source": "automobiles"
+ },
+ {
+  "name": "Guleryuz",
+  "source": "automobiles"
+ },
+ {
+  "name": "Karsan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Otokar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Özaltin",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pancar Motor",
+  "source": "automobiles"
+ },
+ {
+  "name": "Temsa",
+  "source": "automobiles"
+ },
+ {
+  "name": "Togg",
+  "source": "automobiles"
+ },
+ {
+  "name": "Anadol",
+  "source": "automobiles"
+ },
+ {
+  "name": "Devrim",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bohdan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Etalon",
+  "source": "automobiles"
+ },
+ {
+  "name": "KrAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "LAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "ZAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "AC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Alexander Dennis",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ariel",
+  "source": "automobiles"
+ },
+ {
+  "name": "Aston Martin",
+  "source": "automobiles"
+ },
+ {
+  "name": "Atalanta Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "BAC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bentley",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bowler",
+  "source": "automobiles"
+ },
+ {
+  "name": "Caterham",
+  "source": "automobiles"
+ },
+ {
+  "name": "Crosslé",
+  "source": "automobiles"
+ },
+ {
+  "name": "David Brown Automotive",
+  "source": "automobiles"
+ },
+ {
+  "name": "Elemental Cars",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ginetta",
+  "source": "automobiles"
+ },
+ {
+  "name": "GKD",
+  "source": "automobiles"
+ },
+ {
+  "name": "GMA",
+  "source": "automobiles"
+ },
+ {
+  "name": "Grinnall",
+  "source": "automobiles"
+ },
+ {
+  "name": "Healey",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jaguar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lagonda",
+  "source": "automobiles"
+ },
+ {
+  "name": "Larmar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Land Rover",
+  "source": "automobiles"
+ },
+ {
+  "name": "LEVC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lotus",
+  "source": "automobiles"
+ },
+ {
+  "name": "McLaren",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mellor Bus",
+  "source": "automobiles"
+ },
+ {
+  "name": "MG",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mini",
+  "source": "automobiles"
+ },
+ {
+  "name": "Modec",
+  "source": "automobiles"
+ },
+ {
+  "name": "Morgan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Noble",
+  "source": "automobiles"
+ },
+ {
+  "name": "Radical Sportscars",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rolls-Royce",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ronart Cars",
+  "source": "automobiles"
+ },
+ {
+  "name": "TVR",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ultima Sports",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vauxhall",
+  "source": "automobiles"
+ },
+ {
+  "name": "Westfield",
+  "source": "automobiles"
+ },
+ {
+  "name": "Wrightbus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Adam's Brothers",
+  "source": "automobiles"
+ },
+ {
+  "name": "AEC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Allard",
+  "source": "automobiles"
+ },
+ {
+  "name": "Alvis",
+  "source": "automobiles"
+ },
+ {
+  "name": "Austin",
+  "source": "automobiles"
+ },
+ {
+  "name": "Austin-Healey",
+  "source": "automobiles"
+ },
+ {
+  "name": "British Leyland",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bristol",
+  "source": "automobiles"
+ },
+ {
+  "name": "Daimler",
+  "source": "automobiles"
+ },
+ {
+  "name": "Donald Healey",
+  "source": "automobiles"
+ },
+ {
+  "name": "Elva",
+  "source": "automobiles"
+ },
+ {
+  "name": "Gordon Keeble",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hillman",
+  "source": "automobiles"
+ },
+ {
+  "name": "Humber",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jensen",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jowett",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lanchester",
+  "source": "automobiles"
+ },
+ {
+  "name": "LDV",
+  "source": "automobiles"
+ },
+ {
+  "name": "Marcos",
+  "source": "automobiles"
+ },
+ {
+  "name": "Morris",
+  "source": "automobiles"
+ },
+ {
+  "name": "Panther Westwinds",
+  "source": "automobiles"
+ },
+ {
+  "name": "Reliant Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Riley",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rootes",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rover",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sharps Commercials Ltd",
+  "source": "automobiles"
+ },
+ {
+  "name": "Singer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sunbeam",
+  "source": "automobiles"
+ },
+ {
+  "name": "Trident Cars",
+  "source": "automobiles"
+ },
+ {
+  "name": "Triumph",
+  "source": "automobiles"
+ },
+ {
+  "name": "Trojan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vale Motor Company",
+  "source": "automobiles"
+ },
+ {
+  "name": "Wolseley",
+  "source": "automobiles"
+ },
+ {
+  "name": "All American Racers",
+  "source": "automobiles"
+ },
+ {
+  "name": "AM General",
+  "source": "automobiles"
+ },
+ {
+  "name": "Anteros Coachworks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Aptera",
+  "source": "automobiles"
+ },
+ {
+  "name": "Arcimoto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Autocar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Blue Bird",
+  "source": "automobiles"
+ },
+ {
+  "name": "BrightDrop",
+  "source": "automobiles"
+ },
+ {
+  "name": "Buick",
+  "source": "automobiles"
+ },
+ {
+  "name": "Cadillac",
+  "source": "automobiles"
+ },
+ {
+  "name": "Canoo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Czinger",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chevrolet",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chrysler",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chrysler (brand)",
+  "source": "automobiles"
+ },
+ {
+  "name": "DDR Motorsport",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dodge",
+  "source": "automobiles"
+ },
+ {
+  "name": "Drako Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "ElDorado",
+  "source": "automobiles"
+ },
+ {
+  "name": "ENC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Equus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Falcon Motorsports",
+  "source": "automobiles"
+ },
+ {
+  "name": "Faraday",
+  "source": "automobiles"
+ },
+ {
+  "name": "Fisker",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ford",
+  "source": "automobiles"
+ },
+ {
+  "name": "Freightliner",
+  "source": "automobiles"
+ },
+ {
+  "name": "Gillig",
+  "source": "automobiles"
+ },
+ {
+  "name": "GM",
+  "source": "automobiles"
+ },
+ {
+  "name": "GEM",
+  "source": "automobiles"
+ },
+ {
+  "name": "GMC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hennessey",
+  "source": "automobiles"
+ },
+ {
+  "name": "IC Bus",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jeep",
+  "source": "automobiles"
+ },
+ {
+  "name": "Karma",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kenworth",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lincoln",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lucid Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mack",
+  "source": "automobiles"
+ },
+ {
+  "name": "MCI",
+  "source": "automobiles"
+ },
+ {
+  "name": "Navistar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nikola Motor",
+  "source": "automobiles"
+ },
+ {
+  "name": "Oshkosh",
+  "source": "automobiles"
+ },
+ {
+  "name": "Panoz",
+  "source": "automobiles"
+ },
+ {
+  "name": "Peterbilt",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pierce",
+  "source": "automobiles"
+ },
+ {
+  "name": "Polaris",
+  "source": "automobiles"
+ },
+ {
+  "name": "Ram",
+  "source": "automobiles"
+ },
+ {
+  "name": "RAESR",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rezvani Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rivian",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rossion",
+  "source": "automobiles"
+ },
+ {
+  "name": "Saleen",
+  "source": "automobiles"
+ },
+ {
+  "name": "SCG",
+  "source": "automobiles"
+ },
+ {
+  "name": "Shelby",
+  "source": "automobiles"
+ },
+ {
+  "name": "SSC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tesla",
+  "source": "automobiles"
+ },
+ {
+  "name": "Thomas Built Buses",
+  "source": "automobiles"
+ },
+ {
+  "name": "Trion Supercars",
+  "source": "automobiles"
+ },
+ {
+  "name": "VLF Automotive",
+  "source": "automobiles"
+ },
+ {
+  "name": "Western Star",
+  "source": "automobiles"
+ },
+ {
+  "name": "Workhorse",
+  "source": "automobiles"
+ },
+ {
+  "name": "Adams-Farwell",
+  "source": "automobiles"
+ },
+ {
+  "name": "Alco",
+  "source": "automobiles"
+ },
+ {
+  "name": "AMC",
+  "source": "automobiles"
+ },
+ {
+  "name": "Amplex",
+  "source": "automobiles"
+ },
+ {
+  "name": "Apperson",
+  "source": "automobiles"
+ },
+ {
+  "name": "ArBenz",
+  "source": "automobiles"
+ },
+ {
+  "name": "Auburn",
+  "source": "automobiles"
+ },
+ {
+  "name": "Avanti Motor Company",
+  "source": "automobiles"
+ },
+ {
+  "name": "Baker Electric",
+  "source": "automobiles"
+ },
+ {
+  "name": "Bates",
+  "source": "automobiles"
+ },
+ {
+  "name": "Brush",
+  "source": "automobiles"
+ },
+ {
+  "name": "Cartercar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chalmers",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chandler",
+  "source": "automobiles"
+ },
+ {
+  "name": "Chaparral Cars",
+  "source": "automobiles"
+ },
+ {
+  "name": "Checker",
+  "source": "automobiles"
+ },
+ {
+  "name": "Clénet",
+  "source": "automobiles"
+ },
+ {
+  "name": "Cole",
+  "source": "automobiles"
+ },
+ {
+  "name": "Columbia",
+  "source": "automobiles"
+ },
+ {
+  "name": "Continental",
+  "source": "automobiles"
+ },
+ {
+  "name": "Cord",
+  "source": "automobiles"
+ },
+ {
+  "name": "Crawford",
+  "source": "automobiles"
+ },
+ {
+  "name": "Crosley",
+  "source": "automobiles"
+ },
+ {
+  "name": "Cutting",
+  "source": "automobiles"
+ },
+ {
+  "name": "Daniels",
+  "source": "automobiles"
+ },
+ {
+  "name": "Davis",
+  "source": "automobiles"
+ },
+ {
+  "name": "Devon",
+  "source": "automobiles"
+ },
+ {
+  "name": "DeLorean",
+  "source": "automobiles"
+ },
+ {
+  "name": "DeSoto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Detroit Electric",
+  "source": "automobiles"
+ },
+ {
+  "name": "Diamond Reo Trucks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Doble",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dorris",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dort",
+  "source": "automobiles"
+ },
+ {
+  "name": "Duesenberg",
+  "source": "automobiles"
+ },
+ {
+  "name": "Durant",
+  "source": "automobiles"
+ },
+ {
+  "name": "Dymaxion",
+  "source": "automobiles"
+ },
+ {
+  "name": "Eagle",
+  "source": "automobiles"
+ },
+ {
+  "name": "Edsel",
+  "source": "automobiles"
+ },
+ {
+  "name": "Elgin",
+  "source": "automobiles"
+ },
+ {
+  "name": "Essex",
+  "source": "automobiles"
+ },
+ {
+  "name": "Excalibur",
+  "source": "automobiles"
+ },
+ {
+  "name": "Flint",
+  "source": "automobiles"
+ },
+ {
+  "name": "Frazer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Gardner",
+  "source": "automobiles"
+ },
+ {
+  "name": "Geo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Graham-Paige",
+  "source": "automobiles"
+ },
+ {
+  "name": "GreenTech Automotive",
+  "source": "automobiles"
+ },
+ {
+  "name": "Grumman",
+  "source": "automobiles"
+ },
+ {
+  "name": "Haynes",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hudson",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hummer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hupmobile",
+  "source": "automobiles"
+ },
+ {
+  "name": "Hupp-Yeats",
+  "source": "automobiles"
+ },
+ {
+  "name": "Imperial",
+  "source": "automobiles"
+ },
+ {
+  "name": "International Harvester",
+  "source": "automobiles"
+ },
+ {
+  "name": "Inter-State",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jackson",
+  "source": "automobiles"
+ },
+ {
+  "name": "Jeffery",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kaiser",
+  "source": "automobiles"
+ },
+ {
+  "name": "King",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kissel",
+  "source": "automobiles"
+ },
+ {
+  "name": "Kline Kar",
+  "source": "automobiles"
+ },
+ {
+  "name": "Knox",
+  "source": "automobiles"
+ },
+ {
+  "name": "LaFayette",
+  "source": "automobiles"
+ },
+ {
+  "name": "Laforza",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lambert",
+  "source": "automobiles"
+ },
+ {
+  "name": "LaSalle",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lexington",
+  "source": "automobiles"
+ },
+ {
+  "name": "Local",
+  "source": "automobiles"
+ },
+ {
+  "name": "Locomobile",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lordstown Motors",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lozier",
+  "source": "automobiles"
+ },
+ {
+  "name": "Lyons-Knight",
+  "source": "automobiles"
+ },
+ {
+  "name": "Marmon-Herrington",
+  "source": "automobiles"
+ },
+ {
+  "name": "Maxwell",
+  "source": "automobiles"
+ },
+ {
+  "name": "McFarlan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mercer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mercury",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mitchell",
+  "source": "automobiles"
+ },
+ {
+  "name": "Monroe",
+  "source": "automobiles"
+ },
+ {
+  "name": "Moon",
+  "source": "automobiles"
+ },
+ {
+  "name": "Mosler",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nash",
+  "source": "automobiles"
+ },
+ {
+  "name": "National",
+  "source": "automobiles"
+ },
+ {
+  "name": "Nyberg",
+  "source": "automobiles"
+ },
+ {
+  "name": "Oakland",
+  "source": "automobiles"
+ },
+ {
+  "name": "Oldsmobile",
+  "source": "automobiles"
+ },
+ {
+  "name": "Overland",
+  "source": "automobiles"
+ },
+ {
+  "name": "Packard",
+  "source": "automobiles"
+ },
+ {
+  "name": "Peerless",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pierce-Arrow",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pilot",
+  "source": "automobiles"
+ },
+ {
+  "name": "Plymouth",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pontiac",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pope-Toledo",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pope-Tribune",
+  "source": "automobiles"
+ },
+ {
+  "name": "Proterra",
+  "source": "automobiles"
+ },
+ {
+  "name": "Pungs Finch",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rambler",
+  "source": "automobiles"
+ },
+ {
+  "name": "Rauch and Lang",
+  "source": "automobiles"
+ },
+ {
+  "name": "Regal",
+  "source": "automobiles"
+ },
+ {
+  "name": "REO",
+  "source": "automobiles"
+ },
+ {
+  "name": "Safari Coach",
+  "source": "automobiles"
+ },
+ {
+  "name": "Saturn",
+  "source": "automobiles"
+ },
+ {
+  "name": "Scion",
+  "source": "automobiles"
+ },
+ {
+  "name": "Scripps-Booth",
+  "source": "automobiles"
+ },
+ {
+  "name": "Simplex",
+  "source": "automobiles"
+ },
+ {
+  "name": "Speedwell",
+  "source": "automobiles"
+ },
+ {
+  "name": "Stanley",
+  "source": "automobiles"
+ },
+ {
+  "name": "Stearns-Knight",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sterling",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sterling Trucks",
+  "source": "automobiles"
+ },
+ {
+  "name": "Stevens-Duryea",
+  "source": "automobiles"
+ },
+ {
+  "name": "Stoddard-Dayton",
+  "source": "automobiles"
+ },
+ {
+  "name": "Stout Motor Car Company",
+  "source": "automobiles"
+ },
+ {
+  "name": "Stutz",
+  "source": "automobiles"
+ },
+ {
+  "name": "TH!NK",
+  "source": "automobiles"
+ },
+ {
+  "name": "Thomas",
+  "source": "automobiles"
+ },
+ {
+  "name": "Tucker",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vector",
+  "source": "automobiles"
+ },
+ {
+  "name": "VPG",
+  "source": "automobiles"
+ },
+ {
+  "name": "Velie",
+  "source": "automobiles"
+ },
+ {
+  "name": "Westcott",
+  "source": "automobiles"
+ },
+ {
+  "name": "White",
+  "source": "automobiles"
+ },
+ {
+  "name": "Willys",
+  "source": "automobiles"
+ },
+ {
+  "name": "Zimmer",
+  "source": "automobiles"
+ },
+ {
+  "name": "Effa",
+  "source": "automobiles"
+ },
+ {
+  "name": "Indio",
+  "source": "automobiles"
+ },
+ {
+  "name": "Sevel Uruguay",
+  "source": "automobiles"
+ },
+ {
+  "name": "SAZ",
+  "source": "automobiles"
+ },
+ {
+  "name": "GM Uzbekistan",
+  "source": "automobiles"
+ },
+ {
+  "name": "Venirauto",
+  "source": "automobiles"
+ },
+ {
+  "name": "Vinaxuki",
+  "source": "automobiles"
+ },
+ {
+  "name": "USA",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "SUI",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "DEN",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "GBR SWE",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "FRA",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "GBR",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "JPN",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "GER",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "CHN",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "ROK",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "IND",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "ISR",
+  "source": "biomed_mc"
+ },
+ {
+  "name": "Absolute Security",
+  "source": "cyber"
+ },
+ {
+  "name": "ADF Solutions",
+  "source": "cyber"
+ },
+ {
+  "name": "Aikido Security",
+  "source": "cyber"
+ },
+ {
+  "name": "Altor Networks",
+  "source": "cyber"
+ },
+ {
+  "name": "Anonymizer (company)",
+  "source": "cyber"
+ },
+ {
+  "name": "Arctic Wolf Networks",
+  "source": "cyber"
+ },
+ {
+  "name": "ARX (company)",
+  "source": "cyber"
+ },
+ {
+  "name": "AuthenTec",
+  "source": "cyber"
+ },
+ {
+  "name": "Barracuda Networks",
+  "source": "cyber"
+ },
+ {
+  "name": "Bitdefender",
+  "source": "cyber"
+ },
+ {
+  "name": "BlueTalon",
+  "source": "cyber"
+ },
+ {
+  "name": "Bromium",
+  "source": "cyber"
+ },
+ {
+  "name": "Bugcrowd",
+  "source": "cyber"
+ },
+ {
+  "name": "Canon IT Solutions",
+  "source": "cyber"
+ },
+ {
+  "name": "Cato Networks",
+  "source": "cyber"
+ },
+ {
+  "name": "Check Point",
+  "source": "cyber"
+ },
+ {
+  "name": "Checkmarx",
+  "source": "cyber"
+ },
+ {
+  "name": "Chronicle Security",
+  "source": "cyber"
+ },
+ {
+  "name": "Clavister",
+  "source": "cyber"
+ },
+ {
+  "name": "Columbitech",
+  "source": "cyber"
+ },
+ {
+  "name": "Comodo Cybersecurity",
+  "source": "cyber"
+ },
+ {
+  "name": "Core Security Technologies",
+  "source": "cyber"
+ },
+ {
+  "name": "Credant Technologies",
+  "source": "cyber"
+ },
+ {
+  "name": "Critical Start",
+  "source": "cyber"
+ },
+ {
+  "name": "CronLab",
+  "source": "cyber"
+ },
+ {
+  "name": "Crossbeam Systems",
+  "source": "cyber"
+ },
+ {
+  "name": "CrowdStrike",
+  "source": "cyber"
+ },
+ {
+  "name": "Cryptek",
+  "source": "cyber"
+ },
+ {
+  "name": "CyberArk",
+  "source": "cyber"
+ },
+ {
+  "name": "Cybereason",
+  "source": "cyber"
+ },
+ {
+  "name": "CyberHound",
+  "source": "cyber"
+ },
+ {
+  "name": "CyberTrust",
+  "source": "cyber"
+ },
+ {
+  "name": "Cylance",
+  "source": "cyber"
+ },
+ {
+  "name": "Cynet (company)",
+  "source": "cyber"
+ },
+ {
+  "name": "Cyveillance",
+  "source": "cyber"
+ },
+ {
+  "name": "DarkTrace",
+  "source": "cyber"
+ },
+ {
+  "name": "Dasient",
+  "source": "cyber"
+ },
+ {
+  "name": "Datto (company)",
+  "source": "cyber"
+ },
+ {
+  "name": "Deep Instinct",
+  "source": "cyber"
+ },
+ {
+  "name": "Druva",
+  "source": "cyber"
+ },
+ {
+  "name": "Emsisoft",
+  "source": "cyber"
+ },
+ {
+  "name": "ESafe",
+  "source": "cyber"
+ },
+ {
+  "name": "ESET",
+  "source": "cyber"
+ },
+ {
+  "name": "Exabeam",
+  "source": "cyber"
+ },
+ {
+  "name": "F5, Inc.",
+  "source": "cyber"
+ },
+ {
+  "name": "Fastly",
+  "source": "cyber"
+ },
+ {
+  "name": "Finjan Holdings",
+  "source": "cyber"
+ },
+ {
+  "name": "Fluid Attacks",
+  "source": "cyber"
+ },
+ {
+  "name": "Forcepoint",
+  "source": "cyber"
+ },
+ {
+  "name": "Forter",
+  "source": "cyber"
+ },
+ {
+  "name": "Fortinet",
+  "source": "cyber"
+ },
+ {
+  "name": "G Data CyberDefense",
+  "source": "cyber"
+ },
+ {
+  "name": "Gen Digital",
+  "source": "cyber"
+ },
+ {
+  "name": "General Dynamics Mission Systems",
+  "source": "cyber"
+ },
+ {
+  "name": "Guardian Analytics",
+  "source": "cyber"
+ },
+ {
+  "name": "HackerOne",
+  "source": "cyber"
+ },
+ {
+  "name": "HBGary",
+  "source": "cyber"
+ },
+ {
+  "name": "ImmuniWeb",
+  "source": "cyber"
+ },
+ {
+  "name": "Impermium",
+  "source": "cyber"
+ },
+ {
+  "name": "Imprivata",
+  "source": "cyber"
+ },
+ {
+  "name": "InfoSec Institute",
+  "source": "cyber"
+ },
+ {
+  "name": "Infysec",
+  "source": "cyber"
+ },
+ {
+  "name": "IID (company)",
+  "source": "cyber"
+ },
+ {
+  "name": "InterWorking Labs",
+  "source": "cyber"
+ },
+ {
+  "name": "IOActive",
+  "source": "cyber"
+ },
+ {
+  "name": "Itochu Techno-Solutions",
+  "source": "cyber"
+ },
+ {
+  "name": "JAL Infotec",
+  "source": "cyber"
+ },
+ {
+  "name": "Kaspersky Lab",
+  "source": "cyber"
+ },
+ {
+  "name": "Lastline",
+  "source": "cyber"
+ },
+ {
+  "name": "Librem",
+  "source": "cyber"
+ },
+ {
+  "name": "Loggly",
+  "source": "cyber"
+ },
+ {
+  "name": "LogLogic",
+  "source": "cyber"
+ },
+ {
+  "name": "LogRhythm",
+  "source": "cyber"
+ },
+ {
+  "name": "Mile2",
+  "source": "cyber"
+ },
+ {
+  "name": "Mitsui Knowledge Industry",
+  "source": "cyber"
+ },
+ {
+  "name": "Mocana",
+  "source": "cyber"
+ },
+ {
+  "name": "NEC",
+  "source": "cyber"
+ },
+ {
+  "name": "Netcraft",
+  "source": "cyber"
+ },
+ {
+  "name": "NetScreen Technologies",
+  "source": "cyber"
+ },
+ {
+  "name": "Netwitness",
+  "source": "cyber"
+ },
+ {
+  "name": "Nexor",
+  "source": "cyber"
+ },
+ {
+  "name": "NitroSecurity",
+  "source": "cyber"
+ },
+ {
+  "name": "Nomura Research Institute",
+  "source": "cyber"
+ },
+ {
+  "name": "NowSecure",
+  "source": "cyber"
+ },
+ {
+  "name": "NS Solutions",
+  "source": "cyber"
+ },
+ {
+  "name": "OneLogin",
+  "source": "cyber"
+ },
+ {
+  "name": "OneSpan",
+  "source": "cyber"
+ },
+ {
+  "name": "OpenText",
+  "source": "cyber"
+ },
+ {
+  "name": "Optenet",
+  "source": "cyber"
+ },
+ {
+  "name": "Optiv",
+  "source": "cyber"
+ },
+ {
+  "name": "Palo Alto Networks",
+  "source": "cyber"
+ },
+ {
+  "name": "Penta Security",
+  "source": "cyber"
+ },
+ {
+  "name": "Pine64",
+  "source": "cyber"
+ },
+ {
+  "name": "Ping Identity",
+  "source": "cyber"
+ },
+ {
+  "name": "PrivateCore",
+  "source": "cyber"
+ },
+ {
+  "name": "Prolexic Technologies",
+  "source": "cyber"
+ },
+ {
+  "name": "Quick Heal",
+  "source": "cyber"
+ },
+ {
+  "name": "Quantum eMotion",
+  "source": "cyber"
+ },
+ {
+  "name": "Rapid7",
+  "source": "cyber"
+ },
+ {
+  "name": "RiskIQ",
+  "source": "cyber"
+ },
+ {
+  "name": "RSA Security",
+  "source": "cyber"
+ },
+ {
+  "name": "SCSK",
+  "source": "cyber"
+ },
+ {
+  "name": "Secunet Security Networks",
+  "source": "cyber"
+ },
+ {
+  "name": "Secureworks",
+  "source": "cyber"
+ },
+ {
+  "name": "Sendio",
+  "source": "cyber"
+ },
+ {
+  "name": "SentinelOne",
+  "source": "cyber"
+ },
+ {
+  "name": "Skyhigh Security",
+  "source": "cyber"
+ },
+ {
+  "name": "Snyk",
+  "source": "cyber"
+ },
+ {
+  "name": "SonicWall",
+  "source": "cyber"
+ },
+ {
+  "name": "Sony Global Solutions",
+  "source": "cyber"
+ },
+ {
+  "name": "Sophos",
+  "source": "cyber"
+ },
+ {
+  "name": "Splunk",
+  "source": "cyber"
+ },
+ {
+  "name": "SQ1 Security",
+  "source": "cyber"
+ },
+ {
+  "name": "Stonesoft Corporation",
+  "source": "cyber"
+ },
+ {
+  "name": "Sumo Logic",
+  "source": "cyber"
+ },
+ {
+  "name": "Synack",
+  "source": "cyber"
+ },
+ {
+  "name": "Synopsys",
+  "source": "cyber"
+ },
+ {
+  "name": "Tanium",
+  "source": "cyber"
+ },
+ {
+  "name": "Tenable, Inc.",
+  "source": "cyber"
+ },
+ {
+  "name": "ThreatConnect",
+  "source": "cyber"
+ },
+ {
+  "name": "TitanFile",
+  "source": "cyber"
+ },
+ {
+  "name": "Tiversa",
+  "source": "cyber"
+ },
+ {
+  "name": "Trend Micro",
+  "source": "cyber"
+ },
+ {
+  "name": "Trusteer",
+  "source": "cyber"
+ },
+ {
+  "name": "Tufin",
+  "source": "cyber"
+ },
+ {
+  "name": "Uniadex",
+  "source": "cyber"
+ },
+ {
+  "name": "Vectra AI",
+  "source": "cyber"
+ },
+ {
+  "name": "Venafi",
+  "source": "cyber"
+ },
+ {
+  "name": "VMware Carbon Black",
+  "source": "cyber"
+ },
+ {
+  "name": "WatchGuard",
+  "source": "cyber"
+ },
+ {
+  "name": "Web Sheriff",
+  "source": "cyber"
+ },
+ {
+  "name": "World Informatix Cyber Security",
+  "source": "cyber"
+ },
+ {
+  "name": "Xetron",
+  "source": "cyber"
+ },
+ {
+  "name": "YesWeHack",
+  "source": "cyber"
+ },
+ {
+  "name": "Zerodium",
+  "source": "cyber"
+ },
+ {
+  "name": "Zscaler",
+  "source": "cyber"
+ },
+ {
+  "name": "Teledyne Technologies",
+  "source": "fabs"
+ },
+ {
+  "name": "STMicroelectronics",
+  "source": "fabs"
+ },
+ {
+  "name": "nLIGHT",
+  "source": "fabs"
+ },
+ {
+  "name": "Safran Sensing Technologies Switzerland",
+  "source": "fabs"
+ },
+ {
+  "name": "Pure Wafer",
+  "source": "fabs"
+ },
+ {
+  "name": "EM Microelectronic",
+  "source": "fabs"
+ },
+ {
+  "name": "UMC – He Jian",
+  "source": "fabs"
+ },
+ {
+  "name": "UMC",
+  "source": "fabs"
+ },
+ {
+  "name": "Texas Instruments",
+  "source": "fabs"
+ },
+ {
+  "name": "Tsinghua Unigroup",
+  "source": "fabs"
+ },
+ {
+  "name": "Tsinghua Unigroup – Yangtze Memory Technologies (YMTC) – XMC",
+  "source": "fabs"
+ },
+ {
+  "name": "SMIC",
+  "source": "fabs"
+ },
+ {
+  "name": "Wuxi Xichanweixinnowrap",
+  "source": "fabs"
+ },
+ {
+  "name": "Nanya",
+  "source": "fabs"
+ },
+ {
+  "name": "MESA+ Institute",
+  "source": "fabs"
+ },
+ {
+  "name": "Micron",
+  "source": "fabs"
+ },
+ {
+  "name": "Intel",
+  "source": "fabs"
+ },
+ {
+  "name": "Tower Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "Tower Semiconductor – TPSCo",
+  "source": "fabs"
+ },
+ {
+  "name": "STAR-C",
+  "source": "fabs"
+ },
+ {
+  "name": "Qorvo(formerly Texas Instruments)",
+  "source": "fabs"
+ },
+ {
+  "name": "Analog Devices",
+  "source": "fabs"
+ },
+ {
+  "name": "Rohm",
+  "source": "fabs"
+ },
+ {
+  "name": "Rohm (Lapis Semiconductor)(Oki Electric Industry)",
+  "source": "fabs"
+ },
+ {
+  "name": "Rohm (Lapis Semiconductor)",
+  "source": "fabs"
+ },
+ {
+  "name": "Fuji Electric",
+  "source": "fabs"
+ },
+ {
+  "name": "Fujitsu",
+  "source": "fabs"
+ },
+ {
+  "name": "Dynex Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "Denso",
+  "source": "fabs"
+ },
+ {
+  "name": "Canon Inc.",
+  "source": "fabs"
+ },
+ {
+  "name": "Japan Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "Kioxia",
+  "source": "fabs"
+ },
+ {
+  "name": "Kioxia/SanDisk",
+  "source": "fabs"
+ },
+ {
+  "name": "MinebeaMitsumi",
+  "source": "fabs"
+ },
+ {
+  "name": "Mitsubishi Electric",
+  "source": "fabs"
+ },
+ {
+  "name": "Powerchip Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "Macronix",
+  "source": "fabs"
+ },
+ {
+  "name": "Renesas",
+  "source": "fabs"
+ },
+ {
+  "name": "Renesas)",
+  "source": "fabs"
+ },
+ {
+  "name": "TDK",
+  "source": "fabs"
+ },
+ {
+  "name": "Silanna",
+  "source": "fabs"
+ },
+ {
+  "name": "Murata Manufacturing",
+  "source": "fabs"
+ },
+ {
+  "name": "Murata Electronics (Finland)",
+  "source": "fabs"
+ },
+ {
+  "name": "Murata Integrated Passive Solutions",
+  "source": "fabs"
+ },
+ {
+  "name": "Mitsumi Electric",
+  "source": "fabs"
+ },
+ {
+  "name": "Sony",
+  "source": "fabs"
+ },
+ {
+  "name": "SK Hynix",
+  "source": "fabs"
+ },
+ {
+  "name": "LG Innotek",
+  "source": "fabs"
+ },
+ {
+  "name": "ON Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "ON Semiconductor(formerly National Semiconductor)",
+  "source": "fabs"
+ },
+ {
+  "name": "JS Foundry K.K.",
+  "source": "fabs"
+ },
+ {
+  "name": "Diodes Incorporated(formerly Fairchild Semiconductor) (formerly National Semiconductor)",
+  "source": "fabs"
+ },
+ {
+  "name": "Diodes Incorporated",
+  "source": "fabs"
+ },
+ {
+  "name": "Lite-On Optoelectronics",
+  "source": "fabs"
+ },
+ {
+  "name": "Lite-On Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "Philips",
+  "source": "fabs"
+ },
+ {
+  "name": "Newport Wafer Fab",
+  "source": "fabs"
+ },
+ {
+  "name": "Nexperia",
+  "source": "fabs"
+ },
+ {
+  "name": "NXP Semiconductors - SSMC",
+  "source": "fabs"
+ },
+ {
+  "name": "NXP Semiconductors",
+  "source": "fabs"
+ },
+ {
+  "name": "AWSC",
+  "source": "fabs"
+ },
+ {
+  "name": "Skyworks Solutions",
+  "source": "fabs"
+ },
+ {
+  "name": "Win Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "AMS-Osram",
+  "source": "fabs"
+ },
+ {
+  "name": "Winbond",
+  "source": "fabs"
+ },
+ {
+  "name": "Vanguard International Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "TSMC",
+  "source": "fabs"
+ },
+ {
+  "name": "TSMC China Company",
+  "source": "fabs"
+ },
+ {
+  "name": "Epistar",
+  "source": "fabs"
+ },
+ {
+  "name": "GCS",
+  "source": "fabs"
+ },
+ {
+  "name": "Bosch",
+  "source": "fabs"
+ },
+ {
+  "name": "X-Fab",
+  "source": "fabs"
+ },
+ {
+  "name": "IXYS",
+  "source": "fabs"
+ },
+ {
+  "name": "Seagate",
+  "source": "fabs"
+ },
+ {
+  "name": "Broadcom Inc.",
+  "source": "fabs"
+ },
+ {
+  "name": "Wolfspeed",
+  "source": "fabs"
+ },
+ {
+  "name": "SMART Modular Technologies",
+  "source": "fabs"
+ },
+ {
+  "name": "Infineon Technologies",
+  "source": "fabs"
+ },
+ {
+  "name": "GlobalFoundries",
+  "source": "fabs"
+ },
+ {
+  "name": "SUNY Poly CNSE",
+  "source": "fabs"
+ },
+ {
+  "name": "Optek Technology",
+  "source": "fabs"
+ },
+ {
+  "name": "II-VI (formerly NORTHERN TELECOM SEMICONDUCTOR NORTHERN TELECOM EUROPE",
+  "source": "fabs"
+ },
+ {
+  "name": "Rogue Valley Microdevices",
+  "source": "fabs"
+ },
+ {
+  "name": "Atomica",
+  "source": "fabs"
+ },
+ {
+  "name": "Sensera",
+  "source": "fabs"
+ },
+ {
+  "name": "Rigetti Computing",
+  "source": "fabs"
+ },
+ {
+  "name": "Polar Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "Orbit Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "Soraa Laser Diode",
+  "source": "fabs"
+ },
+ {
+  "name": "Unitec do Brasil",
+  "source": "fabs"
+ },
+ {
+  "name": "Unitec Blue",
+  "source": "fabs"
+ },
+ {
+  "name": "Everlight",
+  "source": "fabs"
+ },
+ {
+  "name": "Optotech",
+  "source": "fabs"
+ },
+ {
+  "name": "Arima Optoelectronics",
+  "source": "fabs"
+ },
+ {
+  "name": "Creative Sensor Inc.",
+  "source": "fabs"
+ },
+ {
+  "name": "Panjit",
+  "source": "fabs"
+ },
+ {
+  "name": "GTA Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "Shanghai Belling",
+  "source": "fabs"
+ },
+ {
+  "name": "SiSemi",
+  "source": "fabs"
+ },
+ {
+  "name": "San'an Optoelectronics",
+  "source": "fabs"
+ },
+ {
+  "name": "Sanan IC",
+  "source": "fabs"
+ },
+ {
+  "name": "Hua Hong Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "Hua Hong Semiconductor (HLMC)",
+  "source": "fabs"
+ },
+ {
+  "name": "HuaLei Optoelectronic",
+  "source": "fabs"
+ },
+ {
+  "name": "Sino King Technology",
+  "source": "fabs"
+ },
+ {
+  "name": "CanSemi",
+  "source": "fabs"
+ },
+ {
+  "name": "SensFab",
+  "source": "fabs"
+ },
+ {
+  "name": "DB HiTek",
+  "source": "fabs"
+ },
+ {
+  "name": "Kodenshi AUK Group",
+  "source": "fabs"
+ },
+ {
+  "name": "Seiko Instruments",
+  "source": "fabs"
+ },
+ {
+  "name": "Epson",
+  "source": "fabs"
+ },
+ {
+  "name": "Olympus",
+  "source": "fabs"
+ },
+ {
+  "name": "New Japan Radio",
+  "source": "fabs"
+ },
+ {
+  "name": "Nichia",
+  "source": "fabs"
+ },
+ {
+  "name": "United Monolithic Semiconductors",
+  "source": "fabs"
+ },
+ {
+  "name": "nanoPHAB",
+  "source": "fabs"
+ },
+ {
+  "name": "Micron Semiconductor Ltd.",
+  "source": "fabs"
+ },
+ {
+  "name": "Pragmatic Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "INEX Microtechnology",
+  "source": "fabs"
+ },
+ {
+  "name": "CSTG",
+  "source": "fabs"
+ },
+ {
+  "name": "Vishay Intertechnology",
+  "source": "fabs"
+ },
+ {
+  "name": "Semikron",
+  "source": "fabs"
+ },
+ {
+  "name": "NM-Tech",
+  "source": "fabs"
+ },
+ {
+  "name": "Angstrem",
+  "source": "fabs"
+ },
+ {
+  "name": "Crocus Nano Electronics",
+  "source": "fabs"
+ },
+ {
+  "name": "NIIIS",
+  "source": "fabs"
+ },
+ {
+  "name": "NPP Istok",
+  "source": "fabs"
+ },
+ {
+  "name": "Micran",
+  "source": "fabs"
+ },
+ {
+  "name": "Kremny EL",
+  "source": "fabs"
+ },
+ {
+  "name": "Syntez Microelectronics",
+  "source": "fabs"
+ },
+ {
+  "name": "NZPP Vostok",
+  "source": "fabs"
+ },
+ {
+  "name": "Russian Space Systems",
+  "source": "fabs"
+ },
+ {
+  "name": "Ruselectronics",
+  "source": "fabs"
+ },
+ {
+  "name": "OKB-Planeta",
+  "source": "fabs"
+ },
+ {
+  "name": "FBK – Fondazione Bruno Kessler",
+  "source": "fabs"
+ },
+ {
+  "name": "CEITEC – Centro Nacional de Tecnologia Electrônica Avançada S.A",
+  "source": "fabs"
+ },
+ {
+  "name": "HT Micron (Hana Micron)",
+  "source": "fabs"
+ },
+ {
+  "name": "Honeywell Aerospace Technologies",
+  "source": "fabs"
+ },
+ {
+  "name": "Microchip",
+  "source": "fabs"
+ },
+ {
+  "name": "Fujian Jinhua (JHICC)",
+  "source": "fabs"
+ },
+ {
+  "name": "Decoma",
+  "source": "fabs"
+ },
+ {
+  "name": "Tsinghua Unigroup – Unigroup Guoxin (Unigroup, Xi'an UniIC Semiconductors Co., Ltd.)",
+  "source": "fabs"
+ },
+ {
+  "name": "Symetrix – Panasonic",
+  "source": "fabs"
+ },
+ {
+  "name": "Atmel",
+  "source": "fabs"
+ },
+ {
+  "name": "EI Niš",
+  "source": "fabs"
+ },
+ {
+  "name": "Plessey Semiconductors",
+  "source": "fabs"
+ },
+ {
+  "name": "STMicroelectronics (formerly Nortel",
+  "source": "fabs"
+ },
+ {
+  "name": "Freescale Semiconductor",
+  "source": "fabs"
+ },
+ {
+  "name": "Agere Systems",
+  "source": "fabs"
+ },
+ {
+  "name": "GMT Microelectronics",
+  "source": "fabs"
+ },
+ {
+  "name": "Integrated Device Technology",
+  "source": "fabs"
+ },
+ {
+  "name": "Unknown (fortune 500 company)",
+  "source": "fabs"
+ },
+ {
+  "name": "Qorvo",
+  "source": "fabs"
+ },
+ {
+  "name": "Tondi Elektroonika",
+  "source": "fabs"
+ },
+ {
+  "name": "Intersil",
+  "source": "fabs"
+ },
+ {
+  "name": "Savic Motorcycles",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Thumpstar",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Nitol Niloy Group",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Runner Automobiles",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Walton Motors",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Voltz",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Havoc Motorcycles",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Chang Jiang",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Evoke Motorcycles",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Gaokin",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Jincheng Group",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Keeway",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Loncin",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Niu Technologies",
+  "source": "motorcycles"
+ },
+ {
+  "name": "QJMotor",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Qingqi",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Segway Inc.",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Sur-Ron",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Voge",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Yinxiang Motorcycle",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Znen",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Zongshen",
+  "source": "motorcycles"
+ },
+ {
+  "name": "ZXMOTO",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Auteco",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Peugeot Scooters",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Sherco",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Voxan",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Sachs Motorcycles",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Bajaj Auto",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Hero MotoCorp",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Mahindra Two Wheelers",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Ola Electric",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Royal Enfield",
+  "source": "motorcycles"
+ },
+ {
+  "name": "TVS Motor",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Ultraviolette Automotive",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Viar Motor Indonesia",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Askoll",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Beta Motor",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Benelli",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Bimota",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Energica",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Fantic Motor",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Ghezzi & Brian",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Italjet",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Magni",
+  "source": "motorcycles"
+ },
+ {
+  "name": "FB Mondial",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Moto Guzzi",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Malaguti",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Moto Morini",
+  "source": "motorcycles"
+ },
+ {
+  "name": "MV Agusta",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Paton",
+  "source": "motorcycles"
+ },
+ {
+  "name": "SWM",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Terra Modena",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Vyrus",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Moriwaki",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Kawasaki",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Yamaha",
+  "source": "motorcycles"
+ },
+ {
+  "name": "KR Motors",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Atlas Honda",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Pak Suzuki Motors",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Junak",
+  "source": "motorcycles"
+ },
+ {
+  "name": "AJP",
+  "source": "motorcycles"
+ },
+ {
+  "name": "FAMEL",
+  "source": "motorcycles"
+ },
+ {
+  "name": "IMZ-Ural",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Velomotors",
+  "source": "motorcycles"
+ },
+ {
+  "name": "ZiD",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Gas Gas",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Montesa",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Rieju",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Gogoro",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Kymco",
+  "source": "motorcycles"
+ },
+ {
+  "name": "SYM",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Taiwan Golden Bee",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Cheney Racing",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Clews Competition Motorcycles",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Maeving",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Métisse",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Scomadi",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Wasp Motorcycles",
+  "source": "motorcycles"
+ },
+ {
+  "name": "ARCH Motorcycle",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Boss Hoss",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Brammo",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Cleveland CycleWerks",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Confederate/Curtiss Motorcycles",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Harley-Davidson",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Indian Motorcycle",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Janus Motorcycles",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Lightning Motorcycle",
+  "source": "motorcycles"
+ },
+ {
+  "name": "MTT",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Rokon",
+  "source": "motorcycles"
+ },
+ {
+  "name": "US Highland",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Z Electric Vehicle",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Zero Motorcycles",
+  "source": "motorcycles"
+ },
+ {
+  "name": "Ayurvedic",
+  "source": "pharma"
+ },
+ {
+  "name": "AAH",
+  "source": "pharma"
+ },
+ {
+  "name": "Abbott",
+  "source": "pharma"
+ },
+ {
+  "name": "AbbVie",
+  "source": "pharma"
+ },
+ {
+  "name": "Abiomed",
+  "source": "pharma"
+ },
+ {
+  "name": "Abivax",
+  "source": "pharma"
+ },
+ {
+  "name": "Acadia",
+  "source": "pharma"
+ },
+ {
+  "name": "Acceleron",
+  "source": "pharma"
+ },
+ {
+  "name": "ACI Limited",
+  "source": "pharma"
+ },
+ {
+  "name": "Acme Laboratories",
+  "source": "pharma"
+ },
+ {
+  "name": "Acorda",
+  "source": "pharma"
+ },
+ {
+  "name": "ACT",
+  "source": "pharma"
+ },
+ {
+  "name": "Adcock Ingram",
+  "source": "pharma"
+ },
+ {
+  "name": "Advanz",
+  "source": "pharma"
+ },
+ {
+  "name": "Agios",
+  "source": "pharma"
+ },
+ {
+  "name": "AIM ImmunoTech",
+  "source": "pharma"
+ },
+ {
+  "name": "Ajanta",
+  "source": "pharma"
+ },
+ {
+  "name": "Alcon",
+  "source": "pharma"
+ },
+ {
+  "name": "Alembic",
+  "source": "pharma"
+ },
+ {
+  "name": "Alexion",
+  "source": "pharma"
+ },
+ {
+  "name": "Algeta",
+  "source": "pharma"
+ },
+ {
+  "name": "ALK-Abelló",
+  "source": "pharma"
+ },
+ {
+  "name": "Alkaloid",
+  "source": "pharma"
+ },
+ {
+  "name": "Alkem",
+  "source": "pharma"
+ },
+ {
+  "name": "Alkermes",
+  "source": "pharma"
+ },
+ {
+  "name": "Alnylam",
+  "source": "pharma"
+ },
+ {
+  "name": "Altana",
+  "source": "pharma"
+ },
+ {
+  "name": "Alvogen",
+  "source": "pharma"
+ },
+ {
+  "name": "Alzheon",
+  "source": "pharma"
+ },
+ {
+  "name": "AMAG",
+  "source": "pharma"
+ },
+ {
+  "name": "Amgen",
+  "source": "pharma"
+ },
+ {
+  "name": "Amneal",
+  "source": "pharma"
+ },
+ {
+  "name": "Amphastar",
+  "source": "pharma"
+ },
+ {
+  "name": "Amrutanjan Healthcare",
+  "source": "pharma"
+ },
+ {
+  "name": "Angelini",
+  "source": "pharma"
+ },
+ {
+  "name": "Angiotech",
+  "source": "pharma"
+ },
+ {
+  "name": "Annexin",
+  "source": "pharma"
+ },
+ {
+  "name": "Anthera",
+  "source": "pharma"
+ },
+ {
+  "name": "Antibiotice Iași",
+  "source": "pharma"
+ },
+ {
+  "name": "Apotex",
+  "source": "pharma"
+ },
+ {
+  "name": "Apricus",
+  "source": "pharma"
+ },
+ {
+  "name": "Arbutus",
+  "source": "pharma"
+ },
+ {
+  "name": "Arena",
+  "source": "pharma"
+ },
+ {
+  "name": "Array",
+  "source": "pharma"
+ },
+ {
+  "name": "Arrowhead",
+  "source": "pharma"
+ },
+ {
+  "name": "AryoGen",
+  "source": "pharma"
+ },
+ {
+  "name": "Aspen Pharmacare",
+  "source": "pharma"
+ },
+ {
+  "name": "Assertio",
+  "source": "pharma"
+ },
+ {
+  "name": "Astellas",
+  "source": "pharma"
+ },
+ {
+  "name": "AstraZeneca",
+  "source": "pharma"
+ },
+ {
+  "name": "aTyr",
+  "source": "pharma"
+ },
+ {
+  "name": "Aurobindo",
+  "source": "pharma"
+ },
+ {
+  "name": "Avax",
+  "source": "pharma"
+ },
+ {
+  "name": "Dentsply Sirona",
+  "source": "pharma"
+ },
+ {
+  "name": "Helixmith",
+  "source": "pharma"
+ },
+ {
+  "name": "Medivir",
+  "source": "pharma"
+ },
+ {
+  "name": "ViiV Healthcare",
+  "source": "pharma"
+ },
+ {
+  "name": "Ambit",
+  "source": "pharma"
+ },
+ {
+  "name": "Amylin",
+  "source": "pharma"
+ },
+ {
+  "name": "Biotie Therapies",
+  "source": "pharma"
+ },
+ {
+  "name": "Block Drug",
+  "source": "pharma"
+ },
+ {
+  "name": "Bradley",
+  "source": "pharma"
+ },
+ {
+  "name": "British Biotech",
+  "source": "pharma"
+ },
+ {
+  "name": "Calcutta Chemical Company",
+  "source": "pharma"
+ },
+ {
+  "name": "Cambridge Antibody Technology",
+  "source": "pharma"
+ },
+ {
+  "name": "CancerVax",
+  "source": "pharma"
+ },
+ {
+  "name": "Cephalon",
+  "source": "pharma"
+ },
+ {
+  "name": "Covidien",
+  "source": "pharma"
+ },
+ {
+  "name": "Cubist",
+  "source": "pharma"
+ },
+ {
+  "name": "Cutter",
+  "source": "pharma"
+ },
+ {
+  "name": "Distillers",
+  "source": "pharma"
+ },
+ {
+  "name": "Drug Houses of Australia",
+  "source": "pharma"
+ },
+ {
+  "name": "Élan",
+  "source": "pharma"
+ },
+ {
+  "name": "ImmunoGen",
+  "source": "pharma"
+ },
+ {
+  "name": "Immunomedics",
+  "source": "pharma"
+ },
+ {
+  "name": "Insys",
+  "source": "pharma"
+ },
+ {
+  "name": "Jennerex",
+  "source": "pharma"
+ },
+ {
+  "name": "Knoll",
+  "source": "pharma"
+ },
+ {
+  "name": "KV",
+  "source": "pharma"
+ },
+ {
+  "name": "Leiner Health Products",
+  "source": "pharma"
+ },
+ {
+  "name": "Marathon",
+  "source": "pharma"
+ },
+ {
+  "name": "Martek",
+  "source": "pharma"
+ },
+ {
+  "name": "Maxygen",
+  "source": "pharma"
+ },
+ {
+  "name": "Ortho",
+  "source": "pharma"
+ },
+ {
+  "name": "OSI",
+  "source": "pharma"
+ },
+ {
+  "name": "Parke-Davis",
+  "source": "pharma"
+ },
+ {
+  "name": "Upjohn",
+  "source": "pharma"
+ },
+ {
+  "name": "Union de Pharmacologie Scientifique Appliquée",
+  "source": "pharma"
+ },
+ {
+  "name": "Vectura",
+  "source": "pharma"
+ },
+ {
+  "name": "Zonite",
+  "source": "pharma"
+ },
+ {
+  "name": "Cital",
+  "source": "rail"
+ },
+ {
+  "name": "Ferrovial",
+  "source": "rail"
+ },
+ {
+  "name": "Astarsa",
+  "source": "rail"
+ },
+ {
+  "name": "Emepa Group",
+  "source": "rail"
+ },
+ {
+  "name": "Emprendimientos Ferroviarios",
+  "source": "rail"
+ },
+ {
+  "name": "Fabricaciones Militares",
+  "source": "rail"
+ },
+ {
+  "name": "Fábrica Argentina de Locomotoras",
+  "source": "rail"
+ },
+ {
+  "name": "Materfer",
+  "source": "rail"
+ },
+ {
+  "name": "SABB S.A.",
+  "source": "rail"
+ },
+ {
+  "name": "TecnoTren",
+  "source": "rail"
+ },
+ {
+  "name": "Alstom Australia",
+  "source": "rail"
+ },
+ {
+  "name": "Downer Rail",
+  "source": "rail"
+ },
+ {
+  "name": "UGL Rail",
+  "source": "rail"
+ },
+ {
+  "name": "Baku Carriage Repair Factory",
+  "source": "rail"
+ },
+ {
+  "name": "Alstom",
+  "source": "rail"
+ },
+ {
+  "name": "Andrade Gutierrez",
+  "source": "rail"
+ },
+ {
+  "name": "CAF",
+  "source": "rail"
+ },
+ {
+  "name": "VRZ Karlovo",
+  "source": "rail"
+ },
+ {
+  "name": "National Steel Car",
+  "source": "rail"
+ },
+ {
+  "name": "Procor",
+  "source": "rail"
+ },
+ {
+  "name": "Marine Industries",
+  "source": "rail"
+ },
+ {
+  "name": "TrentonWorks",
+  "source": "rail"
+ },
+ {
+  "name": "CRRC",
+  "source": "rail"
+ },
+ {
+  "name": "Končar",
+  "source": "rail"
+ },
+ {
+  "name": "Đuro Đaković",
+  "source": "rail"
+ },
+ {
+  "name": "Škoda Transportation",
+  "source": "rail"
+ },
+ {
+  "name": "CZ Loko",
+  "source": "rail"
+ },
+ {
+  "name": "Škoda Transtech",
+  "source": "rail"
+ },
+ {
+  "name": "Faiveley Transport",
+  "source": "rail"
+ },
+ {
+  "name": "Lohr Industrie",
+  "source": "rail"
+ },
+ {
+  "name": "SEMT Pielstick",
+  "source": "rail"
+ },
+ {
+  "name": "Socofer",
+  "source": "rail"
+ },
+ {
+  "name": "Siemens Mobility",
+  "source": "rail"
+ },
+ {
+  "name": "Hellenic Shipyards Co.",
+  "source": "rail"
+ },
+ {
+  "name": "Piraeus Railway Works",
+  "source": "rail"
+ },
+ {
+  "name": "Braithwaite & Co.",
+  "source": "rail"
+ },
+ {
+  "name": "Burn Standard Company",
+  "source": "rail"
+ },
+ {
+  "name": "Jessop & Company",
+  "source": "rail"
+ },
+ {
+  "name": "Jupiter Wagons",
+  "source": "rail"
+ },
+ {
+  "name": "Chennai",
+  "source": "rail"
+ },
+ {
+  "name": "Trident auto components pvt ltd",
+  "source": "rail"
+ },
+ {
+  "name": "Texmaco Rail & Engineering",
+  "source": "rail"
+ },
+ {
+  "name": "Titagarh Wagons",
+  "source": "rail"
+ },
+ {
+  "name": "Kin Railway Equipment Pvt Ltd",
+  "source": "rail"
+ },
+ {
+  "name": "Industri Kereta Api",
+  "source": "rail"
+ },
+ {
+  "name": "IRICO",
+  "source": "rail"
+ },
+ {
+  "name": "Mapna Locomotive Engineering and Manufacturing Company",
+  "source": "rail"
+ },
+ {
+  "name": "Alstom Ferroviaria",
+  "source": "rail"
+ },
+ {
+  "name": "Hitachi Rail Italy",
+  "source": "rail"
+ },
+ {
+  "name": "Fuji Heavy Industries",
+  "source": "rail"
+ },
+ {
+  "name": "Hitachi",
+  "source": "rail"
+ },
+ {
+  "name": "Kawasaki Heavy Industries Rolling Stock Company",
+  "source": "rail"
+ },
+ {
+  "name": "Kinki Sharyo",
+  "source": "rail"
+ },
+ {
+  "name": "Mitsubishi Heavy Industries",
+  "source": "rail"
+ },
+ {
+  "name": "Niigata Transys Company",
+  "source": "rail"
+ },
+ {
+  "name": "Nippon Sharyo",
+  "source": "rail"
+ },
+ {
+  "name": "J-TREC",
+  "source": "rail"
+ },
+ {
+  "name": "Toshiba",
+  "source": "rail"
+ },
+ {
+  "name": "Pakistan Locomotive Factory",
+  "source": "rail"
+ },
+ {
+  "name": "Carriage Factory Islamabad",
+  "source": "rail"
+ },
+ {
+  "name": "Moghalpura Railway Workshops",
+  "source": "rail"
+ },
+ {
+  "name": "Metal Industry Research and Development Center",
+  "source": "rail"
+ },
+ {
+  "name": "World War II",
+  "source": "rail"
+ },
+ {
+  "name": "Newag",
+  "source": "rail"
+ },
+ {
+  "name": "PESA",
+  "source": "rail"
+ },
+ {
+  "name": "Stadler Rail",
+  "source": "rail"
+ },
+ {
+  "name": "Astra Rail Industries",
+  "source": "rail"
+ },
+ {
+  "name": "Electroputere",
+  "source": "rail"
+ },
+ {
+  "name": "FAUR",
+  "source": "rail"
+ },
+ {
+  "name": "Electroputere VFU Paşcani",
+  "source": "rail"
+ },
+ {
+  "name": "Remarul 16 Februarie",
+  "source": "rail"
+ },
+ {
+  "name": "Altayvagon",
+  "source": "rail"
+ },
+ {
+  "name": "Muromteplovoz",
+  "source": "rail"
+ },
+ {
+  "name": "Uralvagonzavod",
+  "source": "rail"
+ },
+ {
+  "name": "Transmashholding",
+  "source": "rail"
+ },
+ {
+  "name": "UK RM RAIL",
+  "source": "rail"
+ },
+ {
+  "name": "Kambarka Engineering Works",
+  "source": "rail"
+ },
+ {
+  "name": "Tikhoretsk Machine Construction Plant n.a. Vorovsky",
+  "source": "rail"
+ },
+ {
+  "name": "First May Kirov Machine Plant",
+  "source": "rail"
+ },
+ {
+  "name": "Oktyabrsky Electric Car Repair Plant",
+  "source": "rail"
+ },
+ {
+  "name": "Goša FOM",
+  "source": "rail"
+ },
+ {
+  "name": "Mašinska Industrija Niš",
+  "source": "rail"
+ },
+ {
+  "name": "Transnet Engineering",
+  "source": "rail"
+ },
+ {
+  "name": "Dawonsys",
+  "source": "rail"
+ },
+ {
+  "name": "Hyundai Rotem",
+  "source": "rail"
+ },
+ {
+  "name": "Sung Shin RST",
+  "source": "rail"
+ },
+ {
+  "name": "Woojin Industrial Systems",
+  "source": "rail"
+ },
+ {
+  "name": "CAF - Construcciones y Auxiliar de Ferrocarriles",
+  "source": "rail"
+ },
+ {
+  "name": "Talgo",
+  "source": "rail"
+ },
+ {
+  "name": "Kiruna Wagon",
+  "source": "rail"
+ },
+ {
+  "name": "Taiwan Rolling Stock Company",
+  "source": "rail"
+ },
+ {
+  "name": "Bozankaya",
+  "source": "rail"
+ },
+ {
+  "name": "EUROTEM",
+  "source": "rail"
+ },
+ {
+  "name": "TÜVASAŞ",
+  "source": "rail"
+ },
+ {
+  "name": "Andrew Barclay Sons & Company",
+  "source": "rail"
+ },
+ {
+  "name": "Ashbury Railway Carriage & Iron Company",
+  "source": "rail"
+ },
+ {
+  "name": "Beyer, Peacock & Company",
+  "source": "rail"
+ },
+ {
+  "name": "Birmingham Railway Carriage & Wagon Company",
+  "source": "rail"
+ },
+ {
+  "name": "Black, Hawthorn & Co",
+  "source": "rail"
+ },
+ {
+  "name": "British Rail Engineering Limited",
+  "source": "rail"
+ },
+ {
+  "name": "British Thomson-Houston",
+  "source": "rail"
+ },
+ {
+  "name": "CAF Newport",
+  "source": "rail"
+ },
+ {
+  "name": "Dick, Kerr & Company",
+  "source": "rail"
+ },
+ {
+  "name": "Drewry Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Dübs & Company",
+  "source": "rail"
+ },
+ {
+  "name": "English Electric",
+  "source": "rail"
+ },
+ {
+  "name": "Glasgow Works",
+  "source": "rail"
+ },
+ {
+  "name": "Gloucester Railway Carriage & Wagon Company",
+  "source": "rail"
+ },
+ {
+  "name": "Hawthorn Leslie & Company",
+  "source": "rail"
+ },
+ {
+  "name": "Hitachi Newton Aycliffe",
+  "source": "rail"
+ },
+ {
+  "name": "Hudswell Clarke",
+  "source": "rail"
+ },
+ {
+  "name": "Hunslet Engine Company",
+  "source": "rail"
+ },
+ {
+  "name": "Kerr, Stuart & Company",
+  "source": "rail"
+ },
+ {
+  "name": "Leeds Forge Company",
+  "source": "rail"
+ },
+ {
+  "name": "Manning Wardle",
+  "source": "rail"
+ },
+ {
+  "name": "Metro-Cammell",
+  "source": "rail"
+ },
+ {
+  "name": "Metropolitan-Vickers",
+  "source": "rail"
+ },
+ {
+  "name": "Midland Railway Carriage & Wagon Company",
+  "source": "rail"
+ },
+ {
+  "name": "Nasmyth, Gaskell & Company",
+  "source": "rail"
+ },
+ {
+  "name": "North British Locomotive Company",
+  "source": "rail"
+ },
+ {
+  "name": "Pressed Steel Company",
+  "source": "rail"
+ },
+ {
+  "name": "R&W Hawthorn",
+  "source": "rail"
+ },
+ {
+  "name": "Robert Stephenson & Company",
+  "source": "rail"
+ },
+ {
+  "name": "Sentinel Waggon Works",
+  "source": "rail"
+ },
+ {
+  "name": "Swindon Works",
+  "source": "rail"
+ },
+ {
+  "name": "Vivarail",
+  "source": "rail"
+ },
+ {
+  "name": "Vulcan Foundry",
+  "source": "rail"
+ },
+ {
+  "name": "William Beardmore & Company",
+  "source": "rail"
+ },
+ {
+  "name": "Yorkshire Engine Company",
+  "source": "rail"
+ },
+ {
+  "name": "Barney and Smith Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Bethlehem Steel Corporation",
+  "source": "rail"
+ },
+ {
+  "name": "Brookville Equipment Corporation",
+  "source": "rail"
+ },
+ {
+  "name": "Budd Company",
+  "source": "rail"
+ },
+ {
+  "name": "Buffalo Car Manufacturing Company",
+  "source": "rail"
+ },
+ {
+  "name": "Cambria Steel Company",
+  "source": "rail"
+ },
+ {
+  "name": "Colorado Railcar",
+  "source": "rail"
+ },
+ {
+  "name": "Edwards Rail Car Company (1997–2008)",
+  "source": "rail"
+ },
+ {
+  "name": "Fruehauf Rail Division",
+  "source": "rail"
+ },
+ {
+  "name": "General Steel Industries",
+  "source": "rail"
+ },
+ {
+  "name": "Gilbert Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Hicks Locomotive and Car Works",
+  "source": "rail"
+ },
+ {
+  "name": "Jackson and Sharp Company",
+  "source": "rail"
+ },
+ {
+  "name": "Jackson and Woodin Manufacturing Company",
+  "source": "rail"
+ },
+ {
+  "name": "Laconia Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Mather Stock Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Merchants Despatch Transportation Company",
+  "source": "rail"
+ },
+ {
+  "name": "Newport News Shipbuilding Company",
+  "source": "rail"
+ },
+ {
+  "name": "Osgood Bradley Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Pacific Car and Foundry",
+  "source": "rail"
+ },
+ {
+  "name": "Patton Motor Company",
+  "source": "rail"
+ },
+ {
+  "name": "Peninsular Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Perley A. Thomas Car Works",
+  "source": "rail"
+ },
+ {
+  "name": "Portland Company",
+  "source": "rail"
+ },
+ {
+  "name": "Progress Rail",
+  "source": "rail"
+ },
+ {
+  "name": "Pressed Steel Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Ralston Steel Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Rohr, Inc.",
+  "source": "rail"
+ },
+ {
+  "name": "St. Charles Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Schneider's Combination Cars",
+  "source": "rail"
+ },
+ {
+  "name": "Tennessee Coal, Iron and Railroad",
+  "source": "rail"
+ },
+ {
+  "name": "James A. Trimble",
+  "source": "rail"
+ },
+ {
+  "name": "Union Tank Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "United Streetcar",
+  "source": "rail"
+ },
+ {
+  "name": "US Railcar",
+  "source": "rail"
+ },
+ {
+  "name": "Vertex Railcar",
+  "source": "rail"
+ },
+ {
+  "name": "Wagner Palace Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Wason Manufacturing Company",
+  "source": "rail"
+ },
+ {
+  "name": "Commonwealth Engineering",
+  "source": "rail"
+ },
+ {
+  "name": "AMF Technotransport",
+  "source": "rail"
+ },
+ {
+  "name": "Montreal Locomotive Works",
+  "source": "rail"
+ },
+ {
+  "name": "Preston Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Ottawa Car Company",
+  "source": "rail"
+ },
+ {
+  "name": "Urban Transportation Development Corporation",
+  "source": "rail"
+ },
+ {
+  "name": "Rīgas Vagonbūves Rūpnīca",
+  "source": "rail"
+ },
+ {
+  "name": "ASEA",
+  "source": "rail"
+ },
+ {
+  "name": "Fastbrick Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "B&R",
+  "source": "robotics"
+ },
+ {
+  "name": "Taurob",
+  "source": "robotics"
+ },
+ {
+  "name": "Clearpath Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "CRS Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Kinova",
+  "source": "robotics"
+ },
+ {
+  "name": "Robotics Design Inc.",
+  "source": "robotics"
+ },
+ {
+  "name": "White Box Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "AgiBot",
+  "source": "robotics"
+ },
+ {
+  "name": "CloudMinds",
+  "source": "robotics"
+ },
+ {
+  "name": "Deep Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Dobot",
+  "source": "robotics"
+ },
+ {
+  "name": "Ecovacs Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Engine AI",
+  "source": "robotics"
+ },
+ {
+  "name": "Flexiv",
+  "source": "robotics"
+ },
+ {
+  "name": "Estun Automation",
+  "source": "robotics"
+ },
+ {
+  "name": "Fourier (company)",
+  "source": "robotics"
+ },
+ {
+  "name": "Geekplus",
+  "source": "robotics"
+ },
+ {
+  "name": "Leju Robot",
+  "source": "robotics"
+ },
+ {
+  "name": "Mech-Mind Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Roborock",
+  "source": "robotics"
+ },
+ {
+  "name": "Shenzhen Picea Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Siasun Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Turing Robot",
+  "source": "robotics"
+ },
+ {
+  "name": "UBtech Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Unitree Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Zhiwei Robotics Corp.",
+  "source": "robotics"
+ },
+ {
+  "name": "Jorgensen Engineering",
+  "source": "robotics"
+ },
+ {
+  "name": "Universal Robots",
+  "source": "robotics"
+ },
+ {
+  "name": "Welltec",
+  "source": "robotics"
+ },
+ {
+  "name": "Cleveron",
+  "source": "robotics"
+ },
+ {
+  "name": "Milrem Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Starship Technologies",
+  "source": "robotics"
+ },
+ {
+  "name": "Aldebaran",
+  "source": "robotics"
+ },
+ {
+  "name": "Exotec",
+  "source": "robotics"
+ },
+ {
+  "name": "Donecle",
+  "source": "robotics"
+ },
+ {
+  "name": "Festo",
+  "source": "robotics"
+ },
+ {
+  "name": "Fischertechnik",
+  "source": "robotics"
+ },
+ {
+  "name": "Halfmann Teleskoptechnik",
+  "source": "robotics"
+ },
+ {
+  "name": "KUKA",
+  "source": "robotics"
+ },
+ {
+  "name": "MetraLabs GmbH",
+  "source": "robotics"
+ },
+ {
+  "name": "Neura Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Neurospace",
+  "source": "robotics"
+ },
+ {
+  "name": "Reis Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Rowa Automatisierungssysteme",
+  "source": "robotics"
+ },
+ {
+  "name": "Hanson Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Sastra Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Robomow",
+  "source": "robotics"
+ },
+ {
+  "name": "Comau",
+  "source": "robotics"
+ },
+ {
+  "name": "Makr Shakr",
+  "source": "robotics"
+ },
+ {
+  "name": "Cyberdyne Inc.",
+  "source": "robotics"
+ },
+ {
+  "name": "Epson Robots",
+  "source": "robotics"
+ },
+ {
+  "name": "FANUC",
+  "source": "robotics"
+ },
+ {
+  "name": "Kawasaki Heavy Industries",
+  "source": "robotics"
+ },
+ {
+  "name": "Nachi-Fujikoshi",
+  "source": "robotics"
+ },
+ {
+  "name": "Omron",
+  "source": "robotics"
+ },
+ {
+  "name": "Yaskawa Electric Corporation",
+  "source": "robotics"
+ },
+ {
+  "name": "ZMP INC.",
+  "source": "robotics"
+ },
+ {
+  "name": "Doosan Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "HD Hyundai Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Hyundai WIA",
+  "source": "robotics"
+ },
+ {
+  "name": "Rainbow Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Robotis",
+  "source": "robotics"
+ },
+ {
+  "name": "Robotnik Automation",
+  "source": "robotics"
+ },
+ {
+  "name": "NDC Netzler & Dahlgren Co AB",
+  "source": "robotics"
+ },
+ {
+  "name": "ANYbotics",
+  "source": "robotics"
+ },
+ {
+  "name": "ABB",
+  "source": "robotics"
+ },
+ {
+  "name": "Stäubli",
+  "source": "robotics"
+ },
+ {
+  "name": "HIWIN",
+  "source": "robotics"
+ },
+ {
+  "name": "Techman",
+  "source": "robotics"
+ },
+ {
+  "name": "Thunder Tiger",
+  "source": "robotics"
+ },
+ {
+  "name": "Academy of Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Active Robots",
+  "source": "robotics"
+ },
+ {
+  "name": "Engineered Arts",
+  "source": "robotics"
+ },
+ {
+  "name": "Moley Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Open Bionics",
+  "source": "robotics"
+ },
+ {
+  "name": "Oxa",
+  "source": "robotics"
+ },
+ {
+  "name": "ST Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Agility Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Amazon Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Anybots",
+  "source": "robotics"
+ },
+ {
+  "name": "Barrett Technology",
+  "source": "robotics"
+ },
+ {
+  "name": "Berkshire Grey",
+  "source": "robotics"
+ },
+ {
+  "name": "Bluefin Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Bossa Nova Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Boston Dynamics",
+  "source": "robotics"
+ },
+ {
+  "name": "Covariant (company)",
+  "source": "robotics"
+ },
+ {
+  "name": "Daxbot",
+  "source": "robotics"
+ },
+ {
+  "name": "Double Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Ekso Bionics",
+  "source": "robotics"
+ },
+ {
+  "name": "Energid Technologies",
+  "source": "robotics"
+ },
+ {
+  "name": "Evolution Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Foster-Miller",
+  "source": "robotics"
+ },
+ {
+  "name": "Harvest Automation",
+  "source": "robotics"
+ },
+ {
+  "name": "Honeybee Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Intuitive Surgical",
+  "source": "robotics"
+ },
+ {
+  "name": "IRobot",
+  "source": "robotics"
+ },
+ {
+  "name": "ISEE",
+  "source": "robotics"
+ },
+ {
+  "name": "Knightscope",
+  "source": "robotics"
+ },
+ {
+  "name": "Meka Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Neato Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Omron Adept",
+  "source": "robotics"
+ },
+ {
+  "name": "Open Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Palladyne AI",
+  "source": "robotics"
+ },
+ {
+  "name": "Prioria",
+  "source": "robotics"
+ },
+ {
+  "name": "Rethink Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Serve Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Sphero",
+  "source": "robotics"
+ },
+ {
+  "name": "Symbotic",
+  "source": "robotics"
+ },
+ {
+  "name": "Unimation",
+  "source": "robotics"
+ },
+ {
+  "name": "Universal Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Vecna Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Willow Garage",
+  "source": "robotics"
+ },
+ {
+  "name": "Wolf Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Wonder Workshop",
+  "source": "robotics"
+ },
+ {
+  "name": "TOSY",
+  "source": "robotics"
+ },
+ {
+  "name": "Robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Robotics (disambiguation)",
+  "source": "robotics"
+ },
+ {
+  "name": "Glossary of robotics",
+  "source": "robotics"
+ },
+ {
+  "name": "Achronix",
+  "source": "semicon_us"
+ },
+ {
+  "name": "ACM Research",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Advanced Linear Devices",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Air Liquide",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Alereon",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Ambarella Inc.",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Ambiq Micro",
+  "source": "semicon_us"
+ },
+ {
+  "name": "AMD",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Amkor Technology",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Amlogic",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Ampere Computing",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Ansys",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Applied Materials",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Aptina",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Arteris",
+  "source": "semicon_us"
+ },
+ {
+  "name": "ASML",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Atomera",
+  "source": "semicon_us"
+ },
+ {
+  "name": "BAE Systems",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Cadence Design Systems",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Canesta",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Cascade Microtech",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Chelsio Communications",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Cirrus Logic",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Coherent Corp.",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Corning Inc.",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Cortina Systems",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Crossbar",
+  "source": "semicon_us"
+ },
+ {
+  "name": "DisplayLink",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Edwards Vacuum",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Efficient Power Conversion",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Entegris",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Entropic Communications",
+  "source": "semicon_us"
+ },
+ {
+  "name": "ESilicon",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Everspin Technologies",
+  "source": "semicon_us"
+ },
+ {
+  "name": "FormFactor",
+  "source": "semicon_us"
+ },
+ {
+  "name": "FSI International",
+  "source": "semicon_us"
+ },
+ {
+  "name": "GainSpan",
+  "source": "semicon_us"
+ },
+ {
+  "name": "GlobalWafers",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Grandis",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Greenliant Systems",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Helix Semiconductors",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Hemlock Semiconductor",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Honeywell Aerospace",
+  "source": "semicon_us"
+ },
+ {
+  "name": "IBM",
+  "source": "semicon_us"
+ },
+ {
+  "name": "IMEC",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Inphi Corporation",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Integra Technologies",
+  "source": "semicon_us"
+ },
+ {
+  "name": "InvenSense",
+  "source": "semicon_us"
+ },
+ {
+  "name": "IQE",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Jazz Semiconductor",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Keysight Technologies",
+  "source": "semicon_us"
+ },
+ {
+  "name": "KLA",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Lam Research",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Lattice Semiconductor",
+  "source": "semicon_us"
+ },
+ {
+  "name": "LCY Chemical",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Linde plc",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Linear Integrated Systems",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Littelfuse",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Luminar Technologies",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Luxtera",
+  "source": "semicon_us"
+ },
+ {
+  "name": "MACOM Technology Solutions",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Mattson Technology",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Marvell Technology",
+  "source": "semicon_us"
+ },
+ {
+  "name": "MaxLinear",
+  "source": "semicon_us"
+ },
+ {
+  "name": "MCube",
+  "source": "semicon_us"
+ },
+ {
+  "name": "MediaTek",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Mersen",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Microchip Technology",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Micron Technology",
+  "source": "semicon_us"
+ },
+ {
+  "name": "MIPS Technologies",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Mitsubishi Electric United States",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Mitsubishi Gas Chemical Company",
+  "source": "semicon_us"
+ },
+ {
+  "name": "MoSys",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Multibeam Corporation",
+  "source": "semicon_us"
+ },
+ {
+  "name": "NeoMagic",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Nikon",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Onsemi",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Onto Innovation",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Open-Silicon",
+  "source": "semicon_us"
+ },
+ {
+  "name": "OPTi",
+  "source": "semicon_us"
+ },
+ {
+  "name": "PA Semiconductor",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Packet Digital",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Peregrine Semiconductor",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Photronics",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Pixelworks",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Pulse~Link",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Qualcomm",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Rabbit Semiconductor",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Rambus",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Reading Works",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Renesas Electronics",
+  "source": "semicon_us"
+ },
+ {
+  "name": "RF Micropower",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Rochester Electronics",
+  "source": "semicon_us"
+ },
+ {
+  "name": "S3 Graphics",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Samsung Electronics",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Sarnoff Corporation",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Semtech",
+  "source": "semicon_us"
+ },
+ {
+  "name": "ServerWorks",
+  "source": "semicon_us"
+ },
+ {
+  "name": "SiBeam",
+  "source": "semicon_us"
+ },
+ {
+  "name": "SiFive",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Silego Technology",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Silicon Labs",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Silicon Motion",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Silicon Systems",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Siltronic",
+  "source": "semicon_us"
+ },
+ {
+  "name": "SiTime",
+  "source": "semicon_us"
+ },
+ {
+  "name": "SkyWater Technology",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Socionext",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Solidigm",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Solvay S.A.",
+  "source": "semicon_us"
+ },
+ {
+  "name": "SUMCO",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Synaptics",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Transphorm",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Western Design Center",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Western Digital",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Xperi",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Zero ASIC",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Zilog",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Outline of semiconductors",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Semiconductor Industry Association",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Semiconductor industry in Taiwan",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Semiconductor industry in South Korea",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Semiconductor industry in Japan",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Semiconductor industry in China",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Semiconductor industry in the United States",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Semiconductor industry in India",
+  "source": "semicon_us"
+ },
+ {
+  "name": "Suez shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Alexandria Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Tema Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Baku Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Radiant Shipyard Limited",
+  "source": "ships"
+ },
+ {
+  "name": "FMC Dockyard Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Ananda Shipyard and Shipways",
+  "source": "ships"
+ },
+ {
+  "name": "Chittagong Dry Dock Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Khulna Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Western Marine Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "China State Shipbuilding Corporation",
+  "source": "ships"
+ },
+ {
+  "name": "China Shipbuilding Industry Corporation",
+  "source": "ships"
+ },
+ {
+  "name": "Hudong-Zhonghua Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Dalian Shipbuilding Industry Company",
+  "source": "ships"
+ },
+ {
+  "name": "Guangzhou Shipyard International",
+  "source": "ships"
+ },
+ {
+  "name": "Jiangnan Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Yantai Raffles Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Hongkong United Dockyards",
+  "source": "ships"
+ },
+ {
+  "name": "Mazagon Dock Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Cochin Shipyard Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Garden Reach Shipbuilders and Engineers",
+  "source": "ships"
+ },
+ {
+  "name": "Goa Shipyard Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Naval Dockyard (Bombay)",
+  "source": "ships"
+ },
+ {
+  "name": "Naval Dockyard (Visakhapatnam)",
+  "source": "ships"
+ },
+ {
+  "name": "Jawaharlal Nehru Port Trust",
+  "source": "ships"
+ },
+ {
+  "name": "Shalimar Works (1980) Ltd",
+  "source": "ships"
+ },
+ {
+  "name": "Hooghly Dock & Port Engineers Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Swan Defence and Heavy Industries Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Bharati Defence And Infrastructure Limited",
+  "source": "ships"
+ },
+ {
+  "name": "ABG Shipyard Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Hazira Port Private Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Adani Katupalli Port Private Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Modest Infrastructure Ltd",
+  "source": "ships"
+ },
+ {
+  "name": "Tebma Shipyard Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Timblo Drydocks Private Limited",
+  "source": "ships"
+ },
+ {
+  "name": "Titagarh Marines",
+  "source": "ships"
+ },
+ {
+  "name": "Western India Shipyard Limited",
+  "source": "ships"
+ },
+ {
+  "name": "PT PAL Indonesia",
+  "source": "ships"
+ },
+ {
+  "name": "PT Lundin Industry Invest",
+  "source": "ships"
+ },
+ {
+  "name": "PT Palindo Marine",
+  "source": "ships"
+ },
+ {
+  "name": "Sadra Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Persian Gulf Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Israel Shipyards",
+  "source": "ships"
+ },
+ {
+  "name": "IAI Ramta",
+  "source": "ships"
+ },
+ {
+  "name": "Imabari Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Kawasaki Shipbuilding Corporation",
+  "source": "ships"
+ },
+ {
+  "name": "Sumitomo Heavy Industries",
+  "source": "ships"
+ },
+ {
+  "name": "Boustead Naval Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Boustead Penang Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Labuan Shipyard and Engineering",
+  "source": "ships"
+ },
+ {
+  "name": "Malaysia Marine and Heavy Engineering",
+  "source": "ships"
+ },
+ {
+  "name": "Boustead Langkawi Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Karachi Shipyard & Engineering Works",
+  "source": "ships"
+ },
+ {
+  "name": "PN Dockyard",
+  "source": "ships"
+ },
+ {
+  "name": "King Salman Global Maritime Industries Complex",
+  "source": "ships"
+ },
+ {
+  "name": "ST Engineering Marine",
+  "source": "ships"
+ },
+ {
+  "name": "Daewoo Shipbuilding & Marine Engineering Co., Ltd.",
+  "source": "ships"
+ },
+ {
+  "name": "Hanjin Heavy Industries Co., Ltd.",
+  "source": "ships"
+ },
+ {
+  "name": "Hyundai Heavy Industries Co., Ltd.",
+  "source": "ships"
+ },
+ {
+  "name": "Hyundai Mipo Dockyard Co., Ltd.",
+  "source": "ships"
+ },
+ {
+  "name": "Hyundai Samho Heavy Industries Co., Ltd.",
+  "source": "ships"
+ },
+ {
+  "name": "K Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Samsung Heavy Industries Co., Ltd.",
+  "source": "ships"
+ },
+ {
+  "name": "Colombo Dockyard",
+  "source": "ships"
+ },
+ {
+  "name": "Jong Shyn Shipbuilding Company",
+  "source": "ships"
+ },
+ {
+  "name": "Italthai Industrial Group",
+  "source": "ships"
+ },
+ {
+  "name": "Odessos Shiprepair yard",
+  "source": "ships"
+ },
+ {
+  "name": "Brodogradilište 3. Maj",
+  "source": "ships"
+ },
+ {
+  "name": "Kraljevica Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Brodosplit",
+  "source": "ships"
+ },
+ {
+  "name": "Uljanik",
+  "source": "ships"
+ },
+ {
+  "name": "Aalborg Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Baltic Workboats",
+  "source": "ships"
+ },
+ {
+  "name": "BLRT Grupp",
+  "source": "ships"
+ },
+ {
+  "name": "Helsinki",
+  "source": "ships"
+ },
+ {
+  "name": "Turku metropolitan area",
+  "source": "ships"
+ },
+ {
+  "name": "Rauma",
+  "source": "ships"
+ },
+ {
+  "name": "Uusikaupunki",
+  "source": "ships"
+ },
+ {
+  "name": "Saint Nazaire",
+  "source": "ships"
+ },
+ {
+  "name": "Bremen",
+  "source": "ships"
+ },
+ {
+  "name": "Hamburg",
+  "source": "ships"
+ },
+ {
+  "name": "Kiel",
+  "source": "ships"
+ },
+ {
+  "name": "Wilhelmshaven",
+  "source": "ships"
+ },
+ {
+  "name": "Basileiades",
+  "source": "ships"
+ },
+ {
+  "name": "Elefsis Shipyards",
+  "source": "ships"
+ },
+ {
+  "name": "Chalkis Shipyards",
+  "source": "ships"
+ },
+ {
+  "name": "Azimut",
+  "source": "ships"
+ },
+ {
+  "name": "Baglietto",
+  "source": "ships"
+ },
+ {
+  "name": "Benetti",
+  "source": "ships"
+ },
+ {
+  "name": "FB Design",
+  "source": "ships"
+ },
+ {
+  "name": "Ferretti Group",
+  "source": "ships"
+ },
+ {
+  "name": "Fincantieri",
+  "source": "ships"
+ },
+ {
+  "name": "Perini Navi",
+  "source": "ships"
+ },
+ {
+  "name": "Cantiere Navale Visentini",
+  "source": "ships"
+ },
+ {
+  "name": "Rosetti Marino",
+  "source": "ships"
+ },
+ {
+  "name": "Royal IHC",
+  "source": "ships"
+ },
+ {
+  "name": "Barkmeijer Shipyards",
+  "source": "ships"
+ },
+ {
+  "name": "Damen Group",
+  "source": "ships"
+ },
+ {
+  "name": "Amels Holland B.V.",
+  "source": "ships"
+ },
+ {
+  "name": "Feadship",
+  "source": "ships"
+ },
+ {
+  "name": "Heesen Yachts",
+  "source": "ships"
+ },
+ {
+  "name": "Holland Jachtbouw Zaandam BV",
+  "source": "ships"
+ },
+ {
+  "name": "Royal Huisman",
+  "source": "ships"
+ },
+ {
+  "name": "ICON Yachts",
+  "source": "ships"
+ },
+ {
+  "name": "OceAnco",
+  "source": "ships"
+ },
+ {
+  "name": "Jongert",
+  "source": "ships"
+ },
+ {
+  "name": "Kleven Verft",
+  "source": "ships"
+ },
+ {
+  "name": "Moss Verft",
+  "source": "ships"
+ },
+ {
+  "name": "Ulstein Group",
+  "source": "ships"
+ },
+ {
+  "name": "Aker Solutions",
+  "source": "ships"
+ },
+ {
+  "name": "Gdańsk",
+  "source": "ships"
+ },
+ {
+  "name": "Szczecin",
+  "source": "ships"
+ },
+ {
+  "name": "West Sea Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Lisnave",
+  "source": "ships"
+ },
+ {
+  "name": "Saint Petersburg",
+  "source": "ships"
+ },
+ {
+  "name": "Severodvinsk",
+  "source": "ships"
+ },
+ {
+  "name": "Vladivostok",
+  "source": "ships"
+ },
+ {
+  "name": "Navantia",
+  "source": "ships"
+ },
+ {
+  "name": "Dockstavarvet",
+  "source": "ships"
+ },
+ {
+  "name": "Eriksbergs Mekaniska Verkstad",
+  "source": "ships"
+ },
+ {
+  "name": "Götaverken",
+  "source": "ships"
+ },
+ {
+  "name": "Kockums Naval Solutions",
+  "source": "ships"
+ },
+ {
+  "name": "Lödöse varv",
+  "source": "ships"
+ },
+ {
+  "name": "Oskarshamn Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Ada Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Mykolaiv",
+  "source": "ships"
+ },
+ {
+  "name": "Cornwall",
+  "source": "ships"
+ },
+ {
+  "name": "Cumbria",
+  "source": "ships"
+ },
+ {
+  "name": "Durham",
+  "source": "ships"
+ },
+ {
+  "name": "East Riding of Yorkshire",
+  "source": "ships"
+ },
+ {
+  "name": "Hampshire",
+  "source": "ships"
+ },
+ {
+  "name": "Isle of Wight",
+  "source": "ships"
+ },
+ {
+  "name": "Kent",
+  "source": "ships"
+ },
+ {
+  "name": "London",
+  "source": "ships"
+ },
+ {
+  "name": "Merseyside",
+  "source": "ships"
+ },
+ {
+  "name": "North Yorkshire",
+  "source": "ships"
+ },
+ {
+  "name": "South Yorkshire",
+  "source": "ships"
+ },
+ {
+  "name": "Southampton",
+  "source": "ships"
+ },
+ {
+  "name": "Tyne and Wear",
+  "source": "ships"
+ },
+ {
+  "name": "Belfast",
+  "source": "ships"
+ },
+ {
+  "name": "Clyde",
+  "source": "ships"
+ },
+ {
+  "name": "ABCO Industries",
+  "source": "ships"
+ },
+ {
+  "name": "A. F. Theriault Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Allied Shipbuilders",
+  "source": "ships"
+ },
+ {
+  "name": "Davie Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Irving Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Kiewit Corporation",
+  "source": "ships"
+ },
+ {
+  "name": "NewDock-St. John's Dockyard Company",
+  "source": "ships"
+ },
+ {
+  "name": "Port Weller Dry Docks",
+  "source": "ships"
+ },
+ {
+  "name": "Seaspan ULC",
+  "source": "ships"
+ },
+ {
+  "name": "Toronto Drydock Company",
+  "source": "ships"
+ },
+ {
+  "name": "Carso Marina",
+  "source": "ships"
+ },
+ {
+  "name": "Pemex Construcción",
+  "source": "ships"
+ },
+ {
+  "name": "Veracruz Kukulkan Shipyards",
+  "source": "ships"
+ },
+ {
+  "name": "Zihuatanejo Marina",
+  "source": "ships"
+ },
+ {
+  "name": "Albina Engine & Machine Works",
+  "source": "ships"
+ },
+ {
+  "name": "Atlantic Basin Iron Works",
+  "source": "ships"
+ },
+ {
+  "name": "Austal USA",
+  "source": "ships"
+ },
+ {
+  "name": "Avondale Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "BAE Systems Ship Repair",
+  "source": "ships"
+ },
+ {
+  "name": "Bath Iron Works",
+  "source": "ships"
+ },
+ {
+  "name": "Bay Shipbuilding Company",
+  "source": "ships"
+ },
+ {
+  "name": "Boston Navy Yard",
+  "source": "ships"
+ },
+ {
+  "name": "Bollinger Shipyards",
+  "source": "ships"
+ },
+ {
+  "name": "Brooklyn Navy Yard",
+  "source": "ships"
+ },
+ {
+  "name": "Burger Boat Company",
+  "source": "ships"
+ },
+ {
+  "name": "California Shipbuilding Corporation",
+  "source": "ships"
+ },
+ {
+  "name": "Charleston Naval Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Chesapeake Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Chester Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Commercial Iron Works",
+  "source": "ships"
+ },
+ {
+  "name": "Consolidated Steel",
+  "source": "ships"
+ },
+ {
+  "name": "Delaware River Iron Ship Building and Engine Works",
+  "source": "ships"
+ },
+ {
+  "name": "Derecktor Shipyards",
+  "source": "ships"
+ },
+ {
+  "name": "Dravo Corporation",
+  "source": "ships"
+ },
+ {
+  "name": "Eastern Shipbuilding Group",
+  "source": "ships"
+ },
+ {
+  "name": "Edward F. Williams",
+  "source": "ships"
+ },
+ {
+  "name": "Electric Boat Corporation",
+  "source": "ships"
+ },
+ {
+  "name": "Gas Engine & Power Company & Charles L. Seabury Company",
+  "source": "ships"
+ },
+ {
+  "name": "General Dynamics",
+  "source": "ships"
+ },
+ {
+  "name": "General Engineering & Dry Dock Company",
+  "source": "ships"
+ },
+ {
+  "name": "George Lawley & Sons",
+  "source": "ships"
+ },
+ {
+  "name": "Gladding-Hearn Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Gulf Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "George Steers and Co",
+  "source": "ships"
+ },
+ {
+  "name": "Henry B. Nevins, Incorporated",
+  "source": "ships"
+ },
+ {
+  "name": "Higgins",
+  "source": "ships"
+ },
+ {
+  "name": "Ingalls Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Isaac C. Smith",
+  "source": "ships"
+ },
+ {
+  "name": "Jakobson Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "James O. Curtis",
+  "source": "ships"
+ },
+ {
+  "name": "Jeffersonville Boat & Machine",
+  "source": "ships"
+ },
+ {
+  "name": "John H. Mathis & Company",
+  "source": "ships"
+ },
+ {
+  "name": "John Roach & Sons",
+  "source": "ships"
+ },
+ {
+  "name": "John Trumpy & Sons",
+  "source": "ships"
+ },
+ {
+  "name": "Kaiser Shipyards",
+  "source": "ships"
+ },
+ {
+  "name": "Lake Washington Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Lawrence & Foulks",
+  "source": "ships"
+ },
+ {
+  "name": "Lockheed Shipbuilding and Construction Company",
+  "source": "ships"
+ },
+ {
+  "name": "Long Beach Naval Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Los Angeles Shipbuilding and Drydock",
+  "source": "ships"
+ },
+ {
+  "name": "Mare Island Naval Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Marinette Marine",
+  "source": "ships"
+ },
+ {
+  "name": "Marinship",
+  "source": "ships"
+ },
+ {
+  "name": "Maryland Drydock",
+  "source": "ships"
+ },
+ {
+  "name": "Merchant Shipbuilding Corporation",
+  "source": "ships"
+ },
+ {
+  "name": "Moore Dry Dock Company",
+  "source": "ships"
+ },
+ {
+  "name": "Morse Dry Dock & Repair Company",
+  "source": "ships"
+ },
+ {
+  "name": "National Steel and Shipbuilding Company",
+  "source": "ships"
+ },
+ {
+  "name": "Neafie & Levy",
+  "source": "ships"
+ },
+ {
+  "name": "New England Shipbuilding Corporation",
+  "source": "ships"
+ },
+ {
+  "name": "Newport News Shipbuilding & Drydock",
+  "source": "ships"
+ },
+ {
+  "name": "Norfolk Naval Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "North Florida Shipyards, Inc.",
+  "source": "ships"
+ },
+ {
+  "name": "Oregon Shipbuilding Corporation",
+  "source": "ships"
+ },
+ {
+  "name": "Pearl Harbor Naval Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Pennellville Historic District",
+  "source": "ships"
+ },
+ {
+  "name": "Percy & Small Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Philadelphia Naval Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Philly Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Portsmouth Naval Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Puget Sound Naval Shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Pusey and Jones",
+  "source": "ships"
+ },
+ {
+  "name": "Reaney, Son & Archbold",
+  "source": "ships"
+ },
+ {
+  "name": "Richmond Shipyards",
+  "source": "ships"
+ },
+ {
+  "name": "SAFE Boats International LLC",
+  "source": "ships"
+ },
+ {
+  "name": "Seattle-Tacoma Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Swiftships",
+  "source": "ships"
+ },
+ {
+  "name": "Sun Shipbuilding and Drydock Company",
+  "source": "ships"
+ },
+ {
+  "name": "Tampa Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Todd Shipyards",
+  "source": "ships"
+ },
+ {
+  "name": "United States Coast Guard Yard",
+  "source": "ships"
+ },
+ {
+  "name": "Vigor Marine Group",
+  "source": "ships"
+ },
+ {
+  "name": "VT Halter Marine",
+  "source": "ships"
+ },
+ {
+  "name": "Western Pipe & Steel",
+  "source": "ships"
+ },
+ {
+  "name": "William Cramp & Sons",
+  "source": "ships"
+ },
+ {
+  "name": "William H. Webb shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Westervelt & Co. shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Winslow Marine Railway & Shipbuilding",
+  "source": "ships"
+ },
+ {
+  "name": "Zidell Marine",
+  "source": "ships"
+ },
+ {
+  "name": "Astilleros Argentinos S.A. (ASTARSA)",
+  "source": "ships"
+ },
+ {
+  "name": "Puerto Belgrano Naval Base shipyard",
+  "source": "ships"
+ },
+ {
+  "name": "Tandanor",
+  "source": "ships"
+ },
+ {
+  "name": "INACE",
+  "source": "ships"
+ },
+ {
+  "name": "EMGEPRON",
+  "source": "ships"
+ },
+ {
+  "name": "Asenav",
+  "source": "ships"
+ },
+ {
+  "name": "ASMAR",
+  "source": "ships"
+ },
+ {
+  "name": "COTECMAR",
+  "source": "ships"
+ },
+ {
+  "name": "SIMA",
+  "source": "ships"
+ },
+ {
+  "name": "Fanatics",
+  "source": "unicorns"
+ },
+ {
+  "name": "Wonderful",
+  "source": "unicorns"
+ },
+ {
+  "name": "Instinct",
+  "source": "unicorns"
+ },
+ {
+  "name": "Tujia.com",
+  "source": "unicorns"
+ },
+ {
+  "name": "Zetwerk",
+  "source": "unicorns"
+ },
+ {
+  "name": "Deel",
+  "source": "unicorns"
+ },
+ {
+  "name": "Fair",
+  "source": "unicorns"
+ },
+ {
+  "name": "Apna",
+  "source": "unicorns"
+ },
+ {
+  "name": "GlobalBees",
+  "source": "unicorns"
+ },
+ {
+  "name": "SmartNews",
+  "source": "unicorns"
+ },
+ {
+  "name": "Trax",
+  "source": "unicorns"
+ },
+ {
+  "name": "AppDirect",
+  "source": "unicorns"
+ },
+ {
+  "name": "FXiaoKe",
+  "source": "unicorns"
+ },
+ {
+  "name": "Ivalua",
+  "source": "unicorns"
+ },
+ {
+  "name": "Klook",
+  "source": "unicorns"
+ },
+ {
+  "name": "Maimai",
+  "source": "unicorns"
+ },
+ {
+  "name": "Mia.com",
+  "source": "unicorns"
+ },
+ {
+  "name": "Morning Consult",
+  "source": "unicorns"
+ },
+ {
+  "name": "Tresata",
+  "source": "unicorns"
+ },
+ {
+  "name": "VTS",
+  "source": "unicorns"
+ },
+ {
+  "name": "Meituan-Dianping",
+  "source": "unicorns"
+ },
+ {
+  "name": "Slack Technologies",
+  "source": "unicorns"
+ },
+ {
+  "name": "dLocal",
+  "source": "unicorns"
+ },
+ {
+  "name": "e-Shang Redwood",
+  "source": "unicorns"
+ },
+ {
+  "name": "Jia.com",
+  "source": "unicorns"
+ },
+ {
+  "name": "Pivotal",
+  "source": "unicorns"
+ },
+ {
+  "name": "Woowa Brothers",
+  "source": "unicorns"
+ },
+ {
+  "name": "Cambricon",
+  "source": "unicorns"
+ },
+ {
+  "name": "Kingsoft",
+  "source": "unicorns"
+ },
+ {
+  "name": "Three Squirrels",
+  "source": "unicorns"
+ },
+ {
+  "name": "Uxin",
+  "source": "unicorns"
+ },
+ {
+  "name": "LivingSocial",
+  "source": "unicorns"
+ },
+ {
+  "name": "Lakala",
+  "source": "unicorns"
+ },
+ {
+  "name": "Letgo",
+  "source": "unicorns"
+ },
+ {
+  "name": "Ninebot",
+  "source": "unicorns"
+ },
+ {
+  "name": "DouYu",
+  "source": "unicorns"
+ },
+ {
+  "name": "Proteus Digital Health",
+  "source": "unicorns"
+ },
+ {
+  "name": "Tuandaiwang",
+  "source": "unicorns"
+ },
+ {
+  "name": "Deezer",
+  "source": "unicorns"
+ },
+ {
+  "name": "Global Fashion Group",
+  "source": "unicorns"
+ },
+ {
+  "name": "Kik",
+  "source": "unicorns"
+ },
+ {
+  "name": "Futu Holdings",
+  "source": "unicorns"
+ },
+ {
+  "name": "Peak Games",
+  "source": "unicorns"
+ },
+ {
+  "name": "Blue Apron",
+  "source": "unicorns"
+ },
+ {
+  "name": "Stitch Fix",
+  "source": "unicorns"
+ },
+ {
+  "name": "Bloom Energy",
+  "source": "unicorns"
+ },
+ {
+  "name": "Innovent Biologics",
+  "source": "unicorns"
+ },
+ {
+  "name": "iTutorGroup",
+  "source": "unicorns"
+ },
+ {
+  "name": "9F",
+  "source": "unicorns"
+ },
+ {
+  "name": "36Kr Media",
+  "source": "unicorns"
+ },
+ {
+  "name": "Fanli",
+  "source": "unicorns"
+ },
+ {
+  "name": "17Zuoye",
+  "source": "unicorns"
+ },
+ {
+  "name": "Zimi",
+  "source": "unicorns"
+ },
+ {
+  "name": "QingCloud",
+  "source": "unicorns"
+ },
+ {
+  "name": "Novogene",
+  "source": "unicorns"
+ },
+ {
+  "name": "Essential Products",
+  "source": "unicorns"
+ },
+ {
+  "name": "Southwest",
+  "source": "wind"
+ },
+ {
+  "name": "Urban Green Energy",
+  "source": "wind"
+ },
+ {
+  "name": "China Guodian Corporation",
+  "source": "wind"
+ },
+ {
+  "name": "Goldwind",
+  "source": "wind"
+ },
+ {
+  "name": "NovaWind",
+  "source": "wind"
+ },
+ {
+  "name": "Acciona",
+  "source": "wind"
+ },
+ {
+  "name": "Alstom Wind",
+  "source": "wind"
+ },
+ {
+  "name": "Enron Wind",
+  "source": "wind"
+ },
+ {
+  "name": "NEG Micon",
+  "source": "wind"
+ },
+ {
+  "name": "Nordic Windpower",
+  "source": "wind"
+ },
+ {
+  "name": "Scanwind",
+  "source": "wind"
+ },
+ {
+  "name": "Senvion",
+  "source": "wind"
+ },
+ {
+  "name": "Wind power in the People's Republic of China",
+  "source": "wind"
+ }
+]

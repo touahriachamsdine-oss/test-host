@@ -1,26 +1,4 @@
 {
-  "cato-networks": {
-    "ar": {
-      "name": "Cato Networks",
-      "country": "إسرائيل",
-      "sub_domain": "أمن SASE",
-      "short_description": "يدمج SD-WAN والأمن في حافة وصول آمنة واحدة.",
-      "technology": "شبكة خاصة عالمية + SSE",
-      "why_relevant": "الشركة التي اخترعت SASE وتخدم الآن آلاف المؤسسات.",
-      "history": "تأسست شركة Cato Networks في عام 2015 على يد المخضرمين شلومو كرامر وغور شاتس، لتصبح رائدة فئة الأمن كخدمة لحافة الوصول الآمن (SASE) عبر منصة تدمج SD-WAN والأمن معاً. جمعت الشركة جولات تمويل كبرى ووصلت قيمتها إلى مليارات الدولارات مع تبنّي المؤسسات لنموذجها أحادي المزود. وسّعت شبكتها الخاصة العالمية عبر مئات نقاط الحضور وأطلقت ميزات سحابية أصلية مثل بوابة الويب الآمنة وCASB. تخدم الشركة اليوم آلاف المؤسسات حول العالم وتُصنف باستمرار في مصاف قادة SASE.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Cato Networks",
-      "country": "Israël",
-      "sub_domain": "Sécurité SASE",
-      "short_description": "Fusionne SD-WAN et sécurité en un seul Secure Access Service Edge.",
-      "technology": "Backbone privé mondial + SSE",
-      "why_relevant": "L'entreprise qui a inventé le SASE et sert aujourd'hui des milliers d'entreprises.",
-      "history": "Fondée en 2015 par les vétérans du secteur Shlomo Kramer et Gur Shatz, Cato Networks a créé la catégorie du secure access service edge (SASE) grâce à une plateforme fusionnant SD-WAN et sécurité. La société a réalisé plusieurs tours de financement majeurs, atteignant une valorisation de plusieurs milliards de dollars alors que les entreprises adoptaient son modèle à fournisseur unique. Elle a étendu son backbone privé mondial à des centaines de points de présence tout en lançant des fonctions cloud natives comme la passerelle web sécurisée et le CASB. Cato sert aujourd'hui des milliers d'organisations dans le monde et figure régulièrement parmi les leaders du SASE.",
-      "hq_city": "Tel Aviv"
-    }
-  },
   "sentinelone": {
     "ar": {
       "name": "SentinelOne",
@@ -109,28 +87,6 @@
       "hq_city": "Palo Alto"
     }
   },
-  "cyera": {
-    "ar": {
-      "name": "Cyera",
-      "country": "إسرائيل",
-      "sub_domain": "أمن البيانات",
-      "short_description": "أمن بيانات بدون وكيل يرسِم البيانات ويطبّق السياسات عبر السحابات.",
-      "technology": "DSPM",
-      "why_relevant": "معيار DSPM سريع الصعود لمعرفة أماكن وجود البيانات الحساسة.",
-      "history": "تأسست Cyera عام 2021 على يد يوتام سيغف وتمار بار إيلان، بطرح نهج قائم على الذكاء الاصطناعي وبدون وكيل لإدارة وضعية أمن البيانات. ترسم منصتها بسرعة خريطة البيانات الحساسة عبر بيئات السحابة وتطبّق السياسات تلقائياً، ما لاقى صدى لدى الفرق التي تصارع تعقيد البيئات متعددة السحابات. جمعت الشركة 300 مليون دولار في جولة C عام 2024 ليتجاوز تقييمها 1.4 مليار دولار، واستحوذت على Trail Security لتوسيع محرك حمايتها. تخدم Cyera مئات المؤسسات لاكتشاف البيانات الحساسة وتصنيفها وحوكمتها على نطاق واسع، مكرسةً مكانتها كمعيار في فئة DSPM.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Cyera",
-      "country": "Israël",
-      "sub_domain": "Sécurité des données",
-      "short_description": "Sécurité des données sans agent qui cartographie les données et applique les politiques sur tous les clouds.",
-      "technology": "DSPM",
-      "why_relevant": "Le standard DSPM en forte croissance pour savoir où résident les données sensibles.",
-      "history": "Cyera a été fondée en 2021 par Yotam Segev et Tamar Bar-Ilan, qui ont apporté une approche sans agent fondée sur l'IA à la gestion de la posture de sécurité des données. Sa plateforme cartographie rapidement où vivent les données sensibles dans les environnements cloud et applique automatiquement des politiques, ce qui a séduit des équipes confrontées à la complexité multi-cloud. La société a levé 300 millions de dollars en série C en 2024, portant sa valorisation au-delà de 1,4 milliard de dollars, et a racheté Trail Security pour renforcer sa protection des données. Cyera sert des centaines d'entreprises pour découvrir, classifier et gouverner les données sensibles à grande échelle, s'imposant comme une référence du DSPM.",
-      "hq_city": "Tel Aviv"
-    }
-  },
   "semperis": {
     "ar": {
       "name": "Semperis",
@@ -172,72 +128,6 @@
       "technology": "Plateforme d'intelligence des appareils",
       "why_relevant": "L'immense angle mort de l'IoT résolu par l'intelligence passive du réseau.",
       "history": "Armis a été fondée en 2015 par Yevgeny Dibner, Nadir Izrael et Tomer Schwartz pour sécuriser l'univers en pleine expansion des appareils connectés et non gérés. Sa plateforme passive sans agent découvre et protège l'IoT, l'OT et les appareils personnels, comblant un angle mort critique pour les entreprises. La société est devenue une licorne en 2019 et élargit ses activités au cloud et à la chaîne d'approvisionnement tout en levant plusieurs centaines de millions de dollars. Armis protège aujourd'hui plus de trois milliards d'actifs dans le monde et figure parmi les principaux fournisseurs d'intelligence d'actifs unifiée et de gestion de l'exposition.",
-      "hq_city": "Palo Alto"
-    }
-  },
-  "orca-security": {
-    "ar": {
-      "name": "Orca Security",
-      "country": "إسرائيل",
-      "sub_domain": "أمن السحابة",
-      "short_description": "أمن سحابي بدون وكيل عبر مسح جانبي لأقراص أحمال العمل السحابية.",
-      "technology": "CSPM/CWPP بدون وكيل",
-      "why_relevant": "يؤمّن كل حمل عمل سحابي في دقائق دون أي وكلاء.",
-      "history": "تأسست Orca Security عام 2019 على يد آفي شوا وجيل غيرون وماتي سيمان لإزالة عبء الوكلاء في أمن السحابة. تقرأ تقنيتها الحاصلة على براءة اختراع أقراص أحمال العمل عن بعد بصورة جانبية، مانحةً تغطية شاملة لمعايير CSPM وCWPP وCIEM دون تثبيت أي برنامج. جمعت الشركة 550 مليون دولار في جولة C عام 2021 وبلغت وضع اليونيكورن، مستقطبةً عملاء من القطاعات المالية والصحية والتقنية. تواصل Orca توسعة منصتها اللاوكيلية عبر أولوية المخاطر وكشف التهديدات، لتكون النهج الرائد في تأمين أحمال السحابة خلال دقائق.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Orca Security",
-      "country": "Israël",
-      "sub_domain": "Sécurité cloud",
-      "short_description": "Sécurité cloud sans agent grâce à une analyse latérale des disques de charges de travail.",
-      "technology": "CSPM/CWPP sans agent",
-      "why_relevant": "Sécurise chaque charge de travail cloud en quelques minutes, sans le moindre agent.",
-      "history": "Orca Security a été fondée en 2019 par Avi Shua, Gil Geron et Maty Siman pour éliminer la lourdeur des agents dans la sécurité du cloud. Sa technologie brevetée de side-scanning lit les disques des charges de travail à distance, fournissant une couverture CSPM, CWPP et CIEM complète sans installer aucun logiciel. La société a levé 550 millions de dollars en série C en 2021 et atteint le statut de licorne, attirant des clients de la finance, de la santé et de la technologie. Orca continue d'étendre sa plateforme sans agent avec la priorisation des risques et la détection des menaces, devenant une référence pour sécuriser les charges de travail cloud en quelques minutes.",
-      "hq_city": "Tel Aviv"
-    }
-  },
-  "aqua-security": {
-    "ar": {
-      "name": "Aqua Security",
-      "country": "إسرائيل",
-      "sub_domain": "أمن الحاويات",
-      "short_description": "أمن الحاويات والحوسبة بدون خادم ودورة حياة التطبيقات السحابية الأصلية.",
-      "technology": "فحص صور الحاويات",
-      "why_relevant": "أمّن موجة Kubernetes قبل أن تصبح سائدة.",
-      "history": "تأسست Aqua Security عام 2015 في إسرائيل وكانت من الأوائل في تأمين النظام البيئي للحوسبة السحابية الأصلية والحاويات. تفحص منصتها صور الحاويات وتحصّن مجموعات Kubernetes وتحفظ أحمال العمل بدون خادم عبر كامل دورة حياة التطبيقات، مدعومةً باكتشافات فريق أبحاثها Aqua Nautilus. جمعت الشركة أكثر من 260 مليون دولار، من بينها جولة قيّمتها بأكثر من مليار دولار، وتضم كبرى المؤسسات بين عملائها. تظل Aqua أحد الأسماء الأكثر رسوخاً في أمن الحاويات والسحابة الأصلية.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Aqua Security",
-      "country": "Israël",
-      "sub_domain": "Sécurité des conteneurs",
-      "short_description": "Sécurité des conteneurs, du serverless et du cycle de vie des applications cloud-native.",
-      "technology": "Analyse d'images de conteneurs",
-      "why_relevant": "A sécurisé la vague Kubernetes avant qu'elle ne devienne la norme.",
-      "history": "Fondée en 2015 en Israël, Aqua Security a été l'un des premiers à sécuriser l'écosystème cloud-native et des conteneurs. Sa plateforme analyse les images de conteneurs, durcit les clusters Kubernetes et protège les charges serverless sur tout le cycle de vie des applications, appuyée par les découvertes de son équipe de recherche Aqua Nautilus. La société a levé plus de 260 millions de dollars, dont un tour qui l'a valorisée au-delà du milliard de dollars, et compte de grandes entreprises parmi ses clients. Aqua reste l'un des noms les plus établis de la sécurité des conteneurs et du cloud natif.",
-      "hq_city": "Tel Aviv"
-    }
-  },
-  "noname-security": {
-    "ar": {
-      "name": "Noname Security",
-      "country": "إسرائيل",
-      "sub_domain": "أمن API",
-      "short_description": "اختبار آلي وإدارة لوضعية الأمان لواجهات API.",
-      "technology": "اختبار أمن API",
-      "why_relevant": "أصبحت طبقة API مسار الهجوم الأساسي، وهذا حارسها.",
-      "history": "تأسست Noname Security عام 2019 لحماية سطح الهجوم المتسارع لواجهات API. تجمع منصتها بين الاختبار الآلي والاكتشاف وإدارة الوضعية للكشف عن الثغرات في واجهات API في الإنتاج وأثناء التطوير، وتبنّتها بسرعة كبرى المؤسسات وموفرو السحابة. في عام 2024 وافقت Akamai Technologies على الاستحواذ على الشركة، مدمجةً تقنيتها في منصتها. أصبحت أدوات Noname مرجعاً لأفضل ممارسات أمن API، وتساعد تقنيتها اليوم في تأمين ملايين المعاملات البرمجية ضمن محفظة مزوّد أمن عالمي.",
-      "hq_city": "بالو ألتو"
-    },
-    "fr": {
-      "name": "Noname Security",
-      "country": "Israël",
-      "sub_domain": "Sécurité des API",
-      "short_description": "Tests automatisés et gestion de la posture de sécurité des API.",
-      "technology": "Tests de sécurité des API",
-      "why_relevant": "La couche API est devenue la principale voie d'attaque, et voici son gardien.",
-      "history": "Noname Security a été fondée en 2019 pour protéger la surface d'attaque des API, en pleine croissance. Sa plateforme combine tests automatisés, découverte et gestion de la posture pour identifier les vulnérabilités sur les API en production et en développement, séduisant rapidement de grandes entreprises et des fournisseurs cloud majeurs. En 2024, Akamai Technologies a accepté d'acquérir la société, intégrant sa technologie à sa plateforme. Les outils de Noname sont devenus une référence des bonnes pratiques de sécurité des API, et leur technologie aide aujourd'hui à sécuriser des millions de transactions d'API au sein du portefeuille d'un acteur mondial de la sécurité.",
       "hq_city": "Palo Alto"
     }
   },
@@ -439,28 +329,6 @@
       "hq_city": "New York"
     }
   },
-  "torq": {
-    "ar": {
-      "name": "Torq",
-      "country": "إسرائيل",
-      "sub_domain": "أتمتة الأمن",
-      "short_description": "تنسيق أمني بدون شيفرة يربط كل أدوات الأمن.",
-      "technology": "أتمتة سير العمل",
-      "why_relevant": "كل تنبيه أمني يُجاب عنه بسلسلة من الاستجابات الآلية.",
-      "history": "تأسست Torq عام 2020 على يد أوفير سماداري ومخضرمين آخرين في مجال الأمن، ليجلبوا الأتمتة بدون شيفرة إلى العمليات الأمنية. تربط منصتها للأتمتة الفائقة عشرات الأدوات الأمنية في سير عمل مرئي، ليتسنى للمحللين تنسيق الاستجابات دون كتابة أي شيفرة. جمعت الشركة 70 مليون دولار في جولة B عام 2023، وجذبت عملاء من قطاعي التكنولوجيا المالية والتجزئة، وعُرفت كقائد في أتمتة الأمن. تواصل Torq توسعة منصتها لبناء وتنفيذ ومشاركة أدلة اللعب الدفاعية الآلية.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Torq",
-      "country": "Israël",
-      "sub_domain": "Automatisation de la sécurité",
-      "short_description": "Orchestration de sécurité no-code qui connecte tous les outils de sécurité.",
-      "technology": "Automatisation des workflows",
-      "why_relevant": "Chaque alerte de sécurité traitée par une chaîne de réponses automatisées.",
-      "history": "Torq a été fondée en 2020 par Ofer Smadari et d'autres vétérans de la sécurité pour apporter l'automatisation no-code aux opérations de sécurité. Sa plateforme d'hyperautomation connecte des dizaines d'outils de sécurité dans des workflows visuels, permettant aux analystes d'orchestrer des réponses sans écrire de code. La société a levé 70 millions de dollars en série B en 2023, attiré des clients dans la fintech et le commerce, et a été reconnue comme un leader de l'automatisation de la sécurité. Torq continue d'étendre sa plateforme pour construire, exécuter et partager des playbooks de défense automatisés.",
-      "hq_city": "Tel Aviv"
-    }
-  },
   "varonis": {
     "ar": {
       "name": "Varonis",
@@ -657,50 +525,6 @@
       "why_relevant": "Des détections en sandbox propres au mobile, fondées sur le comportement, qui empêchent l'évasion.",
       "history": "Zimperium a été fondée en 2010 par Zuk Avraham et des chercheurs spécialisés dans les plateformes mobiles. Son moteur embarqué z9 détecte malwares et phishing localement via le machine learning, sans envoyer de données vers le cloud. La technologie de Zimperium a protégé des organisations publiques et privées critiques et contribué à définir la catégorie de la défense contre les menaces mobiles. L'entreprise continue d'étendre sa plateforme de sécurité mobile, en se concentrant sur une défense complète des terminaux mobiles pour les entreprises et les administrations.",
       "hq_city": "Dallas"
-    }
-  },
-  "avanan": {
-    "ar": {
-      "name": "Avanan",
-      "country": "إسرائيل",
-      "sub_domain": "أمن البريد والذكاء الاصطناعي",
-      "short_description": "طبقة أمن بريد إلكتروني سحابية فوق Microsoft وGoogle.",
-      "technology": "دفاع بالذكاء الاصطناعي عبر API للبريد",
-      "why_relevant": "يكشف حقن الأوامر والروابط الضارة التي يفتحها الذكاء الاصطناعي في البريد.",
-      "history": "تأسست Avanan عام 2015 على يد جل فريدريش وأوهاد بوبروف لتقديم طبقة أمن قائمة على الذكاء الاصطناعي فوق Microsoft 365 وGoogle Workspace. يكتشف أمن البريد السحابي المبني على API لديهم التصيّد وانتحال الهوية، ومؤخراً حقن الأوامر والروابط الخبيثة التي يفتحها الذكاء الاصطناعي، بما يفوت الدفاعات المدمجة. في عام 2021 استحوذت Check Point Software على Avanan لتصنع بها حل Harmony Email and Collaboration. تحمي تقنية Avanan اليوم ملايين علب البريد ضمن محفظة أمنية عالمية للمؤسسات.",
-      "hq_city": "نيويورك"
-    },
-    "fr": {
-      "name": "Avanan",
-      "country": "Israël",
-      "sub_domain": "Sécurité des e-mails et de l'IA",
-      "short_description": "Couche de sécurité des e-mails cloud par-dessus Microsoft et Google.",
-      "technology": "Défense e-mail par IA via API",
-      "why_relevant": "Détecte l'injection de prompts et les liens dangereux ouverts par l'IA dans les e-mails.",
-      "history": "Avanan a été fondée en 2015 par Gil Friedrich et Ohad Bobrov pour superposer une sécurité pilotée par l'IA à Microsoft 365 et Google Workspace. Sa sécurité e-mail cloud basée sur les API détecte le phishing, l'usurpation, et plus récemment les injections de prompts et les liens malveillants ouverts par l'IA, que les défenses natives laissent passer. En 2021, Check Point Software a racheté Avanan pour créer sa solution Harmony Email and Collaboration. La technologie d'Avanan protège désormais des millions de boîtes mail au sein d'une offre de sécurité d'entreprise de réputation mondiale.",
-      "hq_city": "New York"
-    }
-  },
-  "fireblocks": {
-    "ar": {
-      "name": "Fireblocks",
-      "country": "إسرائيل",
-      "sub_domain": "أمن الأصول الرقمية",
-      "short_description": "بنية تحتية للحفظ والنقل للأصول المشفرة المؤسسية.",
-      "technology": "حفظ الأصول الرقمية عبر MPC",
-      "why_relevant": "القنوات الآمنة التي تستخدمها البنوك لحفظ الأصول الرقمية ونقلها.",
-      "history": "تأسست Fireblocks عام 2018 على يد مايكل شاولوف وبافيل بيرينغولتز وعيدان أوفرات لتأمين عمليات الأصول الرقمية المؤسسية. تستخدم منصتها الحساب متعدد الأطراف (MPC) والعزل المادي لحفظ الأصول المشفرة ونقلها، لتصبح المسار الموثوق للبورصات والبنوك وصناديق الاستثمار. خدمت الشركة مئات المؤسسات بسرعة وجمعت 550 مليون دولار عام 2022 بتقييم ثمانية مليارات دولار. تواصل Fireblocks توسعة شبكتها وقدراتها في المحافظ والترميز وضوابط السياسات لخدمة اقتصاد الأصول الرقمية المنظمة.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Fireblocks",
-      "country": "Israël",
-      "sub_domain": "Sécurité des actifs numériques",
-      "short_description": "Infrastructure de conservation et de transfert pour la crypto institutionnelle.",
-      "technology": "Conservation d'actifs numériques par MPC",
-      "why_relevant": "Les rails sécurisés que les banques utilisent pour détenir et déplacer des actifs numériques.",
-      "history": "Fireblocks a été fondée en 2018 par Michael Shaulov, Pavel Berengoltz et Idan Ofrat pour sécuriser les opérations institutionnelles sur actifs numériques. Sa plateforme utilise le calcul multipartite (MPC) et l'isolation matérielle pour conserver et transférer des actifs crypto, devenant le sillon de confiance des bourses, banques et fonds. L'entreprise a servi rapidement des centaines d'institutions et levé 550 millions de dollars en 2022, à une valorisation de 8 milliards de dollars. Fireblocks continue d'étendre son réseau et ses capacités de portefeuille, de tokenisation et de contrôle des politiques pour l'économie des actifs numériques régulés.",
-      "hq_city": "Tel Aviv"
     }
   }
 }

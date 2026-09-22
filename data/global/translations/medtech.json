@@ -21,28 +21,6 @@
       "hq_city": "San Francisco"
     }
   },
-  "aidoc": {
-    "ar": {
-      "name": "Aidoc",
-      "country": "إسرائيل",
-      "sub_domain": "تصوير شعاعي بالذكاء الاصطناعي",
-      "short_description": "يرصد النتائج الحرجة في صور CT والأشعة السينية (X-ray) لترتيب أولويات أطباء الأشعة.",
-      "technology": "ذكاء اصطناعي للتصوير الشعاعي يعمل باستمرار",
-      "why_relevant": "يعمل باستمرار على مئات الأرشيفات الطبية في المستشفيات.",
-      "history": "تأسست Aidoc في تل أبيب عام 2016، وبنَت ذكاءً اصطناعيًا دائم التشغيل يرصد النتائج الحرجة في صور التصوير المقطعي (CT) والأشعة السينية فور وصولها إلى قائمة أعمال أخصائي الأشعة. نالت أول اعتماد من إدارة الغذاء والدواء (FDA) لأداة فرز شعاعي بالذكاء الاصطناعي عام 2018، ومع بداية عشرينيات القرن تحوّلت منصتها داخل مئات الأرشيفات الطبية حول العالم. بعد جمع نحو 170 مليون دولار، أصبحت Aidoc سوقًا للذكاء الاصطناعي يضم خوارزميات شركات أخرى، وفي 2025 وافقت Nvidia على الاستحواذ عليها لتثبيت وجودها في التصوير الطبي.",
-      "hq_city": "تل أبيب"
-    },
-    "fr": {
-      "name": "Aidoc",
-      "country": "Israël",
-      "sub_domain": "Radiologie IA",
-      "short_description": "Signale les résultats critiques sur les CT et radiographies pour prioriser l'intervention des radiologues.",
-      "technology": "IA de radiologie en continu",
-      "why_relevant": "S'exécute en continu sur des centaines d'archives d'imagerie hospitalières.",
-      "history": "Fondée à Tel Aviv en 2016, Aidoc a développé une IA fonctionnant en continu qui signale les résultats critiques sur les scanners CT et les radiographies dès leur arrivée dans la file de lecture des radiologues. En 2018, elle a obtenu la première autorisation FDA pour un outil de triage radiologique par IA, et au début des années 2020, sa plateforme tournait dans des centaines d'archives hospitalières dans le monde. Après avoir levé environ 170 millions de dollars, Aidoc est devenue une place de marché IA agrégant des algorithmes tiers, et en 2025 Nvidia a accepté de racheter la société pour ancrer son portefeuille d'imagerie médicale.",
-      "hq_city": "Tel Aviv"
-    }
-  },
   "qure-ai": {
     "ar": {
       "name": "Qure.ai",
@@ -261,28 +239,6 @@
       "why_relevant": "Un implant plus petit que ceux des acteurs établis, qui élargit l'accès à la neuromodulation.",
       "history": "Nalu Medical a été fondée en 2014 dans le but de miniaturiser les implants de neuromodulation utilisés contre les douleurs chroniques du dos et des jambes. Son générateur d'impulsions implantable de taille microscopique, autorisé par la FDA pour la stimulation spinale et périphérique, se pose par ponction lors d'une procédure ambulatoire, bien plus petite que les dispositifs conventionnels. Fort de plus de 300 millions de dollars levés auprès d'investisseurs comme MVM et Pura Vida, Nalu a développé un réseau commercial dans les centres de la douleur aux États-Unis et en Europe.",
       "hq_city": "Goleta"
-    }
-  },
-  "cathworks": {
-    "ar": {
-      "name": "CathWorks",
-      "country": "إسرائيل",
-      "sub_domain": "تقييم وظيفي بالذكاء الاصطناعي",
-      "short_description": "يحسب مقاييس تدفق الدم FFR من صور تصوير الأوعية القياسية دون سلك.",
-      "technology": "ذكاء اصطناعي لحساب FFR من تصوير الأوعية",
-      "why_relevant": "يستبدل أسلاك قياس الضغط الجراحية في قسطرة القلب.",
-      "history": "تأسست CathWorks في إسرائيل عام 2013 على يد المخضرم في مجال الأجهزة الطبية موتي فريمان، بهدف إلغاء الحاجة إلى أسلاك قياس الضغط الجائرة في تقييم الشرايين التاجية. تحسب منصتها FFRangio مقاييس تدفق الدم الفسيولوجية من صور تصوير الأوعية القياسية، وأتاح اعتماد إدارة الغذاء والدواء عام 2020 للأطباء اتخاذ قرار تركيب الدعامة دون عبور الآفة. تحقّقت الشركة من التقنية في دراسة FAST-FFR السريرية، وجمعت عشرات ملايين الدولارات، وأسّست حضورًا في مختبرات القسطرة بالولايات المتحدة وأوروبا وآسيا قبل إدراجها في البورصة عام 2024.",
-      "hq_city": "كفار سابا"
-    },
-    "fr": {
-      "name": "CathWorks",
-      "country": "Israël",
-      "sub_domain": "Évaluation fonctionnelle par IA",
-      "short_description": "Calcule les paramètres de débit FFR à partir d'angiogrammes standard, sans fil guide.",
-      "technology": "IA FFR basée sur l'angiogramme",
-      "why_relevant": "Remplace les fils de pression invasifs lors du cathétérisme cardiaque.",
-      "history": "CathWorks a été fondée en Israël en 2013 par le vétéran des dispositifs médicaux Moti Freiman pour se passer des fils de mesure de pression invasifs dans l'évaluation coronarienne. Sa plateforme FFRangio calcule des paramètres physiologiques de flux sanguin à partir d'angiogrammes standard, et une autorisation FDA de 2020 a permis aux cardiologues de décider de la pose d'un stent sans franchir la lésion. La société a validé la technologie dans l'étude clinique FAST-FFR, levé des dizaines de millions de dollars et équipé des laboratoires de cathétérisme aux États-Unis, en Europe et en Asie, avant son introduction en Bourse en 2024.",
-      "hq_city": "Kfar Saba"
     }
   },
   "bigfoot-biomedical": {

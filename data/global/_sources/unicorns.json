@@ -1,0 +1,4569 @@
+[
+ {
+  "name": "Anthropic",
+  "valuation": "965",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Dario Amodei, Daniela Amodei, Jared Kaplan, Jack Clark, Ben Mann, Tom Brown, Sam McCandlish, Chris Olah"
+ },
+ {
+  "name": "OpenAI",
+  "valuation": "852",
+  "industry": "Artificial intelligence",
+  "country": "United States",
+  "founders": "Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever"
+ },
+ {
+  "name": "ByteDance",
+  "valuation": "600",
+  "industry": "Internet",
+  "country": "China",
+  "founders": "Zhang Yiming, Liang Rubo"
+ },
+ {
+  "name": "Databricks",
+  "valuation": "190",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Ali Ghodsi, Andy Konwinski, Ion Stoica, Reynold Xin, Matei Zaharia"
+ },
+ {
+  "name": "Stripe",
+  "valuation": "159",
+  "industry": "Financial services",
+  "country": "United States and Ireland",
+  "founders": "Patrick and John Collison"
+ },
+ {
+  "name": "Binance",
+  "valuation": "8090",
+  "industry": "Financial technology",
+  "country": "United Kingdom",
+  "founders": "Nikolay Storonsky, Vlad Yatsenko"
+ },
+ {
+  "name": "Anduril Industries",
+  "valuation": "61",
+  "industry": "Defense technology",
+  "country": "United States",
+  "founders": "Palmer Luckey, Trae Stephens, Matt Grimm, Joe Chen, Brian Schimpf"
+ },
+ {
+  "name": "Cognition AI",
+  "valuation": "48",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Scott Wu, Steven Hao, Walden Yan"
+ },
+ {
+  "name": "Canva",
+  "valuation": "42",
+  "industry": "Graphic design",
+  "country": "Australia",
+  "founders": "Melanie Perkins, Cliff Obrecht, Cameron Adams"
+ },
+ {
+  "name": "Prometheus",
+  "valuation": "41",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Jeff Bezos, Vik Bajaj"
+ },
+ {
+  "name": "Figure AI",
+  "valuation": "39",
+  "industry": "Humanoid robotics",
+  "country": "United States",
+  "founders": "Brett Adcock"
+ },
+ {
+  "name": "Ramp",
+  "valuation": "32",
+  "industry": "Financial technology",
+  "country": "United States",
+  "founders": "Eric Glyman, Karim Atiyeh, Gene Lee"
+ },
+ {
+  "name": "Safe Superintelligence",
+  "valuation": "32",
+  "industry": "Artificial Intelligence",
+  "country": "United States and Israel",
+  "founders": "Ilya Sutskever, Daniel Gross, Daniel Levy"
+ },
+ {
+  "name": "VAST Data",
+  "valuation": "30",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Renen Hallak, Shachar Fienblit, Jeff Denworth, Alon Horev"
+ },
+ {
+  "name": "Telegram",
+  "valuation": "30",
+  "industry": "Internet",
+  "country": "United Arab Emirates",
+  "founders": "Nikolai and Pavel Durov"
+ },
+ {
+  "name": "Scale AI",
+  "valuation": "29",
+  "industry": "Artificial intelligence",
+  "country": "United States",
+  "founders": "Alexandr Wang, Lucy Guo"
+ },
+ {
+  "name": "Fanatics",
+  "valuation": "27"
+ },
+ {
+  "name": "Epic Games",
+  "valuation": "22.5",
+  "industry": "Video games",
+  "country": "United States",
+  "founders": "Tim Sweeney"
+ },
+ {
+  "name": "Kalshi",
+  "valuation": "22",
+  "industry": "Finance",
+  "country": "United States",
+  "founders": "Tarek Mansour and Luana Lopes Lara"
+ },
+ {
+  "name": "Perplexity AI",
+  "valuation": "20",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Aravind Srinivas, Denis Yarats, Johnny Ho, Andy Konwinski"
+ },
+ {
+  "name": "Chobani",
+  "valuation": "20",
+  "industry": "Consumer staples",
+  "country": "United States",
+  "founders": "Hamdi Ulukaya"
+ },
+ {
+  "name": "Groq",
+  "valuation": "20",
+  "industry": "Artificial intelligence",
+  "country": "United States",
+  "founders": "Jonathan Ross"
+ },
+ {
+  "name": "Miro",
+  "valuation": "17.5",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Andrey Khusid"
+ },
+ {
+  "name": "Rippling",
+  "valuation": "16.8",
+  "industry": "Workforce management",
+  "country": "United States"
+ },
+ {
+  "name": "Harvey",
+  "valuation": "15.5",
+  "industry": "Artificial intelligence",
+  "country": "United States",
+  "founders": "Winston Weinberg, Gabriel Pereyra"
+ },
+ {
+  "name": "Helion Energy",
+  "valuation": "15.5",
+  "industry": "Fusion power",
+  "country": "United States",
+  "founders": "David Kirtley, Chris Pihl, George Votroubek"
+ },
+ {
+  "name": "Yuanfudao",
+  "valuation": "15.5",
+  "industry": "Educational technology",
+  "country": "China",
+  "founders": "Yong Li"
+ },
+ {
+  "name": "Discord",
+  "valuation": "15",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Jason Citron, Stanislav Vishnevsky"
+ },
+ {
+  "name": "DJI",
+  "valuation": "15",
+  "industry": "E-commerce",
+  "country": "United States",
+  "founders": "Yakir Gola, Rafael Ilishayev"
+ },
+ {
+  "name": "Nscale",
+  "valuation": "14.6",
+  "industry": "Artificial Intelligence",
+  "country": "United Kingdom",
+  "founders": "Josh Payne"
+ },
+ {
+  "name": "Mistral AI",
+  "valuation": "14",
+  "industry": "Artificial Intelligence",
+  "country": "France",
+  "founders": "Arthur Mensch, Guillaume Lample, Timothée Lacroix"
+ },
+ {
+  "name": "Xiaohongshu",
+  "valuation": "14",
+  "industry": "E-commerce",
+  "country": "China",
+  "founders": "Miranda Qu Fang, Charlwin Mao Wenchao"
+ },
+ {
+  "name": "Helsing",
+  "valuation": "14",
+  "industry": "Defense",
+  "country": "Germany",
+  "founders": "Torsten Reil, Gundbert Scherf, Niklas Köhler"
+ },
+ {
+  "name": "Skild AI",
+  "valuation": "14",
+  "industry": "Robotics",
+  "country": "United States",
+  "founders": "Deepak Pathak"
+ },
+ {
+  "name": "Plaid",
+  "valuation": "13.4",
+  "industry": "Financial technology",
+  "country": "United States",
+  "founders": "Zach Perret, William Hockey"
+ },
+ {
+  "name": "Lovable",
+  "valuation": "13.3",
+  "industry": "Artificial intelligence",
+  "country": "Sweden",
+  "founders": "Anton Osika, Fabian Hedin"
+ },
+ {
+  "name": "OpenSea",
+  "valuation": "13.3",
+  "industry": "Financial Technology",
+  "country": "United States",
+  "founders": "Devin Finzer, Chris Maddern"
+ },
+ {
+  "name": "Superhuman",
+  "valuation": "13",
+  "industry": "Collaborative software",
+  "country": "Ukraine/United States",
+  "founders": "Alex Shevchenko, Max Lytvyn, and Dmytro Lider"
+ },
+ {
+  "name": "Shield AI",
+  "valuation": "12.6",
+  "industry": "Defense Technology",
+  "country": "United States",
+  "founders": "Brandon Tseng, Ryan Tseng, and Andrew Reiter"
+ },
+ {
+  "name": "Devoted Health",
+  "valuation": "12.6",
+  "industry": "Healthcare",
+  "country": "United States",
+  "founders": "Todd Park"
+ },
+ {
+  "name": "Faire",
+  "valuation": "12.59",
+  "industry": "E-commerce",
+  "country": "United States",
+  "founders": "Max Rhodes"
+ },
+ {
+  "name": "Labs Companies",
+  "valuation": "12.5",
+  "industry": "Frontier Intelligences, Superintelligence, Human-enhancement AI",
+  "country": "United States",
+  "founders": "Duránd F. Davis Jr., and Maya Elz Davis"
+ },
+ {
+  "name": "NinjaOne",
+  "valuation": "12.3",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Sal Sferlazza and Chris Matarese"
+ },
+ {
+  "name": "Cyera",
+  "valuation": "12",
+  "industry": "Cybersecurity",
+  "country": "United States and Israel",
+  "founders": "Yotam Segev, Tamar Bar-Ilan, and Yonatan Itay"
+ },
+ {
+  "name": "Thinking Machines Lab",
+  "valuation": "12",
+  "industry": "Artificial intelligence",
+  "country": "United States",
+  "founders": "Mira Murati"
+ },
+ {
+  "name": "OpenEvidence",
+  "valuation": "12",
+  "industry": "Health Technology",
+  "country": "United States",
+  "founders": "Daniel Nadler"
+ },
+ {
+  "name": "Biosplice Therapeutics",
+  "valuation": "12",
+  "industry": "Health",
+  "country": "United States",
+  "founders": "Osman Kibar"
+ },
+ {
+  "name": "Bitmain",
+  "valuation": "12",
+  "industry": "Cryptocurrency",
+  "country": "China",
+  "founders": "Jihan Wu"
+ },
+ {
+  "name": "GoodLeap",
+  "valuation": "12",
+  "industry": "Financial technology",
+  "country": "United States",
+  "founders": "Hayes Barnard, Jason Walker, Matt Dawson"
+ },
+ {
+  "name": "Checkout.com",
+  "valuation": "12",
+  "industry": "Financial technology",
+  "country": "United Kingdom",
+  "founders": "Guillaume Pousaz"
+ },
+ {
+  "name": "Whatnot",
+  "valuation": "11.5",
+  "industry": "E-Commerce",
+  "country": "United States",
+  "founders": "Grant LaFontaine (CEO), Logan Head"
+ },
+ {
+  "name": "Celonis",
+  "valuation": "11",
+  "industry": "Software",
+  "country": "Germany",
+  "founders": "Alex Rinke, Bastian Nominacher, Martin Klenk"
+ },
+ {
+  "name": "ElevenLabs",
+  "valuation": "11",
+  "industry": "AI Audio technologies",
+  "country": "Poland",
+  "founders": "Mati Staniszewski, Piotr Dabkowski"
+ },
+ {
+  "name": "ZongMu Technology",
+  "valuation": "11",
+  "industry": "Self-driving cars",
+  "country": "China",
+  "founders": "Tang Rui"
+ },
+ {
+  "name": "Bilt Rewards",
+  "valuation": "10.75",
+  "industry": "Financial Technology",
+  "country": "United States",
+  "founders": "Ankur Jain"
+ },
+ {
+  "name": "Etched",
+  "valuation": "10.3",
+  "industry": "Artificial intelligence",
+  "country": "United States",
+  "founders": "Gavin Uberti, Chris Zhu, Robert Wachen"
+ },
+ {
+  "name": "Colossal Biosciences",
+  "valuation": "10.2",
+  "industry": "Biotechnology",
+  "country": "United States",
+  "founders": "George Church, Ben Lamm"
+ },
+ {
+  "name": "Alchemy",
+  "valuation": "10.2",
+  "industry": "Blockchain",
+  "country": "United States",
+  "founders": "Joe Lau and Nikil Viswanathan"
+ },
+ {
+  "name": "WHOOP",
+  "valuation": "10.1",
+  "industry": "Wearable technology",
+  "country": "United States",
+  "founders": "Will Ahmed"
+ },
+ {
+  "name": "Chehaoduo",
+  "valuation": "10",
+  "industry": "Marketplace",
+  "country": "China |"
+ },
+ {
+  "name": "Digital Currency Group",
+  "valuation": "10",
+  "industry": "Venture capital",
+  "country": "United States",
+  "founders": "Barry Silbert"
+ },
+ {
+  "name": "Mercor",
+  "valuation": "10",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Brendan Foody, Adarsh Hiremath, Surya Midha"
+ },
+ {
+  "name": "Gusto",
+  "valuation": "10",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Joshua Reeves, Edward Kim, Tomer London"
+ },
+ {
+  "name": "KuCoin",
+  "valuation": "10",
+  "industry": "Cryptocurrency",
+  "country": "Seychelles",
+  "founders": "Chun Gan, Ke Tang, Johnny Lyu"
+ },
+ {
+  "name": "Lalamove",
+  "valuation": "10",
+  "industry": "Supply chain management",
+  "country": "Hong Kong / China",
+  "founders": "Chow Shing-Yuk"
+ },
+ {
+  "name": "Notion Labs",
+  "valuation": "10",
+  "industry": "Productivity software",
+  "country": "United States",
+  "founders": "Ivan Zhao, Simon Last, Akshay Kothari, Chris Prucha, Jessica Lam, Toby Schachman"
+ },
+ {
+  "name": "Polygon Technology",
+  "valuation": "10",
+  "industry": "Blockchain, Web3",
+  "country": "India / Cayman Islands",
+  "founders": "Jaynti Kanani, Sandeep Nailwal, Anurag Arjun, Mihailo Bjelic"
+ },
+ {
+  "name": "Ripple",
+  "valuation": "10",
+  "industry": "Cryptocurrency",
+  "country": "United States",
+  "founders": "Chris Larsen, Jed McCaleb"
+ },
+ {
+  "name": "Talkdesk",
+  "valuation": "10",
+  "industry": "Software as a service",
+  "country": "Portugal / United States",
+  "founders": "Cristina Fonseca, Tiago Paiva"
+ },
+ {
+  "name": "Oyo",
+  "valuation": "9.6",
+  "industry": "Hospitality",
+  "country": "India",
+  "founders": "Ritesh Agarwal"
+ },
+ {
+  "name": "OutSystems",
+  "valuation": "9.5",
+  "industry": "Software development",
+  "country": "Portugal / United States",
+  "founders": "Paulo Rosado, Rui Pereira"
+ },
+ {
+  "name": "Vercel",
+  "valuation": "9.3",
+  "industry": "Cloud computing / AI",
+  "country": "United States",
+  "founders": "Guillermo Rauch"
+ },
+ {
+  "name": "HeyTea",
+  "valuation": "9.3",
+  "industry": "Retail",
+  "country": "China |"
+ },
+ {
+  "name": "Neuralink",
+  "valuation": "9",
+  "industry": "Neurotechnology",
+  "country": "United States",
+  "founders": "Elon Musk"
+ },
+ {
+  "name": "Replit",
+  "valuation": "9",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Amjad Masad, Faris Masad, Haya Odeh"
+ },
+ {
+  "name": "Tanium",
+  "valuation": "9",
+  "industry": "Cybersecurity",
+  "country": "United States",
+  "founders": "David Hindawi, Orion Hindawi"
+ },
+ {
+  "name": "Kavak",
+  "valuation": "8.7",
+  "industry": "Marketplace",
+  "country": "Mexico",
+  "founders": "Carlos García Ottati"
+ },
+ {
+  "name": "Rapyd",
+  "valuation": "8.7",
+  "industry": "Financial technology",
+  "country": "United Kingdom",
+  "founders": "Arik Shtilman, Arkady Karpman, Omer Priel"
+ },
+ {
+  "name": "Nuro",
+  "valuation": "8.6",
+  "industry": "Robotics",
+  "country": "United States",
+  "founders": "Jiajun Zhu, Dave Ferguson"
+ },
+ {
+  "name": "Snyk",
+  "valuation": "8.5",
+  "industry": "Application security",
+  "country": "United Kingdom",
+  "founders": "Assaf Hefetz, Danny Grander"
+ },
+ {
+  "name": "Bolt",
+  "valuation": "8.4",
+  "industry": "Transportation",
+  "country": "Estonia",
+  "founders": "Markus Villig"
+ },
+ {
+  "name": "Together AI",
+  "valuation": "8.3",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Vipul Ved Prakash, Ce Zhang, Chris Ré, Tri Dao, Percy Liang"
+ },
+ {
+  "name": "Dream11",
+  "valuation": "8",
+  "industry": "Fantasy sports",
+  "country": "India",
+  "founders": "Harsh Jain, Bhavit Sheth"
+ },
+ {
+  "name": "Flexport",
+  "valuation": "8",
+  "industry": "Logistics",
+  "country": "United States",
+  "founders": "Ryan Petersen"
+ },
+ {
+  "name": "Airwallex",
+  "valuation": "8",
+  "industry": "Financial services",
+  "country": "Australia / Hong Kong",
+  "founders": "Jack Zhang, Max Li, Lucy Liu, Xijing Dai, Ki-lok Wong"
+ },
+ {
+  "name": "StarkWare Industries",
+  "valuation": "8",
+  "industry": "Blockchain",
+  "country": "Israel",
+  "founders": "Eli Ben-Sasson, Michael Riabzev, Uri Kolodny, Alessandro Chiesa"
+ },
+ {
+  "name": "Dapper Labs",
+  "valuation": "7.6",
+  "industry": "NFT",
+  "country": "Canada |"
+ },
+ {
+  "name": "Zipline",
+  "valuation": "7.6",
+  "industry": "Logistics",
+  "country": "United States",
+  "founders": "Keller Rinaudo Cliffton, Keenan Wyrobek, Ryan Oksenhorn, William Hetzler"
+ },
+ {
+  "name": "AlphaSense",
+  "valuation": "7.5",
+  "industry": "Software",
+  "country": "United States (formerly Finland)",
+  "founders": "Jaakko Kokko, Raj Neervannan"
+ },
+ {
+  "name": "Razorpay",
+  "valuation": "7.5",
+  "industry": "Financial technology",
+  "country": "India",
+  "founders": "Harshil Mathur, Shashank Kumar"
+ },
+ {
+  "name": "Carta",
+  "valuation": "7.4",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Henry Ward"
+ },
+ {
+  "name": "Ola Consumer",
+  "valuation": "7.3",
+  "industry": "Transportation",
+  "country": "India",
+  "founders": "Bhavish Aggarwal, Ankit Bhati"
+ },
+ {
+  "name": "Gong",
+  "valuation": "4.5",
+  "industry": "June 2021",
+  "country": "Artificial intelligence |"
+ },
+ {
+  "name": "PsiQuantum",
+  "valuation": "7",
+  "industry": "Quantum computing",
+  "country": "United States"
+ },
+ {
+  "name": "Automation Anywhere",
+  "valuation": "6.8",
+  "industry": "Robotic process automation",
+  "country": "United States |"
+ },
+ {
+  "name": "1Password",
+  "valuation": "6.8",
+  "industry": "Password manager",
+  "country": "Canada |"
+ },
+ {
+  "name": "WeDoctor",
+  "valuation": "6.8",
+  "industry": "Healthcare",
+  "country": "China |"
+ },
+ {
+  "name": "Cohere",
+  "valuation": "6.8",
+  "industry": "Artificial intelligence",
+  "country": "Canada",
+  "founders": "Aidan Gomez, Ivan Zhang, Nick Frosst"
+ },
+ {
+  "name": "Yanolja",
+  "valuation": "6.7",
+  "industry": "Hospitality",
+  "country": "South Korea",
+  "founders": "Lee Su-jin"
+ },
+ {
+  "name": "Ziroom",
+  "valuation": "6.6",
+  "industry": "Real estate technology",
+  "country": "China |"
+ },
+ {
+  "name": "Mollie",
+  "valuation": "6.5",
+  "industry": "Financial technology",
+  "country": "Netherlands |"
+ },
+ {
+  "name": "CRED",
+  "valuation": "6.4",
+  "industry": "Financial technology",
+  "country": "India",
+  "founders": "Kunal Shah"
+ },
+ {
+  "name": "DataRobot",
+  "valuation": "6.3",
+  "industry": "Artificial intelligence",
+  "country": "United States |"
+ },
+ {
+  "name": "Personio",
+  "valuation": "6.3",
+  "industry": "Software",
+  "country": "Germany |"
+ },
+ {
+  "name": "Doctolib",
+  "valuation": "6.2",
+  "industry": "Healthcare",
+  "country": "France |"
+ },
+ {
+  "name": "iCapital",
+  "valuation": "6",
+  "industry": "Financial services",
+  "country": "United States |"
+ },
+ {
+  "name": "Xingsheng Youxuan",
+  "valuation": "6",
+  "industry": "Retail",
+  "country": "China |"
+ },
+ {
+  "name": "SandboxAQ",
+  "valuation": "5.6",
+  "industry": "Quantum technology, Artificial intelligence",
+  "country": "United States"
+ },
+ {
+  "name": "Back Market",
+  "valuation": "5.8",
+  "industry": "Construction",
+  "country": "United States",
+  "founders": "Elon Musk"
+ },
+ {
+  "name": "Relex",
+  "valuation": "5.68",
+  "industry": "Supply Chain Automation",
+  "country": "Finland",
+  "founders": "Johanna Småros, Mikko Kärkkäinen, and Michael Falck"
+ },
+ {
+  "name": "Contentsquare",
+  "valuation": "5.6",
+  "industry": "Data infrastructure",
+  "country": "United States |"
+ },
+ {
+  "name": "Postman",
+  "valuation": "5.6",
+  "industry": "Software as a service",
+  "country": "India / United States |"
+ },
+ {
+  "name": "PhonePe",
+  "valuation": "5.5",
+  "industry": "Financial technology",
+  "country": "India",
+  "founders": "Sameer Nigam, Rahul Chari"
+ },
+ {
+  "name": "Viva Republica (Toss)",
+  "valuation": "5.48",
+  "industry": "Financial technology",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Higgsfield",
+  "valuation": "5.4",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Alex Mashrabov"
+ },
+ {
+  "name": "Trade Republic",
+  "valuation": "5.3",
+  "industry": "Financial technology",
+  "country": "Germany |"
+ },
+ {
+  "name": "Rappi",
+  "valuation": "5.25",
+  "industry": "Transportation",
+  "country": "Colombia |"
+ },
+ {
+  "name": "Oura Health",
+  "valuation": "5.2",
+  "industry": "Wearables",
+  "country": "Finland",
+  "founders": "Petteri Lahtela, Kari Kivelä, and Markku Koskela"
+ },
+ {
+  "name": "Blockchain.com",
+  "valuation": "5.2",
+  "industry": "Cryptocurrency",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Ineffable Intelligence",
+  "valuation": "5.1",
+  "industry": "Artificial intelligence",
+  "country": "United Kingdom",
+  "founders": "David Silver"
+ },
+ {
+  "name": "OneTrust",
+  "valuation": "5.1",
+  "industry": "Cybersecurity",
+  "country": "United Kingdom / United States |"
+ },
+ {
+  "name": "SambaNova",
+  "valuation": "5.1",
+  "industry": "Artificial intelligence",
+  "country": "United States |"
+ },
+ {
+  "name": "Collibra",
+  "valuation": "5+",
+  "industry": "Data governance",
+  "country": "Belgium",
+  "founders": "Pieter De Leenheer, Felix Van de Maele, Stijn Christiaens"
+ },
+ {
+  "name": "CloudKitchens",
+  "valuation": "5",
+  "industry": "Ghost kitchen",
+  "country": "United States |"
+ },
+ {
+  "name": "Hello TransTech",
+  "valuation": "5",
+  "industry": "Transportation",
+  "country": "China |"
+ },
+ {
+  "name": "Hopper",
+  "valuation": "5",
+  "industry": "Travel",
+  "country": "Canada |"
+ },
+ {
+  "name": "OfBusiness",
+  "valuation": "5",
+  "industry": "B2B e-commerce",
+  "country": "India",
+  "founders": "Bhuvan Gupta, Vasant Sridhar, Ruchi Kalra, Nitin Jain, Asish Mohapatra"
+ },
+ {
+  "name": "Qonto",
+  "valuation": "5",
+  "industry": "Artificial intelligence",
+  "country": "United States",
+  "founders": "Igor Babuschkin"
+ },
+ {
+  "name": "Ro",
+  "valuation": "5",
+  "industry": "Health technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Wonderful",
+  "valuation": "5",
+  "industry": "Artificial intelligence",
+  "country": "/",
+  "founders": "Bar Winkler, Roey Lalazar"
+ },
+ {
+  "name": "Zepz",
+  "valuation": "5",
+  "industry": "Financial technology",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Animoca Brands",
+  "valuation": "5",
+  "industry": "Blockchain gaming",
+  "country": "Hong Kong",
+  "founders": "Yat Siu"
+ },
+ {
+  "name": "Octopus Energy",
+  "valuation": "5",
+  "industry": "Energy supply",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Pleo",
+  "valuation": "4.7",
+  "industry": "Financial technology",
+  "country": "Denmark |"
+ },
+ {
+  "name": "Checkr",
+  "valuation": "4.6",
+  "industry": "Human resource management",
+  "country": "United States |"
+ },
+ {
+  "name": "Dataiku",
+  "valuation": "4.6",
+  "industry": "Artificial intelligence",
+  "country": "France / United States |"
+ },
+ {
+  "name": "GetBlock",
+  "valuation": "4.6",
+  "industry": "Blockchain",
+  "country": "Georgia",
+  "founders": "Steven Lloyd"
+ },
+ {
+  "name": "Sorare",
+  "valuation": "4.6",
+  "industry": "Identity management",
+  "country": "United States |"
+ },
+ {
+  "name": "Vinted",
+  "valuation": "4.5",
+  "industry": "Marketplace",
+  "country": "Lithuania",
+  "founders": "Milda Mitkutė, Justas Janauskas"
+ },
+ {
+  "name": "Quince",
+  "valuation": "4.5",
+  "industry": "Enterprise Technology",
+  "country": "United States",
+  "founders": "Sid Gupta, Zunu Mittal, Sourabh Mahajan"
+ },
+ {
+  "name": "Outreach",
+  "valuation": "4.4",
+  "industry": "Sales",
+  "country": "United States |"
+ },
+ {
+  "name": "Arctic Wolf Networks",
+  "valuation": "4.3",
+  "industry": "Cybersecurity",
+  "country": "United States |"
+ },
+ {
+  "name": "Chainalysis",
+  "valuation": "4.2",
+  "industry": "Blockchain",
+  "country": "United States |"
+ },
+ {
+  "name": "Relativity Space",
+  "valuation": "4.2",
+  "industry": "Aerospace",
+  "country": "United States |"
+ },
+ {
+  "name": "Bitpanda",
+  "valuation": "4.1",
+  "industry": "Cryptocurrency",
+  "country": "Austria |"
+ },
+ {
+  "name": "Dataminr",
+  "valuation": "4.1",
+  "industry": "Data analytics",
+  "country": "United States |"
+ },
+ {
+  "name": "Yello Mobile",
+  "valuation": "4.05",
+  "industry": "Software industry",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Abnormal Security",
+  "valuation": "4",
+  "industry": "Cybersecurity",
+  "country": "United States",
+  "founders": "Evan Reiser, Sanjay Jeyakumar"
+ },
+ {
+  "name": "Branch Metrics",
+  "valuation": "4",
+  "industry": "Marketing",
+  "country": "United States |"
+ },
+ {
+  "name": "BrowserStack",
+  "valuation": "4",
+  "industry": "Software",
+  "country": "India",
+  "founders": "Ritesh Arora, Nakul Aggarwal"
+ },
+ {
+  "name": "Clubhouse",
+  "valuation": "4",
+  "industry": "Messaging",
+  "country": "United States",
+  "founders": "Paul Davison and Rohan Seth"
+ },
+ {
+  "name": "Houzz",
+  "valuation": "4",
+  "industry": "Interior design",
+  "country": "United States |"
+ },
+ {
+  "name": "Megvii",
+  "valuation": "4",
+  "industry": "Technology",
+  "country": "China |"
+ },
+ {
+  "name": "Melio",
+  "valuation": "4",
+  "industry": "Financial technology",
+  "country": "Israel |"
+ },
+ {
+  "name": "Patreon",
+  "valuation": "4",
+  "industry": "Online membership service",
+  "country": "United States",
+  "founders": "Jack Conte, Sam Yam"
+ },
+ {
+  "name": "PointClickCare",
+  "valuation": "4",
+  "industry": "Software",
+  "country": "Canada |"
+ },
+ {
+  "name": "QuintoAndar",
+  "valuation": "4",
+  "industry": "Real estate",
+  "country": "Brazil |"
+ },
+ {
+  "name": "Niantic",
+  "valuation": "3.95",
+  "industry": "Video games",
+  "country": "United States |"
+ },
+ {
+  "name": "StockX",
+  "valuation": "3.8",
+  "industry": "E-commerce",
+  "country": "United States |"
+ },
+ {
+  "name": "Articulate",
+  "valuation": "3.75",
+  "industry": "Educational technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Cohesity",
+  "valuation": "3.7",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Noom",
+  "valuation": "3.7",
+  "industry": "Healthcare",
+  "country": "United States |"
+ },
+ {
+  "name": "PAPAYA Global",
+  "valuation": "3.7",
+  "industry": "Workforce management",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "ShareChat",
+  "valuation": "3.7",
+  "industry": "Social network",
+  "country": "India",
+  "founders": "Ankush Sachdeva, Bhanu Pratap Singh, Farid Ahsan"
+ },
+ {
+  "name": "Shouqi",
+  "valuation": "3.55",
+  "industry": "Cybersecurity",
+  "country": "United States |"
+ },
+ {
+  "name": "Commure",
+  "valuation": "3.5",
+  "industry": "Health technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Mirakl",
+  "valuation": "3.5",
+  "industry": "Marketplace",
+  "country": "France |"
+ },
+ {
+  "name": "N26",
+  "valuation": "3.5",
+  "industry": "Financial services",
+  "country": "Germany |"
+ },
+ {
+  "name": "Preferred Networks",
+  "valuation": "3.33",
+  "industry": "Artificial intelligence",
+  "country": "Japan |"
+ },
+ {
+  "name": "CARS24",
+  "valuation": "3.3",
+  "industry": "Marketplace",
+  "country": "India",
+  "founders": "Vikram Chopra, Mehul Agrawal, Gajendra Jangid and Ruchit Agarwal"
+ },
+ {
+  "name": "Kurly",
+  "valuation": "3.3",
+  "industry": "E-commerce",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Youxia Motors",
+  "valuation": "3.3",
+  "industry": "Electric vehicles",
+  "country": "China |"
+ },
+ {
+  "name": "MoonPay",
+  "valuation": "3.4",
+  "industry": "Cryptocurrency",
+  "country": "United States |"
+ },
+ {
+  "name": "Upstox",
+  "valuation": "3.4",
+  "industry": "Financial technology",
+  "country": "India",
+  "founders": "Ravi Kumar, Kavitha Subramanian, Shrini Viswanath"
+ },
+ {
+  "name": "Plus.ai",
+  "valuation": "3.3",
+  "industry": "Self-driving trucks",
+  "country": "United States |"
+ },
+ {
+  "name": "Starburst Data",
+  "valuation": "3.3",
+  "industry": "Data analytics",
+  "country": "United States",
+  "founders": "Justin Borgman, Matt Fuller, Kamil Bajda-Pawlikowski, Anu Sudarsan, Wojciech Biela, Grzegorz Kokosiński, Lukasz Osipiuk, Martin Traverso"
+ },
+ {
+  "name": "Thumbtack",
+  "valuation": "3.2",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Marco Zappacosta"
+ },
+ {
+  "name": "ApplyBoard",
+  "valuation": "3.2",
+  "industry": "Educational technology",
+  "country": "Canada",
+  "founders": "Martin Basiri, Massi Basiri, Meti Basiri"
+ },
+ {
+  "name": "Blockstream",
+  "valuation": "3.2",
+  "industry": "Blockchain",
+  "country": "Canada |"
+ },
+ {
+  "name": "ConsenSys",
+  "valuation": "3.2",
+  "industry": "Blockchain",
+  "country": "United States |"
+ },
+ {
+  "name": "Flutterwave",
+  "valuation": "3.2",
+  "industry": "Financial technology",
+  "country": "Nigeria / United States",
+  "founders": "Olugbenga Agboola , Iyinoluwa Aboyeji"
+ },
+ {
+  "name": "Verkada",
+  "valuation": "3.2",
+  "industry": "Physical security",
+  "country": "United States",
+  "founders": "Filip Kailiszan, James Ren, Benjamin Bercowitz, Hans Robertson"
+ },
+ {
+  "name": "Eruditus",
+  "valuation": "3.2",
+  "industry": "Educational technology",
+  "country": "India |"
+ },
+ {
+  "name": "SpotOn",
+  "valuation": "3.15",
+  "industry": "Financial technology",
+  "country": "United States |"
+ },
+ {
+  "name": "TiendaNube",
+  "valuation": "3.1",
+  "industry": "E-commerce",
+  "country": "Argentina |"
+ },
+ {
+  "name": "Udaan",
+  "valuation": "3.1",
+  "industry": "B2B e-commerce",
+  "country": "India",
+  "founders": "Vaibhav Gupta, Amod Malviya, Sujeet Kumar"
+ },
+ {
+  "name": "Wildlife",
+  "valuation": "3+",
+  "industry": "Mobile gaming",
+  "country": "Brazil |"
+ },
+ {
+  "name": "CMR Surgical",
+  "valuation": "3",
+  "industry": "Robotics",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Traveloka",
+  "valuation": "3",
+  "industry": "Travel",
+  "country": "Indonesia |"
+ },
+ {
+  "name": "ActiveCampaign",
+  "valuation": "3",
+  "industry": "Marketing",
+  "country": "United States |"
+ },
+ {
+  "name": "Age of Learning, Inc.",
+  "valuation": "3",
+  "industry": "Education",
+  "country": "United States |"
+ },
+ {
+  "name": "Automattic",
+  "valuation": "3",
+  "industry": "Internet",
+  "country": "United States",
+  "founders": "Matt Mullenweg"
+ },
+ {
+  "name": "Calendly",
+  "valuation": "3",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Tope Awotona"
+ },
+ {
+  "name": "Contentful",
+  "valuation": "3",
+  "industry": "Content management system",
+  "country": "Germany |"
+ },
+ {
+  "name": "Forter",
+  "valuation": "3",
+  "industry": "Software",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "Grafana Labs",
+  "valuation": "3",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Lucid Software",
+  "valuation": "3",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "MessageBird",
+  "valuation": "3",
+  "industry": "Cloud communications",
+  "country": "Netherlands |"
+ },
+ {
+  "name": "Seismic",
+  "valuation": "3",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Sky Mavis",
+  "valuation": "3",
+  "industry": "Video games",
+  "country": "Vietnam |"
+ },
+ {
+  "name": "Souche",
+  "valuation": "3",
+  "industry": "Marketplace",
+  "country": "China |"
+ },
+ {
+  "name": "TradingView",
+  "valuation": "3",
+  "industry": "Finance",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Aiven",
+  "valuation": "3",
+  "industry": "Data infrastructure",
+  "country": "Finland",
+  "founders": "Hannu Valtonen, Heikki Nousiainen, Oskari Saarenmaa"
+ },
+ {
+  "name": "VANCL",
+  "valuation": "3",
+  "industry": "Education",
+  "country": "China |"
+ },
+ {
+  "name": "Wefox",
+  "valuation": "3",
+  "industry": "Insurance",
+  "country": "Germany |"
+ },
+ {
+  "name": "Workrise",
+  "valuation": "2.9",
+  "industry": "Workforce management",
+  "country": "United States |"
+ },
+ {
+  "name": "DriveWealth",
+  "valuation": "2.85",
+  "industry": "Financial technology",
+  "country": "United States |"
+ },
+ {
+  "name": "BharatPe",
+  "valuation": "2.8",
+  "industry": "Financial technology",
+  "country": "India",
+  "founders": "Ashneer Grover"
+ },
+ {
+  "name": "Icertis",
+  "valuation": "2.8",
+  "industry": "Software",
+  "country": "India / United States",
+  "founders": "Samir Bodas, Monish Darda."
+ },
+ {
+  "name": "OakNorth",
+  "valuation": "2.8",
+  "industry": "Finance",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Astranis",
+  "valuation": "2.8",
+  "industry": "Space technology",
+  "country": "United States",
+  "founders": "John Gedmark, Ryan McLinko"
+ },
+ {
+  "name": "Abridge",
+  "valuation": "2.75",
+  "industry": "Healthcare technology and AI",
+  "country": "United States",
+  "founders": "Shiv Rao"
+ },
+ {
+  "name": "Illumio",
+  "valuation": "2.75",
+  "industry": "Cybersecurity",
+  "country": "United States |"
+ },
+ {
+  "name": "MasterClass",
+  "valuation": "2.75",
+  "industry": "Educational technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Dream Games",
+  "valuation": "2.75",
+  "industry": "Gaming",
+  "country": "Turkey |"
+ },
+ {
+  "name": "Daangn Market",
+  "valuation": "2.7",
+  "industry": "E-commerce",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Tridge",
+  "valuation": "2.7",
+  "industry": "Software as a service",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Nextiva",
+  "valuation": "2.7",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Tradeshift",
+  "valuation": "2.7",
+  "industry": "Financial technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Odoo",
+  "valuation": "2.63",
+  "industry": "CRM",
+  "country": "Belgium |"
+ },
+ {
+  "name": "AmWINS Group",
+  "valuation": "2.6",
+  "industry": "Insurance",
+  "country": "United States |"
+ },
+ {
+  "name": "ManoMano",
+  "valuation": "2.6",
+  "industry": "E-commerce",
+  "country": "France |"
+ },
+ {
+  "name": "Pendo",
+  "valuation": "2.6",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Sourcegraph",
+  "valuation": "2.6",
+  "industry": "Developer platform",
+  "country": "United States |"
+ },
+ {
+  "name": "Jumpcloud",
+  "valuation": "2.56",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Cato Networks",
+  "valuation": "2.5",
+  "industry": "Cybersecurity",
+  "country": "Israel |"
+ },
+ {
+  "name": "EasyA",
+  "valuation": "2.5",
+  "industry": "Technology",
+  "country": "United Kingdom",
+  "founders": "Phil Kwok, Dom Kwok"
+ },
+ {
+  "name": "Infra.Market",
+  "valuation": "2.5",
+  "industry": "Marketplace",
+  "country": "India",
+  "founders": "Aaditya Sharda, Souvik Sengupta"
+ },
+ {
+  "name": "Instinct",
+  "valuation": "2.5",
+  "industry": "Artificial Intelligence",
+  "founders": "Noah Shinn"
+ },
+ {
+  "name": "DriveNets",
+  "valuation": "2.5+",
+  "industry": "Network operating system, Software-defined networking, Software as a service",
+  "country": "Israel",
+  "founders": "Ido Susan, Hillel Kobrinsky"
+ },
+ {
+  "name": "Mews (company)",
+  "valuation": "2.5",
+  "industry": "Hospitality management platform",
+  "country": "Czech Republic",
+  "founders": "Richard Valtr"
+ },
+ {
+  "name": "Monzo",
+  "valuation": "2.5",
+  "industry": "Financial services",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Suno",
+  "valuation": "2.45",
+  "industry": "Artificial intelligence",
+  "country": "United States |"
+ },
+ {
+  "name": "Ualá",
+  "valuation": "2.45",
+  "industry": "Personal finance",
+  "country": "Argentina |"
+ },
+ {
+  "name": "HoneyBook",
+  "valuation": "2.4",
+  "industry": "Financial services",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "BitSight",
+  "valuation": "2.4",
+  "industry": "Cybersecurity",
+  "country": "United States",
+  "founders": "Nagarjuna Venna, Stephen Boyer"
+ },
+ {
+  "name": "Exabeam",
+  "valuation": "2.4",
+  "industry": "Cybersecurity",
+  "country": "United States |"
+ },
+ {
+  "name": "Paxos",
+  "valuation": "2.4",
+  "industry": "Cryptocurrency",
+  "country": "United States |"
+ },
+ {
+  "name": "Mozido",
+  "valuation": "2.39",
+  "industry": "Healthcare",
+  "country": "United States",
+  "founders": "Andrew Adams"
+ },
+ {
+  "name": "Highspot",
+  "valuation": "2.3",
+  "industry": "Sales",
+  "country": "United States |"
+ },
+ {
+  "name": "MPL",
+  "valuation": "2.3",
+  "industry": "Mobile gaming",
+  "country": "India |"
+ },
+ {
+  "name": "Uzum",
+  "valuation": "2.3",
+  "industry": "E-commerce, Financial technology",
+  "country": "Uzbekistan",
+  "founders": "Djasur Djumaev, Nikolay Seleznev, Roman Lavrentyev"
+ },
+ {
+  "name": "Uptake",
+  "valuation": "2.3",
+  "industry": "Asset performance management",
+  "country": "United States |"
+ },
+ {
+  "name": "Algolia",
+  "valuation": "2.25",
+  "industry": "Software",
+  "country": "France / United States |"
+ },
+ {
+  "name": "KeepTruckin",
+  "valuation": "2.25",
+  "industry": "Logistics",
+  "country": "United States |"
+ },
+ {
+  "name": "Acorns",
+  "valuation": "2.2",
+  "industry": "Financial technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Bitso",
+  "valuation": "2.2",
+  "industry": "Cryptocurrency",
+  "country": "Mexico |"
+ },
+ {
+  "name": "Gympass",
+  "valuation": "2.2",
+  "industry": "Fitness",
+  "country": "Brazil / United States |"
+ },
+ {
+  "name": "Transmit Security",
+  "valuation": "2.2",
+  "industry": "Cybersecurity",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "Addepar",
+  "valuation": "2.17",
+  "industry": "Financial technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Eightfold.ai",
+  "valuation": "2.1+",
+  "industry": "Artificial intelligence",
+  "country": "United States |"
+ },
+ {
+  "name": "Gamma",
+  "valuation": "2.1",
+  "industry": "Artificial intelligence",
+  "country": "United States",
+  "founders": "Grant Lee"
+ },
+ {
+  "name": "PayFit",
+  "valuation": "2.1",
+  "industry": "Software",
+  "country": "France",
+  "founders": "Ghislain de Fontenay, Firmin Zoccchetto, Florian Fournier"
+ },
+ {
+  "name": "6sense",
+  "valuation": "2.1",
+  "industry": "Artificial intelligence",
+  "country": "United States |"
+ },
+ {
+  "name": "C6 Bank",
+  "valuation": "2.1",
+  "industry": "Financial services",
+  "country": "Brazil |"
+ },
+ {
+  "name": "Mambu",
+  "valuation": "2.1",
+  "industry": "Financial technology",
+  "country": "Germany |"
+ },
+ {
+  "name": "Webflow",
+  "valuation": "2.1",
+  "industry": "Web development",
+  "country": "United States |"
+ },
+ {
+  "name": "bKash",
+  "valuation": "2+",
+  "industry": "Mobile financial services",
+  "country": "Bangladesh",
+  "founders": "Kamal Quadir"
+ },
+ {
+  "name": "Bought By Many",
+  "valuation": "2+",
+  "industry": "Insurance",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "FlixMobility",
+  "valuation": "2+",
+  "industry": "Transportation",
+  "country": "Germany |"
+ },
+ {
+  "name": "Tipalti",
+  "valuation": "2+",
+  "industry": "Financial technology",
+  "country": "United States / Israel |"
+ },
+ {
+  "name": "Hive",
+  "valuation": "2",
+  "industry": "Artificial intelligence",
+  "country": "United States",
+  "founders": "Kevin Guo, Dmitriy Karpman"
+ },
+ {
+  "name": "Mural",
+  "valuation": "2",
+  "industry": "Technology",
+  "country": "Argentina / United States",
+  "founders": "Patricio Jutard"
+ },
+ {
+  "name": "AppsFlyer",
+  "valuation": "2",
+  "industry": "Mobile marketing analytics",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "BlaBlaCar",
+  "valuation": "2",
+  "industry": "Transportation",
+  "country": "France |"
+ },
+ {
+  "name": "Calm",
+  "valuation": "2",
+  "industry": "Digital health",
+  "country": "United States",
+  "founders": "Michael Acton Smith, Alex Tew"
+ },
+ {
+  "name": "ClickHouse",
+  "valuation": "2",
+  "industry": "Database management",
+  "country": "United States |"
+ },
+ {
+  "name": "Clip",
+  "valuation": "2",
+  "industry": "Financial technology",
+  "country": "Mexico |"
+ },
+ {
+  "name": "Cockroach Labs",
+  "valuation": "2",
+  "industry": "Database management",
+  "country": "United States |"
+ },
+ {
+  "name": "Divvy Homes",
+  "valuation": "2",
+  "industry": "Real estate technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Druva",
+  "valuation": "2",
+  "industry": "Cloud computing",
+  "country": "India / United States |"
+ },
+ {
+  "name": "Exotec",
+  "valuation": "2",
+  "industry": "3D printing",
+  "country": "United States |"
+ },
+ {
+  "name": "Huimin.cn",
+  "valuation": "2",
+  "industry": "Marketing",
+  "country": "United States |"
+ },
+ {
+  "name": "Kry",
+  "valuation": "2",
+  "industry": "Healthcare",
+  "country": "Sweden |"
+ },
+ {
+  "name": "Meicai.cn",
+  "valuation": "2",
+  "industry": "Financial technology",
+  "country": "Philippines |"
+ },
+ {
+  "name": "OPay",
+  "valuation": "2",
+  "industry": "Financial technology",
+  "country": "Nigeria |"
+ },
+ {
+  "name": "PixVerse",
+  "valuation": "2",
+  "industry": "Artificial Intelligence",
+  "country": "Singapore |"
+ },
+ {
+  "name": "Simile",
+  "valuation": "2",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Joon Sung Park, Michael Bernstein, Percy Liang"
+ },
+ {
+  "name": "Sword Health",
+  "valuation": "2",
+  "industry": "Health",
+  "country": "Portugal / United States",
+  "founders": "Fashion, Retail",
+  "note": "China / Hong Kong |"
+ },
+ {
+  "name": "Unqork",
+  "valuation": "2",
+  "industry": "Software development",
+  "country": "United States |"
+ },
+ {
+  "name": "Zerodha",
+  "valuation": "2",
+  "industry": "Financial technology",
+  "country": "India |"
+ },
+ {
+  "name": "Instabase",
+  "valuation": "2",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Anant Bhardwaj"
+ },
+ {
+  "name": "Zilch",
+  "valuation": "2",
+  "industry": "Financial technology",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Akulaku",
+  "valuation": "2",
+  "industry": "Financial technology",
+  "country": "Indonesia |"
+ },
+ {
+  "name": "Ankorstore",
+  "valuation": "1.98",
+  "industry": "Analytics",
+  "country": "United States |"
+ },
+ {
+  "name": "Sanpower Group",
+  "valuation": "1.93",
+  "industry": "Property technology",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Bunq",
+  "valuation": "1.9",
+  "industry": "Financial services",
+  "country": "Netherlands |"
+ },
+ {
+  "name": "CoinSwitch Kuber",
+  "valuation": "1.9",
+  "industry": "Cryptocurrency",
+  "country": "India",
+  "founders": "Ashish Singhal, Vimal Sagar Tiwari, Govind Soni"
+ },
+ {
+  "name": "Dfinity",
+  "valuation": "1.9",
+  "industry": "Cloud computing",
+  "country": "Switzerland |"
+ },
+ {
+  "name": "Prosper Marketplace",
+  "valuation": "1.9",
+  "industry": "Fashion",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Apus Group",
+  "valuation": "1.85",
+  "industry": "Cloud computing",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Landa Digital Printing",
+  "valuation": "1.8",
+  "industry": "Printing",
+  "country": "Israel |"
+ },
+ {
+  "name": "Lightricks",
+  "valuation": "1.8",
+  "industry": "Software development",
+  "country": "Israel |"
+ },
+ {
+  "name": "NantOmics",
+  "valuation": "1.8",
+  "industry": "Cybersecurity",
+  "country": "Israel |"
+ },
+ {
+  "name": "Quora",
+  "valuation": "1.8",
+  "industry": "Social network",
+  "country": "United States |"
+ },
+ {
+  "name": "Radiant Nuclear",
+  "valuation": "1.8",
+  "industry": "Energy Technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Zocdoc",
+  "valuation": "1.8",
+  "industry": "Marketplace",
+  "country": "India",
+  "founders": "Niraj Singh, Ramanshu Mahaur, Ganesh Pawar, Mohit Gupta"
+ },
+ {
+  "name": "Trulioo",
+  "valuation": "1.75",
+  "industry": "Identity management",
+  "country": "Canada |"
+ },
+ {
+  "name": "Productboard",
+  "valuation": "1.725",
+  "industry": "Product management platform",
+  "country": "Czech Republic",
+  "founders": "Daniel Hejl, Hubert Palan"
+ },
+ {
+  "name": "ADVASA",
+  "valuation": "1.7",
+  "industry": "Software",
+  "country": "Japan |"
+ },
+ {
+  "name": "Carsome",
+  "valuation": "1.7",
+  "industry": "Marketplace",
+  "country": "Malaysia |"
+ },
+ {
+  "name": "Dragos",
+  "valuation": "1.7",
+  "industry": "Cybersecurity",
+  "country": "United States |"
+ },
+ {
+  "name": "Dutchie.com",
+  "valuation": "1.7",
+  "industry": "Cannabis",
+  "country": "United States |"
+ },
+ {
+  "name": "GVE",
+  "valuation": "1.7",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Jyoti Bansal"
+ },
+ {
+  "name": "PAX Labs",
+  "valuation": "1.7",
+  "industry": "Cannabis",
+  "country": "United States |"
+ },
+ {
+  "name": "Vestiaire Collective",
+  "valuation": "1.7",
+  "industry": "Marketplace",
+  "country": "France |"
+ },
+ {
+  "name": "Voodoo",
+  "valuation": "1.7",
+  "industry": "Health technology",
+  "country": "France |"
+ },
+ {
+  "name": "Incredible Health",
+  "valuation": "1.65",
+  "industry": "Healthcare Technology",
+  "country": "United States",
+  "founders": "Iman Abuzeid, Rome Portlock"
+ },
+ {
+  "name": "HiBob",
+  "valuation": "1.65",
+  "industry": "HR technology",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "Solarisbank",
+  "valuation": "1.65",
+  "industry": "Financial technology",
+  "country": "Germany |"
+ },
+ {
+  "name": "Wayflyer",
+  "valuation": "1.6",
+  "industry": "Financial technology",
+  "country": "Ireland |"
+ },
+ {
+  "name": "Aiways",
+  "valuation": "1.6",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Clio",
+  "valuation": "1.6",
+  "industry": "Legal technology",
+  "country": "Canada |"
+ },
+ {
+  "name": "Cognite",
+  "valuation": "1.6",
+  "industry": "Software",
+  "country": "Norway |"
+ },
+ {
+  "name": "HomeLight",
+  "valuation": "1.6",
+  "industry": "Real estate",
+  "country": "United States |"
+ },
+ {
+  "name": "Nord Security",
+  "valuation": "1.6",
+  "industry": "VPN service",
+  "country": "Lithuania",
+  "founders": "Tom Okman, Eimantas Sabaliauskas, Jonas Karklys"
+ },
+ {
+  "name": "SafetyCulture",
+  "valuation": "1.6",
+  "industry": "Technology",
+  "country": "Australia",
+  "founders": "Luke Anear"
+ },
+ {
+  "name": "SmartHR",
+  "valuation": "1.6",
+  "industry": "HR technology",
+  "country": "Japan |"
+ },
+ {
+  "name": "Unite Us",
+  "valuation": "1.6",
+  "industry": "Healthcare",
+  "country": "United States |"
+ },
+ {
+  "name": "Vanta",
+  "valuation": "1.6",
+  "industry": "Cybersecurity",
+  "country": "United States",
+  "founders": "Christina Cacioppo"
+ },
+ {
+  "name": "CureFit",
+  "valuation": "1.56",
+  "industry": "India",
+  "country": "Mukesh Bansal, Ankit Nagori"
+ },
+ {
+  "name": "HeartFlow",
+  "valuation": "1.5+",
+  "industry": "Healthcare",
+  "country": "United States |"
+ },
+ {
+  "name": "KreditBee",
+  "valuation": "1.5",
+  "industry": "Financial technology",
+  "country": "India",
+  "founders": "Madhusudan Ekambaram"
+ },
+ {
+  "name": "Airbyte",
+  "valuation": "1.5",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Michel Tricot, John Lafleur"
+ },
+ {
+  "name": "Andela",
+  "valuation": "1.5",
+  "industry": "Education",
+  "country": "Nigeria / United States |"
+ },
+ {
+  "name": "Culture Amp",
+  "valuation": "1.5",
+  "industry": "Software",
+  "country": "Australia |"
+ },
+ {
+  "name": "Devo, Inc.",
+  "valuation": "1.5",
+  "industry": "Software",
+  "country": "Spain |"
+ },
+ {
+  "name": "Granola",
+  "valuation": "1.5",
+  "industry": "Software",
+  "country": "United Kingdom",
+  "founders": "Christopher Pedregal, Sam Stephenson"
+ },
+ {
+  "name": "ID.me",
+  "valuation": "1.5",
+  "industry": "Identity verification service",
+  "country": "United States |"
+ },
+ {
+  "name": "Ledger",
+  "valuation": "1.5",
+  "industry": "Cryptocurrency",
+  "country": "France |"
+ },
+ {
+  "name": "Matillion",
+  "valuation": "1.5",
+  "industry": "Data analytics",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "MOLOCO",
+  "valuation": "1.5",
+  "industry": "Advertising technology",
+  "country": "United States | |"
+ },
+ {
+  "name": "Molbio Diagnostics",
+  "valuation": "1.5",
+  "industry": "Medical device",
+  "country": "India |"
+ },
+ {
+  "name": "Mu Sigma",
+  "valuation": "1.5",
+  "industry": "Management consulting",
+  "country": "India / United States |"
+ },
+ {
+  "name": "NextSilicon",
+  "valuation": "1.5",
+  "industry": "Semiconductors",
+  "country": "Israel |"
+ },
+ {
+  "name": "NotCo",
+  "valuation": "1.5",
+  "industry": "Food technology",
+  "country": "Chile |"
+ },
+ {
+  "name": "Podium",
+  "valuation": "1.5",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Remote",
+  "valuation": "1.5",
+  "industry": "Software",
+  "country": "Portugal / United States",
+  "founders": "Cloud computing",
+  "note": "United States"
+ },
+ {
+  "name": "Spring Rain Software",
+  "valuation": "1.5",
+  "industry": "Financial technology",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "5ire",
+  "valuation": "1.5+",
+  "industry": "Technology",
+  "country": "India",
+  "founders": "Pratik Gauri"
+ },
+ {
+  "name": "Tujia.com",
+  "valuation": "1.5",
+  "industry": "China |"
+ },
+ {
+  "name": "ZBJ.com",
+  "valuation": "1.5",
+  "industry": "Financial technology",
+  "country": "Thailand |"
+ },
+ {
+  "name": "Hellobike",
+  "valuation": "1.47",
+  "industry": "Financial technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Odyssey",
+  "valuation": "1.45",
+  "industry": "Artificial intelligence",
+  "country": "United States",
+  "founders": "Oliver Cameron, Jeff Hawke"
+ },
+ {
+  "name": "Zeta",
+  "valuation": "1.45",
+  "industry": "Financial technology",
+  "country": "India",
+  "founders": "Bhavin Turakhia, Ramki Gaddipati"
+ },
+ {
+  "name": "Einride",
+  "valuation": "1.44",
+  "industry": "Health",
+  "country": "Australia",
+  "founders": "Tim Doyle Charlie Gearside Benny Kleist Alexey Mitko"
+ },
+ {
+  "name": "Deliverect",
+  "valuation": "1.4",
+  "industry": "Ordering software for POS",
+  "country": "Belgium |"
+ },
+ {
+  "name": "Away",
+  "valuation": "1.4",
+  "industry": "Retail",
+  "country": "United States |"
+ },
+ {
+  "name": "OneCard",
+  "valuation": "1.4+",
+  "industry": "Financial technology",
+  "country": "India",
+  "founders": "Anurag Sinha, Rupesh Kumar, Vaibhav Hathi"
+ },
+ {
+  "name": "Bucketplace",
+  "valuation": "1.4",
+  "industry": "Interior design",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Cabify",
+  "valuation": "1.4",
+  "industry": "Transportation",
+  "country": "Spain |"
+ },
+ {
+  "name": "Chargebee",
+  "valuation": "1.4",
+  "industry": "Financial technology",
+  "country": "India / United States |"
+ },
+ {
+  "name": "Epidemic Sound",
+  "valuation": "1.4",
+  "industry": "Music",
+  "country": "Sweden",
+  "founders": "Peer Åström, David Stenmarck, Oscar Höglund, Jan Zachrisson"
+ },
+ {
+  "name": "Five Star Finance",
+  "valuation": "1.4",
+  "industry": "Financial services",
+  "country": "India |"
+ },
+ {
+  "name": "IAD",
+  "valuation": "1.4",
+  "industry": "Real estate",
+  "country": "France |"
+ },
+ {
+  "name": "NetDocuments",
+  "valuation": "1.4",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Panther Labs, Inc.",
+  "valuation": "1.4",
+  "industry": "Computer security",
+  "country": "United States",
+  "founders": "Jack Naglieri"
+ },
+ {
+  "name": "Pristyn Care",
+  "valuation": "1.4",
+  "industry": "Health technology",
+  "country": "India |"
+ },
+ {
+  "name": "QOMPLX, Inc.",
+  "valuation": "1.4",
+  "industry": "Computer security",
+  "country": "United States |"
+ },
+ {
+  "name": "Rebel Foods",
+  "valuation": "1.4",
+  "industry": "Ghost kitchen",
+  "country": "India |"
+ },
+ {
+  "name": "Slash",
+  "valuation": "1.4",
+  "industry": "Financial technology",
+  "country": "United States",
+  "founders": "Victor Cardenas, Kevin Bai"
+ },
+ {
+  "name": "Stash",
+  "valuation": "1.4",
+  "industry": "Financial technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Symphony",
+  "valuation": "1.4",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Voyager",
+  "valuation": "1.4",
+  "industry": "Financial technology",
+  "country": "Philippines |"
+ },
+ {
+  "name": "Yotpo",
+  "valuation": "1.4",
+  "industry": "Marketing",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "RIDI",
+  "valuation": "1.33",
+  "industry": "E-commerce",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Zetwerk",
+  "valuation": "1.33",
+  "industry": "India |"
+ },
+ {
+  "name": "GPClub",
+  "valuation": "1.32",
+  "industry": "Financial technology",
+  "country": "United States",
+  "founders": "Nico Laqua, Emily Yuan"
+ },
+ {
+  "name": "DistroKid",
+  "valuation": "1.3",
+  "industry": "Music",
+  "country": "United States |"
+ },
+ {
+  "name": "ETCP",
+  "valuation": "1.3",
+  "industry": "Artificial intelligence",
+  "country": "Portugal / United States",
+  "founders": "Nuno Sebastião"
+ },
+ {
+  "name": "G2",
+  "valuation": "1.3",
+  "industry": "Technology",
+  "country": "United States",
+  "founders": "Tim Handorf, Godard Abel, Matt Gorniak, Mark Myers, Mike Wheeler"
+ },
+ {
+  "name": "Innovaccer",
+  "valuation": "1.3",
+  "industry": "Health care",
+  "country": "India / United States",
+  "founders": "Abhinav Shashank, Kanav Hasija, Sandeep Gupta"
+ },
+ {
+  "name": "Konfio",
+  "valuation": "1.3",
+  "industry": "Financial services",
+  "country": "Mexico |"
+ },
+ {
+  "name": "Kr Space",
+  "valuation": "1.3",
+  "industry": "Database management",
+  "country": "United States |"
+ },
+ {
+  "name": "Airtable",
+  "valuation": "1.28",
+  "industry": "Collaborative software",
+  "country": "United States",
+  "founders": "Howie Liu, Andrew Ofstad, Emmett Nicholas"
+ },
+ {
+  "name": "Cart.com",
+  "valuation": "1.27",
+  "industry": "Commerce and logistics",
+  "country": "United States",
+  "founders": "Omair Tariq, Remington Tonar"
+ },
+ {
+  "name": "Incode",
+  "valuation": "1.25",
+  "industry": "Technology",
+  "country": "Mexico |"
+ },
+ {
+  "name": "Applied Intuition",
+  "valuation": "1.25",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "BigID",
+  "valuation": "1.25",
+  "industry": "Cybersecurity",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "Deel",
+  "valuation": "17.3",
+  "industry": "Israel / United States |"
+ },
+ {
+  "name": "ezCater",
+  "valuation": "1.25",
+  "industry": "United States",
+  "country": "Stefania Mallett, Briscoe Rodgers"
+ },
+ {
+  "name": "Iwjw",
+  "valuation": "1.25",
+  "industry": "Insurance",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Rec Room",
+  "valuation": "1.25",
+  "industry": "Video games",
+  "country": "United States |"
+ },
+ {
+  "name": "Spiber",
+  "valuation": "1.22",
+  "industry": "Biotechnology",
+  "country": "Japan |"
+ },
+ {
+  "name": "Insider",
+  "valuation": "1.22",
+  "industry": "AI-powered SaaS",
+  "country": "Turkey",
+  "founders": "Hande Çilingir"
+ },
+ {
+  "name": "Merama",
+  "valuation": "1.2",
+  "industry": "E-commerce",
+  "country": "Mexico |"
+ },
+ {
+  "name": "Ada",
+  "valuation": "1.2",
+  "industry": "Software",
+  "country": "Canada |"
+ },
+ {
+  "name": "Alation",
+  "valuation": "1.2",
+  "industry": "Software",
+  "country": "United States",
+  "founders": "Satyen Sangani, Aaron Kalb, Feng Niu, and Venky Ganti"
+ },
+ {
+  "name": "Axonius",
+  "valuation": "1.2",
+  "industry": "Cybersecurity",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "CarDekho",
+  "valuation": "1.2",
+  "industry": "Marketplace",
+  "country": "India |"
+ },
+ {
+  "name": "Copado",
+  "valuation": "1.2",
+  "industry": "Software",
+  "country": "Spain / United States |"
+ },
+ {
+  "name": "Dental Monitoring",
+  "valuation": "1.2",
+  "industry": "Healthcare",
+  "country": "France |"
+ },
+ {
+  "name": "Deutsche Health",
+  "valuation": "1.2",
+  "industry": "Marketplace",
+  "country": "India",
+  "founders": "Sandeep Aggarwal"
+ },
+ {
+  "name": "Fair",
+  "valuation": "1.2",
+  "industry": "United States |"
+ },
+ {
+  "name": "FloQast",
+  "valuation": "1.2",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Forto",
+  "valuation": "1.2",
+  "industry": "Software",
+  "country": "Germany |"
+ },
+ {
+  "name": "Intercom",
+  "valuation": "1.2",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Kyriba",
+  "valuation": "1.2",
+  "industry": "Cloud software",
+  "country": "France |"
+ },
+ {
+  "name": "Mindtickle",
+  "valuation": "1.2",
+  "industry": "Software as a service",
+  "country": "India |"
+ },
+ {
+  "name": "MyGlamm",
+  "valuation": "1.2",
+  "industry": "E-commerce",
+  "country": "India |"
+ },
+ {
+  "name": "Triple-1",
+  "valuation": "1.2",
+  "industry": "Retail",
+  "country": "Czech Republic |"
+ },
+ {
+  "name": "upGrad",
+  "valuation": "1.2",
+  "industry": "Educational technology",
+  "country": "India |"
+ },
+ {
+  "name": "Workhuman",
+  "valuation": "1.2",
+  "industry": "Software",
+  "country": "Ireland |"
+ },
+ {
+  "name": "HappyRobot",
+  "valuation": "1.2",
+  "industry": "Artificial Intelligence",
+  "country": "United States |"
+ },
+ {
+  "name": "Sysdig",
+  "valuation": "1.18",
+  "industry": "Cybersecurity",
+  "country": "United States |"
+ },
+ {
+  "name": "Starcloud",
+  "valuation": "1.1",
+  "industry": "Orbital Data Centers",
+  "country": "United States",
+  "founders": "Philip Johnston, Ezra Feilden, Adi Oltean"
+ },
+ {
+  "name": "Deputy",
+  "valuation": "1.1",
+  "industry": "Workforce management software",
+  "country": "Australia",
+  "founders": "Ashik Ahmed and Steve Shelley"
+ },
+ {
+  "name": "3DOM Alliance, Inc.",
+  "valuation": "1.1",
+  "industry": "Insurance",
+  "country": "India |"
+ },
+ {
+  "name": "Apna",
+  "valuation": "1.1",
+  "industry": "India |"
+ },
+ {
+  "name": "Carousell",
+  "valuation": "1.1",
+  "industry": "Marketplace",
+  "country": "Singapore |"
+ },
+ {
+  "name": "CoinDCX",
+  "valuation": "1.1",
+  "industry": "Cryptocurrency",
+  "country": "India",
+  "founders": "Sumit Gupta, Neeraj Khandelwal"
+ },
+ {
+  "name": "Purplle",
+  "valuation": "1.1",
+  "industry": "E-Commerce",
+  "country": "India",
+  "founders": "Manish Taneja, Rahul Dash"
+ },
+ {
+  "name": "GlobalBees",
+  "valuation": "1.1",
+  "industry": "India |"
+ },
+ {
+  "name": "Luoji Siwei",
+  "valuation": "1.1",
+  "industry": "Technology",
+  "country": "Switzerland |"
+ },
+ {
+  "name": "Sisense",
+  "valuation": "1.1",
+  "industry": "Business intelligence",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "Drools",
+  "valuation": "1.1",
+  "industry": "Pet food",
+  "country": "India |"
+ },
+ {
+  "name": "SmartNews",
+  "valuation": "1.1",
+  "industry": "Japan |"
+ },
+ {
+  "name": "Substack",
+  "valuation": "1.1",
+  "industry": "Media and Publishing",
+  "country": "United States",
+  "founders": "Chris Best, Hamish McKenzie, Jairaj Sethi"
+ },
+ {
+  "name": "Trax",
+  "valuation": "1.1",
+  "industry": "Singapore / Israel |"
+ },
+ {
+  "name": "Virta Health",
+  "valuation": "1.1",
+  "industry": "Healthcare",
+  "country": "United States |"
+ },
+ {
+  "name": "YouniteD",
+  "valuation": "1.1",
+  "industry": "Financial services",
+  "country": "France",
+  "founders": "Charles Égly, Geoffroy Guigou"
+ },
+ {
+  "name": "Benevity",
+  "valuation": "1.1",
+  "industry": "Software as a service",
+  "country": "Canada",
+  "founders": "Bryan de Lottinville"
+ },
+ {
+  "name": "Zego",
+  "valuation": "1.1",
+  "industry": "Insurance",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Substrate",
+  "valuation": "1+",
+  "industry": "Semiconductor",
+  "country": "United States",
+  "founders": "James Proud"
+ },
+ {
+  "name": "Aikido Security",
+  "valuation": "1+",
+  "industry": "Cybersecurity",
+  "country": "Belgium",
+  "founders": "Willem Delbare"
+ },
+ {
+  "name": "Character.ai",
+  "valuation": "1+",
+  "industry": "Artificial Intelligence",
+  "country": "United States",
+  "founders": "Daniel De Freitas, Noam Shazeer"
+ },
+ {
+  "name": "Pentera",
+  "valuation": "1+",
+  "industry": "Cybersecurity",
+  "country": "Israel",
+  "founders": "Arik Liberzon, Arik Faingold"
+ },
+ {
+  "name": "VectorBuilder, Inc.",
+  "valuation": "1+",
+  "industry": "Biotechnology",
+  "country": "United States",
+  "founders": "Bruce Lahn, Kristofer Mussar"
+ },
+ {
+  "name": "Emplifi",
+  "valuation": "1+",
+  "industry": "Technology",
+  "country": "United States, United Kingdom and Europe |"
+ },
+ {
+  "name": "Gymshark",
+  "valuation": "1+",
+  "industry": "Sportswear",
+  "country": "United Kingdom",
+  "founders": "Ben Francis, Lewis Morgan"
+ },
+ {
+  "name": "Kopi Kenangan",
+  "valuation": "1+",
+  "industry": "Coffee shop",
+  "country": "Indonesia |"
+ },
+ {
+  "name": "Clara",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Mexico |"
+ },
+ {
+  "name": "ClassDojo",
+  "valuation": "1.25",
+  "industry": "Education Technology",
+  "country": "United States",
+  "founders": "Sam Chaudhary, Liam Don"
+ },
+ {
+  "name": "58 Daojia",
+  "valuation": "1+",
+  "industry": "Software",
+  "country": "Singapore / Switzerland |"
+ },
+ {
+  "name": "Aircall",
+  "valuation": "1+",
+  "industry": "Cloud",
+  "country": "France |"
+ },
+ {
+  "name": "Ajaib",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Indonesia |"
+ },
+ {
+  "name": "Amber Group",
+  "valuation": "1+",
+  "industry": "Cryptocurrency",
+  "country": "Hong Kong |"
+ },
+ {
+  "name": "AppDirect",
+  "valuation": "1+",
+  "industry": "United States |"
+ },
+ {
+  "name": "Aqua Security",
+  "valuation": "1+",
+  "industry": "Cloud computing",
+  "country": "Israel |"
+ },
+ {
+  "name": "Asia First Media",
+  "valuation": "1+",
+  "industry": "Media",
+  "country": "Japan |"
+ },
+ {
+  "name": "Assent Compliance",
+  "valuation": "1+",
+  "industry": "Supply chain management",
+  "country": "Canada |"
+ },
+ {
+  "name": "Krutrim",
+  "valuation": "1+",
+  "industry": "AI / GPT",
+  "country": "India |"
+ },
+ {
+  "name": "Beibei",
+  "valuation": "1+",
+  "industry": "E-commerce",
+  "country": "France |"
+ },
+ {
+  "name": "Bluecore",
+  "valuation": "1+",
+  "industry": "E-commerce",
+  "country": "United States |"
+ },
+ {
+  "name": "Bringg",
+  "valuation": "1+",
+  "industry": "Logistics",
+  "country": "Israel |"
+ },
+ {
+  "name": "Cadence Solutions, Inc.",
+  "valuation": "1+",
+  "industry": "Healthcare",
+  "country": "United States",
+  "founders": "Chris Altchek"
+ },
+ {
+  "name": "Carro",
+  "valuation": "1+",
+  "industry": "Marketplace",
+  "country": "Singapore |"
+ },
+ {
+  "name": "Chubao Technology",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "South Korea |"
+ },
+ {
+  "name": "DXY",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Israel |"
+ },
+ {
+  "name": "Ebanx",
+  "valuation": "1+",
+  "industry": "Financial services",
+  "country": "Brazil |"
+ },
+ {
+  "name": "EMPG",
+  "valuation": "1+",
+  "industry": "Real estate technology",
+  "country": "United Arab Emirates |"
+ },
+ {
+  "name": "eSentire",
+  "valuation": "1+",
+  "industry": "Cybersecurity",
+  "country": "Canada / United States |"
+ },
+ {
+  "name": "Flash Express",
+  "valuation": "1+",
+  "industry": "Logistics",
+  "country": "Thailand |"
+ },
+ {
+  "name": "Flexe",
+  "valuation": "1+",
+  "industry": "Logistics",
+  "country": "United States",
+  "founders": "Karl Siebrecht"
+ },
+ {
+  "name": "FreshBooks",
+  "valuation": "1+",
+  "industry": "Accounting software",
+  "country": "Canada |"
+ },
+ {
+  "name": "FXiaoKe",
+  "valuation": "1+",
+  "industry": "Norway |"
+ },
+ {
+  "name": "GeoComply",
+  "valuation": "1+",
+  "industry": "Cybersecurity",
+  "country": "Canada |"
+ },
+ {
+  "name": "GetYourGuide",
+  "valuation": "1+",
+  "industry": "Travel",
+  "country": "Germany |"
+ },
+ {
+  "name": "Glance",
+  "valuation": "1+",
+  "industry": "Artificial intelligence",
+  "country": "India |"
+ },
+ {
+  "name": "Go1",
+  "valuation": "1+",
+  "industry": "Education",
+  "country": "Australia |"
+ },
+ {
+  "name": "Gousto",
+  "valuation": "1+",
+  "industry": "Meal kit",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Grover",
+  "valuation": "1+",
+  "industry": "E-commerce",
+  "country": "Germany",
+  "founders": "Michael Cassau"
+ },
+ {
+  "name": "Hailo",
+  "valuation": "1+",
+  "industry": "Electronics",
+  "country": "Israel |"
+ },
+ {
+  "name": "HighRadius",
+  "valuation": "1+",
+  "industry": "Software as a service",
+  "country": "India / United States |"
+ },
+ {
+  "name": "Flo Health",
+  "valuation": "1+",
+  "industry": "Food delivery",
+  "country": "Brazil |"
+ },
+ {
+  "name": "IGAWorks",
+  "valuation": "1+",
+  "industry": "Advertising technology",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Improbable",
+  "valuation": "1+",
+  "industry": "Cloud computing",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Infobip",
+  "valuation": "1+",
+  "industry": "Cloud communications",
+  "country": "Croatia",
+  "founders": "Silvio Kutić, Izabel Jelenić, Roberto Kutić"
+ },
+ {
+  "name": "Injective",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "United States",
+  "founders": "Eric Chen, Albert Chon"
+ },
+ {
+  "name": "InMobi",
+  "valuation": "1+",
+  "industry": "Internet",
+  "country": "India",
+  "founders": "Naveen Tewari, Mohit Saxena, Amit Gupta and Abhay Singhal"
+ },
+ {
+  "name": "Ivalua",
+  "valuation": "1+",
+  "industry": "France |"
+ },
+ {
+  "name": "Jollychic",
+  "valuation": "1+",
+  "industry": "Music",
+  "country": "Israel |"
+ },
+ {
+  "name": "Just Salad",
+  "valuation": "1+",
+  "industry": "Restaurants",
+  "country": "United States",
+  "founders": "Nick Kenner"
+ },
+ {
+  "name": "Kendra Scott LLC",
+  "valuation": "1+",
+  "industry": "Jewelery",
+  "country": "United States",
+  "founders": "Kendra Scott"
+ },
+ {
+  "name": "Kitopi",
+  "valuation": "1+",
+  "industry": "Ghost kitchen",
+  "country": "United Arab Emirates |"
+ },
+ {
+  "name": "Klook",
+  "valuation": "1+",
+  "industry": "Hong Kong |"
+ },
+ {
+  "name": "LetsGetChecked",
+  "valuation": "1+",
+  "industry": "Healthcare",
+  "country": "Ireland |"
+ },
+ {
+  "name": "Lydia",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Locus Robotics",
+  "valuation": "1+",
+  "industry": "Robotics",
+  "country": "United States |"
+ },
+ {
+  "name": "Loft Brazil Technology",
+  "valuation": "1+",
+  "industry": "Real estate",
+  "country": "Brazil |"
+ },
+ {
+  "name": "Lunar",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Denmark |"
+ },
+ {
+  "name": "Loggi",
+  "valuation": "1+",
+  "industry": "Logistics",
+  "country": "Brazil |"
+ },
+ {
+  "name": "Lookout",
+  "valuation": "1+",
+  "industry": "Cybersecurity",
+  "country": "United States |"
+ },
+ {
+  "name": "MadeiraMadeira",
+  "valuation": "1+",
+  "industry": "Furniture",
+  "country": "Brazil |"
+ },
+ {
+  "name": "Maimai",
+  "valuation": "1+",
+  "industry": "China |"
+ },
+ {
+  "name": "Masterworks",
+  "valuation": "1+",
+  "industry": "Financial Technology",
+  "country": "United States",
+  "founders": "Scott Lynn"
+ },
+ {
+  "name": "Matrixport",
+  "valuation": "1+",
+  "industry": "Cryptocurrency",
+  "country": "Singapore |"
+ },
+ {
+  "name": "|Meero",
+  "valuation": "1+",
+  "industry": "Internet",
+  "country": "France |"
+ },
+ {
+  "name": "Mensa Brands",
+  "valuation": "1+",
+  "industry": "E-commerce",
+  "country": "India |"
+ },
+ {
+  "name": "Mia.com",
+  "valuation": "1+",
+  "industry": "Switzerland |"
+ },
+ {
+  "name": "MobileCoin",
+  "valuation": "1+",
+  "industry": "Cryptocurrency",
+  "country": "United States |"
+ },
+ {
+  "name": "Mofang Apartment",
+  "valuation": "1+",
+  "industry": "E-commerce",
+  "country": "India / Singapore",
+  "founders": "Rahul Garg"
+ },
+ {
+  "name": "Moka",
+  "valuation": "1+",
+  "industry": "Human resource management",
+  "country": "China |"
+ },
+ {
+  "name": "Morning Consult",
+  "valuation": "1+",
+  "industry": "United States |"
+ },
+ {
+  "name": "Ninja Van",
+  "valuation": "1+",
+  "industry": "Logistics",
+  "country": "Singapore |"
+ },
+ {
+  "name": "Nium",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Singapore |"
+ },
+ {
+  "name": "NoBroker",
+  "valuation": "1+",
+  "industry": "India",
+  "country": "Akhil Gupta, Amit Agarwal, Saurabh Garg"
+ },
+ {
+  "name": "Kredivo",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Indonesia |"
+ },
+ {
+  "name": "OCSiAl",
+  "valuation": "1+",
+  "industry": "Nanotechnology",
+  "country": "Luxembourg |"
+ },
+ {
+  "name": "Opn (Synqa)",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Japan",
+  "founders": "Jun Hasegawa, Ezra Don Harinsut"
+ },
+ {
+  "name": "OrCam",
+  "valuation": "1+",
+  "industry": "Health",
+  "country": "Israel |"
+ },
+ {
+  "name": "PandaDoc",
+  "valuation": "1+",
+  "industry": "Software as a service",
+  "country": "United States",
+  "founders": "Mikita Mikado, Sergey Barysiuk"
+ },
+ {
+  "name": "Pantheon Systems",
+  "valuation": "1+",
+  "industry": "WebOps",
+  "country": "United States |"
+ },
+ {
+  "name": "PatSnap",
+  "valuation": "1+",
+  "industry": "Intellectual property",
+  "country": "Singapore |"
+ },
+ {
+  "name": "Picsart",
+  "valuation": "1+",
+  "industry": "Graphic design",
+  "country": "Armenia / United States",
+  "founders": "Hovhannes Avoyan, Artavazd Mehrabyan, Mikayel Vardanyan"
+ },
+ {
+  "name": "Playco",
+  "valuation": "1+",
+  "industry": "Mobile gaming",
+  "country": "Japan |"
+ },
+ {
+  "name": "Redis Labs",
+  "valuation": "1+",
+  "industry": "Software",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "REEF Technology",
+  "valuation": "1+",
+  "industry": "Real estate technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Quizlet",
+  "valuation": "1+",
+  "industry": "Educational technology",
+  "country": "United States |"
+ },
+ {
+  "name": "Revolution Precrafted",
+  "valuation": "1+",
+  "industry": "Architecture",
+  "country": "Philippines |"
+ },
+ {
+  "name": "Sennder",
+  "valuation": "1+",
+  "industry": "Logistics",
+  "country": "Germany |"
+ },
+ {
+  "name": "Shift Technology",
+  "valuation": "1+",
+  "industry": "Artificial intelligence",
+  "country": "France |"
+ },
+ {
+  "name": "Shippo",
+  "valuation": "1+",
+  "industry": "United States",
+  "country": "Laura Behrens Wu, Simon Kreuz"
+ },
+ {
+  "name": "Sift",
+  "valuation": "1+",
+  "industry": "Fraud prevention",
+  "country": "United States |"
+ },
+ {
+  "name": "Slice",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "India |"
+ },
+ {
+  "name": "SmartAsset",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "United States |"
+ },
+ {
+  "name": "SmartMore",
+  "valuation": "1+",
+  "industry": "Artificial intelligence",
+  "country": "China |"
+ },
+ {
+  "name": "Snapdeal",
+  "valuation": "1+",
+  "industry": "Security software",
+  "country": "United States",
+  "founders": "Feross Aboukhadijeh"
+ },
+ {
+  "name": "Spendesk",
+  "valuation": "1+",
+  "industry": "Software",
+  "country": "United States |"
+ },
+ {
+  "name": "Staffbase",
+  "valuation": "1.1",
+  "industry": "Software as a service",
+  "country": "Germany",
+  "founders": "Frank Wolf, Lutz Gerlach, Martin Böhringer"
+ },
+ {
+  "name": "Swile",
+  "valuation": "1+",
+  "industry": "Financial services",
+  "country": "France |"
+ },
+ {
+  "name": "Synthesia",
+  "valuation": "1+",
+  "industry": "Artificial intelligence",
+  "country": "United Kingdom",
+  "founders": "|Lourdes Agapito, Matthias Niessner, Victor Riparbelli, Steffen Tjerrild"
+ },
+ {
+  "name": "Taxfix",
+  "valuation": "1+",
+  "industry": "Fintech / Tax software",
+  "country": "Germany",
+  "founders": "|Mathis Büchi, Lino Teuteberg"
+ },
+ {
+  "name": "Tekion",
+  "valuation": "1+",
+  "industry": "Software as a service",
+  "country": "United States |"
+ },
+ {
+  "name": "Tenstorrent",
+  "valuation": "1+",
+  "industry": "Semiconductors",
+  "country": "Canada |"
+ },
+ {
+  "name": "Tezign",
+  "valuation": "1+",
+  "industry": "Software",
+  "country": "China |"
+ },
+ {
+  "name": "Thatch",
+  "valuation": "1",
+  "industry": "Individual health benefits",
+  "country": "United States",
+  "founders": "Adam Stevenson, Chris Ellis"
+ },
+ {
+  "name": "Tongdun Technology",
+  "valuation": "1+",
+  "industry": "Artificial intelligence",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Tresata",
+  "valuation": "1+",
+  "industry": "United States |"
+ },
+ {
+  "name": "TrueLayer",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Trustly",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Sweden |"
+ },
+ {
+  "name": "Turo",
+  "valuation": "1+",
+  "industry": "Car sharing",
+  "country": "United States |"
+ },
+ {
+  "name": "Vagaro",
+  "valuation": "1+",
+  "industry": "Software as a service",
+  "country": "United States",
+  "founders": "Fred Fady Helou"
+ },
+ {
+  "name": "VerSe Innovation",
+  "valuation": "1+",
+  "industry": "Technology",
+  "country": "India",
+  "founders": "Virendra Gupta"
+ },
+ {
+  "name": "Visier",
+  "valuation": "1+",
+  "industry": "Technology",
+  "country": "Canada |"
+ },
+ {
+  "name": "volocopter",
+  "valuation": "1+",
+  "industry": "Transportation",
+  "country": "Germany |"
+ },
+ {
+  "name": "Vox Media",
+  "valuation": "1+",
+  "industry": "Digital media",
+  "country": "United States |"
+ },
+ {
+  "name": "VTS",
+  "valuation": "1+",
+  "industry": "United States |"
+ },
+ {
+  "name": "Wacai.com",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Hong Kong |"
+ },
+ {
+  "name": "Womai",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Indonesia |"
+ },
+ {
+  "name": "Xiaozhu.com",
+  "valuation": "1+",
+  "industry": "Logistics",
+  "country": "China |"
+ },
+ {
+  "name": "Zenoti",
+  "valuation": "1+",
+  "industry": "Software company",
+  "country": "India / United States |"
+ },
+ {
+  "name": "Zhuanzhuan",
+  "valuation": "1+",
+  "industry": "Cybersecurity",
+  "country": "United States",
+  "founders": "Brian Murphy"
+ },
+ {
+  "name": "DANA",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Indonesia |"
+ },
+ {
+  "name": "Nagad",
+  "valuation": "1+",
+  "industry": "Mobile financial services",
+  "country": "Bangladesh",
+  "founders": "Tanvir A Mishuk"
+ },
+ {
+  "name": "Ecovadis",
+  "valuation": "1",
+  "industry": "Software",
+  "country": "Switzerland",
+  "founders": "Samuel Mueller, Christian Floerkemeier, Christof Roduner"
+ },
+ {
+  "name": "BlueVoyant",
+  "valuation": "1+",
+  "industry": "Cybersecurity",
+  "country": "United States",
+  "founders": "Jim Rosenthal, Chris Meissner, Jim Thompson, and Arun Sankaran"
+ },
+ {
+  "name": "Payhawk",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Bulgaria |"
+ },
+ {
+  "name": "Voi",
+  "valuation": "1+",
+  "industry": "Financial technology",
+  "country": "Canada",
+  "founders": "Andrew Chau, Jeff Adamson, Kris Read"
+ },
+ {
+  "name": "Stytch",
+  "valuation": "1",
+  "industry": "Cybersecurity",
+  "country": "United States",
+  "founders": "Reed McGinley-Stempel, Julianna Lamb"
+ },
+ {
+  "name": "Epassi",
+  "valuation": "1+",
+  "industry": "Employee benefits platform",
+  "country": "Finland",
+  "founders": "Risto Virkkala"
+ },
+ {
+  "name": "HMD Global",
+  "valuation": "1+",
+  "industry": "Mobile Devices",
+  "country": "Finland",
+  "founders": "Jean-Francois Baril"
+ },
+ {
+  "name": "IQM",
+  "valuation": "1",
+  "industry": "Quantum Computing",
+  "country": "Finland",
+  "founders": "Jan Goetz, Mikko Möttönen, Kuan Yen Tan, Juha Vartiainen"
+ },
+ {
+  "name": "Hostaway",
+  "valuation": "1",
+  "industry": "Vacation rental software platform",
+  "country": "Finland",
+  "founders": "Marcus Räder, Saber Kordestanchi, Mikko Nurminen"
+ },
+ {
+  "name": "Papara",
+  "valuation": "1",
+  "industry": "Fintech",
+  "country": "Turkey",
+  "founders": "Ahmed Faruk Karslı"
+ },
+ {
+  "name": "MNT-Halan",
+  "valuation": "1+",
+  "industry": "Fintech",
+  "country": "Egypt",
+  "founders": "Mounir Nakhla, Ahmed Mohsen"
+ },
+ {
+  "name": "SpaceX",
+  "valuation": "1250",
+  "country": "United States",
+  "founders": "Elon Musk"
+ },
+ {
+  "name": "Uber",
+  "valuation": "72",
+  "country": "United States",
+  "founders": "Travis Kalanick, Garett Camp"
+ },
+ {
+  "name": "Shein",
+  "valuation": "66",
+  "country": "Chris Xu"
+ },
+ {
+  "name": "DiDi",
+  "valuation": "62",
+  "country": "China",
+  "founders": "Cheng Wei"
+ },
+ {
+  "name": "Cursor",
+  "valuation": "29",
+  "country": "United States",
+  "founders": "Michael Truell, Sualeh Asif, Arvid Lunnemark and Aman Sanger"
+ },
+ {
+  "name": "Facebook",
+  "valuation": "50",
+  "country": "United States",
+  "founders": "Mark Zuckerberg, Eduardo Saverin, Andrew McCollum, Chris Hughes, Dustin Moskovitz"
+ },
+ {
+  "name": "Xiaomi",
+  "valuation": "45",
+  "country": "China",
+  "founders": "Lei Jun"
+ },
+ {
+  "name": "Alibaba",
+  "valuation": "42",
+  "country": "China",
+  "founders": "Jack Ma"
+ },
+ {
+  "name": "Lufax",
+  "valuation": "39.4",
+  "country": "China |"
+ },
+ {
+  "name": "UiPath",
+  "valuation": "35",
+  "country": "United States / Romania",
+  "founders": "Daniel Dines and Marius Tîrcă"
+ },
+ {
+  "name": "Airbnb",
+  "valuation": "31",
+  "country": "United States",
+  "founders": "Brian Chesky, Nathan Blecharczyk, Joe Gebbia"
+ },
+ {
+  "name": "Nubank",
+  "valuation": "30.25",
+  "country": "Brazil",
+  "founders": "David Velez, Edward Wible, Cristina Junqueira"
+ },
+ {
+  "name": "Meituan-Dianping",
+  "valuation": "30"
+ },
+ {
+  "name": "Kuaishou",
+  "valuation": "28",
+  "country": "China",
+  "founders": "Su Hua, Cheng Yixiao"
+ },
+ {
+  "name": "Instacart",
+  "valuation": "24",
+  "country": "Apoorva Mehta, Max Mullen, Brandon Leonardo"
+ },
+ {
+  "name": "Coreweave",
+  "valuation": "23",
+  "country": "12.3",
+  "founders": "China |"
+ },
+ {
+  "name": "Tencent Music",
+  "valuation": "18",
+  "country": "China |"
+ },
+ {
+  "name": "DoorDash",
+  "valuation": "16",
+  "country": "United States",
+  "founders": "Tony Xu, Stanley Tang, Andy Fang and Evan Moore"
+ },
+ {
+  "name": "Snap Inc",
+  "valuation": "19.3",
+  "country": "Evan Spiegel, Bobby Murphy, Reggie Brown"
+ },
+ {
+  "name": "Flipkart",
+  "valuation": "15.5",
+  "country": "India",
+  "founders": "Sachin Bansal, Binny Bansal"
+ },
+ {
+  "name": "Paytm",
+  "valuation": "3.2",
+  "country": "India",
+  "founders": "Vijay Shekhar Sharma"
+ },
+ {
+  "name": "Lyft",
+  "valuation": "15.1",
+  "country": "United States",
+  "founders": "Logan Green, John Zimmer"
+ },
+ {
+  "name": "Adyen",
+  "valuation": "15.1",
+  "country": "Pieter van der Does, Arnout Schuijff"
+ },
+ {
+  "name": "Pinduoduo",
+  "valuation": "15",
+  "country": "Colin Huang"
+ },
+ {
+  "name": "Grab",
+  "valuation": "14",
+  "country": "Singapore",
+  "founders": "Anthony Tan, Tan Hooi Ling"
+ },
+ {
+  "name": "Pinterest",
+  "valuation": "13.0",
+  "country": "United States",
+  "founders": "Ben Silbermann, Paul Sciarra, Evan Sharp"
+ },
+ {
+  "name": "Snowflake",
+  "valuation": "12.4",
+  "country": "26.7",
+  "founders": "United States"
+ },
+ {
+  "name": "Figma",
+  "valuation": "10",
+  "country": "United States",
+  "founders": "Dylan Field and Evan Wallace"
+ },
+ {
+  "name": "Dropbox",
+  "valuation": "10",
+  "country": "United States",
+  "founders": "Drew Houston, Arash Ferdowsi"
+ },
+ {
+  "name": "Squarespace",
+  "valuation": "10",
+  "country": "United States",
+  "founders": "Anthony Casalena"
+ },
+ {
+  "name": "Gojek",
+  "valuation": "10",
+  "country": "Indonesia",
+  "founders": "Nadiem Makarim, Kevin Aluwi"
+ },
+ {
+  "name": "Zynga",
+  "valuation": "9.1",
+  "country": "United States",
+  "founders": "Mark Pincus, Eric Schiermeyer, Justin Waldron, Michael Luxton, Steve Schoettler, and Andrew Trader"
+ },
+ {
+  "name": "Coupang",
+  "valuation": "9",
+  "country": "South Korea",
+  "founders": "Bom Kim"
+ },
+ {
+  "name": "Spotify",
+  "valuation": "8.53",
+  "country": "Daniel Ek, Martin Lorentzon"
+ },
+ {
+  "name": "Skype",
+  "valuation": "8.5",
+  "country": "Sweden",
+  "founders": "Niklas Zennström and Janus Friis"
+ },
+ {
+  "name": "Wolt",
+  "valuation": "8.1",
+  "country": "Finland",
+  "founders": "Miki Kuusi, Elias Aalto, Mika Matikainen, Oskari Pétas, Lauri Andler, Juhani Mykkänen"
+ },
+ {
+  "name": "Toast",
+  "valuation": "8",
+  "country": "United States |"
+ },
+ {
+  "name": "Twitter",
+  "valuation": "8",
+  "country": "United States",
+  "founders": "Jack Dorsey, Noah Glass, Biz Stone, Evan Williams"
+ },
+ {
+  "name": "Coinbase",
+  "valuation": "8",
+  "country": "United States",
+  "founders": "Brian Armstrong, Fred Ehrsam"
+ },
+ {
+  "name": "Argo AI",
+  "valuation": "7.25",
+  "country": "Bryan Salesky and Peter Rander"
+ },
+ {
+  "name": "Tokopedia",
+  "valuation": "7",
+  "country": "10.5",
+  "founders": "United Kingdom"
+ },
+ {
+  "name": "Roivant Sciences",
+  "valuation": "7",
+  "country": "Switzerland |"
+ },
+ {
+  "name": "Slack Technologies",
+  "valuation": "7.0"
+ },
+ {
+  "name": "WeWork",
+  "valuation": "7",
+  "country": "United States",
+  "founders": "Adam Newmann, Miguel McKelvey"
+ },
+ {
+  "name": "Compass, Inc.",
+  "valuation": "6.4",
+  "country": "United States |"
+ },
+ {
+  "name": "Gitlab",
+  "valuation": "6",
+  "country": "Ukraine",
+  "founders": "Dmytro Zaporozhets; Sytse \"Sid\" Sijbrandij"
+ },
+ {
+  "name": "Square",
+  "valuation": "6",
+  "country": "United States",
+  "founders": "Jack Dorsey, Jim McKelvey"
+ },
+ {
+  "name": "SoFi",
+  "valuation": "6",
+  "country": "United States |"
+ },
+ {
+  "name": "Zomato",
+  "valuation": "5.4",
+  "country": "India",
+  "founders": "Deepinder Goyal"
+ },
+ {
+  "name": "Samsara",
+  "valuation": "5.4",
+  "country": "United States",
+  "founders": "Sanjit Biswas, John Bicket"
+ },
+ {
+  "name": "Stemcentrx",
+  "valuation": "5",
+  "country": "United States |"
+ },
+ {
+  "name": "Nowports",
+  "valuation": "1.1",
+  "country": "Uruguay / Mexico",
+  "founders": "Alfonso de los Ríos, Maximiliano Casal |"
+ },
+ {
+  "name": "dLocal",
+  "valuation": "6.1"
+ },
+ {
+  "name": "Groupon",
+  "valuation": "4.75",
+  "country": "United States",
+  "founders": "Eric Lefkofsky, Brad Keywell, Andrew Mason"
+ },
+ {
+  "name": "Krafton",
+  "valuation": "5",
+  "country": "South Korea |"
+ },
+ {
+  "name": "Confluent",
+  "valuation": "4.5",
+  "country": "United States",
+  "founders": "Jay Kreps, Neha Narkhede, Jun Rao"
+ },
+ {
+  "name": "Ucar",
+  "valuation": "4.4",
+  "country": "China |"
+ },
+ {
+  "name": "Zalando",
+  "valuation": "4.03",
+  "country": "Germany |"
+ },
+ {
+  "name": "Amplitude",
+  "valuation": "4",
+  "country": "United States |"
+ },
+ {
+  "name": "Peloton",
+  "valuation": "4.0",
+  "country": "United States |"
+ },
+ {
+  "name": "Credit Karma",
+  "valuation": "4",
+  "country": "United States |"
+ },
+ {
+  "name": "Ginkgo Bioworks",
+  "valuation": "4",
+  "country": "United States |"
+ },
+ {
+  "name": "Lending Club",
+  "valuation": "3.8",
+  "country": "United States",
+  "founders": "Renaud Laplanche"
+ },
+ {
+  "name": "Sea Limited",
+  "valuation": "3.7",
+  "country": "Singapore |"
+ },
+ {
+  "name": "Freshworks",
+  "valuation": "3.5",
+  "country": "India / United States",
+  "founders": "Girish Mathrubootham, Shan Krishnasamy"
+ },
+ {
+  "name": "Bukalapak",
+  "valuation": "3.5",
+  "country": "Achmad Zaky, Fajrin Rasyid, Nugroho Herucahyono"
+ },
+ {
+  "name": "Wise",
+  "valuation": "3.5",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Zhihu",
+  "valuation": "3.5",
+  "country": "China |"
+ },
+ {
+  "name": "Atlassian",
+  "valuation": "3.3",
+  "country": "Australia |"
+ },
+ {
+  "name": "e-Shang Redwood",
+  "valuation": "3.25"
+ },
+ {
+  "name": "Udemy",
+  "valuation": "3.25",
+  "country": "United States",
+  "founders": "Oktay Caglar, Gagan Biyani, Eren Bali"
+ },
+ {
+  "name": "SmileDirectClub",
+  "valuation": "3.2",
+  "country": "United States |"
+ },
+ {
+  "name": "Zoox",
+  "valuation": "3.2",
+  "country": "United States",
+  "founders": "Tim Kentley-Klay, Jesse Levinson"
+ },
+ {
+  "name": "Oscar Health",
+  "valuation": "3.2",
+  "country": "United States |"
+ },
+ {
+  "name": "Cloudflare",
+  "valuation": "3",
+  "country": "United States",
+  "founders": "Matthew Prince, Lee Holloway, and Michelle Zatlyn"
+ },
+ {
+  "name": "Delhivery",
+  "valuation": "3",
+  "country": "India |"
+ },
+ {
+  "name": "Pure Storage",
+  "valuation": "3",
+  "country": "United States |"
+ },
+ {
+  "name": "Maoyan",
+  "valuation": "3.0",
+  "country": "China |"
+ },
+ {
+  "name": "Jia.com",
+  "valuation": "3"
+ },
+ {
+  "name": "Mogu",
+  "valuation": "3",
+  "country": "China |"
+ },
+ {
+  "name": "Paytm Mall",
+  "valuation": "3",
+  "country": "India |"
+ },
+ {
+  "name": "Luckin Coffee",
+  "valuation": "2.9",
+  "country": "Lu Zhengyao, Jenny Qian Zhiya"
+ },
+ {
+  "name": "Pivotal",
+  "valuation": "2.8"
+ },
+ {
+  "name": "Monday.com",
+  "valuation": "2.7",
+  "country": "Israel",
+  "founders": "Roy Mann, Eran Kampf and Eran Zinman"
+ },
+ {
+  "name": "Cazoo",
+  "valuation": "2.6",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Woowa Brothers",
+  "valuation": "2.6"
+ },
+ {
+  "name": "Ucommune",
+  "valuation": "2.6",
+  "country": "United States",
+  "founders": "Andrew Ng and Daphne Koller"
+ },
+ {
+  "name": "Cambricon",
+  "valuation": "2.5"
+ },
+ {
+  "name": "The Hut Group",
+  "valuation": "2.5",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Postmates",
+  "valuation": "2.4",
+  "country": "United States |"
+ },
+ {
+  "name": "Box",
+  "valuation": "2.4",
+  "country": "United States",
+  "founders": "Aaron Levie, Dylan Smith, Sam Ghods, Jeff Queisser"
+ },
+ {
+  "name": "Mercari",
+  "valuation": "2.4",
+  "country": "Japan |"
+ },
+ {
+  "name": "Kingsoft",
+  "valuation": "2.4"
+ },
+ {
+  "name": "Sportradar",
+  "valuation": "2.4",
+  "country": "Switzerland |"
+ },
+ {
+  "name": "PolicyBazaar",
+  "valuation": "2.4",
+  "country": "India",
+  "founders": "Yashish Dahiya, Alok Bansal, Avaneesh Nirjar"
+ },
+ {
+  "name": "GoPro",
+  "valuation": "2.25",
+  "country": "United States",
+  "founders": "Nick Woodman"
+ },
+ {
+  "name": "Babytree",
+  "valuation": "2.19",
+  "country": "China |"
+ },
+ {
+  "name": "Roku, Inc.",
+  "valuation": "2.1",
+  "country": "United States",
+  "founders": "Anthony Wood"
+ },
+ {
+  "name": "Three Squirrels",
+  "valuation": "2.09"
+ },
+ {
+  "name": "AppDynamics",
+  "valuation": "2.05",
+  "country": "United States |"
+ },
+ {
+  "name": "AvidXchange",
+  "valuation": "2",
+  "country": "United States |"
+ },
+ {
+  "name": "Wayfair",
+  "valuation": "2",
+  "country": "United States |"
+ },
+ {
+  "name": "NantHealth",
+  "valuation": "2",
+  "country": "United States |"
+ },
+ {
+  "name": "Meitu",
+  "valuation": "2",
+  "country": "China |"
+ },
+ {
+  "name": "Nutanix",
+  "valuation": "2",
+  "country": "United States |"
+ },
+ {
+  "name": "Uxin",
+  "valuation": "2.0"
+ },
+ {
+  "name": "Careem",
+  "valuation": "2",
+  "country": "United Arab Emirates/Pakistan",
+  "founders": "Mudassir Sheikha, Magnus Olsson"
+ },
+ {
+  "name": "AppLovin",
+  "valuation": "2",
+  "country": "United States |"
+ },
+ {
+  "name": "ReNew Power",
+  "valuation": "2",
+  "country": "Sumant Sinha"
+ },
+ {
+  "name": "Deliverr",
+  "valuation": "2",
+  "country": "United States",
+  "founders": "Harish Abbott, Michael Krakaris"
+ },
+ {
+  "name": "Auth0",
+  "valuation": "1.92",
+  "country": "Argentina / United States |"
+ },
+ {
+  "name": "Mobileye",
+  "valuation": "1.9",
+  "country": "Israel |"
+ },
+ {
+  "name": "WalkMe",
+  "valuation": "1.9",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "Avito.ru",
+  "valuation": "1.82",
+  "country": "Russia |"
+ },
+ {
+  "name": "23andMe",
+  "valuation": "1.75",
+  "country": "United States |"
+ },
+ {
+  "name": "IronSource",
+  "valuation": "1.75",
+  "country": "Israel |"
+ },
+ {
+  "name": "MedMen",
+  "valuation": "1.65",
+  "country": "United States |"
+ },
+ {
+  "name": "Better Place",
+  "valuation": "1.6",
+  "country": "United States |"
+ },
+ {
+  "name": "Loom",
+  "valuation": "1.53",
+  "country": "United States |"
+ },
+ {
+  "name": "Farfetch",
+  "valuation": "1.5",
+  "country": "Portugal / United Kingdom",
+  "founders": "José Neves"
+ },
+ {
+  "name": "Freshly",
+  "valuation": "1.5",
+  "country": "United States |"
+ },
+ {
+  "name": "MuleSoft",
+  "valuation": "1.5",
+  "country": "United States |"
+ },
+ {
+  "name": "Jet.com",
+  "valuation": "1.5",
+  "country": "United States |"
+ },
+ {
+  "name": "LivingSocial",
+  "valuation": "1.5"
+ },
+ {
+  "name": "WhatsApp",
+  "valuation": "1.5",
+  "country": "United States",
+  "founders": "Brian Acton, Jan Koum"
+ },
+ {
+  "name": "Lakala",
+  "valuation": "1.5"
+ },
+ {
+  "name": "One Medical",
+  "valuation": "1.5",
+  "country": "United States |"
+ },
+ {
+  "name": "Quikr",
+  "valuation": "1.5",
+  "country": "India",
+  "founders": "Pranay Chulet"
+ },
+ {
+  "name": "Letgo",
+  "valuation": "1.5"
+ },
+ {
+  "name": "Ninebot",
+  "valuation": "1.5"
+ },
+ {
+  "name": "DouYu",
+  "valuation": "1.5"
+ },
+ {
+  "name": "Proteus Digital Health",
+  "valuation": "1.5"
+ },
+ {
+  "name": "Duolingo",
+  "valuation": "1.5",
+  "country": "United States |"
+ },
+ {
+  "name": "Tuandaiwang",
+  "valuation": "1.46"
+ },
+ {
+  "name": "HomeAway",
+  "valuation": "1.4",
+  "country": "United States |"
+ },
+ {
+  "name": "Hike Messenger",
+  "valuation": "1.4",
+  "country": "Kavin Bharti Mittal"
+ },
+ {
+  "name": "Deezer",
+  "valuation": "1.4"
+ },
+ {
+  "name": "Jasper",
+  "valuation": "1.35",
+  "country": "United States |"
+ },
+ {
+  "name": "Paidy",
+  "valuation": "1.32",
+  "country": "Japan |"
+ },
+ {
+  "name": "eFront",
+  "valuation": "1.3",
+  "country": "France |"
+ },
+ {
+  "name": "Sonder Corp.",
+  "valuation": "1.3",
+  "country": "United States |"
+ },
+ {
+  "name": "Sunrun",
+  "valuation": "1.3",
+  "country": "United States |"
+ },
+ {
+  "name": "Solstice",
+  "valuation": "1.7",
+  "country": "United States |"
+ },
+ {
+  "name": "Darktrace",
+  "valuation": "1.25",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Okta",
+  "valuation": "1.2",
+  "country": "United States |"
+ },
+ {
+  "name": "Good Technology",
+  "valuation": "1.2",
+  "country": "United States |"
+ },
+ {
+  "name": "BigBasket",
+  "valuation": "1.2",
+  "country": "India",
+  "founders": "V. S. Sudhakar, Hari Menon, Vipul Parekh, Abhinay Choudhari, V. S. Ramesh"
+ },
+ {
+  "name": "Nykaa",
+  "valuation": "1.2",
+  "country": "India",
+  "founders": "Falguni Nayar"
+ },
+ {
+  "name": "HeadSpin",
+  "valuation": "1.16",
+  "country": "United States |"
+ },
+ {
+  "name": "Fab",
+  "valuation": "1.15",
+  "country": "United States |"
+ },
+ {
+  "name": "Gilt Groupe",
+  "valuation": "1.15",
+  "country": "United States |"
+ },
+ {
+  "name": "Vonage",
+  "valuation": "1.11",
+  "country": "United States |"
+ },
+ {
+  "name": "ShopClues",
+  "valuation": "1.1",
+  "country": "India",
+  "founders": "Sanjay Sethi, Sandeep Aggarwal, Radhika Aggarwal"
+ },
+ {
+  "name": "Global Fashion Group",
+  "valuation": "1.1"
+ },
+ {
+  "name": "TuSimple",
+  "valuation": "1.1",
+  "country": "United States |"
+ },
+ {
+  "name": "Wheels Up",
+  "valuation": "1.1",
+  "country": "United States |"
+ },
+ {
+  "name": "Zulily",
+  "valuation": "1.09",
+  "country": "United States |"
+ },
+ {
+  "name": "Coupa",
+  "valuation": "1.08",
+  "country": "United States |"
+ },
+ {
+  "name": "LinkedIn",
+  "valuation": "1.06",
+  "country": "United States",
+  "founders": "Reid Hoffman, Eric Ly"
+ },
+ {
+  "name": "Twilio",
+  "valuation": "1.03",
+  "country": "United States",
+  "founders": "Jeff Lawson, John Wolthuis, Evan Cooke"
+ },
+ {
+  "name": "SimpliVity",
+  "valuation": "1.03",
+  "country": "United States |"
+ },
+ {
+  "name": "Coveo",
+  "valuation": "1.1",
+  "country": "Canada |"
+ },
+ {
+  "name": "Kabam",
+  "valuation": "1+",
+  "country": "Canada |"
+ },
+ {
+  "name": "Rent the Runway",
+  "valuation": "1+",
+  "country": "United States |"
+ },
+ {
+  "name": "CRF Health",
+  "valuation": "1",
+  "country": "Finland",
+  "founders": "Timo Ahopelto, Jarkko Joki-Tokola, Jaakko Ollila"
+ },
+ {
+  "name": "MySQL",
+  "valuation": "1",
+  "country": "Finland",
+  "founders": "Michael Widenius"
+ },
+ {
+  "name": "Heptagon",
+  "valuation": "1",
+  "country": "Finland",
+  "founders": "Christian Tang-Jespersen"
+ },
+ {
+  "name": "Zoom",
+  "valuation": "1",
+  "country": "United States |"
+ },
+ {
+  "name": "Shopify",
+  "valuation": "1",
+  "country": "Canada",
+  "founders": "Tobias Lütke, Scott Lake"
+ },
+ {
+  "name": "Truecaller",
+  "valuation": "1",
+  "country": "Sweden",
+  "founders": "Alan Mamedi and Nami Zarringhalam"
+ },
+ {
+  "name": "Kik",
+  "valuation": "1+"
+ },
+ {
+  "name": "AirWatch",
+  "valuation": "1",
+  "country": "United States |"
+ },
+ {
+  "name": "Lynda.com",
+  "valuation": "1",
+  "country": "United States |"
+ },
+ {
+  "name": "New Relic",
+  "valuation": "1",
+  "country": "United States |"
+ },
+ {
+  "name": "Quotient Technology",
+  "valuation": "1",
+  "country": "United States |"
+ },
+ {
+  "name": "Shape Security",
+  "valuation": "1",
+  "country": "United States |"
+ },
+ {
+  "name": "Futu Holdings",
+  "valuation": "1+"
+ },
+ {
+  "name": "Peak Games",
+  "valuation": "1+ |"
+ },
+ {
+  "name": "Skyscanner",
+  "valuation": "1.6",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Blue Apron",
+  "valuation": "2"
+ },
+ {
+  "name": "Stitch Fix | |",
+  "valuation": "November 2017"
+ },
+ {
+  "name": "Shazam",
+  "valuation": "1",
+  "country": "United Kingdom |"
+ },
+ {
+  "name": "Flywire",
+  "valuation": "1+",
+  "country": "United States |"
+ },
+ {
+  "name": "Mobike",
+  "valuation": "3",
+  "country": "China |"
+ },
+ {
+  "name": "Ele.me",
+  "valuation": "6.0",
+  "country": "China |"
+ },
+ {
+  "name": "Duo Security",
+  "valuation": "1.17",
+  "country": "United States |"
+ },
+ {
+  "name": "Bloom Energy",
+  "valuation": "2.83"
+ },
+ {
+  "name": "Moderna Therapeutics",
+  "valuation": "7.5",
+  "country": "United States |"
+ },
+ {
+  "name": "Vlocity",
+  "valuation": "1.0",
+  "country": "United States |"
+ },
+ {
+  "name": "JFrog",
+  "valuation": "1+",
+  "country": "Israel / United States |"
+ },
+ {
+  "name": "Glovo",
+  "valuation": "1+",
+  "country": "Spain |"
+ },
+ {
+  "name": "Innovent Biologics",
+  "valuation": "1+"
+ },
+ {
+  "name": "iTutorGroup",
+  "valuation": "1+"
+ },
+ {
+  "name": "9F",
+  "valuation": "1+"
+ },
+ {
+  "name": "36Kr Media",
+  "valuation": "1+"
+ },
+ {
+  "name": "Fanli",
+  "valuation": "1+"
+ },
+ {
+  "name": "17Zuoye",
+  "valuation": "1+"
+ },
+ {
+  "name": "Zimi",
+  "valuation": "1+"
+ },
+ {
+  "name": "QingCloud",
+  "valuation": "1+"
+ },
+ {
+  "name": "Novogene",
+  "valuation": "1+"
+ },
+ {
+  "name": "Essential Products",
+  "valuation": "1+"
+ }
+]

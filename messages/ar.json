@@ -133,7 +133,22 @@
     "viewMapLabel": "فتح في OpenStreetMap",
     "breadcrumbHome": "الرئيسية",
     "breadcrumbDomain": "المجال",
-    "breadcrumbSeparator": "/"
+    "breadcrumbSeparator": "/",
+    "sellersLabel": "اللاعبون الرئيسيون / المشهد التنافسي",
+    "teamRecLabel": "الفريق المؤسس المقترح",
+    "teamTotalLabel": "{count, plural, =1 {# شخص} other {# أشخاص}}",
+    "buildApproachLabel": "كيف نبني هذا المشروع",
+    "fixLabel": "ما سنصلحه لجعله أفضل بعشر مرات",
+    "algeriaValueLabel": "لماذا يهم الجزائر",
+    "difficultyLabel": "صعوبة البناء",
+    "difficultyLow": "منخفضة",
+    "difficultyMedium": "متوسطة",
+    "difficultyHigh": "مرتفعة",
+    "difficultyTech": "تقني",
+    "difficultyCapital": "رأس المال",
+    "difficultyRegulatory": "تنظيمي",
+    "difficultyMarket": "السوق",
+    "generatedNoteLabel": "حقول التحليل مولّدة من المنصة دعماً للتعلم."
   },
   "DomainValidation": {
     "label": "التحقق",

@@ -1,0 +1,4085 @@
+[
+ {
+  "name": "SNVI",
+  "industry": ""
+ },
+ {
+  "name": "ASA Aluminium Body",
+  "industry": ""
+ },
+ {
+  "name": "Zanella",
+  "industry": ""
+ },
+ {
+  "name": "Sero Electric",
+  "industry": ""
+ },
+ {
+  "name": "Anasagasti",
+  "industry": ""
+ },
+ {
+  "name": "AutoLatina",
+  "industry": ""
+ },
+ {
+  "name": "Autoar",
+  "industry": ""
+ },
+ {
+  "name": "Crespi",
+  "industry": ""
+ },
+ {
+  "name": "Eniak",
+  "industry": ""
+ },
+ {
+  "name": "Hispano-Argentina",
+  "industry": ""
+ },
+ {
+  "name": "IAVA",
+  "industry": ""
+ },
+ {
+  "name": "IAME",
+  "industry": ""
+ },
+ {
+  "name": "IKA",
+  "industry": ""
+ },
+ {
+  "name": "Sevel Argentina",
+  "industry": ""
+ },
+ {
+  "name": "SIAM Di Tella",
+  "industry": ""
+ },
+ {
+  "name": "ErAZ",
+  "industry": ""
+ },
+ {
+  "name": "ACE EV Group",
+  "industry": ""
+ },
+ {
+  "name": "BCI Bus",
+  "industry": ""
+ },
+ {
+  "name": "Borland Racing Developments",
+  "industry": ""
+ },
+ {
+  "name": "Bolwell",
+  "industry": ""
+ },
+ {
+  "name": "Custom Bus",
+  "industry": ""
+ },
+ {
+  "name": "Elfin Sports Cars",
+  "industry": ""
+ },
+ {
+  "name": "Ford Australia",
+  "industry": ""
+ },
+ {
+  "name": "General Motors Specialty Vehicles",
+  "industry": "(GMSV)",
+  "country": "GMSV"
+ },
+ {
+  "name": "Minetti Sports Cars",
+  "industry": ""
+ },
+ {
+  "name": "Nota",
+  "industry": ""
+ },
+ {
+  "name": "P&D Coachworks",
+  "industry": ""
+ },
+ {
+  "name": "Volgren",
+  "industry": ""
+ },
+ {
+  "name": "Brabham Automotive",
+  "industry": ""
+ },
+ {
+  "name": "Ford Performance Vehicles (FPV)",
+  "industry": ""
+ },
+ {
+  "name": "Giocattolo",
+  "industry": ""
+ },
+ {
+  "name": "Holden",
+  "industry": ""
+ },
+ {
+  "name": "KTM",
+  "industry": ""
+ },
+ {
+  "name": "Magna Steyr",
+  "industry": ""
+ },
+ {
+  "name": "Puch",
+  "industry": ""
+ },
+ {
+  "name": "Rosenbauer",
+  "industry": ""
+ },
+ {
+  "name": "Tushek & Spigel",
+  "industry": ""
+ },
+ {
+  "name": "Austro-Daimler",
+  "industry": ""
+ },
+ {
+  "name": "Austro-Tatra",
+  "industry": ""
+ },
+ {
+  "name": "Denzel",
+  "industry": ""
+ },
+ {
+  "name": "Felber",
+  "industry": ""
+ },
+ {
+  "name": "Libelle",
+  "industry": ""
+ },
+ {
+  "name": "Lohner–Porsche",
+  "industry": ""
+ },
+ {
+  "name": "Möve",
+  "industry": ""
+ },
+ {
+  "name": "ÖAF",
+  "industry": "(merged into MAN SE)",
+  "country": "merged into MAN SE"
+ },
+ {
+  "name": "Steyr",
+  "industry": ""
+ },
+ {
+  "name": "Steyr-Daimler-Puch",
+  "industry": ""
+ },
+ {
+  "name": "AzSamand",
+  "industry": ""
+ },
+ {
+  "name": "Ganja Auto Plant",
+  "industry": ""
+ },
+ {
+  "name": "Nakhchivan Automobile Plant",
+  "industry": ""
+ },
+ {
+  "name": "BMTF",
+  "industry": ""
+ },
+ {
+  "name": "BelAZ",
+  "industry": ""
+ },
+ {
+  "name": "BelGee",
+  "industry": ""
+ },
+ {
+  "name": "Belkommunmash",
+  "industry": ""
+ },
+ {
+  "name": "MAZ",
+  "industry": ""
+ },
+ {
+  "name": "MoAZ",
+  "industry": ""
+ },
+ {
+  "name": "MZKT",
+  "industry": ""
+ },
+ {
+  "name": "Neman",
+  "industry": ""
+ },
+ {
+  "name": "Edran",
+  "industry": ""
+ },
+ {
+  "name": "Gillet",
+  "industry": ""
+ },
+ {
+  "name": "Van Hool",
+  "industry": ""
+ },
+ {
+  "name": "Auto-Mixte",
+  "industry": ""
+ },
+ {
+  "name": "FN",
+  "industry": ""
+ },
+ {
+  "name": "Impéria",
+  "industry": ""
+ },
+ {
+  "name": "Métallurgique",
+  "industry": ""
+ },
+ {
+  "name": "Minerva",
+  "industry": ""
+ },
+ {
+  "name": "Nagant",
+  "industry": ""
+ },
+ {
+  "name": "Pieper",
+  "industry": ""
+ },
+ {
+  "name": "Quantum Motors",
+  "industry": ""
+ },
+ {
+  "name": "Motor Company of Botswana",
+  "industry": ""
+ },
+ {
+  "name": "Agrale",
+  "industry": ""
+ },
+ {
+  "name": "Chamonix NG Cars",
+  "industry": ""
+ },
+ {
+  "name": "Grupo Caoa",
+  "industry": ""
+ },
+ {
+  "name": "Comil",
+  "industry": ""
+ },
+ {
+  "name": "Carbuss",
+  "industry": ""
+ },
+ {
+  "name": "Marcopolo",
+  "industry": ""
+ },
+ {
+  "name": "Mascarello",
+  "industry": ""
+ },
+ {
+  "name": "Neobus",
+  "industry": ""
+ },
+ {
+  "name": "TAC",
+  "industry": ""
+ },
+ {
+  "name": "Volkswagen Truck & Bus",
+  "industry": ""
+ },
+ {
+  "name": "Brasinca",
+  "industry": ""
+ },
+ {
+  "name": "Busscar",
+  "industry": "НсВР"
+ },
+ {
+  "name": "Dacon",
+  "industry": ""
+ },
+ {
+  "name": "Engesa",
+  "industry": ""
+ },
+ {
+  "name": "FNM",
+  "industry": ""
+ },
+ {
+  "name": "Farus",
+  "industry": ""
+ },
+ {
+  "name": "Gurgel",
+  "industry": ""
+ },
+ {
+  "name": "HTT",
+  "industry": ""
+ },
+ {
+  "name": "Hofstetter",
+  "industry": ""
+ },
+ {
+  "name": "JPX",
+  "industry": ""
+ },
+ {
+  "name": "Lobini",
+  "industry": ""
+ },
+ {
+  "name": "Obvio!",
+  "industry": ""
+ },
+ {
+  "name": "Puma",
+  "industry": ""
+ },
+ {
+  "name": "Romi",
+  "industry": ""
+ },
+ {
+  "name": "Santa Matilde",
+  "industry": ""
+ },
+ {
+  "name": "Troller",
+  "industry": ""
+ },
+ {
+  "name": "Vemag",
+  "industry": ""
+ },
+ {
+  "name": "Litex",
+  "industry": ""
+ },
+ {
+  "name": "SIN",
+  "industry": ""
+ },
+ {
+  "name": "Bulgaralpine",
+  "industry": ""
+ },
+ {
+  "name": "Bulgarrenault",
+  "industry": ""
+ },
+ {
+  "name": "Moskvych",
+  "industry": ""
+ },
+ {
+  "name": "Pirin-Fiat",
+  "industry": ""
+ },
+ {
+  "name": "Sofia",
+  "industry": ""
+ },
+ {
+  "name": "Campagna",
+  "industry": ""
+ },
+ {
+  "name": "canEV",
+  "industry": ""
+ },
+ {
+  "name": "Edison Motors",
+  "industry": ""
+ },
+ {
+  "name": "Conquest",
+  "industry": ""
+ },
+ {
+  "name": "Felino",
+  "industry": ""
+ },
+ {
+  "name": "Girardin Minibus",
+  "industry": ""
+ },
+ {
+  "name": "GreenPower",
+  "industry": ""
+ },
+ {
+  "name": "Intermeccanica",
+  "industry": ""
+ },
+ {
+  "name": "INKAS",
+  "industry": ""
+ },
+ {
+  "name": "Lion Electric",
+  "industry": ""
+ },
+ {
+  "name": "Magnum Cars",
+  "industry": ""
+ },
+ {
+  "name": "New Flyer",
+  "industry": ""
+ },
+ {
+  "name": "Nova Bus",
+  "industry": ""
+ },
+ {
+  "name": "Potential Motors",
+  "industry": ""
+ },
+ {
+  "name": "Prevost",
+  "industry": ""
+ },
+ {
+  "name": "Roshel",
+  "industry": ""
+ },
+ {
+  "name": "Terradyne",
+  "industry": ""
+ },
+ {
+  "name": "Vicinity",
+  "industry": ""
+ },
+ {
+  "name": "Acadian",
+  "industry": ""
+ },
+ {
+  "name": "Asüna",
+  "industry": ""
+ },
+ {
+  "name": "Beaumont",
+  "industry": ""
+ },
+ {
+  "name": "Bricklin",
+  "industry": ""
+ },
+ {
+  "name": "Brooks",
+  "industry": ""
+ },
+ {
+  "name": "Dennis",
+  "industry": ""
+ },
+ {
+  "name": "Derby",
+  "industry": ""
+ },
+ {
+  "name": "Dupont",
+  "industry": ""
+ },
+ {
+  "name": "Dynasty",
+  "industry": ""
+ },
+ {
+  "name": "Frontenac",
+  "industry": ""
+ },
+ {
+  "name": "Gray-Dort",
+  "industry": ""
+ },
+ {
+  "name": "Hayes Trucks",
+  "industry": ""
+ },
+ {
+  "name": "Manic",
+  "industry": ""
+ },
+ {
+  "name": "McLaughlin",
+  "industry": ""
+ },
+ {
+  "name": "Meteor",
+  "industry": ""
+ },
+ {
+  "name": "Monarch",
+  "industry": ""
+ },
+ {
+  "name": "Orion",
+  "industry": ""
+ },
+ {
+  "name": "Pacific Trucks",
+  "industry": ""
+ },
+ {
+  "name": "Passport",
+  "industry": ""
+ },
+ {
+  "name": "Redpath",
+  "industry": ""
+ },
+ {
+  "name": "Russell",
+  "industry": ""
+ },
+ {
+  "name": "Studebaker",
+  "industry": ""
+ },
+ {
+  "name": "ZENN",
+  "industry": ""
+ },
+ {
+  "name": "Arcfox",
+  "industry": ""
+ },
+ {
+  "name": "Avatr",
+  "industry": ""
+ },
+ {
+  "name": "Aion",
+  "industry": ""
+ },
+ {
+  "name": "Apex Motors",
+  "industry": ""
+ },
+ {
+  "name": "BAIC",
+  "industry": ""
+ },
+ {
+  "name": "Baojun",
+  "industry": ""
+ },
+ {
+  "name": "BAW",
+  "industry": ""
+ },
+ {
+  "name": "Bestune",
+  "industry": ""
+ },
+ {
+  "name": "Bisu Auto",
+  "industry": ""
+ },
+ {
+  "name": "Brilliance",
+  "industry": ""
+ },
+ {
+  "name": "BYD",
+  "industry": ""
+ },
+ {
+  "name": "Changan",
+  "industry": ""
+ },
+ {
+  "name": "Chery",
+  "industry": ""
+ },
+ {
+  "name": "CNHTC",
+  "industry": ""
+ },
+ {
+  "name": "Dayun",
+  "industry": ""
+ },
+ {
+  "name": "Deepal",
+  "industry": ""
+ },
+ {
+  "name": "Denza",
+  "industry": ""
+ },
+ {
+  "name": "Dongfeng",
+  "industry": ""
+ },
+ {
+  "name": "EuAuto",
+  "industry": ""
+ },
+ {
+  "name": "Exeed",
+  "industry": ""
+ },
+ {
+  "name": "FAW",
+  "industry": ""
+ },
+ {
+  "name": "Fangchengbao",
+  "industry": ""
+ },
+ {
+  "name": "Forthing",
+  "industry": ""
+ },
+ {
+  "name": "Foton",
+  "industry": ""
+ },
+ {
+  "name": "GAC Group",
+  "industry": ""
+ },
+ {
+  "name": "Geely",
+  "industry": ""
+ },
+ {
+  "name": "Great Wall",
+  "industry": ""
+ },
+ {
+  "name": "Hafei",
+  "industry": ""
+ },
+ {
+  "name": "Haima",
+  "industry": ""
+ },
+ {
+  "name": "Haval",
+  "industry": ""
+ },
+ {
+  "name": "Higer",
+  "industry": ""
+ },
+ {
+  "name": "Hongqi",
+  "industry": ""
+ },
+ {
+  "name": "Huajing",
+  "industry": ""
+ },
+ {
+  "name": "iCar/iCaur",
+  "industry": ""
+ },
+ {
+  "name": "IM Motors",
+  "industry": ""
+ },
+ {
+  "name": "JAC Motors",
+  "industry": ""
+ },
+ {
+  "name": "Jaecoo",
+  "industry": ""
+ },
+ {
+  "name": "Jetour",
+  "industry": ""
+ },
+ {
+  "name": "Jiangling",
+  "industry": ""
+ },
+ {
+  "name": "Jinbei",
+  "industry": ""
+ },
+ {
+  "name": "Jonway",
+  "industry": ""
+ },
+ {
+  "name": "Kaiyi",
+  "industry": ""
+ },
+ {
+  "name": "Karry",
+  "industry": ""
+ },
+ {
+  "name": "King Long",
+  "industry": ""
+ },
+ {
+  "name": "Leapmotor",
+  "industry": ""
+ },
+ {
+  "name": "Li Auto",
+  "industry": ""
+ },
+ {
+  "name": "Maxus",
+  "industry": ""
+ },
+ {
+  "name": "M-Hero",
+  "industry": ""
+ },
+ {
+  "name": "Neta",
+  "industry": ""
+ },
+ {
+  "name": "Nio",
+  "industry": ""
+ },
+ {
+  "name": "Ora",
+  "industry": ""
+ },
+ {
+  "name": "Omoda",
+  "industry": ""
+ },
+ {
+  "name": "Roewe",
+  "industry": ""
+ },
+ {
+  "name": "SAIC",
+  "industry": ""
+ },
+ {
+  "name": "Sehol",
+  "industry": ""
+ },
+ {
+  "name": "Seres Auto",
+  "industry": ""
+ },
+ {
+  "name": "Shacman",
+  "industry": ""
+ },
+ {
+  "name": "Soueast",
+  "industry": ""
+ },
+ {
+  "name": "Tank",
+  "industry": ""
+ },
+ {
+  "name": "Trumpchi",
+  "industry": ""
+ },
+ {
+  "name": "Venucia",
+  "industry": ""
+ },
+ {
+  "name": "Voyah",
+  "industry": ""
+ },
+ {
+  "name": "Wey",
+  "industry": ""
+ },
+ {
+  "name": "Wuling",
+  "industry": ""
+ },
+ {
+  "name": "Xiaomi",
+  "industry": ""
+ },
+ {
+  "name": "Xiamen Golden Dragon Bus",
+  "industry": ""
+ },
+ {
+  "name": "XPeng",
+  "industry": ""
+ },
+ {
+  "name": "Yudo Auto",
+  "industry": ""
+ },
+ {
+  "name": "Yutong",
+  "industry": ""
+ },
+ {
+  "name": "Yangwang",
+  "industry": ""
+ },
+ {
+  "name": "Zhongtong Bus",
+  "industry": ""
+ },
+ {
+  "name": "Zotye",
+  "industry": ""
+ },
+ {
+  "name": "ZX Auto",
+  "industry": ""
+ },
+ {
+  "name": "Zeekr",
+  "industry": ""
+ },
+ {
+  "name": "212",
+  "industry": ""
+ },
+ {
+  "name": "Changhe",
+  "industry": ""
+ },
+ {
+  "name": "Dadi Auto",
+  "industry": ""
+ },
+ {
+  "name": "Emgrand",
+  "industry": ""
+ },
+ {
+  "name": "Englon",
+  "industry": ""
+ },
+ {
+  "name": "Everus",
+  "industry": ""
+ },
+ {
+  "name": "Gonow",
+  "industry": ""
+ },
+ {
+  "name": "Hafei",
+  "industry": ""
+ },
+ {
+  "name": "Heibao",
+  "industry": ""
+ },
+ {
+  "name": "Hanteng",
+  "industry": ""
+ },
+ {
+  "name": "Hawtai",
+  "industry": ""
+ },
+ {
+  "name": "Landwind",
+  "industry": ""
+ },
+ {
+  "name": "Leahead",
+  "industry": ""
+ },
+ {
+  "name": "Lifan",
+  "industry": ""
+ },
+ {
+  "name": "Qoros",
+  "industry": ""
+ },
+ {
+  "name": "Ranz",
+  "industry": ""
+ },
+ {
+  "name": "Rising Auto",
+  "industry": ""
+ },
+ {
+  "name": "Zinoro",
+  "industry": ""
+ },
+ {
+  "name": "DOK-ING",
+  "industry": ""
+ },
+ {
+  "name": "Rimac",
+  "industry": ""
+ },
+ {
+  "name": "Škoda",
+  "industry": ""
+ },
+ {
+  "name": "Tatra",
+  "industry": ""
+ },
+ {
+  "name": "Avia",
+  "industry": ""
+ },
+ {
+  "name": "Kaipan",
+  "industry": ""
+ },
+ {
+  "name": "MTX",
+  "industry": ""
+ },
+ {
+  "name": "Praga",
+  "industry": ""
+ },
+ {
+  "name": "Aero",
+  "industry": ""
+ },
+ {
+  "name": "Jawa",
+  "industry": ""
+ },
+ {
+  "name": "LIAZ",
+  "industry": ""
+ },
+ {
+  "name": "Velorex",
+  "industry": ""
+ },
+ {
+  "name": "Walter Fiat",
+  "industry": ""
+ },
+ {
+  "name": "Zenvo",
+  "industry": ""
+ },
+ {
+  "name": "El Nasr Automotive Manufacturing Company",
+  "industry": ""
+ },
+ {
+  "name": "Egyptian German Automotive Company",
+  "industry": ""
+ },
+ {
+  "name": "the Ghabbour Group",
+  "industry": "(MCV Egypt - Manufacturing Commercial Vehicles - MCV Bus & Coach - GB Auto)",
+  "country": "MCV Egypt - Manufacturing Commercial Vehicles - MCV Bus & Coach - GB Auto"
+ },
+ {
+  "name": "Speranza Motors",
+  "industry": ""
+ },
+ {
+  "name": "Marathon Motors Engineering",
+  "industry": ""
+ },
+ {
+  "name": "Holland Car",
+  "industry": "(defunct)",
+  "country": "defunct"
+ },
+ {
+  "name": "Valmet Automotive",
+  "industry": ""
+ },
+ {
+  "name": "Electric Raceabout",
+  "industry": ""
+ },
+ {
+  "name": "Sisu Auto",
+  "industry": ""
+ },
+ {
+  "name": "Aixam",
+  "industry": ""
+ },
+ {
+  "name": "Alpine",
+  "industry": ""
+ },
+ {
+  "name": "Auverland",
+  "industry": ""
+ },
+ {
+  "name": "Bolloré",
+  "industry": ""
+ },
+ {
+  "name": "Bugatti",
+  "industry": ""
+ },
+ {
+  "name": "Citroën",
+  "industry": ""
+ },
+ {
+  "name": "Delage",
+  "industry": ""
+ },
+ {
+  "name": "DS",
+  "industry": ""
+ },
+ {
+  "name": "Exagon",
+  "industry": ""
+ },
+ {
+  "name": "Ligier",
+  "industry": ""
+ },
+ {
+  "name": "Microcar",
+  "industry": ""
+ },
+ {
+  "name": "Méga",
+  "industry": ""
+ },
+ {
+  "name": "Peugeot",
+  "industry": ""
+ },
+ {
+  "name": "PGO",
+  "industry": ""
+ },
+ {
+  "name": "Renault",
+  "industry": ""
+ },
+ {
+  "name": "Renault Trucks",
+  "industry": ""
+ },
+ {
+  "name": "Venturi",
+  "industry": ""
+ },
+ {
+  "name": "Avions Voisin",
+  "industry": ""
+ },
+ {
+  "name": "Berliet",
+  "industry": ""
+ },
+ {
+  "name": "Chenard-Walcker",
+  "industry": ""
+ },
+ {
+  "name": "Darracq",
+  "industry": ""
+ },
+ {
+  "name": "Decauville",
+  "industry": ""
+ },
+ {
+  "name": "De Dion-Bouton",
+  "industry": ""
+ },
+ {
+  "name": "Delahaye",
+  "industry": ""
+ },
+ {
+  "name": "Delaunay-Belleville",
+  "industry": ""
+ },
+ {
+  "name": "Facel Vega",
+  "industry": ""
+ },
+ {
+  "name": "Helicron",
+  "industry": ""
+ },
+ {
+  "name": "Hommell",
+  "industry": ""
+ },
+ {
+  "name": "Hotchkiss",
+  "industry": ""
+ },
+ {
+  "name": "Lorraine-Dietrich",
+  "industry": ""
+ },
+ {
+  "name": "Mathis",
+  "industry": ""
+ },
+ {
+  "name": "Matra",
+  "industry": ""
+ },
+ {
+  "name": "Mors",
+  "industry": ""
+ },
+ {
+  "name": "Panhard",
+  "industry": ""
+ },
+ {
+  "name": "Rochet-Schneider",
+  "industry": ""
+ },
+ {
+  "name": "Salmson",
+  "industry": ""
+ },
+ {
+  "name": "Simca",
+  "industry": ""
+ },
+ {
+  "name": "Talbot",
+  "industry": ""
+ },
+ {
+  "name": "Talbot-Lago",
+  "industry": ""
+ },
+ {
+  "name": "Alpina",
+  "industry": ""
+ },
+ {
+  "name": "Apollo",
+  "industry": ""
+ },
+ {
+  "name": "Artega",
+  "industry": ""
+ },
+ {
+  "name": "Audi",
+  "industry": ""
+ },
+ {
+  "name": "Bitter",
+  "industry": ""
+ },
+ {
+  "name": "BMW",
+  "industry": ""
+ },
+ {
+  "name": "Daimler Truck",
+  "industry": ""
+ },
+ {
+  "name": "Isdera",
+  "industry": ""
+ },
+ {
+  "name": "Lotec",
+  "industry": ""
+ },
+ {
+  "name": "Maybach",
+  "industry": ""
+ },
+ {
+  "name": "Mercedes-Benz",
+  "industry": ""
+ },
+ {
+  "name": "Multicar",
+  "industry": ""
+ },
+ {
+  "name": "Neoplan",
+  "industry": ""
+ },
+ {
+  "name": "Opel",
+  "industry": ""
+ },
+ {
+  "name": "Ruf",
+  "industry": ""
+ },
+ {
+  "name": "Porsche",
+  "industry": ""
+ },
+ {
+  "name": "Setra",
+  "industry": ""
+ },
+ {
+  "name": "Smart",
+  "industry": ""
+ },
+ {
+  "name": "Volkswagen",
+  "industry": ""
+ },
+ {
+  "name": "Volkswagen Commercial Vehicles",
+  "industry": ""
+ },
+ {
+  "name": "Wiesmann",
+  "industry": ""
+ },
+ {
+  "name": "Adler",
+  "industry": ""
+ },
+ {
+  "name": "AGA",
+  "industry": ""
+ },
+ {
+  "name": "Auto Union",
+  "industry": ""
+ },
+ {
+  "name": "AWS",
+  "industry": ""
+ },
+ {
+  "name": "AWZ",
+  "industry": ""
+ },
+ {
+  "name": "Barkas",
+  "industry": ""
+ },
+ {
+  "name": "Borgward",
+  "industry": ""
+ },
+ {
+  "name": "Brennabor",
+  "industry": ""
+ },
+ {
+  "name": "Büssing",
+  "industry": ""
+ },
+ {
+  "name": "Dauer",
+  "industry": ""
+ },
+ {
+  "name": "DKW",
+  "industry": ""
+ },
+ {
+  "name": "Glas",
+  "industry": ""
+ },
+ {
+  "name": "Goliath",
+  "industry": ""
+ },
+ {
+  "name": "Gumpert",
+  "industry": ""
+ },
+ {
+  "name": "Hanomag",
+  "industry": ""
+ },
+ {
+  "name": "Hansa",
+  "industry": ""
+ },
+ {
+  "name": "Heinkel",
+  "industry": ""
+ },
+ {
+  "name": "Horch",
+  "industry": ""
+ },
+ {
+  "name": "Karmann",
+  "industry": ""
+ },
+ {
+  "name": "Lloyd",
+  "industry": ""
+ },
+ {
+  "name": "Maurer-Union",
+  "industry": ""
+ },
+ {
+  "name": "Maybach",
+  "industry": ""
+ },
+ {
+  "name": "Melkus",
+  "industry": ""
+ },
+ {
+  "name": "Messerschmitt",
+  "industry": ""
+ },
+ {
+  "name": "MAN",
+  "industry": ""
+ },
+ {
+  "name": "NAG",
+  "industry": ""
+ },
+ {
+  "name": "NSU",
+  "industry": ""
+ },
+ {
+  "name": "Robur",
+  "industry": ""
+ },
+ {
+  "name": "Simson",
+  "industry": ""
+ },
+ {
+  "name": "Stoewer",
+  "industry": ""
+ },
+ {
+  "name": "Tempo",
+  "industry": ""
+ },
+ {
+  "name": "Trabant",
+  "industry": ""
+ },
+ {
+  "name": "Wanderer",
+  "industry": ""
+ },
+ {
+  "name": "Wartburg",
+  "industry": ""
+ },
+ {
+  "name": "Zundapp",
+  "industry": ""
+ },
+ {
+  "name": "Rosmo",
+  "industry": ""
+ },
+ {
+  "name": "Kantanka",
+  "industry": ""
+ },
+ {
+  "name": "ELVO",
+  "industry": ""
+ },
+ {
+  "name": "Korres",
+  "industry": ""
+ },
+ {
+  "name": "Namco",
+  "industry": ""
+ },
+ {
+  "name": "Replicar Hellas",
+  "industry": ""
+ },
+ {
+  "name": "Kioleides",
+  "industry": ""
+ },
+ {
+  "name": "Keraboss",
+  "industry": ""
+ },
+ {
+  "name": "Temax",
+  "industry": ""
+ },
+ {
+  "name": "Alta",
+  "industry": ""
+ },
+ {
+  "name": "Attica",
+  "industry": ""
+ },
+ {
+  "name": "Autokinitoviomihania Ellados",
+  "industry": ""
+ },
+ {
+  "name": "Automeccanica",
+  "industry": ""
+ },
+ {
+  "name": "Balkania",
+  "industry": ""
+ },
+ {
+  "name": "BET",
+  "industry": ""
+ },
+ {
+  "name": "Biamax",
+  "industry": ""
+ },
+ {
+  "name": "BIOMAN",
+  "industry": ""
+ },
+ {
+  "name": "DIM",
+  "industry": ""
+ },
+ {
+  "name": "MAVA-Renault",
+  "industry": ""
+ },
+ {
+  "name": "MEBEA",
+  "industry": ""
+ },
+ {
+  "name": "Neorion",
+  "industry": ""
+ },
+ {
+  "name": "Pan-Car",
+  "industry": ""
+ },
+ {
+  "name": "Theologou",
+  "industry": ""
+ },
+ {
+  "name": "Credo",
+  "industry": ""
+ },
+ {
+  "name": "Ikarus",
+  "industry": ""
+ },
+ {
+  "name": "Rába",
+  "industry": ""
+ },
+ {
+  "name": "Csepel Automobile Factory",
+  "industry": ""
+ },
+ {
+  "name": "Csonka",
+  "industry": ""
+ },
+ {
+  "name": "Puli",
+  "industry": ""
+ },
+ {
+  "name": "Ajanta Group",
+  "industry": ""
+ },
+ {
+  "name": "Ashok Leyland",
+  "industry": ""
+ },
+ {
+  "name": "Asia MotorWorks",
+  "industry": ""
+ },
+ {
+  "name": "Atul Auto",
+  "industry": ""
+ },
+ {
+  "name": "AVANI",
+  "industry": ""
+ },
+ {
+  "name": "Bajaj",
+  "industry": ""
+ },
+ {
+  "name": "Eicher",
+  "industry": ""
+ },
+ {
+  "name": "Force",
+  "industry": ""
+ },
+ {
+  "name": "Hero Motocop",
+  "industry": ""
+ },
+ {
+  "name": "Hindustan",
+  "industry": ""
+ },
+ {
+  "name": "Hradyesh",
+  "industry": ""
+ },
+ {
+  "name": "KAL",
+  "industry": ""
+ },
+ {
+  "name": "Mahindra",
+  "industry": ""
+ },
+ {
+  "name": "Maruti Suzuki",
+  "industry": ""
+ },
+ {
+  "name": "Omega Seiki Mobility",
+  "industry": ""
+ },
+ {
+  "name": "SML Isuzu",
+  "industry": ""
+ },
+ {
+  "name": "Tara International",
+  "industry": ""
+ },
+ {
+  "name": "Tata",
+  "industry": ""
+ },
+ {
+  "name": "TVS",
+  "industry": ""
+ },
+ {
+  "name": "Chinkara",
+  "industry": ""
+ },
+ {
+  "name": "Ideal Jawa",
+  "industry": ""
+ },
+ {
+  "name": "Kinetic Engineering Limited",
+  "industry": ""
+ },
+ {
+  "name": "Lohia Machinery",
+  "industry": ""
+ },
+ {
+  "name": "Mopeds India Limited",
+  "industry": ""
+ },
+ {
+  "name": "Premier",
+  "industry": ""
+ },
+ {
+  "name": "Sipani",
+  "industry": ""
+ },
+ {
+  "name": "Standard",
+  "industry": ""
+ },
+ {
+  "name": "Azar Motor Industrial Co",
+  "industry": ""
+ },
+ {
+  "name": "Bahman",
+  "industry": ""
+ },
+ {
+  "name": "Diar",
+  "industry": ""
+ },
+ {
+  "name": "Farda Motors",
+  "industry": ""
+ },
+ {
+  "name": "Fath Vehicle Industries",
+  "industry": ""
+ },
+ {
+  "name": "Iran Khodro",
+  "industry": ""
+ },
+ {
+  "name": "Khodro Kaveer",
+  "industry": ""
+ },
+ {
+  "name": "Kish Khodro",
+  "industry": ""
+ },
+ {
+  "name": "Modiran Vehicle Manufacturing",
+  "industry": ""
+ },
+ {
+  "name": "Morattab",
+  "industry": ""
+ },
+ {
+  "name": "Lamari",
+  "industry": ""
+ },
+ {
+  "name": "Pars Khodro",
+  "industry": ""
+ },
+ {
+  "name": "SAIPA",
+  "industry": ""
+ },
+ {
+  "name": "Zagross Khodro",
+  "industry": ""
+ },
+ {
+  "name": "Carmor",
+  "industry": ""
+ },
+ {
+  "name": "Ha'argaz",
+  "industry": ""
+ },
+ {
+  "name": "Merkavim",
+  "industry": ""
+ },
+ {
+  "name": "Plasan",
+  "industry": ""
+ },
+ {
+  "name": "REE Automotive",
+  "industry": ""
+ },
+ {
+  "name": "Tomcar",
+  "industry": ""
+ },
+ {
+  "name": "Zibar",
+  "industry": ""
+ },
+ {
+  "name": "AIL",
+  "industry": ""
+ },
+ {
+  "name": "Autocars",
+  "industry": ""
+ },
+ {
+  "name": "Abarth",
+  "industry": ""
+ },
+ {
+  "name": "Alfa Romeo",
+  "industry": ""
+ },
+ {
+  "name": "Automobili Estrema",
+  "industry": ""
+ },
+ {
+  "name": "Casalini",
+  "industry": ""
+ },
+ {
+  "name": "Covini",
+  "industry": ""
+ },
+ {
+  "name": "CTS",
+  "industry": ""
+ },
+ {
+  "name": "DR Motor",
+  "industry": ""
+ },
+ {
+  "name": "Ducati",
+  "industry": ""
+ },
+ {
+  "name": "Ferrari",
+  "industry": ""
+ },
+ {
+  "name": "Fiat",
+  "industry": ""
+ },
+ {
+  "name": "Iso",
+  "industry": ""
+ },
+ {
+  "name": "Italdesign",
+  "industry": ""
+ },
+ {
+  "name": "Iveco",
+  "industry": ""
+ },
+ {
+  "name": "Lamborghini",
+  "industry": ""
+ },
+ {
+  "name": "Lancia",
+  "industry": ""
+ },
+ {
+  "name": "Maserati",
+  "industry": ""
+ },
+ {
+  "name": "Mazzanti",
+  "industry": ""
+ },
+ {
+  "name": "Minardi",
+  "industry": ""
+ },
+ {
+  "name": "Pagani",
+  "industry": ""
+ },
+ {
+  "name": "Piaggio",
+  "industry": ""
+ },
+ {
+  "name": "Pininfarina",
+  "industry": ""
+ },
+ {
+  "name": "Vespa",
+  "industry": ""
+ },
+ {
+  "name": "Zagato",
+  "industry": ""
+ },
+ {
+  "name": "APIS",
+  "industry": ""
+ },
+ {
+  "name": "Ansaldo",
+  "industry": ""
+ },
+ {
+  "name": "Aquila",
+  "industry": ""
+ },
+ {
+  "name": "A.S.A.",
+  "industry": ""
+ },
+ {
+  "name": "A.T.S.",
+  "industry": ""
+ },
+ {
+  "name": "Autobianchi",
+  "industry": ""
+ },
+ {
+  "name": "Aurea",
+  "industry": ""
+ },
+ {
+  "name": "Bandini",
+  "industry": ""
+ },
+ {
+  "name": "Bertone",
+  "industry": "<!-- NOTE: Please DO NOT erase Bertone -->"
+ },
+ {
+  "name": "Bizzarrini",
+  "industry": ""
+ },
+ {
+  "name": "Bremach",
+  "industry": ""
+ },
+ {
+  "name": "Ceirano",
+  "industry": ""
+ },
+ {
+  "name": "Chiribiri",
+  "industry": ""
+ },
+ {
+  "name": "Cisitalia",
+  "industry": ""
+ },
+ {
+  "name": "Cizeta",
+  "industry": ""
+ },
+ {
+  "name": "De Tomaso",
+  "industry": ""
+ },
+ {
+  "name": "Diatto",
+  "industry": ""
+ },
+ {
+  "name": "FCA",
+  "industry": ""
+ },
+ {
+  "name": "Fabbrica Ligure Automobili Genova",
+  "industry": "(FLAG)",
+  "country": "FLAG"
+ },
+ {
+  "name": "Fornasari",
+  "industry": ""
+ },
+ {
+  "name": "Innocenti",
+  "industry": ""
+ },
+ {
+  "name": "Intermeccanica",
+  "industry": ""
+ },
+ {
+  "name": "Iso Milano",
+  "industry": ""
+ },
+ {
+  "name": "Isotta Fraschini",
+  "industry": ""
+ },
+ {
+  "name": "Itala",
+  "industry": ""
+ },
+ {
+  "name": "Junior",
+  "industry": ""
+ },
+ {
+  "name": "Lambretta",
+  "industry": ""
+ },
+ {
+  "name": "LMX",
+  "industry": ""
+ },
+ {
+  "name": "Marca-Tre-Spade",
+  "industry": ""
+ },
+ {
+  "name": "Moretti",
+  "industry": ""
+ },
+ {
+  "name": "Nardi",
+  "industry": ""
+ },
+ {
+  "name": "O.M.",
+  "industry": ""
+ },
+ {
+  "name": "O.S.C.A.",
+  "industry": ""
+ },
+ {
+  "name": "Qvale",
+  "industry": ""
+ },
+ {
+  "name": "Scuderia Ferrari",
+  "industry": ""
+ },
+ {
+  "name": "Rapid",
+  "industry": ""
+ },
+ {
+  "name": "S.C.A.T.",
+  "industry": ""
+ },
+ {
+  "name": "Siata",
+  "industry": ""
+ },
+ {
+  "name": "S.P.A.",
+  "industry": ""
+ },
+ {
+  "name": "Stanguellini",
+  "industry": ""
+ },
+ {
+  "name": "Storero",
+  "industry": ""
+ },
+ {
+  "name": "Vignale",
+  "industry": ""
+ },
+ {
+  "name": "Volugrafo",
+  "industry": ""
+ },
+ {
+  "name": "Zust",
+  "industry": ""
+ },
+ {
+  "name": "Acura",
+  "industry": ""
+ },
+ {
+  "name": "Aspark",
+  "industry": ""
+ },
+ {
+  "name": "Autobacs Seven",
+  "industry": ""
+ },
+ {
+  "name": "Daihatsu",
+  "industry": ""
+ },
+ {
+  "name": "Dome",
+  "industry": ""
+ },
+ {
+  "name": "GLM",
+  "industry": ""
+ },
+ {
+  "name": "Hino",
+  "industry": ""
+ },
+ {
+  "name": "Honda",
+  "industry": ""
+ },
+ {
+  "name": "Infiniti",
+  "industry": ""
+ },
+ {
+  "name": "Isuzu",
+  "industry": ""
+ },
+ {
+  "name": "J-Bus",
+  "industry": ""
+ },
+ {
+  "name": "Lexus",
+  "industry": ""
+ },
+ {
+  "name": "Mazda",
+  "industry": ""
+ },
+ {
+  "name": "Mitsubishi Motors",
+  "industry": ""
+ },
+ {
+  "name": "Mitsubishi Fuso",
+  "industry": ""
+ },
+ {
+  "name": "Mitsuoka",
+  "industry": ""
+ },
+ {
+  "name": "NMKV",
+  "industry": ""
+ },
+ {
+  "name": "Nissan",
+  "industry": ""
+ },
+ {
+  "name": "Subaru",
+  "industry": ""
+ },
+ {
+  "name": "Suzuki",
+  "industry": ""
+ },
+ {
+  "name": "Tommykaira",
+  "industry": ""
+ },
+ {
+  "name": "Takeoka Auto Craft",
+  "industry": ""
+ },
+ {
+  "name": "Toyota",
+  "industry": ""
+ },
+ {
+  "name": "UD Trucks",
+  "industry": ""
+ },
+ {
+  "name": "Asahi",
+  "industry": ""
+ },
+ {
+  "name": "Autozam",
+  "industry": ""
+ },
+ {
+  "name": "Datsun",
+  "industry": ""
+ },
+ {
+  "name": "Eunos",
+  "industry": ""
+ },
+ {
+  "name": "Ohta",
+  "industry": ""
+ },
+ {
+  "name": "Otomo",
+  "industry": ""
+ },
+ {
+  "name": "Prince",
+  "industry": ""
+ },
+ {
+  "name": "Mobius Motors",
+  "industry": ""
+ },
+ {
+  "name": "Dartz",
+  "industry": ""
+ },
+ {
+  "name": "Ford-Vairogs",
+  "industry": ""
+ },
+ {
+  "name": "RAF (Latvija)",
+  "industry": ""
+ },
+ {
+  "name": "W Motors",
+  "industry": ""
+ },
+ {
+  "name": "Orca Engineering",
+  "industry": "(Defunct)",
+  "country": "Defunct"
+ },
+ {
+  "name": "Jehle",
+  "industry": "(Defunct)",
+  "country": "Defunct"
+ },
+ {
+  "name": "MDI",
+  "industry": ""
+ },
+ {
+  "name": "Bufori",
+  "industry": ""
+ },
+ {
+  "name": "DefTech",
+  "industry": ""
+ },
+ {
+  "name": "Inokom",
+  "industry": ""
+ },
+ {
+  "name": "Modenas",
+  "industry": ""
+ },
+ {
+  "name": "Naza",
+  "industry": ""
+ },
+ {
+  "name": "Perodua",
+  "industry": ""
+ },
+ {
+  "name": "Proton",
+  "industry": ""
+ },
+ {
+  "name": "DINA",
+  "industry": ""
+ },
+ {
+  "name": "Mastretta",
+  "industry": ""
+ },
+ {
+  "name": "VUHL",
+  "industry": ""
+ },
+ {
+  "name": "Ramirez",
+  "industry": ""
+ },
+ {
+  "name": "VAM",
+  "industry": ""
+ },
+ {
+  "name": "Montecarlo",
+  "industry": ""
+ },
+ {
+  "name": "Venturi",
+  "industry": ""
+ },
+ {
+  "name": "Neo Motors",
+  "industry": ""
+ },
+ {
+  "name": "Laraki",
+  "industry": ""
+ },
+ {
+  "name": "Renault Somaca",
+  "industry": ""
+ },
+ {
+  "name": "Fiat Somaca",
+  "industry": ""
+ },
+ {
+  "name": "Shan Star",
+  "industry": ""
+ },
+ {
+  "name": "Hulas Motors",
+  "industry": ""
+ },
+ {
+  "name": "Burton",
+  "industry": ""
+ },
+ {
+  "name": "Carver",
+  "industry": ""
+ },
+ {
+  "name": "DAF",
+  "industry": ""
+ },
+ {
+  "name": "Dakar",
+  "industry": ""
+ },
+ {
+  "name": "Donkervoort",
+  "industry": ""
+ },
+ {
+  "name": "Spijkstaal",
+  "industry": ""
+ },
+ {
+  "name": "Spyker",
+  "industry": ""
+ },
+ {
+  "name": "Stellantis",
+  "industry": "(Multi-National)",
+  "country": "Multi-National"
+ },
+ {
+  "name": "Vandenbrink",
+  "industry": ""
+ },
+ {
+  "name": "VDL Nedcar",
+  "industry": ""
+ },
+ {
+  "name": "Vencer",
+  "industry": ""
+ },
+ {
+  "name": "Anziel",
+  "industry": ""
+ },
+ {
+  "name": "Saker Cars",
+  "industry": ""
+ },
+ {
+  "name": "Trekka",
+  "industry": ""
+ },
+ {
+  "name": "Innoson Motors",
+  "industry": ""
+ },
+ {
+  "name": "Pyeonghwa Motors",
+  "industry": ""
+ },
+ {
+  "name": "Sungri Motors",
+  "industry": ""
+ },
+ {
+  "name": "Samhung Motors",
+  "industry": ""
+ },
+ {
+  "name": "Moxy Trucks",
+  "industry": ""
+ },
+ {
+  "name": "Buddy",
+  "industry": ""
+ },
+ {
+  "name": "Think",
+  "industry": ""
+ },
+ {
+  "name": "Sazgar",
+  "industry": ""
+ },
+ {
+  "name": "United Auto Industries",
+  "industry": ""
+ },
+ {
+  "name": "Adam Motor Company",
+  "industry": ""
+ },
+ {
+  "name": "Dewan Farooque Motors",
+  "industry": ""
+ },
+ {
+  "name": "Nexus Automotive",
+  "industry": ""
+ },
+ {
+  "name": "Almazora Motors",
+  "industry": ""
+ },
+ {
+  "name": "Del Monte Motors",
+  "industry": ""
+ },
+ {
+  "name": "Sarao Motors",
+  "industry": ""
+ },
+ {
+  "name": "Delta",
+  "industry": ""
+ },
+ {
+  "name": "AMZ",
+  "industry": ""
+ },
+ {
+  "name": "Arrinera",
+  "industry": ""
+ },
+ {
+  "name": "Autosan",
+  "industry": ""
+ },
+ {
+  "name": "Jelcz",
+  "industry": ""
+ },
+ {
+  "name": "Solaris",
+  "industry": ""
+ },
+ {
+  "name": "Ursus",
+  "industry": ""
+ },
+ {
+  "name": "FSC Żuk",
+  "industry": ""
+ },
+ {
+  "name": "FSM",
+  "industry": ""
+ },
+ {
+  "name": "FSO",
+  "industry": ""
+ },
+ {
+  "name": "FSR Tarpan",
+  "industry": ""
+ },
+ {
+  "name": "Intrall",
+  "industry": ""
+ },
+ {
+  "name": "Polski Fiat",
+  "industry": ""
+ },
+ {
+  "name": "Star",
+  "industry": ""
+ },
+ {
+  "name": "Syrena",
+  "industry": ""
+ },
+ {
+  "name": "Warszawa",
+  "industry": ""
+ },
+ {
+  "name": "ZSD Nysa",
+  "industry": ""
+ },
+ {
+  "name": "MOBIpeople",
+  "industry": ""
+ },
+ {
+  "name": "Salvador Caetano",
+  "industry": ""
+ },
+ {
+  "name": "Vinci",
+  "industry": ""
+ },
+ {
+  "name": "Bravia",
+  "industry": ""
+ },
+ {
+  "name": "Portaro",
+  "industry": ""
+ },
+ {
+  "name": "UMM",
+  "industry": ""
+ },
+ {
+  "name": "Edfor",
+  "industry": ""
+ },
+ {
+  "name": "ALBA",
+  "industry": ""
+ },
+ {
+  "name": "DM",
+  "industry": ""
+ },
+ {
+  "name": "Olda",
+  "industry": ""
+ },
+ {
+  "name": "Dacia",
+  "industry": ""
+ },
+ {
+  "name": "ROMAN",
+  "industry": ""
+ },
+ {
+  "name": "ARO",
+  "industry": ""
+ },
+ {
+  "name": "Oltcit",
+  "industry": ""
+ },
+ {
+  "name": "Rocar",
+  "industry": ""
+ },
+ {
+  "name": "Aurus",
+  "industry": ""
+ },
+ {
+  "name": "Avtotor",
+  "industry": ""
+ },
+ {
+  "name": "GAZ",
+  "industry": ""
+ },
+ {
+  "name": "IZh",
+  "industry": ""
+ },
+ {
+  "name": "Kamaz",
+  "industry": ""
+ },
+ {
+  "name": "Lada",
+  "industry": ""
+ },
+ {
+  "name": "LiAZ",
+  "industry": ""
+ },
+ {
+  "name": "PAZ",
+  "industry": ""
+ },
+ {
+  "name": "Sollers",
+  "industry": ""
+ },
+ {
+  "name": "UAZ",
+  "industry": ""
+ },
+ {
+  "name": "Amur",
+  "industry": ""
+ },
+ {
+  "name": "Avtoframos",
+  "industry": ""
+ },
+ {
+  "name": "AvtoKuban",
+  "industry": ""
+ },
+ {
+  "name": "Derways",
+  "industry": ""
+ },
+ {
+  "name": "GAZ (Volga)",
+  "industry": ""
+ },
+ {
+  "name": "Marussia",
+  "industry": ""
+ },
+ {
+  "name": "Moskvitch",
+  "industry": ""
+ },
+ {
+  "name": "Russo-Balt",
+  "industry": ""
+ },
+ {
+  "name": "SeAZ",
+  "industry": ""
+ },
+ {
+  "name": "SMZ",
+  "industry": ""
+ },
+ {
+  "name": "TagAZ",
+  "industry": ""
+ },
+ {
+  "name": "Yo-Mobile",
+  "industry": ""
+ },
+ {
+  "name": "ZiL",
+  "industry": ""
+ },
+ {
+  "name": "KSU Gazal-1",
+  "industry": ""
+ },
+ {
+  "name": "FAP",
+  "industry": ""
+ },
+ {
+  "name": "FAS",
+  "industry": ""
+ },
+ {
+  "name": "Ikarbus",
+  "industry": ""
+ },
+ {
+  "name": "IMT",
+  "industry": ""
+ },
+ {
+  "name": "Neobus",
+  "industry": ""
+ },
+ {
+  "name": "Zastava",
+  "industry": ""
+ },
+ {
+  "name": "IDA",
+  "industry": ""
+ },
+ {
+  "name": "Yugo",
+  "industry": ""
+ },
+ {
+  "name": "Adria Mobil",
+  "industry": ""
+ },
+ {
+  "name": "Revoz",
+  "industry": ""
+ },
+ {
+  "name": "Tushek & Spigel",
+  "industry": ""
+ },
+ {
+  "name": "TAM-Europe",
+  "industry": ""
+ },
+ {
+  "name": "TAM",
+  "industry": ""
+ },
+ {
+  "name": "AAD",
+  "industry": ""
+ },
+ {
+  "name": "Perana Performance Group",
+  "industry": ""
+ },
+ {
+  "name": "CT&T United",
+  "industry": ""
+ },
+ {
+  "name": "Daewoo Bus",
+  "industry": ""
+ },
+ {
+  "name": "Genesis",
+  "industry": ""
+ },
+ {
+  "name": "GM Korea",
+  "industry": ""
+ },
+ {
+  "name": "Gwangju Global Motors",
+  "industry": ""
+ },
+ {
+  "name": "Hyundai",
+  "industry": ""
+ },
+ {
+  "name": "KG Mobility",
+  "industry": ""
+ },
+ {
+  "name": "Kia",
+  "industry": ""
+ },
+ {
+  "name": "Renault Korea",
+  "industry": ""
+ },
+ {
+  "name": "Tata Daewoo",
+  "industry": ""
+ },
+ {
+  "name": "Asia Motors",
+  "industry": ""
+ },
+ {
+  "name": "Daewoo",
+  "industry": ""
+ },
+ {
+  "name": "Keohwa",
+  "industry": ""
+ },
+ {
+  "name": "Proto",
+  "industry": ""
+ },
+ {
+  "name": "Saehan",
+  "industry": ""
+ },
+ {
+  "name": "SsangYong",
+  "industry": ""
+ },
+ {
+  "name": "Samsung",
+  "industry": ""
+ },
+ {
+  "name": "Shinjin",
+  "industry": ""
+ },
+ {
+  "name": "Sibal",
+  "industry": ""
+ },
+ {
+  "name": "Abadal",
+  "industry": ""
+ },
+ {
+  "name": "Aspid",
+  "industry": ""
+ },
+ {
+  "name": "Cupra",
+  "industry": ""
+ },
+ {
+  "name": "GTA",
+  "industry": ""
+ },
+ {
+  "name": "Irizar",
+  "industry": ""
+ },
+ {
+  "name": "SEAT",
+  "industry": ""
+ },
+ {
+  "name": "Spania",
+  "industry": ""
+ },
+ {
+  "name": "Tauro",
+  "industry": ""
+ },
+ {
+  "name": "Tramontana",
+  "industry": ""
+ },
+ {
+  "name": "Uro",
+  "industry": ""
+ },
+ {
+  "name": "Hispano Suiza",
+  "industry": ""
+ },
+ {
+  "name": "Micro",
+  "industry": ""
+ },
+ {
+  "name": "Vega EVX",
+  "industry": ""
+ },
+ {
+  "name": "Koenigsegg",
+  "industry": ""
+ },
+ {
+  "name": "NEVS",
+  "industry": ""
+ },
+ {
+  "name": "Polestar",
+  "industry": ""
+ },
+ {
+  "name": "Scania",
+  "industry": ""
+ },
+ {
+  "name": "Volvo Buses",
+  "industry": ""
+ },
+ {
+  "name": "Volvo Cars",
+  "industry": ""
+ },
+ {
+  "name": "Volvo Trucks",
+  "industry": ""
+ },
+ {
+  "name": "Jösse Car",
+  "industry": ""
+ },
+ {
+  "name": "Saab",
+  "industry": ""
+ },
+ {
+  "name": "Uniti",
+  "industry": ""
+ },
+ {
+  "name": "Micro Mobility Systems",
+  "industry": ""
+ },
+ {
+  "name": "Leblanc",
+  "industry": ""
+ },
+ {
+  "name": "Piëch Automotive",
+  "industry": ""
+ },
+ {
+  "name": "Rinspeed",
+  "industry": ""
+ },
+ {
+  "name": "Sbarro",
+  "industry": ""
+ },
+ {
+  "name": "Enzmann",
+  "industry": ""
+ },
+ {
+  "name": "Martini",
+  "industry": ""
+ },
+ {
+  "name": "Monteverdi",
+  "industry": ""
+ },
+ {
+  "name": "Pic-Pic",
+  "industry": ""
+ },
+ {
+  "name": "Soletta",
+  "industry": ""
+ },
+ {
+  "name": "CMC",
+  "industry": ""
+ },
+ {
+  "name": "Foxtron",
+  "industry": ""
+ },
+ {
+  "name": "Luxgen",
+  "industry": ""
+ },
+ {
+  "name": "Yulon",
+  "industry": ""
+ },
+ {
+  "name": "Thai Rung",
+  "industry": ""
+ },
+ {
+  "name": "Wallyscar",
+  "industry": ""
+ },
+ {
+  "name": "BMC",
+  "industry": ""
+ },
+ {
+  "name": "Erkunt",
+  "industry": ""
+ },
+ {
+  "name": "Etox",
+  "industry": ""
+ },
+ {
+  "name": "Fiat-Tofaş",
+  "industry": ""
+ },
+ {
+  "name": "FNSS",
+  "industry": ""
+ },
+ {
+  "name": "Guleryuz",
+  "industry": ""
+ },
+ {
+  "name": "Karsan",
+  "industry": ""
+ },
+ {
+  "name": "Otokar",
+  "industry": ""
+ },
+ {
+  "name": "Özaltin",
+  "industry": ""
+ },
+ {
+  "name": "Pancar Motor",
+  "industry": ""
+ },
+ {
+  "name": "Temsa",
+  "industry": ""
+ },
+ {
+  "name": "Togg",
+  "industry": ""
+ },
+ {
+  "name": "Anadol",
+  "industry": ""
+ },
+ {
+  "name": "Devrim",
+  "industry": ""
+ },
+ {
+  "name": "Bohdan",
+  "industry": ""
+ },
+ {
+  "name": "Etalon",
+  "industry": ""
+ },
+ {
+  "name": "KrAZ",
+  "industry": ""
+ },
+ {
+  "name": "LAZ",
+  "industry": ""
+ },
+ {
+  "name": "ZAZ",
+  "industry": ""
+ },
+ {
+  "name": "LuAZ",
+  "industry": "(now part of Bogdan)",
+  "country": "now part of Bogdan"
+ },
+ {
+  "name": "W Motors",
+  "industry": ""
+ },
+ {
+  "name": "AC",
+  "industry": ""
+ },
+ {
+  "name": "Alexander Dennis",
+  "industry": ""
+ },
+ {
+  "name": "Apex Motors",
+  "industry": ""
+ },
+ {
+  "name": "Ariel",
+  "industry": ""
+ },
+ {
+  "name": "Aston Martin",
+  "industry": ""
+ },
+ {
+  "name": "Atalanta Motors",
+  "industry": ""
+ },
+ {
+  "name": "BAC",
+  "industry": ""
+ },
+ {
+  "name": "Bentley",
+  "industry": ""
+ },
+ {
+  "name": "Bowler",
+  "industry": ""
+ },
+ {
+  "name": "Caterham",
+  "industry": ""
+ },
+ {
+  "name": "Crosslé",
+  "industry": ""
+ },
+ {
+  "name": "David Brown Automotive",
+  "industry": ""
+ },
+ {
+  "name": "Elemental Cars",
+  "industry": ""
+ },
+ {
+  "name": "Ginetta",
+  "industry": ""
+ },
+ {
+  "name": "GKD",
+  "industry": ""
+ },
+ {
+  "name": "GMA",
+  "industry": ""
+ },
+ {
+  "name": "Grinnall",
+  "industry": ""
+ },
+ {
+  "name": "Healey",
+  "industry": ""
+ },
+ {
+  "name": "Jaguar",
+  "industry": ""
+ },
+ {
+  "name": "Lagonda",
+  "industry": ""
+ },
+ {
+  "name": "Larmar",
+  "industry": ""
+ },
+ {
+  "name": "Land Rover",
+  "industry": ""
+ },
+ {
+  "name": "LEVC",
+  "industry": ""
+ },
+ {
+  "name": "Lotus",
+  "industry": ""
+ },
+ {
+  "name": "McLaren",
+  "industry": ""
+ },
+ {
+  "name": "Mellor Bus",
+  "industry": ""
+ },
+ {
+  "name": "MG",
+  "industry": ""
+ },
+ {
+  "name": "Mini",
+  "industry": ""
+ },
+ {
+  "name": "Modec",
+  "industry": ""
+ },
+ {
+  "name": "Morgan",
+  "industry": ""
+ },
+ {
+  "name": "Noble",
+  "industry": ""
+ },
+ {
+  "name": "Radical Sportscars",
+  "industry": ""
+ },
+ {
+  "name": "Rolls-Royce",
+  "industry": ""
+ },
+ {
+  "name": "Ronart Cars",
+  "industry": ""
+ },
+ {
+  "name": "TVR",
+  "industry": ""
+ },
+ {
+  "name": "Ultima Sports",
+  "industry": ""
+ },
+ {
+  "name": "Vauxhall",
+  "industry": ""
+ },
+ {
+  "name": "Westfield",
+  "industry": ""
+ },
+ {
+  "name": "Wrightbus",
+  "industry": ""
+ },
+ {
+  "name": "Adam's Brothers",
+  "industry": ""
+ },
+ {
+  "name": "AEC",
+  "industry": ""
+ },
+ {
+  "name": "Allard",
+  "industry": ""
+ },
+ {
+  "name": "Alvis",
+  "industry": ""
+ },
+ {
+  "name": "Austin",
+  "industry": ""
+ },
+ {
+  "name": "Austin-Healey",
+  "industry": ""
+ },
+ {
+  "name": "British Leyland",
+  "industry": ""
+ },
+ {
+  "name": "Bristol",
+  "industry": ""
+ },
+ {
+  "name": "Daimler",
+  "industry": ""
+ },
+ {
+  "name": "Donald Healey",
+  "industry": ""
+ },
+ {
+  "name": "Elva",
+  "industry": ""
+ },
+ {
+  "name": "Gordon Keeble",
+  "industry": ""
+ },
+ {
+  "name": "Hillman",
+  "industry": ""
+ },
+ {
+  "name": "Humber",
+  "industry": ""
+ },
+ {
+  "name": "Jensen",
+  "industry": ""
+ },
+ {
+  "name": "Jowett",
+  "industry": ""
+ },
+ {
+  "name": "Lanchester",
+  "industry": ""
+ },
+ {
+  "name": "LDV",
+  "industry": ""
+ },
+ {
+  "name": "Marcos",
+  "industry": ""
+ },
+ {
+  "name": "Morris",
+  "industry": ""
+ },
+ {
+  "name": "Panther Westwinds",
+  "industry": ""
+ },
+ {
+  "name": "Reliant Motors",
+  "industry": ""
+ },
+ {
+  "name": "Riley",
+  "industry": ""
+ },
+ {
+  "name": "Rootes",
+  "industry": ""
+ },
+ {
+  "name": "Rover",
+  "industry": ""
+ },
+ {
+  "name": "Sharps Commercials Ltd",
+  "industry": ""
+ },
+ {
+  "name": "Singer",
+  "industry": ""
+ },
+ {
+  "name": "Standard",
+  "industry": ""
+ },
+ {
+  "name": "Sunbeam",
+  "industry": ""
+ },
+ {
+  "name": "Trident Cars",
+  "industry": ""
+ },
+ {
+  "name": "Triumph",
+  "industry": ""
+ },
+ {
+  "name": "Trojan",
+  "industry": ""
+ },
+ {
+  "name": "Vale Motor Company",
+  "industry": ""
+ },
+ {
+  "name": "Wolseley",
+  "industry": ""
+ },
+ {
+  "name": "All American Racers",
+  "industry": ""
+ },
+ {
+  "name": "AM General",
+  "industry": ""
+ },
+ {
+  "name": "Anteros Coachworks",
+  "industry": ""
+ },
+ {
+  "name": "Aptera",
+  "industry": ""
+ },
+ {
+  "name": "Arcimoto",
+  "industry": ""
+ },
+ {
+  "name": "Autocar",
+  "industry": ""
+ },
+ {
+  "name": "Blue Bird",
+  "industry": ""
+ },
+ {
+  "name": "Bremach",
+  "industry": ""
+ },
+ {
+  "name": "BrightDrop",
+  "industry": ""
+ },
+ {
+  "name": "Buick",
+  "industry": ""
+ },
+ {
+  "name": "Cadillac",
+  "industry": ""
+ },
+ {
+  "name": "Canoo",
+  "industry": ""
+ },
+ {
+  "name": "Czinger",
+  "industry": ""
+ },
+ {
+  "name": "Chevrolet",
+  "industry": ""
+ },
+ {
+  "name": "Chrysler",
+  "industry": ""
+ },
+ {
+  "name": "Chrysler (brand)",
+  "industry": ""
+ },
+ {
+  "name": "DDR Motorsport",
+  "industry": ""
+ },
+ {
+  "name": "Dodge",
+  "industry": ""
+ },
+ {
+  "name": "Drako Motors",
+  "industry": ""
+ },
+ {
+  "name": "ElDorado",
+  "industry": ""
+ },
+ {
+  "name": "ENC",
+  "industry": ""
+ },
+ {
+  "name": "Equus",
+  "industry": ""
+ },
+ {
+  "name": "Falcon Motorsports",
+  "industry": ""
+ },
+ {
+  "name": "Faraday",
+  "industry": ""
+ },
+ {
+  "name": "Fisker",
+  "industry": ""
+ },
+ {
+  "name": "Ford",
+  "industry": ""
+ },
+ {
+  "name": "Freightliner",
+  "industry": ""
+ },
+ {
+  "name": "Gillig",
+  "industry": ""
+ },
+ {
+  "name": "GM",
+  "industry": ""
+ },
+ {
+  "name": "GEM",
+  "industry": ""
+ },
+ {
+  "name": "GMC",
+  "industry": ""
+ },
+ {
+  "name": "Hennessey",
+  "industry": ""
+ },
+ {
+  "name": "IC Bus",
+  "industry": ""
+ },
+ {
+  "name": "Jeep",
+  "industry": ""
+ },
+ {
+  "name": "Karma",
+  "industry": ""
+ },
+ {
+  "name": "Kenworth",
+  "industry": ""
+ },
+ {
+  "name": "Lincoln",
+  "industry": ""
+ },
+ {
+  "name": "Lucid Motors",
+  "industry": ""
+ },
+ {
+  "name": "Mack",
+  "industry": ""
+ },
+ {
+  "name": "MCI",
+  "industry": ""
+ },
+ {
+  "name": "Navistar",
+  "industry": ""
+ },
+ {
+  "name": "Nikola Motor",
+  "industry": ""
+ },
+ {
+  "name": "Oshkosh",
+  "industry": ""
+ },
+ {
+  "name": "Panoz",
+  "industry": ""
+ },
+ {
+  "name": "Peterbilt",
+  "industry": ""
+ },
+ {
+  "name": "Pierce",
+  "industry": ""
+ },
+ {
+  "name": "Polaris",
+  "industry": ""
+ },
+ {
+  "name": "Ram",
+  "industry": ""
+ },
+ {
+  "name": "RAESR",
+  "industry": ""
+ },
+ {
+  "name": "Rezvani Motors",
+  "industry": ""
+ },
+ {
+  "name": "Rivian",
+  "industry": ""
+ },
+ {
+  "name": "Rossion",
+  "industry": ""
+ },
+ {
+  "name": "Saleen",
+  "industry": ""
+ },
+ {
+  "name": "SCG",
+  "industry": ""
+ },
+ {
+  "name": "Shelby",
+  "industry": ""
+ },
+ {
+  "name": "SSC",
+  "industry": ""
+ },
+ {
+  "name": "Tesla",
+  "industry": ""
+ },
+ {
+  "name": "Thomas Built Buses",
+  "industry": ""
+ },
+ {
+  "name": "Trion Supercars",
+  "industry": ""
+ },
+ {
+  "name": "VLF Automotive",
+  "industry": ""
+ },
+ {
+  "name": "Western Star",
+  "industry": ""
+ },
+ {
+  "name": "Workhorse",
+  "industry": ""
+ },
+ {
+  "name": "Adams-Farwell",
+  "industry": ""
+ },
+ {
+  "name": "Alco",
+  "industry": ""
+ },
+ {
+  "name": "AMC",
+  "industry": ""
+ },
+ {
+  "name": "Amplex",
+  "industry": ""
+ },
+ {
+  "name": "Apollo",
+  "industry": ""
+ },
+ {
+  "name": "Apperson",
+  "industry": ""
+ },
+ {
+  "name": "Aptera",
+  "industry": ""
+ },
+ {
+  "name": "ArBenz",
+  "industry": ""
+ },
+ {
+  "name": "Auburn",
+  "industry": ""
+ },
+ {
+  "name": "Avanti Motor Company",
+  "industry": ""
+ },
+ {
+  "name": "Baker Electric",
+  "industry": ""
+ },
+ {
+  "name": "Bates",
+  "industry": ""
+ },
+ {
+  "name": "Brush",
+  "industry": ""
+ },
+ {
+  "name": "Cartercar",
+  "industry": ""
+ },
+ {
+  "name": "Chalmers",
+  "industry": ""
+ },
+ {
+  "name": "Chandler",
+  "industry": ""
+ },
+ {
+  "name": "Chaparral Cars",
+  "industry": ""
+ },
+ {
+  "name": "Checker",
+  "industry": ""
+ },
+ {
+  "name": "Clénet",
+  "industry": ""
+ },
+ {
+  "name": "Cole",
+  "industry": ""
+ },
+ {
+  "name": "Columbia",
+  "industry": ""
+ },
+ {
+  "name": "Continental",
+  "industry": ""
+ },
+ {
+  "name": "Cord",
+  "industry": ""
+ },
+ {
+  "name": "Crawford",
+  "industry": ""
+ },
+ {
+  "name": "Crosley",
+  "industry": ""
+ },
+ {
+  "name": "Cutting",
+  "industry": ""
+ },
+ {
+  "name": "Daniels",
+  "industry": ""
+ },
+ {
+  "name": "Davis",
+  "industry": ""
+ },
+ {
+  "name": "Devon",
+  "industry": ""
+ },
+ {
+  "name": "DeLorean",
+  "industry": ""
+ },
+ {
+  "name": "DeSoto",
+  "industry": ""
+ },
+ {
+  "name": "Detroit Electric",
+  "industry": ""
+ },
+ {
+  "name": "Diamond Reo Trucks",
+  "industry": ""
+ },
+ {
+  "name": "Doble",
+  "industry": ""
+ },
+ {
+  "name": "Dorris",
+  "industry": ""
+ },
+ {
+  "name": "Dort",
+  "industry": ""
+ },
+ {
+  "name": "Duesenberg",
+  "industry": ""
+ },
+ {
+  "name": "Durant",
+  "industry": ""
+ },
+ {
+  "name": "Dymaxion",
+  "industry": ""
+ },
+ {
+  "name": "Eagle",
+  "industry": ""
+ },
+ {
+  "name": "Edsel",
+  "industry": ""
+ },
+ {
+  "name": "Elgin",
+  "industry": ""
+ },
+ {
+  "name": "Essex",
+  "industry": ""
+ },
+ {
+  "name": "Excalibur",
+  "industry": ""
+ },
+ {
+  "name": "Flint",
+  "industry": ""
+ },
+ {
+  "name": "Frazer",
+  "industry": ""
+ },
+ {
+  "name": "Frontenac",
+  "industry": ""
+ },
+ {
+  "name": "FCA",
+  "industry": ""
+ },
+ {
+  "name": "Gardner",
+  "industry": ""
+ },
+ {
+  "name": "Geo",
+  "industry": ""
+ },
+ {
+  "name": "Graham-Paige",
+  "industry": ""
+ },
+ {
+  "name": "GreenTech Automotive",
+  "industry": ""
+ },
+ {
+  "name": "Grumman",
+  "industry": ""
+ },
+ {
+  "name": "Haynes",
+  "industry": ""
+ },
+ {
+  "name": "Hudson",
+  "industry": ""
+ },
+ {
+  "name": "Hummer",
+  "industry": ""
+ },
+ {
+  "name": "Hupmobile",
+  "industry": ""
+ },
+ {
+  "name": "Hupp-Yeats",
+  "industry": ""
+ },
+ {
+  "name": "Imperial",
+  "industry": ""
+ },
+ {
+  "name": "International Harvester",
+  "industry": ""
+ },
+ {
+  "name": "Inter-State",
+  "industry": ""
+ },
+ {
+  "name": "Jackson",
+  "industry": ""
+ },
+ {
+  "name": "Jeffery",
+  "industry": ""
+ },
+ {
+  "name": "Kaiser",
+  "industry": ""
+ },
+ {
+  "name": "King",
+  "industry": ""
+ },
+ {
+  "name": "Kissel",
+  "industry": ""
+ },
+ {
+  "name": "Kline Kar",
+  "industry": ""
+ },
+ {
+  "name": "Knox",
+  "industry": ""
+ },
+ {
+  "name": "LaFayette",
+  "industry": ""
+ },
+ {
+  "name": "Laforza",
+  "industry": ""
+ },
+ {
+  "name": "Lambert",
+  "industry": ""
+ },
+ {
+  "name": "LaSalle",
+  "industry": ""
+ },
+ {
+  "name": "Lexington",
+  "industry": ""
+ },
+ {
+  "name": "Local",
+  "industry": ""
+ },
+ {
+  "name": "Locomobile",
+  "industry": ""
+ },
+ {
+  "name": "Lordstown Motors",
+  "industry": ""
+ },
+ {
+  "name": "Lozier",
+  "industry": ""
+ },
+ {
+  "name": "Lyons-Knight",
+  "industry": ""
+ },
+ {
+  "name": "Marmon",
+  "industry": "(Cars)",
+  "country": "Cars"
+ },
+ {
+  "name": "Marmon",
+  "industry": "(Trucks)",
+  "country": "Trucks"
+ },
+ {
+  "name": "Marmon-Herrington",
+  "industry": ""
+ },
+ {
+  "name": "Maxwell",
+  "industry": ""
+ },
+ {
+  "name": "McFarlan",
+  "industry": ""
+ },
+ {
+  "name": "Mercer",
+  "industry": ""
+ },
+ {
+  "name": "Mercury",
+  "industry": ""
+ },
+ {
+  "name": "Mitchell",
+  "industry": ""
+ },
+ {
+  "name": "Monarch",
+  "industry": ""
+ },
+ {
+  "name": "Monroe",
+  "industry": ""
+ },
+ {
+  "name": "Moon",
+  "industry": ""
+ },
+ {
+  "name": "Mosler",
+  "industry": ""
+ },
+ {
+  "name": "Nash",
+  "industry": ""
+ },
+ {
+  "name": "National",
+  "industry": ""
+ },
+ {
+  "name": "Nyberg",
+  "industry": ""
+ },
+ {
+  "name": "Oakland",
+  "industry": ""
+ },
+ {
+  "name": "Oldsmobile",
+  "industry": ""
+ },
+ {
+  "name": "Overland",
+  "industry": ""
+ },
+ {
+  "name": "Packard",
+  "industry": ""
+ },
+ {
+  "name": "Peerless",
+  "industry": ""
+ },
+ {
+  "name": "Pierce-Arrow",
+  "industry": ""
+ },
+ {
+  "name": "Pilot",
+  "industry": ""
+ },
+ {
+  "name": "Plymouth",
+  "industry": ""
+ },
+ {
+  "name": "Pontiac",
+  "industry": ""
+ },
+ {
+  "name": "Pope-Toledo",
+  "industry": ""
+ },
+ {
+  "name": "Pope-Tribune",
+  "industry": ""
+ },
+ {
+  "name": "Premier",
+  "industry": ""
+ },
+ {
+  "name": "Proterra",
+  "industry": ""
+ },
+ {
+  "name": "Pungs Finch",
+  "industry": ""
+ },
+ {
+  "name": "Rambler",
+  "industry": ""
+ },
+ {
+  "name": "Rauch and Lang",
+  "industry": ""
+ },
+ {
+  "name": "Regal",
+  "industry": ""
+ },
+ {
+  "name": "REO",
+  "industry": ""
+ },
+ {
+  "name": "Safari Coach",
+  "industry": ""
+ },
+ {
+  "name": "Saturn",
+  "industry": ""
+ },
+ {
+  "name": "Scion",
+  "industry": ""
+ },
+ {
+  "name": "Scripps-Booth",
+  "industry": ""
+ },
+ {
+  "name": "Simplex",
+  "industry": ""
+ },
+ {
+  "name": "Speedwell",
+  "industry": ""
+ },
+ {
+  "name": "Stanley",
+  "industry": ""
+ },
+ {
+  "name": "Star",
+  "industry": ""
+ },
+ {
+  "name": "Stearns-Knight",
+  "industry": ""
+ },
+ {
+  "name": "Sterling",
+  "industry": ""
+ },
+ {
+  "name": "Sterling Trucks",
+  "industry": ""
+ },
+ {
+  "name": "Stevens-Duryea",
+  "industry": ""
+ },
+ {
+  "name": "Stoddard-Dayton",
+  "industry": ""
+ },
+ {
+  "name": "Stout Motor Car Company",
+  "industry": ""
+ },
+ {
+  "name": "Studebaker",
+  "industry": ""
+ },
+ {
+  "name": "Stutz",
+  "industry": ""
+ },
+ {
+  "name": "TH!NK",
+  "industry": ""
+ },
+ {
+  "name": "Thomas",
+  "industry": ""
+ },
+ {
+  "name": "Tucker",
+  "industry": ""
+ },
+ {
+  "name": "Vector",
+  "industry": ""
+ },
+ {
+  "name": "VPG",
+  "industry": ""
+ },
+ {
+  "name": "Velie",
+  "industry": ""
+ },
+ {
+  "name": "Westcott",
+  "industry": ""
+ },
+ {
+  "name": "White",
+  "industry": ""
+ },
+ {
+  "name": "Willys",
+  "industry": ""
+ },
+ {
+  "name": "Zimmer",
+  "industry": ""
+ },
+ {
+  "name": "Effa",
+  "industry": ""
+ },
+ {
+  "name": "Indio",
+  "industry": ""
+ },
+ {
+  "name": "Sevel Uruguay",
+  "industry": ""
+ },
+ {
+  "name": "SAZ",
+  "industry": ""
+ },
+ {
+  "name": "GM Uzbekistan",
+  "industry": ""
+ },
+ {
+  "name": "Venirauto",
+  "industry": ""
+ },
+ {
+  "name": "Vinaxuki",
+  "industry": ""
+ }
+]

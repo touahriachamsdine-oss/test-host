@@ -1,0 +1,506 @@
+[
+ {
+  "name": "PsiQuantum",
+  "country": "United States",
+  "sub_domain": "Quantum computing",
+  "short_description": "PsiQuantum is a United States company working in nanotech and advanced materials — a space where Dow and SABIC set the reference bar, so newcomers must own a narrower niche.",
+  "technology": "materials synthesis, surface engineering and metrology",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/PsiQuantum",
+  "source_url": "https://en.wikipedia.org/wiki/PsiQuantum",
+  "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build nanotech and advanced materials products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "priority": "A",
+  "concept": "PsiQuantum is a United States company working in nanotech and advanced materials — a space where Dow and SABIC set the reference bar, so newcomers must own a narrower niche.",
+  "main_sellers": [
+   "BASF and DuPont",
+   "Dow and SABIC",
+   "Nanoco and Umicore"
+  ],
+  "team_rec": [
+   [
+    "Materials scientist",
+    2
+   ],
+   [
+    "Chemical engineer",
+    1
+   ],
+   [
+    "Process engineer",
+    1
+   ],
+   [
+    "Quality/metrology engineer",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "The realistic path starts with long sales cycles: secure a reference customer at a fair price, then sell the outcome, not the tool. a coating or membrane with a measurable advantage gives the team a defensible demo.",
+  "product_issues": "PsiQuantum competes against incumbents with deep integration and pricing power. The realistic risks are channel lock-in, long procurement cycles and a price war in the commodity tier.",
+  "algeria_value": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build nanotech and advanced materials products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "difficulty_score": 89,
+  "difficulty_breakdown": {
+   "technical": 40,
+   "capital": 31,
+   "regulatory": 9,
+   "market": 20
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "PsiQuantum شركة من United States تعمل في النانوتكنولوجيا والمواد المتقدمة — مجال يضع فيه Dow و SABIC المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "technology": "تخليق المواد وهندسة الأسطح والقياس الدقيق",
+    "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات النانوتكنولوجيا والمواد المتقدمة يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
+    "concept": "PsiQuantum شركة من United States تعمل في النانوتكنولوجيا والمواد المتقدمة — مجال يضع فيه Dow و SABIC المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "main_sellers": [
+     "BASF و DuPont",
+     "Dow و SABIC",
+     "Nanoco و Umicore"
+    ],
+    "team_rec": [
+     [
+      "عالم مواد",
+      2
+     ],
+     [
+      "مهندس كيميائي",
+      1
+     ],
+     [
+      "مهندس عمليات",
+      1
+     ],
+     [
+      "مهندس جودة/قياس",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "المسار الواقعي يبدأ بدورات مبيعات طويلة: احصل على عميل مرجعي بسعر عادل ثم بع النتيجة لا الأداة. طلاء أو غشاء بميزة قابلة للقياس يمنح الفريق عرضاً ملموساً.",
+    "product_issues": "يتنافس PsiQuantum ضد لاعبين راسخين يملكون تكاملاً عميقاً وقوة تسعيرية. المخاطر الواقعية: احتكار القنوات، دورات شراء طويلة، وحرب أسعار في الطبقة القياسية.",
+    "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات النانوتكنولوجيا والمواد المتقدمة يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
+   },
+   "fr": {
+    "short_description": "PsiQuantum est une entreprise de United States qui opère dans la nanotechnologie et les matériaux avancés, un espace où Dow et SABIC donnent le la : les entrants doivent viser une niche plus étroite.",
+    "technology": "synthèse de matériaux, ingénierie de surface et métrologie",
+    "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la nanotechnologie et les matériaux avancés peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
+    "concept": "PsiQuantum est une entreprise de United States qui opère dans la nanotechnologie et les matériaux avancés, un espace où Dow et SABIC donnent le la : les entrants doivent viser une niche plus étroite.",
+    "main_sellers": [
+     "BASF et DuPont",
+     "Dow et SABIC",
+     "Nanoco et Umicore"
+    ],
+    "team_rec": [
+     [
+      "Scientifique matériaux",
+      2
+     ],
+     [
+      "Ingénieur chimiste",
+      1
+     ],
+     [
+      "Ingénieur procédés",
+      1
+     ],
+     [
+      "Ingénieur qualité/métrologie",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Le chemin réaliste commence par de longs cycles de vente : décrochez un client de référence à un prix juste, puis vendez le résultat, pas l’outil. un revêtement ou une membrane à avantage mesurable donne à l’équipe une démo défendable.",
+    "product_issues": "PsiQuantum affronte des acteurs établis dotés d’intégration profonde et de pouvoir de prix. Risques réels : verrouillage des canaux, cycles d’achat longs, guerre des prix sur le segment générique.",
+    "algeria_value": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la nanotechnologie et les matériaux avancés peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux."
+   }
+  }
+ },
+ {
+  "name": "SandboxAQ",
+  "country": "United States",
+  "sub_domain": "Quantum technology, Artificial intelligence",
+  "short_description": "In the crowded field of nanotech and advanced materials, SandboxAQ differentiates by solving one problem end-to-end — a coating or membrane with a measurable advantage — instead of stacking horizontal features.",
+  "technology": "materials synthesis, surface engineering and metrology",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/SandboxAQ",
+  "source_url": "https://en.wikipedia.org/wiki/SandboxAQ",
+  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. SandboxAQ could localize its core for the Algerian context instead of adapting a foreign product.",
+  "priority": "A",
+  "concept": "In the crowded field of nanotech and advanced materials, SandboxAQ differentiates by solving one problem end-to-end — a coating or membrane with a measurable advantage — instead of stacking horizontal features.",
+  "main_sellers": [
+   "BASF and DuPont",
+   "Dow and SABIC",
+   "Nanoco and Umicore"
+  ],
+  "team_rec": [
+   [
+    "Materials scientist",
+    2
+   ],
+   [
+    "Chemical engineer",
+    1
+   ],
+   [
+    "Process engineer",
+    1
+   ],
+   [
+    "Quality/metrology engineer",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "The realistic path starts with long sales cycles: secure a reference customer at a fair price, then sell the outcome, not the tool. a coating or membrane with a measurable advantage gives the team a defensible demo.",
+  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate industry licensing and certification — the licensing and compliance layer.",
+  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. SandboxAQ could localize its core for the Algerian context instead of adapting a foreign product.",
+  "difficulty_score": 74,
+  "difficulty_breakdown": {
+   "technical": 33,
+   "capital": 26,
+   "regulatory": 7,
+   "market": 34
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "في ميدان النانوتكنولوجيا والمواد المتقدمة المزدحم، يميّز SandboxAQ نفسه بحل مشكلة واحدة من البداية للنهاية — طلاء أو غشاء بميزة قابلة للقياس — بدل إضافة ميزات أفقية.",
+    "technology": "تخليق المواد وهندسة الأسطح والقياس الدقيق",
+    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ SandboxAQ توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
+    "concept": "في ميدان النانوتكنولوجيا والمواد المتقدمة المزدحم، يميّز SandboxAQ نفسه بحل مشكلة واحدة من البداية للنهاية — طلاء أو غشاء بميزة قابلة للقياس — بدل إضافة ميزات أفقية.",
+    "main_sellers": [
+     "BASF و DuPont",
+     "Dow و SABIC",
+     "Nanoco و Umicore"
+    ],
+    "team_rec": [
+     [
+      "عالم مواد",
+      2
+     ],
+     [
+      "مهندس كيميائي",
+      1
+     ],
+     [
+      "مهندس عمليات",
+      1
+     ],
+     [
+      "مهندس جودة/قياس",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "المسار الواقعي يبدأ بدورات مبيعات طويلة: احصل على عميل مرجعي بسعر عادل ثم بع النتيجة لا الأداة. طلاء أو غشاء بميزة قابلة للقياس يمنح الفريق عرضاً ملموساً.",
+    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن ترخيص الصناعة والاعتماد — طبقة الترخيص والامتثال.",
+    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ SandboxAQ توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
+   },
+   "fr": {
+    "short_description": "Dans le champ saturé de la nanotechnologie et les matériaux avancés, SandboxAQ se distingue en résolvant un problème de bout en bout — un revêtement ou une membrane à avantage mesurable — plutôt qu’en empilant des fonctions horizontales.",
+    "technology": "synthèse de matériaux, ingénierie de surface et métrologie",
+    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. SandboxAQ pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
+    "concept": "Dans le champ saturé de la nanotechnologie et les matériaux avancés, SandboxAQ se distingue en résolvant un problème de bout en bout — un revêtement ou une membrane à avantage mesurable — plutôt qu’en empilant des fonctions horizontales.",
+    "main_sellers": [
+     "BASF et DuPont",
+     "Dow et SABIC",
+     "Nanoco et Umicore"
+    ],
+    "team_rec": [
+     [
+      "Scientifique matériaux",
+      2
+     ],
+     [
+      "Ingénieur chimiste",
+      1
+     ],
+     [
+      "Ingénieur procédés",
+      1
+     ],
+     [
+      "Ingénieur qualité/métrologie",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Le chemin réaliste commence par de longs cycles de vente : décrochez un client de référence à un prix juste, puis vendez le résultat, pas l’outil. un revêtement ou une membrane à avantage mesurable donne à l’équipe une démo défendable.",
+    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi licences et certifications métier — la couche licence et conformité.",
+    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. SandboxAQ pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
+   }
+  }
+ },
+ {
+  "name": "OCSiAl",
+  "country": "Luxembourg",
+  "sub_domain": "Nanotechnology",
+  "short_description": "Created to attack a specific pain point in nanotech and advanced materials, OCSiAl bets on a coating or membrane with a measurable advantage as the wedge chemical, energy and electronics manufacturers will actually buy.",
+  "technology": "materials synthesis, surface engineering and metrology",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/OCSiAl",
+  "source_url": "https://en.wikipedia.org/wiki/OCSiAl",
+  "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build nanotech and advanced materials products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "priority": "A",
+  "concept": "Created to attack a specific pain point in nanotech and advanced materials, OCSiAl bets on a coating or membrane with a measurable advantage as the wedge chemical, energy and electronics manufacturers will actually buy.",
+  "main_sellers": [
+   "BASF and DuPont",
+   "Dow and SABIC",
+   "Nanoco and Umicore"
+  ],
+  "team_rec": [
+   [
+    "Materials scientist",
+    2
+   ],
+   [
+    "Chemical engineer",
+    1
+   ],
+   [
+    "Process engineer",
+    1
+   ],
+   [
+    "Quality/metrology engineer",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "The realistic path starts with long sales cycles: secure a reference customer at a fair price, then sell the outcome, not the tool. a coating or membrane with a measurable advantage gives the team a defensible demo.",
+  "product_issues": "Hardware and data collection are the real bottlenecks: field failures are expensive, and without proprietary datasets the product converges to a commodity. Regulation (local safety and conformity standards) raises the floor but also slows iteration.",
+  "algeria_value": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build nanotech and advanced materials products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "difficulty_score": 79,
+  "difficulty_breakdown": {
+   "technical": 36,
+   "capital": 28,
+   "regulatory": 8,
+   "market": 28
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "OCSiAl أُنشئ لمعالجة نقطة ألم محددة في النانوتكنولوجيا والمواد المتقدمة، ويعتمد طلاء أو غشاء بميزة قابلة للقياس كمدخل سيجعله مصنّعي المواد الكيميائية والطاقة والإلكترونيات يشترون فعلاً.",
+    "technology": "تخليق المواد وهندسة الأسطح والقياس الدقيق",
+    "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات النانوتكنولوجيا والمواد المتقدمة يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
+    "concept": "OCSiAl أُنشئ لمعالجة نقطة ألم محددة في النانوتكنولوجيا والمواد المتقدمة، ويعتمد طلاء أو غشاء بميزة قابلة للقياس كمدخل سيجعله مصنّعي المواد الكيميائية والطاقة والإلكترونيات يشترون فعلاً.",
+    "main_sellers": [
+     "BASF و DuPont",
+     "Dow و SABIC",
+     "Nanoco و Umicore"
+    ],
+    "team_rec": [
+     [
+      "عالم مواد",
+      2
+     ],
+     [
+      "مهندس كيميائي",
+      1
+     ],
+     [
+      "مهندس عمليات",
+      1
+     ],
+     [
+      "مهندس جودة/قياس",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "المسار الواقعي يبدأ بدورات مبيعات طويلة: احصل على عميل مرجعي بسعر عادل ثم بع النتيجة لا الأداة. طلاء أو غشاء بميزة قابلة للقياس يمنح الفريق عرضاً ملموساً.",
+    "product_issues": "العتاد وجمع البيانات هما العقدة الحقيقية: إخفاقات الميدان مكلفة، وبدون بيانات خاصة يتقارب المنتج نحو سلعة. التنظيم (معايير السلامة والمطابقة المحلية) يرفع سقف الجودة لكنه يبطئ التكرار.",
+    "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات النانوتكنولوجيا والمواد المتقدمة يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
+   },
+   "fr": {
+    "short_description": "Créée pour un point de douleur précis dans la nanotechnologie et les matériaux avancés, OCSiAl mise sur un revêtement ou une membrane à avantage mesurable comme la porte d’entrée que fabricants chimiques, énergie et électronique achètera réellement.",
+    "technology": "synthèse de matériaux, ingénierie de surface et métrologie",
+    "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la nanotechnologie et les matériaux avancés peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
+    "concept": "Créée pour un point de douleur précis dans la nanotechnologie et les matériaux avancés, OCSiAl mise sur un revêtement ou une membrane à avantage mesurable comme la porte d’entrée que fabricants chimiques, énergie et électronique achètera réellement.",
+    "main_sellers": [
+     "BASF et DuPont",
+     "Dow et SABIC",
+     "Nanoco et Umicore"
+    ],
+    "team_rec": [
+     [
+      "Scientifique matériaux",
+      2
+     ],
+     [
+      "Ingénieur chimiste",
+      1
+     ],
+     [
+      "Ingénieur procédés",
+      1
+     ],
+     [
+      "Ingénieur qualité/métrologie",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Le chemin réaliste commence par de longs cycles de vente : décrochez un client de référence à un prix juste, puis vendez le résultat, pas l’outil. un revêtement ou une membrane à avantage mesurable donne à l’équipe une démo défendable.",
+    "product_issues": "Le matériel et la collecte de données sont les vrais goulots : les échecs terrain coûtent cher, et sans données propriétaires le produit devient un commodity. La régulation (normes locales de sécurité et de conformité) relève le plancher mais ralentit l’itération.",
+    "algeria_value": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la nanotechnologie et les matériaux avancés peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux."
+   }
+  }
+ },
+ {
+  "name": "IQM",
+  "country": "Finland",
+  "sub_domain": "Quantum Computing",
+  "short_description": "IQM operates in nanotech and advanced materials and competes on focus. Its bet is that a coating or membrane with a measurable advantage, built for chemical, energy and electronics manufacturers, beats a broad horizontal platform.",
+  "technology": "materials synthesis, surface engineering and metrology",
+  "year_founded": null,
+  "official_site": "https://en.wikipedia.org/wiki/IQM",
+  "source_url": "https://en.wikipedia.org/wiki/IQM",
+  "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build nanotech and advanced materials products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "priority": "A",
+  "concept": "IQM operates in nanotech and advanced materials and competes on focus. Its bet is that a coating or membrane with a measurable advantage, built for chemical, energy and electronics manufacturers, beats a broad horizontal platform.",
+  "main_sellers": [
+   "BASF and DuPont",
+   "Dow and SABIC",
+   "Nanoco and Umicore"
+  ],
+  "team_rec": [
+   [
+    "Materials scientist",
+    2
+   ],
+   [
+    "Chemical engineer",
+    1
+   ],
+   [
+    "Process engineer",
+    1
+   ],
+   [
+    "Quality/metrology engineer",
+    1
+   ],
+   [
+    "Founder/lead",
+    1
+   ]
+  ],
+  "build_approach": "The realistic path starts with long sales cycles: secure a reference customer at a fair price, then sell the outcome, not the tool. a coating or membrane with a measurable advantage gives the team a defensible demo.",
+  "product_issues": "IQM competes against incumbents with deep integration and pricing power. The realistic risks are channel lock-in, long procurement cycles and a price war in the commodity tier.",
+  "algeria_value": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build nanotech and advanced materials products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
+  "difficulty_score": 92,
+  "difficulty_breakdown": {
+   "technical": 41,
+   "capital": 32,
+   "regulatory": 9,
+   "market": 18
+  },
+  "source_tier": "S1",
+  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
+  "translations": {
+   "ar": {
+    "short_description": "IQM ينشط في النانوتكنولوجيا والمواد المتقدمة ويتنافس بالتركيز. رهانه أن طلاء أو غشاء بميزة قابلة للقياس المبنية لـ مصنّعي المواد الكيميائية والطاقة والإلكترونيات تتفوق على المنصات الأفقية الواسعة.",
+    "technology": "تخليق المواد وهندسة الأسطح والقياس الدقيق",
+    "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات النانوتكنولوجيا والمواد المتقدمة يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
+    "concept": "IQM ينشط في النانوتكنولوجيا والمواد المتقدمة ويتنافس بالتركيز. رهانه أن طلاء أو غشاء بميزة قابلة للقياس المبنية لـ مصنّعي المواد الكيميائية والطاقة والإلكترونيات تتفوق على المنصات الأفقية الواسعة.",
+    "main_sellers": [
+     "BASF و DuPont",
+     "Dow و SABIC",
+     "Nanoco و Umicore"
+    ],
+    "team_rec": [
+     [
+      "عالم مواد",
+      2
+     ],
+     [
+      "مهندس كيميائي",
+      1
+     ],
+     [
+      "مهندس عمليات",
+      1
+     ],
+     [
+      "مهندس جودة/قياس",
+      1
+     ],
+     [
+      "مؤسس/قائد",
+      1
+     ]
+    ],
+    "build_approach": "المسار الواقعي يبدأ بدورات مبيعات طويلة: احصل على عميل مرجعي بسعر عادل ثم بع النتيجة لا الأداة. طلاء أو غشاء بميزة قابلة للقياس يمنح الفريق عرضاً ملموساً.",
+    "product_issues": "يتنافس IQM ضد لاعبين راسخين يملكون تكاملاً عميقاً وقوة تسعيرية. المخاطر الواقعية: احتكار القنوات، دورات شراء طويلة، وحرب أسعار في الطبقة القياسية.",
+    "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات النانوتكنولوجيا والمواد المتقدمة يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
+   },
+   "fr": {
+    "short_description": "IQM évolue dans la nanotechnologie et les matériaux avancés et joue la carte de la concentration. Son pari : un revêtement ou une membrane à avantage mesurable, conçu pour fabricants chimiques, énergie et électronique, bat une plateforme horizontale trop large.",
+    "technology": "synthèse de matériaux, ingénierie de surface et métrologie",
+    "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la nanotechnologie et les matériaux avancés peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
+    "concept": "IQM évolue dans la nanotechnologie et les matériaux avancés et joue la carte de la concentration. Son pari : un revêtement ou une membrane à avantage mesurable, conçu pour fabricants chimiques, énergie et électronique, bat une plateforme horizontale trop large.",
+    "main_sellers": [
+     "BASF et DuPont",
+     "Dow et SABIC",
+     "Nanoco et Umicore"
+    ],
+    "team_rec": [
+     [
+      "Scientifique matériaux",
+      2
+     ],
+     [
+      "Ingénieur chimiste",
+      1
+     ],
+     [
+      "Ingénieur procédés",
+      1
+     ],
+     [
+      "Ingénieur qualité/métrologie",
+      1
+     ],
+     [
+      "Fondateur/lead",
+      1
+     ]
+    ],
+    "build_approach": "Le chemin réaliste commence par de longs cycles de vente : décrochez un client de référence à un prix juste, puis vendez le résultat, pas l’outil. un revêtement ou une membrane à avantage mesurable donne à l’équipe une démo défendable.",
+    "product_issues": "IQM affronte des acteurs établis dotés d’intégration profonde et de pouvoir de prix. Risques réels : verrouillage des canaux, cycles d’achat longs, guerre des prix sur le segment générique.",
+    "algeria_value": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la nanotechnologie et les matériaux avancés peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux."
+   }
+  }
+ }
+]

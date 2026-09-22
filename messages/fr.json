@@ -133,7 +133,22 @@
     "viewMapLabel": "Ouvrir dans OpenStreetMap",
     "breadcrumbHome": "Accueil",
     "breadcrumbDomain": "Domaine",
-    "breadcrumbSeparator": "/"
+    "breadcrumbSeparator": "/",
+    "sellersLabel": "Acteurs clés / paysage du marché",
+    "teamRecLabel": "Équipe fondatrice recommandée",
+    "teamTotalLabel": "{count, plural, =1 {# personne} other {# personnes}}",
+    "buildApproachLabel": "Comment nous l'aborderions",
+    "fixLabel": "Ce qu'on corrigerait pour le rendre 10× meilleur",
+    "algeriaValueLabel": "Pourquoi c'est important pour l'Algérie",
+    "difficultyLabel": "Difficulté de construction",
+    "difficultyLow": "Faible",
+    "difficultyMedium": "Moyenne",
+    "difficultyHigh": "Élevée",
+    "difficultyTech": "Technique",
+    "difficultyCapital": "Capital",
+    "difficultyRegulatory": "Réglementaire",
+    "difficultyMarket": "Marché",
+    "generatedNoteLabel": "Champs d'analyse générés par la plateforme à des fins pédagogiques."
   },
   "DomainValidation": {
     "label": "Validation",

@@ -330,21 +330,6 @@
     "longitude": 8.6724
   },
   {
-    "name": "AI21 Labs",
-    "country": "Israel",
-    "sub_domain": "LLM platforms",
-    "short_description": "Developer of the Jurassic and Jamba model families and AI writing tools.",
-    "technology": "Multi-architecture LLMs",
-    "year_founded": 2017,
-    "official_site": "https://ai21.com",
-    "priority": "C",
-    "why_relevant": "Long-standing Israeli pioneer in commercial LLMs.",
-    "history": "AI21 Labs was founded in Tel Aviv in 2017 by Amnon Shashua, Yoav Shoham and Ori Goshen. It launched the Jurassic language models and the Wordtune writing assistant, then released the Jamba hybrid SSM-Transformer architecture in 2024. The company raised over $300 million, reaching a $1.4 billion valuation in 2023, and remains a long-standing Israeli pioneer in commercial generative AI.",
-    "hq_city": "Tel Aviv",
-    "latitude": 32.0853,
-    "longitude": 34.7818
-  },
-  {
     "name": "Writer",
     "country": "United States",
     "sub_domain": "Enterprise generative AI",

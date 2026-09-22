@@ -1,0 +1,231 @@
+[
+ {
+  "valuation": "1",
+  "name": "USA",
+  "year": "399.99"
+ },
+ {
+  "valuation": "2",
+  "name": "SUI",
+  "year": "291.12"
+ },
+ {
+  "valuation": "3",
+  "name": "USA",
+  "year": "208.11"
+ },
+ {
+  "valuation": "4",
+  "name": "SUI",
+  "year": "202.09"
+ },
+ {
+  "valuation": "5",
+  "name": "USA",
+  "year": "201.80"
+ },
+ {
+  "valuation": "6",
+  "name": "USA",
+  "country": "https://www.equities.com/news/ultragenyx-pharmaceutical-inc-rare-breaks-into-new-52-week-high-on-december-14-session",
+  "year": "68.5"
+ },
+ {
+  "valuation": "7",
+  "name": "USA",
+  "year": "190.44"
+ },
+ {
+  "valuation": "8",
+  "name": "USA",
+  "year": "182.27"
+ },
+ {
+  "valuation": "9",
+  "name": "DEN",
+  "year": "161.99"
+ },
+ {
+  "valuation": "10",
+  "name": "USA",
+  "year": "158.30"
+ },
+ {
+  "valuation": "11",
+  "name": "USA",
+  "year": "137.85"
+ },
+ {
+  "valuation": "12",
+  "name": "USA",
+  "year": "129.79"
+ },
+ {
+  "valuation": "13",
+  "name": "GBR SWE",
+  "year": "129.44"
+ },
+ {
+  "valuation": "14",
+  "name": "FRA",
+  "year": "120.66"
+ },
+ {
+  "valuation": "15",
+  "name": "GBR",
+  "year": "90.15"
+ },
+ {
+  "valuation": "16",
+  "name": "USA",
+  "year": "88.81"
+ },
+ {
+  "valuation": "17",
+  "name": "USA",
+  "year": "75.97"
+ },
+ {
+  "valuation": "18",
+  "name": "USA",
+  "year": "71.93"
+ },
+ {
+  "valuation": "19",
+  "name": "JPN",
+  "year": "63.92"
+ },
+ {
+  "valuation": "20",
+  "name": "USA",
+  "year": "61.33"
+ },
+ {
+  "valuation": "21",
+  "name": "GER",
+  "year": "58.12"
+ },
+ {
+  "valuation": "22",
+  "name": "JPN",
+  "year": "56.78"
+ },
+ {
+  "valuation": "23",
+  "name": "USA",
+  "year": "53.51"
+ },
+ {
+  "valuation": "24",
+  "name": "USA",
+  "year": "52.52"
+ },
+ {
+  "valuation": "25",
+  "name": "USA",
+  "year": "38.66"
+ },
+ {
+  "valuation": "26",
+  "name": "USA",
+  "year": "33.52"
+ },
+ {
+  "valuation": "27",
+  "name": "USA",
+  "year": "34.44"
+ },
+ {
+  "valuation": "28",
+  "name": "JPN",
+  "year": "27.52"
+ },
+ {
+  "valuation": "29",
+  "name": "DEN",
+  "year": "25.53"
+ },
+ {
+  "valuation": "30",
+  "name": "JPN",
+  "year": "19.93"
+ },
+ {
+  "valuation": "31",
+  "name": "USA",
+  "year": "18.5"
+ },
+ {
+  "valuation": "32",
+  "name": "USA",
+  "year": "19.25"
+ },
+ {
+  "valuation": "33",
+  "name": "USA",
+  "year": "16.03"
+ },
+ {
+  "valuation": "34",
+  "name": "CHN",
+  "year": "34.20"
+ },
+ {
+  "valuation": "35",
+  "name": "GER",
+  "year": "62.52"
+ },
+ {
+  "valuation": "36",
+  "name": "USA",
+  "year": "14.2"
+ },
+ {
+  "valuation": "37",
+  "name": "USA",
+  "year": "11.2"
+ },
+ {
+  "valuation": "38",
+  "name": "CHN",
+  "year": "59.98"
+ },
+ {
+  "valuation": "39",
+  "name": "USA",
+  "year": "11.2"
+ },
+ {
+  "valuation": "40",
+  "name": "ROK",
+  "year": "40.90"
+ },
+ {
+  "valuation": "41",
+  "name": "USA"
+ },
+ {
+  "valuation": "42",
+  "name": "IND",
+  "year": "19.01"
+ },
+ {
+  "valuation": "43",
+  "name": "IND"
+ },
+ {
+  "valuation": "44",
+  "name": "IND",
+  "year": "11.75"
+ },
+ {
+  "valuation": "45",
+  "name": "ISR",
+  "year": "10.69"
+ },
+ {
+  "valuation": "46",
+  "name": "IND",
+  "year": "10.19"
+ }
+]

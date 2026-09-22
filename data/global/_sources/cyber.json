@@ -1,0 +1,546 @@
+[
+ {
+  "name": "Absolute Security",
+  "industry": ""
+ },
+ {
+  "name": "ADF Solutions",
+  "industry": ""
+ },
+ {
+  "name": "Aikido Security",
+  "industry": ""
+ },
+ {
+  "name": "Altor Networks",
+  "industry": ""
+ },
+ {
+  "name": "Anonymizer (company)",
+  "industry": ""
+ },
+ {
+  "name": "Arctic Wolf Networks",
+  "industry": ""
+ },
+ {
+  "name": "ARX (company)",
+  "industry": ""
+ },
+ {
+  "name": "AuthenTec",
+  "industry": ""
+ },
+ {
+  "name": "Barracuda Networks",
+  "industry": ""
+ },
+ {
+  "name": "Bitdefender",
+  "industry": ""
+ },
+ {
+  "name": "BlueTalon",
+  "industry": ""
+ },
+ {
+  "name": "Bromium",
+  "industry": ""
+ },
+ {
+  "name": "Bugcrowd",
+  "industry": ""
+ },
+ {
+  "name": "Canon IT Solutions",
+  "industry": ""
+ },
+ {
+  "name": "Cato Networks",
+  "industry": ""
+ },
+ {
+  "name": "Check Point",
+  "industry": ""
+ },
+ {
+  "name": "Checkmarx",
+  "industry": ""
+ },
+ {
+  "name": "Chronicle Security",
+  "industry": ""
+ },
+ {
+  "name": "Clavister",
+  "industry": ""
+ },
+ {
+  "name": "Columbitech",
+  "industry": ""
+ },
+ {
+  "name": "Comodo Cybersecurity",
+  "industry": ""
+ },
+ {
+  "name": "Core Security Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Credant Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Critical Start",
+  "industry": ""
+ },
+ {
+  "name": "CronLab",
+  "industry": ""
+ },
+ {
+  "name": "Crossbeam Systems",
+  "industry": ""
+ },
+ {
+  "name": "CrowdStrike",
+  "industry": ""
+ },
+ {
+  "name": "Cryptek",
+  "industry": ""
+ },
+ {
+  "name": "CyberArk",
+  "industry": ""
+ },
+ {
+  "name": "Cybereason",
+  "industry": ""
+ },
+ {
+  "name": "CyberHound",
+  "industry": ""
+ },
+ {
+  "name": "CyberTrust",
+  "industry": ""
+ },
+ {
+  "name": "Cylance",
+  "industry": ""
+ },
+ {
+  "name": "Cynet (company)",
+  "industry": ""
+ },
+ {
+  "name": "Cyveillance",
+  "industry": ""
+ },
+ {
+  "name": "DarkTrace",
+  "industry": ""
+ },
+ {
+  "name": "Dasient",
+  "industry": ""
+ },
+ {
+  "name": "Datto (company)",
+  "industry": ""
+ },
+ {
+  "name": "Deep Instinct",
+  "industry": ""
+ },
+ {
+  "name": "Druva",
+  "industry": ""
+ },
+ {
+  "name": "Emsisoft",
+  "industry": ""
+ },
+ {
+  "name": "ESafe",
+  "industry": ""
+ },
+ {
+  "name": "ESET",
+  "industry": ""
+ },
+ {
+  "name": "Exabeam",
+  "industry": ""
+ },
+ {
+  "name": "F5, Inc.",
+  "industry": ""
+ },
+ {
+  "name": "Fastly",
+  "industry": ""
+ },
+ {
+  "name": "Finjan Holdings",
+  "industry": ""
+ },
+ {
+  "name": "Fluid Attacks",
+  "industry": ""
+ },
+ {
+  "name": "Forcepoint",
+  "industry": ""
+ },
+ {
+  "name": "Forter",
+  "industry": ""
+ },
+ {
+  "name": "Fortinet",
+  "industry": ""
+ },
+ {
+  "name": "G Data CyberDefense",
+  "industry": ""
+ },
+ {
+  "name": "Gen Digital",
+  "industry": ""
+ },
+ {
+  "name": "General Dynamics Mission Systems",
+  "industry": ""
+ },
+ {
+  "name": "Guardian Analytics",
+  "industry": ""
+ },
+ {
+  "name": "HackerOne",
+  "industry": ""
+ },
+ {
+  "name": "HBGary",
+  "industry": ""
+ },
+ {
+  "name": "ImmuniWeb",
+  "industry": ""
+ },
+ {
+  "name": "Impermium",
+  "industry": ""
+ },
+ {
+  "name": "Imprivata",
+  "industry": ""
+ },
+ {
+  "name": "InfoSec Institute",
+  "industry": ""
+ },
+ {
+  "name": "Infysec",
+  "industry": ""
+ },
+ {
+  "name": "IID (company)",
+  "industry": ""
+ },
+ {
+  "name": "InterWorking Labs",
+  "industry": ""
+ },
+ {
+  "name": "IOActive",
+  "industry": ""
+ },
+ {
+  "name": "Itochu Techno-Solutions",
+  "industry": ""
+ },
+ {
+  "name": "JAL Infotec",
+  "industry": ""
+ },
+ {
+  "name": "Kaspersky Lab",
+  "industry": ""
+ },
+ {
+  "name": "Lastline",
+  "industry": ""
+ },
+ {
+  "name": "Librem",
+  "industry": ""
+ },
+ {
+  "name": "Loggly",
+  "industry": ""
+ },
+ {
+  "name": "LogLogic",
+  "industry": ""
+ },
+ {
+  "name": "LogRhythm",
+  "industry": ""
+ },
+ {
+  "name": "Mile2",
+  "industry": ""
+ },
+ {
+  "name": "Mitsui Knowledge Industry",
+  "industry": ""
+ },
+ {
+  "name": "Mocana",
+  "industry": ""
+ },
+ {
+  "name": "NEC",
+  "industry": ""
+ },
+ {
+  "name": "Netcraft",
+  "industry": ""
+ },
+ {
+  "name": "NetScreen Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Netwitness",
+  "industry": ""
+ },
+ {
+  "name": "Nexor",
+  "industry": ""
+ },
+ {
+  "name": "NitroSecurity",
+  "industry": ""
+ },
+ {
+  "name": "Nomura Research Institute",
+  "industry": ""
+ },
+ {
+  "name": "NowSecure",
+  "industry": ""
+ },
+ {
+  "name": "NS Solutions",
+  "industry": ""
+ },
+ {
+  "name": "OneLogin",
+  "industry": ""
+ },
+ {
+  "name": "OneSpan",
+  "industry": ""
+ },
+ {
+  "name": "OpenText",
+  "industry": ""
+ },
+ {
+  "name": "Optenet",
+  "industry": ""
+ },
+ {
+  "name": "Optiv",
+  "industry": ""
+ },
+ {
+  "name": "Palo Alto Networks",
+  "industry": ""
+ },
+ {
+  "name": "Penta Security",
+  "industry": ""
+ },
+ {
+  "name": "Pine64",
+  "industry": ""
+ },
+ {
+  "name": "Ping Identity",
+  "industry": ""
+ },
+ {
+  "name": "PrivateCore",
+  "industry": ""
+ },
+ {
+  "name": "Prolexic Technologies",
+  "industry": ""
+ },
+ {
+  "name": "Quick Heal",
+  "industry": ""
+ },
+ {
+  "name": "Quantum eMotion",
+  "industry": ""
+ },
+ {
+  "name": "Rapid7",
+  "industry": ""
+ },
+ {
+  "name": "RiskIQ",
+  "industry": ""
+ },
+ {
+  "name": "RSA Security",
+  "industry": ""
+ },
+ {
+  "name": "SCSK",
+  "industry": ""
+ },
+ {
+  "name": "Secunet Security Networks",
+  "industry": ""
+ },
+ {
+  "name": "Secureworks",
+  "industry": ""
+ },
+ {
+  "name": "Sendio",
+  "industry": ""
+ },
+ {
+  "name": "SentinelOne",
+  "industry": ""
+ },
+ {
+  "name": "Skyhigh Security",
+  "industry": ""
+ },
+ {
+  "name": "Snyk",
+  "industry": ""
+ },
+ {
+  "name": "SonicWall",
+  "industry": ""
+ },
+ {
+  "name": "Sony Global Solutions",
+  "industry": ""
+ },
+ {
+  "name": "Sophos",
+  "industry": ""
+ },
+ {
+  "name": "Splunk",
+  "industry": ""
+ },
+ {
+  "name": "SQ1 Security",
+  "industry": ""
+ },
+ {
+  "name": "Stonesoft Corporation",
+  "industry": ""
+ },
+ {
+  "name": "Sumo Logic",
+  "industry": ""
+ },
+ {
+  "name": "Synack",
+  "industry": ""
+ },
+ {
+  "name": "Synopsys",
+  "industry": ""
+ },
+ {
+  "name": "Tanium",
+  "industry": ""
+ },
+ {
+  "name": "Tenable, Inc.",
+  "industry": ""
+ },
+ {
+  "name": "ThreatConnect",
+  "industry": ""
+ },
+ {
+  "name": "TitanFile",
+  "industry": ""
+ },
+ {
+  "name": "Tiversa",
+  "industry": ""
+ },
+ {
+  "name": "Trend Micro",
+  "industry": ""
+ },
+ {
+  "name": "Trusteer",
+  "industry": ""
+ },
+ {
+  "name": "Tufin",
+  "industry": ""
+ },
+ {
+  "name": "Uniadex",
+  "industry": ""
+ },
+ {
+  "name": "Vectra AI",
+  "industry": ""
+ },
+ {
+  "name": "Venafi",
+  "industry": ""
+ },
+ {
+  "name": "VMware Carbon Black",
+  "industry": ""
+ },
+ {
+  "name": "WatchGuard",
+  "industry": ""
+ },
+ {
+  "name": "Web Sheriff",
+  "industry": ""
+ },
+ {
+  "name": "World Informatix Cyber Security",
+  "industry": ""
+ },
+ {
+  "name": "Xetron",
+  "industry": ""
+ },
+ {
+  "name": "YesWeHack",
+  "industry": ""
+ },
+ {
+  "name": "Zerodium",
+  "industry": ""
+ },
+ {
+  "name": "Zscaler",
+  "industry": ""
+ }
+]
