@@ -35,7 +35,7 @@ const prefixArg = args.indexOf('--prefix');
 const PREFIX = prefixArg >= 0 ? args[prefixArg + 1] : '';
 const ROW_FILTER = PREFIX
   ? `status = 'verified' AND id LIKE '${PREFIX}-%'`
-  : "status = 'verified' AND (id LIKE 'ae-%' OR id LIKE 'oh-%')";
+  : "status = 'verified' AND (id LIKE 'ae-%' OR id LIKE 'oh-%' OR id LIKE 'pt-%')";
 
 function readDatabaseUrl() {
   const env = fs.readFileSync(path.join(ROOT, '.env.local'), 'utf8');
