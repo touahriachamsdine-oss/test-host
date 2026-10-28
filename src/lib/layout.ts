@@ -1,4 +1,4 @@
-export type GridPreset = 'ledger' | 'stats' | 'domains' | 'cards';
+export type GridPreset = 'ledger' | 'stats' | 'domains' | 'cards' | 'units';
 
 export type GridColumns = {
   mobile: number;
@@ -13,6 +13,7 @@ export const GRID_PRESETS: Record<GridPreset, GridColumns> = {
   ledger: { mobile: 2, tablet: 4, desktop: 6, xl: 8 },
   stats: { mobile: 2, tablet: 4, desktop: 4, xl: 4 },
   domains: { mobile: 2, tablet: 3, desktop: 4, xl: 6 },
+  units: { mobile: 1, tablet: 2, desktop: 3, xl: 3 },
   cards: { mobile: 1, tablet: 2, desktop: 3, xl: 3 },
 };
 

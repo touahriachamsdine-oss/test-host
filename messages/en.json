@@ -9,7 +9,7 @@
     "edition": "Ed. 2026",
     "home": "Home",
     "browse": "Browse",
-    "domains": "Domains",
+    "units": "Units",
     "saved": "Saved",
     "openMenu": "Open menu",
     "closeMenu": "Close menu",
@@ -196,6 +196,38 @@
     "title": "Page not found",
     "text": "Sorry, the page you're looking for is unavailable or was rejected.",
     "home": "Back to home"
+  },
+  "Units": {
+    "title": "Explore by support unit",
+    "subtitle": "Six units take a project from first idea to a registered company.",
+    "count": "{count, plural, =0 {No projects} one {# project} other {# projects}}",
+    "focusLabel": "Focus areas",
+    "navLabel": "University support units",
+    "backToUnits": "All units"
+  },
+  "unitNames": {
+    "cde": "Entrepreneurship Development Centre",
+    "business-incubator": "University Business Incubator",
+    "cati": "Technology & Innovation Support Centre",
+    "blue-bleu": "University–Business Liaison Office",
+    "mia": "AI House",
+    "student-services": "Student Support & Digital Services"
+  },
+  "unitTaglines": {
+    "cde": "Spreads entrepreneurial thinking and trains students who hold projects and ideas.",
+    "business-incubator": "Physical and technical space that turns an idea into a marketable business.",
+    "cati": "Guides researchers and students through intellectual property and patents.",
+    "blue-bleu": "Builds strategic partnerships between the university and local industry.",
+    "mia": "A space for AI research and technology, and for its digital applications.",
+    "student-services": "Psychological support, digital services and teaching portals for campus life."
+  },
+  "unitDescriptions": {
+    "cde": "The centre spreads entrepreneurial thinking across the student body, then supports and trains students who hold a project or an idea so that it becomes a startup or a micro-enterprise.",
+    "business-incubator": "The incubator gives innovative projects a physical and technical space. It helps founders develop their business model and guides them until the product is ready for the market.",
+    "cati": "CATI supports researchers and students on intellectual property: patent searches, filings and the protection of the intellectual property rights attached to inventions and research.",
+    "blue-bleu": "The liaison office builds strategic partnerships between the university and the economic and industrial enterprises around it. It opens student internships and steers research topics towards the needs of companies and the market.",
+    "mia": "The AI House is dedicated to research and technology in artificial intelligence, and to encouraging digital applications built on it across the university.",
+    "student-services": "Psychological support centres, digital services and teaching portals that make campus life easier and carry the university’s administrative and pedagogical services online."
   },
   "domainNames": {
     "ai-computing": "AI & Advanced Computing",

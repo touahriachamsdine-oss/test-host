@@ -50,6 +50,13 @@ describe('responsive density contract', () => {
     expect(columnsFor(gridSpec(1280, 'domains'), 1280)).toBe(6);
   });
 
+  it('units: 1/2/3/3 across tiers', () => {
+    expect(columnsFor(gridSpec(375, 'units'), 375)).toBe(1);
+    expect(columnsFor(gridSpec(640, 'units'), 640)).toBe(2);
+    expect(columnsFor(gridSpec(1024, 'units'), 1024)).toBe(3);
+    expect(columnsFor(gridSpec(1280, 'units'), 1280)).toBe(3);
+  });
+
   it('cards: never collapses below 1; 1/2/3/3', () => {
     expect(columnsFor(gridSpec(320, 'cards'), 320)).toBe(1);
     expect(columnsFor(gridSpec(375, 'cards'), 375)).toBe(1);

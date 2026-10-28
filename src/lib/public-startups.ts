@@ -101,6 +101,19 @@ export async function getVerifiedByDomain(
   return withTranslations(rows.map(mapPublicStartup), locale);
 }
 
+export async function getVerifiedByDomains(
+  domains: string[],
+  locale: Locale = 'en'
+): Promise<PublicStartup[]> {
+  if (domains.length === 0) return [];
+  const indexes = domains.map((_, i) => `$${i + 1}`);
+  const rows = await query(
+    `SELECT ${selectColumns()} FROM startups WHERE ${PUBLIC_WHERE} AND domain IN (${indexes.join(',')}) ${ORDER}`,
+    [...domains]
+  );
+  return withTranslations(rows.map(mapPublicStartup), locale);
+}
+
 export async function searchVerifiedStartups(
   queryText = '',
   domain?: string,

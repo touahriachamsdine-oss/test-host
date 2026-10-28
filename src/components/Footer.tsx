@@ -24,8 +24,8 @@ export async function Footer() {
           <Link href="/browse" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
             {nav('browse')}
           </Link>
-          <Link href="/#domains" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
-            {nav('domains')}
+          <Link href="/units" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
+            {nav('units')}
           </Link>
         </nav>
 

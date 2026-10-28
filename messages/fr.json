@@ -9,7 +9,7 @@
     "edition": "Éd. 2026",
     "home": "Accueil",
     "browse": "Explorer",
-    "domains": "Domaines",
+    "units": "Dispositifs",
     "saved": "Enregistrées",
     "openMenu": "Ouvrir le menu",
     "closeMenu": "Fermer le menu",
@@ -196,6 +196,38 @@
     "title": "Page introuvable",
     "text": "Désolé, la page que vous cherchez est introuvable ou a été rejetée.",
     "home": "Retour à l'accueil"
+  },
+  "Units": {
+    "title": "Explorer par dispositif d'appui",
+    "subtitle": "Six dispositifs accompagnent un projet de l'idée initiale à la création d'entreprise.",
+    "count": "{count, plural, =0 {Aucun projet} one {# projet} other {# projets}}",
+    "focusLabel": "Domaines couverts",
+    "navLabel": "Dispositifs universitaires d'appui",
+    "backToUnits": "Tous les dispositifs"
+  },
+  "unitNames": {
+    "cde": "Centre de développement de l'entrepreneuriat",
+    "business-incubator": "Incubateur d'entreprises universitaire",
+    "cati": "Centre d'appui technologique et d'innovation",
+    "blue-bleu": "Bureau de liaison université-entreprises",
+    "mia": "Maison de l'intelligence artificielle",
+    "student-services": "Accompagnement et services numériques"
+  },
+  "unitTaglines": {
+    "cde": "Diffuse l'esprit entrepreneurial et forme les étudiants porteurs de projets et d'idées.",
+    "business-incubator": "Un espace matériel et technique qui transforme une idée en projet commercialisable.",
+    "cati": "Accompagne chercheurs et étudiants en propriété intellectuelle et en brevets.",
+    "blue-bleu": "Construit des partenariats stratégiques entre l'université et l'industrie locale.",
+    "mia": "Un espace dédié à la recherche et aux technologies d'IA et à leurs applications numériques.",
+    "student-services": "Soutien psychologique, services numériques et portails pédagogiques du campus."
+  },
+  "unitDescriptions": {
+    "cde": "Le centre diffuse l'esprit entrepreneurial auprès des étudiants, puis accompagne et forme les porteurs de projets et d'idées pour les concrétiser en startups ou en micro-entreprises.",
+    "business-incubator": "L'incubateur offre aux projets innovants un espace matériel et technique. Il aide les porteurs d'idées à développer leur modèle d'affaires et les oriente jusqu'à ce que le projet soit commercialisable.",
+    "cati": "Le CATI accompagne chercheurs et étudiants en propriété intellectuelle : recherche d'antériorité, dépôt de brevets et protection des droits de propriété intellectuelle des inventions et des travaux de recherche.",
+    "blue-bleu": "Le bureau construit des partenariats stratégiques entre l'université et les entreprises économiques et industrielles de son environnement. Il facilite les stages et oriente les sujets de recherche vers les besoins du marché et des entreprises.",
+    "mia": "La Maison de l'IA est consacrée à la recherche et aux technologies de l'intelligence artificielle, et à l'encouragement de ses applications numériques.",
+    "student-services": "Centres de soutien psychologique, services numériques et portails pédagogiques qui facilitent la vie universitaire et la numérisation des services."
   },
   "domainNames": {
     "ai-computing": "IA & Calcul avancé",

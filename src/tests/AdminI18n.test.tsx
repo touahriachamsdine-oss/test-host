@@ -130,13 +130,13 @@ const PUBLIC_KEYS = [
   'Navbar.brandTag',
   'Navbar.browse',
   'Navbar.closeMenu',
-  'Navbar.domains',
   'Navbar.edition',
   'Navbar.home',
   'Navbar.openMenu',
   'Navbar.saved',
   'Navbar.signIn',
   'Navbar.signOut',
+  'Navbar.units',
   'NotFound.home',
   'NotFound.text',
   'NotFound.title',
@@ -222,6 +222,12 @@ const PUBLIC_KEYS = [
   'Theme.light',
   'Theme.night',
   'Theme.system',
+  'Units.backToUnits',
+  'Units.count',
+  'Units.focusLabel',
+  'Units.navLabel',
+  'Units.subtitle',
+  'Units.title',
   'domainNames.agritech-foodtech',
   'domainNames.ai-computing',
   'domainNames.biotech-healthtech',
@@ -237,7 +243,25 @@ const PUBLIC_KEYS = [
   'domainNames.other-deep-tech',
   'domainNames.robotics',
   'domainNames.semiconductors',
-  'domainNames.space-aerospace'
+  'domainNames.space-aerospace',
+  'unitDescriptions.blue-bleu',
+  'unitDescriptions.business-incubator',
+  'unitDescriptions.cati',
+  'unitDescriptions.cde',
+  'unitDescriptions.mia',
+  'unitDescriptions.student-services',
+  'unitNames.blue-bleu',
+  'unitNames.business-incubator',
+  'unitNames.cati',
+  'unitNames.cde',
+  'unitNames.mia',
+  'unitNames.student-services',
+  'unitTaglines.blue-bleu',
+  'unitTaglines.business-incubator',
+  'unitTaglines.cati',
+  'unitTaglines.cde',
+  'unitTaglines.mia',
+  'unitTaglines.student-services'
 ];
 
 afterEach(() => cleanup());
@@ -273,7 +297,7 @@ describe('Admin console i18n', () => {
     const publicKeys = frKeys.filter((key) => !key.startsWith('Admin.')).sort();
     const adminKeys = frKeys.filter((key) => key.startsWith('Admin.'));
     expect(publicKeys).toEqual(PUBLIC_KEYS);
-    expect(publicKeys).toHaveLength(196);
+    expect(publicKeys).toHaveLength(220);
     expect(adminKeys).toHaveLength(215);
 
     const enAdmin = (flatten(en as unknown as Record<string, unknown>)).filter((key) => key.startsWith('Admin.'));
