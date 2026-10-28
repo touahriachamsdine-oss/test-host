@@ -3,11 +3,6 @@ import { notFound } from 'next/navigation';
 import { NextIntlClientProvider, hasLocale } from 'next-intl';
 import { getLocale, getTranslations } from 'next-intl/server';
 import { SessionProvider } from 'next-auth/react';
-import {
-  IBM_Plex_Mono,
-  IBM_Plex_Sans,
-  IBM_Plex_Sans_Arabic
-} from 'next/font/google';
 
 import { routing } from '@/i18n/routing';
 import { Navbar } from '@/components/Navbar';
@@ -15,26 +10,9 @@ import { Footer } from '@/components/Footer';
 import { AmbientBackground } from '@/components/AmbientBackground';
 import '../../globals.css';
 
-const plex = IBM_Plex_Sans({
-  subsets: ['latin', 'latin-ext'],
-  weight: ['400', '500', '600', '700'],
-  variable: '--font-plex',
-  display: 'swap'
-});
-
-const plexArabic = IBM_Plex_Sans_Arabic({
-  subsets: ['arabic', 'latin'],
-  weight: ['400', '500', '600', '700'],
-  variable: '--font-plex-arabic',
-  display: 'swap'
-});
-
-const plexMono = IBM_Plex_Mono({
-  subsets: ['latin', 'latin-ext'],
-  weight: ['400', '500', '600'],
-  variable: '--font-plex-mono',
-  display: 'swap'
-});
+const plexVariable = '--font-plex';
+const plexArabicVariable = '--font-plex-arabic';
+const plexMonoVariable = '--font-plex-mono';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -61,7 +39,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'} suppressHydrationWarning>
       <body
-        className={`${plex.variable} ${plexArabic.variable} ${plexMono.variable} font-sans bg-paper text-ink antialiased`}
+        className={`${plexVariable} ${plexArabicVariable} ${plexMonoVariable} font-sans bg-paper text-ink antialiased`}
       >
         <script
           dangerouslySetInnerHTML={{
