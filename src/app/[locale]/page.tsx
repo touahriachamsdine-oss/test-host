@@ -8,7 +8,7 @@ import { MarqueeStrip } from '@/components/MarqueeStrip';
 import { Reveal } from '@/components/Reveal';
 import { Link } from '@/i18n/navigation';
 import { DOMAINS } from '@/data/domains';
-import { getVerifiedStartups, countVerifiedByDomain, getPublicStats } from '@/lib/public-startups';
+import { getRecentStartups, countVerifiedByDomain, getPublicStats } from '@/lib/public-startups';
 import { buildSimilarMap } from '@/lib/similar';
 import type { Locale } from '@/i18n/routing';
 
@@ -18,13 +18,11 @@ export default async function HomePage() {
   const t = await getTranslations('Domains');
   const browseT = await getTranslations('Browse');
   const locale = (await getLocale()) as Locale;
-  const verified = await getVerifiedStartups(locale);
-  const counts = await countVerifiedByDomain();
-  const stats = await getPublicStats();
-  const recent = [...verified]
-    .filter((s) => s.yearFounded > 0)
-    .sort((a, b) => b.yearFounded - a.yearFounded)
-    .slice(0, 4);
+  const [recent, counts, stats] = await Promise.all([
+    getRecentStartups(4, locale),
+    countVerifiedByDomain(),
+    getPublicStats()
+  ]);
   const similar = buildSimilarMap(recent);
 
   return (

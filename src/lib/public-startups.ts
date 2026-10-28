@@ -58,6 +58,20 @@ export async function getVerifiedStartups(locale: Locale = 'en'): Promise<Public
   return withTranslations(rows.map(mapPublicStartup), locale);
 }
 
+export async function getRecentStartups(
+  limit = 4,
+  locale: Locale = 'en'
+): Promise<PublicStartup[]> {
+  const rows = await query(
+    `SELECT ${selectColumns()} FROM startups
+     WHERE ${PUBLIC_WHERE} AND year_founded IS NOT NULL
+     ORDER BY year_founded DESC, name
+     LIMIT $1`,
+    [limit]
+  );
+  return withTranslations(rows.map(mapPublicStartup), locale);
+}
+
 export async function getVerifiedById(
   id: string,
   locale: Locale = 'en'

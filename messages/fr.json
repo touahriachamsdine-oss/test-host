@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Startup Ideas DZ — Répertoire Deep-Tech Algérien",
-    "description": "Répertoire trilingue des startups deep-tech algériennes : IA, robotique, biotech, spatial et bien plus."
+    "title": "Startup Ideas DZ — Base de projets deep-tech",
+    "description": "Plus de 12 000 startups, brevets et projets open hardware vérifiés, répartis en 16 domaines deep-tech, avec localisation, équipe et problèmes à résoudre en Algérie."
   },
   "Navbar": {
     "brand": "Startup Ideas",
@@ -52,25 +52,25 @@
   "Hero": {
     "badge": "Deep-Tech · Algérie",
     "publication": "DZ / DT / 2026",
-    "title": "Découvrez les startups prometteuses",
+    "title": "Trouvez ce qui mérite d'être construit",
     "highlight": "en deep-tech",
-    "subtitle": "Une plateforme trilingue pour explorer les startups algériennes leaders en IA, robotique, biotech et spatial — toutes vérifiées.",
-    "searchPlaceholder": "Rechercher par nom, technologie ou domaine…",
+    "subtitle": "Douze mille startups, brevets et projets open hardware vérifiés, classés en seize domaines deep-tech. Chaque fiche indique où se trouve le projet, l'équipe nécessaire pour le reconstruire et les problèmes à résoudre pour qu'il fonctionne ici.",
+    "searchPlaceholder": "Rechercher un projet, une technologie ou un domaine…",
     "searchButton": "Rechercher",
-    "browseAll": "Explorer toutes les startups",
+    "browseAll": "Voir tous les projets",
     "editionLabel": "Édition",
-    "entriesLabel": "Références enregistrées",
-    "domainsLabel": "Domaines",
-    "teamsLabel": "Équipes"
+    "entriesLabel": "Projets indexés",
+    "domainsLabel": "Domaines deep-tech",
+    "teamsLabel": "Équipes universitaires"
   },
   "HowItWorks": {
-    "title": "Comment lire cet index",
-    "intro": "Chaque fiche est numérotée dans son domaine : un code de domaine, puis le numéro d'entrée (ex. AI · 014).",
+    "title": "Comment lire une fiche",
+    "intro": "Chaque projet porte un code de domaine et un numéro dans ce domaine — AI · 014 désigne la 14e entrée en intelligence artificielle. Ouvrez une fiche pour voir sa localisation, l'équipe requise, sa difficulté de reconstruction et ce qu'il faut corriger pour le rendre dix fois meilleur.",
     "priority": "Le carré indique la priorité stratégique :"
   },
   "Domains": {
     "title": "Explorer par domaine",
-    "subtitle": "Les domaines deep-tech qui façonnent le paysage d'innovation algérien.",
+    "subtitle": "Seize domaines, de l'IA et la robotique à l'eau, la santé et l'énergie.",
     "explore": "Explorer",
     "count": "{count, plural, =0 {Aucune initiative} one {# initiative} other {# initiatives}}"
   },
@@ -80,7 +80,7 @@
     "allPriorities": "Toutes les priorités",
     "backToHome": "Retour à l'accueil",
     "clear": "Effacer",
-    "emptyText": "Essayez un autre terme de recherche ou retirez le filtre de domaine.",
+    "emptyText": "Essayez un autre terme, ou retirez les filtres de domaine, de pays et d’année.",
     "emptyTitle": "Aucun résultat",
     "entries": "{count, plural, =0 {0 entrées} one {# entrée} other {# entrées}}",
     "filterLabel": "Filtrer par domaine",
@@ -89,9 +89,9 @@
     "previous": "Précédent",
     "results": "{count, plural, =0 {} one {(# résultat)} other {(# résultats)}}",
     "searchButton": "Rechercher",
-    "searchPlaceholder": "Rechercher par nom, technologie ou domaine…",
-    "subtitle": "Toutes les initiatives affichées ici sont vérifiées.",
-    "title": "Explorer les startups"
+    "searchPlaceholder": "Rechercher par nom, technologie ou problème…",
+    "subtitle": "Startups, brevets et projets open hardware vérifiés, issus de 134 pays. Filtrez par domaine, pays, priorité ou année de création.",
+    "title": "Tous les projets"
   },
   "Filters": {
     "title": "Filtres",
@@ -180,9 +180,9 @@
     "remove": "Retirer"
   },
   "Priority": {
-    "A": "Haute priorité",
-    "B": "Priorité moyenne",
-    "C": "Priorité standard"
+    "A": "Priorité A — à construire maintenant",
+    "B": "Priorité B — ensuite",
+    "C": "Priorité C — à surveiller"
   },
   "Status": {
     "verified": "Vérifié",

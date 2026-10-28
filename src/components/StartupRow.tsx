@@ -44,27 +44,33 @@ export function StartupRow({
       </span>
 
       <span className="min-w-0">
-        <span className="block text-[16px] font-semibold leading-6 tracking-tight text-ink transition-colors duration-[var(--dur-base)] group-hover:text-signal">
+        <span
+          className="block overflow-hidden text-[15px] font-semibold leading-6 tracking-tight text-ink transition-colors duration-[var(--dur-base)] group-hover:text-signal"
+          style={{ display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical' }}
+        >
           {startup.name}
         </span>
-        <span className="mt-0.5 block line-clamp-2 text-sm leading-5 text-ink/70">
-          {startup.shortDescription}
+        <span
+          className="mt-0.5 block overflow-hidden text-[13px] leading-[18px] text-ink/70"
+          style={{ display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical' }}
+        >
+          {startup.shortDescription && startup.shortDescription !== startup.name
+            ? startup.shortDescription
+            : ''}
         </span>
       </span>
 
       {similar && similar.length > 0 && (
-        <span className="block line-clamp-1 text-xs leading-4 text-ink/50">
-          {t('similarLabel')}{' '}
-          <span className="text-ink/50 underline decoration-line underline-offset-2">
-            {similar.join(', ')}
-          </span>
+        <span className="block truncate text-xs leading-4 text-ink/50">
+          {t('similarLabel')} {similar.slice(0, 2).join(', ')}
         </span>
       )}
 
       <span className="mt-auto flex min-w-0 items-center gap-2 text-sm leading-5 text-ink/60">
         <span className="min-w-0 truncate">
-          {startup.hqCity ? `${startup.hqCity}, ` : ''}
-          {startup.country}
+          {startup.hqCity && startup.hqCity !== startup.country
+            ? `${startup.hqCity}, ${startup.country}`
+            : startup.country}
           {startup.yearFounded > 0 ? `, ${startup.yearFounded}` : ''}
         </span>
         <span

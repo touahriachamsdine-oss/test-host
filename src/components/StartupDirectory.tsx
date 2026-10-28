@@ -175,7 +175,7 @@ export async function StartupDirectory({
           <p className="mt-1 text-sm text-ink/60">{t('emptyText')}</p>
         </div>
       ) : (
-        <ResultsGrid preset="ledger" className="mt-4">
+        <ResultsGrid preset="directory" className="mt-4">
           {startups.map((startup) => (
             <StartupRow key={startup.id} startup={startup} similar={similar[startup.id]} />
           ))}

@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Startup Ideas DZ — Algerian Deep-Tech Directory",
-    "description": "A trilingual directory of Algerian deep-tech startups: AI, robotics, biotech, space and more."
+    "title": "Startup Ideas DZ — Deep-Tech Project Base",
+    "description": "Over 12,000 verified startups, patents and open-hardware projects across 16 deep-tech domains, with location, team and the problems worth solving in Algeria."
   },
   "Navbar": {
     "brand": "Startup Ideas",
@@ -52,25 +52,25 @@
   "Hero": {
     "badge": "Deep-Tech · Algeria",
     "publication": "DZ / DT / 2026",
-    "title": "Discover promising startups",
+    "title": "Find what's worth building",
     "highlight": "in deep-tech",
-    "subtitle": "A trilingual platform to explore Algeria's leading startups in AI, robotics, biotech and space — all verified.",
-    "searchPlaceholder": "Search by name, technology or domain…",
+    "subtitle": "Twelve thousand verified startups, patents and open-hardware projects, sorted into sixteen deep-tech domains. Every record shows where it is, the team it takes to rebuild it, and the problems to solve before it works here.",
+    "searchPlaceholder": "Search a project, a technology or a field…",
     "searchButton": "Search",
-    "browseAll": "Browse all startups",
+    "browseAll": "Browse all projects",
     "editionLabel": "Edition",
-    "entriesLabel": "Registered references",
-    "domainsLabel": "Domains",
-    "teamsLabel": "Teams"
+    "entriesLabel": "Projects indexed",
+    "domainsLabel": "Deep-tech domains",
+    "teamsLabel": "University teams"
   },
   "HowItWorks": {
-    "title": "How to read this index",
-    "intro": "Each record is numbered within its domain — a domain code, then the entry number (e.g. AI · 014).",
+    "title": "How to read a record",
+    "intro": "Each project carries a domain code and a number inside that domain — AI · 014 is entry 14 in artificial intelligence. Open a record for its location on the map, the team it needs, how hard it is to rebuild, and what to fix to make it ten times better.",
     "priority": "The square marks the strategic priority:"
   },
   "Domains": {
     "title": "Explore by domain",
-    "subtitle": "Deep-tech domains shaping Algeria's innovation landscape.",
+    "subtitle": "Sixteen fields, from AI and robotics to water, health and energy.",
     "explore": "Explore",
     "count": "{count, plural, =0 {No initiatives} one {# initiative} other {# initiatives}}"
   },
@@ -80,7 +80,7 @@
     "allPriorities": "All priorities",
     "backToHome": "Back to home",
     "clear": "Clear",
-    "emptyText": "Try another search term or remove the domain filter.",
+    "emptyText": "Try another search term, or clear the domain, country and year filters.",
     "emptyTitle": "No results",
     "entries": "{count, plural, =0 {0 entries} one {# entry} other {# entries}}",
     "filterLabel": "Filter by domain",
@@ -89,9 +89,9 @@
     "previous": "Previous",
     "results": "{count, plural, =0 {} one {(# result)} other {(# results)}}",
     "searchButton": "Search",
-    "searchPlaceholder": "Search by name, technology or domain…",
-    "subtitle": "All initiatives displayed here are verified.",
-    "title": "Browse startups"
+    "searchPlaceholder": "Search by name, technology or problem…",
+    "subtitle": "Verified startups, patents and open-hardware projects from 134 countries. Filter by domain, country, priority or founding year.",
+    "title": "All projects"
   },
   "Filters": {
     "title": "Filters",
@@ -180,9 +180,9 @@
     "remove": "Remove"
   },
   "Priority": {
-    "A": "High priority",
-    "B": "Medium priority",
-    "C": "Standard priority"
+    "A": "Priority A — build now",
+    "B": "Priority B — build next",
+    "C": "Priority C — watch"
   },
   "Status": {
     "verified": "Verified",

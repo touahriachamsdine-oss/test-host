@@ -1,4 +1,4 @@
-export type GridPreset = 'ledger' | 'stats' | 'domains' | 'cards' | 'units';
+export type GridPreset = 'ledger' | 'stats' | 'domains' | 'cards' | 'units' | 'directory';
 
 export type GridColumns = {
   mobile: number;
@@ -15,6 +15,7 @@ export const GRID_PRESETS: Record<GridPreset, GridColumns> = {
   domains: { mobile: 2, tablet: 3, desktop: 4, xl: 6 },
   units: { mobile: 1, tablet: 2, desktop: 3, xl: 3 },
   cards: { mobile: 1, tablet: 2, desktop: 3, xl: 3 },
+  directory: { mobile: 1, tablet: 2, desktop: 3, xl: 4 },
 };
 
 export const BREAKPOINT_TIERS: Array<{ min: number; tier: BreakpointTier }> = [
