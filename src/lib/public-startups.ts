@@ -275,15 +275,24 @@ export async function getPublicStats(): Promise<{
   entries: number;
   domains: number;
   teams: number;
+  countries: number;
+  mapped: number;
 }> {
-  const entriesRows = await query<{ count: string }>(
-    `SELECT COUNT(*)::text AS count FROM startups WHERE ${PUBLIC_WHERE}`
-  );
-  const teamsRows = await query<{ count: string }>(`SELECT COUNT(*)::text AS count FROM teams`);
+  const [entriesRows, teamsRows] = await Promise.all([
+    query<{ entries: string; countries: string; mapped: string }>(
+      `SELECT COUNT(*)::text AS entries,
+              COUNT(DISTINCT country)::text AS countries,
+              COUNT(*) FILTER (WHERE latitude IS NOT NULL)::text AS mapped
+       FROM startups WHERE ${PUBLIC_WHERE}`
+    ),
+    query<{ count: string }>(`SELECT COUNT(*)::text AS count FROM teams`)
+  ]);
   return {
-    entries: Number(entriesRows[0].count),
+    entries: Number(entriesRows[0].entries),
     domains: DOMAINS.length,
-    teams: Number(teamsRows[0].count)
+    teams: Number(teamsRows[0].count),
+    countries: Number(entriesRows[0].countries),
+    mapped: Number(entriesRows[0].mapped)
   };
 }
 

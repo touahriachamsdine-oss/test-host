@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Startup Ideas DZ — Base de projets deep-tech",
-    "description": "Plus de 12 000 startups, brevets et projets open hardware vérifiés, répartis en 16 domaines deep-tech, avec localisation, équipe et problèmes à résoudre en Algérie."
+    "title": "Startup Ideas DZ — Base de projets de deep tech",
+    "description": "Une base documentée de 12 660 startups, brevets et projets de matériel libre répartis en seize domaines de deep tech, avec localisation, équipe requise et verrous techniques à lever."
   },
   "Navbar": {
     "brand": "Startup Ideas",
@@ -50,27 +50,29 @@
     "night": "Nuit"
   },
   "Hero": {
-    "badge": "Deep-Tech · Algérie",
+    "badge": "Deep tech · Algérie",
     "publication": "DZ / DT / 2026",
-    "title": "Trouvez ce qui mérite d'être construit",
-    "highlight": "en deep-tech",
-    "subtitle": "Douze mille startups, brevets et projets open hardware vérifiés, classés en seize domaines deep-tech. Chaque fiche indique où se trouve le projet, l'équipe nécessaire pour le reconstruire et les problèmes à résoudre pour qu'il fonctionne ici.",
+    "title": "Une base documentée de projets de deep tech",
+    "highlight": "pour les équipes universitaires",
+    "subtitle": "12 660 startups, brevets et projets de matériel libre, classés en seize domaines de deep tech. Chaque fiche documente la localisation du projet, l'équipe nécessaire à sa reconstitution, les verrous techniques à lever et sa pertinence pour l'économie algérienne.",
     "searchPlaceholder": "Rechercher un projet, une technologie ou un domaine…",
     "searchButton": "Rechercher",
-    "browseAll": "Voir tous les projets",
+    "browseAll": "Consulter le répertoire des projets",
     "editionLabel": "Édition",
-    "entriesLabel": "Projets indexés",
-    "domainsLabel": "Domaines deep-tech",
-    "teamsLabel": "Équipes universitaires"
+    "entriesLabel": "Projets documentés",
+    "domainsLabel": "Domaines de deep tech",
+    "teamsLabel": "Équipes universitaires",
+    "countriesLabel": "Pays représentés",
+    "mappedLabel": "Projets cartographiés"
   },
   "HowItWorks": {
     "title": "Comment lire une fiche",
-    "intro": "Chaque projet porte un code de domaine et un numéro dans ce domaine — AI · 014 désigne la 14e entrée en intelligence artificielle. Ouvrez une fiche pour voir sa localisation, l'équipe requise, sa difficulté de reconstruction et ce qu'il faut corriger pour le rendre dix fois meilleur.",
+    "intro": "Chaque fiche porte un code de domaine et un numéro d'ordre dans ce domaine : AI · 014 désigne la quatorzième entrée en intelligence artificielle. La fiche documente la localisation du projet, l'équipe nécessaire à sa reconstitution, sa difficulté de réimplémentation et les améliorations à apporter pour le rendre compétitif.",
     "priority": "Le carré indique la priorité stratégique :"
   },
   "Domains": {
     "title": "Explorer par domaine",
-    "subtitle": "Seize domaines, de l'IA et la robotique à l'eau, la santé et l'énergie.",
+    "subtitle": "Seize domaines de deep tech, de l'intelligence artificielle et la robotique à l'eau, la santé et l'énergie.",
     "explore": "Explorer",
     "count": "{count, plural, =0 {Aucune initiative} one {# initiative} other {# initiatives}}"
   },
@@ -80,7 +82,7 @@
     "allPriorities": "Toutes les priorités",
     "backToHome": "Retour à l'accueil",
     "clear": "Effacer",
-    "emptyText": "Essayez un autre terme, ou retirez les filtres de domaine, de pays et d’année.",
+    "emptyText": "Essayez un autre terme, ou effacez les filtres de domaine, de pays et d’année.",
     "emptyTitle": "Aucun résultat",
     "entries": "{count, plural, =0 {0 entrées} one {# entrée} other {# entrées}}",
     "filterLabel": "Filtrer par domaine",
@@ -90,8 +92,8 @@
     "results": "{count, plural, =0 {} one {(# résultat)} other {(# résultats)}}",
     "searchButton": "Rechercher",
     "searchPlaceholder": "Rechercher par nom, technologie ou problème…",
-    "subtitle": "Startups, brevets et projets open hardware vérifiés, issus de 134 pays. Filtrez par domaine, pays, priorité ou année de création.",
-    "title": "Tous les projets"
+    "subtitle": "Une base vérifiée de startups, brevets et projets de matériel libre issus de 124 pays. Filtrez par domaine, pays, priorité ou année de création.",
+    "title": "Répertoire des projets"
   },
   "Filters": {
     "title": "Filtres",
@@ -181,9 +183,9 @@
     "title": "Startups enregistrées"
   },
   "Priority": {
-    "A": "Priorité A — à construire maintenant",
-    "B": "Priorité B — ensuite",
-    "C": "Priorité C — à surveiller"
+    "A": "Priorité A — immédiate",
+    "B": "Priorité B — conditionnelle",
+    "C": "Priorité C — veille"
   },
   "Status": {
     "verified": "Vérifié",
@@ -191,7 +193,7 @@
     "rejected": "Rejeté"
   },
   "Footer": {
-    "tagline": "Répertoire ouvert, trilingue, des initiatives deep-tech en Algérie.",
+    "tagline": "Un répertoire ouvert et trilingue des initiatives de deep tech en Algérie.",
     "exploreTitle": "Explorer",
     "rights": "Tous droits réservés.",
     "legalTitle": "Légal",

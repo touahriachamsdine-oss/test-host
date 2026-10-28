@@ -6,7 +6,7 @@ import { StatsStrip } from '@/components/StatsStrip';
 export async function Hero({
   stats
 }: {
-  stats: { entries: number; domains: number; teams: number };
+  stats: { entries: number; domains: number; teams: number; countries: number; mapped: number };
 }) {
   const t = await getTranslations('Hero');
   const locale = await getLocale();
@@ -16,8 +16,8 @@ export async function Hero({
   const ledger = [
     { label: t('entriesLabel'), value: nf.format(stats.entries) },
     { label: t('domainsLabel'), value: nf.format(stats.domains) },
-    { label: t('teamsLabel'), value: nf.format(stats.teams) },
-    { label: t('editionLabel'), value: t('publication') }
+    { label: t('countriesLabel'), value: nf.format(stats.countries) },
+    { label: t('mappedLabel'), value: nf.format(stats.mapped) }
   ];
 
   return (

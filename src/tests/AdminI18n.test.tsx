@@ -115,10 +115,12 @@ const PUBLIC_KEYS = [
   'Footer.tagline',
   'Hero.badge',
   'Hero.browseAll',
+  'Hero.countriesLabel',
   'Hero.domainsLabel',
   'Hero.editionLabel',
   'Hero.entriesLabel',
   'Hero.highlight',
+  'Hero.mappedLabel',
   'Hero.publication',
   'Hero.searchButton',
   'Hero.searchPlaceholder',
@@ -321,7 +323,7 @@ describe('Admin console i18n', () => {
     const publicKeys = frKeys.filter((key) => !key.startsWith('Admin.')).sort();
     const adminKeys = frKeys.filter((key) => key.startsWith('Admin.'));
     expect(publicKeys).toEqual(PUBLIC_KEYS);
-    expect(publicKeys).toHaveLength(244);
+    expect(publicKeys).toHaveLength(246);
     expect(adminKeys).toHaveLength(215);
 
     const enAdmin = (flatten(en as unknown as Record<string, unknown>)).filter((key) => key.startsWith('Admin.'));

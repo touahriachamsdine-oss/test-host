@@ -1,6 +1,7 @@
 import Link from 'next/link';
-import { getTranslations } from 'next-intl/server';
+import { getLocale, getTranslations } from 'next-intl/server';
 import { DOMAINS } from '@/data/domains';
+import { countryLabel } from '@/lib/countries';
 import { StartupRow } from '@/components/StartupRow';
 import { ResultsGrid } from '@/components/ResultsGrid';
 import { buildSimilarMap } from '@/lib/similar';
@@ -56,6 +57,7 @@ export async function StartupDirectory({
   const t = await getTranslations('Browse');
   const filtersT = await getTranslations('Filters');
   const domainNames = await getTranslations('domainNames');
+  const locale = await getLocale();
   const sortT = await getTranslations('Sort');
   const similar = buildSimilarMap(startups);
 
@@ -105,7 +107,7 @@ export async function StartupDirectory({
               <option value="all">{t('allCountries')}</option>
               {facets.countries.map((country) => (
                 <option key={country} value={country}>
-                  {country}
+                  {countryLabel(country, locale)}
                 </option>
               ))}
             </select>

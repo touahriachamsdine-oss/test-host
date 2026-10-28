@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Startup Ideas DZ — Deep-Tech Project Base",
-    "description": "Over 12,000 verified startups, patents and open-hardware projects across 16 deep-tech domains, with location, team and the problems worth solving in Algeria."
+    "title": "Startup Ideas DZ — Deep-Technology Project Base",
+    "description": "A documented base of 12,660 startups, patents and open-hardware projects across sixteen deep-technology fields, with location, required team and the technical obstacles to resolve."
   },
   "Navbar": {
     "brand": "Startup Ideas",
@@ -50,27 +50,29 @@
     "night": "Night"
   },
   "Hero": {
-    "badge": "Deep-Tech · Algeria",
+    "badge": "Deep technology · Algeria",
     "publication": "DZ / DT / 2026",
-    "title": "Find what's worth building",
-    "highlight": "in deep-tech",
-    "subtitle": "Twelve thousand verified startups, patents and open-hardware projects, sorted into sixteen deep-tech domains. Every record shows where it is, the team it takes to rebuild it, and the problems to solve before it works here.",
-    "searchPlaceholder": "Search a project, a technology or a field…",
+    "title": "A documented base of deep-technology projects",
+    "highlight": "for university teams",
+    "subtitle": "12,660 startups, patents and open-hardware projects, classified into sixteen deep-technology fields. Each record documents the project's location, the team required to rebuild it, the technical obstacles to resolve, and its relevance to the Algerian economy.",
+    "searchPlaceholder": "Search by project, technology or field…",
     "searchButton": "Search",
-    "browseAll": "Browse all projects",
+    "browseAll": "Browse the project directory",
     "editionLabel": "Edition",
-    "entriesLabel": "Projects indexed",
-    "domainsLabel": "Deep-tech domains",
-    "teamsLabel": "University teams"
+    "entriesLabel": "Projects documented",
+    "domainsLabel": "Deep-technology fields",
+    "teamsLabel": "University teams",
+    "countriesLabel": "Countries represented",
+    "mappedLabel": "Projects mapped"
   },
   "HowItWorks": {
     "title": "How to read a record",
-    "intro": "Each project carries a domain code and a number inside that domain — AI · 014 is entry 14 in artificial intelligence. Open a record for its location on the map, the team it needs, how hard it is to rebuild, and what to fix to make it ten times better.",
-    "priority": "The square marks the strategic priority:"
+    "intro": "Each record carries a field code and a sequence number within that field: AI · 014 designates the fourteenth entry in artificial intelligence. The record documents the project's location, the team required to rebuild it, its rebuild difficulty, and the improvements needed to make it competitive.",
+    "priority": "The square indicates the strategic priority:"
   },
   "Domains": {
-    "title": "Explore by domain",
-    "subtitle": "Sixteen fields, from AI and robotics to water, health and energy.",
+    "title": "Explore by field",
+    "subtitle": "Sixteen deep-technology fields, from artificial intelligence and robotics to water, health and energy.",
     "explore": "Explore",
     "count": "{count, plural, =0 {No initiatives} one {# initiative} other {# initiatives}}"
   },
@@ -80,7 +82,7 @@
     "allPriorities": "All priorities",
     "backToHome": "Back to home",
     "clear": "Clear",
-    "emptyText": "Try another search term, or clear the domain, country and year filters.",
+    "emptyText": "Try another search term, or clear the field, country and year filters.",
     "emptyTitle": "No results",
     "entries": "{count, plural, =0 {0 entries} one {# entry} other {# entries}}",
     "filterLabel": "Filter by domain",
@@ -90,8 +92,8 @@
     "results": "{count, plural, =0 {} one {(# result)} other {(# results)}}",
     "searchButton": "Search",
     "searchPlaceholder": "Search by name, technology or problem…",
-    "subtitle": "Verified startups, patents and open-hardware projects from 134 countries. Filter by domain, country, priority or founding year.",
-    "title": "All projects"
+    "subtitle": "A verified base of startups, patents and open-hardware projects from 124 countries. Filter by field, country, priority or founding year.",
+    "title": "Project directory"
   },
   "Filters": {
     "title": "Filters",
@@ -181,9 +183,9 @@
     "title": "Saved startups"
   },
   "Priority": {
-    "A": "Priority A — build now",
-    "B": "Priority B — build next",
-    "C": "Priority C — watch"
+    "A": "Priority A — immediate",
+    "B": "Priority B — conditional",
+    "C": "Priority C — watchlist"
   },
   "Status": {
     "verified": "Verified",
@@ -191,7 +193,7 @@
     "rejected": "Rejected"
   },
   "Footer": {
-    "tagline": "An open, trilingual directory of deep-tech initiatives in Algeria.",
+    "tagline": "An open trilingual directory of deep-technology initiatives in Algeria.",
     "exploreTitle": "Explore",
     "rights": "All rights reserved.",
     "legalTitle": "Legal",
