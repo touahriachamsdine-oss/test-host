@@ -36,6 +36,11 @@ yarn-error.log*
 # database backups
 /backups/
 
+# translation pipeline scratch data
+/translation-cache/
+/translation-work/
+tmp-*.log
+
 # vercel
 .vercel
 
