@@ -32,8 +32,7 @@ export function Navbar() {
   const links = [
     { href: '/' as const, label: t('home'), active: pathname === '/' },
     { href: '/browse' as const, label: t('browse'), active: pathname.startsWith('/browse') },
-    { href: '/saved' as const, label: t('saved'), active: pathname.startsWith('/saved') },
-    { href: '/units' as const, label: t('units'), active: pathname.startsWith('/unit') },
+    { href: '/saved' as const, label: t('saved'), active: pathname.startsWith('/saved') }
   ];
 
   const name = session?.user?.name ?? session?.user?.email ?? '';

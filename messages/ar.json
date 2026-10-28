@@ -75,18 +75,23 @@
     "count": "{count, plural, zero {لا توجد مبادرة} one {# مبادرة} two {# مبادرتان} few {# مبادرات} many {# مبادرة} other {# مبادرة}}"
   },
   "Browse": {
-    "title": "تصفّح الشركات الناشئة",
-    "subtitle": "جميع المبادرات المعروضة هنا حاصلة على حالة «مُتحقَّق».",
-    "searchPlaceholder": "بحث بالاسم، التقنية أو المجال…",
-    "filterLabel": "الفلترة حسب المجال",
+    "allCountries": "كل الدول",
     "allDomains": "كل المجالات",
+    "allPriorities": "كل الأولويات",
+    "backToHome": "العودة إلى الرئيسية",
+    "clear": "مسح",
+    "emptyText": "جرّب كلمة بحث أخرى أو أزل الفلتر الخاص بالمجال.",
+    "emptyTitle": "لا توجد نتائج",
+    "entries": "{count, plural, zero {0 مبادرات} one {# مبادرة} two {# مبادرة} few {# مبادرات} many {# مبادرة} other {# مبادرة}}",
+    "filterLabel": "الفلترة حسب المجال",
+    "next": "التالي",
+    "page": "الصفحة {page} من {total}",
+    "previous": "السابق",
     "results": "النتائج {count, plural, zero {} one {(#)} two {(#)} few {(#)} many {(#)} other {(#)}}",
     "searchButton": "ابحث",
-    "emptyTitle": "لا توجد نتائج",
-    "emptyText": "جرّب كلمة بحث أخرى أو أزل الفلتر الخاص بالمجال.",
-    "entries": "{count, plural, zero {0 مبادرات} one {# مبادرة} two {# مبادرة} few {# مبادرات} many {# مبادرة} other {# مبادرة}}",
-    "clear": "مسح",
-    "backToHome": "العودة إلى الرئيسية"
+    "searchPlaceholder": "بحث بالاسم، التقنية أو المجال…",
+    "subtitle": "جميع المبادرات المعروضة هنا حاصلة على حالة «مُتحقَّق».",
+    "title": "تصفّح الشركات الناشئة"
   },
   "Filters": {
     "title": "الفلاتر",

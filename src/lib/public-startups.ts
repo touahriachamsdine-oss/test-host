@@ -129,6 +129,111 @@ export async function searchVerifiedStartups(
   return withTranslations(rows.map(mapPublicStartup), locale);
 }
 
+export interface DirectoryFilters {
+  q?: string;
+  domain?: string;
+  country?: string;
+  priority?: string;
+  yearMin?: number;
+  yearMax?: number;
+}
+
+export interface DirectoryResult {
+  rows: PublicStartup[];
+  total: number;
+  page: number;
+  pageCount: number;
+  perPage: number;
+}
+
+export const DIRECTORY_PAGE_SIZE = 24;
+
+export async function browseStartups(
+  filters: DirectoryFilters,
+  page = 1,
+  locale: Locale = 'en',
+  perPage = DIRECTORY_PAGE_SIZE
+): Promise<DirectoryResult> {
+  const values: (string | number)[] = [];
+  const clauses = [PUBLIC_WHERE];
+
+  const term = filters.q?.trim();
+  if (term) {
+    values.push(`%${term}%`);
+    const i = `$${values.length}`;
+    clauses.push(`(name ILIKE ${i} OR short_description ILIKE ${i} OR technology ILIKE ${i} OR country ILIKE ${i})`);
+  }
+  if (filters.domain && filters.domain !== 'all') {
+    values.push(filters.domain);
+    clauses.push(`domain = $${values.length}`);
+  }
+  if (filters.country && filters.country !== 'all') {
+    values.push(filters.country);
+    clauses.push(`country = $${values.length}`);
+  }
+  if (filters.priority && ['A', 'B', 'C'].includes(filters.priority)) {
+    values.push(filters.priority);
+    clauses.push(`priority = $${values.length}`);
+  }
+  if (typeof filters.yearMin === 'number' && Number.isFinite(filters.yearMin)) {
+    values.push(filters.yearMin);
+    clauses.push(`year_founded >= $${values.length}`);
+  }
+  if (typeof filters.yearMax === 'number' && Number.isFinite(filters.yearMax)) {
+    values.push(filters.yearMax);
+    clauses.push(`year_founded <= $${values.length}`);
+  }
+
+  const where = clauses.join(' AND ');
+  const safePerPage = Math.min(Math.max(perPage, 1), 100);
+
+  const countRows = await query<{ count: string }>(
+    `SELECT COUNT(*)::text AS count FROM startups WHERE ${where}`,
+    values
+  );
+  const total = Number(countRows[0]?.count ?? 0);
+  const pageCount = Math.max(1, Math.ceil(total / safePerPage));
+  const safePage = Math.min(Math.max(page, 1), pageCount);
+  const offset = (safePage - 1) * safePerPage;
+
+  const pageRows = await query(
+    `SELECT ${selectColumns()} FROM startups WHERE ${where}
+     ORDER BY year_founded NULLS LAST, name
+     LIMIT $${values.length + 1} OFFSET $${values.length + 2}`,
+    [...values, safePerPage, offset] as (string | number | boolean | null)[]
+  );
+  const rows = pageRows.map(mapPublicStartup);
+
+  return {
+    rows: await withTranslations(rows, locale),
+    total,
+    page: safePage,
+    pageCount,
+    perPage: safePerPage
+  };
+}
+
+export async function getDirectoryFacets(): Promise<{
+  countries: string[];
+  minYear: number;
+  maxYear: number;
+}> {
+  const [countryRows, yearRows] = await Promise.all([
+    query<{ country: string }>(
+      `SELECT DISTINCT country FROM startups WHERE ${PUBLIC_WHERE} AND country <> '' ORDER BY country`
+    ),
+    query<{ min: number | null; max: number | null }>(
+      `SELECT MIN(year_founded) AS min, MAX(year_founded) AS max FROM startups WHERE ${PUBLIC_WHERE}`
+    )
+  ]);
+  const now = new Date().getFullYear();
+  return {
+    countries: countryRows.map((r) => r.country),
+    minYear: Number(yearRows[0]?.min ?? 1990),
+    maxYear: Number(yearRows[0]?.max ?? now) || now
+  };
+}
+
 export async function countVerifiedByDomain(): Promise<Record<string, number>> {
   const rows = await query<{ domain: string; count: string }>(
     `SELECT domain, COUNT(*)::text AS count FROM startups WHERE ${PUBLIC_WHERE} GROUP BY domain`

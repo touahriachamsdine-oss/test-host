@@ -3,14 +3,29 @@ import type { Metadata } from 'next';
 import { getLocale, getTranslations } from 'next-intl/server';
 import { getDomain } from '@/data/domains';
 import { referenceCode } from '@/lib/reference';
-import { getVerifiedByDomain, getDomainMeta } from '@/lib/public-startups';
+import { browseStartups, getDirectoryFacets, getDomainMeta } from '@/lib/public-startups';
 import { getMemberSavedIdsSafe } from '@/lib/savedIds';
-import { DomainExplorer } from '@/components/DomainExplorer';
+import { StartupDirectory, type DirectoryParams } from '@/components/StartupDirectory';
 import { SavedProvider } from '@/components/SavedProvider';
-import { Link } from '@/i18n/navigation';
+import { Link, getPathname } from '@/i18n/navigation';
 import type { Locale } from '@/i18n/routing';
 
 export const dynamic = 'force-dynamic';
+
+interface DomainSearchParams {
+  q?: string;
+  country?: string;
+  priority?: string;
+  from?: string;
+  to?: string;
+  page?: string;
+}
+
+function toYear(value?: string): number | undefined {
+  if (!value || value === 'all') return undefined;
+  const parsed = Number(value);
+  return Number.isFinite(parsed) ? parsed : undefined;
+}
 
 export async function generateMetadata({
   params
@@ -25,22 +40,49 @@ export async function generateMetadata({
 }
 
 export default async function DomainPage({
-  params
+  params,
+  searchParams
 }: {
   params: Promise<{ slug: string }>;
+  searchParams: Promise<DomainSearchParams>;
 }) {
   const { slug } = await params;
   const domain = getDomain(slug);
   if (!domain) notFound();
 
   const names = await getTranslations('domainNames');
-  const domainsT = await getTranslations('Domains');
   const browseT = await getTranslations('Browse');
   const validationT = await getTranslations('DomainValidation');
   const locale = (await getLocale()) as Locale;
-  const startups = await getVerifiedByDomain(slug, locale);
-  const meta = await getDomainMeta(slug);
-  const initialIds = await getMemberSavedIdsSafe();
+  const sp = await searchParams;
+
+  const filters: DirectoryParams = {
+    q: (sp.q ?? '').trim(),
+    domain: slug,
+    country: sp.country ?? 'all',
+    priority: sp.priority ?? 'all',
+    from: sp.from ?? 'all',
+    to: sp.to ?? 'all'
+  };
+  const page = Math.max(Number(sp.page ?? 1) || 1, 1);
+
+  const [result, facets, meta, initialIds] = await Promise.all([
+    browseStartups(
+      {
+        q: filters.q,
+        domain: slug,
+        country: filters.country,
+        priority: filters.priority,
+        yearMin: toYear(filters.from),
+        yearMax: toYear(filters.to)
+      },
+      page,
+      locale
+    ),
+    getDirectoryFacets(),
+    getDomainMeta(slug),
+    getMemberSavedIdsSafe()
+  ]);
 
   const tiers: Record<string, 'border-signal bg-signal' | 'border-flag-gold bg-flag-gold' | 'border-ink/50'> = {
     A: 'border-signal bg-signal',
@@ -66,8 +108,8 @@ export default async function DomainPage({
           {names(slug)}
         </h1>
       </header>
-      <p className="mt-3 text-sm text-ink/60">
-        {domainsT('count', { count: startups.length })}
+      <p className="mt-1 text-sm text-ink/60">
+        {browseT('entries', { count: result.total })}
         {meta && (
           <span className="ms-3 inline-flex items-center gap-2 text-ink/50">
             <span>{validationT('label')}: {validationT(meta.validationStatus as never)}</span>
@@ -82,7 +124,16 @@ export default async function DomainPage({
       </p>
 
       <SavedProvider initialIds={initialIds}>
-        <DomainExplorer startups={startups} />
+        <StartupDirectory
+          startups={result.rows}
+          total={result.total}
+          page={result.page}
+          pageCount={result.pageCount}
+          params={filters}
+          facets={facets}
+          basePath={getPathname({ locale, href: `/domain/${slug}` })}
+          lockedDomain
+        />
       </SavedProvider>
     </section>
   );

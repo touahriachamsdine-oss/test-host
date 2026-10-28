@@ -75,18 +75,23 @@
     "count": "{count, plural, =0 {Aucune initiative} one {# initiative} other {# initiatives}}"
   },
   "Browse": {
-    "title": "Explorer les startups",
-    "subtitle": "Toutes les initiatives affichées ici sont vérifiées.",
-    "searchPlaceholder": "Rechercher par nom, technologie ou domaine…",
-    "filterLabel": "Filtrer par domaine",
+    "allCountries": "Tous les pays",
     "allDomains": "Tous les domaines",
+    "allPriorities": "Toutes les priorités",
+    "backToHome": "Retour à l'accueil",
+    "clear": "Effacer",
+    "emptyText": "Essayez un autre terme de recherche ou retirez le filtre de domaine.",
+    "emptyTitle": "Aucun résultat",
+    "entries": "{count, plural, =0 {0 entrées} one {# entrée} other {# entrées}}",
+    "filterLabel": "Filtrer par domaine",
+    "next": "Suivant",
+    "page": "Page {page} sur {total}",
+    "previous": "Précédent",
     "results": "{count, plural, =0 {} one {(# résultat)} other {(# résultats)}}",
     "searchButton": "Rechercher",
-    "emptyTitle": "Aucun résultat",
-    "emptyText": "Essayez un autre terme de recherche ou retirez le filtre de domaine.",
-    "entries": "{count, plural, =0 {0 entrées} one {# entrée} other {# entrées}}",
-    "clear": "Effacer",
-    "backToHome": "Retour à l'accueil"
+    "searchPlaceholder": "Rechercher par nom, technologie ou domaine…",
+    "subtitle": "Toutes les initiatives affichées ici sont vérifiées.",
+    "title": "Explorer les startups"
   },
   "Filters": {
     "title": "Filtres",

@@ -63,13 +63,18 @@ const PUBLIC_KEYS = [
   'Auth.submit',
   'Auth.submitting',
   'Auth.welcome',
+  'Browse.allCountries',
   'Browse.allDomains',
+  'Browse.allPriorities',
   'Browse.backToHome',
   'Browse.clear',
   'Browse.emptyText',
   'Browse.emptyTitle',
   'Browse.entries',
   'Browse.filterLabel',
+  'Browse.next',
+  'Browse.page',
+  'Browse.previous',
   'Browse.results',
   'Browse.searchButton',
   'Browse.searchPlaceholder',
@@ -297,7 +302,7 @@ describe('Admin console i18n', () => {
     const publicKeys = frKeys.filter((key) => !key.startsWith('Admin.')).sort();
     const adminKeys = frKeys.filter((key) => key.startsWith('Admin.'));
     expect(publicKeys).toEqual(PUBLIC_KEYS);
-    expect(publicKeys).toHaveLength(220);
+    expect(publicKeys).toHaveLength(225);
     expect(adminKeys).toHaveLength(215);
 
     const enAdmin = (flatten(en as unknown as Record<string, unknown>)).filter((key) => key.startsWith('Admin.'));
