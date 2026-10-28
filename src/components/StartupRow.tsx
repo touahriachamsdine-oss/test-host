@@ -4,6 +4,7 @@ import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import type { Startup, StartupPriority } from '@/data/startups';
 import { referenceCode } from '@/lib/reference';
+import { sourceKindOf } from '@/lib/source';
 
 const priorityMarker: Record<StartupPriority, string> = {
   A: 'border-signal bg-signal',
@@ -22,7 +23,9 @@ export function StartupRow({
 }) {
   const t = useTranslations('StartupCard');
   const priorityT = useTranslations('Priority');
+  const sourceT = useTranslations('Source');
   const code = referenceCode(startup.domain, startup.refNo);
+  const sourceKind = sourceKindOf(startup.id);
 
   return (
     <Link
@@ -31,8 +34,15 @@ export function StartupRow({
       className={`group card-soft grid-guard flex h-full flex-col gap-2 p-3 sm:p-4 ${className ?? ''}`}
     >
       <span className="flex items-start justify-between gap-2">
-        <span dir="ltr" className="min-w-0 truncate font-mono text-xs font-medium leading-5 tabular-nums text-signal">
-          {code}
+        <span className="flex min-w-0 items-center gap-1.5">
+          <span dir="ltr" className="truncate font-mono text-xs font-medium leading-5 tabular-nums text-signal">
+            {code}
+          </span>
+          {sourceKind !== 'curated' && (
+            <span className="shrink-0 rounded-[2px] border border-line/60 px-1 font-mono text-[10px] uppercase leading-4 tracking-wide text-ink/45">
+              {sourceT(sourceKind)}
+            </span>
+          )}
         </span>
         <span className="flex shrink-0 items-center gap-1.5">
           <span

@@ -128,6 +128,14 @@ const PUBLIC_KEYS = [
   'HowItWorks.intro',
   'HowItWorks.priority',
   'HowItWorks.title',
+  'Ipc.A',
+  'Ipc.B',
+  'Ipc.C',
+  'Ipc.D',
+  'Ipc.E',
+  'Ipc.F',
+  'Ipc.G',
+  'Ipc.H',
   'LangSwitcher.ariaLabel',
   'Metadata.description',
   'Metadata.title',
@@ -177,9 +185,20 @@ const PUBLIC_KEYS = [
   'Saved.count',
   'Saved.emptyText',
   'Saved.emptyTitle',
+  'Saved.exportCsv',
   'Saved.remove',
   'Saved.subtitle',
   'Saved.title',
+  'Sort.default',
+  'Sort.easiest',
+  'Sort.label',
+  'Sort.name',
+  'Sort.newest',
+  'Sort.priority',
+  'Source.curated',
+  'Source.enterpriseFile',
+  'Source.openHardware',
+  'Source.patent',
   'StartupCard.countryLabel',
   'StartupCard.domainLabel',
   'StartupCard.similarLabel',
@@ -302,7 +321,7 @@ describe('Admin console i18n', () => {
     const publicKeys = frKeys.filter((key) => !key.startsWith('Admin.')).sort();
     const adminKeys = frKeys.filter((key) => key.startsWith('Admin.'));
     expect(publicKeys).toEqual(PUBLIC_KEYS);
-    expect(publicKeys).toHaveLength(225);
+    expect(publicKeys).toHaveLength(244);
     expect(adminKeys).toHaveLength(215);
 
     const enAdmin = (flatten(en as unknown as Record<string, unknown>)).filter((key) => key.startsWith('Admin.'));

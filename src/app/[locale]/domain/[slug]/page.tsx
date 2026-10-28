@@ -8,6 +8,7 @@ import { getMemberSavedIdsSafe } from '@/lib/savedIds';
 import { StartupDirectory, type DirectoryParams } from '@/components/StartupDirectory';
 import { SavedProvider } from '@/components/SavedProvider';
 import { Link, getPathname } from '@/i18n/navigation';
+import { alternatesFor } from '@/lib/seo';
 import type { Locale } from '@/i18n/routing';
 
 export const dynamic = 'force-dynamic';
@@ -19,6 +20,7 @@ interface DomainSearchParams {
   from?: string;
   to?: string;
   page?: string;
+  sort?: string;
 }
 
 function toYear(value?: string): number | undefined {
@@ -36,7 +38,7 @@ export async function generateMetadata({
   const domain = getDomain(slug);
   if (!domain) return {};
   const names = await getTranslations('domainNames');
-  return { title: names(slug) };
+  return { title: names(slug), alternates: alternatesFor(`/domain/${slug}`) };
 }
 
 export default async function DomainPage({
@@ -62,7 +64,8 @@ export default async function DomainPage({
     country: sp.country ?? 'all',
     priority: sp.priority ?? 'all',
     from: sp.from ?? 'all',
-    to: sp.to ?? 'all'
+    to: sp.to ?? 'all',
+    sort: sp.sort ?? 'default'
   };
   const page = Math.max(Number(sp.page ?? 1) || 1, 1);
 
@@ -74,7 +77,8 @@ export default async function DomainPage({
         country: filters.country,
         priority: filters.priority,
         yearMin: toYear(filters.from),
-        yearMax: toYear(filters.to)
+        yearMax: toYear(filters.to),
+        sort: filters.sort
       },
       page,
       locale

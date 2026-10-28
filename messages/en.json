@@ -171,13 +171,14 @@
     "signInToSave": "Sign in to save"
   },
   "Saved": {
-    "title": "Saved startups",
-    "subtitle": "Initiatives you want to build in Algeria.",
-    "count": "{count, plural, =0 {No saved startups} one {# saved startup} other {# saved startups}}",
-    "emptyTitle": "No saved startups yet",
-    "emptyText": "Tap “I want to build this in Algeria” on a startup card to bookmark it here.",
     "browse": "Browse startups",
-    "remove": "Remove"
+    "count": "{count, plural, =0 {No saved startups} one {# saved startup} other {# saved startups}}",
+    "emptyText": "Tap “I want to build this in Algeria” on a startup card to bookmark it here.",
+    "emptyTitle": "No saved startups yet",
+    "exportCsv": "Download as CSV",
+    "remove": "Remove",
+    "subtitle": "Initiatives you want to build in Algeria.",
+    "title": "Saved startups"
   },
   "Priority": {
     "A": "Priority A — build now",
@@ -560,5 +561,29 @@
       "body": "For any question about these terms or about your data, contact the team that maintains this directory.",
       "credit": "Built by T. Chams at the Tebessa Incubator."
     }
+  },
+  "Source": {
+    "curated": "Curated",
+    "patent": "Patent",
+    "openHardware": "Open hardware",
+    "enterpriseFile": "Company file"
+  },
+  "Ipc": {
+    "A": "Human necessities",
+    "B": "Operations & transport",
+    "C": "Chemistry & metallurgy",
+    "D": "Textiles & paper",
+    "E": "Construction",
+    "F": "Mechanical engineering",
+    "G": "Physics",
+    "H": "Electricity"
+  },
+  "Sort": {
+    "default": "Default order",
+    "easiest": "Easiest first",
+    "label": "Sort by",
+    "name": "Name A–Z",
+    "newest": "Newest first",
+    "priority": "Priority"
   }
 }

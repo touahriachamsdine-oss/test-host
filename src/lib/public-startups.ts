@@ -150,7 +150,16 @@ export interface DirectoryFilters {
   priority?: string;
   yearMin?: number;
   yearMax?: number;
+  sort?: string;
 }
+
+const DIRECTORY_ORDER: Record<string, string> = {
+  default: 'year_founded NULLS LAST, name',
+  newest: 'year_founded DESC NULLS LAST, name',
+  name: 'name ASC',
+  priority: "CASE priority WHEN 'A' THEN 0 WHEN 'B' THEN 1 ELSE 2 END, name",
+  easiest: 'difficulty_score NULLS LAST, name'
+};
 
 export interface DirectoryResult {
   rows: PublicStartup[];
@@ -212,7 +221,7 @@ export async function browseStartups(
 
   const pageRows = await query(
     `SELECT ${selectColumns()} FROM startups WHERE ${where}
-     ORDER BY year_founded NULLS LAST, name
+     ORDER BY ${DIRECTORY_ORDER[filters.sort ?? 'default'] ?? DIRECTORY_ORDER.default}
      LIMIT $${values.length + 1} OFFSET $${values.length + 2}`,
     [...values, safePerPage, offset] as (string | number | boolean | null)[]
   );
@@ -225,6 +234,13 @@ export async function browseStartups(
     pageCount,
     perPage: safePerPage
   };
+}
+
+export async function getAllStartupIds(): Promise<string[]> {
+  const rows = await query<{ id: string }>(
+    `SELECT id FROM startups WHERE ${PUBLIC_WHERE} ORDER BY id`
+  );
+  return rows.map((row) => row.id);
 }
 
 export async function getDirectoryFacets(): Promise<{

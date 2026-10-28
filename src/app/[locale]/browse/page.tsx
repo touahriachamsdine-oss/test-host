@@ -1,12 +1,23 @@
 import { getTranslations } from 'next-intl/server';
+import type { Metadata } from 'next';
 import { browseStartups, getDirectoryFacets } from '@/lib/public-startups';
 import { getMemberSavedIdsSafe } from '@/lib/savedIds';
 import { SavedProvider } from '@/components/SavedProvider';
 import { StartupDirectory, type DirectoryParams } from '@/components/StartupDirectory';
 import { getPathname } from '@/i18n/navigation';
+import { alternatesFor } from '@/lib/seo';
 import type { Locale } from '@/i18n/routing';
 
 export const dynamic = 'force-dynamic';
+
+export async function generateMetadata(): Promise<Metadata> {
+  const t = await getTranslations('Browse');
+  return {
+    title: t('title'),
+    description: t('subtitle'),
+    alternates: alternatesFor('/browse')
+  };
+}
 
 interface BrowseSearchParams {
   q?: string;
@@ -16,6 +27,7 @@ interface BrowseSearchParams {
   from?: string;
   to?: string;
   page?: string;
+  sort?: string;
 }
 
 function toYear(value?: string): number | undefined {
@@ -41,7 +53,8 @@ export default async function BrowsePage({
     country: sp.country ?? 'all',
     priority: sp.priority ?? 'all',
     from: sp.from ?? 'all',
-    to: sp.to ?? 'all'
+    to: sp.to ?? 'all',
+    sort: sp.sort ?? 'default'
   };
   const page = Math.max(Number(sp.page ?? 1) || 1, 1);
 
@@ -53,7 +66,8 @@ export default async function BrowsePage({
         country: filters.country,
         priority: filters.priority,
         yearMin: toYear(filters.from),
-        yearMax: toYear(filters.to)
+        yearMax: toYear(filters.to),
+        sort: filters.sort
       },
       page,
       locale as Locale

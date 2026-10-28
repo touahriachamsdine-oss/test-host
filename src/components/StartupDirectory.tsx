@@ -13,6 +13,7 @@ export interface DirectoryParams {
   priority: string;
   from: string;
   to: string;
+  sort: string;
 }
 
 function buildQuery(params: DirectoryParams, page?: number): string {
@@ -23,6 +24,7 @@ function buildQuery(params: DirectoryParams, page?: number): string {
   if (params.priority && params.priority !== 'all') search.set('priority', params.priority);
   if (params.from) search.set('from', params.from);
   if (params.to) search.set('to', params.to);
+  if (params.sort && params.sort !== 'default') search.set('sort', params.sort);
   if (page && page > 1) search.set('page', String(page));
   const qs = search.toString();
   return qs ? `?${qs}` : '';
@@ -54,6 +56,7 @@ export async function StartupDirectory({
   const t = await getTranslations('Browse');
   const filtersT = await getTranslations('Filters');
   const domainNames = await getTranslations('domainNames');
+  const sortT = await getTranslations('Sort');
   const similar = buildSimilarMap(startups);
 
   const years: number[] = [];
@@ -162,6 +165,25 @@ export async function StartupDirectory({
           >
             {t('clear')}
           </Link>
+
+          <label
+            htmlFor="dir-sort"
+            className="ms-auto flex items-center gap-2 text-xs font-medium text-ink/60"
+          >
+            {sortT('label')}
+            <select
+              id="dir-sort"
+              name="sort"
+              defaultValue={params.sort || 'default'}
+              className="ring-focus rounded-[6px] field-glass px-2 py-1 text-xs text-ink"
+            >
+              <option value="default">{sortT('default')}</option>
+              <option value="newest">{sortT('newest')}</option>
+              <option value="name">{sortT('name')}</option>
+              <option value="priority">{sortT('priority')}</option>
+              <option value="easiest">{sortT('easiest')}</option>
+            </select>
+          </label>
         </div>
       </form>
 

@@ -36,6 +36,13 @@ export function SavedList({ startups }: { startups: Startup[] }) {
       ) : (
         <>
           <p className="mt-6 text-sm text-ink/60">{t('count', { count: rows.length })}</p>
+          {/* eslint-disable-next-line @next/next/no-html-link-for-pages -- file download, not a page */}
+          <a
+            href="/api/me/saved/export"
+            className="mt-2 inline-flex items-center gap-1.5 rounded-[3px] text-sm text-signal underline underline-offset-2 ring-focus hover:text-ink"
+          >
+            {t('exportCsv')}
+          </a>
           <ResultsGrid className="mt-8">
             {rows.map((startup) => (
               <div key={startup.id} className="flex flex-col gap-2">

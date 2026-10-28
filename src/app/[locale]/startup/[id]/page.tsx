@@ -6,11 +6,14 @@ import { getVerifiedById } from '@/lib/public-startups';
 import { getMemberSavedIdsSafe } from '@/lib/savedIds';
 import { getDomain } from '@/data/domains';
 import { referenceCode } from '@/lib/reference';
+import { sourceKindOf } from '@/lib/source';
+import { ipcSections, isIpcClassification } from '@/lib/technology';
 import type { StartupPriority } from '@/data/startups';
 import { Link } from '@/i18n/navigation';
 import { SaveButton } from '@/components/SaveButton';
 import { SavedProvider } from '@/components/SavedProvider';
 import { DifficultyMeter } from '@/components/DifficultyMeter';
+import { alternatesFor } from '@/lib/seo';
 import type { Locale } from '@/i18n/routing';
 
 export const dynamic = 'force-dynamic';
@@ -30,7 +33,18 @@ export async function generateMetadata({
   const locale = (await getLocale()) as Locale;
   const startup = await getVerifiedById(id, locale);
   if (!startup) return {};
-  return { title: startup.name, description: startup.shortDescription };
+  const alternates = alternatesFor(`/startup/${id}`);
+  return {
+    title: startup.name,
+    description: startup.shortDescription,
+    alternates,
+    openGraph: {
+      title: startup.name,
+      description: startup.shortDescription,
+      url: alternates.canonical,
+      type: 'article'
+    }
+  };
 }
 
 export default async function StartupPage({
@@ -46,8 +60,17 @@ export default async function StartupPage({
   const t = await getTranslations('StartupDetail');
   const names = await getTranslations('domainNames');
   const priorityT = await getTranslations('Priority');
+  const sourceT = await getTranslations('Source');
+  const ipcT = await getTranslations('Ipc');
 
   const domain = getDomain(startup.domain);
+  const sourceKind = sourceKindOf(startup.id);
+  const ipc = isIpcClassification(startup.technology);
+  const technologyValue = ipc
+    ? ipcSections(startup.technology)
+        .map((section) => ipcT(section as never))
+        .join(' · ')
+    : startup.technology;
   const year = startup.yearFounded > 0
     ? new Intl.NumberFormat(locale, { useGrouping: false }).format(startup.yearFounded)
     : '';
@@ -59,13 +82,13 @@ export default async function StartupPage({
     { label: t('countryLabel'), value: startup.country },
     { label: t('domainLabel'), value: names(startup.domain) },
     ...(startup.subDomain ? [{ label: t('subDomainLabel'), value: startup.subDomain }] : []),
-    { label: t('technologyLabel'), value: startup.technology },
+    { label: t('technologyLabel'), value: technologyValue },
     { label: t('priorityLabel'), value: priorityT(startup.priority) },
     ...(startup.teamName ? [{ label: t('teamLabel'), value: startup.teamName }] : [])
   ];
 
   const metaLine = [
-    ...(startup.hqCity ? [startup.hqCity] : []),
+    ...(startup.hqCity && startup.hqCity !== startup.country ? [startup.hqCity] : []),
     startup.country,
     ...(year ? [year] : [])
   ].join(', ');
@@ -118,8 +141,20 @@ export default async function StartupPage({
               </span>
             ) : null}
             <div className="min-w-0">
-              <span dir="ltr" className="font-mono text-sm font-medium leading-5 text-signal">
-                {code}
+              <span className="flex flex-wrap items-center gap-2">
+                <span dir="ltr" className="font-mono text-sm font-medium leading-5 text-signal">
+                  {code}
+                </span>
+                {sourceKind !== 'curated' && (
+                  <span className="rounded-[2px] border border-line/60 px-1.5 font-mono text-[10px] uppercase leading-4 tracking-wide text-ink/50">
+                    {sourceT(sourceKind)}
+                  </span>
+                )}
+                {ipc && (
+                  <span dir="ltr" className="font-mono text-[10px] uppercase leading-4 tracking-wide text-ink/35">
+                    {startup.technology.split(/[;,\s]+/).filter(Boolean).slice(0, 3).join(' ')}
+                  </span>
+                )}
               </span>
               <h1 className="mt-1 text-[32px] font-semibold leading-10 tracking-tight text-ink">
                 {startup.name}
@@ -265,7 +300,7 @@ export default async function StartupPage({
         <div className="mt-10 max-w-2xl">
           <h2 className="text-sm font-medium text-ink">
             {t('locationLabel')}
-            {startup.hqCity ? `: ${startup.hqCity}` : ''}
+            {startup.hqCity && startup.hqCity !== startup.country ? `: ${startup.hqCity}` : ''}
           </h2>
           <iframe
             title={`${startup.name} — ${t('locationLabel')}`}

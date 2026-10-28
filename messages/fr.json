@@ -171,13 +171,14 @@
     "signInToSave": "Connectez-vous pour enregistrer"
   },
   "Saved": {
-    "title": "Startups enregistrées",
-    "subtitle": "Les initiatives que vous souhaitez construire en Algérie.",
-    "count": "{count, plural, =0 {Aucune startup enregistrée} one {# startup enregistrée} other {# startups enregistrées}}",
-    "emptyTitle": "Aucune startup enregistrée",
-    "emptyText": "Appuyez sur « Je veux construire ça en Algérie » sur la fiche d'une startup pour l'ajouter ici.",
     "browse": "Explorer les startups",
-    "remove": "Retirer"
+    "count": "{count, plural, =0 {Aucune startup enregistrée} one {# startup enregistrée} other {# startups enregistrées}}",
+    "emptyText": "Appuyez sur « Je veux construire ça en Algérie » sur la fiche d'une startup pour l'ajouter ici.",
+    "emptyTitle": "Aucune startup enregistrée",
+    "exportCsv": "Télécharger en CSV",
+    "remove": "Retirer",
+    "subtitle": "Les initiatives que vous souhaitez construire en Algérie.",
+    "title": "Startups enregistrées"
   },
   "Priority": {
     "A": "Priorité A — à construire maintenant",
@@ -560,5 +561,29 @@
       "body": "Pour toute question relative à ces conditions ou à vos données, contactez l’équipe qui maintient ce répertoire.",
       "credit": "Réalisé par T. Chams à l’incubateur de Tébessa."
     }
+  },
+  "Source": {
+    "curated": "Sélectionné",
+    "patent": "Brevet",
+    "openHardware": "Matériel libre",
+    "enterpriseFile": "Fiche entreprise"
+  },
+  "Ipc": {
+    "A": "Nécessités humaines",
+    "B": "Techniques industrielles et transports",
+    "C": "Chimie et métallurgie",
+    "D": "Textiles et papier",
+    "E": "Construction",
+    "F": "Génie mécanique",
+    "G": "Physique",
+    "H": "Électricité"
+  },
+  "Sort": {
+    "default": "Ordre par défaut",
+    "easiest": "Plus faciles",
+    "label": "Trier par",
+    "name": "Nom A–Z",
+    "newest": "Plus récents",
+    "priority": "Priorité"
   }
 }
