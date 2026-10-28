@@ -1009,7 +1009,7 @@
  },
  {
   "name": "Crossfield Fusion Ltd",
-  "country": "Reactor development ended 2021",
+  "country": "Unknown",
   "sub_domain": "nuclear fusion energy",
   "short_description": "In the crowded field of energy storage, Crossfield Fusion Ltd differentiates by solving one problem end-to-end — a grid-scale storage controller — instead of stacking horizontal features.",
   "technology": "cell chemistry, power electronics and grid integration",
@@ -1891,16 +1891,16 @@
  },
  {
   "name": "Firefly Fusion",
-  "country": "France Switzerland",
+  "country": "Unknown",
   "sub_domain": "nuclear fusion energy",
-  "short_description": "Firefly Fusion is a France Switzerland company working in energy storage — a space where CATL and BYD set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Firefly Fusion is a energy storage company working in energy storage — a space where CATL and BYD set the reference bar, so newcomers must own a narrower niche.",
   "technology": "cell chemistry, power electronics and grid integration",
   "year_founded": 2023,
   "official_site": "https://en.wikipedia.org/wiki/Firefly_Fusion",
   "source_url": "https://en.wikipedia.org/wiki/Firefly_Fusion",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Firefly Fusion could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "C",
-  "concept": "Firefly Fusion is a France Switzerland company working in energy storage — a space where CATL and BYD set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "A",
+  "concept": "Firefly Fusion is a energy storage company working in energy storage — a space where CATL and BYD set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "CATL and BYD",
    "LG Energy Solution",
@@ -1942,10 +1942,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Firefly Fusion شركة من France Switzerland تعمل في تخزين الطاقة — مجال يضع فيه CATL و BYD المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Firefly Fusion شركة من تخزين الطاقة تعمل في تخزين الطاقة — مجال يضع فيه CATL و BYD المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "كيمياء الخلايا وإلكترونيات القدرة والربط بالشبكة",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Firefly Fusion توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Firefly Fusion شركة من France Switzerland تعمل في تخزين الطاقة — مجال يضع فيه CATL و BYD المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Firefly Fusion شركة من تخزين الطاقة تعمل في تخزين الطاقة — مجال يضع فيه CATL و BYD المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "CATL و BYD",
      "LG Energy Solution",
@@ -1978,10 +1978,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Firefly Fusion توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Firefly Fusion est une entreprise de France Switzerland qui opère dans le stockage de l’énergie, un espace où CATL et BYD donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Firefly Fusion est une entreprise de le stockage de l’énergie qui opère dans le stockage de l’énergie, un espace où CATL et BYD donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "chimie des cellules, électronique de puissance et intégration réseau",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Firefly Fusion pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Firefly Fusion est une entreprise de France Switzerland qui opère dans le stockage de l’énergie, un espace où CATL et BYD donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Firefly Fusion est une entreprise de le stockage de l’énergie qui opère dans le stockage de l’énergie, un espace où CATL et BYD donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "CATL et BYD",
      "LG Energy Solution",
@@ -3151,16 +3151,16 @@
  },
  {
   "name": "HyperJet Fusion",
-  "country": "Work moved to General Atomics",
+  "country": "Unknown",
   "sub_domain": "nuclear fusion energy",
-  "short_description": "HyperJet Fusion is a Work moved to General Atomics company working in energy storage — a space where LG Energy Solution set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "HyperJet Fusion is a energy storage company working in energy storage — a space where LG Energy Solution set the reference bar, so newcomers must own a narrower niche.",
   "technology": "cell chemistry, power electronics and grid integration",
   "year_founded": 2017,
   "official_site": "https://en.wikipedia.org/wiki/HyperJet_Fusion",
   "source_url": "https://en.wikipedia.org/wiki/HyperJet_Fusion",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build energy storage products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "B",
-  "concept": "HyperJet Fusion is a Work moved to General Atomics company working in energy storage — a space where LG Energy Solution set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "A",
+  "concept": "HyperJet Fusion is a energy storage company working in energy storage — a space where LG Energy Solution set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "CATL and BYD",
    "LG Energy Solution",
@@ -3202,10 +3202,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "HyperJet Fusion شركة من Work moved to General Atomics تعمل في تخزين الطاقة — مجال يضع فيه LG Energy Solution المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "HyperJet Fusion شركة من تخزين الطاقة تعمل في تخزين الطاقة — مجال يضع فيه LG Energy Solution المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "كيمياء الخلايا وإلكترونيات القدرة والربط بالشبكة",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات تخزين الطاقة يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "HyperJet Fusion شركة من Work moved to General Atomics تعمل في تخزين الطاقة — مجال يضع فيه LG Energy Solution المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "HyperJet Fusion شركة من تخزين الطاقة تعمل في تخزين الطاقة — مجال يضع فيه LG Energy Solution المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "CATL و BYD",
      "LG Energy Solution",
@@ -3238,10 +3238,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات تخزين الطاقة يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "HyperJet Fusion est une entreprise de Work moved to General Atomics qui opère dans le stockage de l’énergie, un espace où LG Energy Solution donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "HyperJet Fusion est une entreprise de le stockage de l’énergie qui opère dans le stockage de l’énergie, un espace où LG Energy Solution donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "chimie des cellules, électronique de puissance et intégration réseau",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits le stockage de l’énergie peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "HyperJet Fusion est une entreprise de Work moved to General Atomics qui opère dans le stockage de l’énergie, un espace où LG Energy Solution donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "HyperJet Fusion est une entreprise de le stockage de l’énergie qui opère dans le stockage de l’énergie, un espace où LG Energy Solution donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "CATL et BYD",
      "LG Energy Solution",

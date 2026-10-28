@@ -1,0 +1,642 @@
+[
+ {
+  "name": "TransNamib",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Peak Tram",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Hong Kong Tramways",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Korean State Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Pakistan Railways",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Lahore Metro",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Taiwan High Speed Rail Corporation",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Taiwan Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Demirýollary",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "South Caucasus Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Yerevan Metro",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "ÖBB",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Belarusian Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "VLTJ",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Georgian Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "AKN Eisenbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Albtal-Verkehrs-Gesellschaft",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Bayerische Oberlandbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Breisgau-S-Bahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Bayerische Zugspitzbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Cantus Verkehrsgesellschaft",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Chiemsee-Bahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Drachenfelsbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Erfurter Bahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Eurobahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Eisenbahnen und Verkehrsbetriebe Elbe-Weser",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Königstein Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Hessische Landesbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Harzer Schmalspurbahnen",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Kurhessenbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Mecklenburgische Bäderbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Metronom Eisenbahngesellschaft",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Nordseebahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Niederbarnimer Eisenbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Nord-Ostsee-Bahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "NordWestBahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Ostdeutsche Eisenbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Oberpfalzbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Ortenau-S-Bahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Prignitzer Eisenbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Regentalbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Rurtalbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Rügensche Kleinbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "S-Bahn Berlin",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Sächsisch-Böhmische-Eisenbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "S-Bahn Hamburg",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "SüdostBayernBahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Sächsisch-Oberlausitzer Eisenbahngesellschaft",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Stuttgarter Straßenbahnen AG",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Strausberger Eisenbahn GmbH",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Südwestdeutsche Verkehrs AG",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Trans regio",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Trossinger Eisenbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Trilex",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Usedomer Bäderbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Vogtlandbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Verkehrsbetriebe Karlsruhe",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Vectus Verkehrsgesellschaft",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "VIAS GmbH",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Waldbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "WestfalenBahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Württembergische Eisenbahn-Gesellschaft",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Wendelsteinbahn",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Elliniko Metro",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "DB Cargo",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "ERS Railways",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "CFR Călători",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Compania Națională de Căi Ferate CFR",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Bergslagernas Järnvägar",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Canadian National Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Canadian Pacific Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "GO Transit",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Via Rail",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Ontario Northland Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Rocky Mountaineer",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "White Pass and Yukon Route",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "New Brunswick Southern Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Great Western Railway (Saskatchewan)",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Hudson Bay Railway (1997)",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Réseau de transport métropolitain",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "West Coast Express",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "OC Transpo",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Société de transport de Montréal",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Toronto Transit Commission",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Calgary Transit",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Edmonton Transit Service",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Amtrak",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Baltimore and Ohio Railroad",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "BNSF Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Burlington Northern Railroad",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Central Pacific Railroad",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Chicago, Burlington and Quincy Railroad",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "CSX Transportation",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Kansas City Southern Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Metra",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Metropolitan Transportation Authority",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Milwaukee Road",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Missouri Pacific",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "New York Central Railroad",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "New York, New Haven and Hartford Railroad",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "NJ Transit",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Nickel Plate Road",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Norfolk Southern Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Norfolk and Western Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Pennsylvania Railroad",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Santa Fe Railway",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Southern Pacific Transportation Company",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "SEPTA",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Tri-Rail",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Union Pacific Railroad",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Wisconsin and Southern Railroad",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Qube Holdings",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "NSW TrainLink",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Journey Beyond",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Bowmans Rail",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Transwa",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Queensland Rail",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Sydney Trains",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Adelaide Metro",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "New Zealand Railways Department",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Tranz Rail",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Toll New Zealand",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "KiwiRail",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Transdev Auckland",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Auckland One Rail",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Dunedin Railways",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "New Zealand Midland Railway Company",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ },
+ {
+  "name": "Wellington & Manawatu Railway Company",
+  "industry": "railway operations and rolling stock",
+  "domain": "manufacturing-3d"
+ }
+]

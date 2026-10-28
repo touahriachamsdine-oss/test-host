@@ -40,7 +40,14 @@ const PAGES = [
   ['cameras', 'List of camera manufacturers'],
   ['computers', 'List of computer manufacturers'],
   ['turbines', 'List of turbine manufacturers'],
-  ['autoparts', 'List of auto parts manufacturers']
+  ['autoparts', 'List of auto parts manufacturers'],
+  ['lawfirms', 'List of largest law firms by revenue'],
+  ['socialent', 'List of social enterprises'],
+  ['food', 'List of food companies'],
+  ['railways', 'List of railway companies'],
+  ['telecom', 'List of telecommunications companies'],
+  ['mining', 'List of mining companies'],
+  ['vc', 'List of venture capital firms']
 ];
 
 const UA = {
@@ -94,29 +101,48 @@ const FIELD_MAP = [
   [/^(notes?|comments|refs?)$/, 'note']
 ];
 
+function stripCellAttrs(c) {
+  const attr = /^([^|]*\|\s?)/.exec(c);
+  let s = c;
+  if (attr && attr[1].includes('=')) s = c.slice(attr[1].length);
+  return stripWikitext(s);
+}
+
 function parseTable(table) {
   const rows = [];
   const lines = table.split('\n');
   let current = null;
+  let width = null;
   for (const raw of lines) {
     const line = raw.trim();
-    if (/^\{\|/.test(line) || /^\|\}/.test(line) || /^\|-/.test(line)) {
+    if (/^\{\|/.test(line)) {
+      if (current) rows.push(current);
+      current = null;
+      width = null;
+      continue;
+    }
+    if (/^\|\}/.test(line) || /^\|-/.test(line)) {
       if (current) rows.push(current);
       current = null;
       continue;
     }
-    if (/^[!|]([!|]|.)+/.test(line)) {
+    if (/^[!|][!|]?/.test(line) && line.length > 1) {
       const kind = line[0];
-      let body = line.slice(1);
-      const cells = body.split(kind === '!' ? '!!' : '||');
-      const clean = cells.map((c) => {
-        const attr = /^([^|]*\|\s?)/.exec(c);
-        let s = c;
-        if (attr && attr[1].includes('=')) s = c.slice(attr[1].length);
-        return stripWikitext(s);
-      });
+      const cells = line.slice(1).split(kind === '!' ? '!!' : '||').map(stripCellAttrs);
+      if (kind === '!') {
+        if (!current) current = [];
+        for (const c of cells) current.push(c);
+        if (width === null) width = current.length;
+        continue;
+      }
+      // A cell may wrap onto following lines, so a data row is complete only
+      // once it holds as many cells as the header declares.
+      if (current && width && current.length >= width) {
+        rows.push(current);
+        current = null;
+      }
       if (!current) current = [];
-      for (const c of clean) current.push(c);
+      for (const c of cells) current.push(c);
     } else if (current && line) {
       current[current.length - 1] += ' ' + stripWikitext(line);
     }
@@ -155,7 +181,7 @@ function mapColumns(headers) {
     const key = stripWikitext(h).toLowerCase().replace(/\s+/g, ' ');
     if (/country|headquarters|\bhq\b|location|based in|basedin|nationality|origin|region/.test(key) && /(United|America|Asia|Europe|China|Japan|Germany|France|UK|US|Canada|India|ussia|Korea|Italy|Spain|Brazil|Australia)/.test(key))
       return { field: 'country' };
-    if (/^(company|name|organization|manufacturer|maker|operator|vendor)$/.test(key)) return { field: 'name' };
+    if (/^(company|name|organization|manufacturer|maker|operator|vendor|firm|law firm|company name)$/.test(key)) return { field: 'name' };
     if (/^country|cities|countries|headquarters|\bhq\b|^location|based in|nationality|^origin$|headquarters loc/.test(key)) return { field: 'country' };
     if (/valuation|funding|revenue|market cap|market capitalization|sales/.test(key)) return { field: 'valuation' };
     if (/founded|^year|founded year|est\.?/.test(key)) return { field: 'year' };
@@ -201,7 +227,7 @@ function extractRows(rows) {
 
 function extractProse(wikitext) {
   const recs = [];
-  const re = /^\s*[\*#]\s+(.*)$/gm;
+  const re = /^\s*[\*#]\s*(.*)$/gm;
   let m;
   while ((m = re.exec(wikitext)) !== null) {
     const line = m[1];
@@ -259,8 +285,16 @@ async function fetchPage(label, title) {
 }
 
 (async () => {
+  const only = process.argv.slice(2);
+  const selected = only.length ? PAGES.filter(([label]) => only.includes(label)) : PAGES;
+  if (only.length && selected.length !== only.length) {
+    const missing = only.filter((l) => !PAGES.some(([p]) => p === l));
+    console.error('Unknown label(s):', missing.join(', '));
+    process.exit(1);
+  }
+  console.log(`Fetching ${selected.length} page(s)${only.length ? ` (filtered: ${only.join(', ')})` : ''}\n`);
   let total = 0;
-  for (const [label, title] of PAGES) {
+  for (const [label, title] of selected) {
     total += await fetchPage(label, title);
     await new Promise((r) => setTimeout(r, 800));
   }

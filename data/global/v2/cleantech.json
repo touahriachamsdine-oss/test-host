@@ -1639,7 +1639,7 @@
  },
  {
   "name": "Shanghai Electric",
-  "country": "SEwind",
+  "country": "China",
   "sub_domain": "(China) (SEwind)",
   "short_description": "In the crowded field of clean technology, Shanghai Electric differentiates by solving one problem end-to-end — a recycling or recovery process for one waste stream — instead of stacking horizontal features.",
   "technology": "renewable generation, energy efficiency and recycling",
@@ -5671,16 +5671,16 @@
  },
  {
   "name": "Enron Wind",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "(now defunct)",
-  "short_description": "Enron Wind is a clean technology company working in clean technology — a space where Veolia and Fluence set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Enron Wind is a Germany company working in clean technology — a space where Veolia and Fluence set the reference bar, so newcomers must own a narrower niche.",
   "technology": "renewable generation, energy efficiency and recycling",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Enron_Wind",
   "source_url": "https://en.wikipedia.org/wiki/Enron_Wind",
   "why_relevant": "The Algerian angle is affordability and context: a renewable O&M software suite, simplified for local needs — plus the engineering-diploma pipeline — can turn Enron Wind’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Enron Wind is a clean technology company working in clean technology — a space where Veolia and Fluence set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Enron Wind is a Germany company working in clean technology — a space where Veolia and Fluence set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Siemens Energy and GE Vernova",
    "Vestas and Orsted",
@@ -5722,10 +5722,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Enron Wind شركة من التقنيات النظيفة تعمل في التقنيات النظيفة — مجال يضع فيه Veolia و Fluence المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Enron Wind شركة من Germany تعمل في التقنيات النظيفة — مجال يضع فيه Veolia و Fluence المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "توليد متجدد وكفاءة الطاقة وإعادة التدوير",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من حزمة برمجيات لتشغيل وصيانة الطاقات المتجددة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Enron Wind إلى نجاح محلي أو إقليمي.",
-    "concept": "Enron Wind شركة من التقنيات النظيفة تعمل في التقنيات النظيفة — مجال يضع فيه Veolia و Fluence المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Enron Wind شركة من Germany تعمل في التقنيات النظيفة — مجال يضع فيه Veolia و Fluence المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Siemens Energy و GE Vernova",
      "Vestas و Orsted",
@@ -5758,10 +5758,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من حزمة برمجيات لتشغيل وصيانة الطاقات المتجددة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Enron Wind إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Enron Wind est une entreprise de la cleantech qui opère dans la cleantech, un espace où Veolia et Fluence donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Enron Wind est une entreprise de Germany qui opère dans la cleantech, un espace où Veolia et Fluence donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "production renouvelable, efficacité énergétique et recyclage",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de une suite logicielle O&M renouvelable adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Enron Wind en victoire domestique ou régionale.",
-    "concept": "Enron Wind est une entreprise de la cleantech qui opère dans la cleantech, un espace où Veolia et Fluence donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Enron Wind est une entreprise de Germany qui opère dans la cleantech, un espace où Veolia et Fluence donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Siemens Energy et GE Vernova",
      "Vestas et Orsted",
@@ -7309,7 +7309,7 @@
  },
  {
   "name": "AWEA",
-  "country": "American Wind Energy Association",
+  "country": "United States",
   "sub_domain": "(American Wind Energy Association)",
   "short_description": "AWEA operates in clean technology and competes on focus. Its bet is that an efficiency retrofit with metered savings, built for utilities, municipalities and industrial sites, beats a broad horizontal platform.",
   "technology": "renewable generation, energy efficiency and recycling",
@@ -7435,7 +7435,7 @@
  },
  {
   "name": "EWEA",
-  "country": "European Wind Energy Association",
+  "country": "Belgium",
   "sub_domain": "(European Wind Energy Association)",
   "short_description": "Created to attack a specific pain point in clean technology, EWEA bets on an efficiency retrofit with metered savings as the wedge utilities, municipalities and industrial sites will actually buy.",
   "technology": "renewable generation, energy efficiency and recycling",

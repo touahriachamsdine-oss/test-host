@@ -152,6 +152,15 @@ const DOMAIN_META = {
     build: { en: ['a demonstrated prototype tied to one paying use-case', 'a technology-licensing entity around a patent', 'an applied research partnership with industry'], ar: ['نموذج أولي مبرهن مرتبط بحالة استخدام مدفوعة', 'كيان لترخيص التقنيات حول براءة اختراع', 'شراكة بحث تطبيقي مع الصناعة'], fr: ['un prototype prouvé sur un cas payant', 'une entité de licence autour d\u2019un brevet', 'un partenariat R&D appliqué avec l\u2019industrie'] },
     roles: { en: [['Principal scientist', 1], ['R&D engineer', 2], ['Prototype engineer', 1], ['Business/stats dev', 1], ['Founder/lead', 1]], ar: [['عالم رئيسي', 1], ['مهندس بحث وتطوير', 2], ['مهندس نماذج أولية', 1], ['مسؤول أعمال/تطوير', 1], ['مؤسس/قائد', 1]], fr: [['Scientifique principal', 1], ['Ingénieur R&D', 2], ['Ingénieur prototype', 1], ['Business development', 1], ['Fondateur/lead', 1]] },
     base: 81, axis: { technical: 0.44, capital: 0.30, regulatory: 0.10, market: 0.16 }
+  },
+  'law-social-impact': {
+    label: { en: 'law, legaltech and social impact', ar: 'القانون والتقنية القانونية والأثر الاجتماعي', fr: 'le droit, la legaltech et l\u2019impact social' },
+    tech: { en: 'document intelligence, workflow automation and access-to-justice tooling', ar: 'ذكاء المستندات وأتمتة سير العمل وأدوات الوصول إلى العدالة', fr: 'intelligence documentaire, automatisation des flux et outils d\u2019accès à la justice' },
+    audience: { en: 'law firms, legal departments and impact organizations', ar: 'مكاتب المحاماة والإدارات القانونية والمنظمات ذات الأثر', fr: 'cabinets d\u2019avocats, directions juridiques et organisations d\u2019impact' },
+    sellers: { en: ['Thomson Reuters and Clio', 'LexisNexis and Harvey', 'legal aid networks and UN agencies'], ar: ['Thomson Reuters و Clio', 'LexisNexis و Harvey', 'شبكات المساعدة القانونية ووكالات الأمم المتحدة'], fr: ['Thomson Reuters et Clio', 'LexisNexis et Harvey', 'réseaux d\u2019aide juridique et agences de l\u2019ONU'] },
+    build: { en: ['a document-review workflow for a specific practice area', 'a compliance and policy-intelligence platform', 'an access-to-justice product for an underserved population'], ar: ['سير عمل لمراجعة مستندات في مجال تخصصي محدد', 'منصة امتثال واستخبارات سياسات', 'منتج للوصول إلى العدالة لفئة مهمّشة'], fr: ['un flux de revue documentaire pour une spécialité', 'une plateforme de conformité et d\u2019intelligence des politiques', 'un produit d\u2019accès à la justice pour une population sous-desservie'] },
+    roles: { en: [['Full-stack engineer', 2], ['Legal/compliance domain expert', 1], ['Data/NLP engineer', 1], ['Founder/lead', 1]], ar: [['مهندس متكامل', 2], ['خبير قانوني/امتثال', 1], ['مهندس بيانات/معالجة لغة', 1], ['مؤسس/قائد', 1]], fr: [['Ingénieur full-stack', 2], ['Expert juridique/compliance', 1], ['Ingénieur data/NLP', 1], ['Fondateur/lead', 1]] },
+    base: 47, axis: { technical: 0.30, capital: 0.18, regulatory: 0.34, market: 0.18 }
   }
 };
 

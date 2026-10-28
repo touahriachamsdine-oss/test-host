@@ -1,0 +1,772 @@
+[
+ {
+  "name": "1789 Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Advanced Technology Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Almaz Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Alumni Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Andreessen Horowitz",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "ARCH Venture Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Atlas Venture",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "August Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Austin Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "B Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Bain Capital Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Battery Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Benchmark Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Bessemer Venture Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Binary Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Blumberg Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "CapitalG",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Canaan Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Charles River Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Columbus Nova",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Cottonwood Technology Fund",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Crosslink Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "CrunchFund",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "DAG Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "DCM Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Draper Fisher Jurvetson",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "First Round Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "FirstMark Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Flagship Pioneering",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Foundation Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Founder Collective",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Founders Fund",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Gaingels",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "General Catalyst",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "GE Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Greycroft",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Greylock Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Growthworks",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "GSR Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Highland Capital Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Hustle Fund",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "IDG Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Index Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Initialized Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "In-Q-Tel",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Insight Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Institutional Venture Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Intel Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Intellectual Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Keiretsu Forum",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Khosla Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Kleiner Perkins",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Lightbank",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Lighter Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Lightspeed Venture Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Liquid 2 Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Lux Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Matrix Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Maveron",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Meritech Capital Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "New Enterprise Associates",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Norwest Venture Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Oak Investment Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Paradigm Operations",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Plug and Play Tech Center",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Polaris Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Qualcomm Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Redpoint Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Revolution LLC",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Ribbit Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Rothenberg Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "RRE Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Sapphire Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Scale Venture Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Sequoia Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Sevin Rosen Funds",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Social Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "SoftTech VC",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "SOSV",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Spark Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "SV Angel",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Tenaya Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Third Rock Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Thrive Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Tiger Global Management",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "U.S. Venture Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Union Square Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Venrock",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Versant Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Vivo Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Walden International",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Y Combinator",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Acton Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Atomico Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Balderton Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "DN Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Draper Esprit",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "EQT Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Genesis Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "German Startups Group",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "HBM Healthcare Investments",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "HealthCap",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "High-Tech Gründerfonds",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Impact X",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Infinity Group",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Iris Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Jerusalem Venture Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Mercia Fund Management",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Newfund",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Nova Founders Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Oxford Science Enterprises",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Pitango",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Porton Group",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Seedcamp",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "SoftBank Vision Fund",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "SyndicateRoom",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "TBG AG",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Wellington Partners Venture Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "5Y Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Addor Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "CAS Star",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Chiratae Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "CoStone Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Cowin Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "DST Global",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Eastern Bell Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Fortune Venture Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Gaorong Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Gobi Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Granite Asia",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "HongShan",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "IDG Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "JAFCO",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "K2VC",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Lanchi Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "MiraclePlus",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "MPCi",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Northern Light Venture Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Oriental Fortune Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Oriza Holdings",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Plum Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Qiming Venture Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Quest Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Shanghai Venture Capital Co.",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Shenzhen Capital Group",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Shenzhen HTI Group",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Shunwei Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Sinovation Ventures",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Source Code Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "STIC Investments",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Tiantu Capital",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "Vertex Holdings",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "ZhenFund",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ },
+ {
+  "name": "ZWC Partners",
+  "industry": "venture capital",
+  "domain": "other-deep-tech"
+ }
+]

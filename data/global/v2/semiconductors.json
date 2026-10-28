@@ -1,7 +1,7 @@
 [
  {
   "name": "Teledyne Technologies",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "Foundry, MEMS",
   "short_description": "Teledyne Technologies operates in semiconductors and competes on focus. Its bet is that a packaging or test service, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -127,7 +127,7 @@
  },
  {
   "name": "STMicroelectronics",
-  "country": "Unknown",
+  "country": "Netherlands",
   "sub_domain": "28, 55, 65",
   "short_description": "The team behind STMicroelectronics targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -135,7 +135,7 @@
   "official_site": "https://en.wikipedia.org/wiki/STMicroelectronics",
   "source_url": "https://en.wikipedia.org/wiki/STMicroelectronics",
   "why_relevant": "The Algerian angle is affordability and context: a specialized analog or power chip for one application, simplified for local needs — plus the engineering-diploma pipeline — can turn STMicroelectronics’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind STMicroelectronics targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -631,7 +631,7 @@
  },
  {
   "name": "EM Microelectronic",
-  "country": "Unknown",
+  "country": "Switzerland",
   "sub_domain": "Foundry, microcontrollers, ASIC, RFID, smart cards",
   "short_description": "EM Microelectronic operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -639,7 +639,7 @@
   "official_site": "https://en.wikipedia.org/wiki/EM_Microelectronic",
   "source_url": "https://en.wikipedia.org/wiki/EM_Microelectronic",
   "why_relevant": "The Algerian angle is affordability and context: EDA tooling for a design bottleneck, simplified for local needs — plus the engineering-diploma pipeline — can turn EM Microelectronic’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "EM Microelectronic operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -1009,7 +1009,7 @@
  },
  {
   "name": "Texas Instruments",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "350, 250",
   "short_description": "Texas Instruments operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -1017,7 +1017,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Texas_Instruments",
   "source_url": "https://en.wikipedia.org/wiki/Texas_Instruments",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Texas Instruments operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -1135,7 +1135,7 @@
  },
  {
   "name": "Tsinghua Unigroup",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "semiconductor fabrication",
   "short_description": "Tsinghua Unigroup operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -2138,132 +2138,6 @@
     "build_approach": "Le chemin réaliste commence par de longs cycles de vente : décrochez un client de référence à un prix juste, puis vendez le résultat, pas l’outil. un service de packaging ou de test donne à l’équipe une démo défendable.",
     "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi règles d’exportation et d’achat — la couche licence et conformité.",
     "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un service de packaging ou de test adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Intel en victoire domestique ou régionale."
-   }
-  }
- },
- {
-  "name": "Tower Semiconductor",
-  "country": "Unknown",
-  "sub_domain": "Japan, Tonami",
-  "short_description": "Created to attack a specific pain point in semiconductors, Tower Semiconductor bets on EDA tooling for a design bottleneck as the wedge electronics OEMs and fabless design teams will actually buy.",
-  "technology": "chip design, fabrication processes and advanced packaging",
-  "year_founded": null,
-  "official_site": "https://en.wikipedia.org/wiki/Tower_Semiconductor",
-  "source_url": "https://en.wikipedia.org/wiki/Tower_Semiconductor",
-  "why_relevant": "The Algerian angle is affordability and context: EDA tooling for a design bottleneck, simplified for local needs — plus the engineering-diploma pipeline — can turn Tower Semiconductor’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Created to attack a specific pain point in semiconductors, Tower Semiconductor bets on EDA tooling for a design bottleneck as the wedge electronics OEMs and fabless design teams will actually buy.",
-  "main_sellers": [
-   "TSMC and Samsung Foundry",
-   "Intel and GlobalFoundries",
-   "NVIDIA and Qualcomm"
-  ],
-  "team_rec": [
-   [
-    "ASIC/RTL design engineer",
-    2
-   ],
-   [
-    "Analog/PDK engineer",
-    1
-   ],
-   [
-    "Verification engineer",
-    1
-   ],
-   [
-    "Test engineer",
-    1
-   ],
-   [
-    "Founder/lead",
-    1
-   ]
-  ],
-  "build_approach": "Build the MVP around EDA tooling for a design bottleneck, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
-  "product_issues": "Tower Semiconductor competes against incumbents with deep integration and pricing power. The realistic risks are channel lock-in, long procurement cycles and a price war in the commodity tier.",
-  "algeria_value": "The Algerian angle is affordability and context: EDA tooling for a design bottleneck, simplified for local needs — plus the engineering-diploma pipeline — can turn Tower Semiconductor’s playbook into a domestic or regional win.",
-  "difficulty_score": 86,
-  "difficulty_breakdown": {
-   "technical": 38,
-   "capital": 34,
-   "regulatory": 9,
-   "market": 19
-  },
-  "source_tier": "S2",
-  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
-  "translations": {
-   "ar": {
-    "short_description": "Tower Semiconductor أُنشئ لمعالجة نقطة ألم محددة في أشباه الموصلات، ويعتمد أدوات EDA لفجوة تصميم محدد كمدخل سيجعله مصنّعي الإلكترونيات وفرق التصميم التجريبية يشترون فعلاً.",
-    "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
-    "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من أدوات EDA لفجوة تصميم محدد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Tower Semiconductor إلى نجاح محلي أو إقليمي.",
-    "concept": "Tower Semiconductor أُنشئ لمعالجة نقطة ألم محددة في أشباه الموصلات، ويعتمد أدوات EDA لفجوة تصميم محدد كمدخل سيجعله مصنّعي الإلكترونيات وفرق التصميم التجريبية يشترون فعلاً.",
-    "main_sellers": [
-     "TSMC و Samsung Foundry",
-     "Intel و GlobalFoundries",
-     "NVIDIA و Qualcomm"
-    ],
-    "team_rec": [
-     [
-      "مهندس تصميم ASIC/RTL",
-      2
-     ],
-     [
-      "مهندس تماثلي/PDK",
-      1
-     ],
-     [
-      "مهندس تحقق",
-      1
-     ],
-     [
-      "مهندس اختبار",
-      1
-     ],
-     [
-      "مؤسس/قائد",
-      1
-     ]
-    ],
-    "build_approach": "ابنِ النموذج الأولي حول أدوات EDA لفجوة تصميم محدد، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
-    "product_issues": "يتنافس Tower Semiconductor ضد لاعبين راسخين يملكون تكاملاً عميقاً وقوة تسعيرية. المخاطر الواقعية: احتكار القنوات، دورات شراء طويلة، وحرب أسعار في الطبقة القياسية.",
-    "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من أدوات EDA لفجوة تصميم محدد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Tower Semiconductor إلى نجاح محلي أو إقليمي."
-   },
-   "fr": {
-    "short_description": "Créée pour un point de douleur précis dans les semi-conducteurs, Tower Semiconductor mise sur un outil EDA sur un goulet de conception comme la porte d’entrée que fabricants d’électronique et équipes fabless achètera réellement.",
-    "technology": "conception de puces, procédés de fabrication et packaging avancé",
-    "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un outil EDA sur un goulet de conception adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Tower Semiconductor en victoire domestique ou régionale.",
-    "concept": "Créée pour un point de douleur précis dans les semi-conducteurs, Tower Semiconductor mise sur un outil EDA sur un goulet de conception comme la porte d’entrée que fabricants d’électronique et équipes fabless achètera réellement.",
-    "main_sellers": [
-     "TSMC et Samsung Foundry",
-     "Intel et GlobalFoundries",
-     "NVIDIA et Qualcomm"
-    ],
-    "team_rec": [
-     [
-      "Ingénieur conception ASIC/RTL",
-      2
-     ],
-     [
-      "Ingénieur analogique/PDK",
-      1
-     ],
-     [
-      "Ingénieur vérification",
-      1
-     ],
-     [
-      "Ingénieur test",
-      1
-     ],
-     [
-      "Fondateur/lead",
-      1
-     ]
-    ],
-    "build_approach": "Construisez le MVP autour de un outil EDA sur un goulet de conception, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
-    "product_issues": "Tower Semiconductor affronte des acteurs établis dotés d’intégration profonde et de pouvoir de prix. Risques réels : verrouillage des canaux, cycles d’achat longs, guerre des prix sur le segment générique.",
-    "algeria_value": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un outil EDA sur un goulet de conception adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Tower Semiconductor en victoire domestique ou régionale."
    }
   }
  },
@@ -3403,7 +3277,7 @@
  },
  {
   "name": "Dynex Semiconductor",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "Power Semiconductors",
   "short_description": "In the crowded field of semiconductors, Dynex Semiconductor differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -3411,7 +3285,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Dynex_Semiconductor",
   "source_url": "https://en.wikipedia.org/wiki/Dynex_Semiconductor",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Dynex Semiconductor could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of semiconductors, Dynex Semiconductor differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -3907,16 +3781,16 @@
  },
  {
   "name": "Kioxia",
-  "country": "Unknown",
+  "country": "Japan",
   "sub_domain": "173,334",
-  "short_description": "Kioxia is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Kioxia is a Japan company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Kioxia",
   "source_url": "https://en.wikipedia.org/wiki/Kioxia",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Kioxia could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Kioxia is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Kioxia is a Japan company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -3958,10 +3832,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Kioxia شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Kioxia شركة من Japan تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Kioxia توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Kioxia شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Kioxia شركة من Japan تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -3994,10 +3868,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Kioxia توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Kioxia est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Kioxia est une entreprise de Japan qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Kioxia pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Kioxia est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Kioxia est une entreprise de Japan qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -4411,16 +4285,16 @@
  },
  {
   "name": "Powerchip Semiconductor",
-  "country": "Unknown",
+  "country": "Taiwan",
   "sub_domain": "300",
-  "short_description": "Powerchip Semiconductor is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Powerchip Semiconductor is a Taiwan company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Powerchip_Semiconductor",
   "source_url": "https://en.wikipedia.org/wiki/Powerchip_Semiconductor",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Powerchip Semiconductor could localize its core for the Algerian context instead of adapting a foreign product.",
   "priority": "A",
-  "concept": "Powerchip Semiconductor is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Powerchip Semiconductor is a Taiwan company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -4462,10 +4336,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Powerchip Semiconductor شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Powerchip Semiconductor شركة من Taiwan تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Powerchip Semiconductor توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Powerchip Semiconductor شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Powerchip Semiconductor شركة من Taiwan تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -4498,10 +4372,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Powerchip Semiconductor توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Powerchip Semiconductor est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Powerchip Semiconductor est une entreprise de Taiwan qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Powerchip Semiconductor pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Powerchip Semiconductor est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Powerchip Semiconductor est une entreprise de Taiwan qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -4537,7 +4411,7 @@
  },
  {
   "name": "Macronix",
-  "country": "Unknown",
+  "country": "Taiwan",
   "sub_domain": "50,000",
   "short_description": "The team behind Macronix targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -4545,7 +4419,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Macronix",
   "source_url": "https://en.wikipedia.org/wiki/Macronix",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Macronix could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "The team behind Macronix targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -5923,7 +5797,7 @@
  },
  {
   "name": "LG Innotek",
-  "country": "Unknown",
+  "country": "South Korea",
   "sub_domain": "semiconductor fabrication",
   "short_description": "In the crowded field of semiconductors, LG Innotek differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -5931,7 +5805,7 @@
   "official_site": "https://en.wikipedia.org/wiki/LG_Innotek",
   "source_url": "https://en.wikipedia.org/wiki/LG_Innotek",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, LG Innotek differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -6553,16 +6427,16 @@
  },
  {
   "name": "Diodes Incorporated",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductor fabrication",
-  "short_description": "Diodes Incorporated is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Diodes Incorporated is a United States company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Diodes_Incorporated",
   "source_url": "https://en.wikipedia.org/wiki/Diodes_Incorporated",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Diodes Incorporated could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Diodes Incorporated is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Diodes Incorporated is a United States company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -6604,10 +6478,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Diodes Incorporated شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Diodes Incorporated شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Diodes Incorporated توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Diodes Incorporated شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Diodes Incorporated شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -6640,10 +6514,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Diodes Incorporated توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Diodes Incorporated est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Diodes Incorporated est une entreprise de United States qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Diodes Incorporated pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Diodes Incorporated est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Diodes Incorporated est une entreprise de United States qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -7057,7 +6931,7 @@
  },
  {
   "name": "Newport Wafer Fab",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "700-180",
   "short_description": "The team behind Newport Wafer Fab targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -7065,7 +6939,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Newport_Wafer_Fab",
   "source_url": "https://en.wikipedia.org/wiki/Newport_Wafer_Fab",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "The team behind Newport Wafer Fab targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -7687,16 +7561,16 @@
  },
  {
   "name": "Skyworks Solutions",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "Foundry, GaAs",
-  "short_description": "Skyworks Solutions is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Skyworks Solutions is a United States company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Skyworks_Solutions",
   "source_url": "https://en.wikipedia.org/wiki/Skyworks_Solutions",
   "why_relevant": "The Algerian angle is affordability and context: EDA tooling for a design bottleneck, simplified for local needs — plus the engineering-diploma pipeline — can turn Skyworks Solutions’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Skyworks Solutions is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Skyworks Solutions is a United States company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -7738,10 +7612,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Skyworks Solutions شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Skyworks Solutions شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من أدوات EDA لفجوة تصميم محدد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Skyworks Solutions إلى نجاح محلي أو إقليمي.",
-    "concept": "Skyworks Solutions شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Skyworks Solutions شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -7774,10 +7648,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من أدوات EDA لفجوة تصميم محدد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Skyworks Solutions إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Skyworks Solutions est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Skyworks Solutions est une entreprise de United States qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un outil EDA sur un goulet de conception adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Skyworks Solutions en victoire domestique ou régionale.",
-    "concept": "Skyworks Solutions est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Skyworks Solutions est une entreprise de United States qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -9955,7 +9829,7 @@
  },
  {
   "name": "SUNY Poly CNSE",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "1997",
   "short_description": "The team behind SUNY Poly CNSE targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -10963,7 +10837,7 @@
  },
  {
   "name": "Orbit Semiconductor",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductor fabrication",
   "short_description": "Created to attack a specific pain point in semiconductors, Orbit Semiconductor bets on EDA tooling for a design bottleneck as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -10971,7 +10845,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Orbit_Semiconductor",
   "source_url": "https://en.wikipedia.org/wiki/Orbit_Semiconductor",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in semiconductors, Orbit Semiconductor bets on EDA tooling for a design bottleneck as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -14743,16 +14617,16 @@
  },
  {
   "name": "Pragmatic Semiconductor",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "2018",
-  "short_description": "Pragmatic Semiconductor is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Pragmatic Semiconductor is a United Kingdom company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Pragmatic_Semiconductor",
   "source_url": "https://en.wikipedia.org/wiki/Pragmatic_Semiconductor",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
-  "concept": "Pragmatic Semiconductor is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Pragmatic Semiconductor is a United Kingdom company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -14794,10 +14668,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Pragmatic Semiconductor شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Pragmatic Semiconductor شركة من United Kingdom تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "Pragmatic Semiconductor شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Pragmatic Semiconductor شركة من United Kingdom تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -14830,10 +14704,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "Pragmatic Semiconductor est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Pragmatic Semiconductor est une entreprise de United Kingdom qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les semi-conducteurs peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "Pragmatic Semiconductor est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Pragmatic Semiconductor est une entreprise de United Kingdom qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -17263,16 +17137,16 @@
  },
  {
   "name": "Honeywell Aerospace Technologies",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductor fabrication",
-  "short_description": "Honeywell Aerospace Technologies is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Honeywell Aerospace Technologies is a United States company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Honeywell_Aerospace_Technologies",
   "source_url": "https://en.wikipedia.org/wiki/Honeywell_Aerospace_Technologies",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
-  "concept": "Honeywell Aerospace Technologies is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Honeywell Aerospace Technologies is a United States company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -17314,10 +17188,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Honeywell Aerospace Technologies شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Honeywell Aerospace Technologies شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "Honeywell Aerospace Technologies شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Honeywell Aerospace Technologies شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -17350,10 +17224,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "Honeywell Aerospace Technologies est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Honeywell Aerospace Technologies est une entreprise de United States qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les semi-conducteurs peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "Honeywell Aerospace Technologies est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Honeywell Aerospace Technologies est une entreprise de United States qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -18271,7 +18145,7 @@
  },
  {
   "name": "Plessey Semiconductors",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "3",
   "short_description": "In the crowded field of semiconductors, Plessey Semiconductors differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -18279,7 +18153,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Plessey_Semiconductors",
   "source_url": "https://en.wikipedia.org/wiki/Plessey_Semiconductors",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Plessey Semiconductors could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, Plessey Semiconductors differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -19531,7 +19405,7 @@
  },
  {
   "name": "Achronix",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, Achronix bets on EDA tooling for a design bottleneck as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -19657,7 +19531,7 @@
  },
  {
   "name": "ACM Research",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "semiconductors",
   "short_description": "ACM Research operates in semiconductors and competes on focus. Its bet is that a packaging or test service, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -19665,7 +19539,7 @@
   "official_site": "https://en.wikipedia.org/wiki/ACM_Research",
   "source_url": "https://en.wikipedia.org/wiki/ACM_Research",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. ACM Research could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "ACM Research operates in semiconductors and competes on focus. Its bet is that a packaging or test service, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -19783,7 +19657,7 @@
  },
  {
   "name": "Advanced Linear Devices",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Advanced Linear Devices operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -19909,16 +19783,16 @@
  },
  {
   "name": "Air Liquide",
-  "country": "Unknown",
+  "country": "France",
   "sub_domain": "semiconductors",
-  "short_description": "Air Liquide is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Air Liquide is a France company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Air_Liquide",
   "source_url": "https://en.wikipedia.org/wiki/Air_Liquide",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Air Liquide could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Air Liquide is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Air Liquide is a France company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -19960,10 +19834,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Air Liquide شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Air Liquide شركة من France تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Air Liquide توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Air Liquide شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Air Liquide شركة من France تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -19996,10 +19870,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Air Liquide توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Air Liquide est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Air Liquide est une entreprise de France qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Air Liquide pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Air Liquide est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Air Liquide est une entreprise de France qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -20035,7 +19909,7 @@
  },
  {
   "name": "Alereon",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Alereon differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -20161,7 +20035,7 @@
  },
  {
   "name": "Ambarella Inc.",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "The team behind Ambarella Inc. targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a packaging or test service makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -20169,7 +20043,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Ambarella_Inc.",
   "source_url": "https://en.wikipedia.org/wiki/Ambarella_Inc.",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Ambarella Inc. could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Ambarella Inc. targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a packaging or test service makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -20287,16 +20161,16 @@
  },
  {
   "name": "Ambiq Micro",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Ambiq Micro is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Ambiq Micro is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Ambiq_Micro",
   "source_url": "https://en.wikipedia.org/wiki/Ambiq_Micro",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Ambiq Micro could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Ambiq Micro is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Ambiq Micro is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -20338,10 +20212,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Ambiq Micro شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Ambiq Micro شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Ambiq Micro توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Ambiq Micro شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Ambiq Micro شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -20374,10 +20248,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Ambiq Micro توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Ambiq Micro est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Ambiq Micro est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Ambiq Micro pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Ambiq Micro est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Ambiq Micro est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -20413,7 +20287,7 @@
  },
  {
   "name": "AMD",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, AMD differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -20421,7 +20295,7 @@
   "official_site": "https://en.wikipedia.org/wiki/AMD",
   "source_url": "https://en.wikipedia.org/wiki/AMD",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, AMD differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -20539,16 +20413,16 @@
  },
  {
   "name": "Amkor Technology",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Amkor Technology is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Amkor Technology is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Amkor_Technology",
   "source_url": "https://en.wikipedia.org/wiki/Amkor_Technology",
   "why_relevant": "The Algerian angle is affordability and context: a specialized analog or power chip for one application, simplified for local needs — plus the engineering-diploma pipeline — can turn Amkor Technology’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Amkor Technology is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Amkor Technology is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -20590,10 +20464,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Amkor Technology شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Amkor Technology شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من رقاقة تماثلية أو قدرة متخصصة لتطبيق واحد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Amkor Technology إلى نجاح محلي أو إقليمي.",
-    "concept": "Amkor Technology شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Amkor Technology شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -20626,10 +20500,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من رقاقة تماثلية أو قدرة متخصصة لتطبيق واحد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Amkor Technology إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Amkor Technology est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Amkor Technology est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de une puce analogique ou de puissance de niche adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Amkor Technology en victoire domestique ou régionale.",
-    "concept": "Amkor Technology est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Amkor Technology est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -20665,7 +20539,7 @@
  },
  {
   "name": "Amlogic",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Amlogic differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -20791,7 +20665,7 @@
  },
  {
   "name": "Ampere Computing",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "The team behind Ampere Computing targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: EDA tooling for a design bottleneck makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -20917,7 +20791,7 @@
  },
  {
   "name": "Ansys",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, Ansys bets on a specialized analog or power chip for one application as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -21043,7 +20917,7 @@
  },
  {
   "name": "Applied Materials",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, Applied Materials bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -21051,7 +20925,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Applied_Materials",
   "source_url": "https://en.wikipedia.org/wiki/Applied_Materials",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in semiconductors, Applied Materials bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -21169,7 +21043,7 @@
  },
  {
   "name": "Aptina",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Aptina differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -21177,7 +21051,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Aptina",
   "source_url": "https://en.wikipedia.org/wiki/Aptina",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Aptina could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of semiconductors, Aptina differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -21295,7 +21169,7 @@
  },
  {
   "name": "Arteris",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "The team behind Arteris targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a packaging or test service makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -21303,7 +21177,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Arteris",
   "source_url": "https://en.wikipedia.org/wiki/Arteris",
   "why_relevant": "The Algerian angle is affordability and context: a packaging or test service, simplified for local needs — plus the engineering-diploma pipeline — can turn Arteris’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Arteris targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a packaging or test service makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -21421,7 +21295,7 @@
  },
  {
   "name": "ASML",
-  "country": "Unknown",
+  "country": "Netherlands",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, ASML bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -21429,7 +21303,7 @@
   "official_site": "https://en.wikipedia.org/wiki/ASML",
   "source_url": "https://en.wikipedia.org/wiki/ASML",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in semiconductors, ASML bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -21547,16 +21421,16 @@
  },
  {
   "name": "Atomera",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Atomera is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Atomera is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Atomera",
   "source_url": "https://en.wikipedia.org/wiki/Atomera",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
-  "concept": "Atomera is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "C",
+  "concept": "Atomera is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -21598,10 +21472,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Atomera شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Atomera شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "Atomera شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Atomera شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -21634,10 +21508,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "Atomera est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Atomera est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les semi-conducteurs peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "Atomera est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Atomera est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -21673,7 +21547,7 @@
  },
  {
   "name": "BAE Systems",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "semiconductors",
   "short_description": "BAE Systems operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -21681,7 +21555,7 @@
   "official_site": "https://en.wikipedia.org/wiki/BAE_Systems",
   "source_url": "https://en.wikipedia.org/wiki/BAE_Systems",
   "why_relevant": "The Algerian angle is affordability and context: a specialized analog or power chip for one application, simplified for local needs — plus the engineering-diploma pipeline — can turn BAE Systems’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "BAE Systems operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -21799,7 +21673,7 @@
  },
  {
   "name": "Cadence Design Systems",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Cadence Design Systems operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -21807,7 +21681,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Cadence_Design_Systems",
   "source_url": "https://en.wikipedia.org/wiki/Cadence_Design_Systems",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Cadence Design Systems operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -21925,7 +21799,7 @@
  },
  {
   "name": "Canesta",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Canesta operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -21933,7 +21807,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Canesta",
   "source_url": "https://en.wikipedia.org/wiki/Canesta",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Canesta could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Canesta operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -22051,7 +21925,7 @@
  },
  {
   "name": "Cascade Microtech",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Cascade Microtech operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -22059,7 +21933,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Cascade_Microtech",
   "source_url": "https://en.wikipedia.org/wiki/Cascade_Microtech",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Cascade Microtech operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -22177,7 +22051,7 @@
  },
  {
   "name": "Chelsio Communications",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, Chelsio Communications bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -22185,7 +22059,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Chelsio_Communications",
   "source_url": "https://en.wikipedia.org/wiki/Chelsio_Communications",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in semiconductors, Chelsio Communications bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -22429,7 +22303,7 @@
  },
  {
   "name": "Coherent Corp.",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "The team behind Coherent Corp. targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a packaging or test service makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -22437,7 +22311,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Coherent_Corp.",
   "source_url": "https://en.wikipedia.org/wiki/Coherent_Corp.",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Coherent Corp. targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a packaging or test service makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -23059,7 +22933,7 @@
  },
  {
   "name": "Edwards Vacuum",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "semiconductors",
   "short_description": "The team behind Edwards Vacuum targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a packaging or test service makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -23067,7 +22941,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Edwards_Vacuum",
   "source_url": "https://en.wikipedia.org/wiki/Edwards_Vacuum",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Edwards Vacuum could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "The team behind Edwards Vacuum targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a packaging or test service makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -23185,16 +23059,16 @@
  },
  {
   "name": "Efficient Power Conversion",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Efficient Power Conversion is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Efficient Power Conversion is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Efficient_Power_Conversion",
   "source_url": "https://en.wikipedia.org/wiki/Efficient_Power_Conversion",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
   "priority": "A",
-  "concept": "Efficient Power Conversion is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Efficient Power Conversion is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -23236,10 +23110,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Efficient Power Conversion شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Efficient Power Conversion شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "Efficient Power Conversion شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Efficient Power Conversion شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -23272,10 +23146,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "Efficient Power Conversion est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Efficient Power Conversion est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les semi-conducteurs peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "Efficient Power Conversion est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Efficient Power Conversion est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -23311,7 +23185,7 @@
  },
  {
   "name": "Entegris",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, Entegris bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -23319,7 +23193,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Entegris",
   "source_url": "https://en.wikipedia.org/wiki/Entegris",
   "why_relevant": "The Algerian angle is affordability and context: a packaging or test service, simplified for local needs — plus the engineering-diploma pipeline — can turn Entegris’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in semiconductors, Entegris bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -23563,7 +23437,7 @@
  },
  {
   "name": "ESilicon",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, ESilicon differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -23571,7 +23445,7 @@
   "official_site": "https://en.wikipedia.org/wiki/ESilicon",
   "source_url": "https://en.wikipedia.org/wiki/ESilicon",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, ESilicon differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -23941,7 +23815,7 @@
  },
  {
   "name": "FSI International",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, FSI International differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -23949,7 +23823,7 @@
   "official_site": "https://en.wikipedia.org/wiki/FSI_International",
   "source_url": "https://en.wikipedia.org/wiki/FSI_International",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, FSI International differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -24193,7 +24067,7 @@
  },
  {
   "name": "GlobalWafers",
-  "country": "Unknown",
+  "country": "Taiwan",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, GlobalWafers bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -24201,7 +24075,7 @@
   "official_site": "https://en.wikipedia.org/wiki/GlobalWafers",
   "source_url": "https://en.wikipedia.org/wiki/GlobalWafers",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. GlobalWafers could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in semiconductors, GlobalWafers bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -24445,16 +24319,16 @@
  },
  {
   "name": "Greenliant Systems",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Greenliant Systems is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Greenliant Systems is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Greenliant_Systems",
   "source_url": "https://en.wikipedia.org/wiki/Greenliant_Systems",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Greenliant Systems could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Greenliant Systems is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "C",
+  "concept": "Greenliant Systems is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -24496,10 +24370,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Greenliant Systems شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Greenliant Systems شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Greenliant Systems توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Greenliant Systems شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Greenliant Systems شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -24532,10 +24406,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Greenliant Systems توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Greenliant Systems est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Greenliant Systems est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Greenliant Systems pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Greenliant Systems est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Greenliant Systems est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -24697,7 +24571,7 @@
  },
  {
   "name": "Hemlock Semiconductor",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, Hemlock Semiconductor bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -24705,7 +24579,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Hemlock_Semiconductor",
   "source_url": "https://en.wikipedia.org/wiki/Hemlock_Semiconductor",
   "why_relevant": "The Algerian angle is affordability and context: a packaging or test service, simplified for local needs — plus the engineering-diploma pipeline — can turn Hemlock Semiconductor’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in semiconductors, Hemlock Semiconductor bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -24823,7 +24697,7 @@
  },
  {
   "name": "Honeywell Aerospace",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Honeywell Aerospace differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -24831,7 +24705,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Honeywell_Aerospace",
   "source_url": "https://en.wikipedia.org/wiki/Honeywell_Aerospace",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Honeywell Aerospace could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, Honeywell Aerospace differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -25201,7 +25075,7 @@
  },
  {
   "name": "Inphi Corporation",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "The team behind Inphi Corporation targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -25327,16 +25201,16 @@
  },
  {
   "name": "Integra Technologies",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Integra Technologies is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Integra Technologies is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Integra_Technologies",
   "source_url": "https://en.wikipedia.org/wiki/Integra_Technologies",
   "why_relevant": "The Algerian angle is affordability and context: a packaging or test service, simplified for local needs — plus the engineering-diploma pipeline — can turn Integra Technologies’s playbook into a domestic or regional win.",
   "priority": "A",
-  "concept": "Integra Technologies is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Integra Technologies is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -25378,10 +25252,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Integra Technologies شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Integra Technologies شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من خدمة تغليف أو اختبار مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Integra Technologies إلى نجاح محلي أو إقليمي.",
-    "concept": "Integra Technologies شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Integra Technologies شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -25414,10 +25288,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من خدمة تغليف أو اختبار مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Integra Technologies إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Integra Technologies est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Integra Technologies est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un service de packaging ou de test adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Integra Technologies en victoire domestique ou régionale.",
-    "concept": "Integra Technologies est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Integra Technologies est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -25453,7 +25327,7 @@
  },
  {
   "name": "InvenSense",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, InvenSense bets on a specialized analog or power chip for one application as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -25579,7 +25453,7 @@
  },
  {
   "name": "IQE",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, IQE differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -25587,7 +25461,7 @@
   "official_site": "https://en.wikipedia.org/wiki/IQE",
   "source_url": "https://en.wikipedia.org/wiki/IQE",
   "why_relevant": "The Algerian angle is affordability and context: EDA tooling for a design bottleneck, simplified for local needs — plus the engineering-diploma pipeline — can turn IQE’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of semiconductors, IQE differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -25705,7 +25579,7 @@
  },
  {
   "name": "Jazz Semiconductor",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Jazz Semiconductor differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -26083,7 +25957,7 @@
  },
  {
   "name": "Lam Research",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Lam Research operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -26091,7 +25965,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Lam_Research",
   "source_url": "https://en.wikipedia.org/wiki/Lam_Research",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Lam Research operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -26209,7 +26083,7 @@
  },
  {
   "name": "Lattice Semiconductor",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Lattice Semiconductor differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -26217,7 +26091,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Lattice_Semiconductor",
   "source_url": "https://en.wikipedia.org/wiki/Lattice_Semiconductor",
   "why_relevant": "The Algerian angle is affordability and context: a packaging or test service, simplified for local needs — plus the engineering-diploma pipeline — can turn Lattice Semiconductor’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of semiconductors, Lattice Semiconductor differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -26587,7 +26461,7 @@
  },
  {
   "name": "Linear Integrated Systems",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Linear Integrated Systems operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -26839,7 +26713,7 @@
  },
  {
   "name": "Luminar Technologies",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, Luminar Technologies bets on EDA tooling for a design bottleneck as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -26847,7 +26721,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Luminar_Technologies",
   "source_url": "https://en.wikipedia.org/wiki/Luminar_Technologies",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in semiconductors, Luminar Technologies bets on EDA tooling for a design bottleneck as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -26965,7 +26839,7 @@
  },
  {
   "name": "Luxtera",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "The team behind Luxtera targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -26973,7 +26847,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Luxtera",
   "source_url": "https://en.wikipedia.org/wiki/Luxtera",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Luxtera could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Luxtera targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -27091,7 +26965,7 @@
  },
  {
   "name": "MACOM Technology Solutions",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "MACOM Technology Solutions operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -27099,7 +26973,7 @@
   "official_site": "https://en.wikipedia.org/wiki/MACOM_Technology_Solutions",
   "source_url": "https://en.wikipedia.org/wiki/MACOM_Technology_Solutions",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "MACOM Technology Solutions operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -27595,7 +27469,7 @@
  },
  {
   "name": "MCube",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "MCube operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -27603,7 +27477,7 @@
   "official_site": "https://en.wikipedia.org/wiki/MCube",
   "source_url": "https://en.wikipedia.org/wiki/MCube",
   "why_relevant": "The Algerian angle is affordability and context: EDA tooling for a design bottleneck, simplified for local needs — plus the engineering-diploma pipeline — can turn MCube’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "MCube operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -27973,16 +27847,16 @@
  },
  {
   "name": "Microchip Technology",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Microchip Technology is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Microchip Technology is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Microchip_Technology",
   "source_url": "https://en.wikipedia.org/wiki/Microchip_Technology",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Microchip Technology could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Microchip Technology is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Microchip Technology is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -28024,10 +27898,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Microchip Technology شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Microchip Technology شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Microchip Technology توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Microchip Technology شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Microchip Technology شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -28060,10 +27934,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Microchip Technology توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Microchip Technology est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Microchip Technology est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Microchip Technology pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Microchip Technology est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Microchip Technology est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -28603,7 +28477,7 @@
  },
  {
   "name": "MoSys",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, MoSys bets on a specialized analog or power chip for one application as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -28611,7 +28485,7 @@
   "official_site": "https://en.wikipedia.org/wiki/MoSys",
   "source_url": "https://en.wikipedia.org/wiki/MoSys",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. MoSys could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Created to attack a specific pain point in semiconductors, MoSys bets on a specialized analog or power chip for one application as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -28729,7 +28603,7 @@
  },
  {
   "name": "Multibeam Corporation",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Multibeam Corporation operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -28855,7 +28729,7 @@
  },
  {
   "name": "NeoMagic",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "NeoMagic operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -28863,7 +28737,7 @@
   "official_site": "https://en.wikipedia.org/wiki/NeoMagic",
   "source_url": "https://en.wikipedia.org/wiki/NeoMagic",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "NeoMagic operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -29233,7 +29107,7 @@
  },
  {
   "name": "Onto Innovation",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Onto Innovation differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -29241,7 +29115,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Onto_Innovation",
   "source_url": "https://en.wikipedia.org/wiki/Onto_Innovation",
   "why_relevant": "The Algerian angle is affordability and context: EDA tooling for a design bottleneck, simplified for local needs — plus the engineering-diploma pipeline — can turn Onto Innovation’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, Onto Innovation differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -29485,7 +29359,7 @@
  },
  {
   "name": "OPTi",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, OPTi differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -29493,7 +29367,7 @@
   "official_site": "https://en.wikipedia.org/wiki/OPTi",
   "source_url": "https://en.wikipedia.org/wiki/OPTi",
   "why_relevant": "The Algerian angle is affordability and context: EDA tooling for a design bottleneck, simplified for local needs — plus the engineering-diploma pipeline — can turn OPTi’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, OPTi differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -29737,16 +29611,16 @@
  },
  {
   "name": "Packet Digital",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Packet Digital is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Packet Digital is a United States company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Packet_Digital",
   "source_url": "https://en.wikipedia.org/wiki/Packet_Digital",
   "why_relevant": "The Algerian angle is affordability and context: EDA tooling for a design bottleneck, simplified for local needs — plus the engineering-diploma pipeline — can turn Packet Digital’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Packet Digital is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Packet Digital is a United States company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -29788,10 +29662,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Packet Digital شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Packet Digital شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من أدوات EDA لفجوة تصميم محدد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Packet Digital إلى نجاح محلي أو إقليمي.",
-    "concept": "Packet Digital شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Packet Digital شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -29824,10 +29698,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من أدوات EDA لفجوة تصميم محدد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Packet Digital إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Packet Digital est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Packet Digital est une entreprise de United States qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un outil EDA sur un goulet de conception adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Packet Digital en victoire domestique ou régionale.",
-    "concept": "Packet Digital est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Packet Digital est une entreprise de United States qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -30115,7 +29989,7 @@
  },
  {
   "name": "Pixelworks",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Pixelworks operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -30241,7 +30115,7 @@
  },
  {
   "name": "Pulse~Link",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Pulse~Link differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -30249,7 +30123,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Pulse~Link",
   "source_url": "https://en.wikipedia.org/wiki/Pulse~Link",
   "why_relevant": "The Algerian angle is affordability and context: a specialized analog or power chip for one application, simplified for local needs — plus the engineering-diploma pipeline — can turn Pulse~Link’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, Pulse~Link differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -30493,7 +30367,7 @@
  },
  {
   "name": "Rabbit Semiconductor",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Rabbit Semiconductor operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -30501,7 +30375,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Rabbit_Semiconductor",
   "source_url": "https://en.wikipedia.org/wiki/Rabbit_Semiconductor",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Rabbit Semiconductor operates in semiconductors and competes on focus. Its bet is that a specialized analog or power chip for one application, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -30619,7 +30493,7 @@
  },
  {
   "name": "Rambus",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, Rambus bets on EDA tooling for a design bottleneck as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -30745,16 +30619,16 @@
  },
  {
   "name": "Reading Works",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Reading Works is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Reading Works is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Reading_Works",
   "source_url": "https://en.wikipedia.org/wiki/Reading_Works",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
-  "concept": "Reading Works is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Reading Works is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -30796,10 +30670,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Reading Works شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Reading Works شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "Reading Works شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Reading Works شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -30832,10 +30706,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "Reading Works est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Reading Works est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les semi-conducteurs peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "Reading Works est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Reading Works est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -30997,16 +30871,16 @@
  },
  {
   "name": "RF Micropower",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "RF Micropower is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "RF Micropower is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/RF_Micropower",
   "source_url": "https://en.wikipedia.org/wiki/RF_Micropower",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. RF Micropower could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "RF Micropower is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "C",
+  "concept": "RF Micropower is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -31048,10 +30922,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "RF Micropower شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "RF Micropower شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ RF Micropower توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "RF Micropower شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "RF Micropower شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -31084,10 +30958,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ RF Micropower توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "RF Micropower est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "RF Micropower est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. RF Micropower pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "RF Micropower est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "RF Micropower est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -31123,16 +30997,16 @@
  },
  {
   "name": "Rochester Electronics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Rochester Electronics is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Rochester Electronics is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Rochester_Electronics",
   "source_url": "https://en.wikipedia.org/wiki/Rochester_Electronics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
   "priority": "A",
-  "concept": "Rochester Electronics is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Rochester Electronics is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -31174,10 +31048,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Rochester Electronics شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Rochester Electronics شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "Rochester Electronics شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Rochester Electronics شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -31210,10 +31084,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "Rochester Electronics est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Rochester Electronics est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les semi-conducteurs peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "Rochester Electronics est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Rochester Electronics est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -31375,16 +31249,16 @@
  },
  {
   "name": "Samsung Electronics",
-  "country": "Unknown",
+  "country": "South Korea",
   "sub_domain": "semiconductors",
-  "short_description": "Samsung Electronics is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Samsung Electronics is a South Korea company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Samsung_Electronics",
   "source_url": "https://en.wikipedia.org/wiki/Samsung_Electronics",
   "why_relevant": "The Algerian angle is affordability and context: EDA tooling for a design bottleneck, simplified for local needs — plus the engineering-diploma pipeline — can turn Samsung Electronics’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Samsung Electronics is a semiconductors company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Samsung Electronics is a South Korea company working in semiconductors — a space where NVIDIA and Qualcomm set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -31426,10 +31300,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Samsung Electronics شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Samsung Electronics شركة من South Korea تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من أدوات EDA لفجوة تصميم محدد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Samsung Electronics إلى نجاح محلي أو إقليمي.",
-    "concept": "Samsung Electronics شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Samsung Electronics شركة من South Korea تعمل في أشباه الموصلات — مجال يضع فيه NVIDIA و Qualcomm المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -31462,10 +31336,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من أدوات EDA لفجوة تصميم محدد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Samsung Electronics إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Samsung Electronics est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Samsung Electronics est une entreprise de South Korea qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un outil EDA sur un goulet de conception adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Samsung Electronics en victoire domestique ou régionale.",
-    "concept": "Samsung Electronics est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Samsung Electronics est une entreprise de South Korea qui opère dans les semi-conducteurs, un espace où NVIDIA et Qualcomm donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -31627,7 +31501,7 @@
  },
  {
   "name": "Semtech",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Semtech differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -31635,7 +31509,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Semtech",
   "source_url": "https://en.wikipedia.org/wiki/Semtech",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, Semtech differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -31753,7 +31627,7 @@
  },
  {
   "name": "ServerWorks",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, ServerWorks bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -31761,7 +31635,7 @@
   "official_site": "https://en.wikipedia.org/wiki/ServerWorks",
   "source_url": "https://en.wikipedia.org/wiki/ServerWorks",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in semiconductors, ServerWorks bets on a packaging or test service as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -31879,7 +31753,7 @@
  },
  {
   "name": "SiBeam",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, SiBeam bets on a specialized analog or power chip for one application as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -31887,7 +31761,7 @@
   "official_site": "https://en.wikipedia.org/wiki/SiBeam",
   "source_url": "https://en.wikipedia.org/wiki/SiBeam",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. SiBeam could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Created to attack a specific pain point in semiconductors, SiBeam bets on a specialized analog or power chip for one application as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -32005,7 +31879,7 @@
  },
  {
   "name": "SiFive",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "The team behind SiFive targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -32013,7 +31887,7 @@
   "official_site": "https://en.wikipedia.org/wiki/SiFive",
   "source_url": "https://en.wikipedia.org/wiki/SiFive",
   "why_relevant": "The Algerian angle is affordability and context: a specialized analog or power chip for one application, simplified for local needs — plus the engineering-diploma pipeline — can turn SiFive’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind SiFive targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -32509,7 +32383,7 @@
  },
  {
   "name": "Silicon Systems",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "The team behind Silicon Systems targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a packaging or test service makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -32517,7 +32391,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Silicon_Systems",
   "source_url": "https://en.wikipedia.org/wiki/Silicon_Systems",
   "why_relevant": "The Algerian angle is affordability and context: a packaging or test service, simplified for local needs — plus the engineering-diploma pipeline — can turn Silicon Systems’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Silicon Systems targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a packaging or test service makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -32761,7 +32635,7 @@
  },
  {
   "name": "SiTime",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, SiTime differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -32769,7 +32643,7 @@
   "official_site": "https://en.wikipedia.org/wiki/SiTime",
   "source_url": "https://en.wikipedia.org/wiki/SiTime",
   "why_relevant": "The Algerian angle is affordability and context: a packaging or test service, simplified for local needs — plus the engineering-diploma pipeline — can turn SiTime’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, SiTime differentiates by solving one problem end-to-end — a packaging or test service — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -32887,16 +32761,16 @@
  },
  {
   "name": "SkyWater Technology",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "SkyWater Technology is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "SkyWater Technology is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/SkyWater_Technology",
   "source_url": "https://en.wikipedia.org/wiki/SkyWater_Technology",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
-  "concept": "SkyWater Technology is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "SkyWater Technology is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -32938,10 +32812,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "SkyWater Technology شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "SkyWater Technology شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "SkyWater Technology شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "SkyWater Technology شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -32974,10 +32848,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات أشباه الموصلات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "SkyWater Technology est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "SkyWater Technology est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits les semi-conducteurs peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "SkyWater Technology est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "SkyWater Technology est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -33643,7 +33517,7 @@
  },
  {
   "name": "Transphorm",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "The team behind Transphorm targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: a specialized analog or power chip for one application makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -33769,16 +33643,16 @@
  },
  {
   "name": "Western Design Center",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
-  "short_description": "Western Design Center is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Western Design Center is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Western_Design_Center",
   "source_url": "https://en.wikipedia.org/wiki/Western_Design_Center",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Western Design Center could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Western Design Center is a semiconductors company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "C",
+  "concept": "Western Design Center is a United States company working in semiconductors — a space where Intel and GlobalFoundries set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -33820,10 +33694,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Western Design Center شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Western Design Center شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Western Design Center توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Western Design Center شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Western Design Center شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه Intel و GlobalFoundries المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -33856,10 +33730,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Western Design Center توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Western Design Center est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Western Design Center est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Western Design Center pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Western Design Center est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Western Design Center est une entreprise de United States qui opère dans les semi-conducteurs, un espace où Intel et GlobalFoundries donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -34273,7 +34147,7 @@
  },
  {
   "name": "Zilog",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "The team behind Zilog targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: EDA tooling for a design bottleneck makes the product more focused than a generalist play.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -34281,7 +34155,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Zilog",
   "source_url": "https://en.wikipedia.org/wiki/Zilog",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "The team behind Zilog targets electronics OEMs and fabless design teams in semiconductors with a sharp wedge: EDA tooling for a design bottleneck makes the product more focused than a generalist play.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -34525,16 +34399,16 @@
  },
  {
   "name": "Semiconductor Industry Association",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "and Semiconductor Research Corporation",
-  "short_description": "Semiconductor Industry Association is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Semiconductor Industry Association is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "technology": "chip design, fabrication processes and advanced packaging",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Semiconductor_Industry_Association",
   "source_url": "https://en.wikipedia.org/wiki/Semiconductor_Industry_Association",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Semiconductor Industry Association could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Semiconductor Industry Association is a semiconductors company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Semiconductor Industry Association is a United States company working in semiconductors — a space where TSMC and Samsung Foundry set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
    "Intel and GlobalFoundries",
@@ -34576,10 +34450,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Semiconductor Industry Association شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Semiconductor Industry Association شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "تصميم الرقائق وعمليات التصنيع والتغليف المتقدم",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Semiconductor Industry Association توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Semiconductor Industry Association شركة من أشباه الموصلات تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Semiconductor Industry Association شركة من United States تعمل في أشباه الموصلات — مجال يضع فيه TSMC و Samsung Foundry المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "TSMC و Samsung Foundry",
      "Intel و GlobalFoundries",
@@ -34612,10 +34486,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Semiconductor Industry Association توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Semiconductor Industry Association est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Semiconductor Industry Association est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "conception de puces, procédés de fabrication et packaging avancé",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Semiconductor Industry Association pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Semiconductor Industry Association est une entreprise de les semi-conducteurs qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Semiconductor Industry Association est une entreprise de United States qui opère dans les semi-conducteurs, un espace où TSMC et Samsung Foundry donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "TSMC et Samsung Foundry",
      "Intel et GlobalFoundries",
@@ -34651,7 +34525,7 @@
  },
  {
   "name": "Semiconductor industry in Taiwan",
-  "country": "Unknown",
+  "country": "Taiwan",
   "sub_domain": "semiconductors",
   "short_description": "Semiconductor industry in Taiwan operates in semiconductors and competes on focus. Its bet is that EDA tooling for a design bottleneck, built for electronics OEMs and fabless design teams, beats a broad horizontal platform.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -34777,7 +34651,7 @@
  },
  {
   "name": "Semiconductor industry in South Korea",
-  "country": "Unknown",
+  "country": "South Korea",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Semiconductor industry in South Korea differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -34785,7 +34659,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Semiconductor_industry_in_South_Korea",
   "source_url": "https://en.wikipedia.org/wiki/Semiconductor_industry_in_South_Korea",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Semiconductor industry in South Korea could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of semiconductors, Semiconductor industry in South Korea differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -34903,7 +34777,7 @@
  },
  {
   "name": "Semiconductor industry in Japan",
-  "country": "Unknown",
+  "country": "Japan",
   "sub_domain": "semiconductors",
   "short_description": "Created to attack a specific pain point in semiconductors, Semiconductor industry in Japan bets on a specialized analog or power chip for one application as the wedge electronics OEMs and fabless design teams will actually buy.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -34911,7 +34785,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Semiconductor_industry_in_Japan",
   "source_url": "https://en.wikipedia.org/wiki/Semiconductor_industry_in_Japan",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build semiconductors products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in semiconductors, Semiconductor industry in Japan bets on a specialized analog or power chip for one application as the wedge electronics OEMs and fabless design teams will actually buy.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -35155,7 +35029,7 @@
  },
  {
   "name": "Semiconductor industry in the United States",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Semiconductor industry in the United States differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -35163,7 +35037,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Semiconductor_industry_in_the_United_States",
   "source_url": "https://en.wikipedia.org/wiki/Semiconductor_industry_in_the_United_States",
   "why_relevant": "The Algerian angle is affordability and context: a specialized analog or power chip for one application, simplified for local needs — plus the engineering-diploma pipeline — can turn Semiconductor industry in the United States’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of semiconductors, Semiconductor industry in the United States differentiates by solving one problem end-to-end — a specialized analog or power chip for one application — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",
@@ -35281,7 +35155,7 @@
  },
  {
   "name": "Semiconductor industry in India",
-  "country": "Unknown",
+  "country": "India",
   "sub_domain": "semiconductors",
   "short_description": "In the crowded field of semiconductors, Semiconductor industry in India differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "technology": "chip design, fabrication processes and advanced packaging",
@@ -35289,7 +35163,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Semiconductor_industry_in_India",
   "source_url": "https://en.wikipedia.org/wiki/Semiconductor_industry_in_India",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Semiconductor industry in India could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of semiconductors, Semiconductor industry in India differentiates by solving one problem end-to-end — EDA tooling for a design bottleneck — instead of stacking horizontal features.",
   "main_sellers": [
    "TSMC and Samsung Foundry",

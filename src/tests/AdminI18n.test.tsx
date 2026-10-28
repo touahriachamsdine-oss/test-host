@@ -230,6 +230,7 @@ const PUBLIC_KEYS = [
   'domainNames.cybersecurity',
   'domainNames.drones-autonomy',
   'domainNames.energy-storage',
+  'domainNames.law-social-impact',
   'domainNames.manufacturing-3d',
   'domainNames.medtech',
   'domainNames.nanotech-materials',
@@ -272,7 +273,7 @@ describe('Admin console i18n', () => {
     const publicKeys = frKeys.filter((key) => !key.startsWith('Admin.')).sort();
     const adminKeys = frKeys.filter((key) => key.startsWith('Admin.'));
     expect(publicKeys).toEqual(PUBLIC_KEYS);
-    expect(publicKeys).toHaveLength(195);
+    expect(publicKeys).toHaveLength(196);
     expect(adminKeys).toHaveLength(215);
 
     const enAdmin = (flatten(en as unknown as Record<string, unknown>)).filter((key) => key.startsWith('Admin.'));

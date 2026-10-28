@@ -1,0 +1,682 @@
+[
+ {
+  "name": "1789 Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Accel",
+  "industry": "USA"
+ },
+ {
+  "name": "Addition",
+  "industry": "USA"
+ },
+ {
+  "name": "Advanced Technology Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Almaz Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Alumni Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Andreessen Horowitz",
+  "industry": "USA"
+ },
+ {
+  "name": "ARCH Venture Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Atlas Venture",
+  "industry": "USA"
+ },
+ {
+  "name": "August Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Austin Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "B Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Bain Capital Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Battery Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Benchmark Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Bessemer Venture Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Binary Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Blumberg Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "CapitalG",
+  "industry": "USA"
+ },
+ {
+  "name": "Canaan Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Charles River Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Columbus Nova",
+  "industry": "USA"
+ },
+ {
+  "name": "Contrary",
+  "industry": "USA"
+ },
+ {
+  "name": "Cottonwood Technology Fund",
+  "industry": "USA"
+ },
+ {
+  "name": "Crosslink Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "CrunchFund",
+  "industry": "USA"
+ },
+ {
+  "name": "DAG Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "DCM Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Draper Fisher Jurvetson",
+  "industry": "USA"
+ },
+ {
+  "name": "First Round Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "FirstMark Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Flagship Pioneering",
+  "industry": "USA"
+ },
+ {
+  "name": "Foundation Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Founder Collective",
+  "industry": "USA"
+ },
+ {
+  "name": "Founders Fund",
+  "industry": "USA"
+ },
+ {
+  "name": "Gaingels",
+  "industry": "USA"
+ },
+ {
+  "name": "General Catalyst",
+  "industry": "USA"
+ },
+ {
+  "name": "GE Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Greycroft",
+  "industry": "USA"
+ },
+ {
+  "name": "Greylock Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Growthworks",
+  "industry": "Canada"
+ },
+ {
+  "name": "GSR Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "GV",
+  "industry": "USA"
+ },
+ {
+  "name": "Headline",
+  "industry": "USA"
+ },
+ {
+  "name": "Highland Capital Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Hustle Fund",
+  "industry": "USA"
+ },
+ {
+  "name": "IDG Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Index Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Initialized Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "In-Q-Tel",
+  "industry": "USA"
+ },
+ {
+  "name": "Insight Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Institutional Venture Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Intel Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Intellectual Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Keiretsu Forum",
+  "industry": "USA"
+ },
+ {
+  "name": "Khosla Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Kleiner Perkins",
+  "industry": "USA"
+ },
+ {
+  "name": "Lightbank",
+  "industry": "USA"
+ },
+ {
+  "name": "Lighter Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Lightspeed Venture Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Liquid 2 Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Lux Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Matrix Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Maveron",
+  "industry": "USA"
+ },
+ {
+  "name": "Meritech Capital Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "New Enterprise Associates",
+  "industry": "USA"
+ },
+ {
+  "name": "Norwest Venture Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Oak Investment Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Paradigm Operations",
+  "industry": "USA"
+ },
+ {
+  "name": "Plug and Play Tech Center",
+  "industry": "USA"
+ },
+ {
+  "name": "Polaris Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Qualcomm Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Redpoint Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Revolution LLC",
+  "industry": "USA"
+ },
+ {
+  "name": "Ribbit Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Rothenberg Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "RRE Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Sapphire Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Scale Venture Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Sequoia Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Sevin Rosen Funds",
+  "industry": "USA"
+ },
+ {
+  "name": "Social Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "SoftTech VC",
+  "industry": "USA"
+ },
+ {
+  "name": "SOSV",
+  "industry": "USA"
+ },
+ {
+  "name": "Spark Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "SV Angel",
+  "industry": "USA"
+ },
+ {
+  "name": "TCV",
+  "industry": "USA"
+ },
+ {
+  "name": "Tenaya Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Third Rock Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Thrive Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Tiger Global Management",
+  "industry": "USA"
+ },
+ {
+  "name": "U.S. Venture Partners",
+  "industry": "USA"
+ },
+ {
+  "name": "Union Square Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Venrock",
+  "industry": "USA"
+ },
+ {
+  "name": "Versant Ventures",
+  "industry": "USA"
+ },
+ {
+  "name": "Vivo Capital",
+  "industry": "USA"
+ },
+ {
+  "name": "Walden International",
+  "industry": "USA"
+ },
+ {
+  "name": "Y Combinator",
+  "industry": "USA"
+ },
+ {
+  "name": "Abingworth",
+  "industry": "UK"
+ },
+ {
+  "name": "Acton Capital",
+  "industry": "DE"
+ },
+ {
+  "name": "Atomico Ventures",
+  "industry": "UK"
+ },
+ {
+  "name": "Balderton Capital",
+  "industry": "UK"
+ },
+ {
+  "name": "BGF",
+  "industry": "UK"
+ },
+ {
+  "name": "Cottonwood Technology Fund",
+  "industry": "Netherlands"
+ },
+ {
+  "name": "Credo Ventures",
+  "industry": "Czech Republic"
+ },
+ {
+  "name": "DN Capital",
+  "industry": "UK"
+ },
+ {
+  "name": "Draper Esprit",
+  "industry": "UK"
+ },
+ {
+  "name": "EQT Ventures",
+  "industry": "SWE"
+ },
+ {
+  "name": "Genesis Partners",
+  "industry": "Israel"
+ },
+ {
+  "name": "German Startups Group",
+  "industry": "Germany"
+ },
+ {
+  "name": "HBM Healthcare Investments",
+  "industry": "Switzerland"
+ },
+ {
+  "name": "HealthCap",
+  "industry": "SWE"
+ },
+ {
+  "name": "High-Tech Gründerfonds",
+  "industry": "Germany"
+ },
+ {
+  "name": "Impact X",
+  "industry": "UK"
+ },
+ {
+  "name": "Infinity Group",
+  "industry": "Israel"
+ },
+ {
+  "name": "IIDF",
+  "industry": "Russia"
+ },
+ {
+  "name": "Iris Capital",
+  "industry": "France"
+ },
+ {
+  "name": "Jerusalem Venture Partners",
+  "industry": "Israel"
+ },
+ {
+  "name": "Mercia Fund Management",
+  "industry": "UK"
+ },
+ {
+  "name": "Newfund",
+  "industry": "France"
+ },
+ {
+  "name": "Nova Founders Capital",
+  "industry": "UK"
+ },
+ {
+  "name": "Oxford Science Enterprises",
+  "industry": "UK"
+ },
+ {
+  "name": "Pitango",
+  "industry": "Israel"
+ },
+ {
+  "name": "Porton Group",
+  "industry": "Dubai"
+ },
+ {
+  "name": "Seedcamp",
+  "industry": "UK"
+ },
+ {
+  "name": "SoftBank Vision Fund",
+  "industry": "UK"
+ },
+ {
+  "name": "SyndicateRoom",
+  "industry": "UK"
+ },
+ {
+  "name": "TBG AG",
+  "industry": "Switzerland"
+ },
+ {
+  "name": "Wellington Partners Venture Capital",
+  "industry": "Germany"
+ },
+ {
+  "name": "5Y Capital",
+  "industry": "China"
+ },
+ {
+  "name": "Addor Capital",
+  "industry": "China"
+ },
+ {
+  "name": "Antler",
+  "industry": "Singapore"
+ },
+ {
+  "name": "BANSEA",
+  "industry": "Singapore"
+ },
+ {
+  "name": "CAS Star",
+  "industry": "China"
+ },
+ {
+  "name": "China State-owned Asset Venture Capital Investment Fund",
+  "industry": "China"
+ },
+ {
+  "name": "Chiratae Ventures",
+  "industry": "India"
+ },
+ {
+  "name": "CoStone Capital",
+  "industry": "China"
+ },
+ {
+  "name": "Cowin Capital",
+  "industry": "China"
+ },
+ {
+  "name": "DST Global",
+  "industry": "HK"
+ },
+ {
+  "name": "Eastern Bell Capital",
+  "industry": "China"
+ },
+ {
+  "name": "Fortune Venture Capital",
+  "industry": "China"
+ },
+ {
+  "name": "Gaorong Capital",
+  "industry": "China"
+ },
+ {
+  "name": "Gobi Partners",
+  "industry": "Malaysia"
+ },
+ {
+  "name": "Granite Asia",
+  "industry": "Singapore"
+ },
+ {
+  "name": "HongShan",
+  "industry": "HK"
+ },
+ {
+  "name": "IDG Capital",
+  "industry": "China"
+ },
+ {
+  "name": "JAFCO",
+  "industry": "Japan"
+ },
+ {
+  "name": "JIC Venture Growth Investments",
+  "industry": "Japan"
+ },
+ {
+  "name": "K2VC",
+  "industry": "China"
+ },
+ {
+  "name": "Lanchi Ventures",
+  "industry": "China"
+ },
+ {
+  "name": "MiraclePlus",
+  "industry": "China"
+ },
+ {
+  "name": "MPCi",
+  "industry": "China"
+ },
+ {
+  "name": "Northern Light Venture Capital",
+  "industry": "China"
+ },
+ {
+  "name": "Oriental Fortune Capital",
+  "industry": "China"
+ },
+ {
+  "name": "Oriza Holdings",
+  "industry": "China"
+ },
+ {
+  "name": "Plum Ventures",
+  "industry": "China"
+ },
+ {
+  "name": "Qiming Venture Partners",
+  "industry": "China"
+ },
+ {
+  "name": "Quest Ventures",
+  "industry": "Singapore"
+ },
+ {
+  "name": "Shanghai Venture Capital Co.",
+  "industry": "China"
+ },
+ {
+  "name": "Shenzhen Capital Group",
+  "industry": "China"
+ },
+ {
+  "name": "Shenzhen HTI Group",
+  "industry": "China"
+ },
+ {
+  "name": "Shunwei Capital",
+  "industry": "China"
+ },
+ {
+  "name": "Sinovation Ventures",
+  "industry": "China"
+ },
+ {
+  "name": "Source Code Capital",
+  "industry": "China"
+ },
+ {
+  "name": "STIC Investments",
+  "industry": "South Korea"
+ },
+ {
+  "name": "Tiantu Capital",
+  "industry": "China"
+ },
+ {
+  "name": "Unitus Ventures",
+  "industry": "India"
+ },
+ {
+  "name": "Vertex Holdings",
+  "industry": "Singapore"
+ },
+ {
+  "name": "ZhenFund",
+  "industry": "China"
+ },
+ {
+  "name": "ZWC Partners",
+  "industry": "Hong Kong"
+ }
+]

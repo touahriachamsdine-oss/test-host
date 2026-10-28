@@ -1,0 +1,447 @@
+[
+ {
+  "name": "China Mobile",
+  "valuation": "$142.72",
+  "country": "China"
+ },
+ {
+  "name": "Verizon",
+  "valuation": "$139.14",
+  "country": "United States"
+ },
+ {
+  "name": "Deutsche Telekom",
+  "valuation": "$136.35",
+  "country": "Germany"
+ },
+ {
+  "name": "AT&T",
+  "valuation": "$125.64",
+  "country": "United States"
+ },
+ {
+  "name": "Comcast",
+  "valuation": "$125.27",
+  "country": "United States"
+ },
+ {
+  "name": "Nippon Telegraph and Telephone",
+  "valuation": "$91.24",
+  "country": "Japan"
+ },
+ {
+  "name": "China Telecom",
+  "valuation": "$70.3",
+  "country": "China"
+ },
+ {
+  "name": "Vodafone",
+  "valuation": "$69.83",
+  "country": "United Kingdom"
+ },
+ {
+  "name": "Charter Communications",
+  "valuation": "$54.63",
+  "country": "United States"
+ },
+ {
+  "name": "América Móvil",
+  "valuation": "$52.05",
+  "country": "Mexico"
+ },
+ {
+  "name": "China Unicom",
+  "valuation": "$50.74",
+  "country": "China"
+ },
+ {
+  "name": "Orange",
+  "valuation": "$46.51",
+  "country": "France"
+ },
+ {
+  "name": "SoftBank",
+  "valuation": "$46.13",
+  "country": "Japan"
+ },
+ {
+  "name": "Telefónica",
+  "valuation": "$40.4",
+  "country": "Spain"
+ },
+ {
+  "name": "KDDI",
+  "valuation": "$38.90",
+  "country": "Japan"
+ },
+ {
+  "name": "BT Group",
+  "valuation": "$32.0",
+  "country": "United Kingdom"
+ },
+ {
+  "name": "Bharti Airtel",
+  "valuation": "$22.6",
+  "country": "India"
+ },
+ {
+  "name": "China Communications Services",
+  "valuation": "$20.9",
+  "country": "China"
+ },
+ {
+  "name": "Saudi Telecom Company",
+  "valuation": "$20.9",
+  "country": "Saudi Arabia"
+ },
+ {
+  "name": "KT Corporation",
+  "valuation": "$20.0",
+  "country": "South Korea"
+ },
+ {
+  "name": "BCE",
+  "valuation": "$17.6",
+  "country": "Canada"
+ },
+ {
+  "name": "Swisscom",
+  "valuation": "$16.9",
+  "country": "Switzerland"
+ },
+ {
+  "name": "Rogers Communications",
+  "valuation": "$16.1",
+  "country": "Canada"
+ },
+ {
+  "name": "Telstra",
+  "valuation": "$14.9",
+  "country": "Australia"
+ },
+ {
+  "name": "Telus",
+  "valuation": "$14.6",
+  "country": "Canada"
+ },
+ {
+  "name": "Gruppo TIM",
+  "valuation": "$14.2",
+  "country": "Italy"
+ },
+ {
+  "name": "MTN Group",
+  "valuation": "$13.6",
+  "country": "South Africa"
+ },
+ {
+  "name": "Cox Communications",
+  "valuation": "$12.6",
+  "country": "United States"
+ },
+ {
+  "name": "Lumen",
+  "valuation": "$12.11",
+  "country": "United States"
+ },
+ {
+  "name": "Singtel",
+  "valuation": "$12.0",
+  "country": "Singapore"
+ },
+ {
+  "name": "SK Telecom",
+  "valuation": "$12.0",
+  "country": "South Korea"
+ },
+ {
+  "name": "Reliance Jio",
+  "valuation": "$11.3",
+  "country": "India"
+ },
+ {
+  "name": "LG Uplus",
+  "valuation": "$10.9",
+  "country": "South Korea"
+ },
+ {
+  "name": "SFR",
+  "valuation": "$10.6",
+  "country": "France"
+ },
+ {
+  "name": "Viettel",
+  "valuation": "$9.0",
+  "country": "Vietnam"
+ },
+ {
+  "name": "Telkom Indonesia",
+  "valuation": "$8.9",
+  "country": "Indonesia"
+ },
+ {
+  "name": "Telia Company",
+  "valuation": "$8.6",
+  "country": "Sweden"
+ },
+ {
+  "name": "Vodacom",
+  "valuation": "$8.3",
+  "country": "South Africa"
+ },
+ {
+  "name": "Telenor",
+  "valuation": "$7.6",
+  "country": "Norway"
+ },
+ {
+  "name": "Türk Telekom",
+  "valuation": "$7.6",
+  "country": "Turkey"
+ },
+ {
+  "name": "Chunghwa Telecom",
+  "valuation": "$7.5",
+  "country": "Taiwan"
+ },
+ {
+  "name": "Zain",
+  "valuation": "$7.25",
+  "country": "Kuwait"
+ },
+ {
+  "name": "Proximus",
+  "valuation": "$7.19",
+  "country": "Belgium"
+ },
+ {
+  "name": "United Internet",
+  "valuation": "$7.0",
+  "country": "Germany"
+ },
+ {
+  "name": "Advanced Info Service",
+  "valuation": "$6.9",
+  "country": "Thailand"
+ },
+ {
+  "name": "Ooredoo",
+  "valuation": "$6.74",
+  "country": "Qatar"
+ },
+ {
+  "name": "Taiwan Mobile",
+  "valuation": "$6.41",
+  "country": "Taiwan"
+ },
+ {
+  "name": "Frontier Communications",
+  "valuation": "$6.3",
+  "country": "United States"
+ },
+ {
+  "name": "A1 Telekom Austria Group",
+  "valuation": "$6.2",
+  "country": "Austria"
+ },
+ {
+  "name": "Telecom Argentina",
+  "valuation": "$6.2",
+  "country": "Argentina"
+ },
+ {
+  "name": "Telephone and Data Systems",
+  "valuation": "$6.0",
+  "country": "United States"
+ },
+ {
+  "name": "KPN",
+  "valuation": "$6.0",
+  "country": "Netherlands"
+ },
+ {
+  "name": "StarHub",
+  "valuation": "$5.9",
+  "country": "Singapore"
+ },
+ {
+  "name": "Millicom",
+  "valuation": "$5.8",
+  "country": "Luxembourg"
+ },
+ {
+  "name": "Mobile TeleSystems",
+  "valuation": "$5.6",
+  "country": "Russia"
+ },
+ {
+  "name": "Digi Communications",
+  "valuation": "$5.51",
+  "country": "Romania"
+ },
+ {
+  "name": "Turkcell",
+  "valuation": "$5.5",
+  "country": "Turkey"
+ },
+ {
+  "name": "Optus",
+  "valuation": "$5.3",
+  "country": "Australia"
+ },
+ {
+  "name": "e&",
+  "valuation": "$5.2",
+  "country": "United Arab Emirates"
+ },
+ {
+  "name": "Mediacom",
+  "valuation": "$5.0",
+  "country": "United States"
+ },
+ {
+  "name": "VEON",
+  "valuation": "$4.3",
+  "country": "Netherlands"
+ },
+ {
+  "name": "Du (company)",
+  "valuation": "$4.3",
+  "country": "United Arab Emirates"
+ },
+ {
+  "name": "Crown Castle International",
+  "valuation": "$4.2",
+  "country": "United States"
+ },
+ {
+  "name": "OTE",
+  "valuation": "$4.1",
+  "country": "Greece"
+ },
+ {
+  "name": "Windstream Holdings",
+  "valuation": "$4.0",
+  "country": "United States"
+ },
+ {
+  "name": "PLDT",
+  "valuation": "$3.8",
+  "country": "Philippines"
+ },
+ {
+  "name": "Virgin Media O2",
+  "valuation": "$3.4",
+  "country": "United Kingdom"
+ },
+ {
+  "name": "Globe Telecom",
+  "valuation": "$3.1",
+  "country": "Philippines"
+ },
+ {
+  "name": "Consolidated Communications",
+  "valuation": "$3.1",
+  "country": "United States"
+ },
+ {
+  "name": "Oi",
+  "valuation": "$2.9",
+  "country": "Brazil"
+ },
+ {
+  "name": "Maxis Communications",
+  "valuation": "$2.73",
+  "country": "Malaysia"
+ },
+ {
+  "name": "Tata Communications",
+  "valuation": "$2.7",
+  "country": "India"
+ },
+ {
+  "name": "Vivendi",
+  "valuation": "$2.7",
+  "country": "France"
+ },
+ {
+  "name": "Telkom (South Africa)",
+  "valuation": "$2.7",
+  "country": "South Africa"
+ },
+ {
+  "name": "Zayo Group",
+  "valuation": "$2.6",
+  "country": "United States"
+ },
+ {
+  "name": "Iliad SA",
+  "valuation": "$2.6",
+  "country": "France"
+ },
+ {
+  "name": "Vocus Group",
+  "valuation": "$2.4",
+  "country": "Australia"
+ },
+ {
+  "name": "MegaFon",
+  "valuation": "$2.3",
+  "country": "Russia"
+ },
+ {
+  "name": "Granite Telecommunications",
+  "valuation": "$1.9",
+  "country": "United States"
+ },
+ {
+  "name": "Algar Telecom",
+  "valuation": "$1.8",
+  "country": "Brazil"
+ },
+ {
+  "name": "Cell C",
+  "valuation": "$1.8",
+  "country": "South Africa"
+ },
+ {
+  "name": "GTT Communications",
+  "valuation": "$1.7",
+  "country": "United States"
+ },
+ {
+  "name": "Vonage",
+  "valuation": "$1.67",
+  "country": "United States"
+ },
+ {
+  "name": "Bouygues Telecom",
+  "valuation": "$1.6",
+  "country": "France"
+ },
+ {
+  "name": "|Eir",
+  "valuation": "$1.3",
+  "country": "Ireland"
+ },
+ {
+  "name": "Vi",
+  "valuation": "$1.2",
+  "country": "India"
+ },
+ {
+  "name": "Altafiber",
+  "valuation": "$1.2",
+  "country": "United States"
+ },
+ {
+  "name": "IDT Corporation",
+  "valuation": "$1.2",
+  "country": "United States"
+ },
+ {
+  "name": "Cable One",
+  "valuation": "$1.2",
+  "country": "United States"
+ }
+]

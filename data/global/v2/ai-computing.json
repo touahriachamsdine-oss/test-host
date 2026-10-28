@@ -1261,7 +1261,7 @@
  },
  {
   "name": "Caper AI",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
   "short_description": "In the crowded field of artificial intelligence, Caper AI differentiates by solving one problem end-to-end — a domain assistant as a B2B product — instead of stacking horizontal features.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
@@ -1269,7 +1269,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Caper_AI",
   "source_url": "https://en.wikipedia.org/wiki/Caper_AI",
   "why_relevant": "The Algerian angle is affordability and context: a domain assistant as a B2B product, simplified for local needs — plus the engineering-diploma pipeline — can turn Caper AI’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of artificial intelligence, Caper AI differentiates by solving one problem end-to-end — a domain assistant as a B2B product — instead of stacking horizontal features.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
@@ -1891,16 +1891,16 @@
  },
  {
   "name": "Colloquis",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
-  "short_description": "Colloquis is a artificial intelligence company working in artificial intelligence — a space where OpenAI and Google DeepMind set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Colloquis is a United States company working in artificial intelligence — a space where OpenAI and Google DeepMind set the reference bar, so newcomers must own a narrower niche.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Colloquis",
   "source_url": "https://en.wikipedia.org/wiki/Colloquis",
   "why_relevant": "The Algerian angle is affordability and context: a focused vertical agent or an infrastructure tool, simplified for local needs — plus the engineering-diploma pipeline — can turn Colloquis’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Colloquis is a artificial intelligence company working in artificial intelligence — a space where OpenAI and Google DeepMind set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "C",
+  "concept": "Colloquis is a United States company working in artificial intelligence — a space where OpenAI and Google DeepMind set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
    "Anthropic and Meta",
@@ -1942,10 +1942,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Colloquis شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه OpenAI و Google DeepMind المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Colloquis شركة من United States تعمل في الذكاء الاصطناعي — مجال يضع فيه OpenAI و Google DeepMind المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "خطوط تعلّم الآلة والنماذج التوليدية والبنية التحتية للبيانات",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من عميل رأسي متخصص أو أداة بنية تحتية مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Colloquis إلى نجاح محلي أو إقليمي.",
-    "concept": "Colloquis شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه OpenAI و Google DeepMind المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Colloquis شركة من United States تعمل في الذكاء الاصطناعي — مجال يضع فيه OpenAI و Google DeepMind المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "OpenAI و Google DeepMind",
      "Anthropic و Meta",
@@ -1978,10 +1978,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من عميل رأسي متخصص أو أداة بنية تحتية مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Colloquis إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Colloquis est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où OpenAI et Google DeepMind donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Colloquis est une entreprise de United States qui opère dans l'intelligence artificielle, un espace où OpenAI et Google DeepMind donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "pipeline de machine learning, modèles génératifs et infrastructure de données",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un agent vertical ciblé ou un outil d’infrastructure adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Colloquis en victoire domestique ou régionale.",
-    "concept": "Colloquis est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où OpenAI et Google DeepMind donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Colloquis est une entreprise de United States qui opère dans l'intelligence artificielle, un espace où OpenAI et Google DeepMind donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "OpenAI et Google DeepMind",
      "Anthropic et Meta",
@@ -3151,7 +3151,7 @@
  },
  {
   "name": "EleutherAI",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
   "short_description": "EleutherAI operates in artificial intelligence and competes on focus. Its bet is that a focused vertical agent or an infrastructure tool, built for businesses and developers, beats a broad horizontal platform.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
@@ -4033,7 +4033,7 @@
  },
  {
   "name": "Google AI",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
   "short_description": "Created to attack a specific pain point in artificial intelligence, Google AI bets on a model-serving or evaluation platform as the wedge businesses and developers will actually buy.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
@@ -4041,7 +4041,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Google_AI",
   "source_url": "https://en.wikipedia.org/wiki/Google_AI",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build artificial intelligence products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in artificial intelligence, Google AI bets on a model-serving or evaluation platform as the wedge businesses and developers will actually buy.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
@@ -4411,16 +4411,16 @@
  },
  {
   "name": "HeyGen",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
-  "short_description": "HeyGen is a artificial intelligence company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "HeyGen is a United States company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/HeyGen",
   "source_url": "https://en.wikipedia.org/wiki/HeyGen",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. HeyGen could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "HeyGen is a artificial intelligence company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "HeyGen is a United States company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
    "Anthropic and Meta",
@@ -4462,10 +4462,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "HeyGen شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "HeyGen شركة من United States تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "خطوط تعلّم الآلة والنماذج التوليدية والبنية التحتية للبيانات",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ HeyGen توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "HeyGen شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "HeyGen شركة من United States تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "OpenAI و Google DeepMind",
      "Anthropic و Meta",
@@ -4498,10 +4498,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ HeyGen توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "HeyGen est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "HeyGen est une entreprise de United States qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "pipeline de machine learning, modèles génératifs et infrastructure de données",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. HeyGen pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "HeyGen est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "HeyGen est une entreprise de United States qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "OpenAI et Google DeepMind",
      "Anthropic et Meta",
@@ -4663,7 +4663,7 @@
  },
  {
   "name": "Inflection AI",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
   "short_description": "The team behind Inflection AI targets businesses and developers in artificial intelligence with a sharp wedge: a model-serving or evaluation platform makes the product more focused than a generalist play.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
@@ -4671,7 +4671,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Inflection_AI",
   "source_url": "https://en.wikipedia.org/wiki/Inflection_AI",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Inflection AI could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Inflection AI targets businesses and developers in artificial intelligence with a sharp wedge: a model-serving or evaluation platform makes the product more focused than a generalist play.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
@@ -4915,7 +4915,7 @@
  },
  {
   "name": "K Health",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
   "short_description": "Created to attack a specific pain point in artificial intelligence, K Health bets on a focused vertical agent or an infrastructure tool as the wedge businesses and developers will actually buy.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
@@ -4923,7 +4923,7 @@
   "official_site": "https://en.wikipedia.org/wiki/K_Health",
   "source_url": "https://en.wikipedia.org/wiki/K_Health",
   "why_relevant": "The Algerian angle is affordability and context: a focused vertical agent or an infrastructure tool, simplified for local needs — plus the engineering-diploma pipeline — can turn K Health’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in artificial intelligence, K Health bets on a focused vertical agent or an infrastructure tool as the wedge businesses and developers will actually buy.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
@@ -5041,16 +5041,16 @@
  },
  {
   "name": "Labs Companies",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
-  "short_description": "Labs Companies is a artificial intelligence company working in artificial intelligence — a space where Hugging Face and Mistral AI set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Labs Companies is a United States company working in artificial intelligence — a space where Hugging Face and Mistral AI set the reference bar, so newcomers must own a narrower niche.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Labs_Companies",
   "source_url": "https://en.wikipedia.org/wiki/Labs_Companies",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Labs Companies could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Labs Companies is a artificial intelligence company working in artificial intelligence — a space where Hugging Face and Mistral AI set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "C",
+  "concept": "Labs Companies is a United States company working in artificial intelligence — a space where Hugging Face and Mistral AI set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
    "Anthropic and Meta",
@@ -5092,10 +5092,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Labs Companies شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه Hugging Face و Mistral AI المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Labs Companies شركة من United States تعمل في الذكاء الاصطناعي — مجال يضع فيه Hugging Face و Mistral AI المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "خطوط تعلّم الآلة والنماذج التوليدية والبنية التحتية للبيانات",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Labs Companies توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Labs Companies شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه Hugging Face و Mistral AI المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Labs Companies شركة من United States تعمل في الذكاء الاصطناعي — مجال يضع فيه Hugging Face و Mistral AI المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "OpenAI و Google DeepMind",
      "Anthropic و Meta",
@@ -5128,10 +5128,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Labs Companies توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Labs Companies est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où Hugging Face et Mistral AI donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Labs Companies est une entreprise de United States qui opère dans l'intelligence artificielle, un espace où Hugging Face et Mistral AI donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "pipeline de machine learning, modèles génératifs et infrastructure de données",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Labs Companies pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Labs Companies est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où Hugging Face et Mistral AI donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Labs Companies est une entreprise de United States qui opère dans l'intelligence artificielle, un espace où Hugging Face et Mistral AI donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "OpenAI et Google DeepMind",
      "Anthropic et Meta",
@@ -5167,16 +5167,16 @@
  },
  {
   "name": "Liquid AI",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
-  "short_description": "Liquid AI is a artificial intelligence company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Liquid AI is a United States company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Liquid_AI",
   "source_url": "https://en.wikipedia.org/wiki/Liquid_AI",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Liquid AI could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Liquid AI is a artificial intelligence company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Liquid AI is a United States company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
    "Anthropic and Meta",
@@ -5218,10 +5218,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Liquid AI شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Liquid AI شركة من United States تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "خطوط تعلّم الآلة والنماذج التوليدية والبنية التحتية للبيانات",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Liquid AI توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Liquid AI شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Liquid AI شركة من United States تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "OpenAI و Google DeepMind",
      "Anthropic و Meta",
@@ -5254,10 +5254,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Liquid AI توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Liquid AI est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Liquid AI est une entreprise de United States qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "pipeline de machine learning, modèles génératifs et infrastructure de données",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Liquid AI pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Liquid AI est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Liquid AI est une entreprise de United States qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "OpenAI et Google DeepMind",
      "Anthropic et Meta",
@@ -8695,16 +8695,16 @@
  },
  {
   "name": "Spectre AI",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
-  "short_description": "Spectre AI is a artificial intelligence company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Spectre AI is a United States company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Spectre_AI",
   "source_url": "https://en.wikipedia.org/wiki/Spectre_AI",
   "why_relevant": "The Algerian angle is affordability and context: a model-serving or evaluation platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Spectre AI’s playbook into a domestic or regional win.",
   "priority": "A",
-  "concept": "Spectre AI is a artificial intelligence company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Spectre AI is a United States company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
    "Anthropic and Meta",
@@ -8746,10 +8746,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Spectre AI شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Spectre AI شركة من United States تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "خطوط تعلّم الآلة والنماذج التوليدية والبنية التحتية للبيانات",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من منصة لخدمة النماذج أو تقييمها مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Spectre AI إلى نجاح محلي أو إقليمي.",
-    "concept": "Spectre AI شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Spectre AI شركة من United States تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "OpenAI و Google DeepMind",
      "Anthropic و Meta",
@@ -8782,10 +8782,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من منصة لخدمة النماذج أو تقييمها مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Spectre AI إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Spectre AI est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Spectre AI est une entreprise de United States qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "pipeline de machine learning, modèles génératifs et infrastructure de données",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de une plateforme de service ou d’évaluation de modèles adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Spectre AI en victoire domestique ou régionale.",
-    "concept": "Spectre AI est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Spectre AI est une entreprise de United States qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "OpenAI et Google DeepMind",
      "Anthropic et Meta",
@@ -9073,7 +9073,7 @@
  },
  {
   "name": "Waymo",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "artificial intelligence",
   "short_description": "The team behind Waymo targets businesses and developers in artificial intelligence with a sharp wedge: a domain assistant as a B2B product makes the product more focused than a generalist play.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
@@ -9081,7 +9081,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Waymo",
   "source_url": "https://en.wikipedia.org/wiki/Waymo",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Waymo could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Waymo targets businesses and developers in artificial intelligence with a sharp wedge: a domain assistant as a B2B product makes the product more focused than a generalist play.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
@@ -9703,7 +9703,7 @@
  },
  {
   "name": "1X Technologies",
-  "country": "Unknown",
+  "country": "Norway",
   "sub_domain": "artificial intelligence",
   "short_description": "1X Technologies operates in artificial intelligence and competes on focus. Its bet is that a focused vertical agent or an infrastructure tool, built for businesses and developers, beats a broad horizontal platform.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
@@ -9711,7 +9711,7 @@
   "official_site": "https://en.wikipedia.org/wiki/1X_Technologies",
   "source_url": "https://en.wikipedia.org/wiki/1X_Technologies",
   "why_relevant": "The Algerian angle is affordability and context: a focused vertical agent or an infrastructure tool, simplified for local needs — plus the engineering-diploma pipeline — can turn 1X Technologies’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "1X Technologies operates in artificial intelligence and competes on focus. Its bet is that a focused vertical agent or an infrastructure tool, built for businesses and developers, beats a broad horizontal platform.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
@@ -12979,7 +12979,7 @@
  },
  {
   "name": "Aleph Alpha",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "artificial intelligence",
   "short_description": "The team behind Aleph Alpha targets businesses and developers in artificial intelligence with a sharp wedge: a focused vertical agent or an infrastructure tool makes the product more focused than a generalist play.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
@@ -13105,7 +13105,7 @@
  },
  {
   "name": "DeepL",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "artificial intelligence",
   "short_description": "DeepL operates in artificial intelligence and competes on focus. Its bet is that a model-serving or evaluation platform, built for businesses and developers, beats a broad horizontal platform.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
@@ -13113,7 +13113,7 @@
   "official_site": "https://en.wikipedia.org/wiki/DeepL",
   "source_url": "https://en.wikipedia.org/wiki/DeepL",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build artificial intelligence products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "DeepL operates in artificial intelligence and competes on focus. Its bet is that a model-serving or evaluation platform, built for businesses and developers, beats a broad horizontal platform.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
@@ -13609,7 +13609,7 @@
  },
  {
   "name": "Axelera AI",
-  "country": "Unknown",
+  "country": "Netherlands",
   "sub_domain": "artificial intelligence",
   "short_description": "Axelera AI operates in artificial intelligence and competes on focus. Its bet is that a domain assistant as a B2B product, built for businesses and developers, beats a broad horizontal platform.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
@@ -13617,7 +13617,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Axelera_AI",
   "source_url": "https://en.wikipedia.org/wiki/Axelera_AI",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Axelera AI could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Axelera AI operates in artificial intelligence and competes on focus. Its bet is that a domain assistant as a B2B product, built for businesses and developers, beats a broad horizontal platform.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
@@ -14869,16 +14869,16 @@
  },
  {
   "name": "Mind Foundry",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "artificial intelligence",
-  "short_description": "Mind Foundry is a artificial intelligence company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Mind Foundry is a United Kingdom company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
   "technology": "machine-learning pipelines, generative models and data infrastructure",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Mind_Foundry",
   "source_url": "https://en.wikipedia.org/wiki/Mind_Foundry",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build artificial intelligence products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
-  "concept": "Mind Foundry is a artificial intelligence company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Mind Foundry is a United Kingdom company working in artificial intelligence — a space where Anthropic and Meta set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "OpenAI and Google DeepMind",
    "Anthropic and Meta",
@@ -14920,10 +14920,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Mind Foundry شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Mind Foundry شركة من United Kingdom تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "خطوط تعلّم الآلة والنماذج التوليدية والبنية التحتية للبيانات",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الذكاء الاصطناعي يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "Mind Foundry شركة من الذكاء الاصطناعي تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Mind Foundry شركة من United Kingdom تعمل في الذكاء الاصطناعي — مجال يضع فيه Anthropic و Meta المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "OpenAI و Google DeepMind",
      "Anthropic و Meta",
@@ -14956,10 +14956,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الذكاء الاصطناعي يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "Mind Foundry est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Mind Foundry est une entreprise de United Kingdom qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "pipeline de machine learning, modèles génératifs et infrastructure de données",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits l'intelligence artificielle peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "Mind Foundry est une entreprise de l'intelligence artificielle qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Mind Foundry est une entreprise de United Kingdom qui opère dans l'intelligence artificielle, un espace où Anthropic et Meta donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "OpenAI et Google DeepMind",
      "Anthropic et Meta",

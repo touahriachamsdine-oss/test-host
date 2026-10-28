@@ -24,78 +24,19 @@ const SOURCE_META = {
   rail: { domain: 'manufacturing-3d', industry: 'rolling stock manufacturing' },
   automobiles: { domain: 'manufacturing-3d', industry: 'automotive manufacturing' },
   pharma: { domain: 'biotech-healthtech', industry: 'pharmaceuticals' },
-  wind: { domain: 'cleantech', industry: 'wind energy' }
+  wind: { domain: 'cleantech', industry: 'wind energy' },
+  lawfirms: { domain: 'law-social-impact', industry: 'law firm' },
+  socialent: { domain: 'law-social-impact', industry: 'social enterprise' },
+  food: { domain: 'agritech-foodtech', industry: 'food and beverage manufacturing' },
+  railways: { domain: 'manufacturing-3d', industry: 'railway operations and rolling stock' },
+  telecom: { domain: 'cloud-iot', industry: 'telecommunications' },
+  mining: { domain: 'nanotech-materials', industry: 'mining and critical minerals' },
+  vc: { domain: 'other-deep-tech', industry: 'venture capital' }
 };
 
-const NATIONALITY = {
-  american: 'United States', us: 'United States', usa: 'United States', british: 'United Kingdom',
-  english: 'United Kingdom', canadian: 'Canada', german: 'Germany', french: 'France', italian: 'Italy',
-  spanish: 'Spain', chinese: 'China', japanese: 'Japan', korean: 'South Korea', southkorean: 'South Korea',
-  russian: 'Russia', indian: 'India', brazilian: 'Brazil', australian: 'Australia', swiss: 'Switzerland',
-  swedish: 'Sweden', norwegian: 'Norway', danish: 'Denmark', finnish: 'Finland', dutch: 'Netherlands',
-  belgian: 'Belgium', austrian: 'Austria', polish: 'Poland', czech: 'Czech Republic', greek: 'Greece',
-  portuguese: 'Portugal', turkish: 'Turkey', israeli: 'Israel', mexican: 'Mexico', argentine: 'Argentina',
-  argentinian: 'Argentina', egyptian: 'Egypt', vietnamese: 'Vietnam', indonesian: 'Indonesia',
-  thai: 'Thailand', malaysian: 'Malaysia', singaporean: 'Singapore', taiwanese: 'Taiwan',
-  ukrainian: 'Ukraine', southafrican: 'South Africa', moroccan: 'Morocco', algerian: 'Algeria',
-  iranian: 'Iran', pakistani: 'Pakistan', bangladeshi: 'Bangladesh', chilean: 'Chile', colombian: 'Colombia',
-  newzealand: 'New Zealand', irish: 'Ireland', hungarian: 'Hungary', romanian: 'Romania', bulgarian: 'Bulgaria',
-  croatian: 'Croatia', serbian: 'Serbia', slovak: 'Slovakia', slovenian: 'Slovenia', lithuanian: 'Lithuania',
-  latvian: 'Latvia', estonian: 'Estonia', icelandic: 'Iceland', luxembourgish: 'Luxembourg', maltese: 'Malta'
-};
+const { NATIONALITY, COUNTRY_NAMES, isTrustedCountry, countryFromCategory, countryFromCategories } = require('./lib/countries');
 
-const COUNTRY_NAMES = ['United States', 'United Kingdom', 'South Korea', 'United Arab Emirates', 'Saudi Arabia',
-  'South Africa', 'Czech Republic', 'New Zealand', 'Netherlands', 'Germany', 'France', 'Italy', 'Spain',
-  'China', 'Japan', 'Canada', 'Australia', 'Switzerland', 'Sweden', 'Norway', 'Denmark', 'Finland',
-  'Belgium', 'Austria', 'Poland', 'Greece', 'Portugal', 'Turkey', 'Israel', 'Mexico', 'Argentina',
-  'Egypt', 'Vietnam', 'Indonesia', 'Thailand', 'Malaysia', 'Singapore', 'Taiwan', 'Ukraine', 'Russia',
-  'India', 'Brazil', 'Ireland', 'Hungary', 'Romania', 'Bulgaria', 'Croatia', 'Serbia', 'Slovakia',
-  'Slovenia', 'Lithuania', 'Latvia', 'Estonia', 'Iceland', 'Luxembourg', 'Morocco', 'Algeria', 'Tunisia',
-  'Iran', 'Pakistan', 'Bangladesh', 'Chile', 'Colombia', 'Peru', 'Uruguay', 'Venezuela', 'Philippines'];
 
-function countryFromCategory(cat) {
-  const c = cat.replace(/^Category:/, '').trim();
-  const lc = c.toLowerCase();
-  if (/israel|tel aviv|haifa|jerusalem|rehovot|ramat gan|givatayim/.test(lc)) return 'ISRAEL_FLAG';
-  const adj = Object.keys(NATIONALITY).find((k) => new RegExp(`^${k}\\b`).test(lc));
-  if (adj) return NATIONALITY[adj];
-  const of = lc.match(/^(?:[a-z -]+? )?(?:companies|manufacturers|firms|brands|businesses)(?: (?:based in|of)) (.+)$/) || lc.match(/^(?:[a-z -]+? )?(?:companies|manufacturers|firms|brands|businesses) of (.+)$/);
-  if (of) {
-    const place = of[1].toLowerCase();
-    if (/israel|tel aviv|haifa|jerusalem|rehovot|ramat gan|givatayim/.test(place)) return 'ISRAEL_FLAG';
-    for (const name of COUNTRY_NAMES) if (new RegExp(`^${name.toLowerCase()}($| )`).test(place)) return name;
-    const city = CITY_COUNTRY[place];
-    if (city) return city === 'ISRAEL_FLAG' ? 'ISRAEL_FLAG' : city;
-  }
-  for (const name of COUNTRY_NAMES) {
-    if (new RegExp(` (?:of|based in) ${name.toLowerCase()}($| )`).test(lc) || lc.endsWith(` companies ${name.toLowerCase()}`)) return name;
-  }
-  return null;
-}
-
-const CITY_COUNTRY = {
-  tokyo: 'Japan', osaka: 'Japan', kyoto: 'Japan', pekin: 'China', beijing: 'China', shanghai: 'China',
-  shenzhen: 'China', 'hong kong': 'China', seoul: 'South Korea', busan: 'South Korea', singapore: 'Singapore',
-  london: 'United Kingdom', berlin: 'Germany', munich: 'Germany', hamburg: 'Germany', frankfurt: 'Germany',
-  paris: 'France', lyon: 'France', milan: 'Italy', rome: 'Italy', turin: 'Italy', bologna: 'Italy',
-  modena: 'Italy', madrid: 'Spain', barcelona: 'Spain', valencia: 'Spain', lisbon: 'Portugal', porto: 'Portugal',
-  amsterdam: 'Netherlands', rotterdam: 'Netherlands', brussels: 'Belgium', vienna: 'Austria', zurich: 'Switzerland',
-  geneva: 'Switzerland', stockholm: 'Sweden', oslo: 'Norway', copenhagen: 'Denmark', helsinki: 'Finland',
-  warsaw: 'Poland', prague: 'Czech Republic', bucarest: 'Romania', bucharest: 'Romania', budapest: 'Hungary',
-  'saint petersburg': 'Russia', moscow: 'Russia', mumbai: 'India', pune: 'India', bengaluru: 'India',
-  bangalore: 'India', chennai: 'India', delhi: 'India', 'new delhi': 'India', hyderabad: 'India',
-  'san jose': 'United States', 'silicon valley': 'United States', 'new york': 'United States',
-  'los angeles': 'United States', chicago: 'United States', 'san francisco': 'United States',
-  austin: 'United States', seattle: 'United States', boston: 'United States', detroit: 'United States',
-  cleveland: 'United States', 'san diego': 'United States', 'toronto': 'Canada', vancouver: 'Canada',
-  montreal: 'Canada', ottawa: 'Canada', 'sao paulo': 'Brazil', 'rio de janeiro': 'Brazil', 'buenos aires': 'Argentina',
-  mexico: 'Mexico', 'mexico city': 'Mexico', caucasia: 'Colombia', bogota: 'Colombia', 'santiago': 'Chile',
-  dublin: 'Ireland', reykjavik: 'Iceland', athens: 'Greece', istanbul: 'Turkey', telaviv: 'ISRAEL_FLAG',
-  'tel aviv': 'ISRAEL_FLAG', haifa: 'ISRAEL_FLAG', jerusalem: 'ISRAEL_FLAG', cairo: 'Egypt', 'casablanca': 'Morocco',
-  algiers: 'Algeria', 'abu dhabi': 'United Arab Emirates', dubai: 'United Arab Emirates', riyadh: 'Saudi Arabia',
-  bangkok: 'Thailand', 'kuala lumpur': 'Malaysia', jakarta: 'Indonesia', manila: 'Philippines', taipei: 'Taiwan',
-  hanoi: 'Vietnam', 'ho chi minh': 'Vietnam', 'cape town': 'South Africa', johannesburg: 'South Africa'
-};
 
 function cleanName(raw) {
   let n = String(raw || '').trim();
@@ -148,12 +89,14 @@ function industryToDomain(ind) {
   if (/drone|uav|unmanned|autonomous|self.?driving|delivery robot/.test(s)) return 'drones-autonomy';
   if (/battery|energy storage|fusion|nuclear|grid|renewable|solar|wind|hydrogen|power|electricity/.test(s)) return 'energy-storage';
   if (/wind|clean|cleantech|climate|carbon/.test(s)) return 'cleantech';
+  if (/law|legal|attorney|solicitor|barrister|patent|compliance|social enterprise|impact|non-?profit|ngo|charit/.test(s)) return 'law-social-impact';
   if (/space|aero|satellite|rocket|launch|orbit|propulsion|avionics/.test(s)) return 'space-aerospace';
-  if (/agri|food|farm|crop|livestock|aqua/.test(s)) return 'agritech-foodtech';
+  if (/agri|food|farm|crop|livestock|aqua|beverage|dairy|bakery|brewery|distill|restaur/.test(s)) return 'agritech-foodtech';
   if (/pharma|biotech|biomedical|bio\b|genetic|genomic|cell|crispr|drug|therapeutic|vaccine|diagnos|molecular/.test(s)) return 'biotech-healthtech';
   if (/medical|medtech|clinical|surgical|device|hospital|patient|care|imaging|therapeutic/.test(s)) return 'medtech';
   if (/material|nano|chemical|composite|polymer|alloy/.test(s)) return 'nanotech-materials';
-  if (/manufactur|industrial|auto|vehicle|car|motorcycle|truck|ship|rail|train|aircraft|machin|equipment|robotics work/.test(s)) return 'manufacturing-3d';
+  if (/\b(mining|mines?|miners?|minerals?|ore|copper|gold|silver|zinc|coal|rare earths?|critical minerals?|extraction)\b/.test(s)) return 'nanotech-materials';
+  if (/manufactur|industrial|auto|vehicle|car|motorcycle|truck|ship|rail|train|tramway|metro|aircraft|machin|equipment|robotics work/.test(s)) return 'manufacturing-3d';
   if (/software|internet|cloud|iot|platform|app\b|saas|fintech|banking|e-?commerce|data|analytics|telecom|network|web|pay/.test(s)) return 'cloud-iot';
   return 'other-deep-tech';
 }
@@ -222,16 +165,21 @@ async function fetchCategories(names) {
 
 async function enrichBatch(batch) {
   const map = {};
+  let lastErr = null;
   for (let attempt = 1; attempt <= 5; attempt++) {
     try {
       const res = await fetchCategories(batch);
       Object.assign(map, res);
       return map;
     } catch (e) {
+      lastErr = e;
       if (e.status === 429) await new Promise((r) => setTimeout(r, 1400 * attempt));
       else await new Promise((r) => setTimeout(r, 700 * attempt));
     }
   }
+  // Never drop a batch silently: an exhausted retry used to leave these names
+  // out of the cache entirely, so they finalised as country "Unknown".
+  console.error(`   ! enrichBatch exhausted retries for ${batch.length} names: ${lastErr && lastErr.message}`);
   return map;
 }
 
@@ -241,8 +189,10 @@ async function enrich() {
   if (fs.existsSync(CACHE)) cache = JSON.parse(fs.readFileSync(CACHE, 'utf8'));
   const remaining = pending.filter((it) => !(it.name in cache));
   console.log('pending chunks:', remaining.length);
-  const BATCH = 40;
-  const CONC = 4;
+  // cllimit is a per-query total, so a category-heavy page can starve every
+  // other page in the batch. Small batches keep category coverage complete.
+  const BATCH = 15;
+  const CONC = 2;
   const batches = [];
   for (let i = 0; i < remaining.length; i += BATCH) batches.push(remaining.slice(i, i + BATCH).map((it) => it.name));
   let done = 0;
@@ -251,14 +201,8 @@ async function enrich() {
     const results = await Promise.all(chunkBatches.map((b) => enrichBatch(b)));
     for (const map of results) {
       for (const [name, cats] of Object.entries(map)) {
-        let country = null;
-        let israel = false;
-        for (const cat of cats) {
-          const c = countryFromCategory(cat);
-          if (c === 'ISRAEL_FLAG') israel = true;
-          else if (c) country = c;
-        }
-        cache[name] = { country: country || 'Unknown', israel, cats };
+        const country = countryFromCategories(cats);
+        cache[name] = { country: country === 'ISRAEL_FLAG' ? 'Unknown' : country || 'Unknown', israel: country === 'ISRAEL_FLAG', cats };
       }
       done += map ? Object.keys(map).length : 0;
     }
@@ -271,17 +215,19 @@ async function enrich() {
 }
 
 function resolveFromCache(c, name) {
-  let country = null;
-  let israel = false;
-  if (c.cats && c.cats.length) {
-    for (const cat of c.cats) {
-      const r = countryFromCategory(cat);
-      if (r === 'ISRAEL_FLAG') israel = true;
-      else if (r) country = r;
+  if (c.israel) return { country: 'ISRAEL_FLAG', israel: true };
+  // A Wikidata P17/P495 value is authoritative; take it before guessing from
+  // category names.
+  if (c.country && c.country !== 'Unknown' && isTrustedCountry(c.country)) return { country: c.country, israel: false };
+let country = null;
+    if (c.cats && c.cats.length) {
+      // Aggregate by agreement rather than last match: see countryFromCategories.
+      const r = countryFromCategories(c.cats);
+      if (r === 'ISRAEL_FLAG') return { country: 'ISRAEL_FLAG', israel: true };
+      country = r;
+      return { country: country || 'Unknown', israel: false };
     }
-    return { country: country || 'Unknown', israel };
-  }
-  return { country: c.country || 'Unknown', israel: !!c.israel };
+    return { country: 'Unknown', israel: false };
 }
 
 function finalize() {
@@ -289,19 +235,26 @@ function finalize() {
   let cache = {};
   if (fs.existsSync(CACHE)) cache = JSON.parse(fs.readFileSync(CACHE, 'utf8'));
   const out = [];
-  let israelDrop = 0, unknown = 0, junkDrop = 0;
+  let israelDrop = 0, unknown = 0, junkDrop = 0, untrustedCountry = 0;
   const JUNK = /^(ayurvedic|homeopathy|homeopathic|vitamin(s)?|supplement(s)?|botox|cosmetic(s)?|generics?)$/i;
   for (const r of merged) {
     let country = r.country;
     let israel = r.israel === true;
+    if (country === 'ISRAEL_FLAG') israel = true;
+    // Scraped cells frequently hold a lifespan, "Defunct" or a founder list
+    // rather than a country. Reject those and fall back to the cache.
+    if (country && country !== 'Unknown' && !isTrustedCountry(country)) {
+      country = null;
+      untrustedCountry++;
+    }
     if (!country) {
       const c = cache[r.name];
       if (c) {
         const res = resolveFromCache(c, r.name);
         if (res.israel) israel = true;
         else country = res.country;
-        if (country === 'Unknown') unknown++;
-      } else unknown++;
+      }
+      if (!country || country === 'Unknown') unknown++;
     }
     if (JUNK.test(r.name)) { junkDrop++; continue; }
     if (israel || (country === 'ISRAEL_FLAG') || /israel/i.test(country || '')) { israelDrop++; continue; }
@@ -310,7 +263,7 @@ function finalize() {
     out.push({ ...r, country, israel: false });
   }
   fs.writeFileSync(path.join(SRC, 'final.json'), JSON.stringify(out, null, 1));
-  console.log('final rows:', out.length, '| israel dropped:', israelDrop, '| unknown country:', unknown, '| junk dropped:', junkDrop);
+  console.log('final rows:', out.length, '| israel dropped:', israelDrop, '| unknown country:', unknown, '| junk dropped:', junkDrop, '| untrusted scraped country discarded:', untrustedCountry);
 }
 
 const cmd = process.argv[2] || 'merge';

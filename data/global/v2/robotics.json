@@ -1,7 +1,7 @@
 [
  {
   "name": "Fastbrick Robotics",
-  "country": "Unknown",
+  "country": "Australia",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Fastbrick Robotics bets on a robot fleet controller with teleoperation as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -9,7 +9,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Fastbrick_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Fastbrick_Robotics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, Fastbrick Robotics bets on a robot fleet controller with teleoperation as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -127,7 +127,7 @@
  },
  {
   "name": "B&R",
-  "country": "Unknown",
+  "country": "Austria",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, B&R differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -135,7 +135,7 @@
   "official_site": "https://en.wikipedia.org/wiki/B%26R",
   "source_url": "https://en.wikipedia.org/wiki/B%26R",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. B&R could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, B&R differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -253,7 +253,7 @@
  },
  {
   "name": "Taurob",
-  "country": "Unknown",
+  "country": "Austria",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Taurob differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -261,7 +261,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Taurob",
   "source_url": "https://en.wikipedia.org/wiki/Taurob",
   "why_relevant": "The Algerian angle is affordability and context: a mobile manipulation platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Taurob’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Taurob differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -379,7 +379,7 @@
  },
  {
   "name": "Clearpath Robotics",
-  "country": "Unknown",
+  "country": "Canada",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Clearpath Robotics bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -387,7 +387,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Clearpath_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Clearpath_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a purpose-built robot for one repetitive task, simplified for local needs — plus the engineering-diploma pipeline — can turn Clearpath Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Created to attack a specific pain point in robotics, Clearpath Robotics bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -505,7 +505,7 @@
  },
  {
   "name": "CRS Robotics",
-  "country": "Unknown",
+  "country": "Canada",
   "sub_domain": "robotics",
   "short_description": "The team behind CRS Robotics targets industrial and logistics operators in robotics with a sharp wedge: a mobile manipulation platform makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -513,7 +513,7 @@
   "official_site": "https://en.wikipedia.org/wiki/CRS_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/CRS_Robotics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "The team behind CRS Robotics targets industrial and logistics operators in robotics with a sharp wedge: a mobile manipulation platform makes the product more focused than a generalist play.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -631,7 +631,7 @@
  },
  {
   "name": "Kinova",
-  "country": "Unknown",
+  "country": "Canada",
   "sub_domain": "robotics",
   "short_description": "Kinova operates in robotics and competes on focus. Its bet is that a robot fleet controller with teleoperation, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -757,7 +757,7 @@
  },
  {
   "name": "Robotics Design Inc.",
-  "country": "Unknown",
+  "country": "Canada",
   "sub_domain": "robotics",
   "short_description": "Robotics Design Inc. operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -765,7 +765,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Robotics_Design_Inc.",
   "source_url": "https://en.wikipedia.org/wiki/Robotics_Design_Inc.",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Robotics Design Inc. operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -883,7 +883,7 @@
  },
  {
   "name": "White Box Robotics",
-  "country": "Unknown",
+  "country": "Canada",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, White Box Robotics bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -891,7 +891,7 @@
   "official_site": "https://en.wikipedia.org/wiki/White_Box_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/White_Box_Robotics",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. White Box Robotics could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, White Box Robotics bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -1009,7 +1009,7 @@
  },
  {
   "name": "AgiBot",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "The team behind AgiBot targets industrial and logistics operators in robotics with a sharp wedge: a mobile manipulation platform makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -1017,7 +1017,7 @@
   "official_site": "https://en.wikipedia.org/wiki/AgiBot",
   "source_url": "https://en.wikipedia.org/wiki/AgiBot",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind AgiBot targets industrial and logistics operators in robotics with a sharp wedge: a mobile manipulation platform makes the product more focused than a generalist play.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -1135,7 +1135,7 @@
  },
  {
   "name": "CloudMinds",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "CloudMinds operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -1261,7 +1261,7 @@
  },
  {
   "name": "Deep Robotics",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "Deep Robotics operates in robotics and competes on focus. Its bet is that a robot fleet controller with teleoperation, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -1269,7 +1269,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Deep_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Deep_Robotics",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Deep Robotics could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Deep Robotics operates in robotics and competes on focus. Its bet is that a robot fleet controller with teleoperation, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -1387,7 +1387,7 @@
  },
  {
   "name": "Dobot",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Dobot differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -1395,7 +1395,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Dobot",
   "source_url": "https://en.wikipedia.org/wiki/Dobot",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Dobot could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Dobot differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -1513,16 +1513,16 @@
  },
  {
   "name": "Ecovacs Robotics",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
-  "short_description": "Ecovacs Robotics is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Ecovacs Robotics is a China company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Ecovacs_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Ecovacs_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a mobile manipulation platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Ecovacs Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Ecovacs Robotics is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "C",
+  "concept": "Ecovacs Robotics is a China company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -1564,10 +1564,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Ecovacs Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Ecovacs Robotics شركة من China تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من منصة معالجة متنقلة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Ecovacs Robotics إلى نجاح محلي أو إقليمي.",
-    "concept": "Ecovacs Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Ecovacs Robotics شركة من China تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -1600,10 +1600,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من منصة معالجة متنقلة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Ecovacs Robotics إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Ecovacs Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Ecovacs Robotics est une entreprise de China qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de une plateforme de manipulation mobile adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Ecovacs Robotics en victoire domestique ou régionale.",
-    "concept": "Ecovacs Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Ecovacs Robotics est une entreprise de China qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -1639,7 +1639,7 @@
  },
  {
   "name": "Engine AI",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Engine AI bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -1765,7 +1765,7 @@
  },
  {
   "name": "Flexiv",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Flexiv differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -1773,7 +1773,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Flexiv",
   "source_url": "https://en.wikipedia.org/wiki/Flexiv",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Flexiv could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Flexiv differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -1891,7 +1891,7 @@
  },
  {
   "name": "Estun Automation",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "The team behind Estun Automation targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -2017,7 +2017,7 @@
  },
  {
   "name": "Fourier (company)",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Fourier (company) bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -2025,7 +2025,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Fourier_(company)",
   "source_url": "https://en.wikipedia.org/wiki/Fourier_(company)",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, Fourier (company) bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -2143,7 +2143,7 @@
  },
  {
   "name": "Geekplus",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Geekplus differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -2151,7 +2151,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Geekplus",
   "source_url": "https://en.wikipedia.org/wiki/Geekplus",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Geekplus could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Geekplus differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -2269,7 +2269,7 @@
  },
  {
   "name": "Leju Robot",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "The team behind Leju Robot targets industrial and logistics operators in robotics with a sharp wedge: a purpose-built robot for one repetitive task makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -2395,16 +2395,16 @@
  },
  {
   "name": "Mech-Mind Robotics",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
-  "short_description": "Mech-Mind Robotics is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Mech-Mind Robotics is a China company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Mech-Mind_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a robot fleet controller with teleoperation, simplified for local needs — plus the engineering-diploma pipeline — can turn Mech-Mind Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Mech-Mind Robotics is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Mech-Mind Robotics is a China company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -2446,10 +2446,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Mech-Mind Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Mech-Mind Robotics شركة من China تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Mech-Mind Robotics إلى نجاح محلي أو إقليمي.",
-    "concept": "Mech-Mind Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Mech-Mind Robotics شركة من China تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -2482,10 +2482,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Mech-Mind Robotics إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Mech-Mind Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Mech-Mind Robotics est une entreprise de China qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un contrôleur de flotte robotique avec télémaintenance adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Mech-Mind Robotics en victoire domestique ou régionale.",
-    "concept": "Mech-Mind Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Mech-Mind Robotics est une entreprise de China qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -2521,7 +2521,7 @@
  },
  {
   "name": "Roborock",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "The team behind Roborock targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -2529,7 +2529,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Roborock",
   "source_url": "https://en.wikipedia.org/wiki/Roborock",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Roborock could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Roborock targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -2647,7 +2647,7 @@
  },
  {
   "name": "Shenzhen Picea Robotics",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "Shenzhen Picea Robotics operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -2773,7 +2773,7 @@
  },
  {
   "name": "Siasun Robotics",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Siasun Robotics differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -2899,7 +2899,7 @@
  },
  {
   "name": "Turing Robot",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Turing Robot bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -2907,7 +2907,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Turing_Robot",
   "source_url": "https://en.wikipedia.org/wiki/Turing_Robot",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Turing Robot could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, Turing Robot bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -3025,7 +3025,7 @@
  },
  {
   "name": "UBtech Robotics",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "UBtech Robotics operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -3151,7 +3151,7 @@
  },
  {
   "name": "Unitree Robotics",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "Unitree Robotics operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -3159,7 +3159,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Unitree_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Unitree_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a purpose-built robot for one repetitive task, simplified for local needs — plus the engineering-diploma pipeline — can turn Unitree Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Unitree Robotics operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -3277,7 +3277,7 @@
  },
  {
   "name": "Zhiwei Robotics Corp.",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Zhiwei Robotics Corp. bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -3285,7 +3285,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Zhiwei_Robotics_Corp.",
   "source_url": "https://en.wikipedia.org/wiki/Zhiwei_Robotics_Corp.",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Zhiwei Robotics Corp. could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, Zhiwei Robotics Corp. bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -3403,7 +3403,7 @@
  },
  {
   "name": "Jorgensen Engineering",
-  "country": "Unknown",
+  "country": "Denmark",
   "sub_domain": "robotics",
   "short_description": "Jorgensen Engineering operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -3529,7 +3529,7 @@
  },
  {
   "name": "Universal Robots",
-  "country": "Unknown",
+  "country": "Denmark",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Universal Robots differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -3655,7 +3655,7 @@
  },
  {
   "name": "Welltec",
-  "country": "Unknown",
+  "country": "Denmark",
   "sub_domain": "robotics",
   "short_description": "Welltec operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -3781,7 +3781,7 @@
  },
  {
   "name": "Cleveron",
-  "country": "Unknown",
+  "country": "Estonia",
   "sub_domain": "robotics",
   "short_description": "The team behind Cleveron targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -3907,7 +3907,7 @@
  },
  {
   "name": "Milrem Robotics",
-  "country": "Unknown",
+  "country": "Estonia",
   "sub_domain": "robotics",
   "short_description": "The team behind Milrem Robotics targets industrial and logistics operators in robotics with a sharp wedge: a mobile manipulation platform makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -3915,7 +3915,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Milrem_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Milrem_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a mobile manipulation platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Milrem Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Milrem Robotics targets industrial and logistics operators in robotics with a sharp wedge: a mobile manipulation platform makes the product more focused than a generalist play.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -4033,7 +4033,7 @@
  },
  {
   "name": "Starship Technologies",
-  "country": "Unknown",
+  "country": "Estonia",
   "sub_domain": "robotics",
   "short_description": "The team behind Starship Technologies targets industrial and logistics operators in robotics with a sharp wedge: a purpose-built robot for one repetitive task makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -4285,16 +4285,16 @@
  },
  {
   "name": "Exotec",
-  "country": "Unknown",
+  "country": "France",
   "sub_domain": "robotics",
-  "short_description": "Exotec is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Exotec is a France company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Exotec",
   "source_url": "https://en.wikipedia.org/wiki/Exotec",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
   "priority": "A",
-  "concept": "Exotec is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Exotec is a France company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -4336,10 +4336,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Exotec شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Exotec شركة من France تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "Exotec شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Exotec شركة من France تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -4372,10 +4372,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "Exotec est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Exotec est une entreprise de France qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la robotique peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "Exotec est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Exotec est une entreprise de France qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -4411,7 +4411,7 @@
  },
  {
   "name": "Donecle",
-  "country": "Unknown",
+  "country": "France",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Donecle bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -4419,7 +4419,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Donecle",
   "source_url": "https://en.wikipedia.org/wiki/Donecle",
   "why_relevant": "The Algerian angle is affordability and context: a mobile manipulation platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Donecle’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, Donecle bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -4537,16 +4537,16 @@
  },
  {
   "name": "Festo",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "robotics",
-  "short_description": "Festo is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Festo is a Germany company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Festo",
   "source_url": "https://en.wikipedia.org/wiki/Festo",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
-  "concept": "Festo is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Festo is a Germany company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -4588,10 +4588,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Festo شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Festo شركة من Germany تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "Festo شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Festo شركة من Germany تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -4624,10 +4624,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "Festo est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Festo est une entreprise de Germany qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la robotique peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "Festo est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Festo est une entreprise de Germany qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -4663,7 +4663,7 @@
  },
  {
   "name": "Fischertechnik",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "robotics",
   "short_description": "The team behind Fischertechnik targets industrial and logistics operators in robotics with a sharp wedge: a mobile manipulation platform makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -4671,7 +4671,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Fischertechnik",
   "source_url": "https://en.wikipedia.org/wiki/Fischertechnik",
   "why_relevant": "The Algerian angle is affordability and context: a mobile manipulation platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Fischertechnik’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Fischertechnik targets industrial and logistics operators in robotics with a sharp wedge: a mobile manipulation platform makes the product more focused than a generalist play.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -4789,7 +4789,7 @@
  },
  {
   "name": "Halfmann Teleskoptechnik",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Halfmann Teleskoptechnik differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -4915,7 +4915,7 @@
  },
  {
   "name": "KUKA",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "robotics",
   "short_description": "KUKA operates in robotics and competes on focus. Its bet is that a robot fleet controller with teleoperation, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -4923,7 +4923,7 @@
   "official_site": "https://en.wikipedia.org/wiki/KUKA",
   "source_url": "https://en.wikipedia.org/wiki/KUKA",
   "why_relevant": "The Algerian angle is affordability and context: a robot fleet controller with teleoperation, simplified for local needs — plus the engineering-diploma pipeline — can turn KUKA’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "KUKA operates in robotics and competes on focus. Its bet is that a robot fleet controller with teleoperation, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -5041,16 +5041,16 @@
  },
  {
   "name": "MetraLabs GmbH",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "robotics",
-  "short_description": "MetraLabs GmbH is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "MetraLabs GmbH is a Germany company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/MetraLabs_GmbH",
   "source_url": "https://en.wikipedia.org/wiki/MetraLabs_GmbH",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
-  "concept": "MetraLabs GmbH is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "C",
+  "concept": "MetraLabs GmbH is a Germany company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -5092,10 +5092,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "MetraLabs GmbH شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "MetraLabs GmbH شركة من Germany تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "MetraLabs GmbH شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "MetraLabs GmbH شركة من Germany تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -5128,10 +5128,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "MetraLabs GmbH est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "MetraLabs GmbH est une entreprise de Germany qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la robotique peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "MetraLabs GmbH est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "MetraLabs GmbH est une entreprise de Germany qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -5167,7 +5167,7 @@
  },
  {
   "name": "Neura Robotics",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Neura Robotics differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -5293,7 +5293,7 @@
  },
  {
   "name": "Neurospace",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Neurospace differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -5301,7 +5301,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Neurospace",
   "source_url": "https://en.wikipedia.org/wiki/Neurospace",
   "why_relevant": "The Algerian angle is affordability and context: a purpose-built robot for one repetitive task, simplified for local needs — plus the engineering-diploma pipeline — can turn Neurospace’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of robotics, Neurospace differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -5419,7 +5419,7 @@
  },
  {
   "name": "Reis Robotics",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Reis Robotics differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -5427,7 +5427,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Reis_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Reis_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a purpose-built robot for one repetitive task, simplified for local needs — plus the engineering-diploma pipeline — can turn Reis Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Reis Robotics differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -5545,7 +5545,7 @@
  },
  {
   "name": "Rowa Automatisierungssysteme",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Rowa Automatisierungssysteme bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -5553,7 +5553,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Rowa_Automatisierungssysteme",
   "source_url": "https://en.wikipedia.org/wiki/Rowa_Automatisierungssysteme",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Rowa Automatisierungssysteme could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Created to attack a specific pain point in robotics, Rowa Automatisierungssysteme bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -5671,16 +5671,16 @@
  },
  {
   "name": "Hanson Robotics",
-  "country": "Unknown",
+  "country": "China",
   "sub_domain": "robotics",
-  "short_description": "Hanson Robotics is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Hanson Robotics is a China company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Hanson_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Hanson_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a robot fleet controller with teleoperation, simplified for local needs — plus the engineering-diploma pipeline — can turn Hanson Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Hanson Robotics is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Hanson Robotics is a China company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -5722,10 +5722,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Hanson Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Hanson Robotics شركة من China تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Hanson Robotics إلى نجاح محلي أو إقليمي.",
-    "concept": "Hanson Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Hanson Robotics شركة من China تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -5758,10 +5758,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Hanson Robotics إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Hanson Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Hanson Robotics est une entreprise de China qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un contrôleur de flotte robotique avec télémaintenance adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Hanson Robotics en victoire domestique ou régionale.",
-    "concept": "Hanson Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Hanson Robotics est une entreprise de China qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -5797,7 +5797,7 @@
  },
  {
   "name": "Sastra Robotics",
-  "country": "Unknown",
+  "country": "India",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Sastra Robotics bets on a robot fleet controller with teleoperation as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -5805,7 +5805,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Sastra_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Sastra_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a robot fleet controller with teleoperation, simplified for local needs — plus the engineering-diploma pipeline — can turn Sastra Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, Sastra Robotics bets on a robot fleet controller with teleoperation as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -5922,134 +5922,8 @@
   }
  },
  {
-  "name": "Robomow",
-  "country": "Unknown",
-  "sub_domain": "robotics",
-  "short_description": "In the crowded field of robotics, Robomow differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
-  "technology": "perception stacks, motion control and mechatronic design",
-  "year_founded": null,
-  "official_site": "https://en.wikipedia.org/wiki/Robomow",
-  "source_url": "https://en.wikipedia.org/wiki/Robomow",
-  "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Robomow could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "In the crowded field of robotics, Robomow differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
-  "main_sellers": [
-   "Boston Dynamics and Fanuc",
-   "ABB and KUKA",
-   "Agility and Sanctuary"
-  ],
-  "team_rec": [
-   [
-    "Embedded software engineer",
-    2
-   ],
-   [
-    "Mechanical engineer",
-    1
-   ],
-   [
-    "Control engineer",
-    1
-   ],
-   [
-    "Electronics engineer",
-    1
-   ],
-   [
-    "Founder/lead",
-    1
-   ]
-  ],
-  "build_approach": "Build the MVP around a robot fleet controller with teleoperation, launch in a thin local market first, collect reference data, and expand only once unit economics are clear. Avoid chasing enterprise buyers before product-market fit.",
-  "product_issues": "The moats here are trust and distribution, not technology: one failed deployment poisons the next ten sales, so reliability beats feature velocity. Many challengers also underestimate industry licensing and certification — the licensing and compliance layer.",
-  "algeria_value": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Robomow could localize its core for the Algerian context instead of adapting a foreign product.",
-  "difficulty_score": 65,
-  "difficulty_breakdown": {
-   "technical": 27,
-   "capital": 21,
-   "regulatory": 7,
-   "market": 45
-  },
-  "source_tier": "S2",
-  "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
-  "translations": {
-   "ar": {
-    "short_description": "في ميدان الروبوتات المزدحم، يميّز Robomow نفسه بحل مشكلة واحدة من البداية للنهاية — نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد — بدل إضافة ميزات أفقية.",
-    "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
-    "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Robomow توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "في ميدان الروبوتات المزدحم، يميّز Robomow نفسه بحل مشكلة واحدة من البداية للنهاية — نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد — بدل إضافة ميزات أفقية.",
-    "main_sellers": [
-     "Boston Dynamics و Fanuc",
-     "ABB و KUKA",
-     "Agility و Sanctuary"
-    ],
-    "team_rec": [
-     [
-      "مهندس برمجيات مدمجة",
-      2
-     ],
-     [
-      "مهندس ميكانيكي",
-      1
-     ],
-     [
-      "مهندس تحكم",
-      1
-     ],
-     [
-      "مهندس إلكترونيات",
-      1
-     ],
-     [
-      "مؤسس/قائد",
-      1
-     ]
-    ],
-    "build_approach": "ابنِ النموذج الأولي حول نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد، أطلق في سوق محلية صغيرة أولاً، اجمع بيانات مرجعية، ووسّع فقط بعد وضوح اقتصاديات الوحدة. تجنّب مطاردة عملاء المؤسسات قبل ملاءمة المنتج للسوق.",
-    "product_issues": "الخنادق هنا هي الثقة والتوزيع لا التقنية: فشل نشر واحد يسمم عمليات البيع العشر التالية، لذا الموثوقية تسبق سرعة الميزات. ويقلّل الوافدون الجدد من شأن ترخيص الصناعة والاعتماد — طبقة الترخيص والامتثال.",
-    "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Robomow توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
-   },
-   "fr": {
-    "short_description": "Dans le champ saturé de la robotique, Robomow se distingue en résolvant un problème de bout en bout — un contrôleur de flotte robotique avec télémaintenance — plutôt qu’en empilant des fonctions horizontales.",
-    "technology": "perception, contrôle de mouvement et conception mécatronique",
-    "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Robomow pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Dans le champ saturé de la robotique, Robomow se distingue en résolvant un problème de bout en bout — un contrôleur de flotte robotique avec télémaintenance — plutôt qu’en empilant des fonctions horizontales.",
-    "main_sellers": [
-     "Boston Dynamics et Fanuc",
-     "ABB et KUKA",
-     "Agility et Sanctuary"
-    ],
-    "team_rec": [
-     [
-      "Ingénieur logiciel embarqué",
-      2
-     ],
-     [
-      "Ingénieur mécanique",
-      1
-     ],
-     [
-      "Ingénieur contrôle",
-      1
-     ],
-     [
-      "Ingénieur électronique",
-      1
-     ],
-     [
-      "Fondateur/lead",
-      1
-     ]
-    ],
-    "build_approach": "Construisez le MVP autour de un contrôleur de flotte robotique avec télémaintenance, lancez d’abord sur un marché local étroit, collectez des données de référence, et ne vous étendez qu’une fois l’économie unitaire claire. Évitez les grands comptes avant le product-market fit.",
-    "product_issues": "Les vrais moats ici sont la confiance et la distribution, pas la technologie : un déploiement raté empoisonne les dix ventes suivantes, donc la fiabilité prime sur la vitesse. Beaucoup de challengers sous-estiment aussi licences et certifications métier — la couche licence et conformité.",
-    "algeria_value": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Robomow pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger."
-   }
-  }
- },
- {
   "name": "Comau",
-  "country": "Unknown",
+  "country": "Italy",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Comau differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -6057,7 +5931,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Comau",
   "source_url": "https://en.wikipedia.org/wiki/Comau",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Comau could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Comau differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -6175,16 +6049,16 @@
  },
  {
   "name": "Makr Shakr",
-  "country": "Unknown",
+  "country": "Italy",
   "sub_domain": "robotics",
-  "short_description": "Makr Shakr is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Makr Shakr is a Italy company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Makr_Shakr",
   "source_url": "https://en.wikipedia.org/wiki/Makr_Shakr",
   "why_relevant": "The Algerian angle is affordability and context: a purpose-built robot for one repetitive task, simplified for local needs — plus the engineering-diploma pipeline — can turn Makr Shakr’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Makr Shakr is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Makr Shakr is a Italy company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -6226,10 +6100,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Makr Shakr شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Makr Shakr شركة من Italy تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من روبوت مصمّم خصيصاً لمهمة واحدة متكررة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Makr Shakr إلى نجاح محلي أو إقليمي.",
-    "concept": "Makr Shakr شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Makr Shakr شركة من Italy تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -6262,10 +6136,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من روبوت مصمّم خصيصاً لمهمة واحدة متكررة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Makr Shakr إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Makr Shakr est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Makr Shakr est une entreprise de Italy qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un robot dédié à une seule tâche répétitive adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Makr Shakr en victoire domestique ou régionale.",
-    "concept": "Makr Shakr est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Makr Shakr est une entreprise de Italy qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -6301,7 +6175,7 @@
  },
  {
   "name": "Cyberdyne Inc.",
-  "country": "Unknown",
+  "country": "Japan",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Cyberdyne Inc. bets on a robot fleet controller with teleoperation as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -6309,7 +6183,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Cyberdyne_Inc.",
   "source_url": "https://en.wikipedia.org/wiki/Cyberdyne_Inc.",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Cyberdyne Inc. could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Created to attack a specific pain point in robotics, Cyberdyne Inc. bets on a robot fleet controller with teleoperation as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -6427,7 +6301,7 @@
  },
  {
   "name": "Epson Robots",
-  "country": "Unknown",
+  "country": "Japan",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Epson Robots differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -6435,7 +6309,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Epson_Robots",
   "source_url": "https://en.wikipedia.org/wiki/Epson_Robots",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Epson Robots could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Epson Robots differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -6553,7 +6427,7 @@
  },
  {
   "name": "FANUC",
-  "country": "Unknown",
+  "country": "Japan",
   "sub_domain": "robotics",
   "short_description": "The team behind FANUC targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -6561,7 +6435,7 @@
   "official_site": "https://en.wikipedia.org/wiki/FANUC",
   "source_url": "https://en.wikipedia.org/wiki/FANUC",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. FANUC could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "The team behind FANUC targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -6679,7 +6553,7 @@
  },
  {
   "name": "Kawasaki Heavy Industries",
-  "country": "Unknown",
+  "country": "Japan",
   "sub_domain": "robotics",
   "short_description": "Kawasaki Heavy Industries operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -6687,7 +6561,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Kawasaki_Heavy_Industries",
   "source_url": "https://en.wikipedia.org/wiki/Kawasaki_Heavy_Industries",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Kawasaki Heavy Industries could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Kawasaki Heavy Industries operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -6805,7 +6679,7 @@
  },
  {
   "name": "Nachi-Fujikoshi",
-  "country": "Unknown",
+  "country": "Japan",
   "sub_domain": "robotics",
   "short_description": "The team behind Nachi-Fujikoshi targets industrial and logistics operators in robotics with a sharp wedge: a purpose-built robot for one repetitive task makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -6931,7 +6805,7 @@
  },
  {
   "name": "Omron",
-  "country": "Unknown",
+  "country": "Japan",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Omron differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -6939,7 +6813,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Omron",
   "source_url": "https://en.wikipedia.org/wiki/Omron",
   "why_relevant": "The Algerian angle is affordability and context: a robot fleet controller with teleoperation, simplified for local needs — plus the engineering-diploma pipeline — can turn Omron’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Omron differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -7057,7 +6931,7 @@
  },
  {
   "name": "Yaskawa Electric Corporation",
-  "country": "Unknown",
+  "country": "Japan",
   "sub_domain": "robotics",
   "short_description": "Yaskawa Electric Corporation operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -7065,7 +6939,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Yaskawa_Electric_Corporation",
   "source_url": "https://en.wikipedia.org/wiki/Yaskawa_Electric_Corporation",
   "why_relevant": "The Algerian angle is affordability and context: a purpose-built robot for one repetitive task, simplified for local needs — plus the engineering-diploma pipeline — can turn Yaskawa Electric Corporation’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Yaskawa Electric Corporation operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -7183,7 +7057,7 @@
  },
  {
   "name": "ZMP INC.",
-  "country": "Unknown",
+  "country": "Japan",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, ZMP INC. differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -7191,7 +7065,7 @@
   "official_site": "https://en.wikipedia.org/wiki/ZMP_INC.",
   "source_url": "https://en.wikipedia.org/wiki/ZMP_INC.",
   "why_relevant": "The Algerian angle is affordability and context: a robot fleet controller with teleoperation, simplified for local needs — plus the engineering-diploma pipeline — can turn ZMP INC.’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of robotics, ZMP INC. differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -7309,7 +7183,7 @@
  },
  {
   "name": "Doosan Robotics",
-  "country": "Unknown",
+  "country": "South Korea",
   "sub_domain": "robotics",
   "short_description": "The team behind Doosan Robotics targets industrial and logistics operators in robotics with a sharp wedge: a purpose-built robot for one repetitive task makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -7317,7 +7191,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Doosan_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Doosan_Robotics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "The team behind Doosan Robotics targets industrial and logistics operators in robotics with a sharp wedge: a purpose-built robot for one repetitive task makes the product more focused than a generalist play.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -7435,7 +7309,7 @@
  },
  {
   "name": "HD Hyundai Robotics",
-  "country": "Unknown",
+  "country": "South Korea",
   "sub_domain": "robotics",
   "short_description": "HD Hyundai Robotics operates in robotics and competes on focus. Its bet is that a robot fleet controller with teleoperation, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -7443,7 +7317,7 @@
   "official_site": "https://en.wikipedia.org/wiki/HD_Hyundai_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/HD_Hyundai_Robotics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "HD Hyundai Robotics operates in robotics and competes on focus. Its bet is that a robot fleet controller with teleoperation, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -7561,7 +7435,7 @@
  },
  {
   "name": "Hyundai WIA",
-  "country": "Unknown",
+  "country": "South Korea",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Hyundai WIA bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -7569,7 +7443,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Hyundai_WIA",
   "source_url": "https://en.wikipedia.org/wiki/Hyundai_WIA",
   "why_relevant": "The Algerian angle is affordability and context: a mobile manipulation platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Hyundai WIA’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Created to attack a specific pain point in robotics, Hyundai WIA bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -7687,7 +7561,7 @@
  },
  {
   "name": "Rainbow Robotics",
-  "country": "Unknown",
+  "country": "South Korea",
   "sub_domain": "robotics",
   "short_description": "Rainbow Robotics operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -7695,7 +7569,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Rainbow_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Rainbow_Robotics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Rainbow Robotics operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -7813,7 +7687,7 @@
  },
  {
   "name": "Robotis",
-  "country": "Unknown",
+  "country": "South Korea",
   "sub_domain": "robotics",
   "short_description": "The team behind Robotis targets industrial and logistics operators in robotics with a sharp wedge: a purpose-built robot for one repetitive task makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -7939,16 +7813,16 @@
  },
  {
   "name": "Robotnik Automation",
-  "country": "Unknown",
+  "country": "Spain",
   "sub_domain": "robotics",
-  "short_description": "Robotnik Automation is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Robotnik Automation is a Spain company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Robotnik_Automation",
   "source_url": "https://en.wikipedia.org/wiki/Robotnik_Automation",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Robotnik Automation could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Robotnik Automation is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "C",
+  "concept": "Robotnik Automation is a Spain company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -7990,10 +7864,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Robotnik Automation شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Robotnik Automation شركة من Spain تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Robotnik Automation توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Robotnik Automation شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Robotnik Automation شركة من Spain تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -8026,10 +7900,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Robotnik Automation توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Robotnik Automation est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Robotnik Automation est une entreprise de Spain qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Robotnik Automation pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Robotnik Automation est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Robotnik Automation est une entreprise de Spain qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -8065,7 +7939,7 @@
  },
  {
   "name": "NDC Netzler & Dahlgren Co AB",
-  "country": "Unknown",
+  "country": "Sweden",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, NDC Netzler & Dahlgren Co AB bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -8073,7 +7947,7 @@
   "official_site": "https://en.wikipedia.org/wiki/NDC_Netzler_%26_Dahlgren_Co_AB",
   "source_url": "https://en.wikipedia.org/wiki/NDC_Netzler_%26_Dahlgren_Co_AB",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. NDC Netzler & Dahlgren Co AB could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, NDC Netzler & Dahlgren Co AB bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -8191,7 +8065,7 @@
  },
  {
   "name": "ANYbotics",
-  "country": "Unknown",
+  "country": "Switzerland",
   "sub_domain": "robotics",
   "short_description": "ANYbotics operates in robotics and competes on focus. Its bet is that a robot fleet controller with teleoperation, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -8317,7 +8191,7 @@
  },
  {
   "name": "ABB",
-  "country": "Unknown",
+  "country": "Switzerland",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, ABB differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -8325,7 +8199,7 @@
   "official_site": "https://en.wikipedia.org/wiki/ABB",
   "source_url": "https://en.wikipedia.org/wiki/ABB",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, ABB differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -8443,7 +8317,7 @@
  },
  {
   "name": "Stäubli",
-  "country": "Unknown",
+  "country": "Switzerland",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Stäubli differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -8451,7 +8325,7 @@
   "official_site": "https://en.wikipedia.org/wiki/St%C3%A4ubli",
   "source_url": "https://en.wikipedia.org/wiki/St%C3%A4ubli",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Stäubli could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of robotics, Stäubli differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -8569,16 +8443,16 @@
  },
  {
   "name": "HIWIN",
-  "country": "Unknown",
+  "country": "Taiwan",
   "sub_domain": "robotics",
-  "short_description": "HIWIN is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "HIWIN is a Taiwan company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/HIWIN",
   "source_url": "https://en.wikipedia.org/wiki/HIWIN",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
-  "concept": "HIWIN is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "HIWIN is a Taiwan company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -8620,10 +8494,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "HIWIN شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "HIWIN شركة من Taiwan تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "HIWIN شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "HIWIN شركة من Taiwan تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -8656,10 +8530,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "HIWIN est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "HIWIN est une entreprise de Taiwan qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la robotique peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "HIWIN est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "HIWIN est une entreprise de Taiwan qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -8695,7 +8569,7 @@
  },
  {
   "name": "Techman",
-  "country": "Unknown",
+  "country": "Taiwan",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Techman bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -8821,7 +8695,7 @@
  },
  {
   "name": "Thunder Tiger",
-  "country": "Unknown",
+  "country": "Taiwan",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Thunder Tiger bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -8829,7 +8703,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Thunder_Tiger",
   "source_url": "https://en.wikipedia.org/wiki/Thunder_Tiger",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Created to attack a specific pain point in robotics, Thunder Tiger bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -8947,7 +8821,7 @@
  },
  {
   "name": "Academy of Robotics",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "robotics",
   "short_description": "The team behind Academy of Robotics targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -9073,7 +8947,7 @@
  },
  {
   "name": "Active Robots",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Active Robots differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -9081,7 +8955,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Active_Robots",
   "source_url": "https://en.wikipedia.org/wiki/Active_Robots",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Active Robots could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Active Robots differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -9199,7 +9073,7 @@
  },
  {
   "name": "Engineered Arts",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "robotics",
   "short_description": "Engineered Arts operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -9207,7 +9081,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Engineered_Arts",
   "source_url": "https://en.wikipedia.org/wiki/Engineered_Arts",
   "why_relevant": "The Algerian angle is affordability and context: a mobile manipulation platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Engineered Arts’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Engineered Arts operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -9325,7 +9199,7 @@
  },
  {
   "name": "Moley Robotics",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Moley Robotics differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -9333,7 +9207,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Moley_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Moley_Robotics",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Moley Robotics could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of robotics, Moley Robotics differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -9451,7 +9325,7 @@
  },
  {
   "name": "Open Bionics",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Open Bionics differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -9459,7 +9333,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Open_Bionics",
   "source_url": "https://en.wikipedia.org/wiki/Open_Bionics",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Open Bionics could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Open Bionics differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -9577,7 +9451,7 @@
  },
  {
   "name": "Oxa",
-  "country": "Unknown",
+  "country": "United Kingdom",
   "sub_domain": "robotics",
   "short_description": "Oxa operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -9585,7 +9459,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Oxa",
   "source_url": "https://en.wikipedia.org/wiki/Oxa",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Oxa operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -9703,16 +9577,16 @@
  },
  {
   "name": "ST Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "ST Robotics is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "ST Robotics is a United States company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/ST_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/ST_Robotics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
   "priority": "A",
-  "concept": "ST Robotics is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "ST Robotics is a United States company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -9754,10 +9628,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "ST Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "ST Robotics شركة من United States تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "ST Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "ST Robotics شركة من United States تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -9790,10 +9664,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "ST Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "ST Robotics est une entreprise de United States qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la robotique peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "ST Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "ST Robotics est une entreprise de United States qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -9829,7 +9703,7 @@
  },
  {
   "name": "Agility Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Agility Robotics bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -9837,7 +9711,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Agility_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Agility_Robotics",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Agility Robotics could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, Agility Robotics bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -9955,7 +9829,7 @@
  },
  {
   "name": "Amazon Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "Amazon Robotics operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -9963,7 +9837,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Amazon_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Amazon_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a mobile manipulation platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Amazon Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Amazon Robotics operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -10081,7 +9955,7 @@
  },
  {
   "name": "Anybots",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Anybots differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -10207,16 +10081,16 @@
  },
  {
   "name": "Barrett Technology",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "Barrett Technology is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Barrett Technology is a United States company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Barrett_Technology",
   "source_url": "https://en.wikipedia.org/wiki/Barrett_Technology",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Barrett Technology could localize its core for the Algerian context instead of adapting a foreign product.",
   "priority": "A",
-  "concept": "Barrett Technology is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Barrett Technology is a United States company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -10258,10 +10132,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Barrett Technology شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Barrett Technology شركة من United States تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Barrett Technology توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Barrett Technology شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Barrett Technology شركة من United States تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -10294,10 +10168,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Barrett Technology توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Barrett Technology est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Barrett Technology est une entreprise de United States qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Barrett Technology pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Barrett Technology est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Barrett Technology est une entreprise de United States qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -10333,16 +10207,16 @@
  },
  {
   "name": "Berkshire Grey",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "Berkshire Grey is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Berkshire Grey is a United States company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Berkshire_Grey",
   "source_url": "https://en.wikipedia.org/wiki/Berkshire_Grey",
   "why_relevant": "The Algerian angle is affordability and context: a purpose-built robot for one repetitive task, simplified for local needs — plus the engineering-diploma pipeline — can turn Berkshire Grey’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Berkshire Grey is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Berkshire Grey is a United States company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -10384,10 +10258,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Berkshire Grey شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Berkshire Grey شركة من United States تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من روبوت مصمّم خصيصاً لمهمة واحدة متكررة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Berkshire Grey إلى نجاح محلي أو إقليمي.",
-    "concept": "Berkshire Grey شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Berkshire Grey شركة من United States تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -10420,10 +10294,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من روبوت مصمّم خصيصاً لمهمة واحدة متكررة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Berkshire Grey إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Berkshire Grey est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Berkshire Grey est une entreprise de United States qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un robot dédié à une seule tâche répétitive adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Berkshire Grey en victoire domestique ou régionale.",
-    "concept": "Berkshire Grey est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Berkshire Grey est une entreprise de United States qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -10459,7 +10333,7 @@
  },
  {
   "name": "Bluefin Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Bluefin Robotics differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -10585,16 +10459,16 @@
  },
  {
   "name": "Bossa Nova Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "Bossa Nova Robotics is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Bossa Nova Robotics is a United States company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Bossa_Nova_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Bossa_Nova_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a mobile manipulation platform, simplified for local needs — plus the engineering-diploma pipeline — can turn Bossa Nova Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Bossa Nova Robotics is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Bossa Nova Robotics is a United States company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -10636,10 +10510,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Bossa Nova Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Bossa Nova Robotics شركة من United States تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من منصة معالجة متنقلة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Bossa Nova Robotics إلى نجاح محلي أو إقليمي.",
-    "concept": "Bossa Nova Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Bossa Nova Robotics شركة من United States تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -10672,10 +10546,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من منصة معالجة متنقلة مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Bossa Nova Robotics إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Bossa Nova Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Bossa Nova Robotics est une entreprise de United States qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de une plateforme de manipulation mobile adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Bossa Nova Robotics en victoire domestique ou régionale.",
-    "concept": "Bossa Nova Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Bossa Nova Robotics est une entreprise de United States qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -10711,7 +10585,7 @@
  },
  {
   "name": "Boston Dynamics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "Boston Dynamics operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -10719,7 +10593,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Boston_Dynamics",
   "source_url": "https://en.wikipedia.org/wiki/Boston_Dynamics",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Boston Dynamics could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Boston Dynamics operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -10837,7 +10711,7 @@
  },
  {
   "name": "Covariant (company)",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Covariant (company) differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -10845,7 +10719,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Covariant_(company)",
   "source_url": "https://en.wikipedia.org/wiki/Covariant_(company)",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of robotics, Covariant (company) differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -10963,7 +10837,7 @@
  },
  {
   "name": "Daxbot",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "The team behind Daxbot targets industrial and logistics operators in robotics with a sharp wedge: a mobile manipulation platform makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -11089,7 +10963,7 @@
  },
  {
   "name": "Double Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "The team behind Double Robotics targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -11097,7 +10971,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Double_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Double_Robotics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Double Robotics targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -11215,16 +11089,16 @@
  },
  {
   "name": "Ekso Bionics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "Ekso Bionics is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Ekso Bionics is a United States company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Ekso_Bionics",
   "source_url": "https://en.wikipedia.org/wiki/Ekso_Bionics",
   "why_relevant": "The Algerian angle is affordability and context: a robot fleet controller with teleoperation, simplified for local needs — plus the engineering-diploma pipeline — can turn Ekso Bionics’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Ekso Bionics is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "C",
+  "concept": "Ekso Bionics is a United States company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -11266,10 +11140,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Ekso Bionics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Ekso Bionics شركة من United States تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Ekso Bionics إلى نجاح محلي أو إقليمي.",
-    "concept": "Ekso Bionics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Ekso Bionics شركة من United States تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -11302,10 +11176,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Ekso Bionics إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Ekso Bionics est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Ekso Bionics est une entreprise de United States qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un contrôleur de flotte robotique avec télémaintenance adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Ekso Bionics en victoire domestique ou régionale.",
-    "concept": "Ekso Bionics est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Ekso Bionics est une entreprise de United States qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -11341,16 +11215,16 @@
  },
  {
   "name": "Energid Technologies",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "Energid Technologies is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Energid Technologies is a United States company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Energid_Technologies",
   "source_url": "https://en.wikipedia.org/wiki/Energid_Technologies",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
   "priority": "A",
-  "concept": "Energid Technologies is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Energid Technologies is a United States company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -11392,10 +11266,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Energid Technologies شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Energid Technologies شركة من United States تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية.",
-    "concept": "Energid Technologies شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Energid Technologies شركة من United States تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -11428,10 +11302,10 @@
     "algeria_value": "بالنسبة للجزائر، الجزء القابل للنقل هو العملية لا المنتج: فريق يتعلم بناء منتجات الروبوتات يمكن أن يخدم الأسواق الإقليمية من الجزائر العاصمة بجزء بسيط من تكلفة المراكز الغربية."
    },
    "fr": {
-    "short_description": "Energid Technologies est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Energid Technologies est une entreprise de United States qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "Pour l’Algérie, le transférable, c’est le processus, pas le produit : une équipe qui apprend à construire des produits la robotique peut servir les marchés régionaux depuis Alger pour une fraction du coût des hubs occidentaux.",
-    "concept": "Energid Technologies est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Energid Technologies est une entreprise de United States qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -11467,16 +11341,16 @@
  },
  {
   "name": "Evolution Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "Evolution Robotics is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Evolution Robotics is a United States company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Evolution_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Evolution_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a robot fleet controller with teleoperation, simplified for local needs — plus the engineering-diploma pipeline — can turn Evolution Robotics’s playbook into a domestic or regional win.",
   "priority": "A",
-  "concept": "Evolution Robotics is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Evolution Robotics is a United States company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -11518,10 +11392,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Evolution Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Evolution Robotics شركة من United States تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Evolution Robotics إلى نجاح محلي أو إقليمي.",
-    "concept": "Evolution Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Evolution Robotics شركة من United States تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -11554,10 +11428,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Evolution Robotics إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Evolution Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Evolution Robotics est une entreprise de United States qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un contrôleur de flotte robotique avec télémaintenance adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Evolution Robotics en victoire domestique ou régionale.",
-    "concept": "Evolution Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Evolution Robotics est une entreprise de United States qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -11593,7 +11467,7 @@
  },
  {
   "name": "Foster-Miller",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Foster-Miller differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -11601,7 +11475,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Foster-Miller",
   "source_url": "https://en.wikipedia.org/wiki/Foster-Miller",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Foster-Miller could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Foster-Miller differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -11719,7 +11593,7 @@
  },
  {
   "name": "Harvest Automation",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "Harvest Automation operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -11727,7 +11601,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Harvest_Automation",
   "source_url": "https://en.wikipedia.org/wiki/Harvest_Automation",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Harvest Automation could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Harvest Automation operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -11845,16 +11719,16 @@
  },
  {
   "name": "Honeybee Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "Honeybee Robotics is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Honeybee Robotics is a United States company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Honeybee_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Honeybee_Robotics",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Honeybee Robotics could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
-  "concept": "Honeybee Robotics is a robotics company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Honeybee Robotics is a United States company working in robotics — a space where ABB and KUKA set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -11896,10 +11770,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Honeybee Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Honeybee Robotics شركة من United States تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Honeybee Robotics توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Honeybee Robotics شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Honeybee Robotics شركة من United States تعمل في الروبوتات — مجال يضع فيه ABB و KUKA المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -11932,10 +11806,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Honeybee Robotics توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Honeybee Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Honeybee Robotics est une entreprise de United States qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Honeybee Robotics pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Honeybee Robotics est une entreprise de la robotique qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Honeybee Robotics est une entreprise de United States qui opère dans la robotique, un espace où ABB et KUKA donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -11971,7 +11845,7 @@
  },
  {
   "name": "Intuitive Surgical",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Intuitive Surgical bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -11979,7 +11853,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Intuitive_Surgical",
   "source_url": "https://en.wikipedia.org/wiki/Intuitive_Surgical",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Intuitive Surgical could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, Intuitive Surgical bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -12097,7 +11971,7 @@
  },
  {
   "name": "IRobot",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "IRobot operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -12105,7 +11979,7 @@
   "official_site": "https://en.wikipedia.org/wiki/IRobot",
   "source_url": "https://en.wikipedia.org/wiki/IRobot",
   "why_relevant": "The Algerian angle is affordability and context: a purpose-built robot for one repetitive task, simplified for local needs — plus the engineering-diploma pipeline — can turn IRobot’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "IRobot operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -12349,16 +12223,16 @@
  },
  {
   "name": "Knightscope",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "Knightscope is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Knightscope is a United States company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Knightscope",
   "source_url": "https://en.wikipedia.org/wiki/Knightscope",
   "why_relevant": "The Algerian angle is affordability and context: a robot fleet controller with teleoperation, simplified for local needs — plus the engineering-diploma pipeline — can turn Knightscope’s playbook into a domestic or regional win.",
-  "priority": "A",
-  "concept": "Knightscope is a robotics company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
+  "priority": "B",
+  "concept": "Knightscope is a United States company working in robotics — a space where Agility and Sanctuary set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -12400,10 +12274,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Knightscope شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Knightscope شركة من United States تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Knightscope إلى نجاح محلي أو إقليمي.",
-    "concept": "Knightscope شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Knightscope شركة من United States تعمل في الروبوتات — مجال يضع فيه Agility و Sanctuary المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -12436,10 +12310,10 @@
     "algeria_value": "الزاوية الجزائرية هي السعر والملاءمة: نسخة مبسطة من نظام تحكم بأسطول الروبوتات مع تشغيل عن بعد مصممة للحاجات المحلية — مع سلسلة شهادات الهندسة — يمكن أن تحوّل نهج Knightscope إلى نجاح محلي أو إقليمي."
    },
    "fr": {
-    "short_description": "Knightscope est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Knightscope est une entreprise de United States qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’angle algérien, c’est l’accessibilité et le contexte : une version simplifiée de un contrôleur de flotte robotique avec télémaintenance adaptée aux besoins locaux — plus le vivier d’ingénieurs diplômés — peut transformer le playbook de Knightscope en victoire domestique ou régionale.",
-    "concept": "Knightscope est une entreprise de la robotique qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Knightscope est une entreprise de United States qui opère dans la robotique, un espace où Agility et Sanctuary donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -12475,7 +12349,7 @@
  },
  {
   "name": "Meka Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Meka Robotics bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -12483,7 +12357,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Meka_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Meka_Robotics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Created to attack a specific pain point in robotics, Meka Robotics bets on a purpose-built robot for one repetitive task as the wedge industrial and logistics operators will actually buy.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -12601,7 +12475,7 @@
  },
  {
   "name": "Neato Robotics",
-  "country": "Unknown",
+  "country": "Germany",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Neato Robotics differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -12727,7 +12601,7 @@
  },
  {
   "name": "Omron Adept",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Omron Adept differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -12735,7 +12609,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Omron_Adept",
   "source_url": "https://en.wikipedia.org/wiki/Omron_Adept",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Omron Adept could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Omron Adept differentiates by solving one problem end-to-end — a purpose-built robot for one repetitive task — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -12853,7 +12727,7 @@
  },
  {
   "name": "Open Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "Open Robotics operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -12861,7 +12735,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Open_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Open_Robotics",
   "why_relevant": "The Algerian angle is affordability and context: a purpose-built robot for one repetitive task, simplified for local needs — plus the engineering-diploma pipeline — can turn Open Robotics’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "C",
   "concept": "Open Robotics operates in robotics and competes on focus. Its bet is that a purpose-built robot for one repetitive task, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -12979,16 +12853,16 @@
  },
  {
   "name": "Palladyne AI",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "Palladyne AI is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Palladyne AI is a United States company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Palladyne_AI",
   "source_url": "https://en.wikipedia.org/wiki/Palladyne_AI",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Palladyne AI could localize its core for the Algerian context instead of adapting a foreign product.",
   "priority": "A",
-  "concept": "Palladyne AI is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Palladyne AI is a United States company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -13030,10 +12904,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Palladyne AI شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Palladyne AI شركة من United States تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Palladyne AI توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Palladyne AI شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Palladyne AI شركة من United States تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -13066,10 +12940,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Palladyne AI توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Palladyne AI est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Palladyne AI est une entreprise de United States qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Palladyne AI pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Palladyne AI est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Palladyne AI est une entreprise de United States qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",
@@ -13231,7 +13105,7 @@
  },
  {
   "name": "Rethink Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "Rethink Robotics operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -13239,7 +13113,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Rethink_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Rethink_Robotics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "Rethink Robotics operates in robotics and competes on focus. Its bet is that a mobile manipulation platform, built for industrial and logistics operators, beats a broad horizontal platform.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -13357,7 +13231,7 @@
  },
  {
   "name": "Serve Robotics",
-  "country": "Unknown",
+  "country": "Canada",
   "sub_domain": "robotics",
   "short_description": "The team behind Serve Robotics targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -13365,7 +13239,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Serve_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Serve_Robotics",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Serve Robotics could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "The team behind Serve Robotics targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -13483,7 +13357,7 @@
  },
  {
   "name": "Sphero",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Sphero differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -13491,7 +13365,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Sphero",
   "source_url": "https://en.wikipedia.org/wiki/Sphero",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "In the crowded field of robotics, Sphero differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -13609,7 +13483,7 @@
  },
  {
   "name": "Symbotic",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Symbotic differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -13617,7 +13491,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Symbotic",
   "source_url": "https://en.wikipedia.org/wiki/Symbotic",
   "why_relevant": "The Algerian angle is affordability and context: a robot fleet controller with teleoperation, simplified for local needs — plus the engineering-diploma pipeline — can turn Symbotic’s playbook into a domestic or regional win.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Symbotic differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -13735,7 +13609,7 @@
  },
  {
   "name": "Unimation",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Unimation differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -13743,7 +13617,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Unimation",
   "source_url": "https://en.wikipedia.org/wiki/Unimation",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Unimation differentiates by solving one problem end-to-end — a mobile manipulation platform — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -13861,7 +13735,7 @@
  },
  {
   "name": "Universal Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "Created to attack a specific pain point in robotics, Universal Robotics bets on a mobile manipulation platform as the wedge industrial and logistics operators will actually buy.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -14113,7 +13987,7 @@
  },
  {
   "name": "Willow Garage",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "In the crowded field of robotics, Willow Garage differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -14121,7 +13995,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Willow_Garage",
   "source_url": "https://en.wikipedia.org/wiki/Willow_Garage",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Willow Garage could localize its core for the Algerian context instead of adapting a foreign product.",
-  "priority": "A",
+  "priority": "B",
   "concept": "In the crowded field of robotics, Willow Garage differentiates by solving one problem end-to-end — a robot fleet controller with teleoperation — instead of stacking horizontal features.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -14239,7 +14113,7 @@
  },
  {
   "name": "Wolf Robotics",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
   "short_description": "The team behind Wolf Robotics targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "technology": "perception stacks, motion control and mechatronic design",
@@ -14247,7 +14121,7 @@
   "official_site": "https://en.wikipedia.org/wiki/Wolf_Robotics",
   "source_url": "https://en.wikipedia.org/wiki/Wolf_Robotics",
   "why_relevant": "For Algeria, the transferable piece is the process, not the product: a team that learns how to build robotics products can serve regional markets from Algiers at a fraction of the cost of Western hubs.",
-  "priority": "A",
+  "priority": "C",
   "concept": "The team behind Wolf Robotics targets industrial and logistics operators in robotics with a sharp wedge: a robot fleet controller with teleoperation makes the product more focused than a generalist play.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
@@ -14365,16 +14239,16 @@
  },
  {
   "name": "Wonder Workshop",
-  "country": "Unknown",
+  "country": "United States",
   "sub_domain": "robotics",
-  "short_description": "Wonder Workshop is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "short_description": "Wonder Workshop is a United States company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "technology": "perception stacks, motion control and mechatronic design",
   "year_founded": null,
   "official_site": "https://en.wikipedia.org/wiki/Wonder_Workshop",
   "source_url": "https://en.wikipedia.org/wiki/Wonder_Workshop",
   "why_relevant": "Algeria offers a compressed first market: low salaries, a fast-digitizing base and weak local competitors. Wonder Workshop could localize its core for the Algerian context instead of adapting a foreign product.",
   "priority": "A",
-  "concept": "Wonder Workshop is a robotics company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
+  "concept": "Wonder Workshop is a United States company working in robotics — a space where Boston Dynamics and Fanuc set the reference bar, so newcomers must own a narrower niche.",
   "main_sellers": [
    "Boston Dynamics and Fanuc",
    "ABB and KUKA",
@@ -14416,10 +14290,10 @@
   "source_note": "Profile compiled from Wikipedia list data; analysis fields are platform-generated.",
   "translations": {
    "ar": {
-    "short_description": "Wonder Workshop شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "short_description": "Wonder Workshop شركة من United States تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "technology": "أنظمة الإدراك والتحكم الحركي والتصميم الميكاتروني",
     "why_relevant": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Wonder Workshop توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي.",
-    "concept": "Wonder Workshop شركة من الروبوتات تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
+    "concept": "Wonder Workshop شركة من United States تعمل في الروبوتات — مجال يضع فيه Boston Dynamics و Fanuc المرجعية، لذا يجب على الوافدين الجدد السيطرة على قطاع أضيق.",
     "main_sellers": [
      "Boston Dynamics و Fanuc",
      "ABB و KUKA",
@@ -14452,10 +14326,10 @@
     "algeria_value": "توفّر الجزائر سوقاً أولى عامرة: رواتب منخفضة، قاعدة متسارعة الرقمنة، ومنافسون محليون ضعفاء. يمكن لـ Wonder Workshop توطين جوهره للسياق الجزائري بدل استيراد منتج أجنبي."
    },
    "fr": {
-    "short_description": "Wonder Workshop est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "short_description": "Wonder Workshop est une entreprise de United States qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "technology": "perception, contrôle de mouvement et conception mécatronique",
     "why_relevant": "L’Algérie offre un premier marché compressé : salaires bas, base en cours de digitalisation rapide, concurrents locaux faibles. Wonder Workshop pourrait localiser son cœur de produit pour le contexte algérien plutôt que d’adapter un produit étranger.",
-    "concept": "Wonder Workshop est une entreprise de la robotique qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
+    "concept": "Wonder Workshop est une entreprise de United States qui opère dans la robotique, un espace où Boston Dynamics et Fanuc donnent le la : les entrants doivent viser une niche plus étroite.",
     "main_sellers": [
      "Boston Dynamics et Fanuc",
      "ABB et KUKA",

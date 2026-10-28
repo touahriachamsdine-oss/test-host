@@ -1,0 +1,442 @@
+[
+ {
+  "name": "Kirkland & Ellis",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Latham & Watkins",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "A&O Shearman",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Skadden, Arps, Slate, Meagher & Flom",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Gibson Dunn",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Simpson Thacher & Bartlett",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Sidley Austin",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Ropes & Gray",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "White & Case",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Morgan, Lewis & Bockius",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Clifford Chance",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Freshfields",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Linklaters",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Hogan Lovells",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Jones Day",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Goodwin Procter",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Paul, Weiss, Rifkind, Wharton & Garrison",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Greenberg Traurig",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Davis Polk & Wardwell",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Quinn Emanuel Urquhart & Sullivan",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "King & Spalding",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Paul Hastings",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Sullivan & Cromwell",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Holland & Knight",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Weil, Gotshal & Manges",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Mayer Brown",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Milbank",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Willkie Farr & Gallagher",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Covington & Burling",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Herbert Smith Freehills Kramer",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Cleary Gottlieb Steen & Hamilton",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Eversheds Sutherland",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Debevoise & Plimpton",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Wilmer Cutler Pickering Hale and Dorr",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Orrick, Herrington & Sutcliffe",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Dechert",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Reed Smith",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Akin Gump Strauss Hauer & Feld",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Wilson, Sonsini, Goodrich & Rosati",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Morrison & Foerster",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Yingke",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Proskauer Rose",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Alston & Bird",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "K&L Gates",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Foley & Lardner",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Winston & Strawn",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Perkins Coie",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Sheppard, Mullin, Richter & Hampton",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Cravath, Swaine & Moore",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Wachtell, Lipton, Rosen & Katz",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Arnold & Porter",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Troutman Pepper Locke",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Fried, Frank, Harris, Shriver & Jacobson",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "McGuireWoods",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Kim & Chang",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Clyde & Co",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "O’Melveny & Myers",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Faegre Drinker",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "BakerHostetler",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Vinson & Elkins",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Polsinelli",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Nelson Mullins Riley & Scarborough",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Seyfarth Shaw",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Hunton Andrews Kurth",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Pinsent Masons",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Slaughter and May",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Katten Muchin Rosenman",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Bryan Cave Leighton Paisner",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Baker Botts",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Pillsbury Winthrop Shaw Pittman",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Fenwick & West",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Simmons & Simmons",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Fox Rothschild",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Gordon Rees Scully Mansukhani",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Lewis Brisbois Bisgaard & Smith",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Gowling WLG",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Barnes & Thornburg",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Blank Rome",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Bird & Bird",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Littler Mendelson",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Ogletree, Deakins, Nash, Smoak & Stewart",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Blake, Cassels & Graydon",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Cozen O'Connor",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Husch Blackwell",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Addleshaw Goddard",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Taft Stettinius & Hollister",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Mintz, Levin, Cohn, Ferris, Glovsky, and Popeo",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ },
+ {
+  "name": "Jackson Lewis",
+  "industry": "law firm",
+  "domain": "law-social-impact"
+ }
+]

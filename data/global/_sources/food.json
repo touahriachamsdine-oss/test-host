@@ -1,0 +1,5187 @@
+[
+ {
+  "name": "All Joy Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "BOS Ice Tea",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cevital",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Choppies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Colcom Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Distell Group Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Famous Brands",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kenya Wine Agencies Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Les Domaines Agricoles",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Meat Corporation of Namibia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Melcom",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nile Breweries Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pioneer Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "SOMED",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Spur Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tiger Brands",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tongaat Hulett",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Grupo Arcor",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "La Serenísima",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Molinos Río de la Plata",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "SanCor",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The a2 Milk Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Arnott's Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Baiada Poultry",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bakers Delight",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Balfours",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Baskin-Robbins Australia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Beerenberg Farm",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bega Cheese",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bellamy's Australia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bickford's Australia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Boost Juice",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Breadtop",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bulla Dairy Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bundaberg Brewed Drinks",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Darrell Lea",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dick Smith Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ernest Hillier Chocolates",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ferguson Plarre Bakehouses",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Haigh's Chocolates",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Huon Aquaculture",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Inghams Enterprises",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mrs Mac's Pies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Murray Goulburn Co-operative",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Norco Co-operative",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nuttelex",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Patties Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Retail Food Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "San Remo Macaroni Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Schweppes Australia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Snack Brands Australia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sustagen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tassal",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Warrnambool Cheese and Butter",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wendy's Supa Sundaes",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wesfarmers",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Agrana",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Brauerei Ottakringer",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Do & Co",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Julius Meinl",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pez",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Red Bull GmbH",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bahra Biscuit Factory",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Vinagro",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Akij Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kazi Farms Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Meghna Group of Industries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Milk Vita",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "PRAN-RFL Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "T K Group of Industries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Anheuser-Busch InBev",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cavalier Chocolate",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Confiserie Roodthooft",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Delhaize Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Duc d'O",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Glacio",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "John Martin Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Jules Destrooper",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Le Pain Quotidien",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lotus Bakeries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Meurens",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Vanparys",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ysco",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Brazilian Fast Food Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "BRF S.A.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Garoto",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Grupo Petrópolis",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "International Meal Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "JBS S.A.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Marfrig",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Vigor S.A.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Vitta Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Agropur",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bothwell Cheese",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Canyon Creek Food Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chapman's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cott",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Daiya",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dan-D Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dare Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ganong Bros.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gay Lea",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "George Weston Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Jim Pattison Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Just Us!",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kawartha Dairy Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lassonde Industries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Laura Secord Chocolates",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lesters Foods Ltd.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "M&M Food Market",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Maple Leaf Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "McCain Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Metro Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mike's Hard Lemonade Co.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "MTY Food Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nature's Path",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Naya Waters",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Olymel",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Organic Meadow Cooperative",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Première Moisson",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Premium Brands Holdings Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Purity Factories",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Recipe Unlimited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Rogers Sugar",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sobeys",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "SunOpta",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Voortman Cookies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Compañía de las Cervecerías Unidas",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Concha y Toro",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cooperativa Agrícola y Lechera de La Unión Limitada",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Soprole",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Amoy Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bright Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chaoda Modern Agriculture",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "COFCO Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Convenience Retail Asia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dairy Farm International Holdings",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Foshan Haitian Flavouring & Food Co",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fufeng Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Global Sweeteners",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hangzhou Wahaha Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hanwei Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Huiyuan Juice",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kee Wah Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kweichow Moutai Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mengniu Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Shuanghui",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tien Chun Ve-Tsin",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ting Hsin International Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Uni-President Enterprises Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Want Want",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Xinjiang Chalkis Co.Ltd",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yili Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yurun Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Zvečevo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Alpina Productos Alimenticios",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Grupo Nutresa",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Postobón",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Quala",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Agrokor",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Atlantic Grupa",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Čakovečki mlinovi",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Koestlin",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kraš",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Podravka",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Arla Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Carlsberg Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chr. Hansen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Co-Ro Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Danish Agro",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Danish Crown AmbA",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "DAVA Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Friis-Holm",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kohberg Bakery Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Knuthenlund",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Løgismose Meyers",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Stauning Whisky",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Toms International",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fazer",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "HKScan",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kaslink Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Paulig",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Raisio Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Valio",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Alter Eco",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bel Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Biscuiterie Saint-Michel",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Biscuits Fossier",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bonduelle",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bongrain",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bonnat Chocolates",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Castel Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Comigel",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Compagnie des Fromages et RichesMonts",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cooperl Arc Atlantique",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dalloyau",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Danone",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Daregal",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Debauve & Gallais",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Délifrance",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Groupe Doux",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Groupe Holder",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Groupe Le Duff",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Groupe Limagrain",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lactalis",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lur Berri",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Menier Chocolate",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Michel et Augustin",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pernod Ricard",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Soufflet Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tereos",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Valrhona",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Aldi",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Alnatura",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Asbach Uralt",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "August Storck",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bahlsen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Born Feinkost",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "C. Hahne Mühlenwerke GmbH & Co. KG",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Coppenrath & Wiese",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dr. Oetker",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Düsseldorfer Löwensenf",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Granini",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Halloren Chocolate Factory",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Händlmaier",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Haribo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lorenz Snack-World",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mederer GmbH",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Meica",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mestemacher",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Niederegger",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nordzucker",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Schwarz Gruppe",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Südzucker",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Teekampagne",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Waldemar Behn",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Zott",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Arapian",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Evga S.A",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Haitoglou Bros",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "KYKNOS S.A.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Melissa S.A.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mevgal",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Miran Pastourma",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Terkenlis",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Vivartia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Borsod Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Győri Keksz",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pick Szeged",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Adyar Ananda Bhavan",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Amul",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bisleri",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bihar State Milk Co-operative Federation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Britannia Industries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dabur",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dudhsagar Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Everest Spices",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Haldiram's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hatsun Agro Product",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Karnataka Milk Federation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kerala Co-operative Milk Marketing Federation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Marico",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Meat Products of India",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mother Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Orissa State Cooperative Milk Producers' Federation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Parle Agro",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Parle Products",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Patanjali Ayurved",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tata Consumer Products",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Delta Djakarta",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Indofood",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Japfa",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mayora Indah",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "My Kopi-O!",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Roti Bunz",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sariwangi",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Siantar Top",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sido Muncul",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wings Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yupi",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Abbey Cheese Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ardsallagh Goat Farm",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Barry's Tea",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Béal Organic Cheese",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bewley's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bluebell Falls",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Burren Smokehouse",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Butlers Chocolates",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "C&C Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cahill's Farm Cheese",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Carlow Brewing Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Carrigaline Farmhouse Cheese",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Donegal Creameries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Flahavan's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fyffes",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gleeson Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Greencore",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hadji Bey",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Irwin's Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kerry Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lakeland Dairies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mauds Ice Creams",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Murphys Ice Cream",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nobó",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Old Bushmills Distillery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ornua",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "R&H Hall",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Shamrock Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tayto (Northern Ireland)",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tayto (Republic of Ireland)",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Valeo Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Angel Bakeries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Berman's Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Prigat",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yehuda Matzos",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Amedei",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Auricchio",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Autogrill",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dolciaria Balconi",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Barilla Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bartolo Nardini",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bertagni",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Campari Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Carapelli",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cirio",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Coppola Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "De Cecco",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Domori",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Elledi",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ferrero SpA",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Giovanni Rana",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Girolamo Luxardo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Guglielmo coffee",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "La Molisana",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lavazza",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lazzaroni",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Loacker",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Massimo Zanetti Beverage Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nonino Grappa",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Parmalat",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pernigotti",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Saclà Italia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Venchi",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Vicenzi",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Voiello",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ajinomoto",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Asahi Breweries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Calbee",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ezaki Glico",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fujimitsu Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fujiya",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "House Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kabaya",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kikkoman",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kirin Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "LEOC Japan",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Maruchan",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Maruha Nichiro",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Marukome",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Meiji Dairies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Meiji Seika",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mizkan",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nippon Flour Mills",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nippon Ham",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nippon Suisan Kaisha",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nissin Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sapporo Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Shidax",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Snow Brand Milk Products",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Suntory",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tohato",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Toyo Suisan",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yakult",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yamazaki Baking",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Zensho",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Americana Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kout Food Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "BOH Plantations",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dutch Lady Milk Industries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Felda Global Ventures Holdings",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kart's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mamee Double-Decker",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Munchy's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ramly Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sime Darby",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ah Cacao Real Chocolate",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Alsea",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bachoco",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Búfalo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chilchota Alimentos",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cholula Hot Sauce",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gruma",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Grupo Anderson's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Grupo Bimbo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Grupo Lala",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Jarritos",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Jose Cuervo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mayordomo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sidral Mundet",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sigma Alimentos",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "AVEBE",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Douwe Egberts",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Droste",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "FrieslandCampina",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Heineken International",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ketel One",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lucas Bols",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nutreco",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Royal Wessanen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chelsea Sugar Refinery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cookie Time",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Emerson's Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Evansdale Cheese",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fonterra",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Foxton Fizz",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Goodman Fielder",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gregg's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Griffin's Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Healtheries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hubbard Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lewis Road Creamery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Livestock Improvement Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "McCashins Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Monteith's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "My Food Bag",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Progressive Enterprises",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Restaurant Brands",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Silver Fern Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Speight's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Synlait",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Talley's Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tatua Dairy Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tegel Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Westland Milk Products",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Whitestone cheese",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Whittaker's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wigram Beer",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Zealong",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bama Gruppen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Brynild Gruppen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cermaq",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Coop Norge",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Den Lille Nøttefabrikken",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Drammens Is",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Felleskjøpet",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fjordland",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Friele",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gartnerhallen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hennig-Olsen Iskremfabrikk",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "HOFF Norske Potetindustrier",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hval Sjokoladefabrikk",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Isklar",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kavli",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kavli Trust",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Maarud",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nora Industrier",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nortura",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Norway Royal Salmon",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Orkla Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "SalMar",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Synnøve Finden",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Vinmonopolet",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dalda",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Engro Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fauji Foundation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gourmet Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mitchell's Fruit Farms Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Murree Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "National Foods Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "OMORÉ",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pakola",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Shan Food Industries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Shezan International",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Peek Freans",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ajegroup",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Alicorp",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Corporación Lindley S.A.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Don Jorge",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Enrique Cassinelli and Sons",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "La Iberica",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Alaska Milk Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Asia Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Century Pacific Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Figaro Coffee Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Food Terminal Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Goldilocks Bakeshop",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Jollibee Foods Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Liwayway Holdings Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mama Sita's Holding Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Monde Nissin",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Rebisco",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "RFM Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "San Miguel Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "SL Agritech Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tanduay Distillers",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Universal Robina",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Zest-O",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "AmRest",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hortex",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Indykpol",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kamis",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Maspex",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cerealis",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cofaco",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Conservas Ramirez",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Delta Cafés",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Frulact",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Grupo RAR",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lactogal",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sovena Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sumol + Compal",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Valouro",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Aldis SRL",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "European Drinks & Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cherkizovo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Inmarko",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wimm-Bill-Dann Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Almarai",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nadec",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Savola Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Imlek a.d.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Knjaz Miloš a.d.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Štark",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Swisslion Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "ABR Holdings",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Asian Home Gourmet",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ayam Brand",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bee Cheng Hiang",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "BreadTalk",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fraser and Neave",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tee Yih Jia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ya Kun Kaya Toast",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yeo Hiap Seng",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wilmar International",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "CJ Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Crown Confectionery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Doosan Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Haitai",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hollys",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Jeongin Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Korea Tobacco & Ginseng Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lotte Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nongshim",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Orion Confectionery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ottogi",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pulmuone",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Samyang Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Seoul Milk",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "SPC Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sulbing",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tory Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yeolmae Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Borges Mediterranean Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Calidad Pascual",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Campofrío Food Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ebro Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Galletas Gullón",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Grupo Calvo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kalise Menorquina",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mahou-San Miguel Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pescanova",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Quely",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "San Nicasio",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ta-Tung",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cargills (Ceylon) PLC",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ceylon Biscuits Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ceylon Cold Stores",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Daintee",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Maliban Biscuit Manufactories Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pelwatte Sugar Industries PLC",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "AarhusKarlshamn",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Abba Seafood",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cloetta",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Findus",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lantmännen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mackmyra Whisky",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Norrmejerier",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pågen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Polarbröd",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wasabröd",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Barry Callebaut",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cailler",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chiquita Brands International",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Coffee World",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Emmi AG",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Franches-Montagnes Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hero Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "La Clandestine Absinthe",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lindt & Sprüngli",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Migros",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nestlé",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ricola",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Rivella",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tetra Laval",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tropenhaus Frutigen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Unser Bier",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Villars-Maitre-Chocolatier",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "HeySong Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hsin Tung Yang",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tingyi (Cayman Islands) Holding Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Boon Rawd Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Charoen Pokphand Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dutch Mill",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Khon Kaen Sugar",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mitr Phol",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Osotspa",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Red Bull",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tao Kae Noi",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Thai President Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Thai Union Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "ThaiBev",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bermudez Biscuit Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Carib Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Flavorite Ice Cream",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "House of Angostura",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "K.C. Confectionery Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kiss Baking Company Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "S. M. Jaleel and Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Solo Beverage Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Apikoğlu",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Banvit",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Efes Beverage Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gulsan",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "TEKEL",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tekel Birası",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ülker",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yıldız Holding",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chumak",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Konti Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kremenchukm'yaso",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Nemiroff",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Roshen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sandora",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Svitoch",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yarych Confectionery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "ZhL",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "2 Sisters Food Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "A. E. Rodda & Son",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "A.G. Barr",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "A. L. Simpkin & Co. Ltd",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Antonelli Bros Ltd",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Associated British Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bakkavör",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bates Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Baxters",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ben's Cookies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Benugo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bernard Matthews Ltd",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bompas & Parr",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Booker Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Brace's Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Brains Brewery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Britvic",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Burton's Biscuit Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Charbonnel et Walker",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Clark's Pies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Co-op Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Compass Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cook Trading",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cooplands",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cranswick plc",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dairy Crest",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Delamere Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Devro",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dietary Foods Ltd",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Divine Chocolate",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Druckers Vienna Patisserie",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "F. Duerr & Sons",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fiendish Feet",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fivemiletown Creamery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fox's Confectionery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gelato Italia",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ginsters",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Goldenfry",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Greene King",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Grodzinski Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gü",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Higgidy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hope and Greenwood",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hovis",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "HR Bradfords",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lion Capital LLP",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lloyd Maunder",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Loch Duart",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mackie's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "McCowan's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Metcalfe's Food Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Michton",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Millie's Cookies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Moo Free",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mornflake",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Neal's Yard Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Oakhouse Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Peter's Food Services",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Plum Baby",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pork Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pukka Herbs",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pukka Pies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Premier Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Princes Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Quiggin's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "R&R Ice Cream",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Rakusen's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Restaurant Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Riverford",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Roadchef",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Rowse Honey",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "SABMiller",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sainsbury's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Samworth Brothers",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Scotty Brand Ltd",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Skinny Candy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Slimming World",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Square Pie",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "SSP Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Swizzels Matlow",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tangerine Confectionery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tate & Lyle",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tesco",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tunnock's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ummah Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Unilever",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Vestey Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Waitrose",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Walkers' Nonsuch",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Walkers Shortbread",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Warburtons",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Warrens Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Welcome Break",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Whitbread",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Whitby Seafoods Ltd",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wilkin & Sons",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wrights Pies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Alvarado Street Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Big Apple Bagels",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Blue Chip Cookies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Boudin Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Breadsmith",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Carlo's Bake Shop",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cavanagh Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Claxton Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Collin Street Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Flowers Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Great Harvest Bread Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Levain Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Liz Lovely",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Martin's Famous Pastry Shoppe, Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mrs. Fields",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Orwasher's bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pillsbury Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Schmidt Baking Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Semifreddi's Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sprinkles Cupcakes",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sunbeam Bread",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "United States Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Voodoo Doughnut",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Westminster Cracker Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Andersons",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Archer Daniels Midland",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bob's Red Mill",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bunge Limited",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cargill",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "CHS Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "ContiGroup Companies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fuji Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gavilon",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kellogg's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "King Arthur Flour",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Leavitt Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Little Crow Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Love Grown Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Magnolia Bakery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "MFA Incorporated",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Peanut Butter & Co.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "POET",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Riceland Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "U.S. Mills",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Amano Artisan Chocolate",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "American Licorice Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Annabelle Candy Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Askinosie Chocolate",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Boyer Brothers",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Brach's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Brown and Haley",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Carolina Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chagrin Falls Popcorn Shop",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chocolove",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dagoba Chocolate",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dan's Chocolates",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dylan's Candy Bar",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Friesinger's Candies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gertrude Hawk Chocolates",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Goetze's Candy Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Guittard Chocolate Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Hershey Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Idaho Candy Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Impact Confections",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Jelly Belly",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Joyva",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Just Born",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Marich Confectionery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mars, Incorporated",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Reed's Candy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Rocky Mountain Chocolate Factory",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sanders Confectionery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sarris Candies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Scharffen Berger Chocolate Maker",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Schimpff's Confectionery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "See's Candies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Smarties Candy Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Spangler Candy Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Taza Chocolate",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "TCHO",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Warrell Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Whetstone Chocolates",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Whitman's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "All American Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Alpenrose Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Aurora Organic Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "BelGioioso Cheese",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bittersweet Plantation Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Blue Bell Creameries",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Brewster Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Byrne Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cabot Creamery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cal-Maine",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cass-Clay",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chaseholm Farm Creamery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Clover Stornetta Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cowgirl Creamery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Crystal Creamery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cypress Point Creamery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dairy Farmers of America",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Darigold",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "DCI Cheese Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dean Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ellsworth Cooperative Creamery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Galliker's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gossner Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Grafton Village Cheese Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Happy Cow Creamery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hershey Creamery Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hilmar Cheese Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Horizon Organic",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "HP Hood",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Joseph Gallo Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Land O'Lakes",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Leprino Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lifeway Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Marin French Cheese Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Maytag Dairy Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Murray's Cheese",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Organic Valley",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Penn State University Creamery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Prairie Farms Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Schoep's Ice Cream",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Schreiber Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Shamrock Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Smiling Hill Farm",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "SmithFoods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sweet Grass Dairy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tillamook County Creamery Association",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "United Dairy Farmers",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Winchester Cheese Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Winder Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wisconsin Cheeseman",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yancey's Fancy",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yarnell Ice Cream Co.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Brown-Forman",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Monarch Beverage Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Albertsons",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dollar General",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dollar Tree",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Food Lion",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Giant Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Home Depot",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kroger",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Lowe's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Macy's, Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Publix",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Target Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Walmart",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Winn Dixie",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bruce Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Catterton Partners",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cherrybrook Kitchen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Eden Foods Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "General Mills",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Goya Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hormel Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ingredion",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Isaly's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Krinos Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kronos Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Luck's Incorporated",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Manischewitz",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Newman's Own",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Rhee Bros., Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Richelieu Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Rosa Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Seneca Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Streit's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tabatchnick",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bellisio Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Edwards Baking",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mrs. T's Pierogies",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pero Family Farms Food Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Reser's Fine Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Rhino Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Rich Products",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Ruiz Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Schwan Food Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tyson Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Bauman Family",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Blue Diamond Growers",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Buddy Fruits",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Calavo Growers",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Del Monte Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dole Food Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Driscoll's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Franklin Baker Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Fresh Del Monte Produce",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Frieda's Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hollandia Produce",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Limoneira",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Maui Pineapple Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Morning Star Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Organically Grown Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Simple and Crisp",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sunkist Growers, Incorporated",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Taylor Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Turbana",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Boar's Head Provision Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Burgers' Smokehouse",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Columbus Salame",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dakota Beef",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Daniele, Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dietz & Watson",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Empire Kosher",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Foster Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hatfield Quality Meats",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Heritage Foods USA",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kansas City Steak Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kiolbassa Sausage",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Koegel Meat Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Marathon Enterprises, Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Niman Ranch",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Omaha Steaks",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Perdue Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tallgrass Beef Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Usinger's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Zacky Farms",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chipotle Mexican Grill",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Domino's Pizza",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "McDonald's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Starbucks",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Wendy's Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Yum! Brands",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Blair's Sauces and Snacks",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Charles Chips",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Elmer's Fine Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Golden Flake",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hain Celestial Group",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "J & J Snack Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Jel Sert",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Martin's Potato Chips",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "McCormick & Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "McKee Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mike-sell's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Oberto Sausage Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Old Dutch Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Robert's American Gourmet Food",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Shearer's Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Snak King",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Snyder's-Lance",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Thanasi Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Utz Quality Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wise Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wyandot Snacks",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Badia Spices",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Basic Food Flavors",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Crystal Hot Sauce",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dave's Gourmet",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dog-Gone Sauce",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Frank's RedHot",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "French's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Frontier Natural Products Co-op",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Gold Pure Food Products Co.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Herlocher Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Huy Fong Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "J&D's Down Home Enterprises",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The J.M. Smucker Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mezzetta",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mrs. Cubbison's Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Mt. Olive Pickle Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Odell's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Plochman's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pompeian, Inc.",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Pure Indian Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Reily Foods Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Silver Spring Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Solo Foods",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tabasco sauce",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Tapatío hot sauce",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Texas Pete",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Urban Accents",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wickles",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Wing-Time",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Amalgamated Sugar Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "American Crystal Sugar Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "American Sugar Refining",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Michigan Sugar",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Seaboard Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Spreckels Sugar Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "US Sugar Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Western Sugar Cooperative",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Campbell Soup Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "The Coca-Cola Company",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Conagra Brands",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dairy Queen",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Domino's",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Dunkin' Donuts",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Keurig Dr Pepper",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Krispy Kreme",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "PepsiCo",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Alimentos La Giralda",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Chocolates El Rey",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Empresas Polar",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "An Giang Coffee",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Bien Hoa Sugar",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Cuulong Fish",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hai Ha Confectionery",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hanoimilk",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Hue Beer",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Kinh Do Corporation",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Sabeco",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ },
+ {
+  "name": "Vinamilk",
+  "industry": "food and beverage manufacturing",
+  "domain": "agritech-foodtech"
+ }
+]

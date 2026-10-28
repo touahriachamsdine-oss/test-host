@@ -11,6 +11,7 @@ import {
   Factory,
   Navigation,
   Rocket,
+  Scale,
   ShieldCheck,
   Sprout,
   Stethoscope,
@@ -38,6 +39,7 @@ export const DOMAINS: Domain[] = [
   { slug: 'manufacturing-3d', code: 'MFG', icon: Factory },
   { slug: 'cleantech', code: 'CLEAN', icon: Droplets },
   { slug: 'cloud-iot', code: 'CLOUD', icon: Cloud },
+  { slug: 'law-social-impact', code: 'LAW', icon: Scale },
   { slug: 'other-deep-tech', code: 'OTH', icon: Sparkles }
 ];
 

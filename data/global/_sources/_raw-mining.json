@@ -1,0 +1,714 @@
+[
+ {
+  "name": "Adex Mining",
+  "industry": ""
+ },
+ {
+  "name": "Aditya Birla Group",
+  "industry": ""
+ },
+ {
+  "name": "African Rainbow Minerals",
+  "industry": ""
+ },
+ {
+  "name": "Agnico Eagle",
+  "industry": ""
+ },
+ {
+  "name": "Aiteo",
+  "industry": ""
+ },
+ {
+  "name": "Almonty Industries",
+  "industry": ""
+ },
+ {
+  "name": "Alumina",
+  "industry": ""
+ },
+ {
+  "name": "Anaconda Copper",
+  "industry": ""
+ },
+ {
+  "name": "Andes Iron",
+  "industry": ""
+ },
+ {
+  "name": "Anglo American (mining)",
+  "industry": ""
+ },
+ {
+  "name": "Anglo American Sur",
+  "industry": ""
+ },
+ {
+  "name": "Anglo Platinum",
+  "industry": ""
+ },
+ {
+  "name": "AngloGold Ashanti",
+  "industry": ""
+ },
+ {
+  "name": "Antofagasta Minerals",
+  "industry": ""
+ },
+ {
+  "name": "Aricom",
+  "industry": ""
+ },
+ {
+  "name": "Arctic Canadian Diamond Company",
+  "industry": ""
+ },
+ {
+  "name": "Astra Resources",
+  "industry": ""
+ },
+ {
+  "name": "Atalaya Mining",
+  "industry": ""
+ },
+ {
+  "name": "Aurubis",
+  "industry": ""
+ },
+ {
+  "name": "Avalon Advanced Materials",
+  "industry": ""
+ },
+ {
+  "name": "Bard Ventures Company",
+  "industry": ""
+ },
+ {
+  "name": "Barrick Gold",
+  "industry": ""
+ },
+ {
+  "name": "BHP",
+  "industry": ""
+ },
+ {
+  "name": "Blaafarveværket",
+  "industry": ""
+ },
+ {
+  "name": "Blackfire Exploration",
+  "industry": ""
+ },
+ {
+  "name": "Boliden",
+  "industry": ""
+ },
+ {
+  "name": "Bougainville Copper",
+  "industry": ""
+ },
+ {
+  "name": "Breakwater Resources",
+  "industry": ""
+ },
+ {
+  "name": "Cambior",
+  "industry": ""
+ },
+ {
+  "name": "Candente Copper",
+  "industry": ""
+ },
+ {
+  "name": "Canico Resource",
+  "industry": ""
+ },
+ {
+  "name": "Cape Breton Development Corporation",
+  "industry": ""
+ },
+ {
+  "name": "Capstone Copper",
+  "industry": ""
+ },
+ {
+  "name": "Chinalco",
+  "industry": ""
+ },
+ {
+  "name": "China Molybdenum",
+  "industry": ""
+ },
+ {
+  "name": "Cleveland-Cliffs",
+  "industry": ""
+ },
+ {
+  "name": "CNK International",
+  "industry": ""
+ },
+ {
+  "name": "Coal & Allied",
+  "industry": ""
+ },
+ {
+  "name": "Coal India",
+  "industry": ""
+ },
+ {
+  "name": "Codelco",
+  "industry": ""
+ },
+ {
+  "name": "Colorado Fuel & Iron",
+  "industry": ""
+ },
+ {
+  "name": "Compañía Minera del Pacífico",
+  "industry": ""
+ },
+ {
+  "name": "Companhia Siderúrgica Nacional",
+  "industry": ""
+ },
+ {
+  "name": "Compass Minerals",
+  "industry": ""
+ },
+ {
+  "name": "Compass Resources",
+  "industry": ""
+ },
+ {
+  "name": "Cosayach",
+  "industry": ""
+ },
+ {
+  "name": "Consolidated Zinc",
+  "industry": ""
+ },
+ {
+  "name": "Cordero Mining Company",
+  "industry": ""
+ },
+ {
+  "name": "Crowflight Minerals",
+  "industry": ""
+ },
+ {
+  "name": "Cuniptau Mines",
+  "industry": ""
+ },
+ {
+  "name": "Cuprom",
+  "industry": ""
+ },
+ {
+  "name": "Cyprus Mines Corporation",
+  "industry": ""
+ },
+ {
+  "name": "De Beers",
+  "industry": ""
+ },
+ {
+  "name": "Debswana",
+  "industry": ""
+ },
+ {
+  "name": "Doe Run Company",
+  "industry": ""
+ },
+ {
+  "name": "Dominion Steel and Coal Corporation",
+  "industry": ""
+ },
+ {
+  "name": "Drummond Company",
+  "industry": ""
+ },
+ {
+  "name": "Dundee Corporation",
+  "industry": ""
+ },
+ {
+  "name": "Echo Bay Mines",
+  "industry": ""
+ },
+ {
+  "name": "Eldorado Gold",
+  "industry": ""
+ },
+ {
+  "name": "Eldorado Resources",
+  "industry": ""
+ },
+ {
+  "name": "Empire Zinc Company",
+  "industry": ""
+ },
+ {
+  "name": "Empresa Nacional de Minería",
+  "industry": ""
+ },
+ {
+  "name": "ENDIAMA",
+  "industry": ""
+ },
+ {
+  "name": "Energy Resources of Australia",
+  "industry": ""
+ },
+ {
+  "name": "Falconbridge Nickel Mines",
+  "industry": ""
+ },
+ {
+  "name": "First Quantum Minerals",
+  "industry": ""
+ },
+ {
+  "name": "FNX Mining",
+  "industry": ""
+ },
+ {
+  "name": "Fortescue",
+  "industry": ""
+ },
+ {
+  "name": "Freeport-McMoRan",
+  "industry": ""
+ },
+ {
+  "name": "Gécamines",
+  "industry": ""
+ },
+ {
+  "name": "Glamis Gold",
+  "industry": ""
+ },
+ {
+  "name": "Glencore",
+  "industry": ""
+ },
+ {
+  "name": "Gogebic Taconite",
+  "industry": ""
+ },
+ {
+  "name": "Gold Fields",
+  "industry": ""
+ },
+ {
+  "name": "Gold Reserve",
+  "industry": ""
+ },
+ {
+  "name": "Goldcorp",
+  "industry": ""
+ },
+ {
+  "name": "Growmax Resources",
+  "industry": ""
+ },
+ {
+  "name": "Grupo México",
+  "industry": ""
+ },
+ {
+  "name": "Haldeman Mining",
+  "industry": ""
+ },
+ {
+  "name": "Harmony Gold",
+  "industry": ""
+ },
+ {
+  "name": "Hearst, Haggin, Tevis and Co.",
+  "industry": ""
+ },
+ {
+  "name": "Hillsborough Resources",
+  "industry": ""
+ },
+ {
+  "name": "Hindustan Zinc",
+  "industry": ""
+ },
+ {
+  "name": "Hochschild Mining",
+  "industry": ""
+ },
+ {
+  "name": "Hollinger Mines",
+  "industry": ""
+ },
+ {
+  "name": "International Coal Group",
+  "industry": ""
+ },
+ {
+  "name": "Iron Ore Company of Canada",
+  "industry": ""
+ },
+ {
+  "name": "Kazakhmys",
+  "industry": ""
+ },
+ {
+  "name": "Kenmare Resources",
+  "industry": ""
+ },
+ {
+  "name": "Kennecott Utah Copper",
+  "industry": ""
+ },
+ {
+  "name": "KGHM Polska Miedz",
+  "industry": ""
+ },
+ {
+  "name": "Kinross Gold",
+  "industry": ""
+ },
+ {
+  "name": "Korea General Magnesia Clinker Industry Group",
+  "industry": ""
+ },
+ {
+  "name": "Korea General Zinc Industry Group",
+  "industry": ""
+ },
+ {
+  "name": "LKAB",
+  "industry": ""
+ },
+ {
+  "name": "Lonmin",
+  "industry": ""
+ },
+ {
+  "name": "Lucara Diamond",
+  "industry": ""
+ },
+ {
+  "name": "Lundin Mining",
+  "industry": ""
+ },
+ {
+  "name": "Luzenac Group",
+  "industry": ""
+ },
+ {
+  "name": "Ma'aden",
+  "industry": ""
+ },
+ {
+  "name": "Managem",
+  "industry": ""
+ },
+ {
+  "name": "Martin Marietta Materials",
+  "industry": ""
+ },
+ {
+  "name": "Massey Energy",
+  "industry": ""
+ },
+ {
+  "name": "Metallica Resources",
+  "industry": ""
+ },
+ {
+  "name": "Minera Escondida",
+  "industry": ""
+ },
+ {
+  "name": "Mineral Resources",
+  "industry": ""
+ },
+ {
+  "name": "MMG",
+  "industry": ""
+ },
+ {
+  "name": "Mond Nickel Company",
+  "industry": ""
+ },
+ {
+  "name": "Mosaic",
+  "industry": ""
+ },
+ {
+  "name": "Mount Lyell Mining & Railway Company",
+  "industry": ""
+ },
+ {
+  "name": "MSPL",
+  "industry": ""
+ },
+ {
+  "name": "Nan Nan Resources",
+  "industry": ""
+ },
+ {
+  "name": "NERCO",
+  "industry": ""
+ },
+ {
+  "name": "Nevsun Resources",
+  "industry": ""
+ },
+ {
+  "name": "New Hope Group",
+  "industry": ""
+ },
+ {
+  "name": "New Jersey Zinc Company",
+  "industry": ""
+ },
+ {
+  "name": "Newcrest",
+  "industry": ""
+ },
+ {
+  "name": "Newmont",
+  "industry": ""
+ },
+ {
+  "name": "Nirex",
+  "industry": ""
+ },
+ {
+  "name": "Noranda",
+  "industry": ""
+ },
+ {
+  "name": "Nordic Mining",
+  "industry": ""
+ },
+ {
+  "name": "North American Palladium",
+  "industry": ""
+ },
+ {
+  "name": "North Limited",
+  "industry": ""
+ },
+ {
+  "name": "Northern Star Resources",
+  "industry": ""
+ },
+ {
+  "name": "NovaGold Resources",
+  "industry": ""
+ },
+ {
+  "name": "Orex Exploration",
+  "industry": ""
+ },
+ {
+  "name": "Outokumpu",
+  "industry": ""
+ },
+ {
+  "name": "Pacific Coast Borax Company",
+  "industry": ""
+ },
+ {
+  "name": "Palabora Mining Company",
+  "industry": ""
+ },
+ {
+  "name": "Pampa Norte",
+  "industry": ""
+ },
+ {
+  "name": "Pan American Silver Corporation",
+  "industry": ""
+ },
+ {
+  "name": "Pasminco",
+  "industry": ""
+ },
+ {
+  "name": "Peko-Wallsend",
+  "industry": ""
+ },
+ {
+  "name": "Peter Hambro Mining",
+  "industry": ""
+ },
+ {
+  "name": "Petra Diamonds",
+  "industry": ""
+ },
+ {
+  "name": "Phelps Dodge",
+  "industry": ""
+ },
+ {
+  "name": "Pilbara Iron",
+  "industry": ""
+ },
+ {
+  "name": "Polymetal",
+  "industry": ""
+ },
+ {
+  "name": "Polyus Gold",
+  "industry": ""
+ },
+ {
+  "name": "PotashCorp",
+  "industry": ""
+ },
+ {
+  "name": "QCoal",
+  "industry": ""
+ },
+ {
+  "name": "QIT-Fer et Titane",
+  "industry": ""
+ },
+ {
+  "name": "QIT Madagascar Minerals",
+  "industry": ""
+ },
+ {
+  "name": "Reading Anthracite Company",
+  "industry": ""
+ },
+ {
+  "name": "Rio Tinto",
+  "industry": ""
+ },
+ {
+  "name": "Rio Tinto Coal Australia",
+  "industry": ""
+ },
+ {
+  "name": "Rockwell Diamonds",
+  "industry": ""
+ },
+ {
+  "name": "Saskatchewan Minerals",
+  "industry": ""
+ },
+ {
+  "name": "Semafo",
+  "industry": ""
+ },
+ {
+  "name": "Sesa Goa",
+  "industry": ""
+ },
+ {
+  "name": "Sherritt International",
+  "industry": ""
+ },
+ {
+  "name": "Sibanye Gold",
+  "industry": ""
+ },
+ {
+  "name": "Siberian Business Union",
+  "industry": ""
+ },
+ {
+  "name": "Sifto Canada",
+  "industry": ""
+ },
+ {
+  "name": "Silver Standard Resources",
+  "industry": ""
+ },
+ {
+  "name": "Silver Wheaton",
+  "industry": ""
+ },
+ {
+  "name": "Silvercorp Metals",
+  "industry": ""
+ },
+ {
+  "name": "Sociedad Química y Minera",
+  "industry": ""
+ },
+ {
+  "name": "Soma Kömür İşletmeleri A.Ş.",
+  "industry": ""
+ },
+ {
+  "name": "South32",
+  "industry": ""
+ },
+ {
+  "name": "South American Silver Corporation",
+  "industry": ""
+ },
+ {
+  "name": "ST International",
+  "industry": ""
+ },
+ {
+  "name": "Store Norske Spitsbergen Kulkompani",
+  "industry": ""
+ },
+ {
+  "name": "Teck Cominco",
+  "industry": ""
+ },
+ {
+  "name": "Thompson Creek Metals",
+  "industry": ""
+ },
+ {
+  "name": "Titanium Resources Group",
+  "industry": ""
+ },
+ {
+  "name": "Tiwest Joint Venture",
+  "industry": ""
+ },
+ {
+  "name": "UK Coal",
+  "industry": ""
+ },
+ {
+  "name": "Vale",
+  "industry": ""
+ },
+ {
+  "name": "Vale Inco",
+  "industry": ""
+ },
+ {
+  "name": "Vedanta Resources",
+  "industry": ""
+ },
+ {
+  "name": "Victor-American Fuel Company",
+  "industry": ""
+ },
+ {
+  "name": "Vulcan Materials Company",
+  "industry": ""
+ },
+ {
+  "name": "Xstrata",
+  "industry": ""
+ },
+ {
+  "name": "Yamana Gold",
+  "industry": ""
+ },
+ {
+  "name": "Yancoal",
+  "industry": ""
+ },
+ {
+  "name": "Zinifex",
+  "industry": ""
+ }
+]

@@ -5684,6 +5684,5122 @@
   "source": "fabs"
  },
  {
+  "name": "All Joy Foods",
+  "source": "food"
+ },
+ {
+  "name": "BOS Ice Tea",
+  "source": "food"
+ },
+ {
+  "name": "Cevital",
+  "source": "food"
+ },
+ {
+  "name": "Choppies",
+  "source": "food"
+ },
+ {
+  "name": "Colcom Foods",
+  "source": "food"
+ },
+ {
+  "name": "Distell Group Limited",
+  "source": "food"
+ },
+ {
+  "name": "Famous Brands",
+  "source": "food"
+ },
+ {
+  "name": "Kenya Wine Agencies Limited",
+  "source": "food"
+ },
+ {
+  "name": "Les Domaines Agricoles",
+  "source": "food"
+ },
+ {
+  "name": "Meat Corporation of Namibia",
+  "source": "food"
+ },
+ {
+  "name": "Melcom",
+  "source": "food"
+ },
+ {
+  "name": "Nile Breweries Limited",
+  "source": "food"
+ },
+ {
+  "name": "Pioneer Foods",
+  "source": "food"
+ },
+ {
+  "name": "SOMED",
+  "source": "food"
+ },
+ {
+  "name": "Spur Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Tiger Brands",
+  "source": "food"
+ },
+ {
+  "name": "Tongaat Hulett",
+  "source": "food"
+ },
+ {
+  "name": "Grupo Arcor",
+  "source": "food"
+ },
+ {
+  "name": "La Serenísima",
+  "source": "food"
+ },
+ {
+  "name": "Molinos Río de la Plata",
+  "source": "food"
+ },
+ {
+  "name": "SanCor",
+  "source": "food"
+ },
+ {
+  "name": "a2 Milk Company",
+  "source": "food"
+ },
+ {
+  "name": "Arnott's Group",
+  "source": "food"
+ },
+ {
+  "name": "Baiada Poultry",
+  "source": "food"
+ },
+ {
+  "name": "Bakers Delight",
+  "source": "food"
+ },
+ {
+  "name": "Balfours",
+  "source": "food"
+ },
+ {
+  "name": "Baskin-Robbins Australia",
+  "source": "food"
+ },
+ {
+  "name": "Beerenberg Farm",
+  "source": "food"
+ },
+ {
+  "name": "Bega Cheese",
+  "source": "food"
+ },
+ {
+  "name": "Bellamy's Australia",
+  "source": "food"
+ },
+ {
+  "name": "Bickford's Australia",
+  "source": "food"
+ },
+ {
+  "name": "Boost Juice",
+  "source": "food"
+ },
+ {
+  "name": "Breadtop",
+  "source": "food"
+ },
+ {
+  "name": "Bulla Dairy Foods",
+  "source": "food"
+ },
+ {
+  "name": "Bundaberg Brewed Drinks",
+  "source": "food"
+ },
+ {
+  "name": "Darrell Lea",
+  "source": "food"
+ },
+ {
+  "name": "Dick Smith Foods",
+  "source": "food"
+ },
+ {
+  "name": "Ernest Hillier Chocolates",
+  "source": "food"
+ },
+ {
+  "name": "Ferguson Plarre Bakehouses",
+  "source": "food"
+ },
+ {
+  "name": "Haigh's Chocolates",
+  "source": "food"
+ },
+ {
+  "name": "Huon Aquaculture",
+  "source": "food"
+ },
+ {
+  "name": "Inghams Enterprises",
+  "source": "food"
+ },
+ {
+  "name": "Mrs Mac's Pies",
+  "source": "food"
+ },
+ {
+  "name": "Murray Goulburn Co-operative",
+  "source": "food"
+ },
+ {
+  "name": "Norco Co-operative",
+  "source": "food"
+ },
+ {
+  "name": "Nuttelex",
+  "source": "food"
+ },
+ {
+  "name": "Patties Foods",
+  "source": "food"
+ },
+ {
+  "name": "Retail Food Group",
+  "source": "food"
+ },
+ {
+  "name": "San Remo Macaroni Company",
+  "source": "food"
+ },
+ {
+  "name": "Schweppes Australia",
+  "source": "food"
+ },
+ {
+  "name": "Snack Brands Australia",
+  "source": "food"
+ },
+ {
+  "name": "Sustagen",
+  "source": "food"
+ },
+ {
+  "name": "Tassal",
+  "source": "food"
+ },
+ {
+  "name": "Warrnambool Cheese and Butter",
+  "source": "food"
+ },
+ {
+  "name": "Wendy's Supa Sundaes",
+  "source": "food"
+ },
+ {
+  "name": "Wesfarmers",
+  "source": "food"
+ },
+ {
+  "name": "Agrana",
+  "source": "food"
+ },
+ {
+  "name": "Brauerei Ottakringer",
+  "source": "food"
+ },
+ {
+  "name": "Do & Co",
+  "source": "food"
+ },
+ {
+  "name": "Julius Meinl",
+  "source": "food"
+ },
+ {
+  "name": "Pez",
+  "source": "food"
+ },
+ {
+  "name": "Red Bull GmbH",
+  "source": "food"
+ },
+ {
+  "name": "Bahra Biscuit Factory",
+  "source": "food"
+ },
+ {
+  "name": "Vinagro",
+  "source": "food"
+ },
+ {
+  "name": "Akij Group",
+  "source": "food"
+ },
+ {
+  "name": "Kazi Farms Group",
+  "source": "food"
+ },
+ {
+  "name": "Meghna Group of Industries",
+  "source": "food"
+ },
+ {
+  "name": "Milk Vita",
+  "source": "food"
+ },
+ {
+  "name": "PRAN-RFL Group",
+  "source": "food"
+ },
+ {
+  "name": "T K Group of Industries",
+  "source": "food"
+ },
+ {
+  "name": "Anheuser-Busch InBev",
+  "source": "food"
+ },
+ {
+  "name": "Cavalier Chocolate",
+  "source": "food"
+ },
+ {
+  "name": "Confiserie Roodthooft",
+  "source": "food"
+ },
+ {
+  "name": "Delhaize Group",
+  "source": "food"
+ },
+ {
+  "name": "Duc d'O",
+  "source": "food"
+ },
+ {
+  "name": "Glacio",
+  "source": "food"
+ },
+ {
+  "name": "John Martin Brewery",
+  "source": "food"
+ },
+ {
+  "name": "Jules Destrooper",
+  "source": "food"
+ },
+ {
+  "name": "Le Pain Quotidien",
+  "source": "food"
+ },
+ {
+  "name": "Lotus Bakeries",
+  "source": "food"
+ },
+ {
+  "name": "Meurens",
+  "source": "food"
+ },
+ {
+  "name": "Vanparys",
+  "source": "food"
+ },
+ {
+  "name": "Ysco",
+  "source": "food"
+ },
+ {
+  "name": "Brazilian Fast Food Corporation",
+  "source": "food"
+ },
+ {
+  "name": "BRF S.A.",
+  "source": "food"
+ },
+ {
+  "name": "Garoto",
+  "source": "food"
+ },
+ {
+  "name": "Grupo Petrópolis",
+  "source": "food"
+ },
+ {
+  "name": "International Meal Company",
+  "source": "food"
+ },
+ {
+  "name": "JBS S.A.",
+  "source": "food"
+ },
+ {
+  "name": "Marfrig",
+  "source": "food"
+ },
+ {
+  "name": "Vigor S.A.",
+  "source": "food"
+ },
+ {
+  "name": "Vitta Foods",
+  "source": "food"
+ },
+ {
+  "name": "Agropur",
+  "source": "food"
+ },
+ {
+  "name": "Bothwell Cheese",
+  "source": "food"
+ },
+ {
+  "name": "Canyon Creek Food Company",
+  "source": "food"
+ },
+ {
+  "name": "Chapman's",
+  "source": "food"
+ },
+ {
+  "name": "Cott",
+  "source": "food"
+ },
+ {
+  "name": "Daiya",
+  "source": "food"
+ },
+ {
+  "name": "Dan-D Foods",
+  "source": "food"
+ },
+ {
+  "name": "Dare Foods",
+  "source": "food"
+ },
+ {
+  "name": "Ganong Bros.",
+  "source": "food"
+ },
+ {
+  "name": "Gay Lea",
+  "source": "food"
+ },
+ {
+  "name": "George Weston Limited",
+  "source": "food"
+ },
+ {
+  "name": "Jim Pattison Group",
+  "source": "food"
+ },
+ {
+  "name": "Just Us!",
+  "source": "food"
+ },
+ {
+  "name": "Kawartha Dairy Company",
+  "source": "food"
+ },
+ {
+  "name": "Lassonde Industries",
+  "source": "food"
+ },
+ {
+  "name": "Laura Secord Chocolates",
+  "source": "food"
+ },
+ {
+  "name": "Lesters Foods Ltd.",
+  "source": "food"
+ },
+ {
+  "name": "M&M Food Market",
+  "source": "food"
+ },
+ {
+  "name": "Maple Leaf Foods",
+  "source": "food"
+ },
+ {
+  "name": "McCain Foods",
+  "source": "food"
+ },
+ {
+  "name": "Metro Inc.",
+  "source": "food"
+ },
+ {
+  "name": "Mike's Hard Lemonade Co.",
+  "source": "food"
+ },
+ {
+  "name": "MTY Food Group",
+  "source": "food"
+ },
+ {
+  "name": "Nature's Path",
+  "source": "food"
+ },
+ {
+  "name": "Naya Waters",
+  "source": "food"
+ },
+ {
+  "name": "Olymel",
+  "source": "food"
+ },
+ {
+  "name": "Organic Meadow Cooperative",
+  "source": "food"
+ },
+ {
+  "name": "Première Moisson",
+  "source": "food"
+ },
+ {
+  "name": "Premium Brands Holdings Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Purity Factories",
+  "source": "food"
+ },
+ {
+  "name": "Recipe Unlimited",
+  "source": "food"
+ },
+ {
+  "name": "Rogers Sugar",
+  "source": "food"
+ },
+ {
+  "name": "Sobeys",
+  "source": "food"
+ },
+ {
+  "name": "SunOpta",
+  "source": "food"
+ },
+ {
+  "name": "Voortman Cookies",
+  "source": "food"
+ },
+ {
+  "name": "Compañía de las Cervecerías Unidas",
+  "source": "food"
+ },
+ {
+  "name": "Concha y Toro",
+  "source": "food"
+ },
+ {
+  "name": "Cooperativa Agrícola y Lechera de La Unión Limitada",
+  "source": "food"
+ },
+ {
+  "name": "Soprole",
+  "source": "food"
+ },
+ {
+  "name": "Amoy Food",
+  "source": "food"
+ },
+ {
+  "name": "Bright Food",
+  "source": "food"
+ },
+ {
+  "name": "Chaoda Modern Agriculture",
+  "source": "food"
+ },
+ {
+  "name": "COFCO Group",
+  "source": "food"
+ },
+ {
+  "name": "Convenience Retail Asia",
+  "source": "food"
+ },
+ {
+  "name": "Dairy Farm International Holdings",
+  "source": "food"
+ },
+ {
+  "name": "Foshan Haitian Flavouring & Food Co",
+  "source": "food"
+ },
+ {
+  "name": "Fufeng Group",
+  "source": "food"
+ },
+ {
+  "name": "Global Sweeteners",
+  "source": "food"
+ },
+ {
+  "name": "Hangzhou Wahaha Group",
+  "source": "food"
+ },
+ {
+  "name": "Hanwei Group",
+  "source": "food"
+ },
+ {
+  "name": "Huiyuan Juice",
+  "source": "food"
+ },
+ {
+  "name": "Kee Wah Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Kweichow Moutai Company",
+  "source": "food"
+ },
+ {
+  "name": "Mengniu Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Shuanghui",
+  "source": "food"
+ },
+ {
+  "name": "Tien Chun Ve-Tsin",
+  "source": "food"
+ },
+ {
+  "name": "Ting Hsin International Group",
+  "source": "food"
+ },
+ {
+  "name": "Uni-President Enterprises Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Want Want",
+  "source": "food"
+ },
+ {
+  "name": "Xinjiang Chalkis Co.Ltd",
+  "source": "food"
+ },
+ {
+  "name": "Yili Group",
+  "source": "food"
+ },
+ {
+  "name": "Yurun Group",
+  "source": "food"
+ },
+ {
+  "name": "Zvečevo",
+  "source": "food"
+ },
+ {
+  "name": "Alpina Productos Alimenticios",
+  "source": "food"
+ },
+ {
+  "name": "Grupo Nutresa",
+  "source": "food"
+ },
+ {
+  "name": "Postobón",
+  "source": "food"
+ },
+ {
+  "name": "Quala",
+  "source": "food"
+ },
+ {
+  "name": "Agrokor",
+  "source": "food"
+ },
+ {
+  "name": "Atlantic Grupa",
+  "source": "food"
+ },
+ {
+  "name": "Čakovečki mlinovi",
+  "source": "food"
+ },
+ {
+  "name": "Koestlin",
+  "source": "food"
+ },
+ {
+  "name": "Kraš",
+  "source": "food"
+ },
+ {
+  "name": "Podravka",
+  "source": "food"
+ },
+ {
+  "name": "Arla Foods",
+  "source": "food"
+ },
+ {
+  "name": "Carlsberg Group",
+  "source": "food"
+ },
+ {
+  "name": "Chr. Hansen",
+  "source": "food"
+ },
+ {
+  "name": "Co-Ro Food",
+  "source": "food"
+ },
+ {
+  "name": "Danish Agro",
+  "source": "food"
+ },
+ {
+  "name": "Danish Crown AmbA",
+  "source": "food"
+ },
+ {
+  "name": "DAVA Foods",
+  "source": "food"
+ },
+ {
+  "name": "Friis-Holm",
+  "source": "food"
+ },
+ {
+  "name": "Kohberg Bakery Group",
+  "source": "food"
+ },
+ {
+  "name": "Knuthenlund",
+  "source": "food"
+ },
+ {
+  "name": "Løgismose Meyers",
+  "source": "food"
+ },
+ {
+  "name": "Stauning Whisky",
+  "source": "food"
+ },
+ {
+  "name": "Toms International",
+  "source": "food"
+ },
+ {
+  "name": "Fazer",
+  "source": "food"
+ },
+ {
+  "name": "HKScan",
+  "source": "food"
+ },
+ {
+  "name": "Kaslink Foods",
+  "source": "food"
+ },
+ {
+  "name": "Paulig",
+  "source": "food"
+ },
+ {
+  "name": "Raisio Group",
+  "source": "food"
+ },
+ {
+  "name": "Valio",
+  "source": "food"
+ },
+ {
+  "name": "Alter Eco",
+  "source": "food"
+ },
+ {
+  "name": "Bel Group",
+  "source": "food"
+ },
+ {
+  "name": "Biscuiterie Saint-Michel",
+  "source": "food"
+ },
+ {
+  "name": "Biscuits Fossier",
+  "source": "food"
+ },
+ {
+  "name": "Bonduelle",
+  "source": "food"
+ },
+ {
+  "name": "Bongrain",
+  "source": "food"
+ },
+ {
+  "name": "Bonnat Chocolates",
+  "source": "food"
+ },
+ {
+  "name": "Castel Group",
+  "source": "food"
+ },
+ {
+  "name": "Comigel",
+  "source": "food"
+ },
+ {
+  "name": "Compagnie des Fromages et RichesMonts",
+  "source": "food"
+ },
+ {
+  "name": "Cooperl Arc Atlantique",
+  "source": "food"
+ },
+ {
+  "name": "Dalloyau",
+  "source": "food"
+ },
+ {
+  "name": "Danone",
+  "source": "food"
+ },
+ {
+  "name": "Daregal",
+  "source": "food"
+ },
+ {
+  "name": "Debauve & Gallais",
+  "source": "food"
+ },
+ {
+  "name": "Délifrance",
+  "source": "food"
+ },
+ {
+  "name": "Groupe Doux",
+  "source": "food"
+ },
+ {
+  "name": "Groupe Holder",
+  "source": "food"
+ },
+ {
+  "name": "Groupe Le Duff",
+  "source": "food"
+ },
+ {
+  "name": "Groupe Limagrain",
+  "source": "food"
+ },
+ {
+  "name": "Lactalis",
+  "source": "food"
+ },
+ {
+  "name": "Lur Berri",
+  "source": "food"
+ },
+ {
+  "name": "Menier Chocolate",
+  "source": "food"
+ },
+ {
+  "name": "Michel et Augustin",
+  "source": "food"
+ },
+ {
+  "name": "Pernod Ricard",
+  "source": "food"
+ },
+ {
+  "name": "Soufflet Group",
+  "source": "food"
+ },
+ {
+  "name": "Tereos",
+  "source": "food"
+ },
+ {
+  "name": "Valrhona",
+  "source": "food"
+ },
+ {
+  "name": "Aldi",
+  "source": "food"
+ },
+ {
+  "name": "Alnatura",
+  "source": "food"
+ },
+ {
+  "name": "Asbach Uralt",
+  "source": "food"
+ },
+ {
+  "name": "August Storck",
+  "source": "food"
+ },
+ {
+  "name": "Bahlsen",
+  "source": "food"
+ },
+ {
+  "name": "Born Feinkost",
+  "source": "food"
+ },
+ {
+  "name": "C. Hahne Mühlenwerke GmbH & Co. KG",
+  "source": "food"
+ },
+ {
+  "name": "Coppenrath & Wiese",
+  "source": "food"
+ },
+ {
+  "name": "Dr. Oetker",
+  "source": "food"
+ },
+ {
+  "name": "Düsseldorfer Löwensenf",
+  "source": "food"
+ },
+ {
+  "name": "Granini",
+  "source": "food"
+ },
+ {
+  "name": "Halloren Chocolate Factory",
+  "source": "food"
+ },
+ {
+  "name": "Händlmaier",
+  "source": "food"
+ },
+ {
+  "name": "Haribo",
+  "source": "food"
+ },
+ {
+  "name": "Lorenz Snack-World",
+  "source": "food"
+ },
+ {
+  "name": "Mederer GmbH",
+  "source": "food"
+ },
+ {
+  "name": "Meica",
+  "source": "food"
+ },
+ {
+  "name": "Mestemacher",
+  "source": "food"
+ },
+ {
+  "name": "Niederegger",
+  "source": "food"
+ },
+ {
+  "name": "Nordzucker",
+  "source": "food"
+ },
+ {
+  "name": "Schwarz Gruppe",
+  "source": "food"
+ },
+ {
+  "name": "Südzucker",
+  "source": "food"
+ },
+ {
+  "name": "Teekampagne",
+  "source": "food"
+ },
+ {
+  "name": "Waldemar Behn",
+  "source": "food"
+ },
+ {
+  "name": "Zott",
+  "source": "food"
+ },
+ {
+  "name": "Arapian",
+  "source": "food"
+ },
+ {
+  "name": "Evga S.A",
+  "source": "food"
+ },
+ {
+  "name": "Haitoglou Bros",
+  "source": "food"
+ },
+ {
+  "name": "KYKNOS S.A.",
+  "source": "food"
+ },
+ {
+  "name": "Melissa S.A.",
+  "source": "food"
+ },
+ {
+  "name": "Mevgal",
+  "source": "food"
+ },
+ {
+  "name": "Miran Pastourma",
+  "source": "food"
+ },
+ {
+  "name": "Terkenlis",
+  "source": "food"
+ },
+ {
+  "name": "Vivartia",
+  "source": "food"
+ },
+ {
+  "name": "Borsod Brewery",
+  "source": "food"
+ },
+ {
+  "name": "Győri Keksz",
+  "source": "food"
+ },
+ {
+  "name": "Pick Szeged",
+  "source": "food"
+ },
+ {
+  "name": "Adyar Ananda Bhavan",
+  "source": "food"
+ },
+ {
+  "name": "Amul",
+  "source": "food"
+ },
+ {
+  "name": "Bisleri",
+  "source": "food"
+ },
+ {
+  "name": "Bihar State Milk Co-operative Federation",
+  "source": "food"
+ },
+ {
+  "name": "Britannia Industries",
+  "source": "food"
+ },
+ {
+  "name": "Dabur",
+  "source": "food"
+ },
+ {
+  "name": "Dudhsagar Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Everest Spices",
+  "source": "food"
+ },
+ {
+  "name": "Haldiram's",
+  "source": "food"
+ },
+ {
+  "name": "Hatsun Agro Product",
+  "source": "food"
+ },
+ {
+  "name": "Karnataka Milk Federation",
+  "source": "food"
+ },
+ {
+  "name": "Kerala Co-operative Milk Marketing Federation",
+  "source": "food"
+ },
+ {
+  "name": "Marico",
+  "source": "food"
+ },
+ {
+  "name": "Meat Products of India",
+  "source": "food"
+ },
+ {
+  "name": "Mother Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Orissa State Cooperative Milk Producers' Federation",
+  "source": "food"
+ },
+ {
+  "name": "Parle Agro",
+  "source": "food"
+ },
+ {
+  "name": "Parle Products",
+  "source": "food"
+ },
+ {
+  "name": "Patanjali Ayurved",
+  "source": "food"
+ },
+ {
+  "name": "Tata Consumer Products",
+  "source": "food"
+ },
+ {
+  "name": "Delta Djakarta",
+  "source": "food"
+ },
+ {
+  "name": "Indofood",
+  "source": "food"
+ },
+ {
+  "name": "Japfa",
+  "source": "food"
+ },
+ {
+  "name": "Mayora Indah",
+  "source": "food"
+ },
+ {
+  "name": "My Kopi-O!",
+  "source": "food"
+ },
+ {
+  "name": "Roti Bunz",
+  "source": "food"
+ },
+ {
+  "name": "Sariwangi",
+  "source": "food"
+ },
+ {
+  "name": "Siantar Top",
+  "source": "food"
+ },
+ {
+  "name": "Sido Muncul",
+  "source": "food"
+ },
+ {
+  "name": "Wings Food",
+  "source": "food"
+ },
+ {
+  "name": "Yupi",
+  "source": "food"
+ },
+ {
+  "name": "Abbey Cheese Company",
+  "source": "food"
+ },
+ {
+  "name": "Ardsallagh Goat Farm",
+  "source": "food"
+ },
+ {
+  "name": "Barry's Tea",
+  "source": "food"
+ },
+ {
+  "name": "Béal Organic Cheese",
+  "source": "food"
+ },
+ {
+  "name": "Bewley's",
+  "source": "food"
+ },
+ {
+  "name": "Bluebell Falls",
+  "source": "food"
+ },
+ {
+  "name": "Burren Smokehouse",
+  "source": "food"
+ },
+ {
+  "name": "Butlers Chocolates",
+  "source": "food"
+ },
+ {
+  "name": "C&C Group",
+  "source": "food"
+ },
+ {
+  "name": "Cahill's Farm Cheese",
+  "source": "food"
+ },
+ {
+  "name": "Carlow Brewing Company",
+  "source": "food"
+ },
+ {
+  "name": "Carrigaline Farmhouse Cheese",
+  "source": "food"
+ },
+ {
+  "name": "Donegal Creameries",
+  "source": "food"
+ },
+ {
+  "name": "Flahavan's",
+  "source": "food"
+ },
+ {
+  "name": "Fyffes",
+  "source": "food"
+ },
+ {
+  "name": "Gleeson Group",
+  "source": "food"
+ },
+ {
+  "name": "Greencore",
+  "source": "food"
+ },
+ {
+  "name": "Hadji Bey",
+  "source": "food"
+ },
+ {
+  "name": "Irwin's Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Kerry Group",
+  "source": "food"
+ },
+ {
+  "name": "Lakeland Dairies",
+  "source": "food"
+ },
+ {
+  "name": "Mauds Ice Creams",
+  "source": "food"
+ },
+ {
+  "name": "Murphys Ice Cream",
+  "source": "food"
+ },
+ {
+  "name": "Nobó",
+  "source": "food"
+ },
+ {
+  "name": "Old Bushmills Distillery",
+  "source": "food"
+ },
+ {
+  "name": "Ornua",
+  "source": "food"
+ },
+ {
+  "name": "R&H Hall",
+  "source": "food"
+ },
+ {
+  "name": "Shamrock Foods",
+  "source": "food"
+ },
+ {
+  "name": "Tayto (Northern Ireland)",
+  "source": "food"
+ },
+ {
+  "name": "Tayto (Republic of Ireland)",
+  "source": "food"
+ },
+ {
+  "name": "Valeo Foods",
+  "source": "food"
+ },
+ {
+  "name": "Angel Bakeries",
+  "source": "food"
+ },
+ {
+  "name": "Berman's Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Prigat",
+  "source": "food"
+ },
+ {
+  "name": "Yehuda Matzos",
+  "source": "food"
+ },
+ {
+  "name": "Amedei",
+  "source": "food"
+ },
+ {
+  "name": "Auricchio",
+  "source": "food"
+ },
+ {
+  "name": "Autogrill",
+  "source": "food"
+ },
+ {
+  "name": "Dolciaria Balconi",
+  "source": "food"
+ },
+ {
+  "name": "Barilla Group",
+  "source": "food"
+ },
+ {
+  "name": "Bartolo Nardini",
+  "source": "food"
+ },
+ {
+  "name": "Bertagni",
+  "source": "food"
+ },
+ {
+  "name": "Campari Group",
+  "source": "food"
+ },
+ {
+  "name": "Carapelli",
+  "source": "food"
+ },
+ {
+  "name": "Cirio",
+  "source": "food"
+ },
+ {
+  "name": "Coppola Foods",
+  "source": "food"
+ },
+ {
+  "name": "De Cecco",
+  "source": "food"
+ },
+ {
+  "name": "Domori",
+  "source": "food"
+ },
+ {
+  "name": "Elledi",
+  "source": "food"
+ },
+ {
+  "name": "Ferrero SpA",
+  "source": "food"
+ },
+ {
+  "name": "Giovanni Rana",
+  "source": "food"
+ },
+ {
+  "name": "Girolamo Luxardo",
+  "source": "food"
+ },
+ {
+  "name": "Guglielmo coffee",
+  "source": "food"
+ },
+ {
+  "name": "La Molisana",
+  "source": "food"
+ },
+ {
+  "name": "Lavazza",
+  "source": "food"
+ },
+ {
+  "name": "Lazzaroni",
+  "source": "food"
+ },
+ {
+  "name": "Loacker",
+  "source": "food"
+ },
+ {
+  "name": "Massimo Zanetti Beverage Group",
+  "source": "food"
+ },
+ {
+  "name": "Nonino Grappa",
+  "source": "food"
+ },
+ {
+  "name": "Parmalat",
+  "source": "food"
+ },
+ {
+  "name": "Pernigotti",
+  "source": "food"
+ },
+ {
+  "name": "Saclà Italia",
+  "source": "food"
+ },
+ {
+  "name": "Venchi",
+  "source": "food"
+ },
+ {
+  "name": "Vicenzi",
+  "source": "food"
+ },
+ {
+  "name": "Voiello",
+  "source": "food"
+ },
+ {
+  "name": "Ajinomoto",
+  "source": "food"
+ },
+ {
+  "name": "Asahi Breweries",
+  "source": "food"
+ },
+ {
+  "name": "Calbee",
+  "source": "food"
+ },
+ {
+  "name": "Ezaki Glico",
+  "source": "food"
+ },
+ {
+  "name": "Fujimitsu Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Fujiya",
+  "source": "food"
+ },
+ {
+  "name": "House Foods",
+  "source": "food"
+ },
+ {
+  "name": "Kabaya",
+  "source": "food"
+ },
+ {
+  "name": "Kikkoman",
+  "source": "food"
+ },
+ {
+  "name": "Kirin Company",
+  "source": "food"
+ },
+ {
+  "name": "LEOC Japan",
+  "source": "food"
+ },
+ {
+  "name": "Maruchan",
+  "source": "food"
+ },
+ {
+  "name": "Maruha Nichiro",
+  "source": "food"
+ },
+ {
+  "name": "Marukome",
+  "source": "food"
+ },
+ {
+  "name": "Meiji Dairies",
+  "source": "food"
+ },
+ {
+  "name": "Meiji Seika",
+  "source": "food"
+ },
+ {
+  "name": "Mizkan",
+  "source": "food"
+ },
+ {
+  "name": "Nippon Flour Mills",
+  "source": "food"
+ },
+ {
+  "name": "Nippon Ham",
+  "source": "food"
+ },
+ {
+  "name": "Nippon Suisan Kaisha",
+  "source": "food"
+ },
+ {
+  "name": "Nissin Foods",
+  "source": "food"
+ },
+ {
+  "name": "Sapporo Brewery",
+  "source": "food"
+ },
+ {
+  "name": "Shidax",
+  "source": "food"
+ },
+ {
+  "name": "Snow Brand Milk Products",
+  "source": "food"
+ },
+ {
+  "name": "Suntory",
+  "source": "food"
+ },
+ {
+  "name": "Tohato",
+  "source": "food"
+ },
+ {
+  "name": "Toyo Suisan",
+  "source": "food"
+ },
+ {
+  "name": "Yakult",
+  "source": "food"
+ },
+ {
+  "name": "Yamazaki Baking",
+  "source": "food"
+ },
+ {
+  "name": "Zensho",
+  "source": "food"
+ },
+ {
+  "name": "Americana Group",
+  "source": "food"
+ },
+ {
+  "name": "Kout Food Group",
+  "source": "food"
+ },
+ {
+  "name": "BOH Plantations",
+  "source": "food"
+ },
+ {
+  "name": "Dutch Lady Milk Industries",
+  "source": "food"
+ },
+ {
+  "name": "Felda Global Ventures Holdings",
+  "source": "food"
+ },
+ {
+  "name": "Kart's",
+  "source": "food"
+ },
+ {
+  "name": "Mamee Double-Decker",
+  "source": "food"
+ },
+ {
+  "name": "Munchy's",
+  "source": "food"
+ },
+ {
+  "name": "Ramly Group",
+  "source": "food"
+ },
+ {
+  "name": "Sime Darby",
+  "source": "food"
+ },
+ {
+  "name": "Ah Cacao Real Chocolate",
+  "source": "food"
+ },
+ {
+  "name": "Alsea",
+  "source": "food"
+ },
+ {
+  "name": "Bachoco",
+  "source": "food"
+ },
+ {
+  "name": "Búfalo",
+  "source": "food"
+ },
+ {
+  "name": "Chilchota Alimentos",
+  "source": "food"
+ },
+ {
+  "name": "Cholula Hot Sauce",
+  "source": "food"
+ },
+ {
+  "name": "Gruma",
+  "source": "food"
+ },
+ {
+  "name": "Grupo Anderson's",
+  "source": "food"
+ },
+ {
+  "name": "Grupo Bimbo",
+  "source": "food"
+ },
+ {
+  "name": "Grupo Lala",
+  "source": "food"
+ },
+ {
+  "name": "Jarritos",
+  "source": "food"
+ },
+ {
+  "name": "Jose Cuervo",
+  "source": "food"
+ },
+ {
+  "name": "Mayordomo",
+  "source": "food"
+ },
+ {
+  "name": "Sidral Mundet",
+  "source": "food"
+ },
+ {
+  "name": "Sigma Alimentos",
+  "source": "food"
+ },
+ {
+  "name": "AVEBE",
+  "source": "food"
+ },
+ {
+  "name": "Douwe Egberts",
+  "source": "food"
+ },
+ {
+  "name": "Droste",
+  "source": "food"
+ },
+ {
+  "name": "FrieslandCampina",
+  "source": "food"
+ },
+ {
+  "name": "Heineken International",
+  "source": "food"
+ },
+ {
+  "name": "Ketel One",
+  "source": "food"
+ },
+ {
+  "name": "Lucas Bols",
+  "source": "food"
+ },
+ {
+  "name": "Nutreco",
+  "source": "food"
+ },
+ {
+  "name": "Royal Wessanen",
+  "source": "food"
+ },
+ {
+  "name": "Chelsea Sugar Refinery",
+  "source": "food"
+ },
+ {
+  "name": "Cookie Time",
+  "source": "food"
+ },
+ {
+  "name": "Emerson's Brewery",
+  "source": "food"
+ },
+ {
+  "name": "Evansdale Cheese",
+  "source": "food"
+ },
+ {
+  "name": "Fonterra",
+  "source": "food"
+ },
+ {
+  "name": "Foxton Fizz",
+  "source": "food"
+ },
+ {
+  "name": "Goodman Fielder",
+  "source": "food"
+ },
+ {
+  "name": "Gregg's",
+  "source": "food"
+ },
+ {
+  "name": "Griffin's Foods",
+  "source": "food"
+ },
+ {
+  "name": "Healtheries",
+  "source": "food"
+ },
+ {
+  "name": "Hubbard Foods",
+  "source": "food"
+ },
+ {
+  "name": "Lewis Road Creamery",
+  "source": "food"
+ },
+ {
+  "name": "Livestock Improvement Corporation",
+  "source": "food"
+ },
+ {
+  "name": "McCashins Brewery",
+  "source": "food"
+ },
+ {
+  "name": "Monteith's",
+  "source": "food"
+ },
+ {
+  "name": "My Food Bag",
+  "source": "food"
+ },
+ {
+  "name": "Progressive Enterprises",
+  "source": "food"
+ },
+ {
+  "name": "Restaurant Brands",
+  "source": "food"
+ },
+ {
+  "name": "Silver Fern Farms",
+  "source": "food"
+ },
+ {
+  "name": "Speight's",
+  "source": "food"
+ },
+ {
+  "name": "Synlait",
+  "source": "food"
+ },
+ {
+  "name": "Talley's Group",
+  "source": "food"
+ },
+ {
+  "name": "Tatua Dairy Company",
+  "source": "food"
+ },
+ {
+  "name": "Tegel Foods",
+  "source": "food"
+ },
+ {
+  "name": "Westland Milk Products",
+  "source": "food"
+ },
+ {
+  "name": "Whitestone cheese",
+  "source": "food"
+ },
+ {
+  "name": "Whittaker's",
+  "source": "food"
+ },
+ {
+  "name": "Wigram Beer",
+  "source": "food"
+ },
+ {
+  "name": "Zealong",
+  "source": "food"
+ },
+ {
+  "name": "Bama Gruppen",
+  "source": "food"
+ },
+ {
+  "name": "Brynild Gruppen",
+  "source": "food"
+ },
+ {
+  "name": "Cermaq",
+  "source": "food"
+ },
+ {
+  "name": "Coop Norge",
+  "source": "food"
+ },
+ {
+  "name": "Den Lille Nøttefabrikken",
+  "source": "food"
+ },
+ {
+  "name": "Drammens Is",
+  "source": "food"
+ },
+ {
+  "name": "Felleskjøpet",
+  "source": "food"
+ },
+ {
+  "name": "Fjordland",
+  "source": "food"
+ },
+ {
+  "name": "Friele",
+  "source": "food"
+ },
+ {
+  "name": "Gartnerhallen",
+  "source": "food"
+ },
+ {
+  "name": "Hennig-Olsen Iskremfabrikk",
+  "source": "food"
+ },
+ {
+  "name": "HOFF Norske Potetindustrier",
+  "source": "food"
+ },
+ {
+  "name": "Hval Sjokoladefabrikk",
+  "source": "food"
+ },
+ {
+  "name": "Isklar",
+  "source": "food"
+ },
+ {
+  "name": "Kavli",
+  "source": "food"
+ },
+ {
+  "name": "Kavli Trust",
+  "source": "food"
+ },
+ {
+  "name": "Maarud",
+  "source": "food"
+ },
+ {
+  "name": "Nora Industrier",
+  "source": "food"
+ },
+ {
+  "name": "Nortura",
+  "source": "food"
+ },
+ {
+  "name": "Norway Royal Salmon",
+  "source": "food"
+ },
+ {
+  "name": "Orkla Group",
+  "source": "food"
+ },
+ {
+  "name": "SalMar",
+  "source": "food"
+ },
+ {
+  "name": "Synnøve Finden",
+  "source": "food"
+ },
+ {
+  "name": "Vinmonopolet",
+  "source": "food"
+ },
+ {
+  "name": "Dalda",
+  "source": "food"
+ },
+ {
+  "name": "Engro Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Fauji Foundation",
+  "source": "food"
+ },
+ {
+  "name": "Gourmet Foods",
+  "source": "food"
+ },
+ {
+  "name": "Mitchell's Fruit Farms Limited",
+  "source": "food"
+ },
+ {
+  "name": "Murree Brewery",
+  "source": "food"
+ },
+ {
+  "name": "National Foods Limited",
+  "source": "food"
+ },
+ {
+  "name": "OMORÉ",
+  "source": "food"
+ },
+ {
+  "name": "Pakola",
+  "source": "food"
+ },
+ {
+  "name": "Shan Food Industries",
+  "source": "food"
+ },
+ {
+  "name": "Shezan International",
+  "source": "food"
+ },
+ {
+  "name": "Peek Freans",
+  "source": "food"
+ },
+ {
+  "name": "Ajegroup",
+  "source": "food"
+ },
+ {
+  "name": "Alicorp",
+  "source": "food"
+ },
+ {
+  "name": "Corporación Lindley S.A.",
+  "source": "food"
+ },
+ {
+  "name": "Don Jorge",
+  "source": "food"
+ },
+ {
+  "name": "Enrique Cassinelli and Sons",
+  "source": "food"
+ },
+ {
+  "name": "La Iberica",
+  "source": "food"
+ },
+ {
+  "name": "Alaska Milk Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Asia Brewery",
+  "source": "food"
+ },
+ {
+  "name": "Century Pacific Food",
+  "source": "food"
+ },
+ {
+  "name": "Figaro Coffee Company",
+  "source": "food"
+ },
+ {
+  "name": "Food Terminal Inc.",
+  "source": "food"
+ },
+ {
+  "name": "Goldilocks Bakeshop",
+  "source": "food"
+ },
+ {
+  "name": "Jollibee Foods Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Liwayway Holdings Company",
+  "source": "food"
+ },
+ {
+  "name": "Mama Sita's Holding Company",
+  "source": "food"
+ },
+ {
+  "name": "Monde Nissin",
+  "source": "food"
+ },
+ {
+  "name": "Rebisco",
+  "source": "food"
+ },
+ {
+  "name": "RFM Corporation",
+  "source": "food"
+ },
+ {
+  "name": "San Miguel Corporation",
+  "source": "food"
+ },
+ {
+  "name": "SL Agritech Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Tanduay Distillers",
+  "source": "food"
+ },
+ {
+  "name": "Universal Robina",
+  "source": "food"
+ },
+ {
+  "name": "Zest-O",
+  "source": "food"
+ },
+ {
+  "name": "AmRest",
+  "source": "food"
+ },
+ {
+  "name": "Hortex",
+  "source": "food"
+ },
+ {
+  "name": "Indykpol",
+  "source": "food"
+ },
+ {
+  "name": "Kamis",
+  "source": "food"
+ },
+ {
+  "name": "Maspex",
+  "source": "food"
+ },
+ {
+  "name": "Cerealis",
+  "source": "food"
+ },
+ {
+  "name": "Cofaco",
+  "source": "food"
+ },
+ {
+  "name": "Conservas Ramirez",
+  "source": "food"
+ },
+ {
+  "name": "Delta Cafés",
+  "source": "food"
+ },
+ {
+  "name": "Frulact",
+  "source": "food"
+ },
+ {
+  "name": "Grupo RAR",
+  "source": "food"
+ },
+ {
+  "name": "Lactogal",
+  "source": "food"
+ },
+ {
+  "name": "Sovena Group",
+  "source": "food"
+ },
+ {
+  "name": "Sumol + Compal",
+  "source": "food"
+ },
+ {
+  "name": "Valouro",
+  "source": "food"
+ },
+ {
+  "name": "Aldis SRL",
+  "source": "food"
+ },
+ {
+  "name": "European Drinks & Foods",
+  "source": "food"
+ },
+ {
+  "name": "Cherkizovo",
+  "source": "food"
+ },
+ {
+  "name": "Inmarko",
+  "source": "food"
+ },
+ {
+  "name": "Wimm-Bill-Dann Foods",
+  "source": "food"
+ },
+ {
+  "name": "Almarai",
+  "source": "food"
+ },
+ {
+  "name": "Nadec",
+  "source": "food"
+ },
+ {
+  "name": "Savola Group",
+  "source": "food"
+ },
+ {
+  "name": "Imlek a.d.",
+  "source": "food"
+ },
+ {
+  "name": "Knjaz Miloš a.d.",
+  "source": "food"
+ },
+ {
+  "name": "Štark",
+  "source": "food"
+ },
+ {
+  "name": "Swisslion Group",
+  "source": "food"
+ },
+ {
+  "name": "ABR Holdings",
+  "source": "food"
+ },
+ {
+  "name": "Asian Home Gourmet",
+  "source": "food"
+ },
+ {
+  "name": "Ayam Brand",
+  "source": "food"
+ },
+ {
+  "name": "Bee Cheng Hiang",
+  "source": "food"
+ },
+ {
+  "name": "BreadTalk",
+  "source": "food"
+ },
+ {
+  "name": "Fraser and Neave",
+  "source": "food"
+ },
+ {
+  "name": "Tee Yih Jia",
+  "source": "food"
+ },
+ {
+  "name": "Ya Kun Kaya Toast",
+  "source": "food"
+ },
+ {
+  "name": "Yeo Hiap Seng",
+  "source": "food"
+ },
+ {
+  "name": "Wilmar International",
+  "source": "food"
+ },
+ {
+  "name": "CJ Group",
+  "source": "food"
+ },
+ {
+  "name": "Crown Confectionery",
+  "source": "food"
+ },
+ {
+  "name": "Doosan Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Haitai",
+  "source": "food"
+ },
+ {
+  "name": "Hollys",
+  "source": "food"
+ },
+ {
+  "name": "Jeongin Food",
+  "source": "food"
+ },
+ {
+  "name": "Korea Tobacco & Ginseng Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Lotte Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Nongshim",
+  "source": "food"
+ },
+ {
+  "name": "Orion Confectionery",
+  "source": "food"
+ },
+ {
+  "name": "Ottogi",
+  "source": "food"
+ },
+ {
+  "name": "Pulmuone",
+  "source": "food"
+ },
+ {
+  "name": "Samyang Food",
+  "source": "food"
+ },
+ {
+  "name": "Seoul Milk",
+  "source": "food"
+ },
+ {
+  "name": "SPC Group",
+  "source": "food"
+ },
+ {
+  "name": "Sulbing",
+  "source": "food"
+ },
+ {
+  "name": "Tory Food",
+  "source": "food"
+ },
+ {
+  "name": "Yeolmae Food",
+  "source": "food"
+ },
+ {
+  "name": "Borges Mediterranean Group",
+  "source": "food"
+ },
+ {
+  "name": "Calidad Pascual",
+  "source": "food"
+ },
+ {
+  "name": "Campofrío Food Group",
+  "source": "food"
+ },
+ {
+  "name": "Ebro Foods",
+  "source": "food"
+ },
+ {
+  "name": "Galletas Gullón",
+  "source": "food"
+ },
+ {
+  "name": "Grupo Calvo",
+  "source": "food"
+ },
+ {
+  "name": "Kalise Menorquina",
+  "source": "food"
+ },
+ {
+  "name": "Mahou-San Miguel Group",
+  "source": "food"
+ },
+ {
+  "name": "Pescanova",
+  "source": "food"
+ },
+ {
+  "name": "Quely",
+  "source": "food"
+ },
+ {
+  "name": "San Nicasio",
+  "source": "food"
+ },
+ {
+  "name": "Ta-Tung",
+  "source": "food"
+ },
+ {
+  "name": "Cargills (Ceylon) PLC",
+  "source": "food"
+ },
+ {
+  "name": "Ceylon Biscuits Limited",
+  "source": "food"
+ },
+ {
+  "name": "Ceylon Cold Stores",
+  "source": "food"
+ },
+ {
+  "name": "Daintee",
+  "source": "food"
+ },
+ {
+  "name": "Maliban Biscuit Manufactories Limited",
+  "source": "food"
+ },
+ {
+  "name": "Pelwatte Sugar Industries PLC",
+  "source": "food"
+ },
+ {
+  "name": "AarhusKarlshamn",
+  "source": "food"
+ },
+ {
+  "name": "Abba Seafood",
+  "source": "food"
+ },
+ {
+  "name": "Cloetta",
+  "source": "food"
+ },
+ {
+  "name": "Findus",
+  "source": "food"
+ },
+ {
+  "name": "Lantmännen",
+  "source": "food"
+ },
+ {
+  "name": "Mackmyra Whisky",
+  "source": "food"
+ },
+ {
+  "name": "Norrmejerier",
+  "source": "food"
+ },
+ {
+  "name": "Pågen",
+  "source": "food"
+ },
+ {
+  "name": "Polarbröd",
+  "source": "food"
+ },
+ {
+  "name": "Wasabröd",
+  "source": "food"
+ },
+ {
+  "name": "Barry Callebaut",
+  "source": "food"
+ },
+ {
+  "name": "Cailler",
+  "source": "food"
+ },
+ {
+  "name": "Chiquita Brands International",
+  "source": "food"
+ },
+ {
+  "name": "Coffee World",
+  "source": "food"
+ },
+ {
+  "name": "Emmi AG",
+  "source": "food"
+ },
+ {
+  "name": "Franches-Montagnes Brewery",
+  "source": "food"
+ },
+ {
+  "name": "Hero Group",
+  "source": "food"
+ },
+ {
+  "name": "La Clandestine Absinthe",
+  "source": "food"
+ },
+ {
+  "name": "Lindt & Sprüngli",
+  "source": "food"
+ },
+ {
+  "name": "Migros",
+  "source": "food"
+ },
+ {
+  "name": "Nestlé",
+  "source": "food"
+ },
+ {
+  "name": "Ricola",
+  "source": "food"
+ },
+ {
+  "name": "Rivella",
+  "source": "food"
+ },
+ {
+  "name": "Tetra Laval",
+  "source": "food"
+ },
+ {
+  "name": "Tropenhaus Frutigen",
+  "source": "food"
+ },
+ {
+  "name": "Unser Bier",
+  "source": "food"
+ },
+ {
+  "name": "Villars-Maitre-Chocolatier",
+  "source": "food"
+ },
+ {
+  "name": "HeySong Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Hsin Tung Yang",
+  "source": "food"
+ },
+ {
+  "name": "Tingyi (Cayman Islands) Holding Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Boon Rawd Brewery",
+  "source": "food"
+ },
+ {
+  "name": "Charoen Pokphand Foods",
+  "source": "food"
+ },
+ {
+  "name": "Dutch Mill",
+  "source": "food"
+ },
+ {
+  "name": "Khon Kaen Sugar",
+  "source": "food"
+ },
+ {
+  "name": "Mitr Phol",
+  "source": "food"
+ },
+ {
+  "name": "Osotspa",
+  "source": "food"
+ },
+ {
+  "name": "Red Bull",
+  "source": "food"
+ },
+ {
+  "name": "Tao Kae Noi",
+  "source": "food"
+ },
+ {
+  "name": "Thai President Foods",
+  "source": "food"
+ },
+ {
+  "name": "Thai Union Group",
+  "source": "food"
+ },
+ {
+  "name": "ThaiBev",
+  "source": "food"
+ },
+ {
+  "name": "Bermudez Biscuit Company",
+  "source": "food"
+ },
+ {
+  "name": "Carib Brewery",
+  "source": "food"
+ },
+ {
+  "name": "Flavorite Ice Cream",
+  "source": "food"
+ },
+ {
+  "name": "House of Angostura",
+  "source": "food"
+ },
+ {
+  "name": "K.C. Confectionery Limited",
+  "source": "food"
+ },
+ {
+  "name": "Kiss Baking Company Limited",
+  "source": "food"
+ },
+ {
+  "name": "S. M. Jaleel and Company",
+  "source": "food"
+ },
+ {
+  "name": "Solo Beverage Company",
+  "source": "food"
+ },
+ {
+  "name": "Apikoğlu",
+  "source": "food"
+ },
+ {
+  "name": "Banvit",
+  "source": "food"
+ },
+ {
+  "name": "Efes Beverage Group",
+  "source": "food"
+ },
+ {
+  "name": "Gulsan",
+  "source": "food"
+ },
+ {
+  "name": "TEKEL",
+  "source": "food"
+ },
+ {
+  "name": "Tekel Birası",
+  "source": "food"
+ },
+ {
+  "name": "Ülker",
+  "source": "food"
+ },
+ {
+  "name": "Yıldız Holding",
+  "source": "food"
+ },
+ {
+  "name": "Chumak",
+  "source": "food"
+ },
+ {
+  "name": "Konti Group",
+  "source": "food"
+ },
+ {
+  "name": "Kremenchukm'yaso",
+  "source": "food"
+ },
+ {
+  "name": "Nemiroff",
+  "source": "food"
+ },
+ {
+  "name": "Roshen",
+  "source": "food"
+ },
+ {
+  "name": "Sandora",
+  "source": "food"
+ },
+ {
+  "name": "Svitoch",
+  "source": "food"
+ },
+ {
+  "name": "Yarych Confectionery",
+  "source": "food"
+ },
+ {
+  "name": "ZhL",
+  "source": "food"
+ },
+ {
+  "name": "2 Sisters Food Group",
+  "source": "food"
+ },
+ {
+  "name": "A. E. Rodda & Son",
+  "source": "food"
+ },
+ {
+  "name": "A.G. Barr",
+  "source": "food"
+ },
+ {
+  "name": "A. L. Simpkin & Co. Ltd",
+  "source": "food"
+ },
+ {
+  "name": "Antonelli Bros Ltd",
+  "source": "food"
+ },
+ {
+  "name": "Associated British Foods",
+  "source": "food"
+ },
+ {
+  "name": "Bakkavör",
+  "source": "food"
+ },
+ {
+  "name": "Bates Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Baxters",
+  "source": "food"
+ },
+ {
+  "name": "Ben's Cookies",
+  "source": "food"
+ },
+ {
+  "name": "Benugo",
+  "source": "food"
+ },
+ {
+  "name": "Bernard Matthews Ltd",
+  "source": "food"
+ },
+ {
+  "name": "Bompas & Parr",
+  "source": "food"
+ },
+ {
+  "name": "Booker Group",
+  "source": "food"
+ },
+ {
+  "name": "Brace's Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Brains Brewery",
+  "source": "food"
+ },
+ {
+  "name": "Britvic",
+  "source": "food"
+ },
+ {
+  "name": "Burton's Biscuit Company",
+  "source": "food"
+ },
+ {
+  "name": "Charbonnel et Walker",
+  "source": "food"
+ },
+ {
+  "name": "Clark's Pies",
+  "source": "food"
+ },
+ {
+  "name": "Co-op Food",
+  "source": "food"
+ },
+ {
+  "name": "Compass Group",
+  "source": "food"
+ },
+ {
+  "name": "Cook Trading",
+  "source": "food"
+ },
+ {
+  "name": "Cooplands",
+  "source": "food"
+ },
+ {
+  "name": "Cranswick plc",
+  "source": "food"
+ },
+ {
+  "name": "Dairy Crest",
+  "source": "food"
+ },
+ {
+  "name": "Delamere Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Devro",
+  "source": "food"
+ },
+ {
+  "name": "Dietary Foods Ltd",
+  "source": "food"
+ },
+ {
+  "name": "Divine Chocolate",
+  "source": "food"
+ },
+ {
+  "name": "Druckers Vienna Patisserie",
+  "source": "food"
+ },
+ {
+  "name": "F. Duerr & Sons",
+  "source": "food"
+ },
+ {
+  "name": "Fiendish Feet",
+  "source": "food"
+ },
+ {
+  "name": "Fivemiletown Creamery",
+  "source": "food"
+ },
+ {
+  "name": "Fox's Confectionery",
+  "source": "food"
+ },
+ {
+  "name": "Gelato Italia",
+  "source": "food"
+ },
+ {
+  "name": "Ginsters",
+  "source": "food"
+ },
+ {
+  "name": "Goldenfry",
+  "source": "food"
+ },
+ {
+  "name": "Greene King",
+  "source": "food"
+ },
+ {
+  "name": "Grodzinski Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Gü",
+  "source": "food"
+ },
+ {
+  "name": "Higgidy",
+  "source": "food"
+ },
+ {
+  "name": "Hope and Greenwood",
+  "source": "food"
+ },
+ {
+  "name": "Hovis",
+  "source": "food"
+ },
+ {
+  "name": "HR Bradfords",
+  "source": "food"
+ },
+ {
+  "name": "Lion Capital LLP",
+  "source": "food"
+ },
+ {
+  "name": "Lloyd Maunder",
+  "source": "food"
+ },
+ {
+  "name": "Loch Duart",
+  "source": "food"
+ },
+ {
+  "name": "Mackie's",
+  "source": "food"
+ },
+ {
+  "name": "McCowan's",
+  "source": "food"
+ },
+ {
+  "name": "Metcalfe's Food Company",
+  "source": "food"
+ },
+ {
+  "name": "Michton",
+  "source": "food"
+ },
+ {
+  "name": "Millie's Cookies",
+  "source": "food"
+ },
+ {
+  "name": "Moo Free",
+  "source": "food"
+ },
+ {
+  "name": "Mornflake",
+  "source": "food"
+ },
+ {
+  "name": "Neal's Yard Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Oakhouse Foods",
+  "source": "food"
+ },
+ {
+  "name": "Peter's Food Services",
+  "source": "food"
+ },
+ {
+  "name": "Plum Baby",
+  "source": "food"
+ },
+ {
+  "name": "Pork Farms",
+  "source": "food"
+ },
+ {
+  "name": "Pukka Herbs",
+  "source": "food"
+ },
+ {
+  "name": "Pukka Pies",
+  "source": "food"
+ },
+ {
+  "name": "Premier Foods",
+  "source": "food"
+ },
+ {
+  "name": "Princes Group",
+  "source": "food"
+ },
+ {
+  "name": "Quiggin's",
+  "source": "food"
+ },
+ {
+  "name": "R&R Ice Cream",
+  "source": "food"
+ },
+ {
+  "name": "Rakusen's",
+  "source": "food"
+ },
+ {
+  "name": "Restaurant Group",
+  "source": "food"
+ },
+ {
+  "name": "Riverford",
+  "source": "food"
+ },
+ {
+  "name": "Roadchef",
+  "source": "food"
+ },
+ {
+  "name": "Rowse Honey",
+  "source": "food"
+ },
+ {
+  "name": "SABMiller",
+  "source": "food"
+ },
+ {
+  "name": "Sainsbury's",
+  "source": "food"
+ },
+ {
+  "name": "Samworth Brothers",
+  "source": "food"
+ },
+ {
+  "name": "Scotty Brand Ltd",
+  "source": "food"
+ },
+ {
+  "name": "Skinny Candy",
+  "source": "food"
+ },
+ {
+  "name": "Slimming World",
+  "source": "food"
+ },
+ {
+  "name": "Square Pie",
+  "source": "food"
+ },
+ {
+  "name": "SSP Group",
+  "source": "food"
+ },
+ {
+  "name": "Swizzels Matlow",
+  "source": "food"
+ },
+ {
+  "name": "Tangerine Confectionery",
+  "source": "food"
+ },
+ {
+  "name": "Tate & Lyle",
+  "source": "food"
+ },
+ {
+  "name": "Tesco",
+  "source": "food"
+ },
+ {
+  "name": "Tunnock's",
+  "source": "food"
+ },
+ {
+  "name": "Ummah Foods",
+  "source": "food"
+ },
+ {
+  "name": "Unilever",
+  "source": "food"
+ },
+ {
+  "name": "Vestey Group",
+  "source": "food"
+ },
+ {
+  "name": "Waitrose",
+  "source": "food"
+ },
+ {
+  "name": "Walkers' Nonsuch",
+  "source": "food"
+ },
+ {
+  "name": "Walkers Shortbread",
+  "source": "food"
+ },
+ {
+  "name": "Warburtons",
+  "source": "food"
+ },
+ {
+  "name": "Warrens Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Welcome Break",
+  "source": "food"
+ },
+ {
+  "name": "Whitbread",
+  "source": "food"
+ },
+ {
+  "name": "Whitby Seafoods Ltd",
+  "source": "food"
+ },
+ {
+  "name": "Wilkin & Sons",
+  "source": "food"
+ },
+ {
+  "name": "Wrights Pies",
+  "source": "food"
+ },
+ {
+  "name": "Alvarado Street Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Big Apple Bagels",
+  "source": "food"
+ },
+ {
+  "name": "Blue Chip Cookies",
+  "source": "food"
+ },
+ {
+  "name": "Boudin Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Breadsmith",
+  "source": "food"
+ },
+ {
+  "name": "Carlo's Bake Shop",
+  "source": "food"
+ },
+ {
+  "name": "Cavanagh Company",
+  "source": "food"
+ },
+ {
+  "name": "Claxton Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Collin Street Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Flowers Foods",
+  "source": "food"
+ },
+ {
+  "name": "Great Harvest Bread Company",
+  "source": "food"
+ },
+ {
+  "name": "Levain Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Liz Lovely",
+  "source": "food"
+ },
+ {
+  "name": "Martin's Famous Pastry Shoppe, Inc.",
+  "source": "food"
+ },
+ {
+  "name": "Mrs. Fields",
+  "source": "food"
+ },
+ {
+  "name": "Orwasher's bakery",
+  "source": "food"
+ },
+ {
+  "name": "Pillsbury Company",
+  "source": "food"
+ },
+ {
+  "name": "Schmidt Baking Company",
+  "source": "food"
+ },
+ {
+  "name": "Semifreddi's Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Sprinkles Cupcakes",
+  "source": "food"
+ },
+ {
+  "name": "Sunbeam Bread",
+  "source": "food"
+ },
+ {
+  "name": "United States Bakery",
+  "source": "food"
+ },
+ {
+  "name": "Voodoo Doughnut",
+  "source": "food"
+ },
+ {
+  "name": "Westminster Cracker Company",
+  "source": "food"
+ },
+ {
+  "name": "Andersons",
+  "source": "food"
+ },
+ {
+  "name": "Archer Daniels Midland",
+  "source": "food"
+ },
+ {
+  "name": "Bob's Red Mill",
+  "source": "food"
+ },
+ {
+  "name": "Bunge Limited",
+  "source": "food"
+ },
+ {
+  "name": "Cargill",
+  "source": "food"
+ },
+ {
+  "name": "CHS Inc.",
+  "source": "food"
+ },
+ {
+  "name": "ContiGroup Companies",
+  "source": "food"
+ },
+ {
+  "name": "Fuji Food",
+  "source": "food"
+ },
+ {
+  "name": "Gavilon",
+  "source": "food"
+ },
+ {
+  "name": "Kellogg's",
+  "source": "food"
+ },
+ {
+  "name": "King Arthur Flour",
+  "source": "food"
+ },
+ {
+  "name": "Leavitt Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Little Crow Foods",
+  "source": "food"
+ },
+ {
+  "name": "Love Grown Foods",
+  "source": "food"
+ },
+ {
+  "name": "Magnolia Bakery",
+  "source": "food"
+ },
+ {
+  "name": "MFA Incorporated",
+  "source": "food"
+ },
+ {
+  "name": "Peanut Butter & Co.",
+  "source": "food"
+ },
+ {
+  "name": "POET",
+  "source": "food"
+ },
+ {
+  "name": "Riceland Foods",
+  "source": "food"
+ },
+ {
+  "name": "U.S. Mills",
+  "source": "food"
+ },
+ {
+  "name": "Amano Artisan Chocolate",
+  "source": "food"
+ },
+ {
+  "name": "American Licorice Company",
+  "source": "food"
+ },
+ {
+  "name": "Annabelle Candy Company",
+  "source": "food"
+ },
+ {
+  "name": "Askinosie Chocolate",
+  "source": "food"
+ },
+ {
+  "name": "Boyer Brothers",
+  "source": "food"
+ },
+ {
+  "name": "Brach's",
+  "source": "food"
+ },
+ {
+  "name": "Brown and Haley",
+  "source": "food"
+ },
+ {
+  "name": "Carolina Foods",
+  "source": "food"
+ },
+ {
+  "name": "Chagrin Falls Popcorn Shop",
+  "source": "food"
+ },
+ {
+  "name": "Chocolove",
+  "source": "food"
+ },
+ {
+  "name": "Dagoba Chocolate",
+  "source": "food"
+ },
+ {
+  "name": "Dan's Chocolates",
+  "source": "food"
+ },
+ {
+  "name": "Dylan's Candy Bar",
+  "source": "food"
+ },
+ {
+  "name": "Friesinger's Candies",
+  "source": "food"
+ },
+ {
+  "name": "Gertrude Hawk Chocolates",
+  "source": "food"
+ },
+ {
+  "name": "Goetze's Candy Company",
+  "source": "food"
+ },
+ {
+  "name": "Guittard Chocolate Company",
+  "source": "food"
+ },
+ {
+  "name": "Hershey Company",
+  "source": "food"
+ },
+ {
+  "name": "Idaho Candy Company",
+  "source": "food"
+ },
+ {
+  "name": "Impact Confections",
+  "source": "food"
+ },
+ {
+  "name": "Jelly Belly",
+  "source": "food"
+ },
+ {
+  "name": "Joyva",
+  "source": "food"
+ },
+ {
+  "name": "Just Born",
+  "source": "food"
+ },
+ {
+  "name": "Marich Confectionery",
+  "source": "food"
+ },
+ {
+  "name": "Mars, Incorporated",
+  "source": "food"
+ },
+ {
+  "name": "Reed's Candy",
+  "source": "food"
+ },
+ {
+  "name": "Rocky Mountain Chocolate Factory",
+  "source": "food"
+ },
+ {
+  "name": "Sanders Confectionery",
+  "source": "food"
+ },
+ {
+  "name": "Sarris Candies",
+  "source": "food"
+ },
+ {
+  "name": "Scharffen Berger Chocolate Maker",
+  "source": "food"
+ },
+ {
+  "name": "Schimpff's Confectionery",
+  "source": "food"
+ },
+ {
+  "name": "See's Candies",
+  "source": "food"
+ },
+ {
+  "name": "Smarties Candy Company",
+  "source": "food"
+ },
+ {
+  "name": "Spangler Candy Company",
+  "source": "food"
+ },
+ {
+  "name": "Taza Chocolate",
+  "source": "food"
+ },
+ {
+  "name": "TCHO",
+  "source": "food"
+ },
+ {
+  "name": "Warrell Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Whetstone Chocolates",
+  "source": "food"
+ },
+ {
+  "name": "Whitman's",
+  "source": "food"
+ },
+ {
+  "name": "All American Foods",
+  "source": "food"
+ },
+ {
+  "name": "Alpenrose Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Aurora Organic Dairy",
+  "source": "food"
+ },
+ {
+  "name": "BelGioioso Cheese",
+  "source": "food"
+ },
+ {
+  "name": "Bittersweet Plantation Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Blue Bell Creameries",
+  "source": "food"
+ },
+ {
+  "name": "Brewster Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Byrne Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Cabot Creamery",
+  "source": "food"
+ },
+ {
+  "name": "Cal-Maine",
+  "source": "food"
+ },
+ {
+  "name": "Cass-Clay",
+  "source": "food"
+ },
+ {
+  "name": "Chaseholm Farm Creamery",
+  "source": "food"
+ },
+ {
+  "name": "Clover Stornetta Farms",
+  "source": "food"
+ },
+ {
+  "name": "Cowgirl Creamery",
+  "source": "food"
+ },
+ {
+  "name": "Crystal Creamery",
+  "source": "food"
+ },
+ {
+  "name": "Cypress Point Creamery",
+  "source": "food"
+ },
+ {
+  "name": "Dairy Farmers of America",
+  "source": "food"
+ },
+ {
+  "name": "Darigold",
+  "source": "food"
+ },
+ {
+  "name": "DCI Cheese Company",
+  "source": "food"
+ },
+ {
+  "name": "Dean Foods",
+  "source": "food"
+ },
+ {
+  "name": "Ellsworth Cooperative Creamery",
+  "source": "food"
+ },
+ {
+  "name": "Galliker's",
+  "source": "food"
+ },
+ {
+  "name": "Gossner Foods",
+  "source": "food"
+ },
+ {
+  "name": "Grafton Village Cheese Company",
+  "source": "food"
+ },
+ {
+  "name": "Happy Cow Creamery",
+  "source": "food"
+ },
+ {
+  "name": "Hershey Creamery Company",
+  "source": "food"
+ },
+ {
+  "name": "Hilmar Cheese Company",
+  "source": "food"
+ },
+ {
+  "name": "Horizon Organic",
+  "source": "food"
+ },
+ {
+  "name": "HP Hood",
+  "source": "food"
+ },
+ {
+  "name": "Joseph Gallo Farms",
+  "source": "food"
+ },
+ {
+  "name": "Land O'Lakes",
+  "source": "food"
+ },
+ {
+  "name": "Leprino Foods",
+  "source": "food"
+ },
+ {
+  "name": "Lifeway Foods",
+  "source": "food"
+ },
+ {
+  "name": "Marin French Cheese Company",
+  "source": "food"
+ },
+ {
+  "name": "Maytag Dairy Farms",
+  "source": "food"
+ },
+ {
+  "name": "Murray's Cheese",
+  "source": "food"
+ },
+ {
+  "name": "Organic Valley",
+  "source": "food"
+ },
+ {
+  "name": "Penn State University Creamery",
+  "source": "food"
+ },
+ {
+  "name": "Prairie Farms Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Schoep's Ice Cream",
+  "source": "food"
+ },
+ {
+  "name": "Schreiber Foods",
+  "source": "food"
+ },
+ {
+  "name": "Shamrock Farms",
+  "source": "food"
+ },
+ {
+  "name": "Smiling Hill Farm",
+  "source": "food"
+ },
+ {
+  "name": "SmithFoods",
+  "source": "food"
+ },
+ {
+  "name": "Sweet Grass Dairy",
+  "source": "food"
+ },
+ {
+  "name": "Tillamook County Creamery Association",
+  "source": "food"
+ },
+ {
+  "name": "United Dairy Farmers",
+  "source": "food"
+ },
+ {
+  "name": "Winchester Cheese Company",
+  "source": "food"
+ },
+ {
+  "name": "Winder Farms",
+  "source": "food"
+ },
+ {
+  "name": "Wisconsin Cheeseman",
+  "source": "food"
+ },
+ {
+  "name": "Yancey's Fancy",
+  "source": "food"
+ },
+ {
+  "name": "Yarnell Ice Cream Co.",
+  "source": "food"
+ },
+ {
+  "name": "Brown-Forman",
+  "source": "food"
+ },
+ {
+  "name": "Monarch Beverage Company",
+  "source": "food"
+ },
+ {
+  "name": "Albertsons",
+  "source": "food"
+ },
+ {
+  "name": "Dollar General",
+  "source": "food"
+ },
+ {
+  "name": "Dollar Tree",
+  "source": "food"
+ },
+ {
+  "name": "Food Lion",
+  "source": "food"
+ },
+ {
+  "name": "Giant Company",
+  "source": "food"
+ },
+ {
+  "name": "Home Depot",
+  "source": "food"
+ },
+ {
+  "name": "Kroger",
+  "source": "food"
+ },
+ {
+  "name": "Lowe's",
+  "source": "food"
+ },
+ {
+  "name": "Macy's, Inc.",
+  "source": "food"
+ },
+ {
+  "name": "Publix",
+  "source": "food"
+ },
+ {
+  "name": "Target Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Walmart",
+  "source": "food"
+ },
+ {
+  "name": "Winn Dixie",
+  "source": "food"
+ },
+ {
+  "name": "Bruce Foods",
+  "source": "food"
+ },
+ {
+  "name": "Catterton Partners",
+  "source": "food"
+ },
+ {
+  "name": "Cherrybrook Kitchen",
+  "source": "food"
+ },
+ {
+  "name": "Eden Foods Inc.",
+  "source": "food"
+ },
+ {
+  "name": "General Mills",
+  "source": "food"
+ },
+ {
+  "name": "Goya Foods",
+  "source": "food"
+ },
+ {
+  "name": "Hormel Foods",
+  "source": "food"
+ },
+ {
+  "name": "Ingredion",
+  "source": "food"
+ },
+ {
+  "name": "Isaly's",
+  "source": "food"
+ },
+ {
+  "name": "Krinos Foods",
+  "source": "food"
+ },
+ {
+  "name": "Kronos Foods",
+  "source": "food"
+ },
+ {
+  "name": "Luck's Incorporated",
+  "source": "food"
+ },
+ {
+  "name": "Manischewitz",
+  "source": "food"
+ },
+ {
+  "name": "Newman's Own",
+  "source": "food"
+ },
+ {
+  "name": "Rhee Bros., Inc.",
+  "source": "food"
+ },
+ {
+  "name": "Richelieu Foods",
+  "source": "food"
+ },
+ {
+  "name": "Rosa Food",
+  "source": "food"
+ },
+ {
+  "name": "Seneca Foods",
+  "source": "food"
+ },
+ {
+  "name": "Streit's",
+  "source": "food"
+ },
+ {
+  "name": "Tabatchnick",
+  "source": "food"
+ },
+ {
+  "name": "Bellisio Foods",
+  "source": "food"
+ },
+ {
+  "name": "Edwards Baking",
+  "source": "food"
+ },
+ {
+  "name": "Mrs. T's Pierogies",
+  "source": "food"
+ },
+ {
+  "name": "Pero Family Farms Food Company",
+  "source": "food"
+ },
+ {
+  "name": "Reser's Fine Foods",
+  "source": "food"
+ },
+ {
+  "name": "Rhino Foods",
+  "source": "food"
+ },
+ {
+  "name": "Rich Products",
+  "source": "food"
+ },
+ {
+  "name": "Ruiz Foods",
+  "source": "food"
+ },
+ {
+  "name": "Schwan Food Company",
+  "source": "food"
+ },
+ {
+  "name": "Tyson Foods",
+  "source": "food"
+ },
+ {
+  "name": "Bauman Family",
+  "source": "food"
+ },
+ {
+  "name": "Blue Diamond Growers",
+  "source": "food"
+ },
+ {
+  "name": "Buddy Fruits",
+  "source": "food"
+ },
+ {
+  "name": "Calavo Growers",
+  "source": "food"
+ },
+ {
+  "name": "Del Monte Foods",
+  "source": "food"
+ },
+ {
+  "name": "Dole Food Company",
+  "source": "food"
+ },
+ {
+  "name": "Driscoll's",
+  "source": "food"
+ },
+ {
+  "name": "Franklin Baker Company",
+  "source": "food"
+ },
+ {
+  "name": "Fresh Del Monte Produce",
+  "source": "food"
+ },
+ {
+  "name": "Frieda's Inc.",
+  "source": "food"
+ },
+ {
+  "name": "Hollandia Produce",
+  "source": "food"
+ },
+ {
+  "name": "Limoneira",
+  "source": "food"
+ },
+ {
+  "name": "Maui Pineapple Company",
+  "source": "food"
+ },
+ {
+  "name": "Morning Star Company",
+  "source": "food"
+ },
+ {
+  "name": "Organically Grown Company",
+  "source": "food"
+ },
+ {
+  "name": "Simple and Crisp",
+  "source": "food"
+ },
+ {
+  "name": "Sunkist Growers, Incorporated",
+  "source": "food"
+ },
+ {
+  "name": "Taylor Farms",
+  "source": "food"
+ },
+ {
+  "name": "Turbana",
+  "source": "food"
+ },
+ {
+  "name": "Boar's Head Provision Company",
+  "source": "food"
+ },
+ {
+  "name": "Burgers' Smokehouse",
+  "source": "food"
+ },
+ {
+  "name": "Columbus Salame",
+  "source": "food"
+ },
+ {
+  "name": "Dakota Beef",
+  "source": "food"
+ },
+ {
+  "name": "Daniele, Inc.",
+  "source": "food"
+ },
+ {
+  "name": "Dietz & Watson",
+  "source": "food"
+ },
+ {
+  "name": "Empire Kosher",
+  "source": "food"
+ },
+ {
+  "name": "Foster Farms",
+  "source": "food"
+ },
+ {
+  "name": "Hatfield Quality Meats",
+  "source": "food"
+ },
+ {
+  "name": "Heritage Foods USA",
+  "source": "food"
+ },
+ {
+  "name": "Kansas City Steak Company",
+  "source": "food"
+ },
+ {
+  "name": "Kiolbassa Sausage",
+  "source": "food"
+ },
+ {
+  "name": "Koegel Meat Company",
+  "source": "food"
+ },
+ {
+  "name": "Marathon Enterprises, Inc.",
+  "source": "food"
+ },
+ {
+  "name": "Niman Ranch",
+  "source": "food"
+ },
+ {
+  "name": "Omaha Steaks",
+  "source": "food"
+ },
+ {
+  "name": "Perdue Farms",
+  "source": "food"
+ },
+ {
+  "name": "Tallgrass Beef Company",
+  "source": "food"
+ },
+ {
+  "name": "Usinger's",
+  "source": "food"
+ },
+ {
+  "name": "Zacky Farms",
+  "source": "food"
+ },
+ {
+  "name": "Chipotle Mexican Grill",
+  "source": "food"
+ },
+ {
+  "name": "Domino's Pizza",
+  "source": "food"
+ },
+ {
+  "name": "McDonald's",
+  "source": "food"
+ },
+ {
+  "name": "Starbucks",
+  "source": "food"
+ },
+ {
+  "name": "Wendy's Company",
+  "source": "food"
+ },
+ {
+  "name": "Yum! Brands",
+  "source": "food"
+ },
+ {
+  "name": "Blair's Sauces and Snacks",
+  "source": "food"
+ },
+ {
+  "name": "Charles Chips",
+  "source": "food"
+ },
+ {
+  "name": "Elmer's Fine Foods",
+  "source": "food"
+ },
+ {
+  "name": "Golden Flake",
+  "source": "food"
+ },
+ {
+  "name": "Hain Celestial Group",
+  "source": "food"
+ },
+ {
+  "name": "J & J Snack Foods",
+  "source": "food"
+ },
+ {
+  "name": "Jel Sert",
+  "source": "food"
+ },
+ {
+  "name": "Martin's Potato Chips",
+  "source": "food"
+ },
+ {
+  "name": "McCormick & Company",
+  "source": "food"
+ },
+ {
+  "name": "McKee Foods",
+  "source": "food"
+ },
+ {
+  "name": "Mike-sell's",
+  "source": "food"
+ },
+ {
+  "name": "Oberto Sausage Company",
+  "source": "food"
+ },
+ {
+  "name": "Old Dutch Foods",
+  "source": "food"
+ },
+ {
+  "name": "Robert's American Gourmet Food",
+  "source": "food"
+ },
+ {
+  "name": "Shearer's Foods",
+  "source": "food"
+ },
+ {
+  "name": "Snak King",
+  "source": "food"
+ },
+ {
+  "name": "Snyder's-Lance",
+  "source": "food"
+ },
+ {
+  "name": "Thanasi Foods",
+  "source": "food"
+ },
+ {
+  "name": "Utz Quality Foods",
+  "source": "food"
+ },
+ {
+  "name": "Wise Foods",
+  "source": "food"
+ },
+ {
+  "name": "Wyandot Snacks",
+  "source": "food"
+ },
+ {
+  "name": "Badia Spices",
+  "source": "food"
+ },
+ {
+  "name": "Basic Food Flavors",
+  "source": "food"
+ },
+ {
+  "name": "Crystal Hot Sauce",
+  "source": "food"
+ },
+ {
+  "name": "Dave's Gourmet",
+  "source": "food"
+ },
+ {
+  "name": "Dog-Gone Sauce",
+  "source": "food"
+ },
+ {
+  "name": "Frank's RedHot",
+  "source": "food"
+ },
+ {
+  "name": "French's",
+  "source": "food"
+ },
+ {
+  "name": "Frontier Natural Products Co-op",
+  "source": "food"
+ },
+ {
+  "name": "Gold Pure Food Products Co.",
+  "source": "food"
+ },
+ {
+  "name": "Herlocher Foods",
+  "source": "food"
+ },
+ {
+  "name": "Huy Fong Foods",
+  "source": "food"
+ },
+ {
+  "name": "J&D's Down Home Enterprises",
+  "source": "food"
+ },
+ {
+  "name": "J.M. Smucker Company",
+  "source": "food"
+ },
+ {
+  "name": "Mezzetta",
+  "source": "food"
+ },
+ {
+  "name": "Mrs. Cubbison's Foods",
+  "source": "food"
+ },
+ {
+  "name": "Mt. Olive Pickle Company",
+  "source": "food"
+ },
+ {
+  "name": "Odell's",
+  "source": "food"
+ },
+ {
+  "name": "Plochman's",
+  "source": "food"
+ },
+ {
+  "name": "Pompeian, Inc.",
+  "source": "food"
+ },
+ {
+  "name": "Pure Indian Foods",
+  "source": "food"
+ },
+ {
+  "name": "Reily Foods Company",
+  "source": "food"
+ },
+ {
+  "name": "Silver Spring Foods",
+  "source": "food"
+ },
+ {
+  "name": "Solo Foods",
+  "source": "food"
+ },
+ {
+  "name": "Tabasco sauce",
+  "source": "food"
+ },
+ {
+  "name": "Tapatío hot sauce",
+  "source": "food"
+ },
+ {
+  "name": "Texas Pete",
+  "source": "food"
+ },
+ {
+  "name": "Urban Accents",
+  "source": "food"
+ },
+ {
+  "name": "Wickles",
+  "source": "food"
+ },
+ {
+  "name": "Wing-Time",
+  "source": "food"
+ },
+ {
+  "name": "Amalgamated Sugar Company",
+  "source": "food"
+ },
+ {
+  "name": "American Crystal Sugar Company",
+  "source": "food"
+ },
+ {
+  "name": "American Sugar Refining",
+  "source": "food"
+ },
+ {
+  "name": "Michigan Sugar",
+  "source": "food"
+ },
+ {
+  "name": "Seaboard Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Spreckels Sugar Company",
+  "source": "food"
+ },
+ {
+  "name": "US Sugar Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Western Sugar Cooperative",
+  "source": "food"
+ },
+ {
+  "name": "Campbell Soup Company",
+  "source": "food"
+ },
+ {
+  "name": "Coca-Cola Company",
+  "source": "food"
+ },
+ {
+  "name": "Conagra Brands",
+  "source": "food"
+ },
+ {
+  "name": "Dairy Queen",
+  "source": "food"
+ },
+ {
+  "name": "Domino's",
+  "source": "food"
+ },
+ {
+  "name": "Dunkin' Donuts",
+  "source": "food"
+ },
+ {
+  "name": "Keurig Dr Pepper",
+  "source": "food"
+ },
+ {
+  "name": "Krispy Kreme",
+  "source": "food"
+ },
+ {
+  "name": "PepsiCo",
+  "source": "food"
+ },
+ {
+  "name": "Alimentos La Giralda",
+  "source": "food"
+ },
+ {
+  "name": "Chocolates El Rey",
+  "source": "food"
+ },
+ {
+  "name": "Empresas Polar",
+  "source": "food"
+ },
+ {
+  "name": "An Giang Coffee",
+  "source": "food"
+ },
+ {
+  "name": "Bien Hoa Sugar",
+  "source": "food"
+ },
+ {
+  "name": "Cuulong Fish",
+  "source": "food"
+ },
+ {
+  "name": "Hai Ha Confectionery",
+  "source": "food"
+ },
+ {
+  "name": "Hanoimilk",
+  "source": "food"
+ },
+ {
+  "name": "Hue Beer",
+  "source": "food"
+ },
+ {
+  "name": "Kinh Do Corporation",
+  "source": "food"
+ },
+ {
+  "name": "Sabeco",
+  "source": "food"
+ },
+ {
+  "name": "Vinamilk",
+  "source": "food"
+ },
+ {
+  "name": "Kirkland & Ellis",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Latham & Watkins",
+  "source": "lawfirms"
+ },
+ {
+  "name": "A&O Shearman",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Skadden, Arps, Slate, Meagher & Flom",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Gibson Dunn",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Simpson Thacher & Bartlett",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Sidley Austin",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Ropes & Gray",
+  "source": "lawfirms"
+ },
+ {
+  "name": "White & Case",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Morgan, Lewis & Bockius",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Clifford Chance",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Freshfields",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Linklaters",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Hogan Lovells",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Jones Day",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Goodwin Procter",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Paul, Weiss, Rifkind, Wharton & Garrison",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Greenberg Traurig",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Davis Polk & Wardwell",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Quinn Emanuel Urquhart & Sullivan",
+  "source": "lawfirms"
+ },
+ {
+  "name": "King & Spalding",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Paul Hastings",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Sullivan & Cromwell",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Holland & Knight",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Weil, Gotshal & Manges",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Mayer Brown",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Milbank",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Willkie Farr & Gallagher",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Covington & Burling",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Herbert Smith Freehills Kramer",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Cleary Gottlieb Steen & Hamilton",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Eversheds Sutherland",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Debevoise & Plimpton",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Wilmer Cutler Pickering Hale and Dorr",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Orrick, Herrington & Sutcliffe",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Dechert",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Reed Smith",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Akin Gump Strauss Hauer & Feld",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Wilson, Sonsini, Goodrich & Rosati",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Morrison & Foerster",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Yingke",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Proskauer Rose",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Alston & Bird",
+  "source": "lawfirms"
+ },
+ {
+  "name": "K&L Gates",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Foley & Lardner",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Winston & Strawn",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Perkins Coie",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Sheppard, Mullin, Richter & Hampton",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Cravath, Swaine & Moore",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Wachtell, Lipton, Rosen & Katz",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Arnold & Porter",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Troutman Pepper Locke",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Fried, Frank, Harris, Shriver & Jacobson",
+  "source": "lawfirms"
+ },
+ {
+  "name": "McGuireWoods",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Kim & Chang",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Clyde & Co",
+  "source": "lawfirms"
+ },
+ {
+  "name": "O’Melveny & Myers",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Faegre Drinker",
+  "source": "lawfirms"
+ },
+ {
+  "name": "BakerHostetler",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Vinson & Elkins",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Polsinelli",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Nelson Mullins Riley & Scarborough",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Seyfarth Shaw",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Hunton Andrews Kurth",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Pinsent Masons",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Slaughter and May",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Katten Muchin Rosenman",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Bryan Cave Leighton Paisner",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Baker Botts",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Pillsbury Winthrop Shaw Pittman",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Fenwick & West",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Simmons & Simmons",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Fox Rothschild",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Gordon Rees Scully Mansukhani",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Lewis Brisbois Bisgaard & Smith",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Gowling WLG",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Barnes & Thornburg",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Blank Rome",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Bird & Bird",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Littler Mendelson",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Ogletree, Deakins, Nash, Smoak & Stewart",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Blake, Cassels & Graydon",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Cozen O'Connor",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Husch Blackwell",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Addleshaw Goddard",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Taft Stettinius & Hollister",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Mintz, Levin, Cohn, Ferris, Glovsky, and Popeo",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Jackson Lewis",
+  "source": "lawfirms"
+ },
+ {
+  "name": "Adex Mining",
+  "source": "mining"
+ },
+ {
+  "name": "Aditya Birla Group",
+  "source": "mining"
+ },
+ {
+  "name": "African Rainbow Minerals",
+  "source": "mining"
+ },
+ {
+  "name": "Agnico Eagle",
+  "source": "mining"
+ },
+ {
+  "name": "Anaconda Copper",
+  "source": "mining"
+ },
+ {
+  "name": "Anglo American (mining)",
+  "source": "mining"
+ },
+ {
+  "name": "Anglo Platinum",
+  "source": "mining"
+ },
+ {
+  "name": "AngloGold Ashanti",
+  "source": "mining"
+ },
+ {
+  "name": "Antofagasta Minerals",
+  "source": "mining"
+ },
+ {
+  "name": "Aricom",
+  "source": "mining"
+ },
+ {
+  "name": "Arctic Canadian Diamond Company",
+  "source": "mining"
+ },
+ {
+  "name": "Aurubis",
+  "source": "mining"
+ },
+ {
+  "name": "Avalon Advanced Materials",
+  "source": "mining"
+ },
+ {
+  "name": "Bard Ventures Company",
+  "source": "mining"
+ },
+ {
+  "name": "Barrick Gold",
+  "source": "mining"
+ },
+ {
+  "name": "BHP",
+  "source": "mining"
+ },
+ {
+  "name": "Blaafarveværket",
+  "source": "mining"
+ },
+ {
+  "name": "Blackfire Exploration",
+  "source": "mining"
+ },
+ {
+  "name": "Bougainville Copper",
+  "source": "mining"
+ },
+ {
+  "name": "Breakwater Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Cambior",
+  "source": "mining"
+ },
+ {
+  "name": "Candente Copper",
+  "source": "mining"
+ },
+ {
+  "name": "Canico Resource",
+  "source": "mining"
+ },
+ {
+  "name": "Cape Breton Development Corporation",
+  "source": "mining"
+ },
+ {
+  "name": "Chinalco",
+  "source": "mining"
+ },
+ {
+  "name": "China Molybdenum",
+  "source": "mining"
+ },
+ {
+  "name": "Cleveland-Cliffs",
+  "source": "mining"
+ },
+ {
+  "name": "CNK International",
+  "source": "mining"
+ },
+ {
+  "name": "Coal & Allied",
+  "source": "mining"
+ },
+ {
+  "name": "Coal India",
+  "source": "mining"
+ },
+ {
+  "name": "Codelco",
+  "source": "mining"
+ },
+ {
+  "name": "Colorado Fuel & Iron",
+  "source": "mining"
+ },
+ {
+  "name": "Compañía Minera del Pacífico",
+  "source": "mining"
+ },
+ {
+  "name": "Companhia Siderúrgica Nacional",
+  "source": "mining"
+ },
+ {
+  "name": "Compass Minerals",
+  "source": "mining"
+ },
+ {
+  "name": "Compass Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Consolidated Zinc",
+  "source": "mining"
+ },
+ {
+  "name": "Cordero Mining Company",
+  "source": "mining"
+ },
+ {
+  "name": "Crowflight Minerals",
+  "source": "mining"
+ },
+ {
+  "name": "Cuniptau Mines",
+  "source": "mining"
+ },
+ {
+  "name": "Cuprom",
+  "source": "mining"
+ },
+ {
+  "name": "Cyprus Mines Corporation",
+  "source": "mining"
+ },
+ {
+  "name": "De Beers",
+  "source": "mining"
+ },
+ {
+  "name": "Debswana",
+  "source": "mining"
+ },
+ {
+  "name": "Doe Run Company",
+  "source": "mining"
+ },
+ {
+  "name": "Dominion Steel and Coal Corporation",
+  "source": "mining"
+ },
+ {
+  "name": "Drummond Company",
+  "source": "mining"
+ },
+ {
+  "name": "Dundee Corporation",
+  "source": "mining"
+ },
+ {
+  "name": "Echo Bay Mines",
+  "source": "mining"
+ },
+ {
+  "name": "Eldorado Gold",
+  "source": "mining"
+ },
+ {
+  "name": "Eldorado Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Empire Zinc Company",
+  "source": "mining"
+ },
+ {
+  "name": "ENDIAMA",
+  "source": "mining"
+ },
+ {
+  "name": "Energy Resources of Australia",
+  "source": "mining"
+ },
+ {
+  "name": "Falconbridge Nickel Mines",
+  "source": "mining"
+ },
+ {
+  "name": "First Quantum Minerals",
+  "source": "mining"
+ },
+ {
+  "name": "FNX Mining",
+  "source": "mining"
+ },
+ {
+  "name": "Freeport-McMoRan",
+  "source": "mining"
+ },
+ {
+  "name": "Gécamines",
+  "source": "mining"
+ },
+ {
+  "name": "Glamis Gold",
+  "source": "mining"
+ },
+ {
+  "name": "Glencore",
+  "source": "mining"
+ },
+ {
+  "name": "Gogebic Taconite",
+  "source": "mining"
+ },
+ {
+  "name": "Gold Fields",
+  "source": "mining"
+ },
+ {
+  "name": "Goldcorp",
+  "source": "mining"
+ },
+ {
+  "name": "Growmax Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Grupo México",
+  "source": "mining"
+ },
+ {
+  "name": "Hearst, Haggin, Tevis and Co.",
+  "source": "mining"
+ },
+ {
+  "name": "Hillsborough Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Hindustan Zinc",
+  "source": "mining"
+ },
+ {
+  "name": "Hochschild Mining",
+  "source": "mining"
+ },
+ {
+  "name": "Hollinger Mines",
+  "source": "mining"
+ },
+ {
+  "name": "International Coal Group",
+  "source": "mining"
+ },
+ {
+  "name": "Iron Ore Company of Canada",
+  "source": "mining"
+ },
+ {
+  "name": "Kazakhmys",
+  "source": "mining"
+ },
+ {
+  "name": "Kenmare Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Kennecott Utah Copper",
+  "source": "mining"
+ },
+ {
+  "name": "KGHM Polska Miedz",
+  "source": "mining"
+ },
+ {
+  "name": "Kinross Gold",
+  "source": "mining"
+ },
+ {
+  "name": "Korea General Magnesia Clinker Industry Group",
+  "source": "mining"
+ },
+ {
+  "name": "Korea General Zinc Industry Group",
+  "source": "mining"
+ },
+ {
+  "name": "LKAB",
+  "source": "mining"
+ },
+ {
+  "name": "Lonmin",
+  "source": "mining"
+ },
+ {
+  "name": "Lucara Diamond",
+  "source": "mining"
+ },
+ {
+  "name": "Lundin Mining",
+  "source": "mining"
+ },
+ {
+  "name": "Luzenac Group",
+  "source": "mining"
+ },
+ {
+  "name": "Managem",
+  "source": "mining"
+ },
+ {
+  "name": "Martin Marietta Materials",
+  "source": "mining"
+ },
+ {
+  "name": "Massey Energy",
+  "source": "mining"
+ },
+ {
+  "name": "Metallica Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Minera Escondida",
+  "source": "mining"
+ },
+ {
+  "name": "Mineral Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Mond Nickel Company",
+  "source": "mining"
+ },
+ {
+  "name": "Mount Lyell Mining & Railway Company",
+  "source": "mining"
+ },
+ {
+  "name": "MSPL",
+  "source": "mining"
+ },
+ {
+  "name": "Nan Nan Resources",
+  "source": "mining"
+ },
+ {
+  "name": "NERCO",
+  "source": "mining"
+ },
+ {
+  "name": "Nevsun Resources",
+  "source": "mining"
+ },
+ {
+  "name": "New Hope Group",
+  "source": "mining"
+ },
+ {
+  "name": "New Jersey Zinc Company",
+  "source": "mining"
+ },
+ {
+  "name": "Newcrest",
+  "source": "mining"
+ },
+ {
+  "name": "Newmont",
+  "source": "mining"
+ },
+ {
+  "name": "Nirex",
+  "source": "mining"
+ },
+ {
+  "name": "Nordic Mining",
+  "source": "mining"
+ },
+ {
+  "name": "North American Palladium",
+  "source": "mining"
+ },
+ {
+  "name": "North Limited",
+  "source": "mining"
+ },
+ {
+  "name": "Northern Star Resources",
+  "source": "mining"
+ },
+ {
+  "name": "NovaGold Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Orex Exploration",
+  "source": "mining"
+ },
+ {
+  "name": "Outokumpu",
+  "source": "mining"
+ },
+ {
+  "name": "Pacific Coast Borax Company",
+  "source": "mining"
+ },
+ {
+  "name": "Palabora Mining Company",
+  "source": "mining"
+ },
+ {
+  "name": "Pan American Silver Corporation",
+  "source": "mining"
+ },
+ {
+  "name": "Pasminco",
+  "source": "mining"
+ },
+ {
+  "name": "Peko-Wallsend",
+  "source": "mining"
+ },
+ {
+  "name": "Peter Hambro Mining",
+  "source": "mining"
+ },
+ {
+  "name": "Petra Diamonds",
+  "source": "mining"
+ },
+ {
+  "name": "Phelps Dodge",
+  "source": "mining"
+ },
+ {
+  "name": "Pilbara Iron",
+  "source": "mining"
+ },
+ {
+  "name": "Polyus Gold",
+  "source": "mining"
+ },
+ {
+  "name": "PotashCorp",
+  "source": "mining"
+ },
+ {
+  "name": "QCoal",
+  "source": "mining"
+ },
+ {
+  "name": "QIT-Fer et Titane",
+  "source": "mining"
+ },
+ {
+  "name": "QIT Madagascar Minerals",
+  "source": "mining"
+ },
+ {
+  "name": "Reading Anthracite Company",
+  "source": "mining"
+ },
+ {
+  "name": "Rio Tinto Coal Australia",
+  "source": "mining"
+ },
+ {
+  "name": "Rockwell Diamonds",
+  "source": "mining"
+ },
+ {
+  "name": "Saskatchewan Minerals",
+  "source": "mining"
+ },
+ {
+  "name": "Semafo",
+  "source": "mining"
+ },
+ {
+  "name": "Sesa Goa",
+  "source": "mining"
+ },
+ {
+  "name": "Sherritt International",
+  "source": "mining"
+ },
+ {
+  "name": "Sibanye Gold",
+  "source": "mining"
+ },
+ {
+  "name": "Siberian Business Union",
+  "source": "mining"
+ },
+ {
+  "name": "Sifto Canada",
+  "source": "mining"
+ },
+ {
+  "name": "Silver Standard Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Silver Wheaton",
+  "source": "mining"
+ },
+ {
+  "name": "Silvercorp Metals",
+  "source": "mining"
+ },
+ {
+  "name": "Sociedad Química y Minera",
+  "source": "mining"
+ },
+ {
+  "name": "Soma Kömür İşletmeleri A.Ş.",
+  "source": "mining"
+ },
+ {
+  "name": "South32",
+  "source": "mining"
+ },
+ {
+  "name": "South American Silver Corporation",
+  "source": "mining"
+ },
+ {
+  "name": "Store Norske Spitsbergen Kulkompani",
+  "source": "mining"
+ },
+ {
+  "name": "Teck Cominco",
+  "source": "mining"
+ },
+ {
+  "name": "Thompson Creek Metals",
+  "source": "mining"
+ },
+ {
+  "name": "Titanium Resources Group",
+  "source": "mining"
+ },
+ {
+  "name": "Tiwest Joint Venture",
+  "source": "mining"
+ },
+ {
+  "name": "UK Coal",
+  "source": "mining"
+ },
+ {
+  "name": "Vale Inco",
+  "source": "mining"
+ },
+ {
+  "name": "Vedanta Resources",
+  "source": "mining"
+ },
+ {
+  "name": "Victor-American Fuel Company",
+  "source": "mining"
+ },
+ {
+  "name": "Vulcan Materials Company",
+  "source": "mining"
+ },
+ {
+  "name": "Xstrata",
+  "source": "mining"
+ },
+ {
+  "name": "Yamana Gold",
+  "source": "mining"
+ },
+ {
+  "name": "Yancoal",
+  "source": "mining"
+ },
+ {
+  "name": "Zinifex",
+  "source": "mining"
+ },
+ {
   "name": "Savic Motorcycles",
   "source": "motorcycles"
  },
@@ -7114,6 +12230,518 @@
  {
   "name": "ASEA",
   "source": "rail"
+ },
+ {
+  "name": "TransNamib",
+  "source": "railways"
+ },
+ {
+  "name": "Peak Tram",
+  "source": "railways"
+ },
+ {
+  "name": "Hong Kong Tramways",
+  "source": "railways"
+ },
+ {
+  "name": "Korean State Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Pakistan Railways",
+  "source": "railways"
+ },
+ {
+  "name": "Lahore Metro",
+  "source": "railways"
+ },
+ {
+  "name": "Taiwan High Speed Rail Corporation",
+  "source": "railways"
+ },
+ {
+  "name": "Taiwan Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Demirýollary",
+  "source": "railways"
+ },
+ {
+  "name": "South Caucasus Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Yerevan Metro",
+  "source": "railways"
+ },
+ {
+  "name": "ÖBB",
+  "source": "railways"
+ },
+ {
+  "name": "Belarusian Railway",
+  "source": "railways"
+ },
+ {
+  "name": "VLTJ",
+  "source": "railways"
+ },
+ {
+  "name": "Georgian Railway",
+  "source": "railways"
+ },
+ {
+  "name": "AKN Eisenbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Albtal-Verkehrs-Gesellschaft",
+  "source": "railways"
+ },
+ {
+  "name": "Bayerische Oberlandbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Breisgau-S-Bahn",
+  "source": "railways"
+ },
+ {
+  "name": "Bayerische Zugspitzbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Cantus Verkehrsgesellschaft",
+  "source": "railways"
+ },
+ {
+  "name": "Chiemsee-Bahn",
+  "source": "railways"
+ },
+ {
+  "name": "Drachenfelsbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Erfurter Bahn",
+  "source": "railways"
+ },
+ {
+  "name": "Eurobahn",
+  "source": "railways"
+ },
+ {
+  "name": "Eisenbahnen und Verkehrsbetriebe Elbe-Weser",
+  "source": "railways"
+ },
+ {
+  "name": "Königstein Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Hessische Landesbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Harzer Schmalspurbahnen",
+  "source": "railways"
+ },
+ {
+  "name": "Kurhessenbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Mecklenburgische Bäderbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Metronom Eisenbahngesellschaft",
+  "source": "railways"
+ },
+ {
+  "name": "Nordseebahn",
+  "source": "railways"
+ },
+ {
+  "name": "Niederbarnimer Eisenbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Nord-Ostsee-Bahn",
+  "source": "railways"
+ },
+ {
+  "name": "NordWestBahn",
+  "source": "railways"
+ },
+ {
+  "name": "Ostdeutsche Eisenbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Oberpfalzbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Ortenau-S-Bahn",
+  "source": "railways"
+ },
+ {
+  "name": "Prignitzer Eisenbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Regentalbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Rurtalbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Rügensche Kleinbahn",
+  "source": "railways"
+ },
+ {
+  "name": "S-Bahn Berlin",
+  "source": "railways"
+ },
+ {
+  "name": "Sächsisch-Böhmische-Eisenbahn",
+  "source": "railways"
+ },
+ {
+  "name": "S-Bahn Hamburg",
+  "source": "railways"
+ },
+ {
+  "name": "SüdostBayernBahn",
+  "source": "railways"
+ },
+ {
+  "name": "Sächsisch-Oberlausitzer Eisenbahngesellschaft",
+  "source": "railways"
+ },
+ {
+  "name": "Stuttgarter Straßenbahnen AG",
+  "source": "railways"
+ },
+ {
+  "name": "Strausberger Eisenbahn GmbH",
+  "source": "railways"
+ },
+ {
+  "name": "Südwestdeutsche Verkehrs AG",
+  "source": "railways"
+ },
+ {
+  "name": "Trans regio",
+  "source": "railways"
+ },
+ {
+  "name": "Trossinger Eisenbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Trilex",
+  "source": "railways"
+ },
+ {
+  "name": "Usedomer Bäderbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Vogtlandbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Verkehrsbetriebe Karlsruhe",
+  "source": "railways"
+ },
+ {
+  "name": "Vectus Verkehrsgesellschaft",
+  "source": "railways"
+ },
+ {
+  "name": "VIAS GmbH",
+  "source": "railways"
+ },
+ {
+  "name": "Waldbahn",
+  "source": "railways"
+ },
+ {
+  "name": "WestfalenBahn",
+  "source": "railways"
+ },
+ {
+  "name": "Württembergische Eisenbahn-Gesellschaft",
+  "source": "railways"
+ },
+ {
+  "name": "Wendelsteinbahn",
+  "source": "railways"
+ },
+ {
+  "name": "Elliniko Metro",
+  "source": "railways"
+ },
+ {
+  "name": "DB Cargo",
+  "source": "railways"
+ },
+ {
+  "name": "ERS Railways",
+  "source": "railways"
+ },
+ {
+  "name": "CFR Călători",
+  "source": "railways"
+ },
+ {
+  "name": "Compania Națională de Căi Ferate CFR",
+  "source": "railways"
+ },
+ {
+  "name": "Bergslagernas Järnvägar",
+  "source": "railways"
+ },
+ {
+  "name": "Canadian National Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Canadian Pacific Railway",
+  "source": "railways"
+ },
+ {
+  "name": "GO Transit",
+  "source": "railways"
+ },
+ {
+  "name": "Via Rail",
+  "source": "railways"
+ },
+ {
+  "name": "Ontario Northland Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Rocky Mountaineer",
+  "source": "railways"
+ },
+ {
+  "name": "White Pass and Yukon Route",
+  "source": "railways"
+ },
+ {
+  "name": "New Brunswick Southern Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Great Western Railway (Saskatchewan)",
+  "source": "railways"
+ },
+ {
+  "name": "Hudson Bay Railway (1997)",
+  "source": "railways"
+ },
+ {
+  "name": "Réseau de transport métropolitain",
+  "source": "railways"
+ },
+ {
+  "name": "West Coast Express",
+  "source": "railways"
+ },
+ {
+  "name": "OC Transpo",
+  "source": "railways"
+ },
+ {
+  "name": "Société de transport de Montréal",
+  "source": "railways"
+ },
+ {
+  "name": "Toronto Transit Commission",
+  "source": "railways"
+ },
+ {
+  "name": "Calgary Transit",
+  "source": "railways"
+ },
+ {
+  "name": "Edmonton Transit Service",
+  "source": "railways"
+ },
+ {
+  "name": "Amtrak",
+  "source": "railways"
+ },
+ {
+  "name": "Baltimore and Ohio Railroad",
+  "source": "railways"
+ },
+ {
+  "name": "BNSF Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Burlington Northern Railroad",
+  "source": "railways"
+ },
+ {
+  "name": "Central Pacific Railroad",
+  "source": "railways"
+ },
+ {
+  "name": "Chicago, Burlington and Quincy Railroad",
+  "source": "railways"
+ },
+ {
+  "name": "CSX Transportation",
+  "source": "railways"
+ },
+ {
+  "name": "Kansas City Southern Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Metra",
+  "source": "railways"
+ },
+ {
+  "name": "Metropolitan Transportation Authority",
+  "source": "railways"
+ },
+ {
+  "name": "Milwaukee Road",
+  "source": "railways"
+ },
+ {
+  "name": "Missouri Pacific",
+  "source": "railways"
+ },
+ {
+  "name": "New York Central Railroad",
+  "source": "railways"
+ },
+ {
+  "name": "New York, New Haven and Hartford Railroad",
+  "source": "railways"
+ },
+ {
+  "name": "NJ Transit",
+  "source": "railways"
+ },
+ {
+  "name": "Nickel Plate Road",
+  "source": "railways"
+ },
+ {
+  "name": "Norfolk Southern Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Norfolk and Western Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Pennsylvania Railroad",
+  "source": "railways"
+ },
+ {
+  "name": "Santa Fe Railway",
+  "source": "railways"
+ },
+ {
+  "name": "Southern Pacific Transportation Company",
+  "source": "railways"
+ },
+ {
+  "name": "SEPTA",
+  "source": "railways"
+ },
+ {
+  "name": "Tri-Rail",
+  "source": "railways"
+ },
+ {
+  "name": "Union Pacific Railroad",
+  "source": "railways"
+ },
+ {
+  "name": "Wisconsin and Southern Railroad",
+  "source": "railways"
+ },
+ {
+  "name": "Qube Holdings",
+  "source": "railways"
+ },
+ {
+  "name": "NSW TrainLink",
+  "source": "railways"
+ },
+ {
+  "name": "Journey Beyond",
+  "source": "railways"
+ },
+ {
+  "name": "Bowmans Rail",
+  "source": "railways"
+ },
+ {
+  "name": "Transwa",
+  "source": "railways"
+ },
+ {
+  "name": "Queensland Rail",
+  "source": "railways"
+ },
+ {
+  "name": "Sydney Trains",
+  "source": "railways"
+ },
+ {
+  "name": "Adelaide Metro",
+  "source": "railways"
+ },
+ {
+  "name": "New Zealand Railways Department",
+  "source": "railways"
+ },
+ {
+  "name": "Tranz Rail",
+  "source": "railways"
+ },
+ {
+  "name": "Toll New Zealand",
+  "source": "railways"
+ },
+ {
+  "name": "KiwiRail",
+  "source": "railways"
+ },
+ {
+  "name": "Transdev Auckland",
+  "source": "railways"
+ },
+ {
+  "name": "Auckland One Rail",
+  "source": "railways"
+ },
+ {
+  "name": "Dunedin Railways",
+  "source": "railways"
+ },
+ {
+  "name": "New Zealand Midland Railway Company",
+  "source": "railways"
+ },
+ {
+  "name": "Wellington & Manawatu Railway Company",
+  "source": "railways"
  },
  {
   "name": "Fastbrick Robotics",
@@ -9092,6 +14720,410 @@
   "source": "ships"
  },
  {
+  "name": "Aarong",
+  "source": "socialent"
+ },
+ {
+  "name": "Aravind Eye Hospitals",
+  "source": "socialent"
+ },
+ {
+  "name": "Barefoot College",
+  "source": "socialent"
+ },
+ {
+  "name": "Benetech",
+  "source": "socialent"
+ },
+ {
+  "name": "Better World Books",
+  "source": "socialent"
+ },
+ {
+  "name": "Bharat Financial Inclusion Limited",
+  "source": "socialent"
+ },
+ {
+  "name": "BioLite",
+  "source": "socialent"
+ },
+ {
+  "name": "CAP Markets",
+  "source": "socialent"
+ },
+ {
+  "name": "Care2",
+  "source": "socialent"
+ },
+ {
+  "name": "Casa Mesita",
+  "source": "socialent"
+ },
+ {
+  "name": "Change.org",
+  "source": "socialent"
+ },
+ {
+  "name": "Charity Checkout",
+  "source": "socialent"
+ },
+ {
+  "name": "CharityVillage.com",
+  "source": "socialent"
+ },
+ {
+  "name": "Chavez for Charity",
+  "source": "socialent"
+ },
+ {
+  "name": "Chemonics",
+  "source": "socialent"
+ },
+ {
+  "name": "Cherie Amie",
+  "source": "socialent"
+ },
+ {
+  "name": "Comic Relief",
+  "source": "socialent"
+ },
+ {
+  "name": "Deep Springs International",
+  "source": "socialent"
+ },
+ {
+  "name": "Defy Ventures",
+  "source": "socialent"
+ },
+ {
+  "name": "DuckDuckGo",
+  "source": "socialent"
+ },
+ {
+  "name": "Ecosia",
+  "source": "socialent"
+ },
+ {
+  "name": "Enercoop",
+  "source": "socialent"
+ },
+ {
+  "name": "Envirofit International",
+  "source": "socialent"
+ },
+ {
+  "name": "Fair Trade USA",
+  "source": "socialent"
+ },
+ {
+  "name": "Five Talents",
+  "source": "socialent"
+ },
+ {
+  "name": "FlipGive",
+  "source": "socialent"
+ },
+ {
+  "name": "Glad Foundation",
+  "source": "socialent"
+ },
+ {
+  "name": "Grassroots Business Fund",
+  "source": "socialent"
+ },
+ {
+  "name": "Grameen Bank",
+  "source": "socialent"
+ },
+ {
+  "name": "Grama Vidiyal",
+  "source": "socialent"
+ },
+ {
+  "name": "Greyston Bakery",
+  "source": "socialent"
+ },
+ {
+  "name": "Housing Works",
+  "source": "socialent"
+ },
+ {
+  "name": "Husk Power Systems",
+  "source": "socialent"
+ },
+ {
+  "name": "HVAC (organization)",
+  "source": "socialent"
+ },
+ {
+  "name": "Jaipur Rugs",
+  "source": "socialent"
+ },
+ {
+  "name": "LifeStraw",
+  "source": "socialent"
+ },
+ {
+  "name": "Locast",
+  "source": "socialent"
+ },
+ {
+  "name": "Masarang Foundation",
+  "source": "socialent"
+ },
+ {
+  "name": "Me to We",
+  "source": "socialent"
+ },
+ {
+  "name": "Nuru International",
+  "source": "socialent"
+ },
+ {
+  "name": "One Acre Fund",
+  "source": "socialent"
+ },
+ {
+  "name": "Partners In Health",
+  "source": "socialent"
+ },
+ {
+  "name": "Pratham",
+  "source": "socialent"
+ },
+ {
+  "name": "Proximity Designs",
+  "source": "socialent"
+ },
+ {
+  "name": "RepaNet",
+  "source": "socialent"
+ },
+ {
+  "name": "RWB 330",
+  "source": "socialent"
+ },
+ {
+  "name": "Samasource",
+  "source": "socialent"
+ },
+ {
+  "name": "Schwab Foundation for Social Entrepreneurship",
+  "source": "socialent"
+ },
+ {
+  "name": "Sea Ranger Service",
+  "source": "socialent"
+ },
+ {
+  "name": "SEKEM",
+  "source": "socialent"
+ },
+ {
+  "name": "SIRUM",
+  "source": "socialent"
+ },
+ {
+  "name": "TeachAids",
+  "source": "socialent"
+ },
+ {
+  "name": "Techreturns",
+  "source": "socialent"
+ },
+ {
+  "name": "TerraCycle",
+  "source": "socialent"
+ },
+ {
+  "name": "Toms Shoes",
+  "source": "socialent"
+ },
+ {
+  "name": "Trew Era Cafe",
+  "source": "socialent"
+ },
+ {
+  "name": "Tony's Chocolonely",
+  "source": "socialent"
+ },
+ {
+  "name": "Vollpension",
+  "source": "socialent"
+ },
+ {
+  "name": "WakaWaka",
+  "source": "socialent"
+ },
+ {
+  "name": "Yunus Social Business – Global Initiatives",
+  "source": "socialent"
+ },
+ {
+  "name": "China Mobile",
+  "source": "telecom"
+ },
+ {
+  "name": "Deutsche Telekom",
+  "source": "telecom"
+ },
+ {
+  "name": "Comcast",
+  "source": "telecom"
+ },
+ {
+  "name": "Nippon Telegraph and Telephone",
+  "source": "telecom"
+ },
+ {
+  "name": "China Unicom",
+  "source": "telecom"
+ },
+ {
+  "name": "SoftBank",
+  "source": "telecom"
+ },
+ {
+  "name": "Telefónica",
+  "source": "telecom"
+ },
+ {
+  "name": "BT Group",
+  "source": "telecom"
+ },
+ {
+  "name": "Rogers Communications",
+  "source": "telecom"
+ },
+ {
+  "name": "Telstra",
+  "source": "telecom"
+ },
+ {
+  "name": "Singtel",
+  "source": "telecom"
+ },
+ {
+  "name": "Telia Company",
+  "source": "telecom"
+ },
+ {
+  "name": "Telenor",
+  "source": "telecom"
+ },
+ {
+  "name": "Proximus",
+  "source": "telecom"
+ },
+ {
+  "name": "Advanced Info Service",
+  "source": "telecom"
+ },
+ {
+  "name": "Ooredoo",
+  "source": "telecom"
+ },
+ {
+  "name": "Telecom Argentina",
+  "source": "telecom"
+ },
+ {
+  "name": "Telephone and Data Systems",
+  "source": "telecom"
+ },
+ {
+  "name": "KPN",
+  "source": "telecom"
+ },
+ {
+  "name": "StarHub",
+  "source": "telecom"
+ },
+ {
+  "name": "Millicom",
+  "source": "telecom"
+ },
+ {
+  "name": "Mobile TeleSystems",
+  "source": "telecom"
+ },
+ {
+  "name": "Turkcell",
+  "source": "telecom"
+ },
+ {
+  "name": "Optus",
+  "source": "telecom"
+ },
+ {
+  "name": "Mediacom",
+  "source": "telecom"
+ },
+ {
+  "name": "Crown Castle International",
+  "source": "telecom"
+ },
+ {
+  "name": "OTE",
+  "source": "telecom"
+ },
+ {
+  "name": "PLDT",
+  "source": "telecom"
+ },
+ {
+  "name": "Globe Telecom",
+  "source": "telecom"
+ },
+ {
+  "name": "Consolidated Communications",
+  "source": "telecom"
+ },
+ {
+  "name": "Maxis Communications",
+  "source": "telecom"
+ },
+ {
+  "name": "Vivendi",
+  "source": "telecom"
+ },
+ {
+  "name": "Telkom (South Africa)",
+  "source": "telecom"
+ },
+ {
+  "name": "MegaFon",
+  "source": "telecom"
+ },
+ {
+  "name": "Cell C",
+  "source": "telecom"
+ },
+ {
+  "name": "GTT Communications",
+  "source": "telecom"
+ },
+ {
+  "name": "Vonage",
+  "source": "telecom"
+ },
+ {
+  "name": "Bouygues Telecom",
+  "source": "telecom"
+ },
+ {
+  "name": "Altafiber",
+  "source": "telecom"
+ },
+ {
+  "name": "IDT Corporation",
+  "source": "telecom"
+ },
+ {
+  "name": "Cable One",
+  "source": "telecom"
+ },
+ {
   "name": "Fanatics",
   "source": "unicorns"
  },
@@ -9314,6 +15346,622 @@
  {
   "name": "Essential Products",
   "source": "unicorns"
+ },
+ {
+  "name": "1789 Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Advanced Technology Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Almaz Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Alumni Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Andreessen Horowitz",
+  "source": "vc"
+ },
+ {
+  "name": "ARCH Venture Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Atlas Venture",
+  "source": "vc"
+ },
+ {
+  "name": "August Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Austin Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "B Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Bain Capital Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Battery Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Benchmark Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Bessemer Venture Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Binary Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Blumberg Capital",
+  "source": "vc"
+ },
+ {
+  "name": "CapitalG",
+  "source": "vc"
+ },
+ {
+  "name": "Canaan Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Charles River Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Columbus Nova",
+  "source": "vc"
+ },
+ {
+  "name": "Cottonwood Technology Fund",
+  "source": "vc"
+ },
+ {
+  "name": "Crosslink Capital",
+  "source": "vc"
+ },
+ {
+  "name": "CrunchFund",
+  "source": "vc"
+ },
+ {
+  "name": "DAG Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "DCM Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Draper Fisher Jurvetson",
+  "source": "vc"
+ },
+ {
+  "name": "First Round Capital",
+  "source": "vc"
+ },
+ {
+  "name": "FirstMark Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Flagship Pioneering",
+  "source": "vc"
+ },
+ {
+  "name": "Foundation Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Founder Collective",
+  "source": "vc"
+ },
+ {
+  "name": "Founders Fund",
+  "source": "vc"
+ },
+ {
+  "name": "Gaingels",
+  "source": "vc"
+ },
+ {
+  "name": "General Catalyst",
+  "source": "vc"
+ },
+ {
+  "name": "GE Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Greycroft",
+  "source": "vc"
+ },
+ {
+  "name": "Greylock Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Growthworks",
+  "source": "vc"
+ },
+ {
+  "name": "GSR Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Highland Capital Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Hustle Fund",
+  "source": "vc"
+ },
+ {
+  "name": "IDG Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Index Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Initialized Capital",
+  "source": "vc"
+ },
+ {
+  "name": "In-Q-Tel",
+  "source": "vc"
+ },
+ {
+  "name": "Insight Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Institutional Venture Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Intel Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Intellectual Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Keiretsu Forum",
+  "source": "vc"
+ },
+ {
+  "name": "Khosla Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Kleiner Perkins",
+  "source": "vc"
+ },
+ {
+  "name": "Lightbank",
+  "source": "vc"
+ },
+ {
+  "name": "Lighter Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Lightspeed Venture Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Liquid 2 Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Lux Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Matrix Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Maveron",
+  "source": "vc"
+ },
+ {
+  "name": "Meritech Capital Partners",
+  "source": "vc"
+ },
+ {
+  "name": "New Enterprise Associates",
+  "source": "vc"
+ },
+ {
+  "name": "Norwest Venture Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Oak Investment Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Paradigm Operations",
+  "source": "vc"
+ },
+ {
+  "name": "Plug and Play Tech Center",
+  "source": "vc"
+ },
+ {
+  "name": "Polaris Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Qualcomm Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Redpoint Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Revolution LLC",
+  "source": "vc"
+ },
+ {
+  "name": "Ribbit Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Rothenberg Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "RRE Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Sapphire Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Scale Venture Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Sequoia Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Sevin Rosen Funds",
+  "source": "vc"
+ },
+ {
+  "name": "Social Capital",
+  "source": "vc"
+ },
+ {
+  "name": "SoftTech VC",
+  "source": "vc"
+ },
+ {
+  "name": "SOSV",
+  "source": "vc"
+ },
+ {
+  "name": "Spark Capital",
+  "source": "vc"
+ },
+ {
+  "name": "SV Angel",
+  "source": "vc"
+ },
+ {
+  "name": "Tenaya Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Third Rock Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Thrive Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Tiger Global Management",
+  "source": "vc"
+ },
+ {
+  "name": "U.S. Venture Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Union Square Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Venrock",
+  "source": "vc"
+ },
+ {
+  "name": "Versant Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Vivo Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Walden International",
+  "source": "vc"
+ },
+ {
+  "name": "Y Combinator",
+  "source": "vc"
+ },
+ {
+  "name": "Acton Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Atomico Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Balderton Capital",
+  "source": "vc"
+ },
+ {
+  "name": "DN Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Draper Esprit",
+  "source": "vc"
+ },
+ {
+  "name": "EQT Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Genesis Partners",
+  "source": "vc"
+ },
+ {
+  "name": "German Startups Group",
+  "source": "vc"
+ },
+ {
+  "name": "HBM Healthcare Investments",
+  "source": "vc"
+ },
+ {
+  "name": "HealthCap",
+  "source": "vc"
+ },
+ {
+  "name": "High-Tech Gründerfonds",
+  "source": "vc"
+ },
+ {
+  "name": "Impact X",
+  "source": "vc"
+ },
+ {
+  "name": "Infinity Group",
+  "source": "vc"
+ },
+ {
+  "name": "Iris Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Jerusalem Venture Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Mercia Fund Management",
+  "source": "vc"
+ },
+ {
+  "name": "Newfund",
+  "source": "vc"
+ },
+ {
+  "name": "Nova Founders Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Oxford Science Enterprises",
+  "source": "vc"
+ },
+ {
+  "name": "Pitango",
+  "source": "vc"
+ },
+ {
+  "name": "Porton Group",
+  "source": "vc"
+ },
+ {
+  "name": "Seedcamp",
+  "source": "vc"
+ },
+ {
+  "name": "SoftBank Vision Fund",
+  "source": "vc"
+ },
+ {
+  "name": "SyndicateRoom",
+  "source": "vc"
+ },
+ {
+  "name": "TBG AG",
+  "source": "vc"
+ },
+ {
+  "name": "Wellington Partners Venture Capital",
+  "source": "vc"
+ },
+ {
+  "name": "5Y Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Addor Capital",
+  "source": "vc"
+ },
+ {
+  "name": "CAS Star",
+  "source": "vc"
+ },
+ {
+  "name": "Chiratae Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "CoStone Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Cowin Capital",
+  "source": "vc"
+ },
+ {
+  "name": "DST Global",
+  "source": "vc"
+ },
+ {
+  "name": "Eastern Bell Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Fortune Venture Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Gaorong Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Gobi Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Granite Asia",
+  "source": "vc"
+ },
+ {
+  "name": "HongShan",
+  "source": "vc"
+ },
+ {
+  "name": "IDG Capital",
+  "source": "vc"
+ },
+ {
+  "name": "JAFCO",
+  "source": "vc"
+ },
+ {
+  "name": "K2VC",
+  "source": "vc"
+ },
+ {
+  "name": "Lanchi Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "MiraclePlus",
+  "source": "vc"
+ },
+ {
+  "name": "MPCi",
+  "source": "vc"
+ },
+ {
+  "name": "Northern Light Venture Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Oriental Fortune Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Oriza Holdings",
+  "source": "vc"
+ },
+ {
+  "name": "Plum Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Qiming Venture Partners",
+  "source": "vc"
+ },
+ {
+  "name": "Quest Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Shanghai Venture Capital Co.",
+  "source": "vc"
+ },
+ {
+  "name": "Shenzhen Capital Group",
+  "source": "vc"
+ },
+ {
+  "name": "Shenzhen HTI Group",
+  "source": "vc"
+ },
+ {
+  "name": "Shunwei Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Sinovation Ventures",
+  "source": "vc"
+ },
+ {
+  "name": "Source Code Capital",
+  "source": "vc"
+ },
+ {
+  "name": "STIC Investments",
+  "source": "vc"
+ },
+ {
+  "name": "Tiantu Capital",
+  "source": "vc"
+ },
+ {
+  "name": "Vertex Holdings",
+  "source": "vc"
+ },
+ {
+  "name": "ZhenFund",
+  "source": "vc"
+ },
+ {
+  "name": "ZWC Partners",
+  "source": "vc"
  },
  {
   "name": "Southwest",

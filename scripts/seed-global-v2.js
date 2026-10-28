@@ -9,7 +9,8 @@ const V2_DIR = path.join(ROOT, 'data', 'global', 'v2');
 const DOMAINS = [
   'ai-computing', 'robotics', 'biotech-healthtech', 'drones-autonomy', 'nanotech-materials',
   'energy-storage', 'space-aerospace', 'agritech-foodtech', 'medtech', 'semiconductors',
-  'cybersecurity', 'manufacturing-3d', 'cleantech', 'cloud-iot', 'other-deep-tech'
+  'cybersecurity', 'manufacturing-3d', 'cleantech', 'cloud-iot', 'law-social-impact',
+  'other-deep-tech'
 ];
 
 function getDatabaseUrl() {
