@@ -17,7 +17,9 @@ import {
   Layers,
   UsersRound,
   FileSpreadsheet,
-  Languages
+  Languages,
+  Pin,
+  BarChart3
 } from 'lucide-react';
 
 export function AdminNav({
@@ -65,6 +67,8 @@ function AdminNavInner({
     { href: '/admin/teams', label: t('nav.teamsQuotas'), icon: UsersRound, roles: ['reviewer', 'admin'] },
     { href: '/admin/import', label: t('nav.importSheet'), icon: FileSpreadsheet, roles: ['reviewer', 'admin'] },
     { href: '/admin/translations', label: t('nav.translations'), icon: Languages, roles: ['reviewer', 'admin'] },
+    { href: '/admin/pins', label: t('nav.pins'), icon: Pin, roles: ['reviewer', 'admin'] },
+    { href: '/admin/analytics', label: t('nav.analytics'), icon: BarChart3, roles: ['admin'] },
     { href: '/admin/users', label: t('nav.guestAccounts'), icon: Users, roles: ['admin'] }
   ];
 

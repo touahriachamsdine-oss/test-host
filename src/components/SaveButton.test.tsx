@@ -55,7 +55,7 @@ beforeEach(() => {
 });
 
 describe('SaveButton when signed out', () => {
-  it('shows a sign-in-to-save label and deep-links to /login with the current path', () => {
+  it('shows a sign-in-to-save label and opens the auth gate modal', () => {
     renderButton();
     const button = screen.getByRole('button');
     expect(button).toHaveClass('ring-focus');
@@ -64,7 +64,12 @@ describe('SaveButton when signed out', () => {
     expect(button.textContent).toContain('Sign in to save');
 
     fireEvent.click(button);
-    expect(mocks.push).toHaveBeenCalledWith('/login?callbackUrl=%2Fstartup%2Fx1');
+
+    expect(screen.getByRole('dialog')).toBeInTheDocument();
+    const hrefs = screen.getAllByRole('link').map((link) => link.getAttribute('href'));
+    expect(hrefs).toContain('/login?callbackUrl=%2Fstartup%2Fx1');
+    expect(hrefs).toContain('/register?callbackUrl=%2Fstartup%2Fx1');
+    expect(mocks.push).not.toHaveBeenCalled();
   });
 });
 

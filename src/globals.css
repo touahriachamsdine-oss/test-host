@@ -499,3 +499,19 @@ html[lang="ar"] :where(h1, h2, h3, h4, h5, h6, p, a, li, span) {
     animation: none !important;
   }
 }
+/* 3D facility showcase — ring radius per breakpoint */
+.facility-stage {
+  --facility-radius: 190px;
+}
+
+@media (min-width: 640px) {
+  .facility-stage {
+    --facility-radius: 270px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .facility-stage {
+    --facility-radius: 330px;
+  }
+}

@@ -1,6 +1,7 @@
 import { getLocale, getTranslations } from 'next-intl/server';
 import { Hero } from '@/components/Hero';
 import { MethodNote } from '@/components/MethodNote';
+import { FacilityShowcase } from '@/components/FacilityShowcase';
 import { DomainCard } from '@/components/DomainCard';
 import { StartupRow } from '@/components/StartupRow';
 import { ResultsGrid } from '@/components/ResultsGrid';
@@ -30,6 +31,8 @@ export default async function HomePage() {
       <Hero stats={stats} />
       <MarqueeStrip />
       <MethodNote />
+
+      <FacilityShowcase />
 
       <section id="domains" className="mx-auto max-w-6xl scroll-mt-20 px-4 pb-16 sm:px-6">
         <Reveal className="mt-6 flex flex-wrap items-baseline justify-between gap-2 pb-4">

@@ -11,6 +11,7 @@ import { ipcSections, isIpcClassification } from '@/lib/technology';
 import type { StartupPriority } from '@/data/startups';
 import { Link } from '@/i18n/navigation';
 import { SaveButton } from '@/components/SaveButton';
+import { PinButton } from '@/components/PinButton';
 import { SavedProvider } from '@/components/SavedProvider';
 import { DifficultyMeter } from '@/components/DifficultyMeter';
 import { alternatesFor } from '@/lib/seo';
@@ -176,10 +177,11 @@ export default async function StartupPage({
         {startup.shortDescription}
       </p>
 
-      <div className="mt-6">
+      <div className="mt-6 flex flex-wrap items-center gap-2">
         <SavedProvider initialIds={initialIds}>
           <SaveButton id={startup.id} />
         </SavedProvider>
+        <PinButton id={startup.id} />
       </div>
 
       <div className="card-soft mt-10 max-w-2xl divide-y divide-line/40 p-2 sm:p-3">

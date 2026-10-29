@@ -43,14 +43,22 @@ function flatten(obj: Record<string, unknown>, prefix = ''): string[] {
 
 const PUBLIC_KEYS = [
   'Auth.backHome',
+  'Auth.collegeLabel',
+  'Auth.collegePlaceholder',
   'Auth.createAccount',
   'Auth.createAccountLong',
   'Auth.emailLabel',
+  'Auth.errorCollegeRequired',
   'Auth.errorEmailTaken',
   'Auth.errorGeneric',
+  'Auth.errorGradeRequired',
   'Auth.errorInvalidCredentials',
+  'Auth.errorInvalidField',
   'Auth.errorRateLimited',
+  'Auth.errorSerialRequired',
   'Auth.errorWeakPassword',
+  'Auth.gradeLabel',
+  'Auth.gradePlaceholder',
   'Auth.haveAccount',
   'Auth.loginSubtitle',
   'Auth.loginTitle',
@@ -58,11 +66,28 @@ const PUBLIC_KEYS = [
   'Auth.noAccount',
   'Auth.passwordHint',
   'Auth.passwordLabel',
+  'Auth.registerSubtitle',
+  'Auth.roleLabel',
+  'Auth.roleStudent',
+  'Auth.roleTeacher',
+  'Auth.serialLabel',
+  'Auth.serialPlaceholder',
   'Auth.signIn',
   'Auth.signInAccountAlt',
+  'Auth.specialtyLabel',
+  'Auth.specialtyPlaceholder',
+  'Auth.studyYearLabel',
+  'Auth.studyYearOption',
   'Auth.submit',
   'Auth.submitting',
   'Auth.welcome',
+  'AuthGate.close',
+  'AuthGate.pinText',
+  'AuthGate.pinTitle',
+  'AuthGate.register',
+  'AuthGate.signIn',
+  'AuthGate.text',
+  'AuthGate.title',
   'Browse.allCountries',
   'Browse.allDomains',
   'Browse.allPriorities',
@@ -155,6 +180,11 @@ const PUBLIC_KEYS = [
   'NotFound.home',
   'NotFound.text',
   'NotFound.title',
+  'Pin.pin',
+  'Pin.pinAria',
+  'Pin.pinned',
+  'Pin.pinnedAria',
+  'Pin.signInToPin',
   'Policy.accounts.body',
   'Policy.accounts.title',
   'Policy.contact.body',
@@ -323,8 +353,8 @@ describe('Admin console i18n', () => {
     const publicKeys = frKeys.filter((key) => !key.startsWith('Admin.')).sort();
     const adminKeys = frKeys.filter((key) => key.startsWith('Admin.'));
     expect(publicKeys).toEqual(PUBLIC_KEYS);
-    expect(publicKeys).toHaveLength(246);
-    expect(adminKeys).toHaveLength(215);
+    expect(publicKeys).toHaveLength(276);
+    expect(adminKeys).toHaveLength(236);
 
     const enAdmin = (flatten(en as unknown as Record<string, unknown>)).filter((key) => key.startsWith('Admin.'));
     const arAdmin = (flatten(ar as unknown as Record<string, unknown>)).filter((key) => key.startsWith('Admin.'));

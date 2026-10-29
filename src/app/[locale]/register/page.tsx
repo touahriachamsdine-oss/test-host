@@ -17,7 +17,7 @@ export default async function RegisterPage() {
 
   return (
     <section className="mx-auto flex max-w-6xl flex-col items-center px-4 pb-16 pt-12 sm:px-6">
-      <div className="mt-8 w-full max-w-md sm:mt-0">
+      <div className="mt-8 w-full max-w-2xl sm:mt-0">
         <RegisterForm />
       </div>
       <Link

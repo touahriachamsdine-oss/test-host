@@ -44,6 +44,15 @@ function renderForm(ui: React.ReactNode) {
   );
 }
 
+function fillRegisterForm({ password = 'secret123' }: { password?: string } = {}) {
+  fireEvent.change(screen.getByLabelText(/full name/i), { target: { value: 'Nadia Belkacem' } });
+  fireEvent.change(screen.getByLabelText(/email/i), { target: { value: 'nadia@example.dz' } });
+  fireEvent.change(screen.getByLabelText(/password/i), { target: { value: password } });
+  fireEvent.change(screen.getByLabelText(/institution/i), { target: { value: 'other' } });
+  fireEvent.change(screen.getByLabelText(/specialty/i), { target: { value: 'Computer science' } });
+  fireEvent.change(screen.getByLabelText(/student serial number/i), { target: { value: '202312345' } });
+}
+
 afterEach(() => {
   cleanup();
   vi.unstubAllGlobals();
@@ -113,9 +122,7 @@ describe('RegisterForm', () => {
     mocks.signIn.mockResolvedValue({ error: undefined, code: undefined, status: 200, ok: true, url: null });
     renderForm(<RegisterForm />);
 
-    fireEvent.change(screen.getByLabelText(/full name/i), { target: { value: 'Nadia Belkacem' } });
-    fireEvent.change(screen.getByLabelText(/email/i), { target: { value: 'nadia@example.dz' } });
-    fireEvent.change(screen.getByLabelText(/password/i), { target: { value: 'secret123' } });
+    fillRegisterForm();
     fireEvent.click(screen.getByRole('button', { name: 'Create an account' }));
 
     await waitFor(() =>
@@ -126,7 +133,13 @@ describe('RegisterForm', () => {
           body: JSON.stringify({
             name: 'Nadia Belkacem',
             email: 'nadia@example.dz',
-            password: 'secret123'
+            password: 'secret123',
+            roleType: 'student',
+            collegeId: 'other',
+            specialty: 'Computer science',
+            studentSerial: '202312345',
+            studyYear: 1,
+            grade: ''
           })
         })
       )
@@ -143,9 +156,7 @@ describe('RegisterForm', () => {
   it('rejects a weak password before hitting the network', async () => {
     renderForm(<RegisterForm />);
 
-    fireEvent.change(screen.getByLabelText(/full name/i), { target: { value: 'Nadia' } });
-    fireEvent.change(screen.getByLabelText(/email/i), { target: { value: 'nadia@example.dz' } });
-    fireEvent.change(screen.getByLabelText(/password/i), { target: { value: 'short' } });
+    fillRegisterForm({ password: 'short' });
     fireEvent.click(screen.getByRole('button', { name: 'Create an account' }));
 
     expect(
@@ -165,9 +176,7 @@ describe('RegisterForm', () => {
     );
     renderForm(<RegisterForm />);
 
-    fireEvent.change(screen.getByLabelText(/full name/i), { target: { value: 'Nadia' } });
-    fireEvent.change(screen.getByLabelText(/email/i), { target: { value: 'nadia@example.dz' } });
-    fireEvent.change(screen.getByLabelText(/password/i), { target: { value: 'secret123' } });
+    fillRegisterForm();
     fireEvent.click(screen.getByRole('button', { name: 'Create an account' }));
 
     expect(await screen.findByText('An account with this email already exists.')).toBeInTheDocument();
@@ -188,9 +197,7 @@ describe('RegisterForm', () => {
     );
     renderForm(<RegisterForm />);
 
-    fireEvent.change(screen.getByLabelText(/full name/i), { target: { value: 'Nadia' } });
-    fireEvent.change(screen.getByLabelText(/email/i), { target: { value: 'nadia@example.dz' } });
-    fireEvent.change(screen.getByLabelText(/password/i), { target: { value: 'secret123' } });
+    fillRegisterForm();
     fireEvent.click(screen.getByRole('button', { name: 'Create an account' }));
 
     expect(

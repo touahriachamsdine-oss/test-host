@@ -8,6 +8,7 @@ import { routing } from '@/i18n/routing';
 import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
 import { AmbientBackground } from '@/components/AmbientBackground';
+import { PageTracker } from '@/components/PageTracker';
 import '../../globals.css';
 
 const plexVariable = '--font-plex';
@@ -50,6 +51,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider>
           <SessionProvider>
             <Navbar />
+            <PageTracker />
             <main>{children}</main>
             <Footer />
           </SessionProvider>

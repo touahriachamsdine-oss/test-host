@@ -51,7 +51,13 @@ export async function POST(request: NextRequest) {
     await createMember({
       name: parsed.data.name,
       email: normalizeEmail(parsed.data.email),
-      passwordHash
+      passwordHash,
+      roleType: parsed.data.roleType,
+      studentSerial: parsed.data.studentSerial || null,
+      collegeId: parsed.data.collegeId,
+      studyYear: parsed.data.roleType === 'student' ? (parsed.data.studyYear ?? null) : null,
+      specialty: parsed.data.specialty,
+      grade: parsed.data.roleType === 'teacher' ? (parsed.data.grade || null) : null
     });
   } catch (error) {
     if (error instanceof ConflictError) {

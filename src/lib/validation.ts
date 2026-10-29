@@ -1,4 +1,7 @@
 import { z } from 'zod';
+import { COLLEGES } from '@/data/colleges';
+
+const COLLEGE_IDS = new Set(COLLEGES.map((college) => college.id));
 
 export const httpUrl = z
   .string()
@@ -56,11 +59,34 @@ export const domainMetaPatchSchema = z.object({
   priorityTier: z.enum(['A', 'B', 'C']).nullable()
 });
 
-export const memberRegistrationSchema = z.object({
-  name: z.string().trim().min(2).max(80),
-  email: z.string().trim().toLowerCase().email().max(200),
-  password: z.string().min(8).max(64)
-});
+export const memberRegistrationSchema = z
+  .object({
+    name: z.string().trim().min(2).max(80),
+    email: z.string().trim().toLowerCase().email().max(200),
+    password: z.string().min(8).max(64),
+    roleType: z.enum(['student', 'teacher']),
+    collegeId: z.string().trim().min(1).max(80),
+    specialty: z.string().trim().min(2).max(120),
+    studentSerial: z.string().trim().max(40).optional().or(z.literal('')),
+    studyYear: z.coerce.number().int().min(1).max(8).optional(),
+    grade: z.string().trim().max(80).optional().or(z.literal(''))
+  })
+  .refine((data) => data.collegeId === 'other' || COLLEGE_IDS.has(data.collegeId), {
+    path: ['collegeId'],
+    message: 'unknown_college'
+  })
+  .refine((data) => data.roleType !== 'student' || (data.studentSerial ?? '').length >= 3, {
+    path: ['studentSerial'],
+    message: 'required'
+  })
+  .refine((data) => data.roleType !== 'student' || typeof data.studyYear === 'number', {
+    path: ['studyYear'],
+    message: 'required'
+  })
+  .refine((data) => data.roleType !== 'teacher' || (data.grade ?? '').length >= 2, {
+    path: ['grade'],
+    message: 'required'
+  });
 
 export const teamQuotaPatchSchema = z.object({
   quota: z.coerce.number().int().min(0).max(100000)
