@@ -14,6 +14,7 @@ import { SaveButton } from '@/components/SaveButton';
 import { PinButton } from '@/components/PinButton';
 import { SavedProvider } from '@/components/SavedProvider';
 import { DifficultyMeter } from '@/components/DifficultyMeter';
+import { MvpPrompt } from '@/components/MvpPrompt';
 import { alternatesFor } from '@/lib/seo';
 import type { Locale } from '@/i18n/routing';
 
@@ -285,6 +286,8 @@ export default async function StartupPage({
           </div>
         </div>
       )}
+
+      <MvpPrompt startup={startup} />
 
       <p className="mt-10 max-w-2xl text-xs leading-5 text-ink/40">
         {t('generatedNoteLabel')}

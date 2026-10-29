@@ -166,6 +166,43 @@ const PUBLIC_KEYS = [
   'LangSwitcher.ariaLabel',
   'Metadata.description',
   'Metadata.title',
+  'MvpPrompt.algeriaLabel',
+  'MvpPrompt.buildLabel',
+  'MvpPrompt.copied',
+  'MvpPrompt.copy',
+  'MvpPrompt.countryLabel',
+  'MvpPrompt.d1',
+  'MvpPrompt.d2',
+  'MvpPrompt.d3',
+  'MvpPrompt.d4',
+  'MvpPrompt.d5',
+  'MvpPrompt.d6',
+  'MvpPrompt.d7',
+  'MvpPrompt.d8',
+  'MvpPrompt.deliverablesTitle',
+  'MvpPrompt.fieldLabel',
+  'MvpPrompt.hide',
+  'MvpPrompt.languageNote',
+  'MvpPrompt.nameLabel',
+  'MvpPrompt.note',
+  'MvpPrompt.problemsLabel',
+  'MvpPrompt.r1',
+  'MvpPrompt.r2',
+  'MvpPrompt.r3',
+  'MvpPrompt.r4',
+  'MvpPrompt.recordTitle',
+  'MvpPrompt.role',
+  'MvpPrompt.rulesTitle',
+  'MvpPrompt.show',
+  'MvpPrompt.sourceLabel',
+  'MvpPrompt.subtitle',
+  'MvpPrompt.summaryLabel',
+  'MvpPrompt.task',
+  'MvpPrompt.taskTitle',
+  'MvpPrompt.teamLabel',
+  'MvpPrompt.technologyLabel',
+  'MvpPrompt.title',
+  'MvpPrompt.yearLabel',
   'Navbar.brand',
   'Navbar.brandTag',
   'Navbar.browse',
@@ -353,7 +390,7 @@ describe('Admin console i18n', () => {
     const publicKeys = frKeys.filter((key) => !key.startsWith('Admin.')).sort();
     const adminKeys = frKeys.filter((key) => key.startsWith('Admin.'));
     expect(publicKeys).toEqual(PUBLIC_KEYS);
-    expect(publicKeys).toHaveLength(276);
+    expect(publicKeys).toHaveLength(313);
     expect(adminKeys).toHaveLength(236);
 
     const enAdmin = (flatten(en as unknown as Record<string, unknown>)).filter((key) => key.startsWith('Admin.'));
