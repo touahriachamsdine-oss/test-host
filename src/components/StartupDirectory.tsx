@@ -15,6 +15,7 @@ export interface DirectoryParams {
   from: string;
   to: string;
   sort: string;
+  buildable: string;
 }
 
 function buildQuery(params: DirectoryParams, page?: number): string {
@@ -23,6 +24,7 @@ function buildQuery(params: DirectoryParams, page?: number): string {
   if (params.domain && params.domain !== 'all') search.set('domain', params.domain);
   if (params.country && params.country !== 'all') search.set('country', params.country);
   if (params.priority && params.priority !== 'all') search.set('priority', params.priority);
+  if (params.buildable && params.buildable !== 'all') search.set('buildable', params.buildable);
   if (params.from) search.set('from', params.from);
   if (params.to) search.set('to', params.to);
   if (params.sort && params.sort !== 'default') search.set('sort', params.sort);
@@ -122,6 +124,23 @@ export async function StartupDirectory({
               <option value="A">A</option>
               <option value="B">B</option>
               <option value="C">C</option>
+            </select>
+          </div>
+
+          <div>
+            <label htmlFor="dir-buildable" className={label}>
+              {filtersT('buildable')}
+            </label>
+            <select
+              id="dir-buildable"
+              name="buildable"
+              defaultValue={params.buildable || 'all'}
+              className={`mt-1 ${control}`}
+            >
+              <option value="all">{filtersT('buildableAny')}</option>
+              <option value="easy">{filtersT('buildableEasy')}</option>
+              <option value="complete">{filtersT('buildableComplete')}</option>
+              <option value="open-hardware">{filtersT('buildableHardware')}</option>
             </select>
           </div>
 

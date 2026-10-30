@@ -6,7 +6,7 @@ export async function Footer() {
   const nav = await getTranslations('Navbar');
 
   return (
-    <footer className="bg-gradient-to-b from-transparent to-paper/80 backdrop-blur-md">
+    <footer className="bg-gradient-to-b from-transparent to-paper/80 backdrop-blur-md print:hidden">
       <div className="mx-auto flex max-w-6xl flex-col gap-6 px-4 py-10 sm:px-6 md:flex-row md:items-start md:justify-between">
         <div className="max-w-sm">
           <p className="flex items-baseline gap-1.5">
@@ -23,6 +23,9 @@ export async function Footer() {
           </Link>
           <Link href="/browse" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
             {nav('browse')}
+          </Link>
+          <Link href="/collaborate" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
+            {nav('collaborate')}
           </Link>
           <Link href="/units" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
             {nav('units')}

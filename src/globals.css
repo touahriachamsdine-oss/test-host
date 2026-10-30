@@ -515,3 +515,19 @@ html[lang="ar"] :where(h1, h2, h3, h4, h5, h6, p, a, li, span) {
     --facility-radius: 330px;
   }
 }
+
+@media print {
+  html,
+  body {
+    background: #fff !important;
+  }
+
+  [data-theme] {
+    --ink: #16233a;
+    --paper: #ffffff;
+    --line: #c9c4b8;
+    --surface: #ffffff;
+    --signal: #1f6f5c;
+    --flag-gold: #a67c2e;
+  }
+}

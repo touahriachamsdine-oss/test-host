@@ -15,7 +15,10 @@ import { PinButton } from '@/components/PinButton';
 import { SavedProvider } from '@/components/SavedProvider';
 import { DifficultyMeter } from '@/components/DifficultyMeter';
 import { MvpPrompt } from '@/components/MvpPrompt';
-import { alternatesFor } from '@/lib/seo';
+import { InterestButton } from '@/components/InterestButton';
+import { ShareBar } from '@/components/ShareBar';
+import { countInterest } from '@/lib/interests';
+import { alternatesFor, localizedPath } from '@/lib/seo';
 import type { Locale } from '@/i18n/routing';
 
 export const dynamic = 'force-dynamic';
@@ -78,6 +81,7 @@ export default async function StartupPage({
     : '';
   const code = referenceCode(startup.domain, startup.refNo);
   const initialIds = await getMemberSavedIdsSafe();
+  const interestedCount = await countInterest(startup.id);
 
   const fields = [
     ...(year ? [{ label: t('yearLabel'), value: year }] : []),
@@ -183,7 +187,14 @@ export default async function StartupPage({
           <SaveButton id={startup.id} />
         </SavedProvider>
         <PinButton id={startup.id} />
+        <InterestButton id={startup.id} initialCount={interestedCount} />
       </div>
+
+      <ShareBar
+        url={localizedPath(locale, `/startup/${startup.id}`)}
+        title={startup.name}
+        briefHref={`/startup/${startup.id}/brief`}
+      />
 
       <div className="card-soft mt-10 max-w-2xl divide-y divide-line/40 p-2 sm:p-3">
         <dl>

@@ -32,6 +32,11 @@ export function Navbar() {
   const links = [
     { href: '/' as const, label: t('home'), active: pathname === '/' },
     { href: '/browse' as const, label: t('browse'), active: pathname.startsWith('/browse') },
+    {
+      href: '/collaborate' as const,
+      label: t('collaborate'),
+      active: pathname.startsWith('/collaborate')
+    },
     { href: '/saved' as const, label: t('saved'), active: pathname.startsWith('/saved') }
   ];
 
@@ -66,7 +71,7 @@ export function Navbar() {
 
   return (
     <header
-      className={`sticky top-0 z-50 transition-[background-color,box-shadow,backdrop-filter] duration-[var(--dur-base)] ease-[var(--ease-standard)] motion-reduce:transition-none ${
+      className={`sticky top-0 z-50 transition-[background-color,box-shadow,backdrop-filter] duration-[var(--dur-base)] ease-[var(--ease-standard)] motion-reduce:transition-none print:hidden ${
         scrolled ? 'bg-paper/75 backdrop-blur-md shadow-[0_8px_24px_-20px_rgb(0_0_0/0.35)]' : 'bg-transparent'
       }`}
     >

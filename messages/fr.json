@@ -338,12 +338,21 @@
   },
   "AuthGate": {
     "close": "Fermer",
+    "interestText": "L’intérêt est lié à votre compte afin que vos camarades voient qui veut construire quoi.",
+    "interestTitle": "Connectez-vous pour rejoindre ce projet",
     "pinText": "Épingler signale un projet à l'équipe de la plateforme. Un compte gratuit est nécessaire.",
     "pinTitle": "Connectez-vous pour épingler",
     "register": "Créer un compte",
     "signIn": "Se connecter",
     "text": "L'enregistrement des projets nécessite un compte gratuit. Connectez-vous ou créez-en un : vous reviendrez sur cette page.",
     "title": "Connectez-vous pour enregistrer"
+  },
+  "Brief": {
+    "back": "Retour au projet",
+    "footer": "Généré à partir de la fiche projet vérifiée. Aucune donnée personnelle n’est incluse.",
+    "print": "Imprimer / PDF",
+    "subtitle": "Une page à remettre à un encadrant, un incubateur ou un coéquipier.",
+    "title": "Fiche projet"
   },
   "Browse": {
     "allCountries": "Tous les pays",
@@ -364,6 +373,23 @@
     "subtitle": "Une base vérifiée de startups, brevets et projets de matériel libre issus de 124 pays. Filtrez par domaine, pays, priorité ou année de création.",
     "title": "Répertoire des projets"
   },
+  "Collaborate": {
+    "classmates": "{count, plural, =0 {Aucun camarade pour l’instant} one {# camarade veut le construire} other {# camarades veulent le construire}}",
+    "collegeBoard": "Les plus demandés à {college}",
+    "collegeBoardEmpty": "Aucun camarade n’a encore choisi de projet. Soyez le premier.",
+    "collegeBoardGeneric": "Les plus demandés dans votre établissement",
+    "noCollege": "Votre compte n’indique pas encore d’établissement, le tableau n’est donc pas disponible. Vos intérêts restent enregistrés.",
+    "privacy": "Confidentialité : vos camarades ne voient que votre nom, votre établissement et votre année d’études — jamais votre e-mail.",
+    "register": "Créer un compte",
+    "signIn": "Se connecter",
+    "signInText": "La mise en relation utilise votre compte, votre établissement et votre année d’études. Vos camarades ne voient que votre nom, votre établissement et votre année.",
+    "signInTitle": "Connectez-vous pour voir le tableau de votre établissement",
+    "subtitle": "Marquez les projets que vous voulez construire et voyez ce que choisissent les étudiants de votre établissement.",
+    "title": "Construire ensemble",
+    "totalPeople": "{count, plural, =0 {Personne pour l’instant} one {# personne veut le construire} other {# personnes veulent le construire}}",
+    "yourProjects": "Projets que vous voulez construire",
+    "yourProjectsEmpty": "Rien pour l’instant. Ouvrez un projet et appuyez sur « Je veux le construire »."
+  },
   "DomainValidation": {
     "IN_PROGRESS": "En cours",
     "REJECTED": "Rejetée",
@@ -379,6 +405,11 @@
     "title": "Explorer par domaine"
   },
   "Filters": {
+    "buildable": "Faisabilité",
+    "buildableAny": "Tous les projets",
+    "buildableComplete": "Fiche complète",
+    "buildableEasy": "Petite équipe (facile)",
+    "buildableHardware": "Matériel libre",
     "clear": "Effacer les filtres",
     "close": "Fermer",
     "country": "Pays",
@@ -405,6 +436,11 @@
     "rights": "Tous droits réservés.",
     "tagline": "Un répertoire ouvert et trilingue des initiatives de deep tech en Algérie."
   },
+  "GoodFirst": {
+    "cta": "Voir tous les projets pour démarrer",
+    "subtitle": "Difficulté faible, petite équipe et assez de détails pour démarrer ce semestre.",
+    "title": "Projets pour bien démarrer"
+  },
   "Hero": {
     "badge": "Deep tech · Algérie",
     "browseAll": "Consulter le répertoire des projets",
@@ -425,6 +461,13 @@
     "intro": "Chaque fiche porte un code de domaine et un numéro d'ordre dans ce domaine : AI · 014 désigne la quatorzième entrée en intelligence artificielle. La fiche documente la localisation du projet, l'équipe nécessaire à sa reconstitution, sa difficulté de réimplémentation et les améliorations à apporter pour le rendre compétitif.",
     "priority": "Le carré indique la priorité stratégique :",
     "title": "Comment lire une fiche"
+  },
+  "Interest": {
+    "board": "Voir qui veut le construire",
+    "building": "Vous le construisez",
+    "count": "{count, plural, =0 {Personne pour l’instant} one {# personne veut le construire} other {# personnes veulent le construire}}",
+    "signIn": "Connectez-vous pour participer",
+    "want": "Je veux le construire"
   },
   "Ipc": {
     "A": "Nécessités humaines",
@@ -487,6 +530,7 @@
     "brandTag": "DZ",
     "browse": "Explorer",
     "closeMenu": "Fermer le menu",
+    "collaborate": "Collaborer",
     "edition": "Éd. 2026",
     "home": "Accueil",
     "openMenu": "Ouvrir le menu",
@@ -566,6 +610,14 @@
     "remove": "Retirer",
     "subtitle": "Les initiatives que vous souhaitez construire en Algérie.",
     "title": "Startups enregistrées"
+  },
+  "Share": {
+    "brief": "Fiche imprimable",
+    "copied": "Copié",
+    "copy": "Copier le lien",
+    "label": "Partager",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp"
   },
   "Sort": {
     "default": "Ordre par défaut",

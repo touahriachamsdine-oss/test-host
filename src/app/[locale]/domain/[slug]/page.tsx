@@ -17,6 +17,7 @@ interface DomainSearchParams {
   q?: string;
   country?: string;
   priority?: string;
+  buildable?: string;
   from?: string;
   to?: string;
   page?: string;
@@ -65,7 +66,8 @@ export default async function DomainPage({
     priority: sp.priority ?? 'all',
     from: sp.from ?? 'all',
     to: sp.to ?? 'all',
-    sort: sp.sort ?? 'default'
+    sort: sp.sort ?? 'default',
+    buildable: sp.buildable ?? 'all'
   };
   const page = Math.max(Number(sp.page ?? 1) || 1, 1);
 
@@ -78,7 +80,8 @@ export default async function DomainPage({
         priority: filters.priority,
         yearMin: toYear(filters.from),
         yearMax: toYear(filters.to),
-        sort: filters.sort
+        sort: filters.sort,
+        buildable: filters.buildable
       },
       page,
       locale

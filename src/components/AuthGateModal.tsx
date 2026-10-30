@@ -14,7 +14,7 @@ export function AuthGateModal({
   open: boolean;
   onClose: () => void;
   callbackUrl: string;
-  action?: 'save' | 'pin';
+  action?: 'save' | 'pin' | 'interest';
 }) {
   const t = useTranslations('AuthGate');
 
@@ -46,7 +46,7 @@ export function AuthGateModal({
       >
         <div className="flex items-start justify-between gap-3">
           <h2 id="auth-gate-title" className="text-lg font-semibold leading-7 tracking-tight text-ink">
-            {action === 'pin' ? t('pinTitle') : t('title')}
+            {action === 'pin' ? t('pinTitle') : action === 'interest' ? t('interestTitle') : t('title')}
           </h2>
           <button
             type="button"

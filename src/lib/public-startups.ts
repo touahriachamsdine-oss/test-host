@@ -151,6 +151,7 @@ export interface DirectoryFilters {
   yearMin?: number;
   yearMax?: number;
   sort?: string;
+  buildable?: string;
 }
 
 const DIRECTORY_ORDER: Record<string, string> = {
@@ -205,6 +206,15 @@ export async function browseStartups(
   if (typeof filters.yearMax === 'number' && Number.isFinite(filters.yearMax)) {
     values.push(filters.yearMax);
     clauses.push(`year_founded <= $${values.length}`);
+  }
+  if (filters.buildable === 'open-hardware') {
+    clauses.push(`id LIKE 'oh-%'`);
+  } else if (filters.buildable === 'easy') {
+    clauses.push(`difficulty_score IS NOT NULL AND difficulty_score <= 40`);
+  } else if (filters.buildable === 'complete') {
+    clauses.push(
+      `team_rec IS NOT NULL AND product_issues IS NOT NULL AND build_approach IS NOT NULL AND latitude IS NOT NULL`
+    );
   }
 
   const where = clauses.join(' AND ');

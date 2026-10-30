@@ -338,12 +338,21 @@
   },
   "AuthGate": {
     "close": "Close",
+    "interestText": "Interest is linked to your account so classmates can see who wants to build what.",
+    "interestTitle": "Sign in to join this project",
     "pinText": "Pinning flags a project for the platform team. It requires a free account.",
     "pinTitle": "Sign in to pin",
     "register": "Create an account",
     "signIn": "Sign in",
     "text": "Saving projects requires a free account. Sign in or create one — you will return to this page.",
     "title": "Sign in to save"
+  },
+  "Brief": {
+    "back": "Back to project",
+    "footer": "Generated from the verified project record. No personal data is included.",
+    "print": "Print / PDF",
+    "subtitle": "One page to hand to a supervisor, an incubator or a teammate.",
+    "title": "Project brief"
   },
   "Browse": {
     "allCountries": "All countries",
@@ -364,6 +373,23 @@
     "subtitle": "A verified base of startups, patents and open-hardware projects from 124 countries. Filter by field, country, priority or founding year.",
     "title": "Project directory"
   },
+  "Collaborate": {
+    "classmates": "{count, plural, =0 {No classmates yet} one {# classmate wants to build it} other {# classmates want to build it}}",
+    "collegeBoard": "Most wanted at {college}",
+    "collegeBoardEmpty": "No classmates have picked a project yet. Be the first.",
+    "collegeBoardGeneric": "Most wanted at your college",
+    "noCollege": "Your account has no college yet, so there is no college board to show. Your interests still work.",
+    "privacy": "Privacy: classmates only see your name, college and study year — never your email.",
+    "register": "Create an account",
+    "signIn": "Sign in",
+    "signInText": "Team matching uses your account, college and study year. Classmates only see your name, college and study year.",
+    "signInTitle": "Sign in to see your college board",
+    "subtitle": "Mark the projects you want to build and see what students from your college are picking.",
+    "title": "Build together",
+    "totalPeople": "{count, plural, =0 {No one yet} one {# person wants to build it} other {# people want to build it}}",
+    "yourProjects": "Projects you want to build",
+    "yourProjectsEmpty": "Nothing yet. Open any project and press “I want to build this”."
+  },
   "DomainValidation": {
     "IN_PROGRESS": "In progress",
     "REJECTED": "Rejected",
@@ -379,6 +405,11 @@
     "title": "Explore by field"
   },
   "Filters": {
+    "buildable": "Buildability",
+    "buildableAny": "Any project",
+    "buildableComplete": "Complete record",
+    "buildableEasy": "Small team (easy)",
+    "buildableHardware": "Open hardware",
     "clear": "Clear filters",
     "close": "Close",
     "country": "Country",
@@ -405,6 +436,11 @@
     "rights": "All rights reserved.",
     "tagline": "An open trilingual directory of deep-technology initiatives in Algeria."
   },
+  "GoodFirst": {
+    "cta": "See all good first projects",
+    "subtitle": "Low difficulty, a small team, and enough detail to start this semester.",
+    "title": "Good first projects"
+  },
   "Hero": {
     "badge": "Deep technology · Algeria",
     "browseAll": "Browse the project directory",
@@ -425,6 +461,13 @@
     "intro": "Each record carries a field code and a sequence number within that field: AI · 014 designates the fourteenth entry in artificial intelligence. The record documents the project's location, the team required to rebuild it, its rebuild difficulty, and the improvements needed to make it competitive.",
     "priority": "The square indicates the strategic priority:",
     "title": "How to read a record"
+  },
+  "Interest": {
+    "board": "See who wants to build",
+    "building": "You're building this",
+    "count": "{count, plural, =0 {No one yet} one {# person wants to build this} other {# people want to build this}}",
+    "signIn": "Sign in to join",
+    "want": "I want to build this"
   },
   "Ipc": {
     "A": "Human necessities",
@@ -487,6 +530,7 @@
     "brandTag": "DZ",
     "browse": "Browse",
     "closeMenu": "Close menu",
+    "collaborate": "Collaborate",
     "edition": "Ed. 2026",
     "home": "Home",
     "openMenu": "Open menu",
@@ -566,6 +610,14 @@
     "remove": "Remove",
     "subtitle": "Initiatives you want to build in Algeria.",
     "title": "Saved startups"
+  },
+  "Share": {
+    "brief": "Printable brief",
+    "copied": "Copied",
+    "copy": "Copy link",
+    "label": "Share",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp"
   },
   "Sort": {
     "default": "Default order",
