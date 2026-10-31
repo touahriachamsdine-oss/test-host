@@ -29,6 +29,7 @@ export interface MemberProfile {
   studyYear: number | null;
   specialty: string | null;
   grade: string | null;
+  digestOptIn: boolean;
 }
 
 function mapMemberProfile(row: {
@@ -40,6 +41,7 @@ function mapMemberProfile(row: {
   study_year: number | null;
   specialty: string | null;
   grade: string | null;
+  digest_opt_in: boolean | null;
 }): MemberProfile {
   return {
     id: String(row.id),
@@ -49,7 +51,8 @@ function mapMemberProfile(row: {
     collegeId: row.college_id ?? null,
     studyYear: row.study_year ?? null,
     specialty: row.specialty ?? null,
-    grade: row.grade ?? null
+    grade: row.grade ?? null,
+    digestOptIn: Boolean(row.digest_opt_in)
   };
 }
 
@@ -63,12 +66,49 @@ export async function getMemberProfile(id: string): Promise<MemberProfile | null
     study_year: number | null;
     specialty: string | null;
     grade: string | null;
+    digest_opt_in: boolean | null;
   }>(
-    `SELECT id, name, role_type, student_serial, college_id, study_year, specialty, grade
+    `SELECT id, name, role_type, student_serial, college_id, study_year, specialty, grade, digest_opt_in
      FROM members WHERE id = $1`,
     [id]
   );
   return rows.length ? mapMemberProfile(rows[0]) : null;
+}
+
+export async function updateMemberProfile(
+  id: string,
+  input: {
+    roleType: 'student' | 'teacher';
+    studentSerial?: string | null;
+    collegeId: string;
+    studyYear?: number | null;
+    specialty?: string | null;
+    grade?: string | null;
+    digestOptIn?: boolean;
+  }
+): Promise<MemberProfile | null> {
+  await query(
+    `UPDATE members
+     SET role_type = $2,
+         student_serial = $3,
+         college_id = $4,
+         study_year = $5,
+         specialty = $6,
+         grade = $7,
+         digest_opt_in = $8
+     WHERE id = $1`,
+    [
+      id,
+      input.roleType,
+      input.studentSerial?.trim() || null,
+      input.collegeId,
+      input.roleType === 'student' ? (input.studyYear ?? null) : null,
+      input.specialty?.trim() || null,
+      input.roleType === 'teacher' ? (input.grade?.trim() || null) : null,
+      Boolean(input.digestOptIn)
+    ]
+  );
+  return getMemberProfile(id);
 }
 
 export function normalizeEmail(email: string): string {

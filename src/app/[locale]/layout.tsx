@@ -9,6 +9,7 @@ import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
 import { AmbientBackground } from '@/components/AmbientBackground';
 import { PageTracker } from '@/components/PageTracker';
+import { ServiceWorker } from '@/components/ServiceWorker';
 import '../../globals.css';
 
 const plexVariable = '--font-plex';
@@ -54,6 +55,7 @@ export default async function LocaleLayout({
             <PageTracker />
             <main>{children}</main>
             <Footer />
+            <ServiceWorker />
           </SessionProvider>
         </NextIntlClientProvider>
       </body>

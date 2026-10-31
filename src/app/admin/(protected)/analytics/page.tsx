@@ -152,6 +152,12 @@ export default async function AdminAnalyticsPage() {
                     <span className="shrink-0 font-mono text-xs tabular-nums text-slate-400">
                       {nf.format(project.views)}
                     </span>
+                    <a
+                      href={`/admin/translations?q=${encodeURIComponent(project.id)}`}
+                      className="shrink-0 text-[11px] text-emerald-300 underline-offset-2 hover:underline"
+                    >
+                      {t('analyticsPage.reviewTranslation')}
+                    </a>
                   </li>
                 ))}
               </ul>

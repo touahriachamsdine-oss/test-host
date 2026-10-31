@@ -17,6 +17,7 @@ import { DifficultyMeter } from '@/components/DifficultyMeter';
 import { MvpPrompt } from '@/components/MvpPrompt';
 import { InterestButton } from '@/components/InterestButton';
 import { ShareBar } from '@/components/ShareBar';
+import { ReportButton } from '@/components/ReportButton';
 import { countInterest } from '@/lib/interests';
 import { alternatesFor, localizedPath } from '@/lib/seo';
 import type { Locale } from '@/i18n/routing';
@@ -67,6 +68,7 @@ export default async function StartupPage({
   const priorityT = await getTranslations('Priority');
   const sourceT = await getTranslations('Source');
   const ipcT = await getTranslations('Ipc');
+  const compareT = await getTranslations('Compare');
 
   const domain = getDomain(startup.domain);
   const sourceKind = sourceKindOf(startup.id);
@@ -195,6 +197,16 @@ export default async function StartupPage({
         title={startup.name}
         briefHref={`/startup/${startup.id}/brief`}
       />
+
+      <div className="mt-3 flex flex-wrap items-center gap-3">
+        <Link
+          href={`/compare?a=${startup.id}`}
+          className="ring-focus inline-flex items-center gap-1.5 rounded-full border border-line/60 px-2.5 py-1 text-xs text-ink/60 hover:border-line hover:text-ink"
+        >
+          {compareT('start')}
+        </Link>
+        <ReportButton startupId={startup.id} />
+      </div>
 
       <div className="card-soft mt-10 max-w-2xl divide-y divide-line/40 p-2 sm:p-3">
         <dl>

@@ -19,6 +19,9 @@ export default async function HomePage() {
   const t = await getTranslations('Domains');
   const browseT = await getTranslations('Browse');
   const goodT = await getTranslations('GoodFirst');
+  const mapT = await getTranslations('Map');
+  const dataT = await getTranslations('Data');
+  const digestT = await getTranslations('Digest');
   const locale = (await getLocale()) as Locale;
   const [recent, counts, stats, easy] = await Promise.all([
     getRecentStartups(4, locale),
@@ -104,6 +107,25 @@ export default async function HomePage() {
             </Reveal>
           </div>
         )}
+      </section>
+
+      <section className="mx-auto max-w-6xl px-4 pb-20 sm:px-6">
+        <div className="grid gap-3 sm:grid-cols-3">
+          {[
+            { href: '/map', title: mapT('title'), text: mapT('subtitle') },
+            { href: '/data', title: dataT('title'), text: dataT('subtitle') },
+            { href: '/digest', title: digestT('title'), text: digestT('subtitle') }
+          ].map((card) => (
+            <Link
+              key={card.href}
+              href={card.href}
+              className="ring-focus rounded-2xl border border-line/50 bg-paper/60 p-4 transition-colors hover:border-signal/40"
+            >
+              <span className="block text-sm font-medium text-ink">{card.title}</span>
+              <span className="mt-1 line-clamp-2 block text-xs leading-5 text-ink/55">{card.text}</span>
+            </Link>
+          ))}
+        </div>
       </section>
     </>
   );

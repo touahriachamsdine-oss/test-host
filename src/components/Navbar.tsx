@@ -37,6 +37,8 @@ export function Navbar() {
       label: t('collaborate'),
       active: pathname.startsWith('/collaborate')
     },
+    { href: '/map' as const, label: t('map'), active: pathname.startsWith('/map') },
+    { href: '/data' as const, label: t('data'), active: pathname.startsWith('/data') },
     { href: '/saved' as const, label: t('saved'), active: pathname.startsWith('/saved') }
   ];
 
@@ -46,12 +48,14 @@ export function Navbar() {
   const authControl =
     status === 'loading' ? null : status === 'authenticated' ? (
       <div className="flex items-center gap-2">
-        <span
+        <Link
+          href="/profile"
+          aria-label={t('profile')}
           title={name}
-          className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-signal bg-signal/10 text-sm font-semibold text-signal"
+          className="ring-focus flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-signal bg-signal/10 text-sm font-semibold text-signal"
         >
           {initial}
-        </span>
+        </Link>
         <button
           type="button"
           onClick={() => signOut({ callbackUrl: '/' })}

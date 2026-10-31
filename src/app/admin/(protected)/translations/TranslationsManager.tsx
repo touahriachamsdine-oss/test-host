@@ -22,26 +22,34 @@ export function TranslationsManager({
   startups,
   translations,
   locale,
-  messages
+  messages,
+  initialFilter
 }: {
   startups: AdminStartup[];
   translations: AdminTranslation[];
   locale: Locale;
   messages: AdminMessages;
+  initialFilter?: string;
 }) {
   return (
     <NextIntlClientProvider locale={locale} messages={messages} timeZone="Africa/Algiers">
-      <TranslationsManagerInner startups={startups} translations={translations} />
+      <TranslationsManagerInner
+        startups={startups}
+        translations={translations}
+        initialFilter={initialFilter}
+      />
     </NextIntlClientProvider>
   );
 }
 
 function TranslationsManagerInner({
   startups,
-  translations
+  translations,
+  initialFilter
 }: {
   startups: AdminStartup[];
   translations: AdminTranslation[];
+  initialFilter?: string;
 }) {
   const t = useTranslations('Admin');
   const [map, setMap] = useState<Record<string, AdminTranslation>>(() => buildMap(translations));
@@ -58,7 +66,7 @@ function TranslationsManagerInner({
   const [error, setError] = useState<string | null>(null);
   const [success, setSuccess] = useState<string | null>(null);
   const [confirmDelete, setConfirmDelete] = useState(false);
-  const [filter, setFilter] = useState('');
+  const [filter, setFilter] = useState(initialFilter ?? '');
 
   const localeName = (loc: TRL) =>
     loc === 'fr' ? t('translations.french') : t('translations.arabic');

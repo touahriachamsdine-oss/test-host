@@ -7,10 +7,15 @@ import { TranslationsManager } from './TranslationsManager';
 
 export const dynamic = 'force-dynamic';
 
-export default async function AdminTranslationsPage() {
+export default async function AdminTranslationsPage({
+  searchParams
+}: {
+  searchParams: Promise<{ q?: string }>;
+}) {
   const session = await auth();
   if (!session?.user) redirect('/admin/login');
   if (session.user.role === 'team') redirect('/admin/submit');
+  const { q } = await searchParams;
 
   const [startups, translations, locale, messages] = await Promise.all([
     listStartupsForAdmin(),
@@ -29,6 +34,7 @@ export default async function AdminTranslationsPage() {
       translations={translations}
       locale={locale}
       messages={messages}
+      initialFilter={q}
     />
   );
 }

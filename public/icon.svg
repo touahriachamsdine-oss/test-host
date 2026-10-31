@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Startup Ideas DZ">
+  <rect width="512" height="512" rx="112" fill="#1f6f5c"/>
+  <path d="M256 96c-70 0-126 55-126 124 0 44 23 82 58 104v40c0 12 10 22 22 22h92c12 0 22-10 22-22v-40c35-22 58-60 58-104 0-69-56-124-126-124z" fill="#f7f4ec"/>
+  <path d="M206 414h100v18c0 12-10 22-22 22h-56c-12 0-22-10-22-22v-18z" fill="#e0b25c"/>
+  <path d="M256 150v150M196 226h120" stroke="#1f6f5c" stroke-width="22" stroke-linecap="round"/>
+</svg>

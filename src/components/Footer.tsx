@@ -27,6 +27,15 @@ export async function Footer() {
           <Link href="/collaborate" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
             {nav('collaborate')}
           </Link>
+          <Link href="/map" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
+            {nav('map')}
+          </Link>
+          <Link href="/data" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
+            {nav('data')}
+          </Link>
+          <Link href="/digest" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
+            {nav('digest')}
+          </Link>
           <Link href="/units" className="w-fit rounded-[2px] text-ink/60 underline underline-offset-2 ring-focus transition-colors duration-[var(--dur-fast)] ease-[var(--ease-standard)] hover:text-ink">
             {nav('units')}
           </Link>
